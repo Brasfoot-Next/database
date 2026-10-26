@@ -1,0 +1,13 @@
+name = "Al Ittihad"
+country = "KSA"
+level = 19
+reputation = 4
+colors = ["#F0E000", "#101000"]
+
+[stadium]
+name = "King Abdullah Sports City"
+capacity = 62345
+
+[coach]
+name = "Moussa Fernandes"
+country = "BRA"

@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jonathan Clauss,FW,R,33,FRA,7,false,false,false,pace,crossing
+Morgan Sanson,MF,R,32,FRA,7,true,false,false,stamina,playmaking
+Hicham Boudaoui,MF,R,26,ALG,10,true,false,false,stamina,passing
+Charles Vanhoutte,MF,L,27,BEL,5,true,false,false,stamina,passing
+Ali Abdi,FB,L,32,TUN,6,true,false,false,stamina,pace
+Tanguy Ndombele,MF,R,29,FRA,7,false,false,false,dribbling,playmaking
+Melvin Bard,FW,L,25,FRA,1,true,false,false,stamina,tackling
+Youssouf Ndayishimiye,CB,R,27,FRA,5,false,false,false,stamina,tackling
+Sofiane Diop,FW,L,26,MAR,6,true,false,false,dribbling,playmaking
+Jeremie Boga,FW,L,29,CIV,7,false,false,false,dribbling,pace
+Tom Louchet,FW,R,23,FRA,8,false,false,false,passing,dribbling
+Tiago Gouveia,FW,R,25,POR,5,false,false,false,pace,dribbling
+Dante,CB,L,42,BRA,6,false,false,false,marking,passing
+Isak Jansson,FW,L,24,SWE,7,false,false,false,stamina,pace
+Salis Abdul Samed,MF,R,26,GHA,9,true,false,false,stamina,tackling
+Moise Bombito,CB,R,26,CAN,5,false,false,false,pace,tackling
+Mohamed Abdelmonem,CB,R,27,EGY,6,false,false,false,heading,tackling
+Mohamed Ali Cho,FW,L,22,FRA,7,true,false,false,dribbling,pace
+Terem Moffi,FW,L,27,NGA,9,false,false,false,pace,dribbling
+Kevin Carlos,FW,R,25,ESP,5,false,false,false,heading,finishing
+Antoine Mendy,CB,R,22,SEN,7,true,false,false,tackling,marking
+Gabin Bernardeau,MF,L,20,FRA,4,false,false,false,dribbling,passing
+Abdulai Juma Bah,CB,R,20,SLE,6,false,false,false,tackling,pace
+Bernard Nguene,FW,R,20,CMR,6,false,false,false,pace,dribbling
+Kojo Peprah Oppong,CB,R,22,GHA,8,true,false,false,pace,tackling
+Yehvann Diouf,GK,R,26,SEN,4,true,false,false,reflexes,penalty-saving
+Maxime Dupe,GK,R,33,FRA,6,false,false,false,penalty-saving,reflexes
+Bartosz Zelazowski,GK,R,21,POL,6,false,false,false,penalty-saving,positioning

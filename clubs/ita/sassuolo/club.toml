@@ -1,0 +1,13 @@
+name = "Sassuolo"
+country = "ITA"
+level = 16
+reputation = 3
+colors = ["#101010", "#00A050"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Nicholas Idzes"
+country = "BRA"

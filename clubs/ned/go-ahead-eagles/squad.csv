@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Melle Meulensteen,MF,R,27,NED,5,true,false,false,stamina,heading
+Mats Deijl,FB,R,29,NED,6,true,false,false,stamina,marking
+Dean James,FB,L,26,IDN,7,true,false,false,pace,stamina
+Kenzo Goudmijn,MF,R,24,NED,3,false,false,false,pace,passing
+Evert Linthorst,MF,L,26,NED,5,true,false,false,stamina,passing
+Victor Edvardsen,FW,R,30,SWE,6,false,false,false,pace,stamina
+Jakob Breum,MF,R,22,DEN,7,true,false,false,stamina,dribbling
+Calvin Twigt,MF,R,23,NED,3,true,false,false,stamina,crossing
+Oscar Pettersson,FW,R,26,SWE,5,false,false,false,pace,stamina
+Mathis Suray,FW,L,25,BEL,6,true,false,false,stamina,passing
+Richonell Margaret,FW,R,26,SUR,3,false,false,false,pace,stamina
+Soren Tengstedt,MF,L,26,DEN,5,false,false,false,dribbling,finishing
+Milan Smit,FW,R,23,NED,6,true,false,false,stamina,pace
+Thibo Baeten,FW,L,24,BEL,7,false,false,false,pace,stamina
+Joris Kramer,CB,L,30,NED,4,true,false,false,marking,pace
+Robbin Weijenberg,MF,R,21,NED,5,false,false,false,pace,passing
+Xander Blomme,MF,R,24,BEL,6,false,false,false,stamina,passing
+Aske Adelgaard,FB,L,22,DEN,3,false,false,false,stamina,pace
+Finn Stokkers,FW,R,30,NED,5,false,false,false,pace,stamina
+Oskar Sivertsen,FW,L,22,NOR,6,false,false,false,pace,crossing
+Pim Saathof,CB,R,22,NED,2,false,false,false,tackling,dribbling
+Gerrit Nauber,CB,R,34,GER,5,false,false,false,tackling,marking
+Yassir Rahmouni,MF,R,20,NED,6,false,false,false,dribbling,passing
+Ofosu Boakye,FW,R,19,GHA,7,false,false,false,pace,dribbling
+Julius Dirksen,FB,L,23,NED,2,false,false,false,pace,tackling
+Giovanni Van Zwam,CB,R,22,NED,5,true,false,false,pace,tackling
+Luca Plogmann,GK,L,26,GER,6,false,false,false,reflexes,penalty-saving
+Jari De Busser,GK,R,26,BEL,7,true,false,false,reflexes,penalty-saving
+Sven Jansen,GK,R,21,NED,5,false,false,false,penalty-saving,reflexes
+Nando Verdoni,GK,R,23,NED,6,false,false,false,reflexes,penalty-saving

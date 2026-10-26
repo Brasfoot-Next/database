@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Samuel Aspajo,GK,R,21,VEN,4,true,false,false,rushing-out,positioning
+Jonathan Medina,GK,R,33,PER,5,false,false,false,reflexes,positioning
+Yordi Vílchez,CB,R,31,PER,6,true,false,false,marking,stamina
+Alejandro Pósito,CB,R,21,PER,8,false,false,false,heading,marking
+Hairo Timaná,CB,R,26,PER,4,true,false,false,heading,stamina
+José Soto,FB,L,24,PER,5,false,false,false,marking,pace
+Arthur Gutiérrez,FB,R,25,PER,6,true,false,false,crossing,pace
+Carlos Gómez,FB,R,21,PER,9,false,false,false,pace,stamina
+José Gallardo,FB,R,25,PER,4,true,false,false,stamina,pace
+Renato Suárez,FB,L,22,PER,5,false,false,false,marking,crossing
+Jhan Vega,FB,R,24,PER,6,false,false,false,tackling,stamina
+Jefferson Orejuela,MF,R,33,ECU,7,false,false,false,passing,stamina
+Tomás Andrade,MF,R,29,ARG,7,true,false,false,marking,passing
+Mauricio Arrasco,MF,L,22,PER,4,true,false,false,stamina,passing
+Valentino Sandoval,MF,L,22,PER,5,true,false,false,playmaking,passing
+Patrick Alegría,MF,R,22,PER,6,true,false,false,passing,tackling
+Brandon Palacios,FW,L,28,PER,7,true,false,false,heading,finishing
+Jonathan Betancourt,FW,R,31,ECU,4,false,false,false,playmaking,finishing
+Fernando Ocas,FW,R,25,PER,5,true,false,false,finishing,heading
+Sebastián Enciso,FW,R,23,PER,6,false,false,false,pace,finishing
+Carlos Meza,FW,L,23,PER,2,false,false,false,pace,finishing
+Sebastien Pineau,FW,R,23,PER,5,false,false,false,dribbling,pace

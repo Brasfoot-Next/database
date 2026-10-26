@@ -1,0 +1,13 @@
+name = "Shamrock Rovers"
+country = "IRL"
+level = 7
+reputation = 1
+colors = ["#F0F0F0", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Gary Clarke"
+country = "BRA"

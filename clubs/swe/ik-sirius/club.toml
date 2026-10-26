@@ -1,0 +1,13 @@
+name = "IK Sirius"
+country = "SWE"
+level = 9
+reputation = 2
+colors = ["#1050A0", "#FFFFFF"]
+
+[stadium]
+name = "Studenternas"
+capacity = 11167
+
+[coach]
+name = "Finlay Svensson"
+country = "BRA"

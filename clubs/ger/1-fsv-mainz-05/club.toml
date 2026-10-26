@@ -1,0 +1,13 @@
+name = "1. FSV Mainz 05"
+country = "GER"
+level = 18
+reputation = 4
+colors = ["#F0F0F0", "#C01010"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Danny Leitsch"
+country = "BRA"

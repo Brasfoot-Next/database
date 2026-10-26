@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Chris Kevin Nadje,MF,R,25,CIV,5,false,false,false,pace,passing
+Mathijs Tielemans,MF,R,24,NED,6,false,false,false,stamina,passing
+Noah Naujoks,MF,L,24,NED,7,true,false,false,stamina,pace
+Arthur Zagre,FB,L,24,FRA,3,true,false,false,pace,dribbling
+Stefan Mitrovic,FW,L,24,SRB,5,false,false,false,pace,dribbling
+Simon Janssen,FB,L,25,NED,6,false,false,false,stamina,pace
+Lennard Hartjes,MF,R,23,NED,7,true,false,false,pace,playmaking
+Zach Booth,FW,R,22,USA,3,false,false,false,pace,dribbling
+Derensili Sanches Fernandes,FW,L,25,NED,5,true,false,false,pace,dribbling
+Mike Van Duinen,FW,R,34,NED,6,false,false,false,heading,finishing
+Gyan De Regt,FW,L,23,NED,7,true,false,false,pace,stamina
+Ilias Bronkhorst,FB,R,29,NED,3,true,false,false,stamina,pace
+Adam Carlen,MF,R,26,SWE,5,true,false,false,stamina,dribbling
+Lewis Schouten,CB,R,22,NED,6,false,false,false,pace,passing
+Szymon Wlodarczyk,FW,R,23,POL,7,false,false,false,stamina,pace
+Irakli Yegoian,MF,R,22,GEO,3,true,false,false,pace,dribbling
+Yoon Do Young,FW,L,19,KOR,5,false,false,false,pace,dribbling
+Stijn Middendorp,MF,R,21,NED,5,false,false,false,passing,pace
+Rayvien Rosario,FW,L,22,CUW,6,false,false,false,pace,dribbling
+Casper Widell,CB,R,23,SWE,8,true,false,false,heading,marking
+Jerolldino Bergraaf,FW,L,20,NED,7,false,false,false,pace,heading
+Nesto Groen,FW,R,22,NED,1,false,false,false,heading,pace
+Stan Henderikx,CB,L,23,NED,5,false,false,false,tackling,heading
+Nolan Martens,FB,R,22,BEL,6,false,false,false,pace,tackling
+Rick Meissen,CB,R,24,NED,7,true,false,false,pace,heading
+Giuliano Cairo,CB,R,20,NED,2,false,false,false,tackling,pace
+Calvin Raatsie,GK,R,24,NED,5,false,false,false,rushing-out,reflexes
+Stijn Van Gassel,GK,L,29,NED,6,true,false,false,reflexes,penalty-saving
+Tijmen Holla,GK,R,20,NED,6,false,false,false,rushing-out,reflexes

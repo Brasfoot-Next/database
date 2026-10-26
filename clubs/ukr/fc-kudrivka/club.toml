@@ -1,0 +1,13 @@
+name = "FC Kudrivka"
+country = "UKR"
+level = 10
+reputation = 2
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Reynaldiño Demchenko"
+country = "BRA"

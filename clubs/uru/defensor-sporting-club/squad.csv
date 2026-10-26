@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lucas Machado,GK,R,28,URU,9,true,false,false,positioning,reflexes
+Kevin Dawson,GK,R,34,URU,5,false,false,false,reflexes,positioning
+Bruno Simone,GK,L,22,URU,6,false,false,false,penalty-saving,reflexes
+Mateo Caballero,CB,R,18,URU,7,false,false,false,tackling,marking
+Francisco Sorondo,CB,R,17,URU,4,false,false,false,heading,stamina
+Geanfranco Rodríguez,CB,R,19,URU,5,true,false,false,tackling,heading
+Guillermo de los Santos,CB,R,35,URU,6,true,false,false,tackling,heading
+Daniel Martínez,CB,R,19,URU,7,false,false,false,marking,stamina
+Axel Frugone,FB,L,21,URU,4,true,false,false,tackling,pace
+Valentín Rodríguez,FB,R,25,URU,5,true,false,false,tackling,pace
+Lucas Paul de los Santos,MF,R,24,URU,4,true,false,false,tackling,marking
+Mauricio Amaro,MF,L,20,URU,5,false,false,false,playmaking,finishing
+Germán Barrios,MF,R,22,URU,6,true,false,false,passing,tackling
+Nicolás Wunsch,MF,R,23,URU,8,true,false,false,pace,dribbling
+Martín Rabuñal,MF,R,32,URU,4,true,false,false,stamina,tackling
+Juan Manuel Jorge,MF,R,22,URU,5,false,false,false,passing,tackling
+Erico Cuello,MF,R,21,URU,6,false,false,false,pace,dribbling
+Xavier Biscayzacú,MF,R,21,MEX,8,false,false,false,playmaking,passing
+Kevin Altez,MF,R,21,URU,5,false,false,false,marking,passing
+Brian Lozano,FW,R,32,URU,6,false,false,false,finishing,heading
+Lucas Agazzi,FW,R,21,URU,5,false,false,false,playmaking,finishing
+Alex Perdomo,FW,L,24,URU,5,true,false,false,pace,dribbling
+Alan Torterolo,FW,L,18,URU,6,false,false,false,finishing,heading
+Facundo Castro,FW,R,31,URU,7,false,false,false,stamina,pace
+Nicolás Medina,FW,R,23,ARG,3,false,false,false,pace,dribbling
+Santino Bruschi,FW,R,20,URU,5,false,false,false,playmaking,finishing
+Alexander Machado,FW,R,24,URU,6,false,false,false,pace,finishing
+Brian Montenegro,FW,R,33,PAR,7,false,false,false,heading,pace
+Lautaro Navarro,FW,R,18,URU,4,false,false,false,heading,finishing
+Juan Pablo Goicochea,FW,R,21,PER,5,true,false,false,stamina,finishing

@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Bryn Morris,MF,R,30,ENG,5,true,false,false,stamina,pace
+Mason Bennett,FW,R,30,ENG,6,false,false,false,pace,crossing
+Ben Fox,MF,R,28,ENG,9,true,false,false,stamina,pace
+George Thomson,FW,R,34,ENG,4,false,false,false,stamina,pace
+Ellis Taylor,FW,L,23,ENG,5,false,false,false,stamina,pace
+Levi Sutton,MF,R,29,ENG,6,true,false,false,pace,stamina
+Stephen Duke Mckenna,FW,L,26,GUY,1,true,false,false,pace,passing
+Anthony Oconnor,CB,R,33,IRL,4,false,false,false,stamina,heading
+Warren Burrell,FB,L,36,ENG,5,false,false,false,stamina,pace
+Conor Mcaleny,FW,L,34,ENG,6,false,false,false,pace,dribbling
+Jack Muldoon,FW,R,37,ENG,5,false,false,false,stamina,pace
+Jack Evans,MF,L,26,ENG,6,true,false,false,stamina,pace
+Tom Hill,MF,R,23,WAL,7,false,false,false,pace,stamina
+Reece Smith,MF,R,24,ENG,4,false,false,false,pace,stamina
+Liam Gibson,CB,L,29,ENG,5,true,false,false,stamina,pace
+Lewis Cass,FB,R,26,ENG,6,true,false,false,pace,stamina
+Tom Bradbury,CB,L,28,ENG,7,true,false,false,stamina,pace
+Jacob Slater,FB,L,21,IRL,4,true,false,false,pace,crossing
+Zico Asare,FB,R,25,ENG,5,false,false,false,pace,stamina
+Shawn Mccoulsky,FW,R,29,ENG,6,true,false,false,pace,stamina
+Tom Cursons,FW,L,24,ENG,5,false,false,false,pace,stamina
+Lucas Barnes,MF,R,19,ENG,6,false,false,false,pace,stamina
+Bobby Faulkner,CB,R,22,ENG,7,false,false,false,pace,heading
+Marcus Etherington,CB,R,19,ENG,3,false,false,false,pace,marking
+Mark Oxley,GK,R,35,ENG,5,true,false,false,positioning,reflexes
+James Belshaw,GK,R,35,ENG,6,false,false,false,reflexes,positioning

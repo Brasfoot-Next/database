@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+David Turnbull,MF,L,27,SCO,5,true,false,false,passing,playmaking
+Perry Ng,FB,R,30,ENG,7,false,false,false,stamina,tackling
+Alex Robertson,MF,R,23,AUS,9,false,false,false,passing,dribbling
+Ryan Wintle,MF,R,29,ENG,4,false,false,false,stamina,passing
+Calum Chambers,CB,R,31,ENG,6,false,false,false,tackling,marking
+Ollie Tanner,FW,L,24,ENG,7,false,false,false,pace,dribbling
+Callum Robinson,FW,R,31,IRL,1,false,false,false,pace,dribbling
+Chris Willock,FW,L,28,ENG,5,false,false,false,pace,dribbling
+Rubin Colwill,MF,R,24,WAL,5,true,false,false,passing,dribbling
+Eli King,MF,R,23,WAL,6,false,false,false,stamina,passing
+Gabriel Osho,CB,R,28,NGA,4,true,false,false,tackling,marking
+Joel Colwill,MF,R,21,WAL,6,true,false,false,pace,dribbling
+Isaak Davies,FW,R,24,WAL,7,true,false,false,pace,finishing
+Omari Kellyman,MF,L,20,ENG,10,true,false,false,dribbling,pace
+Cian Ashford,FW,R,21,WAL,5,false,false,false,pace,dribbling
+Joel Bagan,FB,L,25,IRL,6,true,false,false,pace,stamina
+Will Fish,CB,R,23,ENG,7,false,false,false,stamina,heading
+Ronan Kpakio,FB,R,19,WAL,1,true,false,false,pace,crossing
+Dakarai Mafico,MF,L,19,WAL,5,false,false,false,pace,passing
+Yousef Salech,FW,R,24,DEN,5,true,false,false,finishing,stamina
+Tanatswa Nyakuhwa,FW,R,20,WAL,4,false,false,false,pace,dribbling
+Dylan Lawlor,CB,L,20,WAL,5,true,false,false,heading,tackling
+Jak Alnwick,GK,L,33,ENG,6,false,false,false,positioning,reflexes
+Nathan Trott,GK,L,27,ENG,7,true,false,false,reflexes,penalty-saving
+Matthew Turner,GK,R,23,WAL,4,false,false,false,reflexes,penalty-saving

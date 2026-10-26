@@ -1,0 +1,36 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mohamed Ferni,GK,R,26,MAR,2,true,false,false,rushing-out,reflexes
+Marouane Fakhr,GK,L,37,MAR,5,false,false,false,positioning,penalty-saving
+James Ajako,CB,R,23,NGA,6,false,false,false,marking,tackling
+Bilal Soufi,CB,R,27,MAR,7,true,false,false,heading,marking
+Reda Ait Boughima,CB,R,25,MAR,3,false,false,false,tackling,heading
+Salaheddine Bahi,CB,R,31,MAR,5,false,false,false,stamina,heading
+Mohamed Abdouramane,CB,R,24,MAR,6,false,false,false,heading,passing
+Youssef Aoujdal,CB,L,24,MAR,6,false,false,false,marking,heading
+Soufiane Chakerni,CB,R,26,MAR,7,true,false,false,marking,stamina
+Ousmane Diallo,FB,L,26,MLI,4,true,false,false,passing,crossing
+Amine Balich,FB,R,23,MAR,5,false,false,false,passing,crossing
+Abdessamad Badaoui,FB,L,26,MAR,6,true,false,false,tackling,pace
+Zouheir El Hachemi,FB,R,28,MAR,7,false,false,false,marking,crossing
+Ayoub Tine,FB,L,34,MAR,2,false,false,false,crossing,passing
+Ishak Zidani,MF,L,25,MAR,5,true,false,false,stamina,passing
+Mohamed Naoufal Tahiri,MF,L,22,MAR,6,false,false,false,dribbling,passing
+Abdellatif El Bajjani,MF,R,31,MAR,7,false,false,false,tackling,passing
+Anass El Ghannouj,MF,R,29,MAR,3,false,false,false,stamina,tackling
+Moustapha Chichane,MF,L,34,MAR,5,false,false,false,dribbling,pace
+Mohamed Radouani,MF,L,36,MAR,6,false,false,false,dribbling,pace
+Aboubacar Camara,MF,L,25,GUI,5,true,false,false,finishing,playmaking
+Ayoub Joulale,MF,R,28,MAR,6,true,false,false,pace,crossing
+Mohsine Moutaouali,MF,R,27,MAR,9,true,false,false,dribbling,playmaking
+Mohammad El Fakih,MF,R,36,MAR,5,false,false,false,tackling,passing
+Ismail Gourad,FW,R,25,MAR,6,true,false,false,pace,dribbling
+Ismail Zeroual,FW,R,26,MAR,7,true,false,false,pace,crossing
+Montassir Lahtimi,FW,L,25,MAR,1,false,false,false,heading,finishing
+Mohamed Kamal,FW,R,30,MAR,5,false,false,false,pace,finishing
+Marouane Oujeddou,FW,R,22,MAR,6,false,false,false,heading,pace
+Abdellah Farah,FW,R,25,MAR,7,false,false,false,dribbling,finishing
+Issam Jaafra,FW,R,25,MAR,5,false,false,false,finishing,dribbling
+Zakaria Bahrou,FW,R,29,MAR,6,false,false,false,dribbling,playmaking
+Abdelaziz El Hamzaoui,FW,R,34,MAR,7,false,false,false,heading,pace
+Salim Akaaba,FW,L,25,MAR,4,false,false,false,finishing,dribbling
+Jawad Essaghir,FW,R,21,MAR,5,false,false,false,finishing,pace

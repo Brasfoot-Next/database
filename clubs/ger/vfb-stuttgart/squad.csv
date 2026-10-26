@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Maximilian Mittelstadt,FB,L,29,GER,5,true,false,false,crossing,stamina
+Angelo Stiller,MF,L,25,GER,6,true,false,false,passing,playmaking
+Deniz Undav,FW,R,30,GER,7,false,false,false,finishing,playmaking
+Ermedin Demirovic,FW,R,28,BIH,9,true,false,false,finishing,stamina
+Josha Vagnoman,FB,R,25,GER,5,true,false,false,pace,stamina
+Chris Fuhrich,FW,L,28,GER,6,false,false,false,dribbling,pace
+Tiago Tomás,FW,L,24,POR,7,false,false,false,pace,dribbling
+Silas,FW,R,27,COD,9,false,false,false,pace,dribbling
+Lorenz Assignon,FB,R,26,FRA,5,false,false,false,pace,stamina
+Jamie Leweling,FW,L,25,GER,6,true,false,false,pace,dribbling
+Pascal Stenzel,FB,R,30,GER,7,false,false,false,passing,tackling
+Bilal El Khannouss,MF,R,22,MAR,8,true,false,false,dribbling,playmaking
+Badredine Bouanani,FW,L,21,ALG,5,false,false,false,dribbling,playmaking
+Yannik Keitel,MF,R,26,GER,5,false,false,false,heading,tackling
+Nikolas Nartey,MF,L,26,DEN,6,true,false,false,dribbling,passing
+Leonidas Stergiou,CB,R,24,SUI,7,false,false,false,pace,stamina
+Finn Jeltsch,CB,R,20,GER,9,true,false,false,tackling,pace
+Atakan Karazor,MF,R,29,TUR,5,false,false,false,stamina,tackling
+Ramon Hendriks,CB,L,25,NED,6,true,false,false,pace,tackling
+Luca Jaquez,CB,R,23,SUI,7,false,false,false,tackling,pace
+Justin Diehl,FW,L,21,GER,5,false,false,false,pace,dribbling
+Chema Andrés,MF,R,21,ESP,6,true,false,false,passing,heading
+Dan Axel Zagadou,CB,L,27,FRA,7,false,false,false,heading,tackling
+Ameen Al Dakhil,CB,R,24,BEL,9,false,false,false,tackling,heading
+Mirza Catovic,MF,R,19,SRB,6,false,false,false,passing,playmaking
+Noah Darvich,MF,L,19,GER,7,false,false,false,pace,dribbling
+Julian Chabot,CB,L,28,GER,8,false,false,false,marking,tackling
+Lazar Jovanovic,FW,L,19,SRB,5,false,false,false,pace,dribbling
+Alexander Nubel,GK,R,29,GER,6,true,false,false,reflexes,penalty-saving
+Fabian Bredlow,GK,L,31,GER,7,false,false,false,reflexes,penalty-saving
+Stefan Drljaca,GK,R,27,GER,4,false,false,false,reflexes,penalty-saving
+Florian Hellstern,GK,R,18,GER,6,false,false,false,reflexes,penalty-saving

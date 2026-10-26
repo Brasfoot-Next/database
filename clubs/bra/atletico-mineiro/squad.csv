@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Everson,GK,L,35,BRA,6,false,false,false,reflexes,rushing-out
+Pedro Cobra,GK,L,20,BRA,7,false,false,false,rushing-out,reflexes
+Gabriel Delfim,GK,R,24,BRA,2,false,false,false,positioning,rushing-out
+Robert,GK,L,21,BRA,6,true,false,false,reflexes,penalty-saving
+Lyanco,CB,R,29,BRA,6,true,false,false,marking,heading
+Ruan,CB,R,27,BRA,7,false,false,false,heading,marking
+Léo Duarte,CB,R,30,BRA,4,false,false,false,tackling,marking
+Iván Román,CB,R,20,CHI,5,false,false,false,heading,marking
+Vitor Hugo,CB,R,35,BRA,6,false,false,false,marking,passing
+Rômulo,CB,R,24,BRA,7,false,false,false,pace,heading
+Vitão,CB,R,18,BRA,5,true,false,false,heading,passing
+Renan Lodi,FB,L,28,BRA,6,true,false,false,crossing,stamina
+Kauã Pascini,FB,L,18,BRA,7,false,false,false,tackling,pace
+Natanael,FB,L,24,BRA,8,true,false,false,marking,crossing
+Angelo Preciado,FB,R,28,ECU,5,false,false,false,pace,stamina
+Alexsander,MF,R,22,BRA,6,true,false,false,marking,passing
+Tomás Pérez,MF,R,21,ARG,7,false,false,false,tackling,pace
+Patrick,MF,R,22,BRA,9,false,false,false,tackling,marking
+Victor Hugo,MF,R,21,BRA,5,true,false,false,pace,dribbling
+Alan Franco,MF,L,27,ECU,6,true,false,false,passing,finishing
+Maycon,MF,L,29,BRA,2,false,false,false,playmaking,finishing
+Mamady Cissé,MF,R,19,GUI,6,false,false,false,dribbling,playmaking
+Índio,MF,L,18,BRA,6,false,false,false,dribbling,passing
+Gustavo Scarpa,MF,R,32,BRA,8,true,false,false,passing,tackling
+Igor Gomes,MF,R,27,BRA,4,false,false,false,passing,tackling
+Reinier,MF,R,24,BRA,6,false,false,false,stamina,tackling
+Tomás Cuello,FW,R,26,ARG,6,true,false,false,dribbling,pace
+Dudu,FW,R,34,BRA,8,false,false,false,pace,crossing
+Bernard,FW,R,33,BRA,4,false,false,false,heading,pace
+Alan Minda,FW,L,23,ECU,6,false,false,false,pace,dribbling
+Cauã Soares,FW,R,18,BRA,9,false,false,false,finishing,dribbling
+Mateo Cassierra,FW,L,29,COL,5,true,false,false,finishing,pace

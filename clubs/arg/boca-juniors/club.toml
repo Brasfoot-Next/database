@@ -1,0 +1,14 @@
+name = "Boca Juniors"
+country = "ARG"
+level = 17
+reputation = 3
+colors = ["#104070", "#FFFFFF"]
+rivals = ["arg/river-plate"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Williams Miramon"
+country = "BRA"

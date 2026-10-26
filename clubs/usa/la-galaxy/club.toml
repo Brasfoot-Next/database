@@ -1,0 +1,13 @@
+name = "LA Galaxy"
+country = "USA"
+level = 14
+reputation = 3
+colors = ["#102040", "#F0C000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Gino Yamane"
+country = "BRA"

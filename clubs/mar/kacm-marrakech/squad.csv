@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mohamed Jemjami,GK,R,27,MAR,7,true,false,false,reflexes,rushing-out
+Mohamed Baayou,GK,L,33,MAR,1,false,false,false,positioning,rushing-out
+Naoufal Ait Oubna,GK,R,25,MAR,5,false,false,false,positioning,rushing-out
+Anass Rachak,GK,R,19,MAR,6,false,false,false,positioning,rushing-out
+Johnstone Omurwa,CB,L,27,KEN,7,true,false,false,tackling,stamina
+Redouane Mennioui,CB,L,26,MAR,2,false,false,false,passing,marking
+Jad Assouab,CB,R,31,MAR,5,false,false,false,tackling,stamina
+Hamza Smaali,CB,R,27,MAR,6,true,false,false,marking,heading
+Mohamed Adam Benhita,CB,R,20,MAR,6,false,false,false,stamina,heading
+Akram El Hamdaoui,CB,R,31,MAR,7,false,false,false,tackling,heading
+Ismail El Alami,CB,R,26,MAR,5,false,false,false,tackling,heading
+Massoudi Salifou,CB,R,22,MAR,6,false,false,false,heading,marking
+Mohamed Welé,CB,R,23,SEN,7,false,false,false,marking,passing
+Mohamed Elabdi,FB,L,28,MAR,3,true,false,false,dribbling,pace
+Soulaimane Anrar,FB,L,22,MAR,5,false,false,false,crossing,pace
+Mohammed Battah,FB,L,24,MAR,6,false,false,false,crossing,passing
+Jawad Khalouk,FB,R,28,MAR,7,false,false,false,marking,pace
+Nadir Lougmani,FB,L,23,MAR,4,false,false,false,tackling,stamina
+Hamza Fassoukh,FB,R,27,MAR,5,true,false,false,tackling,stamina
+Claude Gnolou,MF,R,23,MAR,6,false,false,false,playmaking,dribbling
+Habib Allah Dahmani,MF,R,32,MAR,6,false,false,false,passing,finishing
+Youssef Raiani,MF,R,28,MAR,7,true,false,false,marking,passing
+Abdellah Haimoud,MF,L,25,MAR,2,true,false,false,passing,tackling
+Oussama Mahrous,MF,R,31,MAR,5,false,false,false,finishing,playmaking
+Khalil Tamrani,MF,L,25,MAR,6,true,false,false,passing,finishing
+Mahmoud El Kayssoumi,MF,L,24,MAR,7,true,false,false,stamina,tackling
+Saleh Essallami,FW,R,29,MAR,2,false,false,false,dribbling,pace
+Oussama Haffari,FW,R,26,MAR,5,true,false,false,pace,crossing
+Hamza El Janati,FW,R,27,MAR,6,true,false,false,pace,crossing
+Jawad Ghabra,FW,R,31,MAR,7,false,false,false,heading,stamina
+Youssef Zghoudi,FW,L,33,MAR,5,false,false,false,pace,crossing
+Souleymane Cissé,FW,R,19,SEN,6,false,false,false,finishing,dribbling
+Hamza Founti,FW,R,26,MAR,7,false,false,false,pace,dribbling

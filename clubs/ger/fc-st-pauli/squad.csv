@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mathias Pereira Lage,FW,L,29,POR,7,false,false,false,pace,stamina
+Jackson Irvine,MF,R,33,AUS,5,false,false,false,stamina,heading
+Manolis Saliakas,FW,R,29,GRE,6,false,false,false,stamina,crossing
+Eric Smith,CB,R,29,SWE,7,true,false,false,marking,stamina
+Louis Oppie,FW,L,24,GER,7,false,false,false,stamina,pace
+Connor Metcalfe,MF,L,26,AUS,5,true,false,false,stamina,passing
+Dapo Afolayan,FW,R,28,ENG,6,false,false,false,dribbling,pace
+Joel Chima Fujita,MF,R,24,JPN,7,true,false,false,passing,stamina
+Martijn Kaars,FW,R,27,NED,8,true,false,false,stamina,pace
+Danel Sinani,MF,L,29,GER,5,true,false,false,passing,dribbling
+Arkadiusz Pyrka,FB,R,23,POL,4,true,false,false,pace,stamina
+Lars Ritzka,FB,L,28,GER,5,true,false,false,stamina,pace
+Karol Mets,CB,L,33,GER,6,false,false,false,stamina,pace
+Adam Dzwigala,CB,R,30,POL,7,false,false,false,stamina,tackling
+James Sands,MF,L,26,USA,8,true,false,false,stamina,passing
+Ricky Jade Jones,FW,R,23,ENG,5,false,false,false,pace,finishing
+Andreas Hountondji,FW,R,24,GER,6,true,false,false,pace,dribbling
+Fin Stevens,FB,R,23,WAL,7,false,false,false,crossing,marking
+Hauke Wahl,CB,L,32,GER,8,false,false,false,stamina,marking
+Erik Ahlstrand,FW,L,24,SWE,5,false,false,false,pace,playmaking
+David Nemeth,CB,R,25,AUT,7,true,false,false,tackling,marking
+Abdoulie Ceesay,FW,R,22,GAM,8,false,false,false,finishing,pace
+Jannik Robatsch,CB,L,21,AUT,5,false,false,false,heading,pace
+Nick Schmidt,MF,R,18,JPN,6,false,false,false,passing,pace
+Romeo Aigbekaen,FW,L,22,GER,6,false,false,false,pace,finishing
+Marwin Schmitz,MF,R,19,GER,7,false,false,false,passing,pace
+Nikola Vasilj,GK,R,30,BIH,1,true,false,false,reflexes,positioning
+Ben Voll,GK,R,25,GER,5,false,false,false,reflexes,penalty-saving
+Simon Spari,GK,R,24,AUT,6,false,false,false,reflexes,penalty-saving

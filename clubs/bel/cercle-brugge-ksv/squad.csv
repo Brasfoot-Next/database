@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Pieter Gerkens,FW,L,31,BEL,6,false,false,false,stamina,heading
+Hannes Van Der Bruggen,MF,L,33,BEL,7,true,false,false,stamina,playmaking
+Gary Magnee,FB,R,26,BEL,2,true,false,false,stamina,dribbling
+Alan Minda,FW,L,23,ECU,5,false,false,false,pace,dribbling
+Nils De Wilde,MF,R,23,BEL,6,true,false,false,pace,stamina
+Oumar Diakite,FW,R,22,CIV,7,true,false,false,pace,finishing
+Ibrahim Diakite,CB,R,22,GUI,3,false,false,false,pace,stamina
+Edan Diop,FW,L,22,FRA,5,false,false,false,dribbling,pace
+Bruninho,FW,L,23,BRA,6,false,false,false,dribbling,pace
+Erick,FW,R,22,BRA,7,false,false,false,passing,dribbling
+Beni Mpanzu,FB,L,22,BEL,7,false,false,false,pace,heading
+Lawrence Agyekum,FW,R,22,GHA,1,false,false,false,dribbling,pace
+Valy Konate,FB,L,19,CIV,5,false,false,false,stamina,pace
+Edgaras Utkus,CB,L,26,LTU,6,false,false,false,heading,marking
+Heriberto Jurado,FW,L,21,MEX,7,false,false,false,pace,stamina
+Nazinho,FB,L,23,POR,4,true,false,false,pace,crossing
+Oluwaseun Adewumi,MF,R,21,AUT,5,true,false,false,pace,dribbling
+Steve Ngoura,FW,R,21,FRA,6,true,false,false,heading,finishing
+Christiaan Ravych,CB,R,24,BEL,8,true,false,false,tackling,heading
+Emmanuel Kakou,CB,R,21,CIV,4,true,false,false,pace,marking
+Dalangunypole Gomis,CB,L,22,FRA,6,false,false,false,tackling,pace
+Abdoul Kader Ouattara,FW,R,21,BFA,7,false,false,false,pace,finishing
+Ibrahima Diaby,MF,R,19,FRA,4,true,false,false,passing,pace
+Xander Martle,FW,R,23,BEL,5,false,false,false,dribbling,passing
+Krys Kouassi,FW,L,19,FRA,6,false,false,false,pace,passing
+Alama Bayo,FW,R,20,BEL,7,false,false,false,dribbling,pace
+Warleson,GK,R,30,BRA,5,true,false,false,reflexes,penalty-saving
+Maxime Delanghe,GK,R,25,BEL,6,false,false,false,reflexes,positioning
+Bas Langenbick,GK,R,23,BEL,7,false,false,false,penalty-saving,reflexes

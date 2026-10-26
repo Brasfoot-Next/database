@@ -1,0 +1,13 @@
+name = "Adelaide United"
+country = "AUS"
+level = 9
+reputation = 2
+colors = ["#C0C0C0", "#000000"]
+
+[stadium]
+name = "Coopers Stadium"
+capacity = 16500
+
+[coach]
+name = "Fabian Smits"
+country = "BRA"

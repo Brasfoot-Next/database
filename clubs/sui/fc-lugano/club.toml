@@ -1,0 +1,13 @@
+name = "FC Lugano"
+country = "SUI"
+level = 13
+reputation = 3
+colors = ["#000000", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Hicham Marques"
+country = "BRA"

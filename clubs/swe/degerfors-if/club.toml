@@ -1,0 +1,13 @@
+name = "Degerfors IF"
+country = "SWE"
+level = 8
+reputation = 2
+colors = ["#C00000", "#FFFFFF"]
+
+[stadium]
+name = "Stora Valla"
+capacity = 5880
+
+[coach]
+name = "Richie Ohlsson"
+country = "BRA"

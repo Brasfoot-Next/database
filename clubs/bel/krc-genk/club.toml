@@ -1,0 +1,13 @@
+name = "KRC Genk"
+country = "BEL"
+level = 16
+reputation = 3
+colors = ["#F0F0F0", "#004090"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Jusef Nkuba"
+country = "BRA"

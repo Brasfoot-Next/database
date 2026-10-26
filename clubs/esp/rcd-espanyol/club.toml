@@ -1,0 +1,13 @@
+name = "RCD Espanyol"
+country = "ESP"
+level = 17
+reputation = 3
+colors = ["#E01010", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Calero Koleosho"
+country = "BRA"

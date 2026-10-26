@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Akhbari,GK,R,29,IRN,7,true,false,false,positioning,rushing-out
+Seyf Ahmadi,GK,R,23,IRN,8,false,false,false,penalty-saving,reflexes
+Mehdi Haghighat,GK,L,22,IRN,3,false,false,false,positioning,rushing-out
+Razzaghpour,FB,L,24,IRN,10,true,false,false,crossing,pace
+Aghajanpour,FB,R,25,IRN,2,true,false,false,marking,passing
+Hadi Mohammadi,CB,R,31,IRN,3,true,false,false,tackling,marking
+Arash Ghaderi,CB,L,23,IRN,7,true,false,false,tackling,marking
+Hosseini,CB,L,32,IRN,1,false,false,false,heading,stamina
+Saeid Irankhah,CB,R,21,IRN,10,false,false,false,tackling,marking
+Saeed Vasei,MF,L,27,IRN,6,true,false,false,passing,finishing
+Ali Fathi,MF,R,22,IRN,6,true,false,false,playmaking,pace
+Ali Najafi,MF,R,22,IRN,1,true,false,false,tackling,marking
+Shahin Saghebi,MF,R,28,IRN,6,true,false,false,passing,finishing
+Behzad Salami,MF,R,20,IRN,4,false,false,false,tackling,marking
+Mehdi Kiani,MF,L,35,IRN,4,false,false,false,tackling,heading
+Abbaszadeh,FW,L,32,IRN,6,true,false,false,dribbling,finishing
+Ghanbari,FW,R,24,IRN,10,true,false,false,dribbling,finishing
+Pouria Aria Kia,FB,L,32,IRN,7,false,false,false,crossing,pace
+Baghaki,FB,R,25,IRN,1,false,false,false,crossing,marking
+Mohammadreza Abbasi,FW,R,25,IRN,2,false,false,false,heading,pace
+Morteza Khorasani,FW,R,25,IRN,3,false,false,false,pace,finishing
+Safaa Hadi,MF,R,23,IRQ,5,false,false,false,passing,finishing

@@ -1,0 +1,38 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lucas Castro,MF,R,37,ARG,5,true,false,false,stamina,playmaking
+Pedro Silva Torrejon,FB,L,29,ARG,6,true,false,false,pace,stamina
+Juan Pintado,FB,R,29,URU,7,false,false,false,stamina,pace
+Junior Moreno,MF,R,33,VEN,3,true,false,false,stamina,passing
+Bautista Merlini,FW,R,31,ARG,5,false,false,false,pace,stamina
+Nicolas Garayalde,MF,L,27,ARG,6,false,false,false,passing,playmaking
+Matias Melluso,FB,L,28,ARG,7,true,false,false,stamina,pace
+Alan Sosa,FW,L,23,ARG,3,false,false,false,pace,stamina
+Facundo Di Biasi,MF,R,21,ARG,5,true,false,false,stamina,pace
+Augusto Max,MF,R,34,ARG,6,false,false,false,passing,tackling
+Norberto Briasco,FW,L,30,ARG,5,false,false,false,pace,passing
+Jan Hurtado,FW,R,26,VEN,6,false,false,false,pace,stamina
+Leandro Mamut,MF,R,22,ARG,7,false,false,false,dribbling,passing
+Sebastian Lomonaco,FW,R,27,ARG,4,false,false,false,pace,dribbling
+Fabricio Corbalan,FB,R,22,ARG,5,false,false,false,pace,passing
+Mateo Seoane,MF,R,22,ARG,6,true,false,false,stamina,passing
+Juan Jose Perez,MF,L,22,COL,8,false,false,false,pace,dribbling
+Santino Primante,FW,R,21,ARG,10,false,false,false,heading,passing
+Alejandro Piedrahita,FW,R,24,COL,5,false,false,false,pace,dribbling
+Ivo Mammini,FW,R,23,ARG,5,false,false,false,pace,heading
+Santiago Villarreal,FW,L,20,ARG,8,false,false,false,pace,dribbling
+Enzo Martinez,CB,L,28,URU,4,true,false,false,tackling,stamina
+Manuel Panaro,FW,L,23,ARG,5,true,false,false,pace,dribbling
+Gaston Suso,CB,L,35,ARG,6,false,false,false,stamina,tackling
+Marcelo Torres,FW,R,28,ARG,8,true,false,false,pace,heading
+Maximiliano Zalazar,FW,L,25,ARG,4,false,false,false,pace,dribbling
+Franco Torres,FW,R,27,ARG,5,false,false,false,pace,finishing
+Renzo Giampaoli,CB,R,26,ARG,6,true,false,false,stamina,heading
+German Conti,CB,R,32,ARG,4,false,false,false,heading,tackling
+Juan Villalba,CB,L,20,ARG,5,false,false,false,stamina,pace
+Valentin Penalva,CB,R,23,ARG,7,false,false,false,heading,tackling
+Jeremias Merlo,FW,L,20,ARG,3,false,false,false,pace,dribbling
+Jorge De Asis,FW,L,20,ARG,5,false,false,false,heading,finishing
+Juan Cortazzo,CB,R,20,ARG,6,false,false,false,stamina,tackling
+Nelson Insfran,GK,R,31,ARG,7,true,false,false,positioning,penalty-saving
+Luis Ingolotti,GK,R,26,ARG,4,false,false,false,reflexes,penalty-saving
+Julian Kadijevic,GK,R,22,ARG,5,false,false,false,positioning,reflexes

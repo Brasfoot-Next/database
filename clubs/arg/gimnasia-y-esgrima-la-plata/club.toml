@@ -1,0 +1,13 @@
+name = "Gimnasia y Esgrima La Plata"
+country = "ARG"
+level = 13
+reputation = 3
+colors = ["#F0F0F0", "#001060"]
+
+[stadium]
+name = "Juan Carmelo Zerillo"
+capacity = 30973
+
+[coach]
+name = "Enzo Sosa"
+country = "BRA"

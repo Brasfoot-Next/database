@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nahuel Guzmán,GK,L,36,ARG,2,false,false,false,reflexes,positioning
+Miguel Ortega,GK,R,27,MEX,7,true,false,false,positioning,penalty-saving
+Jesús Angulo,FB,L,24,MEX,2,true,false,false,finishing,passing
+Francisco Venegas,FB,R,24,MEX,5,true,false,false,crossing,pace
+Luis Rodríguez,FB,R,31,MEX,4,false,false,false,marking,pace
+Igor Lichnovsky,CB,L,28,CHI,4,true,false,false,tackling,stamina
+Diego Reyes,CB,R,29,MEX,6,true,false,false,tackling,stamina
+Hugo Ayala,CB,L,35,MEX,3,false,false,false,tackling,stamina
+Sebastián Córdova,MF,L,25,MEX,2,true,false,false,playmaking,finishing
+Guido Pizarro,MF,L,32,ARG,1,true,false,false,marking,finishing
+Rafael Carioca,MF,R,33,BRA,2,true,false,false,marking,pace
+Juan Vigón,MF,R,31,MEX,10,true,false,false,tackling,marking
+Yeferson Soteldo,FW,L,25,VEN,9,false,false,false,dribbling,finishing
+Javier Aquino,FW,R,32,MEX,2,true,false,false,finishing,dribbling
+Raymundo Fulgencio,FW,R,22,MEX,1,false,false,false,pace,finishing
+Florian Thauvin,FW,L,29,FRA,4,true,false,false,pace,finishing
+Vladimir Loroña,FB,L,23,MEX,2,false,false,false,marking,passing
+Eduardo Tercero,CB,R,26,MEX,1,false,false,false,tackling,heading
+Jesús Garza,MF,R,22,MEX,9,false,false,false,passing,finishing
+David Ayala,MF,R,22,MEX,3,false,false,false,finishing,passing

@@ -1,0 +1,13 @@
+name = "Hamarkameratene"
+country = "NOR"
+level = 9
+reputation = 2
+colors = ["#F0F0F0", "#009020"]
+
+[stadium]
+name = "Briskeby Stadion"
+capacity = 6608
+
+[coach]
+name = "Aksel Pedersen"
+country = "BRA"

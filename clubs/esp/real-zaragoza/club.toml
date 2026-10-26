@@ -1,0 +1,13 @@
+name = "Real Zaragoza"
+country = "ESP"
+level = 13
+reputation = 3
+colors = ["#E02030", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Insua Andrada"
+country = "BRA"

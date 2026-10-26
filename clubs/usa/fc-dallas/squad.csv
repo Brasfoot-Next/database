@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Petar Musa,FW,R,28,CRO,6,true,false,false,pace,finishing
+Ramiro,MF,L,33,BRA,8,false,false,false,stamina,passing
+Sebastian Lletget,MF,R,34,USA,4,true,false,false,stamina,playmaking
+Shaq Moore,FB,R,29,USA,5,true,false,false,stamina,pace
+Paxton Pomykal,MF,L,26,USA,6,false,false,false,dribbling,marking
+Christian Cappis,MF,L,27,USA,7,true,false,false,stamina,pace
+Anderson Julio,FW,L,30,ECU,2,true,false,false,pace,stamina
+Kaick,MF,R,20,BRA,5,true,false,false,dribbling,passing
+Bernard Kamungo,FW,L,24,USA,6,false,false,false,pace,dribbling
+Patrickson Delgado,MF,R,22,ECU,7,true,false,false,stamina,passing
+Pedrinho,MF,R,23,BRA,5,false,false,false,pace,dribbling
+Osaze Urhoghide,CB,L,26,ENG,6,true,false,false,pace,tackling
+Nolan Norris,FB,L,21,USA,7,true,false,false,pace,stamina
+Don Deedson Louicius,FW,L,25,HAI,2,false,false,false,pace,finishing
+Geovane Jesus,FB,R,25,BRA,5,false,false,false,pace,heading
+Herbert Endeley,FW,R,24,USA,6,false,false,false,pace,dribbling
+Diego Garcia,MF,R,19,USA,7,false,false,false,pace,stamina
+Lalas Abubakar,CB,R,31,GHA,3,true,false,false,stamina,pace
+Enes Sali,FW,L,20,ROU,5,false,false,false,pace,dribbling
+Malachi Molina,FW,R,19,JAM,6,false,false,false,pace,stamina
+Anthony Ramirez,FW,L,20,MEX,7,false,false,false,pace,crossing
+Logan Farrington,FW,R,24,USA,3,false,false,false,pace,heading
+Enzo Newman,FB,R,20,USA,5,false,false,false,pace,dribbling
+Sebastien Ibeagha,CB,R,34,USA,6,false,false,false,marking,pace
+Alejandro Urzua,MF,R,20,USA,7,false,false,false,pace,passing
+Samuel Sarver,FW,R,23,USA,3,false,false,false,pace,finishing
+Daniel Baran,FW,L,19,POL,5,false,false,false,pace,dribbling
+Álvaro Augusto,CB,R,21,BRA,6,false,false,false,pace,heading
+Joshua Torquato,FB,L,19,USA,7,false,false,false,stamina,pace
+Maarten Paes,GK,R,28,IDN,3,true,false,false,reflexes,positioning
+Michael Collodi,GK,R,25,USA,6,false,false,false,positioning,rushing-out

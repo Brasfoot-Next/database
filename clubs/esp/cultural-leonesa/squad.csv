@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rubén Sobrino,FW,R,34,ESP,3,false,false,false,pace,heading
+Iván Calero,FB,R,31,ESP,5,false,false,false,stamina,pace
+Yayo,MF,R,22,ESP,6,false,false,false,stamina,pace
+Bicho,MF,L,30,ESP,7,true,false,false,pace,dribbling
+Daniel Paraschiv,FW,R,27,ROU,3,true,false,false,stamina,pace
+Thiago Ezequiel Ojeda,MF,R,23,ARG,5,true,false,false,dribbling,stamina
+Jordi Mboula,FW,L,27,ESP,6,false,false,false,pace,stamina
+Victor Garcia,FB,R,32,VEN,7,true,false,false,pace,stamina
+Manu Justo,FW,R,30,ESP,3,false,false,false,pace,finishing
+Collado,FW,R,25,ESP,5,false,false,false,finishing,stamina
+Selu Diallo,MF,R,22,ESP,7,false,false,false,passing,playmaking
+Lucas Ribeiro,MF,L,27,BRA,4,true,false,false,pace,dribbling
+Pibe,FW,L,30,ARG,5,false,false,false,pace,stamina
+Luis Chacón,MF,R,26,ESP,6,true,false,false,pace,playmaking
+Maestre,MF,L,35,ESP,8,false,false,false,passing,playmaking
+Satrústegui,CB,L,35,ESP,4,false,false,false,pace,marking
+Nico Toca,MF,L,23,ESP,6,false,false,false,marking,passing
+Tomás Ribeiro,CB,L,27,POR,7,true,false,false,heading,tackling
+Rafa Tresaco,FW,L,26,ESP,4,false,false,false,pace,stamina
+Paco Cortés,FW,L,19,ESP,5,true,false,false,dribbling,pace
+Roger Hinojo,FB,L,21,ESP,7,false,false,false,pace,passing
+Quique Fornos,CB,R,29,ESP,3,true,false,false,stamina,pace
+Juan Sánchez,FW,L,22,ESP,5,false,false,false,pace,crossing
+Juan Larios,FB,L,22,ESP,6,true,false,false,pace,crossing
+Rodri Suárez,CB,R,23,ESP,7,false,false,false,pace,tackling
+Matia Barzić,CB,L,22,CRO,3,false,false,false,tackling,heading
+Álvaro Choco,FW,L,21,ESP,5,false,false,false,pace,dribbling
+Edgar Badia,GK,R,34,ESP,5,false,false,false,positioning,reflexes
+Miguel Bañuz,GK,L,33,ESP,6,false,false,false,penalty-saving,reflexes
+Arnau Rafús,GK,R,23,ESP,7,true,false,false,penalty-saving,reflexes

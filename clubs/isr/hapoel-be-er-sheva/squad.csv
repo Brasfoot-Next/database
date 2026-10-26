@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Omri Glazer,GK,L,26,ISR,10,true,false,false,positioning,rushing-out
+Ariel Harush,GK,R,34,ISR,3,false,false,false,rushing-out,penalty-saving
+Or Dadia,FB,R,25,ISR,7,true,false,false,finishing,pace
+Hélder Lopes,FB,L,33,POR,6,true,false,false,finishing,passing
+Aviv Solomon,FB,L,27,ISR,1,false,false,false,crossing,pace
+Noam Gamon,FB,R,25,ISR,6,false,false,false,marking,passing
+Miguel Vítor,CB,L,33,POR,5,true,false,false,tackling,stamina
+Abd Elhamed,CB,R,31,ISR,7,true,false,false,tackling,heading
+Abu Abaid,CB,R,27,ISR,1,false,false,false,tackling,stamina
+Eitan Tibi,CB,L,34,ISR,6,false,false,false,tackling,heading
+Tomer Yosefi,MF,R,23,ISR,9,true,false,false,finishing,passing
+Mariano Bareiro,MF,R,27,ARG,8,true,false,false,tackling,finishing
+David Keltjens,MF,L,27,ISR,9,true,false,false,marking,pace
+Ramzi Safuri,MF,L,26,ISR,2,false,false,false,playmaking,finishing
+Dor Micha,MF,R,30,ISR,4,false,false,false,playmaking,pace
+Roei Gordana,MF,R,32,ISR,1,false,false,false,tackling,heading
+Davide Petrucci,MF,L,30,ITA,10,false,false,false,tackling,heading
+Eugene Ansah,FW,L,27,GHA,1,true,false,false,heading,pace
+Itay Shechter,FW,R,35,ISR,2,false,false,false,dribbling,pace
+Amit Keren,GK,L,24,ISR,1,false,false,false,penalty-saving,reflexes
+Yoan Stoyanov,MF,L,21,BUL,5,true,false,false,playmaking,pace
+Sagiv Yehezkel,FW,R,27,ISR,4,true,false,false,dribbling,finishing
+Tomer Hemed,FW,L,35,ISR,10,false,false,false,heading,pace

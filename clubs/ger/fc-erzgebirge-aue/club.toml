@@ -1,0 +1,13 @@
+name = "FC Erzgebirge Aue"
+country = "GER"
+level = 9
+reputation = 2
+colors = ["#503080", "#E0C000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Moritz Seidel"
+country = "BRA"

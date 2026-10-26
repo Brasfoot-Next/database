@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ahmed Al-Hosani,GK,R,31,UAE,7,false,false,false,reflexes,rushing-out
+Rashid Abdalla Suhail,GK,R,25,UAE,1,true,false,false,reflexes,positioning
+Jamal Al-Hosani,GK,R,31,UAE,5,false,false,false,rushing-out,reflexes
+Rashed Ali,GK,R,36,UAE,5,false,false,false,penalty-saving,reflexes
+Kayque Campos,CB,R,23,BRA,6,false,false,false,heading,tackling
+Serano Seymor,CB,R,24,NED,7,true,false,false,heading,marking
+Abdulrahman Yousuf,CB,R,32,UAE,3,false,false,false,marking,tackling
+Mohammed Ali Shakir,CB,R,29,UAE,5,true,false,false,tackling,stamina
+Akram Nakach,FB,R,24,MAR,6,false,false,false,dribbling,pace
+Pedro Pavlov,FB,L,25,ARG,7,false,false,false,dribbling,pace
+Ahmed Abdalla Jshak,FB,R,32,UAE,3,false,false,false,pace,crossing
+Sultan Al-Zaabi,FB,L,27,UAE,5,true,false,false,dribbling,pace
+Yousef Al-Ameri,FB,L,28,UAE,6,true,false,false,marking,crossing
+Jean N'Guessan,MF,L,23,UAE,7,true,false,false,finishing,playmaking
+Ahmadou Ama Camara,MF,R,22,GUI,4,true,false,false,dribbling,pace
+Ahmed Barman,MF,R,32,UAE,5,true,false,false,tackling,passing
+Abdalla Al-Naqbi,MF,R,33,UAE,6,false,false,false,passing,playmaking
+Selim Amallah,MF,R,29,MAR,7,true,false,false,passing,playmaking
+Junior Flemmings,FW,R,30,JAM,4,false,false,false,playmaking,finishing
+Sultan Al-Shamsi,FW,R,30,UAE,5,false,false,false,heading,stamina
+Aylton Boa Morte,FW,L,32,POR,2,true,false,false,finishing,dribbling
+Rilwanu Sarki,FW,R,22,NGA,5,false,false,false,pace,dribbling
+Saeed Ahmad,FW,R,32,UAE,6,false,false,false,dribbling,pace
+Tarik Tissoudali,FW,R,33,MAR,7,true,false,false,dribbling,finishing
+Adama Diallo,FW,R,23,UAE,3,false,false,false,dribbling,pace

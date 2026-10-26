@@ -1,0 +1,13 @@
+name = "Olimpia Tegucigalpa"
+country = "HON"
+level = 13
+reputation = 3
+colors = ["#ffffff", "#0066ff"]
+
+[stadium]
+name = "Carias Andino"
+capacity = 30000
+
+[coach]
+name = "Pedro Troglio"
+country = "ARG"

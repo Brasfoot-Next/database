@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ellis Chapman,MF,L,25,ENG,7,false,false,false,stamina,passing
+Evan Caffrey,FB,R,23,IRL,3,false,false,false,stamina,pace
+Kerr Mcinroy,MF,L,26,SCO,5,true,false,false,stamina,passing
+Jj Lunney,MF,L,28,IRL,6,true,false,false,stamina,passing
+Mark Coyle,MF,R,29,IRL,7,false,false,false,stamina,passing
+Tyreke Wilson,FB,L,26,IRL,3,true,false,false,pace,stamina
+Harry Wood,MF,R,24,ENG,5,false,false,false,stamina,pace
+John Osullivan,FW,R,32,IRL,7,false,false,false,pace,playmaking
+Sean Gannon,CB,R,35,IRL,3,false,false,false,stamina,marking
+John Martin,FW,R,27,IRL,5,true,false,false,stamina,pace
+Jack Henry Francis,MF,R,23,IRL,6,true,false,false,passing,playmaking
+Ali Coote,MF,R,28,SCO,7,true,false,false,pace,playmaking
+Sean Boyd,FW,L,28,IRL,2,true,false,false,heading,finishing
+Sam Bone,CB,R,28,ENG,5,true,false,false,heading,tackling
+James Norris,FB,L,23,ENG,6,true,false,false,pace,stamina
+Daniel Kelly,FW,R,30,IRL,7,false,false,false,pace,dribbling
+Mipo Odubeko,FW,R,23,IRL,3,false,false,false,pace,finishing
+Kameron Ledwidge,CB,L,25,IRL,5,true,false,false,stamina,pace
+Sean Moore,FW,L,21,IRL,6,false,false,false,pace,dribbling
+Paddy Barrett,CB,R,33,IRL,7,false,false,false,heading,tackling
+Milan Mbeng,CB,R,24,FRA,5,false,false,false,dribbling,passing
+Lorcan Healy,GK,R,26,IRL,6,true,false,false,penalty-saving,positioning
+Daniel Ring,FW,R,19,IRL,8,false,false,false,pace,finishing
+Lewis Temple,CB,R,21,IRL,5,false,false,false,heading,tackling
+James Roche,CB,R,18,IRL,6,false,false,false,tackling,pace
+Conor Kearns,GK,R,28,IRL,6,false,false,false,reflexes,positioning
+Wessel Speel,GK,R,24,NED,10,false,false,false,penalty-saving,rushing-out

@@ -1,0 +1,13 @@
+name = "Kaizer Chiefs"
+country = "RSA"
+level = 15
+reputation = 3
+colors = ["#dfdf00", "#000000"]
+
+[stadium]
+name = "FNB Stadium"
+capacity = 94700
+
+[coach]
+name = "Arthur Zwane"
+country = "RSA"

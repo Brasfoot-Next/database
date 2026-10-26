@@ -1,0 +1,13 @@
+name = "Albirex Niigata"
+country = "JPN"
+level = 11
+reputation = 2
+colors = ["#F0F0F0", "#0040A0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Eiji Geria"
+country = "BRA"

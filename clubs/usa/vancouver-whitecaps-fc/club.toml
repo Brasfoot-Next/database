@@ -1,0 +1,13 @@
+name = "Vancouver Whitecaps FC"
+country = "USA"
+level = 14
+reputation = 3
+colors = ["#001040", "#F0F0F0"]
+
+[stadium]
+name = "BC Place"
+capacity = 54500
+
+[coach]
+name = "Ranko Pierre"
+country = "BRA"

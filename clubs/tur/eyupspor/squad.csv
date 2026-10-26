@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kerem Demirbay,MF,L,33,GER,6,true,false,false,playmaking,passing
+Emre Akbaba,MF,L,33,TUR,7,false,false,false,passing,stamina
+Samu Sáiz,MF,R,35,ESP,4,false,false,false,passing,dribbling
+Yalcin Kayan,MF,L,27,TUR,5,false,false,false,stamina,passing
+Taras Stepanenko,MF,L,37,UKR,6,false,false,false,passing,tackling
+Mame Thiam,FW,R,33,SEN,7,false,false,false,heading,finishing
+Serdar Gurler,FW,L,34,TUR,4,false,false,false,pace,dribbling
+Mateusz Legowski,MF,R,23,POL,5,true,false,false,stamina,passing
+Halil Akbunar,FW,L,32,TUR,6,false,false,false,pace,stamina
+Umut Bozok,FW,R,29,TUR,8,false,false,false,pace,finishing
+Robin Yalcin,CB,R,32,GER,5,false,false,false,passing,marking
+Denis Dragus,MF,L,27,ROU,6,true,false,false,pace,dribbling
+Prince Ampem,FW,L,28,GHA,7,false,false,false,pace,finishing
+Svit Seslar,MF,L,24,SVN,2,true,false,false,stamina,passing
+Umut Meras,FB,L,30,TUR,5,true,false,false,stamina,pace
+Calegari,FW,R,24,BRA,6,true,false,false,pace,stamina
+Taskin Ilter,MF,R,32,TUR,6,false,false,false,passing,stamina
+Baran Ali Gezek,MF,R,21,TUR,7,false,false,false,passing,playmaking
+Nihad Mujakic,CB,L,28,BIH,4,true,false,false,pace,stamina
+Talha Ulvan,FB,R,25,TUR,5,true,false,false,dribbling,stamina
+Emir Ortakaya,CB,L,22,TUR,4,true,false,false,tackling,passing
+Metehan Altunbas,FW,R,23,TUR,5,true,false,false,pace,finishing
+Marcos Felipe,GK,R,30,BRA,6,true,false,false,reflexes,positioning
+Jankat Yilmaz,GK,L,22,TUR,10,false,false,false,reflexes,penalty-saving
+Alp Koseer,GK,R,23,TUR,5,false,false,false,reflexes,positioning

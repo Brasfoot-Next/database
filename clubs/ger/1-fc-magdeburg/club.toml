@@ -1,0 +1,13 @@
+name = "1. FC Magdeburg"
+country = "GER"
+level = 12
+reputation = 2
+colors = ["#F0F0F0", "#0060B0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Andi Bockhorn"
+country = "BRA"

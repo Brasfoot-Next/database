@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Theo Valls,MF,L,30,FRA,6,true,false,false,passing,stamina
+Jessy Benet,MF,L,31,FRA,7,false,false,false,stamina,passing
+Hiangaa Mbock,MF,R,26,FRA,4,true,false,false,heading,passing
+Alan Kerouedan,FW,R,26,FRA,5,false,false,false,stamina,pace
+Shaquil Delos,FB,R,27,FRA,6,true,false,false,pace,stamina
+Gaetan Paquiez,CB,R,32,FRA,8,false,false,false,stamina,pace
+Yadaly Diaby,FW,L,26,GUI,4,false,false,false,pace,dribbling
+Baptiste Mouazan,MF,R,24,FRA,5,true,false,false,passing,dribbling
+Mamady Bangre,FW,L,25,BFA,6,true,false,false,pace,playmaking
+Mattheo Xantippe,FB,L,24,FRA,9,false,false,false,pace,dribbling
+Moussa Djitte,FW,R,26,SEN,10,false,false,false,stamina,pace
+Samba Lele Diba,MF,R,22,SEN,4,false,false,false,pace,stamina
+Stone Mambo,CB,L,27,COD,5,true,false,false,stamina,tackling
+Nesta Zahui,FW,R,23,FRA,7,false,false,false,pace,playmaking
+Baptiste Isola,MF,R,25,FRA,4,true,false,false,stamina,passing
+Efe Sarikaya,CB,L,20,TUR,5,false,false,false,pace,stamina
+Clement Vidal,CB,R,26,FRA,6,true,false,false,heading,tackling
+Ange Loic Ngatta,FB,R,22,FRA,8,false,false,false,tackling,stamina
+Mohamed Bechikh,FW,R,21,FRA,4,false,false,false,pace,finishing
+Allan Tchaptchet,CB,L,24,FRA,5,false,false,false,heading,stamina
+Evans Maurin,FW,R,25,FRA,7,false,false,false,pace,dribbling
+Bachirou Yameogo,MF,R,22,BFA,4,false,false,false,tackling,passing
+Loris Mouyokolo,CB,R,25,FRA,5,false,false,false,heading,tackling
+Nesta Elphege,FW,L,25,FRA,6,true,false,false,heading,stamina
+Lamin Jarjou,FW,L,24,GAM,6,false,false,false,pace,dribbling
+Charlie Dressel,MF,R,20,ENG,8,false,false,false,dribbling,passing
+Mathieu Mion,FB,L,26,FRA,4,true,false,false,tackling,pace
+Bobby Allain,GK,R,34,FRA,5,false,false,false,positioning,rushing-out
+Mamadou Diop,GK,R,26,FRA,6,true,false,false,reflexes,positioning
+Maxime Pattier,GK,R,30,FRA,8,false,false,false,reflexes,penalty-saving

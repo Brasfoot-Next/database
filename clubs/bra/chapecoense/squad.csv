@@ -1,0 +1,37 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Anderson,GK,R,28,BRA,6,true,false,false,positioning,penalty-saving
+Rafael Santos,GK,L,37,BRA,7,false,false,false,positioning,reflexes
+Matheus Aurélio,GK,R,27,BRA,4,false,false,false,reflexes,positioning
+Doma,CB,R,27,BRA,6,true,false,false,marking,passing
+João Paulo,CB,R,29,BRA,6,false,false,false,heading,marking
+Victor Caetano,CB,R,28,BRA,7,true,false,false,heading,stamina
+Bruno Leonardo,CB,L,30,BRA,5,false,false,false,heading,tackling
+Rafael Thyere,CB,R,33,BRA,6,false,false,false,heading,marking
+Kauan Faria,CB,R,23,BRA,6,false,false,false,heading,marking
+Vinicius Eduardo,CB,R,21,BRA,7,false,false,false,marking,stamina
+Mancha,FB,R,25,BRA,7,true,false,false,passing,pace
+Bruno Pacheco,FB,L,34,BRA,8,false,false,false,crossing,pace
+Da Silva,FB,L,26,BRA,5,false,false,false,marking,pace
+Marcos Vinícius,FB,L,29,BRA,5,true,false,false,marking,crossing
+Everton,FB,R,31,BRA,6,false,false,false,pace,tackling
+Gustavo Talles,FB,L,23,BRA,7,false,false,false,marking,pace
+Carvalheira,MF,L,27,BRA,9,true,false,false,tackling,passing
+Camilo,MF,R,27,BRA,5,true,false,false,marking,passing
+Vinicius Balieiro,MF,R,27,BRA,6,false,false,false,playmaking,dribbling
+Bruno Matias,MF,R,27,BRA,7,true,false,false,passing,stamina
+David Antunes,MF,R,20,BRA,5,false,false,false,dribbling,playmaking
+Robert Santos,MF,R,22,BRA,6,true,false,false,dribbling,playmaking
+Max,MF,R,25,BRA,7,false,false,false,dribbling,pace
+Giovanni Augusto,MF,R,36,BRA,9,false,false,false,stamina,tackling
+Wermeson,MF,R,25,BRA,6,false,false,false,stamina,tackling
+Italo Vargas,FW,L,23,BRA,7,true,false,false,dribbling,pace
+Maurício Garcez,FW,R,29,BRA,7,true,false,false,dribbling,finishing
+Ênio,FW,L,25,BRA,5,false,false,false,pace,crossing
+Kevin Ramírez,FW,L,32,URU,6,false,false,false,pace,dribbling
+Kaíque Maciel,FW,R,25,BRA,7,false,false,false,heading,finishing
+Marcinho,FW,R,31,BRA,5,false,false,false,dribbling,pace
+Rubens,FW,R,23,BRA,6,false,false,false,pace,crossing
+Neto Pessoa,FW,R,32,BRA,6,false,false,false,crossing,pace
+Yannick Bolasie,FW,R,37,BRA,7,false,false,false,playmaking,finishing
+Tulio Eduardo,FW,R,21,BRA,5,false,false,false,crossing,pace
+João Bom,FW,R,21,BRA,6,false,false,false,dribbling,playmaking

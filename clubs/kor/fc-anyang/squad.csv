@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Matheus Oliveira,FW,L,28,BRA,5,true,false,false,stamina,passing
+Kim Jung Hyun,MF,R,33,KOR,6,false,false,false,stamina,tackling
+Thomas Oude Kotte,CB,L,30,NED,7,true,false,false,marking,tackling
+Lim Min Hyuk,MF,R,29,KOR,3,true,false,false,stamina,pace
+Eduardo,MF,R,29,BRA,5,true,false,false,stamina,pace
+Kwon Kyung Won,CB,L,34,KOR,6,false,false,false,stamina,tackling
+Yago,FW,R,29,BRA,7,false,false,false,pace,stamina
+Kim Bo Kyung,MF,L,36,KOR,3,false,false,false,passing,playmaking
+Bruno Mota,FW,L,30,BRA,5,true,false,false,heading,finishing
+Kang Ji Hoon,FB,R,29,KOR,6,true,false,false,pace,stamina
+Lee Tae Hee,FB,R,34,KOR,6,false,false,false,pace,stamina
+Joo Hyeon Woo,FB,R,35,KOR,7,false,false,false,pace,stamina
+Chae Hyun Woo,FW,L,22,KOR,4,false,false,false,pace,dribbling
+Choi Gyu Hyeon,MF,L,25,KOR,5,true,false,false,stamina,pace
+Han Ka Ram,MF,R,28,KOR,6,true,false,false,stamina,passing
+Lee Min Soo,MF,R,34,KOR,7,false,false,false,pace,stamina
+Lee Chang Yong,CB,L,36,KOR,5,false,false,false,stamina,tackling
+Ivan Jukic,FW,L,30,CRO,6,false,false,false,pace,stamina
+Choi Sung Bum,FW,R,24,KOR,7,false,false,false,pace,dribbling
+Kim Young Chan,CB,R,33,KOR,3,false,false,false,stamina,heading
+Kim Dong Jin,FB,L,33,KOR,6,false,false,false,stamina,pace
+Lee Sang Yong,CB,R,32,KOR,7,false,false,false,pace,stamina
+Moon Seong Woo,MF,R,23,KOR,3,false,false,false,stamina,pace
+Kim Woon,FW,R,31,KOR,5,false,false,false,stamina,finishing
+Park Jong Hyun,CB,R,25,KOR,6,true,false,false,stamina,heading
+Park Jeong Hoon,FW,L,22,KOR,7,false,false,false,pace,stamina
+Lim Seung Kyum,CB,R,31,KOR,3,false,false,false,pace,heading
+Jang Jung Woo,MF,R,21,KOR,6,false,false,false,stamina,pace
+Kim Min Ho,FB,R,23,KOR,7,true,false,false,stamina,pace
+Kim Ji Hoon,CB,L,21,KOR,2,false,false,false,stamina,marking
+Kim Da Sol,GK,R,37,KOR,6,false,false,false,reflexes,positioning
+Hwang ByeongGeun,GK,R,32,KOR,7,false,false,false,reflexes,penalty-saving
+Lee Yun Oh,GK,R,27,KOR,1,true,false,false,reflexes,positioning

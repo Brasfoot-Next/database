@@ -1,0 +1,13 @@
+name = "Vita Club Kinshasa"
+country = "COD"
+level = 14
+reputation = 3
+colors = ["#009933", "#ffff99"]
+
+[stadium]
+name = "Des Martyrs"
+capacity = 86000
+
+[coach]
+name = "Raoul Shungu"
+country = "COD"

@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Yevgeniy Kucherenko,GK,L,27,UKR,5,true,false,false,penalty-saving,reflexes
+Vasilios Xenopoulos,GK,L,28,GRE,6,false,false,false,positioning,rushing-out
+Michalis Pardalos,GK,R,25,GRE,7,false,false,false,rushing-out,positioning
+Efthymios Papazois,GK,R,18,GRE,4,false,false,false,reflexes,rushing-out
+Gustav Granath,CB,R,29,SWE,5,true,false,false,pace,heading
+Nikola Stajic,CB,R,24,SRB,6,true,false,false,tackling,marking
+Elias Olsson,CB,L,23,SWE,7,false,false,false,stamina,pace
+Athanasios Prodromitis,CB,R,22,GRE,4,false,false,false,stamina,heading
+David Galiatsos,CB,R,20,GRE,5,false,false,false,heading,marking
+Chrysovalantis Manos,CB,R,21,GRE,6,false,false,false,heading,passing
+Christian Manrique,FB,L,27,ESP,6,true,false,false,tackling,stamina
+Apostolos Apostolopoulos,FB,L,23,GRE,8,true,false,false,stamina,pace
+Charalampos Mavrias,FB,L,32,GRE,4,false,false,false,passing,crossing
+Giannis Satsias,MF,R,23,CYP,6,true,false,false,stamina,pace
+Lazar Kojic,MF,R,26,SRB,7,true,false,false,passing,playmaking
+Vasilios Rados,MF,L,21,GRE,4,false,false,false,dribbling,pace
+Amine Bassi,MF,R,28,MAR,5,true,false,false,playmaking,passing
+Adriano Bregou,MF,R,20,GRE,6,true,false,false,pace,dribbling
+Vangelis Nikolaou,MF,R,22,GRE,8,false,false,false,dribbling,pace
+Lenny Lobato,FW,L,25,BRA,4,true,false,false,pace,dribbling
+Diego Esteban,FW,R,26,ESP,6,true,false,false,heading,stamina
+Lampros Smyrlis,FW,L,22,GRE,7,false,false,false,pace,dribbling
+Christos Esketzis,FW,R,19,GRE,4,false,false,false,pace,crossing
+Mahala Opoku,FW,L,25,GHA,5,false,false,false,heading,finishing
+Kosta Aleksic,FW,R,28,SRB,7,false,false,false,finishing,dribbling
+Deivid Hoxha,FW,R,18,ALB,3,false,false,false,finishing,heading

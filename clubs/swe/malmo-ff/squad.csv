@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Anders Christiansen,MF,R,36,DEN,3,false,false,false,stamina,dribbling
+Lasse Berg Johnsen,MF,R,27,NOR,5,true,false,false,stamina,passing
+Busanello,FB,L,27,BRA,6,true,false,false,stamina,pace
+Jens Stryger Larsen,FB,R,35,DEN,7,false,false,false,stamina,pace
+Otto Rosengren,MF,L,23,SWE,3,true,false,false,stamina,passing
+Oliver Berg,MF,R,33,NOR,5,false,false,false,stamina,playmaking
+Martin Olsson,CB,L,38,SWE,6,false,false,false,crossing,playmaking
+Erik Botheim,FW,R,26,NOR,3,true,false,false,finishing,stamina
+Hugo Bolin,FW,L,23,SWE,5,true,false,false,stamina,pace
+Oscar Lewicki,MF,R,34,SWE,6,false,false,false,stamina,marking
+Arnor Sigurdhsson,FW,L,27,ISL,6,false,false,false,pace,dribbling
+Stefano Vecchia,FW,L,31,SWE,7,false,false,false,pace,finishing
+Sead Haksabanovic,FW,L,27,MNE,4,false,false,false,pace,dribbling
+Adrian Skogmar,FB,R,20,SWE,5,true,false,false,stamina,dribbling
+Mahame Siby,MF,L,30,MLI,6,true,false,false,stamina,tackling
+Taha Ali,FW,R,28,SWE,7,false,false,false,pace,dribbling
+Pontus Jansson,CB,R,35,SWE,4,true,false,false,marking,tackling
+Johan Karlsson,FB,R,25,SWE,5,false,false,false,stamina,passing
+Emmanuel Ekong,FW,L,24,SWE,6,false,false,false,pace,finishing
+Colin Rosler,CB,L,26,NOR,7,true,false,false,stamina,marking
+Kenan Busuladzic,MF,R,19,SWE,6,true,false,false,stamina,pace
+Salifou Soumah,FW,L,22,GUI,7,false,false,false,pace,playmaking
+Daniel Gudhjohnsen,FW,R,20,ISL,3,false,false,false,pace,stamina
+Andrej Duric,CB,R,22,MNE,5,false,false,false,heading,pace
+Gentian Lajqi,FW,L,19,SWE,6,false,false,false,pace,passing
+Malte Frejd Palsson,CB,L,20,SWE,7,false,false,false,stamina,tackling
+Robin Olsen,GK,R,36,SWE,3,false,false,false,positioning,reflexes
+Johan Dahlin,GK,R,40,SWE,5,false,false,false,positioning,rushing-out
+Melker Ellborg,GK,R,23,SWE,6,true,false,false,positioning,rushing-out
+Joakim Persson,GK,R,19,SWE,7,false,false,false,reflexes,positioning

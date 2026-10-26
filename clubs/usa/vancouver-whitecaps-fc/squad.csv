@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Thomas Muller,MF,R,36,GER,3,true,false,false,playmaking,crossing
+Ryan Gauld,FW,L,30,SCO,5,true,false,false,stamina,pace
+Sebastian Berhalter,MF,R,25,USA,6,true,false,false,stamina,tackling
+Andres Cubas,MF,L,30,PAR,7,true,false,false,stamina,tackling
+Ali Ahmed,MF,R,25,CAN,3,false,false,false,pace,stamina
+Brian White,FW,R,30,USA,5,true,false,false,finishing,stamina
+Emmanuel Sabbi,FW,R,28,USA,6,false,false,false,pace,dribbling
+Tristan Blackmon,CB,L,30,USA,7,true,false,false,pace,stamina
+Jayden Nelson,FW,L,23,CAN,3,false,false,false,pace,dribbling
+Sam Adekugbe,FB,L,31,CAN,5,false,false,false,stamina,pace
+Kenji Cabrera,MF,R,23,PER,4,true,false,false,stamina,dribbling
+Mathias Laborda,FB,R,26,URU,6,true,false,false,pace,heading
+Edier Ocampo,FB,R,22,COL,7,true,false,false,pace,stamina
+Jean Claude Ngando,MF,R,26,CMR,10,false,false,false,dribbling,passing
+Giuseppe Bovalina,FB,R,21,AUS,4,false,false,false,stamina,pace
+Tate Johnson,FB,L,21,USA,6,false,false,false,pace,stamina
+Ranko Veselinovic,CB,R,27,SRB,8,true,false,false,stamina,pace
+Ralph Priso,MF,L,24,CAN,4,false,false,false,passing,pace
+Daniel Rios,FW,L,31,MEX,5,false,false,false,finishing,heading
+Belal Halbouni,CB,R,26,USA,6,false,false,false,heading,tackling
+Jeevan Badwal,MF,R,20,CAN,3,false,false,false,pace,passing
+Liam Mackenzie,MF,R,19,CAN,5,false,false,false,pace,passing
+Nelson Pierre,FW,R,21,USA,6,false,false,false,pace,stamina
+Adrian Zendejas,GK,R,31,USA,7,false,false,false,penalty-saving,reflexes
+Yohei Takaoka,GK,R,30,JPN,4,true,false,false,penalty-saving,rushing-out
+Isaac Boehmer,GK,R,24,CAN,5,false,false,false,positioning,penalty-saving

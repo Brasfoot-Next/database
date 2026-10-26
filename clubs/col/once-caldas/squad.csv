@@ -1,0 +1,45 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Joan Parra,GK,R,26,COL,5,true,false,false,rushing-out,reflexes
+James Aguirre,GK,R,34,COL,6,false,false,false,reflexes,penalty-saving
+Juan Gallego,GK,R,21,COL,7,false,false,false,penalty-saving,rushing-out
+Stalin Valencia,CB,R,20,ECU,5,false,false,false,marking,tackling
+Jorge Cardona,CB,R,27,COL,6,true,false,false,tackling,marking
+Jerson Malagón,CB,R,33,COL,7,false,false,false,stamina,marking
+Mateo Rodas,CB,R,25,COL,2,false,false,false,heading,marking
+Léyder Morán,CB,R,19,COL,5,false,false,false,tackling,stamina
+Jeider Riquett,CB,L,36,COL,6,false,false,false,tackling,marking
+Kevin Cuesta,CB,R,26,COL,7,false,false,false,stamina,tackling
+Juan Castaño,CB,R,28,COL,5,true,false,false,tackling,heading
+Juan Patiño,FB,L,25,COL,6,false,false,false,tackling,stamina
+Kevin Tamayo,FB,L,26,COL,8,false,false,false,tackling,dribbling
+Efraín Navarro,FB,R,24,COL,4,false,false,false,pace,crossing
+Daniel Quiñones,FB,R,24,COL,5,false,false,false,crossing,passing
+Juan David Cuesta,FB,L,28,COL,6,true,false,false,pace,stamina
+Luis Palacios,FB,R,25,COL,10,true,false,false,pace,dribbling
+Hian Rincon,FB,R,18,COL,4,false,false,false,pace,dribbling
+Robert Mejía,MF,R,23,COL,5,true,false,false,pace,dribbling
+Iván Rojas,MF,L,29,COL,6,true,false,false,stamina,marking
+Juan Camilo García,MF,R,29,COL,5,false,false,false,stamina,passing
+Juan Díaz,MF,R,25,COL,6,false,false,false,stamina,pace
+Alejandro García,MF,L,25,COL,7,true,false,false,pace,passing
+Mateo García,MF,R,28,COL,3,false,false,false,pace,playmaking
+Kevin Villada,MF,R,34,COL,5,false,false,false,dribbling,passing
+Tomás García,MF,R,20,COL,6,false,false,false,pace,tackling
+Hugo Dorrego,MF,R,30,URU,7,false,false,false,pace,crossing
+Luis Sánchez,MF,R,25,COL,4,true,false,false,stamina,dribbling
+Johan Beltrán,MF,L,26,COL,5,false,false,false,passing,playmaking
+Manuel Arteaga,MF,R,24,COL,6,false,false,false,tackling,marking
+Andrés Ibargüen,FW,R,31,COL,5,false,false,false,crossing,pace
+Joel Contreras,FW,R,24,COL,6,false,false,false,heading,stamina
+Pipe Gómez,FW,R,24,COL,7,false,false,false,heading,finishing
+Mateo Zuleta,FW,L,24,COL,2,true,false,false,pace,passing
+Yeiler Valencia,FW,L,22,COL,5,false,false,false,pace,dribbling
+Michael Barrios,FW,R,35,COL,6,false,false,false,pace,dribbling
+Déinner Quiñones,FW,L,31,COL,7,false,false,false,pace,dribbling
+Santiago Mera,FW,R,22,COL,2,false,false,false,pace,crossing
+Junior Orobio,FW,R,28,COL,5,false,false,false,finishing,heading
+Jorman Beltrán,FW,R,25,COL,6,false,false,false,finishing,dribbling
+Gilbert Álvarez,FW,R,31,BOL,5,false,false,false,dribbling,pace
+Jefry Zapata,FW,L,26,COL,5,true,false,false,dribbling,finishing
+Dayro Moreno,FW,R,40,COL,6,false,false,false,finishing,playmaking
+Santiago Cubides,FW,R,23,COL,8,false,false,false,dribbling,pace

@@ -1,0 +1,13 @@
+name = "Tottenham Hotspur"
+country = "ENG"
+level = 21
+reputation = 4
+colors = ["#002050", "#FFFFFF"]
+
+[stadium]
+name = "Tottenham Hotspur Stadium"
+capacity = 62850
+
+[coach]
+name = "Antonin Bissouma"
+country = "BRA"

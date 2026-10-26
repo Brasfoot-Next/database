@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Haoyang Yao,GK,R,19,CHN,6,false,false,false,reflexes,penalty-saving
+Zitong Wu,GK,R,19,CHN,7,false,false,false,reflexes,rushing-out
+Yerjet Yerzat,GK,R,33,CHN,5,true,false,false,reflexes,positioning
+Lucão,CB,L,30,BRA,6,true,false,false,heading,tackling
+Yingkai Zhang,CB,R,22,CHN,7,false,false,false,tackling,heading
+Michael Ngadeu,CB,R,35,CMR,3,false,false,false,heading,marking
+Xuheng Huang,CB,R,24,CHN,5,true,false,false,tackling,stamina
+Pengxiang Jin,CB,R,36,CHN,6,false,false,false,stamina,heading
+Ruijie Yue,CB,R,18,CHN,7,false,false,false,tackling,pace
+Xiaoqiang He,FB,L,24,CHN,3,true,false,false,tackling,pace
+Suowei Wei,FB,R,21,CHN,5,false,false,false,pace,stamina
+Qilong Ruan,FB,R,25,CHN,6,true,false,false,dribbling,pace
+Mingshi Liu,FB,R,22,CHN,7,false,false,false,stamina,crossing
+Zhixiong Zhang,MF,R,19,CHN,1,false,false,false,playmaking,passing
+Ibrahim Amadou,MF,R,33,FRA,5,true,false,false,stamina,marking
+Zhenquan Li,MF,R,22,CHN,6,true,false,false,finishing,passing
+Yongqiang Wu,MF,R,20,CHN,7,true,false,false,stamina,passing
+Weipeng Liang,MF,R,23,CHN,2,true,false,false,dribbling,pace
+Chunxin Chen,FW,R,28,CHN,5,false,false,false,pace,stamina
+Yu-Hei Ng,FW,L,20,CHN,6,true,false,false,pace,dribbling
+Alexandru Cîmpanu,FW,L,25,ROU,5,false,false,false,pace,dribbling
+Yuwang Xiang,FW,R,22,CHN,6,false,false,false,finishing,dribbling
+Landry Dimata,FW,R,28,BEL,7,true,false,false,pace,crossing
+Yuezheng Du,FW,R,20,CHN,4,false,false,false,heading,finishing

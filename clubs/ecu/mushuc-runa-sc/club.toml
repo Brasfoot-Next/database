@@ -1,0 +1,13 @@
+name = "Mushuc Runa SC"
+country = "ECU"
+level = 11
+reputation = 2
+colors = ["#306030", "#D0D0D0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Miguel Peralta"
+country = "BRA"

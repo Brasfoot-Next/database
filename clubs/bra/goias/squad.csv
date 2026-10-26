@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tadeu,GK,R,34,BRA,3,false,false,false,rushing-out,positioning
+Ezequiel Oliveira,GK,R,23,BRA,5,false,false,false,positioning,reflexes
+Thiago Rodrigues,GK,R,37,BRA,6,true,false,false,positioning,penalty-saving
+Lucas Ribeiro,CB,L,27,BRA,6,true,false,false,pace,dribbling
+Luisão,CB,R,22,BRA,10,false,false,false,marking,heading
+Ramon Menezes,CB,R,31,BRA,4,false,false,false,heading,marking
+Luiz Felipe,CB,L,32,BRA,5,true,false,false,heading,tackling
+Nicolas,FB,R,29,BRA,7,true,false,false,tackling,stamina
+Djalma Silva,FB,R,31,BRA,1,true,false,false,tackling,pace
+Danilo Cunha,FB,R,19,BRA,4,false,false,false,stamina,crossing
+Diego Caito,FB,L,22,BRA,2,false,false,false,pace,tackling
+Rodrigo Soares,FB,L,33,BRA,5,false,false,false,crossing,pace
+Filipe Machado,MF,R,30,BRA,6,false,false,false,dribbling,playmaking
+Baldória,MF,R,21,BRA,7,false,false,false,dribbling,pace
+Lucas Rodrigues,MF,R,18,BRA,3,false,false,false,passing,playmaking
+Juninho,MF,R,38,BRA,5,false,false,false,passing,stamina
+Lourenço,MF,R,28,BRA,6,true,false,false,passing,playmaking
+Lucas Lima,MF,R,36,BRA,7,true,false,false,playmaking,dribbling
+Gegê,MF,R,32,BRA,3,false,false,false,tackling,marking
+Brayann,MF,R,28,BRA,5,true,false,false,dribbling,passing
+Bruno Sávio,MF,R,31,BRA,6,false,false,false,pace,dribbling
+Jean Carlos,MF,R,21,BRA,7,true,false,false,passing,stamina
+Esli García,FW,L,26,VEN,3,true,false,false,pace,finishing
+Kadu,FW,R,24,BRA,5,true,false,false,finishing,pace
+Pedrinho,FW,L,22,BRA,6,false,false,false,dribbling,playmaking
+Wellington Rato,FW,R,34,BRA,7,false,false,false,pace,finishing
+Halerrandrio,FW,R,20,BRA,3,false,false,false,finishing,heading
+Cadu,FW,R,22,BRA,5,false,false,false,crossing,pace
+Anselmo Ramon,FW,R,38,BRA,6,false,false,false,dribbling,playmaking

@@ -1,0 +1,39 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Hamad Al-Meqbaali,GK,R,23,UAE,6,true,false,false,positioning,penalty-saving
+Hassan Hamza,GK,R,31,UAE,7,false,false,false,reflexes,positioning
+Rakaan Al-Menhali,GK,R,25,UAE,2,false,false,false,rushing-out,reflexes
+Khaled Al-Senani,GK,L,36,UAE,6,false,false,false,rushing-out,positioning
+Rashed Salem,GK,L,20,UAE,6,false,false,false,reflexes,rushing-out
+Renan,CB,R,24,BRA,7,false,false,false,heading,passing
+Jorge Fernandes,CB,R,29,POR,2,true,false,false,tackling,marking
+Kaiky,CB,R,22,BRA,6,false,false,false,heading,stamina
+Igor Gomes,CB,L,25,BRA,6,true,false,false,marking,heading
+Oumar Keita,CB,R,23,GUI,7,false,false,false,marking,passing
+Bogdan Planic,CB,R,34,SRB,6,false,false,false,heading,marking
+Walid Abbas,CB,R,24,UAE,6,false,false,false,tackling,stamina
+Rikelme,FB,L,23,BRA,8,false,false,false,passing,crossing
+Bader Abaelaziz,FB,R,24,UAE,5,true,false,false,tackling,marking
+Mersad Seifi,FB,L,22,UAE,6,false,false,false,stamina,pace
+Kauan Santos,FB,R,22,BRA,7,false,false,false,tackling,pace
+Mateus Henrique,FB,L,23,BRA,7,false,false,false,pace,crossing
+Marwan Fahad,FB,R,26,UAE,9,true,false,false,marking,crossing
+Elián Irala,MF,R,22,ARG,5,false,false,false,passing,finishing
+Damián García,MF,R,23,URU,6,true,false,false,stamina,tackling
+Saeed Ezatolahi,MF,R,29,UAE,8,true,false,false,tackling,passing
+Nemanja Maksimovic,MF,R,31,SRB,5,true,false,false,stamina,tackling
+Breno Lemos,MF,L,22,BRA,6,false,false,false,finishing,passing
+Sebastián González,MF,R,23,ECU,7,false,false,false,stamina,passing
+Eid Khamis,MF,R,27,UAE,8,true,false,false,marking,passing
+Guilherme Bala,FW,R,24,UAE,5,false,false,false,dribbling,playmaking
+Yahya Al-Ghassani,FW,R,28,UAE,6,false,false,false,heading,pace
+Adyson Soares,FW,R,20,BRA,7,false,false,false,heading,pace
+Fede Cartabia,FW,R,33,ARG,5,false,false,false,heading,stamina
+Thiago Scarpino,FW,R,21,BRA,6,false,false,false,finishing,stamina
+Sardar Azmoun,FW,R,31,UAE,7,true,false,false,finishing,pace
+João Marcelo,FW,R,21,BRA,4,true,false,false,finishing,dribbling
+Munas Dabbur,FW,R,34,UAE,6,false,false,false,pace,dribbling
+Reza Ghandipour,FW,L,20,UAE,6,false,false,false,finishing,heading
+Mateusão,FW,L,22,BRA,7,false,false,false,heading,finishing
+Mohammad Juma,FW,R,20,UAE,5,false,false,false,heading,finishing
+Cheickna Doumbia,FW,R,23,MLI,6,false,false,false,finishing,pace
+Sultan Adil,FW,R,22,UAE,6,false,false,false,pace,dribbling

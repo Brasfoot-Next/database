@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lorenzo Pellegrini,MF,R,30,ITA,6,false,false,false,passing,playmaking
+Angeliño,FW,L,29,ESP,7,false,false,false,stamina,crossing
+Paulo Dybala,MF,L,32,ARG,1,true,true,false,playmaking,dribbling
+Kouadio Manu Kone,MF,L,25,FRA,6,false,false,false,dribbling,stamina
+Bryan Cristante,MF,R,31,ITA,6,false,false,false,stamina,passing
+Wesley,FW,R,23,BRA,7,true,false,false,pace,dribbling
+Kostas Tsimikas,FB,L,30,GRE,2,false,false,false,crossing,pace
+Stephan El Shaarawy,FW,L,33,ITA,6,false,false,false,dribbling,playmaking
+Neil El Aynaoui,MF,R,25,MAR,6,true,false,false,stamina,passing
+Artem Dovbyk,FW,L,29,UKR,7,false,false,false,finishing,pace
+Leon Bailey,FW,L,29,JAM,7,false,false,false,dribbling,pace
+Mario Hermoso,CB,L,31,ESP,9,false,false,false,heading,tackling
+Zeki Celik,FB,R,29,TUR,5,true,false,false,stamina,tackling
+Edoardo Bove,MF,R,24,ITA,6,false,false,false,tackling,marking
+Matias Soule,MF,L,23,ARG,6,true,false,false,stamina,dribbling
+Evan Ndicka,CB,L,27,CIV,8,true,false,false,tackling,stamina
+Niccolo Pisilli,MF,R,21,ITA,4,true,false,false,passing,dribbling
+Devyne Rensch,FB,R,23,NED,6,true,false,false,passing,tackling
+Tommaso Baldanzi,MF,L,23,ITA,7,false,false,false,playmaking,dribbling
+Gianluca Mancini,CB,R,30,ITA,8,false,false,false,marking,heading
+Evan Ferguson,FW,R,21,IRL,7,true,false,false,finishing,heading
+Buba Sangaré,FB,R,19,ESP,9,false,false,false,pace,marking
+Daniele Ghilardi,CB,R,23,ITA,5,true,false,false,heading,tackling
+Jan Ziolkowski,CB,R,21,POL,6,false,false,false,tackling,stamina
+Mile Svilar,GK,R,27,SRB,6,true,false,false,reflexes,positioning
+Pierluigi Gollini,GK,R,31,ITA,7,false,false,false,reflexes,positioning
+Devis Vasquez,GK,R,28,COL,1,false,false,false,reflexes,penalty-saving
+Radoslaw Zelezny,GK,L,20,POL,6,false,false,false,rushing-out,positioning

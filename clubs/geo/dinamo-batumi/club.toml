@@ -1,0 +1,13 @@
+name = "Dinamo Batumi"
+country = "GEO"
+level = 14
+reputation = 2
+colors = ["#0000ff", "#ffffff"]
+
+[stadium]
+name = "Chele Arena"
+capacity = 6000
+
+[coach]
+name = "Gia Geguchadze"
+country = "GEO"

@@ -1,0 +1,13 @@
+name = "Marseille"
+country = "FRA"
+level = 20
+reputation = 4
+colors = ["#F0F0F0", "#0070B0"]
+
+[stadium]
+name = "Orange Vélodrome"
+capacity = 67394
+
+[coach]
+name = "Francois Hojbjerg"
+country = "BRA"

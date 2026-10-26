@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jean Victor Makengo,MF,L,28,FRA,10,true,false,false,tackling,passing
+Aiyegun Tosin,FW,L,28,FRA,3,false,false,false,pace,stamina
+Laurent Abergel,MF,L,33,FRA,5,true,false,false,stamina,passing
+Igor Silva,FB,R,30,BRA,6,false,false,false,pace,stamina
+Noah Cadiou,MF,R,27,FRA,7,true,false,false,stamina,passing
+Panos Katseris,FW,R,25,GRE,3,false,false,false,stamina,pace
+Arthur Avom Ebong,MF,R,21,CMR,5,false,false,false,stamina,passing
+Theo Le Bris,FW,L,23,FRA,6,false,false,false,passing,playmaking
+Darlin Yongwa,FB,L,25,CMR,7,true,false,false,pace,stamina
+Dermane Karim,MF,R,22,FRA,3,true,false,false,stamina,passing
+Bamba Dieng,FW,R,26,SEN,1,true,false,false,pace,heading
+Joel Mvuka,FW,R,23,NOR,5,false,false,false,pace,dribbling
+Mohamed Bamba,FW,R,24,CIV,6,false,false,false,pace,dribbling
+Bandiougou Fadiga,MF,R,25,FRA,7,false,false,false,dribbling,stamina
+Sambou Soumano,FW,R,25,SEN,1,false,false,false,dribbling,finishing
+Pablo Pagis,FW,L,23,FRA,5,true,false,false,stamina,dribbling
+Abdoulaye Faye,CB,L,21,SEN,6,false,false,false,pace,tackling
+Arsene Kouassi,FB,L,21,BFA,7,true,false,false,crossing,tackling
+Isaak Toure,CB,R,23,FRA,2,false,false,false,tackling,marking
+Bamo Meite,CB,R,24,CIV,5,true,false,false,tackling,marking
+Montassar Talbi,CB,L,28,TUN,6,true,false,false,tackling,marking
+Nathaniel Adjei,CB,R,24,GHA,7,false,false,false,pace,heading
+Trevan Sanusi,FW,L,19,ENG,2,false,false,false,pace,dribbling
+Yvon Mvogo,GK,R,32,SUI,5,true,false,false,reflexes,penalty-saving
+Bingourou Kamara,GK,R,29,SEN,6,false,false,false,penalty-saving,positioning
+Benjamin Leroy,GK,R,37,FRA,7,false,false,false,positioning,reflexes

@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Alfie Doughty,FB,L,26,ENG,6,true,false,false,stamina,pace
+Casper De Norre,MF,L,29,BEL,7,true,false,false,stamina,dribbling
+Ryan Leonard,FB,R,34,ENG,4,false,false,false,stamina,pace
+Joe Bryan,FB,L,32,ENG,5,false,false,false,stamina,pace
+Will Smallbone,MF,R,26,IRL,6,true,false,false,stamina,passing
+Massimo Luongo,MF,R,33,AUS,7,true,false,false,tackling,passing
+Thierno Ballo,FW,L,24,AUT,1,true,false,false,pace,stamina
+Billy Mitchell,MF,R,25,ENG,5,false,false,false,stamina,passing
+Femi Azeez,FW,L,25,ENG,6,false,false,false,pace,stamina
+Camiel Neghli,FW,L,24,ALG,7,true,false,false,stamina,pace
+Luke Cundle,MF,R,24,ENG,7,true,false,false,passing,playmaking
+Danny Mcnamara,FB,L,27,IRL,3,true,false,false,pace,stamina
+Macaulay Langstaff,FW,R,29,ENG,5,false,false,false,stamina,pace
+Mihailo Ivanovic,FW,R,21,SRB,6,false,false,false,pace,heading
+Tristan Crama,CB,R,24,FRA,7,true,false,false,stamina,marking
+Derek Mazou Sacko,MF,R,21,FRA,4,false,false,false,stamina,passing
+Daniel Kelly,MF,L,20,SCO,5,false,false,false,pace,passing
+Aidomo Emakhu,FW,L,22,IRL,6,false,false,false,pace,dribbling
+Wes Harding,CB,R,29,JAM,7,true,false,false,pace,stamina
+Zak Sturge,FB,L,22,ENG,4,false,false,false,pace,stamina
+Raees Bangura Williams,FW,L,21,ENG,7,false,false,false,pace,passing
+Caleb Taylor,CB,R,23,ENG,2,false,false,false,stamina,heading
+Jake Cooper,CB,L,31,ENG,5,false,false,false,heading,marking
+Josh Coburn,FW,L,23,ENG,6,false,false,false,heading,finishing
+Benicio Baker,FW,L,22,ENG,7,false,false,false,pace,dribbling
+Kamarl Grant,CB,R,23,ENG,3,false,false,false,pace,stamina
+Zak Lovelace,FW,R,20,ENG,5,false,false,false,pace,dribbling
+Ajay Matthews,FW,R,20,ENG,6,false,false,false,pace,heading
+Max Crocombe,GK,R,33,NZL,7,false,false,false,rushing-out,reflexes
+Joel Coleman,GK,R,30,ENG,3,false,false,false,reflexes,penalty-saving
+Lukas Jensen,GK,R,27,DEN,5,false,false,false,positioning,reflexes
+Steven Benda,GK,R,27,GER,6,true,false,false,reflexes,penalty-saving
+George Evans,GK,R,21,ENG,7,false,false,false,penalty-saving,reflexes

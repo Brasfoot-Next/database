@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Dae-han Park,GK,R,30,KOR,6,true,false,false,positioning,rushing-out
+Ju-won Park,GK,R,35,KOR,7,false,false,false,rushing-out,positioning
+Seung-kyu Lee,GK,R,33,KOR,3,false,false,false,rushing-out,positioning
+Kyu-baek Choi,CB,L,32,KOR,5,false,false,false,stamina,pace
+Seong-ju Kim,CB,R,27,KOR,6,true,false,false,heading,marking
+Tae-won Ko,CB,R,33,KOR,7,false,false,false,heading,passing
+Yong-seung Kwon,CB,R,22,KOR,3,false,false,false,heading,tackling
+Chang-min Ahn,CB,R,25,KOR,5,true,false,false,passing,marking
+Sang-yong Lee,CB,R,32,KOR,6,false,false,false,pace,stamina
+Kwang-jun Lee,CB,R,30,KOR,7,false,false,false,passing,marking
+Jae-min Ha,CB,R,23,KOR,5,false,false,false,heading,tackling
+Dong-hyeop Lee,FB,L,23,KOR,6,true,false,false,pace,tackling
+Eun-gyul Eo,FB,R,19,KOR,7,false,false,false,crossing,passing
+Chang-woo Park,FB,R,23,KOR,3,false,false,false,marking,pace
+Seung-hyeon Cha,FB,L,26,KOR,5,true,false,false,marking,crossing
+Jun-hyeok Choi,MF,R,31,KOR,6,true,false,false,stamina,passing
+Dong-min Her,MF,R,22,KOR,6,false,false,false,pace,passing
+Ji-seung Lee,MF,R,27,KOR,8,true,false,false,passing,stamina
+Ui-jun Jin,MF,R,23,KOR,4,false,false,false,pace,dribbling
+Kyo-hun Kang,MF,R,23,KOR,5,false,false,false,finishing,playmaking
+Aboubacar Toungara,MF,R,31,MLI,5,false,false,false,tackling,marking
+Bruno Lamas,MF,L,32,BRA,6,true,false,false,stamina,pace
+Ji-hoon Lee,MF,R,24,KOR,7,true,false,false,finishing,playmaking
+Jong-uk Koo,FW,R,30,KOR,1,false,false,false,dribbling,playmaking
+Kyu-min Lee,FW,L,20,KOR,5,false,false,false,pace,dribbling
+Sang-jun Lee,FW,R,26,KOR,6,true,false,false,dribbling,finishing
+Gustavo Sarjani,FW,R,22,BRA,7,false,false,false,finishing,dribbling
+Joon-ho Lee,FW,R,23,KOR,7,false,false,false,finishing,heading
+Jeong-yeon Wu,FW,R,19,KOR,3,false,false,false,dribbling,finishing
+Ivanildo,FW,R,29,GNB,5,true,false,false,dribbling,pace

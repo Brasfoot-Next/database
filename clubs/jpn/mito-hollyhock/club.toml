@@ -1,0 +1,13 @@
+name = "Mito HollyHock"
+country = "JPN"
+level = 12
+reputation = 2
+colors = ["#F0F0F0", "#303090"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Shuhei Fofana"
+country = "BRA"

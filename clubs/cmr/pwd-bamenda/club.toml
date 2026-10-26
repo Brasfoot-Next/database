@@ -1,0 +1,13 @@
+name = "PWD Bamenda"
+country = "CMR"
+level = 15
+reputation = 2
+colors = ["#ffffcc", "#000066"]
+
+[stadium]
+name = "Mankon"
+capacity = 5000
+
+[coach]
+name = "David Pagou"
+country = "CMR"

@@ -1,0 +1,13 @@
+name = "Ararat-Armenia"
+country = "ARM"
+level = 15
+reputation = 3
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Avan Academy"
+capacity = 1500
+
+[coach]
+name = "Vardan Bichakhchyan"
+country = "ARM"

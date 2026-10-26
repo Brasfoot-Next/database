@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Roope Paunio,GK,L,18,FIN,5,true,false,false,rushing-out,penalty-saving
+Naatan Skyttä,GK,R,16,FIN,4,true,false,false,penalty-saving,reflexes
+Artturi Ruuth,FB,L,16,FIN,6,true,false,false,crossing,passing
+Matias Kivikko,FB,R,17,FIN,2,true,false,false,marking,crossing
+Max Silvonen,FB,L,17,FIN,9,true,false,false,crossing,pace
+Jesse Nikki,CB,R,17,FIN,8,true,false,false,heading,tackling
+Tuomas Pynnönen,CB,L,18,FIN,3,true,false,false,heading,tackling
+Niilo Jokinen,CB,R,19,FIN,7,true,false,false,tackling,heading
+Doni Arifi,MF,L,18,FIN,9,true,false,false,passing,pace
+Otso Koskinen,MF,R,17,FIN,10,true,false,false,passing,finishing
+Aleksi Jännes,MF,L,17,FIN,2,true,false,false,marking,tackling
+Delee Rautio,MF,R,17,FIN,2,true,false,false,tackling,passing
+Niilo Saarikivi,FW,L,16,FIN,7,true,false,false,finishing,pace
+Robbie Azodo,FW,R,18,NGA,9,true,false,false,stamina,finishing
+Anton Tuominen,FW,L,19,FIN,2,true,false,false,finishing,dribbling

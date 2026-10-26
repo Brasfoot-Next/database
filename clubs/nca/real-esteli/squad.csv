@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Douglas Forvis,GK,R,30,NCA,1,true,false,false,positioning,penalty-saving
+Esdras González,GK,L,29,NCA,6,false,false,false,penalty-saving,reflexes
+Josué Quijano,FB,R,31,NCA,7,true,false,false,finishing,passing
+Luis López,FB,L,23,NCA,2,true,false,false,marking,pace
+Francisco Paz,FB,R,35,NCA,1,false,false,false,finishing,pace
+Joel Obando,FB,L,21,NCA,1,false,false,false,finishing,passing
+Óscar López,CB,L,30,NCA,2,true,false,false,tackling,marking
+Óscar Acevedo,CB,R,25,NCA,5,true,false,false,tackling,marking
+Bronzatti,CB,R,35,BRA,8,false,false,false,tackling,heading
+Cristiam Gutiérrez,CB,L,29,NCA,5,false,false,false,heading,stamina
+Marlon López,MF,L,29,NCA,5,true,false,false,marking,passing
+Henry García,MF,R,30,NCA,8,true,false,false,playmaking,passing
+Ruiz,MF,L,30,NCA,8,true,false,false,finishing,passing
+Aldo Monzonis,MF,L,28,MEX,4,true,false,false,finishing,passing
+Vinícius Souza,MF,L,32,BRA,7,false,false,false,tackling,passing
+Cacá Basilio,MF,L,23,BRA,8,false,false,false,marking,finishing
+Brandon Ayerdis,FW,R,27,NCA,1,true,false,false,heading,pace
+Carlos Chavarría,FW,L,28,NCA,4,true,false,false,pace,finishing
+Patrick Huete,FW,R,20,NCA,2,false,false,false,pace,finishing
+Pablo Gállego,FW,L,28,NCA,7,false,false,false,finishing,heading

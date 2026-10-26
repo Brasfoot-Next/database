@@ -1,0 +1,13 @@
+name = "Union Saint-Gilloise"
+country = "BEL"
+level = 16
+reputation = 3
+colors = ["#0070A0", "#F0D000"]
+
+[stadium]
+name = "Stade Joseph Mariën"
+capacity = 9512
+
+[coach]
+name = "Mohammed Khalaili"
+country = "BRA"

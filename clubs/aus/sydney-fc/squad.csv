@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Joe Lolley,FW,L,34,ENG,6,true,false,false,finishing,stamina
+Marcel Tisserand,CB,R,33,COD,7,true,false,false,stamina,heading
+Rhyan Grant,CB,L,35,AUS,1,false,false,false,stamina,tackling
+Jordan Courtney Perkins,FB,L,23,AUS,5,true,false,false,pace,stamina
+Alex Grant,CB,L,32,AUS,6,false,false,false,stamina,marking
+Al Hassan Toure,FW,L,26,AUS,7,true,false,false,pace,dribbling
+Corey Hollman,MF,R,22,AUS,2,false,false,false,stamina,pace
+Patrick Wood,FW,R,23,AUS,5,false,false,false,pace,stamina
+Joel King,FB,L,25,AUS,6,true,false,false,stamina,pace
+Alexandar Popovic,CB,R,24,AUS,7,true,false,false,stamina,pace
+Rhys Youlley,MF,R,21,AUS,2,true,false,false,dribbling,stamina
+Nickolas Alfaro,MF,R,18,AUS,5,false,false,false,pace,stamina
+Lachlan Middleton,MF,R,20,AUS,6,false,false,false,stamina,pace
+Tiago Quintal,MF,L,20,AUS,7,true,false,false,pace,stamina
+Zac De Jesus,FB,R,20,AUS,3,false,false,false,pace,stamina
+Paul Okon Engstler,MF,L,21,AUS,5,true,false,false,pace,stamina
+Wataru Kamijo,MF,L,20,AUS,6,true,false,false,pace,passing
+Joe Lacey,MF,R,19,AUS,7,false,false,false,pace,stamina
+Will Kennedy,MF,R,21,AUS,3,false,false,false,tackling,marking
+Marin France,MF,R,19,AUS,5,false,false,false,stamina,dribbling
+Tyler Williams,CB,R,18,AUS,9,false,false,false,pace,stamina
+Aaron Gurd,CB,R,24,AUS,4,false,false,false,stamina,heading
+Mathias Macallister,FW,R,19,AUS,5,false,false,false,stamina,finishing
+Harrison Devenish Meares,GK,R,29,AUS,6,true,false,false,positioning,penalty-saving
+Gus Hoefsloot,GK,R,20,AUS,1,false,false,false,reflexes,penalty-saving

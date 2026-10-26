@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Babacar Niasse,GK,R,29,MAR,7,true,false,false,penalty-saving,reflexes
+Marouane Bessak,GK,R,29,MAR,2,false,false,false,reflexes,rushing-out
+Ayoub Ait Wahmane,GK,R,24,MAR,5,false,false,false,rushing-out,reflexes
+Mohamed Bentarcha,CB,R,27,MAR,6,true,false,false,tackling,pace
+Abdoulaye Sanogo,CB,R,22,MLI,7,false,false,false,tackling,pace
+Yassine Fatine,CB,R,29,MAR,2,true,false,false,marking,stamina
+Aymen Riyane,CB,R,24,MAR,6,false,false,false,stamina,heading
+Aymane Takoua,CB,R,22,MAR,7,false,false,false,tackling,stamina
+Hamza Malki,FB,L,30,MAR,1,false,false,false,tackling,marking
+Soufiane Abaaziz,FB,R,28,MAR,5,true,false,false,stamina,crossing
+Marouane Lemzaouri,FB,L,33,MAR,6,false,false,false,dribbling,pace
+Zakaria Oubraim,FB,L,24,MAR,7,false,false,false,stamina,pace
+Oussama Benchchaoui,FB,R,25,MAR,1,true,false,false,stamina,crossing
+Moctar El Hacen,MF,R,28,MAR,5,false,false,false,pace,dribbling
+Youssef Michte,MF,R,27,MAR,6,true,false,false,playmaking,finishing
+Brahim El Idrissi Bouzidi,MF,R,26,MAR,7,false,false,false,finishing,passing
+Achraf Al Idrissi,MF,R,31,MAR,2,false,false,false,dribbling,passing
+Mouad Mouchtanim,MF,R,27,MAR,5,true,false,false,tackling,passing
+Ayoub El Khafi,MF,R,27,MAR,6,true,false,false,marking,passing
+Houdaifa Jamaäne,MF,R,19,MAR,7,false,false,false,pace,dribbling
+Mohamed Hilali,MF,R,27,MAR,5,true,false,false,passing,finishing
+Abdellah Ziani,FW,R,23,MAR,6,false,false,false,dribbling,finishing
+Yassine Lamine,FW,R,26,MAR,7,true,false,false,pace,dribbling
+Imad Sabik,FW,R,29,MAR,4,false,false,false,dribbling,pace
+Romuald Dacosta,FW,R,26,SEN,5,true,false,false,finishing,heading
+Abdoulaye Kanou,FW,R,25,MLI,6,false,false,false,pace,finishing
+Abderrazak Ennakouss,FW,R,25,MAR,8,false,false,false,crossing,pace
+Papa Souley Diallo,FW,R,20,SEN,4,false,false,false,heading,pace

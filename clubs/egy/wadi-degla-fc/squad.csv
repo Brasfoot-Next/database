@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Amr Hossam,GK,R,34,EGY,5,false,false,false,rushing-out,reflexes
+Ziad Seyam,GK,R,23,EGY,5,false,false,false,reflexes,penalty-saving
+Amr Shaaban,GK,R,35,EGY,6,false,false,false,positioning,reflexes
+Abdelrahman Qattawy,GK,R,26,EGY,7,true,false,false,rushing-out,positioning
+Omar Adly,CB,R,29,EGY,3,true,false,false,marking,stamina
+Kamal Aboul-Fetouh,CB,R,29,EGY,5,false,false,false,heading,passing
+Riga,CB,R,27,EGY,6,true,false,false,tackling,heading
+Seif Teka,CB,R,35,TUN,7,false,false,false,marking,passing
+Seif Emad,CB,R,22,EGY,3,false,false,false,heading,stamina
+Ahmed Dahroug,FB,R,30,EGY,5,false,false,false,marking,crossing
+Ahmed Dahesh,FB,R,28,EGY,7,true,false,false,tackling,marking
+Ahmed Reda,FB,R,23,EGY,1,false,false,false,stamina,pace
+Yehia Mostafa,FB,L,21,EGY,5,false,false,false,tackling,stamina
+Shady Maher,FB,R,29,EGY,6,true,false,false,pace,crossing
+Ahmed Ayman,FB,L,30,EGY,7,false,false,false,marking,pace
+Mahmoud Adel,FB,L,21,EGY,2,false,false,false,passing,crossing
+Ahmed Scholes,MF,L,28,EGY,5,true,false,false,dribbling,passing
+Mees Kaandorp,MF,L,28,NED,6,true,false,false,dribbling,pace
+Mohamed Abdelaati,MF,R,30,EGY,7,true,false,false,stamina,passing
+Kanu,MF,R,32,EGY,2,true,false,false,tackling,passing
+Hamza Hassan,MF,R,21,EGY,6,false,false,false,tackling,passing
+Ibrahim El Bahnasi,MF,R,24,EGY,8,false,false,false,marking,passing
+Ahmed El Shimi,MF,R,31,EGY,4,false,false,false,finishing,playmaking
+Mohamed Barakat,MF,R,18,EGY,5,false,false,false,dribbling,pace
+Adam El Mallah,MF,R,19,EGY,6,false,false,false,stamina,tackling
+Mahmoud Diasty,FW,R,26,EGY,8,false,false,false,crossing,pace
+Zizo,FW,R,23,EGY,4,true,false,false,pace,finishing
+Ahmed Refaat,FW,R,26,EGY,6,false,false,false,pace,finishing
+Mohamed Abdelrahim,FW,L,27,EGY,7,true,false,false,heading,finishing
+Youssef Oya,FW,R,26,EGY,10,false,false,false,pace,finishing
+Sayed Mohamed Fouad,FW,R,21,EGY,4,false,false,false,finishing,pace
+Franck Boli,FW,R,32,EGY,5,false,false,false,finishing,stamina
+Ahmed Farouk,FW,R,24,EGY,6,false,false,false,pace,finishing
+Ali Hussein,FW,R,32,EGY,8,false,false,false,heading,stamina

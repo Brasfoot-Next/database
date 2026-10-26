@@ -1,0 +1,13 @@
+name = "FK Haugesund"
+country = "NOR"
+level = 8
+reputation = 2
+colors = ["#F0F0F0", "#002070"]
+
+[stadium]
+name = "Haugesund Sparebank Arena"
+capacity = 8983
+
+[coach]
+name = "Claus Diarra"
+country = "BRA"

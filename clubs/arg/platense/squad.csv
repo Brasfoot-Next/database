@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mauro Luna Diale,MF,R,27,ARG,5,true,false,false,stamina,pace
+Franco Zapiola,FW,L,25,ARG,7,false,false,false,pace,playmaking
+Guido Mainero,FW,R,31,ARG,1,true,false,false,pace,stamina
+Enzo Roldan,MF,R,25,ARG,5,false,false,false,passing,pace
+Ignacio Schor,FW,R,26,ARG,6,false,false,false,passing,pace
+Augusto Lotti,FW,R,30,ARG,8,false,false,false,pace,finishing
+Leonel Picco,MF,L,27,ARG,4,true,false,false,stamina,passing
+Jonathan Bay,FB,L,33,ARG,5,false,false,false,stamina,tackling
+Santiago Toloza,MF,R,23,ARG,6,false,false,false,passing,playmaking
+Franco Baldassarra,MF,R,27,ARG,9,false,false,false,passing,stamina
+Rodrigo Herrera,MF,R,26,ARG,5,true,false,false,passing,tackling
+Marcos Portillo,MF,R,26,ARG,6,false,false,false,pace,dribbling
+Raul Alberto Lozano,FB,R,29,ARG,7,false,false,false,pace,stamina
+Nicolas Orsini,FW,R,31,ARG,1,false,false,false,pace,heading
+Rodrigo Marquez,FW,L,24,ARG,5,false,false,false,pace,dribbling
+Benjamin Bosch,FW,L,21,ARG,6,false,false,false,pace,dribbling
+Edgar Elizalde,CB,L,26,URU,7,false,false,false,tackling,pace
+Bautista Barros Schelotto,FB,R,26,ARG,2,true,false,false,stamina,pace
+Felipe Bussio,MF,R,22,ARG,5,true,false,false,stamina,passing
+Maximiliano Rodriguez Vejar,FW,R,26,CHI,6,false,false,false,heading,pace
+Ronaldo Martinez,FW,R,30,PAR,4,true,false,false,pace,finishing
+Juan Saborido,FB,R,28,ARG,5,false,false,false,stamina,tackling
+Celias Ingenthron,FB,L,18,ARG,6,false,false,false,pace,tackling
+Tomas Silva,FB,L,23,ARG,8,true,false,false,pace,tackling
+Oscar Salomon,CB,L,27,ARG,4,true,false,false,stamina,tackling
+Cristian Ortiz,MF,R,21,ARG,5,false,false,false,pace,stamina
+Franco Minerva,FW,L,20,ARG,6,false,false,false,pace,crossing
+Ignacio Vazquez,CB,L,29,ARG,8,true,false,false,stamina,marking
+Juan Pablo Goicochea,FW,R,21,PER,4,false,false,false,stamina,finishing
+Ivo Visona,FW,R,19,ARG,6,false,false,false,pace,finishing
+Gonzalo Goni,CB,R,28,ARG,3,false,false,false,tackling,marking
+Andres Desabato,GK,R,36,ARG,5,false,false,false,positioning,reflexes
+Federico Losas,GK,R,24,ARG,6,true,false,false,positioning,penalty-saving

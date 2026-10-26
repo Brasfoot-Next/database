@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ismael Quispe,GK,R,26,PER,5,true,false,false,reflexes,penalty-saving
+Jorge Stucchi,GK,R,24,PER,6,false,false,false,positioning,rushing-out
+Matías Vega,GK,R,29,ARG,8,false,false,false,reflexes,positioning
+Arón Sánchez,CB,R,23,PER,4,true,false,false,marking,heading
+Martín Peralta,CB,R,22,PER,5,false,false,false,heading,marking
+Matías Almirón,CB,R,30,URU,6,true,false,false,marking,stamina
+Paolo Reyna,FB,L,24,PER,7,false,false,false,pace,stamina
+Fabio Agurto,FB,R,21,PER,2,false,false,false,tackling,marking
+Piero Antón,FB,R,26,PER,5,true,false,false,stamina,crossing
+Hugo Ancajima,FB,R,28,PER,6,true,false,false,crossing,stamina
+Jorge Toledo,FB,R,30,PER,9,false,false,false,crossing,passing
+Christian Flores,MF,R,25,PER,4,true,false,false,dribbling,passing
+Cristian García,MF,R,29,ARG,5,true,false,false,passing,stamina
+Jack Carhuallanqui,MF,R,22,PER,6,false,false,false,playmaking,dribbling
+Pablo Míguez,MF,R,22,URU,1,false,false,false,dribbling,playmaking
+Álvaro Rojas,MF,R,21,PER,5,true,false,false,stamina,tackling
+Nilton Ramirez,MF,R,20,PER,5,false,false,false,pace,dribbling
+Josué Torres,MF,R,22,PER,6,false,false,false,dribbling,pace
+Gustavo Aliaga,MF,R,35,PER,1,false,false,false,tackling,passing
+Erinson Ramírez,MF,R,28,PER,5,true,false,false,marking,passing
+Martín Alaníz,MF,R,33,URU,7,false,false,false,playmaking,finishing
+Cristhian Tizón,FW,R,30,URU,4,true,false,false,finishing,pace
+Jack Durán,FW,R,34,PER,5,false,false,false,heading,finishing
+Jorge Barreto,FW,R,18,PER,6,false,false,false,finishing,pace
+Adán Henricks,FW,L,22,PAN,7,false,false,false,heading,finishing
+Héctor Bazán,FW,R,24,PER,4,true,false,false,heading,finishing
+Nicolás Leguizamón,FW,R,31,ARG,5,false,false,false,dribbling,playmaking
+Janio Pósito,FW,L,36,PER,6,false,false,false,dribbling,playmaking
+Jean Piere Valle,FW,R,22,PER,7,false,false,false,finishing,stamina

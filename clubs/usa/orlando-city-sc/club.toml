@@ -1,0 +1,13 @@
+name = "Orlando City SC"
+country = "USA"
+level = 13
+reputation = 3
+colors = ["#603090", "#F0E090"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Luis Brown"
+country = "BRA"

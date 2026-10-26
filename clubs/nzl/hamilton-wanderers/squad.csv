@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Matt Oliver,GK,L,28,NZL,6,true,false,false,reflexes,positioning
+David Douglas,GK,L,48,NZL,6,false,false,false,positioning,penalty-saving
+Cory Townsend,GK,R,21,NZL,6,false,false,false,positioning,penalty-saving
+Joe Harris,FB,R,29,NZL,8,true,false,false,finishing,pace
+Brock Messenger,FB,L,26,NZL,1,true,false,false,marking,passing
+Jordan Shaw,FB,L,30,NZL,8,false,false,false,finishing,pace
+Sergio Sendra,FB,R,27,ESP,8,false,false,false,marking,finishing
+Liam Fellowes,CB,R,24,NZL,9,true,false,false,tackling,heading
+John Clout,CB,L,22,NZL,1,true,false,false,tackling,stamina
+Ricky Singh,CB,L,20,FIJ,5,false,false,false,marking,pace
+Oliver Campbell,MF,L,24,NZL,6,true,false,false,stamina,tackling
+Hamish Smylie,MF,L,26,NZL,4,true,false,false,passing,finishing
+Lewis Reid,MF,R,22,NZL,4,true,false,false,finishing,passing
+Andy O'Donoghue,MF,L,27,ENG,7,true,false,false,marking,passing
+Tom Walters,MF,R,24,ENG,5,false,false,false,marking,pace
+Dylan Morris,MF,L,23,NZL,1,false,false,false,tackling,pace
+Xavier Pratt,MF,L,27,NZL,7,false,false,false,tackling,marking
+Legion Rogerson,FW,L,18,NZL,4,true,false,false,heading,stamina
+Bee Hong,FW,L,18,NZL,4,true,false,false,dribbling,finishing
+Aaron Bayliss,FW,R,24,NZL,1,false,false,false,finishing,heading
+Jayden Gozdz,FW,L,21,NZL,4,false,false,false,finishing,stamina

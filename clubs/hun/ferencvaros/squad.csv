@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Dénes Dibusz,GK,R,31,HUN,5,true,false,false,penalty-saving,reflexes
+Ádám Bogdán,GK,R,34,HUN,10,false,false,false,positioning,penalty-saving
+Ádám Varga,GK,R,23,HUN,10,false,false,false,positioning,penalty-saving
+Endre Botka,FB,R,27,HUN,7,false,false,false,finishing,passing
+Eldar Civic,FB,R,26,BIH,8,true,false,false,crossing,marking
+Dominik Csontos,FB,L,19,HUN,5,false,false,false,marking,finishing
+Henry Wingo,FB,L,26,USA,5,true,false,false,finishing,passing
+Adnan Kovacevic,CB,R,28,BIH,1,true,false,false,tackling,marking
+Samy Mmaee,CB,L,25,MAR,7,true,false,false,tackling,stamina
+Mats Knoester,CB,L,23,NED,10,false,false,false,tackling,heading
+Rasmus Thelander,CB,R,31,DEN,7,false,false,false,heading,stamina
+Dávid Sigér,MF,L,31,HUN,1,false,false,false,tackling,finishing
+Bálint Vécsei,MF,R,29,HUN,4,true,false,false,finishing,passing
+Aïssa Laïdouni,MF,L,25,FRA,10,true,false,false,finishing,passing
+Giorgi Kharaishvili,MF,R,25,GEO,9,false,false,false,finishing,passing
+Zachariassen,MF,L,28,NOR,7,true,false,false,marking,finishing
+Stjepan Loncar,MF,L,25,BIH,6,false,false,false,finishing,playmaking
+Xavier Mercier,MF,L,33,FRA,7,false,false,false,finishing,playmaking
+Anderson Esiti,MF,R,28,NGA,9,true,false,false,tackling,marking
+Oleksandr Zubkov,FW,R,25,UKR,2,false,false,false,heading,finishing
+Nguen,FW,L,28,NOR,1,true,false,false,finishing,dribbling
+Franck Boli,FW,R,28,CIV,2,true,false,false,pace,finishing
+Ryan Mmaee,FW,R,24,MAR,6,false,false,false,pace,finishing

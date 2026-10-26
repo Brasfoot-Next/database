@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Luca Herrmann,MF,R,27,GER,3,true,false,false,stamina,passing
+Nils Froling,MF,R,26,SWE,5,true,false,false,pace,stamina
+Niklas Hauptmann,MF,L,30,GER,6,false,false,false,stamina,playmaking
+Alexander Rossipal,FB,L,30,GER,7,false,false,false,stamina,tackling
+Konrad Faber,FB,R,28,GER,4,true,false,false,pace,stamina
+Aljaz Casar,MF,R,25,SVN,5,true,false,false,stamina,passing
+Jakob Lemmer,MF,L,26,GER,6,true,false,false,pace,stamina
+Vinko Sapina,MF,R,31,GER,7,false,false,false,stamina,passing
+Tony Menzel,MF,R,21,GER,4,false,false,false,pace,dribbling
+Kofi Jeremy Amoako,MF,R,21,GER,5,false,false,false,pace,passing
+Lars Bunning,CB,L,28,GER,6,true,false,false,pace,heading
+Christoph Daferner,FW,R,28,GER,7,true,false,false,finishing,stamina
+Lukas Boeder,CB,R,29,GER,1,false,false,false,stamina,marking
+Dominik Kother,FW,L,26,GER,5,true,false,false,stamina,pace
+Jan Hendrik Marx,FB,R,31,GER,6,false,false,false,stamina,pace
+Sascha Risch,FB,L,26,GER,7,true,false,false,stamina,pace
+Stefan Kutschke,FW,R,37,GER,2,false,false,false,heading,stamina
+Vincent Vermeij,FW,R,32,NED,5,false,false,false,heading,stamina
+Claudio Kammerknecht,CB,R,27,GER,6,true,false,false,stamina,marking
+Jonas Oehmichen,MF,R,22,GER,7,false,false,false,passing,pace
+Jakob Zickler,MF,L,20,AUT,6,false,false,false,pace,finishing
+Julian Pauli,CB,R,21,GER,7,false,false,false,tackling,heading
+Daniel Mesenholer,GK,R,31,GER,3,false,false,false,rushing-out,penalty-saving
+Tim Schreiber,GK,R,24,GER,4,false,false,false,reflexes,penalty-saving
+Lennart Grill,GK,R,27,GER,5,true,false,false,reflexes,penalty-saving

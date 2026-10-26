@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Krisztian Benes,GK,L,19,SVK,3,true,false,false,positioning,penalty-saving
+Nicolas Bajnoczi,GK,L,18,SVK,9,true,false,false,reflexes,positioning
+Krisztian Bari,FB,L,19,SVK,8,true,false,false,finishing,passing
+Dominik Frtala,FB,R,18,SVK,5,true,false,false,pace,marking
+Mate Vass,FB,R,18,SVK,5,true,false,false,marking,finishing
+Denis Richnavsky,CB,R,19,SVK,10,true,false,false,tackling,stamina
+Tamas Hervay,CB,L,19,SVK,5,true,false,false,marking,pace
+Sebastian Prasek,MF,R,17,SVK,3,true,false,false,playmaking,passing
+Rene Dibuz,MF,R,19,SVK,8,true,false,false,marking,pace
+Kristian Slebodnik,MF,L,19,SVK,9,true,false,false,playmaking,passing
+Ferenc Bogi,MF,L,18,SVK,5,true,false,false,dribbling,finishing
+Jorge Méndez,MF,L,19,PAN,7,true,false,false,playmaking,finishing
+David Doktorik,FW,R,19,SVK,7,true,false,false,pace,finishing
+Bertalan Farkas,FW,R,17,SVK,5,true,false,false,finishing,dribbling
+Sebastian Gembicky,FW,L,19,SVK,4,true,false,false,heading,playmaking

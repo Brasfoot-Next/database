@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Yonatan Irrazábal,GK,R,38,URU,5,false,false,false,rushing-out,positioning
+Diego Capdevila,GK,R,23,URU,6,true,false,false,penalty-saving,rushing-out
+Nahuel Arena,CB,R,28,ARG,7,true,false,false,marking,stamina
+Juan Cruz Guasone,CB,R,25,ARG,7,false,false,false,heading,tackling
+Ariel Lima,CB,R,21,URU,4,false,false,false,heading,tackling
+Facundo Butti,CB,R,26,ARG,5,true,false,false,heading,passing
+Martín Farías,CB,R,21,URU,6,false,false,false,tackling,marking
+Francisco Bregante,FB,R,22,URU,7,false,false,false,passing,crossing
+Gianni Rodríguez,FB,R,32,URU,4,false,false,false,tackling,stamina
+Mateo Argüello,FB,R,24,URU,5,false,false,false,pace,crossing
+Emanuel Carlos,FB,L,27,URU,6,true,false,false,crossing,pace
+Iván Valenzuela,FB,L,25,ARG,8,true,false,false,dribbling,pace
+Damián Suárez,FB,R,38,URU,4,false,false,false,marking,tackling
+Alejo Macelli,MF,R,28,ARG,5,true,false,false,dribbling,passing
+Emiliano Sosa,MF,R,28,URU,6,true,false,false,playmaking,passing
+Jairo Amaro,MF,R,23,URU,9,true,false,false,stamina,marking
+Agustín Miranda,MF,L,33,URU,5,false,false,false,stamina,tackling
+Rodrigo Mederos,MF,R,20,URU,6,false,false,false,playmaking,finishing
+Brian Quinteros,MF,R,21,URU,6,false,false,false,dribbling,passing
+Pablo Nongoy,MF,R,22,URU,1,true,false,false,tackling,marking
+Brahian Alemán,MF,R,36,URU,6,false,false,false,pace,dribbling
+Pablo Da Silveira,MF,R,22,URU,7,false,false,false,passing,finishing
+Nahuel Sena,FW,R,22,URU,3,false,false,false,heading,pace
+Axel Méndez,FW,L,21,URU,5,false,false,false,playmaking,finishing
+Cristian Barros,FW,R,26,URU,6,true,false,false,heading,finishing
+Alejandro Severo,FW,R,21,URU,7,false,false,false,pace,dribbling
+Matías Ocampo,FW,R,24,URU,4,false,false,false,pace,finishing
+Augusto Cambón,FW,L,21,URU,5,false,false,false,pace,dribbling
+Santiago Paiva,FW,R,27,URU,6,true,false,false,finishing,pace
+Bruno Morales,FW,R,21,URU,7,false,false,false,pace,crossing
+Nahuel Soria,FW,L,24,URU,4,false,false,false,heading,pace
+Tiago Rijo,FW,R,21,URU,5,false,false,false,finishing,pace
+Alan Zamurio,FW,R,18,URU,6,false,false,false,crossing,pace

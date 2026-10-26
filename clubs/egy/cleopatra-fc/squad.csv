@@ -1,0 +1,43 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mohamed Alaa,GK,R,26,EGY,5,false,false,false,rushing-out,reflexes
+Mohamed Bassam,GK,R,35,EGY,6,true,false,false,reflexes,rushing-out
+Ali El Gabry,GK,L,25,EGY,7,false,false,false,reflexes,positioning
+Mohamed Tarek,GK,R,27,EGY,3,false,false,false,penalty-saving,reflexes
+Islam Reisha,GK,R,28,EGY,5,false,false,false,positioning,reflexes
+Beckham,CB,R,29,EGY,7,false,false,false,tackling,heading
+Ragab Nabil,CB,R,32,EGY,2,true,false,false,heading,marking
+Justice Arthur,CB,R,28,GHA,5,true,false,false,tackling,pace
+Mohamed El Maghraby,CB,R,25,EGY,6,false,false,false,marking,stamina
+Mohamed Samy,CB,R,24,EGY,7,false,false,false,marking,stamina
+Hussein El Sayed,FB,L,34,EGY,6,false,false,false,stamina,pace
+Youssef Afifi,FB,L,25,EGY,10,false,false,false,dribbling,pace
+Ahmed Hany,FB,L,29,EGY,4,true,false,false,crossing,passing
+Khaled Abdelfattah,FB,L,27,EGY,5,true,false,false,tackling,marking
+Abdallah Magdy,FB,R,29,EGY,7,false,false,false,stamina,crossing
+Mohamed Adel,MF,L,30,EGY,1,false,false,false,playmaking,finishing
+Mohamed Tony,MF,R,29,EGY,4,false,false,false,playmaking,finishing
+Karim Nedved,MF,R,28,EGY,6,true,false,false,dribbling,passing
+Hema Mohamed,MF,R,26,EGY,7,true,false,false,stamina,tackling
+Amr Kalawa,MF,R,28,EGY,1,true,false,false,stamina,passing
+David Simukonda,MF,R,20,ZAM,4,false,false,false,tackling,passing
+Ahmed Belhadji,MF,R,28,MAR,6,true,false,false,dribbling,passing
+Bobo,MF,L,25,EGY,7,false,false,false,pace,dribbling
+Omar El Gazar,MF,R,21,EGY,10,false,false,false,tackling,marking
+Amr El Solia,MF,L,36,EGY,4,false,false,false,playmaking,dribbling
+Mohamed Sadek,MF,L,29,EGY,6,false,false,false,finishing,playmaking
+Mohamed Reda,MF,L,23,EGY,7,false,false,false,dribbling,playmaking
+Mohamed Aboul-Amaim,MF,L,20,EGY,1,false,false,false,passing,stamina
+Sodiq Awujoola,FW,R,25,NGA,5,false,false,false,dribbling,pace
+Ayman Mukka,FW,L,29,EGY,6,false,false,false,pace,dribbling
+Favour Akem,FW,R,22,NGA,3,false,false,false,pace,finishing
+Nour Alaa,FW,L,23,EGY,5,false,false,false,heading,finishing
+Islam Issa,FW,L,30,EGY,6,true,false,false,playmaking,finishing
+Samuel Amadi,FW,R,23,NGA,7,false,false,false,dribbling,pace
+Mohamed Emad,FW,L,24,EGY,4,false,false,false,pace,dribbling
+Ahmed Samir,FW,R,31,EGY,5,false,false,false,pace,finishing
+Samir El Eraki,FW,R,24,EGY,6,false,false,false,finishing,stamina
+Fagrie Lakay,FW,R,29,EGY,8,false,false,false,playmaking,finishing
+Marwan Otaka,FW,R,24,EGY,4,true,false,false,playmaking,finishing
+Freddy Michael Kouablan,FW,R,27,EGY,5,false,false,false,playmaking,finishing
+Matthew Ojor,FW,R,18,NGA,3,false,false,false,heading,stamina
+Umar Abdulrauf,FW,L,21,GHA,5,false,false,false,heading,finishing

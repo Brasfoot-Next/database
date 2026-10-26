@@ -1,0 +1,13 @@
+name = "Coleraine"
+country = "NIR"
+level = 15
+reputation = 2
+colors = ["#0000ff", "#ffffff"]
+
+[stadium]
+name = "Showgrounds "
+capacity = 6500
+
+[coach]
+name = "Oran Kearney"
+country = "NIR"

@@ -1,0 +1,36 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jordi,GK,R,32,BRA,7,false,false,false,reflexes,rushing-out
+César,GK,R,31,BRA,2,true,false,false,rushing-out,positioning
+Lucas,GK,R,28,BRA,5,false,false,false,positioning,rushing-out
+João Scapin,GK,R,22,BRA,6,false,false,false,reflexes,positioning
+Paulo Henrique,GK,R,35,BRA,7,false,false,false,penalty-saving,reflexes
+Patrick,CB,R,27,BRA,2,true,false,false,marking,stamina
+Alexis Alvariño,CB,R,25,ARG,5,false,false,false,marking,heading
+Carlinhos,CB,R,31,BRA,6,true,false,false,tackling,pace
+Eduardo Brock,CB,R,35,BRA,1,false,false,false,tackling,pace
+Kauan Alemão,CB,L,19,BRA,5,false,false,false,heading,marking
+Gabriel Bahia,CB,R,27,BRA,7,false,false,false,heading,tackling
+Renato Palm,CB,R,34,BRA,4,false,false,false,marking,passing
+Maykon Jesus,FB,L,20,BRA,5,false,false,false,marking,crossing
+Sander,FB,L,35,BRA,6,false,false,false,stamina,crossing
+Jhilmar Lora,FB,R,25,PER,8,true,false,false,stamina,pace
+Nilson Castrillón,FB,R,30,COL,4,true,false,false,stamina,crossing
+Léo Naldi,MF,R,24,BRA,5,true,false,false,dribbling,passing
+Luís Oyama,MF,R,29,BRA,6,true,false,false,stamina,passing
+Marlon,MF,L,36,BRA,8,false,false,false,finishing,passing
+Luiz Gabriel,MF,R,21,BRA,1,false,false,false,finishing,playmaking
+Matheus Bianqui,MF,R,28,BRA,5,true,false,false,dribbling,passing
+Tavinho,MF,L,21,BRA,6,false,false,false,tackling,passing
+Diego Galo,MF,R,21,BRA,8,false,false,false,playmaking,passing
+Rômulo,MF,R,24,BRA,4,false,false,false,pace,heading
+Juninho,MF,R,25,BRA,5,true,false,false,dribbling,passing
+Christian Ortíz,MF,R,33,ARG,6,false,false,false,playmaking,passing
+Vinícius Paiva,FW,R,25,BRA,10,false,false,false,dribbling,pace
+Robson,FW,L,35,BRA,5,false,false,false,heading,finishing
+Ronald Barcellos,FW,R,24,BRA,5,false,false,false,finishing,stamina
+Hélio Borges,FW,R,26,BRA,6,true,false,false,pace,crossing
+Hector Bianchi,FW,L,21,BRA,5,false,false,false,finishing,stamina
+Jardiel,FW,R,21,BRA,6,false,false,false,playmaking,finishing
+Carlão,FW,L,34,BRA,7,false,false,false,finishing,pace
+Diego Mathias,FW,R,27,BRA,4,true,false,false,dribbling,finishing
+Nicolas Careca,FW,R,29,BRA,5,false,false,false,pace,crossing

@@ -1,0 +1,13 @@
+name = "Liverpool"
+country = "ENG"
+level = 25
+reputation = 5
+colors = ["#F0F0F0", "#008070"]
+
+[stadium]
+name = "Anfield"
+capacity = 61276
+
+[coach]
+name = "Giorgi Leoni"
+country = "BRA"

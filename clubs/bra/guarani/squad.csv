@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Andrey Ventura,GK,R,33,BRA,7,false,false,false,reflexes,rushing-out
+Caíque França,GK,R,31,BRA,2,true,false,false,rushing-out,positioning
+Mateus Claus,GK,R,31,BRA,5,false,false,false,reflexes,penalty-saving
+Fred Conte,GK,R,23,BRA,6,false,false,false,positioning,rushing-out
+Rafael Donato,CB,R,37,BRA,7,false,false,false,stamina,heading
+Maurício Antônio,CB,R,34,BRA,3,false,false,false,heading,tackling
+Jonathan Costa,CB,R,31,BRA,5,true,false,false,tackling,heading
+Raphael,CB,R,27,BRA,6,true,false,false,heading,stamina
+Edson,CB,R,23,BRA,7,false,false,false,tackling,pace
+Emerson Barbosa,FB,R,27,BRA,6,true,false,false,crossing,pace
+Renan Castro,FB,L,30,BRA,3,false,false,false,dribbling,pace
+Ynaiã,FB,L,27,BRA,5,true,false,false,tackling,pace
+Yan,FB,R,20,BRA,6,false,false,false,pace,crossing
+Rian,FB,L,22,BRA,7,false,false,false,crossing,passing
+Willian Farias,MF,R,37,BRA,4,false,false,false,pace,dribbling
+Ralf,MF,L,20,BRA,5,false,false,false,pace,dribbling
+Nathan Melo,MF,R,25,BRA,6,true,false,false,passing,playmaking
+Vinicius Yuji,MF,R,22,BRA,7,false,false,false,pace,dribbling
+Carlos Eduardo,MF,L,24,BRA,5,false,false,false,heading,finishing
+Igor Pereira,MF,R,25,BRA,6,true,false,false,passing,playmaking
+Diego Torres,MF,R,35,ARG,1,true,false,false,playmaking,dribbling
+João Paulo,MF,R,35,BRA,5,false,false,false,crossing,marking
+Isaque,MF,L,29,BRA,6,true,false,false,finishing,playmaking
+Kauã Jesus,MF,R,22,BRA,7,false,false,false,stamina,tackling
+Lucca,FW,R,36,BRA,2,true,false,false,finishing,dribbling
+Éverton Brito,FW,R,31,BRA,5,false,false,false,finishing,pace
+Mirandinha,FW,R,26,BRA,6,false,false,false,finishing,heading
+Guilherme Cachoeira,FW,R,24,BRA,7,false,false,false,dribbling,playmaking
+Herbert,FW,R,26,BRA,2,false,false,false,finishing,stamina
+Matheus Guilherme,FW,L,26,BRA,6,false,false,false,playmaking,finishing
+Maranhão,FW,L,27,BRA,7,true,false,false,pace,dribbling
+Lucas Macedo,FW,R,22,BRA,4,false,false,false,heading,finishing
+Kewen,FW,R,21,BRA,5,false,false,false,pace,dribbling

@@ -1,0 +1,19 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Folly Ayayi,GK,R,31,TOG,7,true,false,false,positioning,penalty-saving
+Foungnigue Yeo,GK,L,24,CIV,7,false,false,false,rushing-out,penalty-saving
+René Cho,GK,L,29,CIV,4,false,false,false,positioning,rushing-out
+Zoumana Sidibé,FB,L,25,CIV,5,true,false,false,crossing,pace
+Martial Le Brun,FB,R,18,CIV,3,true,false,false,crossing,marking
+Léon Abou,FB,R,28,CIV,2,false,false,false,marking,finishing
+Osée Niegbo,CB,R,26,CIV,10,true,false,false,marking,pace
+Camara,CB,L,24,CIV,2,true,false,false,heading,stamina
+Patrick Bedia,CB,R,20,CIV,1,false,false,false,heading,stamina
+Mohamed Ouattara,MF,R,27,CIV,9,true,false,false,tackling,marking
+Konaté,MF,R,18,CIV,7,true,false,false,finishing,passing
+Mamadou Koné,MF,L,19,CIV,6,true,false,false,tackling,marking
+Oura,MF,L,27,CIV,4,true,false,false,finishing,passing
+Serge Bamba,MF,L,25,CIV,5,false,false,false,marking,passing
+Abdoulaye Cornet,MF,L,23,CIV,1,false,false,false,playmaking,finishing
+Seydou Traoré,FW,L,18,MLI,5,true,false,false,finishing,pace
+Mohamed Sylla,FW,R,20,CIV,10,true,false,false,finishing,stamina
+Augustin Kader,FW,R,20,CIV,10,false,false,false,finishing,pace

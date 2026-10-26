@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mathías Bernatene,GK,R,25,URU,5,true,false,false,positioning,reflexes
+Martín Campaña,GK,R,37,URU,6,false,false,false,positioning,reflexes
+Enzo Castillo,CB,R,25,URU,7,true,false,false,tackling,marking
+Santiago Strasorier,CB,R,26,ARG,4,true,false,false,tackling,marking
+Santiago Laquidaín,CB,L,25,ARG,5,false,false,false,stamina,tackling
+Diego Romero,FB,L,26,URU,6,true,false,false,pace,stamina
+Kevin Lewis,FB,L,27,URU,7,false,false,false,stamina,pace
+Agustín Cayetano,FB,L,26,URU,4,false,false,false,passing,pace
+Kevin Amaro,FB,R,22,URU,5,true,false,false,passing,crossing
+Facundo Perdomo,FB,L,26,URU,6,false,false,false,tackling,stamina
+Jean Rosso,FB,L,29,URU,6,false,false,false,pace,crossing
+Santiago Milano,MF,R,23,URU,7,true,false,false,playmaking,dribbling
+Nicolás Garayalde,MF,L,27,ARG,4,true,false,false,passing,playmaking
+Ezequiel Olivera,MF,L,22,URU,5,false,false,false,pace,marking
+Matías Mir,MF,R,23,URU,6,true,false,false,pace,crossing
+Lucas Acosta,MF,R,24,URU,7,true,false,false,finishing,passing
+Gonzalo de Mello,MF,R,21,URU,1,false,false,false,playmaking,passing
+Thiago Brizuela,MF,L,17,URU,5,false,false,false,tackling,marking
+Federico Martínez,FW,R,30,URU,6,true,false,false,heading,finishing
+Ramiro Degregorio,FW,R,23,ARG,7,false,false,false,dribbling,pace
+Diego Zabala,FW,R,34,URU,6,false,false,false,finishing,pace
+Alfonso de Luca,FW,R,20,URU,7,false,false,false,playmaking,finishing
+Renzo Machado,FW,R,20,URU,3,false,false,false,heading,pace
+Facundo Barceló,FW,L,33,URU,5,false,false,false,playmaking,finishing
+Rubén Bentancourt,FW,R,33,URU,6,true,false,false,heading,finishing
+Felipe Barrenechea,FW,L,19,LTU,7,false,false,false,dribbling,finishing

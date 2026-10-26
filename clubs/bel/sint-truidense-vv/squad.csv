@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ryotaro Ito,MF,R,28,JPN,7,true,false,false,pace,passing
+Loic Lapoussin,FW,L,30,BEL,4,false,false,false,stamina,dribbling
+Arbnor Muja,FW,L,27,ALB,5,false,false,false,pace,stamina
+Abdoulaye Sissako,MF,R,28,FRA,6,true,false,false,dribbling,stamina
+Wolke Janssens,CB,R,31,BEL,8,false,false,false,marking,heading
+Simen Juklerod,FB,L,32,NOR,4,false,false,false,pace,stamina
+Ilias Sebaoui,FW,L,24,MAR,5,true,false,false,pace,stamina
+Rihito Yamamoto,MF,L,24,JPN,6,true,false,false,passing,tackling
+Shogo Taniguchi,CB,R,35,JPN,9,true,false,false,stamina,tackling
+Robert Jan Vanwesemael,FW,R,24,BEL,5,false,false,false,dribbling,pace
+Andres Ferrari,FW,R,23,URU,4,false,false,false,finishing,dribbling
+Taiga Hata,FB,L,24,JPN,5,true,false,false,pace,crossing
+Rein Van Helden,FB,R,24,BEL,6,true,false,false,stamina,passing
+Isaias Delpupo,MF,L,23,ARG,9,false,false,false,dribbling,passing
+Visar Musliu,CB,L,31,BEL,3,true,false,false,marking,tackling
+Kaito Matsuzawa,MF,R,25,JPN,5,true,false,false,stamina,pace
+Jay David Mbalanda,FW,R,19,BEL,6,false,false,false,pace,stamina
+Arthur Alexis,MF,R,20,BEL,7,false,false,false,stamina,pace
+Adam Nhaili,MF,R,21,BEL,3,false,false,false,dribbling,playmaking
+Keisuke Goto,FW,R,21,JPN,5,true,false,false,finishing,heading
+Hugo Lambotte,CB,R,20,BEL,3,false,false,false,tackling,stamina
+Leo Kokubo,GK,R,25,JPN,5,true,false,false,reflexes,penalty-saving
+Jo Coppens,GK,L,35,BEL,6,false,false,false,positioning,penalty-saving
+Matt Lendfers,GK,R,20,BEL,7,false,false,false,penalty-saving,reflexes

@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Pedro Díaz,MF,R,28,ESP,6,true,false,false,stamina,passing
+Unai López,MF,L,30,ESP,7,true,false,false,passing,stamina
+Andrei Ratiu,FB,R,28,ROU,9,true,false,false,pace,dribbling
+Isi,FW,L,31,ESP,5,false,false,false,pace,crossing
+Oscar Trejo,MF,R,38,ARG,6,false,false,false,playmaking,passing
+Pep Chavarría,FB,L,28,ESP,7,true,false,false,stamina,pace
+Pacha Espino,FB,L,34,URU,9,false,false,false,stamina,pace
+Randy Nteka,FW,L,28,FRA,5,false,false,false,stamina,heading
+Ivan Balliu,FB,R,34,ALB,6,false,false,false,stamina,pace
+De Frutos,FW,R,29,ESP,7,true,false,false,pace,dribbling
+Álvaro García,FW,L,33,ESP,6,false,false,false,pace,crossing
+Gumbau,MF,L,31,ESP,6,false,false,false,passing,playmaking
+Florian Lejeune,CB,R,35,FRA,8,false,false,false,tackling,marking
+Pathe Ciss,MF,R,32,SEN,5,true,false,false,stamina,heading
+Óscar Valentín,MF,R,32,ESP,6,true,false,false,stamina,tackling
+Alemão,FW,R,28,BRA,7,true,false,false,stamina,pace
+Abdul Mumin,CB,R,28,GHA,8,true,false,false,marking,tackling
+Sergio Camello,FW,R,25,ESP,6,false,false,false,playmaking,dribbling
+Jozhua Vertrouwd,CB,L,22,NED,6,false,false,false,stamina,pace
+Fran Pérez,FW,R,23,ESP,8,false,false,false,dribbling,passing
+Luiz Felipe,CB,L,29,ITA,6,false,false,false,tackling,heading
+Nobel Mendy,CB,L,22,FRA,6,true,false,false,pace,tackling
+Samu Becerra,MF,R,20,ESP,7,false,false,false,stamina,pace
+Diego Méndez,MF,R,23,ESP,1,false,false,false,tackling,marking
+De las Sías,CB,R,20,ESP,6,false,false,false,stamina,tackling
+Augusto Batalla,GK,R,30,ARG,6,true,false,false,reflexes,rushing-out
+Dani Cárdenas,GK,R,29,ESP,7,false,false,false,reflexes,positioning
+Juanpe Gil,GK,R,25,ESP,2,false,false,false,reflexes,penalty-saving
+Adrián Molina,GK,R,21,ESP,6,false,false,false,reflexes,penalty-saving

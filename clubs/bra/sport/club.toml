@@ -1,0 +1,14 @@
+name = "Sport"
+country = "BRA"
+state = "PE"
+level = 14
+reputation = 3
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Marcelo Adriano"
+country = "BRA"

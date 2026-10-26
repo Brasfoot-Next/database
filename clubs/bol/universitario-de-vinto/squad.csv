@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Bruno Poveda,GK,L,22,BOL,4,true,false,false,positioning,rushing-out
+Paolo Garcia,GK,R,24,BOL,5,false,false,false,positioning,penalty-saving
+Jesús Careaga,GK,L,29,BOL,6,false,false,false,penalty-saving,reflexes
+Brayan Calderón,CB,R,27,BOL,6,true,false,false,marking,passing
+Brian López,CB,R,26,BOL,9,true,false,false,heading,tackling
+Julio Lazarte,FB,R,18,BOL,4,false,false,false,dribbling,pace
+Agustín Jara,FB,R,34,ARG,5,false,false,false,tackling,marking
+José Pinto,FB,L,26,BOL,7,true,false,false,marking,crossing
+Gustavo Visalla,FB,R,23,BOL,1,false,false,false,pace,tackling
+Alvaro Cuestas,FB,L,30,BOL,4,true,false,false,crossing,pace
+Paolo Alcócer,MF,L,25,BOL,8,true,false,false,pace,dribbling
+Ezequiel Straccia,MF,R,35,ARG,4,false,false,false,finishing,playmaking
+Daniel Camacho,MF,R,27,BOL,6,true,false,false,passing,finishing
+Hernán Rodríguez,MF,L,29,BOL,7,true,false,false,stamina,pace
+Marco Gomez,MF,R,28,BOL,10,true,false,false,passing,tackling
+Didí Torrico,MF,R,38,BOL,4,false,false,false,playmaking,finishing
+Sergio Pardo,MF,L,25,BOL,6,false,false,false,stamina,tackling
+Hugo Dorrego,MF,R,33,URU,7,false,false,false,pace,crossing
+Yeferson Mamani,MF,R,21,BOL,1,false,false,false,pace,stamina
+Guilder Cuellar,FW,R,27,BOL,5,true,false,false,finishing,pace
+Joel Calicho,FW,R,31,BOL,6,false,false,false,pace,crossing
+José Veizaga,FW,R,29,BOL,6,false,false,false,heading,pace
+Jair Torrico,FW,R,33,BOL,10,false,false,false,pace,crossing
+Rodrigo Llano,FW,R,33,COL,5,false,false,false,heading,pace
+Diego Saavedra,FW,R,27,BOL,6,true,false,false,finishing,pace

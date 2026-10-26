@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ricardo Esgaio,FB,R,33,POR,8,true,false,false,crossing,passing
+Jure Balkovec,CB,L,32,SVN,4,true,false,false,crossing,marking
+Berkay Ozcan,MF,L,28,TUR,5,true,false,false,stamina,dribbling
+Daniel Johnson,MF,R,34,JAM,6,true,false,false,stamina,playmaking
+Matias Kranevitter,MF,R,33,ARG,9,true,false,false,passing,tackling
+Sam Larsson,MF,R,33,SWE,4,true,false,false,pace,passing
+Camacho,FW,L,32,POR,5,false,false,false,pace,dribbling
+David Datro Fofana,FW,R,23,CIV,1,true,false,false,pace,dribbling
+Andre Gray,FW,L,35,JAM,5,false,false,false,pace,finishing
+Serginho,FW,R,31,BRA,6,true,false,false,dribbling,pace
+Atakan Cankaya,FB,R,28,TUR,5,true,false,false,stamina,heading
+Alper Demirol,MF,R,24,SWE,6,false,false,false,passing,stamina
+Tugbey Akgun,MF,R,23,TUR,8,false,false,false,passing,pace
+Tiago Cukur,FW,R,23,TUR,4,false,false,false,pace,heading
+Cagtay Kurukalip,FB,L,24,TUR,5,false,false,false,pace,crossing
+Omer Faruk Gumus,MF,R,23,TUR,6,false,false,false,pace,passing
+Enzo Roco,CB,R,34,CHI,9,true,false,false,heading,tackling
+Baris Kalayci,MF,R,21,TUR,4,false,false,false,pace,dribbling
+Maruis Tresor Doh,MF,R,22,CIV,5,false,false,false,passing,pace
+Ahmet Sivri,FW,L,27,TUR,6,false,false,false,heading,finishing
+Muhammed Kadioglu,CB,R,19,TUR,8,false,false,false,heading,tackling
+Anil Yigit Cinar,CB,R,23,TUR,4,false,false,false,tackling,stamina
+Burhan Ersoy,CB,R,23,TUR,5,false,false,false,stamina,pace
+Nikoloz Ugrekhelidze,CB,R,23,GEO,6,false,false,false,tackling,pace
+Ivo Grbic,GK,R,30,CRO,9,true,false,false,reflexes,penalty-saving
+Kerem Yandal,GK,R,20,TUR,4,false,false,false,reflexes,positioning
+Furkan Beklevic,GK,R,27,TUR,5,false,false,false,penalty-saving,reflexes

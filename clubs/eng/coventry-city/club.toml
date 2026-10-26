@@ -1,0 +1,13 @@
+name = "Coventry City"
+country = "ENG"
+level = 14
+reputation = 3
+colors = ["#F0F0F0", "#808080"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Brandon Torp"
+country = "BRA"

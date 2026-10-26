@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Plamen Iliev,GK,L,34,BUL,6,false,false,false,positioning,rushing-out
+Pedro Victor,GK,L,25,BRA,3,true,false,false,rushing-out,positioning
+Mateo Juric-Petrasilo,CB,R,21,CRO,5,false,false,false,heading,tackling
+Dimo Krastev,CB,R,23,BUL,6,false,false,false,stamina,heading
+Jhonatan Cuero,CB,R,25,COL,7,true,false,false,tackling,marking
+Vasco Oliveira,CB,R,26,POR,3,true,false,false,heading,marking
+Angel Granchov,CB,R,33,BUL,5,false,false,false,tackling,pace
+Joey Tshitoku,CB,R,24,NED,6,false,false,false,stamina,heading
+Boris Ivanov,FB,R,24,BUL,7,true,false,false,passing,crossing
+Zakaria Tindano,FB,R,19,BUL,4,false,false,false,dribbling,pace
+Deyan Lozev,FB,L,32,BUL,7,false,false,false,passing,crossing
+David Valverde,FB,L,26,ESP,1,true,false,false,marking,pace
+Tsvetoslav Marinov,MF,R,20,BUL,5,false,false,false,dribbling,passing
+Sámuel Major,MF,R,24,HUN,6,true,false,false,dribbling,pace
+Buá,MF,L,26,BRA,7,true,false,false,stamina,tackling
+Ricardo Sousa,MF,R,25,POR,2,true,false,false,stamina,tackling
+Damyan Yordanov,MF,R,21,BUL,5,true,false,false,playmaking,dribbling
+Tomás Silva,FW,R,26,POR,6,false,false,false,finishing,pace
+Anton Ivanov,FW,R,21,BUL,7,false,false,false,heading,stamina
+Jota Lopes,FW,R,25,POR,3,false,false,false,playmaking,finishing
+Boubacar Hanne,FW,L,27,POR,7,false,false,false,dribbling,finishing
+Ángel Gomes,FW,L,25,VEN,8,true,false,false,dribbling,pace
+Georg Stojanovski,FW,L,22,BUL,4,false,false,false,pace,crossing
+Ahmed Ahmedov,FW,R,31,BUL,5,true,false,false,finishing,dribbling
+Tsvetelin Chunchukov,FW,R,31,BUL,6,false,false,false,finishing,pace
+Georgi Trifonov,FW,R,24,BUL,9,false,false,false,finishing,stamina

@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Azbe Jug,GK,L,30,SVN,9,false,false,false,penalty-saving,reflexes
+Menno Bergsen,GK,L,22,NED,4,true,false,false,penalty-saving,reflexes
+Martin Milec,FB,R,30,SVN,8,true,false,false,marking,finishing
+Ignacio Guerrico,FB,L,24,ARG,5,false,false,false,marking,finishing
+Gregor Sikosek,FB,L,28,SVN,8,true,false,false,marking,passing
+Mirko Mutavcic,FB,R,21,SVN,2,false,false,false,marking,finishing
+Nemanja Mitrovic,CB,R,29,SVN,7,true,false,false,tackling,heading
+Max Watson,CB,L,26,SWE,8,true,false,false,tackling,marking
+Luka Uskoković,CB,R,26,MNE,4,false,false,false,tackling,stamina
+Aleks Pihler,MF,L,28,SVN,7,false,false,false,finishing,passing
+Rok Kronaveter,MF,R,35,SVN,7,true,false,false,passing,finishing
+Jan Repas,MF,L,25,SVN,7,true,false,false,passing,finishing
+Aljaz Antolin,MF,R,19,SVN,2,true,false,false,marking,pace
+Rok Maher,MF,L,21,SVN,5,false,false,false,marking,finishing
+Nino Zugelj,FW,L,22,SVN,2,true,false,false,heading,stamina
+Danijel Sturm,FW,L,23,SVN,5,false,false,false,pace,finishing
+Rok Sirk,FW,R,28,SVN,6,false,false,false,pace,finishing
+Marko Zalokar,GK,L,32,SVN,6,false,false,false,positioning,rushing-out
+Sven Karic,CB,L,24,SVN,10,false,false,false,tackling,heading
+Marko Bozic,MF,L,24,AUT,4,true,false,false,finishing,passing
+Ivan Brnic,FW,L,20,CRO,10,true,false,false,heading,pace
+Vladan Vidakovic,MF,R,23,SRB,4,false,false,false,marking,pace

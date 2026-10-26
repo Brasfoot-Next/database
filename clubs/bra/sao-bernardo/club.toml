@@ -1,0 +1,14 @@
+name = "São Bernardo"
+country = "BRA"
+state = "SP"
+level = 11
+reputation = 2
+colors = ["#000000", "#F0D000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Matheus Foguinho"
+country = "BRA"

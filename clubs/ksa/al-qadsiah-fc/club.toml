@@ -1,0 +1,13 @@
+name = "Al Qadsiah FC"
+country = "KSA"
+level = 18
+reputation = 4
+colors = ["#F0D000", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Gabriel Thekri"
+country = "BRA"

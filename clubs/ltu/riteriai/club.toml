@@ -1,0 +1,13 @@
+name = "Riteriai"
+country = "LTU"
+level = 13
+reputation = 2
+colors = ["#ccff00", "#333333"]
+
+[stadium]
+name = "LFF stadionas"
+capacity = 5067
+
+[coach]
+name = "Pablo Villar"
+country = "ESP"

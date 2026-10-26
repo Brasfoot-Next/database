@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lý Tấn Sinh,GK,L,18,VIE,5,false,false,false,reflexes,positioning
+Thảo Thành Ân,GK,R,16,VIE,5,false,false,false,penalty-saving,rushing-out
+Nguyễn Trọng Chính ,FB,L,19,VIE,2,false,false,false,tackling,crossing
+Phạm Hải Thụy,FB,R,17,VIE,2,false,false,false,crossing,marking
+Hoàng Nguyên Giáp,FB,L,17,VIE,5,false,false,false,pace,crossing
+Lục Ngọc Quyết,CB,R,18,VIE,6,false,false,false,tackling,stamina
+Quách Thụy Miên,CB,L,16,VIE,5,false,false,false,marking,heading
+Hoàng Việt Huy,CB,R,19,VIE,9,false,false,false,heading,tackling
+Tiêu Ðức Bảo,MF,L,19,VIE,5,false,false,false,passing,finishing
+Võ Thiên Ðức,MF,R,17,VIE,4,false,false,false,playmaking,pace
+Phan Ðức Hòa,MF,L,16,VIE,5,false,false,false,tackling,finishing
+Trịnh Tuấn Việt,MF,R,19,VIE,7,false,false,false,marking,passing
+Phạm Công Bằng,FW,L,18,VIE,4,false,false,false,dribbling,pace
+An Phú Hiệp,FW,R,17,VIE,7,false,false,false,finishing,stamina
+Nguyễn Hòa Hợp,FW,L,19,VIE,6,false,false,false,finishing,dribbling

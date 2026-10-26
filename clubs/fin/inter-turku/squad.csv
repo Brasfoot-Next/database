@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Matias Riikonen,GK,L,20,FIN,2,true,false,false,positioning,penalty-saving
+Walter Viitala,GK,R,30,FIN,3,false,false,false,positioning,rushing-out
+Juho Hyvärinen,FB,R,22,FIN,5,false,false,false,crossing,pace
+Ryan Mahuta,FB,L,20,FIN,10,false,false,false,marking,passing
+Rodrigo Arciero,FB,R,29,ARG,5,true,false,false,finishing,passing
+Jussi Niska,FB,L,19,FIN,3,true,false,false,crossing,pace
+Juuso Hämäläinen,CB,L,28,FIN,4,false,false,false,tackling,heading
+Noah Nurmi,CB,R,21,FIN,2,true,false,false,tackling,heading
+Ruxi,CB,L,27,ESP,1,true,false,false,heading,stamina
+Aleksi Paananen,MF,L,29,FIN,8,true,false,false,tackling,marking
+Matias Ojala,MF,R,27,FIN,3,false,false,false,marking,finishing
+Petteri Forsell,MF,R,31,FIN,7,true,false,false,dribbling,playmaking
+Elias Mastokangas,MF,R,21,FIN,6,false,false,false,passing,finishing
+Tommi Jyry,MF,R,22,FIN,9,true,false,false,marking,finishing
+Markus Arsalo,MF,R,19,FIN,6,true,false,false,tackling,marking
+David Haro,FW,L,32,ESP,8,true,false,false,finishing,dribbling
+Matias Tamminen,FW,R,20,FIN,8,true,false,false,heading,pace
+Joonas Lepistö,FW,R,24,FIN,5,false,false,false,dribbling,finishing
+Luka Kuittinen,CB,R,19,FIN,3,false,false,false,heading,stamina
+Otto Lehtisalo,FW,L,17,FIN,1,false,false,false,heading,stamina

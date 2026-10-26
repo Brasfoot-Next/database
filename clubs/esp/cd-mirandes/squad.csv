@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Aarón Martín,MF,R,19,ESP,3,true,false,false,stamina,pace
+Marino Illescas,MF,R,25,ESP,5,true,false,false,stamina,pace
+Álex Cardero,MF,R,23,ESP,6,true,false,false,pace,dribbling
+Hugo Novoa,FW,R,23,ESP,7,true,false,false,pace,dribbling
+Ismael Barea,MF,L,21,ESP,3,false,false,false,heading,passing
+Gonzalo Petit,FW,R,19,URU,5,false,false,false,heading,playmaking
+Carlos Fernández,FW,L,30,ESP,6,false,false,false,pace,passing
+Medrano,FB,L,26,ESP,7,true,false,false,pace,stamina
+Rafa Bauza,MF,R,21,ESP,3,false,false,false,passing,tackling
+Zárate,MF,R,22,ESP,5,false,false,false,pace,stamina
+Iker Varela,FW,L,23,ESP,3,false,false,false,finishing,passing
+Thiago Helguera,MF,R,20,URU,5,true,false,false,pace,stamina
+Toni Tamarit,FW,R,20,ESP,6,false,false,false,pace,dribbling
+Pablo Pérez,FB,L,25,ESP,7,false,false,false,stamina,pace
+Juan Gutiérrez,FB,R,26,ESP,3,true,false,false,stamina,pace
+Alberto Marí,FW,R,25,ESP,5,true,false,false,heading,finishing
+Pablo López,FW,L,20,ESP,6,false,false,false,playmaking,crossing
+Etienne Eto'o,FW,R,24,CMR,6,false,false,false,finishing,pace
+Iker Córdoba,CB,L,20,ESP,8,true,false,false,heading,tackling
+Salim El Jebari,FW,L,22,MAR,4,false,false,false,pace,dribbling
+Arriola,FW,L,22,ESP,6,false,false,false,pace,dribbling
+Postigo,CB,R,37,ESP,7,false,false,false,marking,heading
+Pica,CB,R,24,ESP,3,false,false,false,tackling,marking
+Gabri,FW,R,23,ESP,5,false,false,false,pace,dribbling
+Hodei,FB,R,23,ESP,6,false,false,false,pace,tackling
+Martín Pascual,CB,L,27,ESP,7,true,false,false,tackling,heading
+Edu Coniac,CB,R,21,ESP,3,false,false,false,heading,pace
+Abdou Maiga,CB,L,19,MLI,5,false,false,false,heading,stamina
+Igor Nikic,GK,R,26,MNE,5,true,false,false,penalty-saving,reflexes
+Juanpa,GK,R,26,ESP,6,false,false,false,reflexes,positioning
+Ale Gorrín,GK,R,24,ESP,6,false,false,false,reflexes,penalty-saving

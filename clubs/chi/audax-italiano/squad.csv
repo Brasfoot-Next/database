@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Joaquín Muñoz,GK,L,31,CHI,1,true,false,false,rushing-out,penalty-saving
+Álvaro Salazar,GK,L,29,CHI,9,false,false,false,positioning,rushing-out
+Matías Álvarez,GK,R,21,CHI,10,false,false,false,reflexes,positioning
+Osvaldo Bosso,FB,R,28,CHI,1,true,false,false,crossing,pace
+Fernández,FB,R,22,CHI,6,false,false,false,marking,pace
+Roberto Cereceda,FB,L,37,CHI,2,true,false,false,finishing,passing
+Diego Torres,FB,L,29,CHI,3,false,false,false,marking,pace
+Carlos Labrín,CB,L,31,CHI,10,true,false,false,tackling,marking
+Fabián Torres,CB,R,33,CHI,9,true,false,false,heading,stamina
+Raúl Osorio,CB,R,27,CHI,2,false,false,false,tackling,heading
+Pablo Alvarado,CB,L,36,ARG,7,false,false,false,tackling,marking
+Jorge Henríquez,MF,R,28,CHI,7,true,false,false,finishing,passing
+Oliver Rojas,MF,L,22,CHI,2,false,false,false,marking,finishing
+Nicolás Aedo,MF,R,21,CHI,1,false,false,false,playmaking,passing
+Fernando Cornejo,MF,R,26,CHI,4,true,false,false,tackling,pace
+Matías Sepúlveda,MF,L,23,CHI,6,true,false,false,finishing,passing
+Tomás Andrade,MF,L,25,ARG,9,true,false,false,playmaking,passing
+Alfred Canales,MF,R,22,CHI,5,false,false,false,marking,finishing
+Bryan Figueroa,FW,R,23,CHI,5,false,false,false,finishing,dribbling
+Gonzalo Álvarez,FW,L,25,CHI,7,true,false,false,dribbling,finishing
+Germán Estigarribia,FW,L,25,ARG,5,false,false,false,heading,pace
+Luis Riveros,FW,R,24,PAR,3,true,false,false,pace,finishing

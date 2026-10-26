@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Benjamin Büchel,GK,R,33,LIE,8,true,false,false,positioning,rushing-out
+Gion Chande,GK,R,24,SUI,8,false,false,false,positioning,penalty-saving
+Gabriel Foser,GK,R,19,LIE,2,false,false,false,positioning,penalty-saving
+Anthony Goelzer,FB,L,23,FRA,6,true,false,false,crossing,pace
+Merlin Hadzi,FB,R,23,SUI,6,true,false,false,marking,passing
+Joël Ris,FB,L,21,SUI,6,true,false,false,marking,finishing
+Yannick Schmid,CB,L,27,SUI,9,true,false,false,tackling,heading
+Cédric Gasser,CB,R,24,SUI,6,true,false,false,tackling,marking
+Fuad Rahimi,CB,R,24,KVX,1,false,false,false,tackling,heading
+Kevin Iodice,CB,L,21,SUI,4,false,false,false,tackling,stamina
+Tunahan Cicek,MF,L,30,SUI,4,true,false,false,passing,finishing
+Milan Gajic,MF,L,35,SRB,6,false,false,false,tackling,finishing
+Sandro Wieser,MF,R,29,LIE,6,false,false,false,marking,finishing
+Dario Ulrich,MF,R,24,SUI,5,true,false,false,finishing,passing
+Kristijan Dobras,MF,R,29,AUT,1,true,false,false,finishing,passing
+Fabio Fehr,MF,R,22,SUI,9,true,false,false,finishing,passing
+Nicolas Hasler,MF,R,31,LIE,1,false,false,false,tackling,marking
+Ryan Fosso,MF,R,20,SUI,1,false,false,false,tackling,marking
+Manuel Sutter,FW,R,31,AUT,3,true,false,false,dribbling,pace
+Dejan Djokic,FW,L,21,SUI,8,false,false,false,finishing,pace
+Franklin Sasere,FW,R,24,NGA,1,true,false,false,heading,pace
+Elmin Rastoder,FW,R,20,SUI,8,false,false,false,heading,pace

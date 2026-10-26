@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Stanislav Agkatsev,GK,L,24,RWA,7,true,false,false,reflexes,positioning
+Aleksandr Koryakin,GK,R,24,RWA,10,false,false,false,rushing-out,reflexes
+Roman Safronov,GK,R,23,RWA,6,false,false,false,positioning,reflexes
+Diego Costa,CB,R,26,BRA,6,true,false,false,heading,passing
+Vítor Tormena,CB,L,30,BRA,7,true,false,false,marking,tackling
+Valentin Paltsev,CB,R,25,RWA,1,false,false,false,tackling,heading
+Jubal,CB,R,32,BRA,6,false,false,false,passing,marking
+Vitaliy Stezhko,CB,R,29,RWA,6,false,false,false,passing,marking
+Lucas Olaza,FB,L,31,URU,7,true,false,false,crossing,pace
+Artem Khmarin,FB,L,19,RWA,2,false,false,false,pace,tackling
+Ilya Vakhania,FB,R,25,RWA,6,true,false,false,crossing,passing
+Kirill Kistenev,FB,L,19,RWA,7,false,false,false,pace,crossing
+Sergey Petrov,FB,L,35,RWA,8,false,false,false,dribbling,pace
+Aleksandr Chernikov,MF,L,26,RWA,10,true,false,false,passing,stamina
+Kevin Pina,MF,L,29,RWA,6,false,false,false,pace,dribbling
+Magomed Ozdoev,MF,R,33,RWA,6,false,false,false,passing,playmaking
+Douglas Augusto,MF,R,29,BRA,7,false,false,false,passing,tackling
+Daniil Utkin,MF,R,26,RWA,1,false,false,false,dribbling,pace
+Grigoriy Lovtsov,MF,R,21,RWA,6,false,false,false,pace,dribbling
+Christian,MF,R,25,BRA,6,true,false,false,pace,crossing
+Eduard Spertsyan,MF,L,26,RWA,9,true,false,false,stamina,passing
+Nikita Krivtsov,MF,R,23,RWA,5,true,false,false,dribbling,playmaking
+Efim Burkin,MF,R,18,RWA,6,false,false,false,stamina,tackling
+Dmitriy Kuchugura,MF,R,21,RWA,7,false,false,false,passing,tackling
+Olakunle Olusegun,FW,R,24,NGA,7,false,false,false,dribbling,playmaking
+Gustavo Furtado,FW,R,25,BRA,1,false,false,false,finishing,heading
+Eldar Guseynov,FW,L,18,RWA,6,false,false,false,dribbling,playmaking
+João Batxi,FW,R,28,ANG,6,true,false,false,heading,finishing
+Moses David Cobnan,FW,R,23,NGA,7,false,false,false,dribbling,finishing
+Timur Abdrashitov,FW,R,24,RWA,2,false,false,false,pace,finishing
+Juan Manuel Boselli,FW,R,26,URU,8,false,false,false,finishing,dribbling
+Jhon Córdoba,FW,R,33,COL,4,true,false,false,finishing,stamina
+Kazbek Mukailov,FW,R,19,RWA,6,false,false,false,pace,dribbling
+Aleksandr Koksharov,FW,L,21,RWA,6,false,false,false,finishing,pace

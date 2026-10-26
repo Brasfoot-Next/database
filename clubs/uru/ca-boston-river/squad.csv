@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Bruno Antúnez,GK,R,23,URU,7,true,false,false,reflexes,positioning
+Juan González,GK,R,33,URU,4,false,false,false,positioning,reflexes
+Mateo Rivero,CB,R,21,URU,5,false,false,false,tackling,marking
+Ignacio Fernandez,CB,R,17,URU,6,false,false,false,marking,heading
+Marco Mancebo,CB,R,25,URU,3,true,false,false,marking,tackling
+Agustín Aguirre,CB,R,22,ARG,5,true,false,false,marking,tackling
+Martín González,CB,L,32,URU,6,false,false,false,marking,tackling
+Fredy Martínez,FB,L,25,URU,7,true,false,false,stamina,pace
+Jairo O'Neil,FB,L,25,URU,4,true,false,false,pace,stamina
+Lautaro Vázquez,FB,L,20,URU,5,false,false,false,stamina,crossing
+Rafael Haller,FB,L,25,URU,2,false,false,false,crossing,passing
+Juan Acosta,FB,R,32,URU,5,false,false,false,tackling,marking
+Rodrigo Saravia,MF,R,26,URU,6,true,false,false,stamina,passing
+Federico Dafonte,MF,R,21,URU,7,false,false,false,finishing,passing
+Agustín Amado,MF,L,25,URU,3,true,false,false,passing,playmaking
+Andrés Romero,MF,L,23,VEN,5,true,false,false,stamina,passing
+Gastón Ramírez,MF,R,35,URU,6,false,false,false,dribbling,passing
+Facundo Muñoa,MF,L,22,URU,7,false,false,false,stamina,tackling
+Yair González,MF,L,24,ARG,3,true,false,false,stamina,tackling
+Franco Pérez,FW,R,24,URU,5,false,false,false,finishing,stamina
+Leandro Suhr,FW,R,28,URU,9,true,false,false,pace,stamina
+Francisco Bonfiglio,FW,R,24,ARG,4,false,false,false,finishing,stamina
+Felipe Avenatti,FW,R,33,URU,6,false,false,false,pace,finishing
+Alexander González,FW,R,24,URU,7,true,false,false,stamina,pace
+Facundo Rodríguez,FW,L,31,URU,1,false,false,false,pace,finishing
+Brayan Alcocer,FW,R,22,VEN,5,false,false,false,finishing,dribbling

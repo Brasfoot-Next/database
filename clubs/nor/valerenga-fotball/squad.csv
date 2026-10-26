@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Henrik Bjordal,MF,R,29,NOR,6,true,false,false,stamina,pace
+Petter Strand,FW,R,32,NOR,7,true,false,false,stamina,pace
+Vegar Eggen Hedenstad,FB,R,35,NOR,4,false,false,false,stamina,pace
+Elias Hagen,MF,R,26,NOR,5,true,false,false,stamina,passing
+Brice Ambina,MF,R,24,CMR,6,true,false,false,stamina,passing
+Vinícius Nogueira,FB,L,24,BRA,8,false,false,false,stamina,pace
+Elias Sorensen,FW,L,26,DEN,4,false,false,false,pace,stamina
+Noah Pallas,FB,L,25,FIN,5,true,false,false,pace,stamina
+Kevin Tshiembe,CB,L,29,DEN,6,false,false,false,stamina,pace
+Carl Lange,MF,L,27,DEN,7,true,false,false,pace,playmaking
+Mohamed Ofkir,FW,R,30,NOR,6,false,false,false,pace,stamina
+Ivan Nasberg,CB,L,30,NOR,8,true,false,false,tackling,stamina
+Sebastian Jarl,CB,R,26,NOR,4,false,false,false,stamina,heading
+Hakon Sjatil,FB,R,23,NOR,5,true,false,false,stamina,crossing
+Stian Sjovold,MF,R,20,NOR,6,false,false,false,pace,passing
+Mathias Grundetjern,FW,R,26,NOR,10,true,false,false,pace,finishing
+Aaron Kiil Olsen,CB,R,25,NOR,5,true,false,false,pace,stamina
+Filip Erik Thorvaldsen,FW,R,20,NOR,5,false,false,false,pace,dribbling
+Omar Bully Drammeh,FW,L,23,NOR,6,false,false,false,pace,dribbling
+Obasi Onyebuchi,FW,L,21,NGA,7,false,false,false,pace,dribbling
+Lorents Apold Aasen,FW,L,19,NOR,6,false,false,false,pace,stamina
+Oscar Hedvall,GK,L,28,DEN,7,true,false,false,reflexes,penalty-saving
+Jacob Storevik,GK,R,30,NOR,4,false,false,false,positioning,reflexes

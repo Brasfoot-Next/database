@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Oliver Cooper,MF,R,26,WAL,8,true,false,false,stamina,dribbling
+Callum Wright,MF,R,26,ENG,4,false,false,false,stamina,passing
+Christian Saydee,FW,R,24,ENG,5,false,false,false,stamina,pace
+Paul Mullin,FW,R,31,ENG,6,false,false,false,pace,stamina
+Jensen Weir,MF,R,24,ENG,9,true,false,false,stamina,pace
+Matthew Smith,MF,R,25,ENG,4,true,false,false,stamina,passing
+Fraser Murray,FW,R,27,SCO,5,true,false,false,pace,playmaking
+Ryan Trevitt,MF,L,23,ENG,6,true,false,false,playmaking,dribbling
+Joseph Hungbo,FW,L,26,ENG,1,true,false,false,pace,dribbling
+Jason Kerr,CB,R,29,SCO,5,true,false,false,stamina,pace
+Steven Sessegnon,FB,L,26,ENG,7,true,false,false,pace,stamina
+Morgan Fox,CB,L,32,WAL,1,true,false,false,stamina,tackling
+Joe Adams,MF,R,22,ENG,5,false,false,false,pace,stamina
+Baba Adeeko,MF,R,23,IRL,6,false,false,false,stamina,passing
+Raphael,FW,L,22,AUS,7,false,false,false,pace,dribbling
+Tyrese Francois,MF,L,26,AUS,4,false,false,false,passing,stamina
+Dara Costelloe,FW,L,23,IRL,5,false,false,false,pace,stamina
+Isaac Mabaya,FB,R,21,ZIM,6,false,false,false,pace,stamina
+Callum Mcmanaman,FW,R,35,ENG,8,false,false,false,pace,dribbling
+Harry Mchugh,MF,L,23,ENG,4,false,false,false,pace,passing
+Tobias Brenan,MF,R,20,ENG,6,false,false,false,pace,dribbling
+Maleace Asamoah,FW,R,23,ENG,7,false,false,false,pace,dribbling
+Luke Robinson,FB,L,24,SCO,4,false,false,false,pace,stamina
+James Carragher,FB,R,23,MLT,5,true,false,false,pace,heading
+Will Aimson,CB,R,32,ENG,6,false,false,false,heading,tackling
+Chris Sze,FW,R,22,ENG,7,false,false,false,pace,finishing
+Kmarni Miller,FB,L,20,ENG,5,false,false,false,pace,stamina
+Toby Savin,GK,R,25,ENG,6,true,false,false,reflexes,penalty-saving
+Sam Tickle,GK,L,24,ENG,7,false,false,false,reflexes,positioning
+Tom Watson,GK,R,22,ENG,3,false,false,false,reflexes,penalty-saving

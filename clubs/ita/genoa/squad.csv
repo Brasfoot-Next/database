@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nicolae Stanciu,MF,R,33,ROU,7,false,false,false,stamina,passing
+Ruslan Malinovskyi,MF,L,33,UKR,7,true,false,false,crossing,playmaking
+Maxwel Cornet,FW,L,29,CIV,5,false,false,false,pace,dribbling
+Albert Gronbaek,MF,R,25,DEN,6,false,false,false,stamina,dribbling
+Aarón Martín,FB,L,29,ESP,7,true,false,false,crossing,stamina
+Morten Frendrup,MF,L,25,DEN,8,true,false,false,stamina,tackling
+Junior Messias,MF,L,35,BRA,5,false,false,false,dribbling,pace
+Morten Thorsby,MF,R,30,NOR,6,true,false,false,heading,stamina
+Mikael Egill Ellertsson,FW,L,24,ISL,7,false,false,false,stamina,dribbling
+Jean Onana,MF,R,26,CMR,8,false,false,false,dribbling,passing
+Vitinha,FW,R,26,POR,6,false,false,false,dribbling,finishing
+Valentin Carboni,FW,L,21,ARG,7,false,false,false,passing,dribbling
+Caleb Ekuban,FW,R,32,GHA,8,false,false,false,pace,finishing
+Brooke Norton Cuffy,FB,R,22,ENG,5,true,false,false,pace,dribbling
+Stefano Sabelli,FB,R,33,ITA,6,false,false,false,stamina,pace
+Patrizio Masini,MF,R,25,ITA,7,true,false,false,passing,pace
+Lorenzo Colombo,FW,L,24,ITA,9,true,false,false,finishing,heading
+Johan Vasquez,CB,L,27,MEX,5,true,false,false,stamina,heading
+Hugo Cuenca,FW,L,21,PAR,6,false,false,false,pace,stamina
+Leo Ostigard,CB,R,26,NOR,7,false,false,false,heading,tackling
+Seydou Fini,FW,R,20,ITA,7,false,false,false,pace,dribbling
+Alessandro Marcandalli,CB,R,24,ITA,2,true,false,false,pace,marking
+Sebastian Otoa,CB,R,22,DEN,5,false,false,false,tackling,pace
+Jeff Ekhator,FW,R,19,ITA,6,true,false,false,pace,dribbling
+Lorenzo Venturino,FW,R,20,ITA,6,false,false,false,pace,passing
+Daniele Sommariva,GK,R,29,ITA,7,false,false,false,reflexes,penalty-saving
+Nicola Leali,GK,R,33,ITA,5,true,false,false,penalty-saving,reflexes
+Benjamin Siegrist,GK,R,34,SUI,6,false,false,false,positioning,penalty-saving
+Ernestas Lysionok,GK,R,19,LTU,7,false,false,false,reflexes,positioning

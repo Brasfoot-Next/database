@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Darlington Nagbe,MF,L,36,USA,3,false,false,false,passing,stamina
+Daniel Gazdag,MF,L,30,HUN,5,true,false,false,stamina,pace
+Andres Herrera,FB,R,27,ARG,6,true,false,false,pace,dribbling
+Hugo Picard,FW,L,23,FRA,7,false,false,false,stamina,pace
+Dylan Chambost,MF,L,29,FRA,4,true,false,false,stamina,playmaking
+Diego Rossi,MF,R,28,URU,5,true,false,false,pace,stamina
+Steven Moreira,CB,R,32,CPV,6,false,false,false,stamina,passing
+Mohamed Farsi,FW,R,26,ALG,7,false,false,false,pace,stamina
+Malte Amundsen,CB,L,28,DEN,4,true,false,false,pace,stamina
+Max Arfsten,FW,L,25,USA,5,true,false,false,pace,dribbling
+Derrick Jones,MF,L,29,USA,6,false,false,false,stamina,pace
+Sean Zawadzki,CB,R,26,USA,6,true,false,false,pace,stamina
+Amar Sejdic,MF,R,29,GER,10,false,false,false,passing,stamina
+Yevgen Cheberko,CB,L,28,UKR,5,false,false,false,pace,stamina
+Wessam Abou Ali,FW,R,27,DEN,6,true,false,false,pace,finishing
+Rudy Camacho,CB,R,35,FRA,7,false,false,false,stamina,marking
+Lassi Lappalainen,FW,L,28,FIN,4,false,false,false,pace,dribbling
+Ibrahim Aliyu,FW,R,24,NGA,5,false,false,false,pace,dribbling
+Taha Habroune,MF,R,20,USA,6,true,false,false,pace,dribbling
+Jacen Russell Rowe,FW,R,23,CAN,8,false,false,false,pace,finishing
+Tristan Brown,FB,L,18,USA,5,true,false,false,pace,dribbling
+Cesar Ruvalcaba,CB,R,25,USA,6,false,false,false,pace,tackling
+Abraham Romero,GK,R,28,MEX,7,false,false,false,penalty-saving,positioning
+Patrick Schulte,GK,L,25,USA,4,true,false,false,reflexes,positioning
+Evan Bush,GK,R,40,USA,4,false,false,false,penalty-saving,positioning
+Nicholas Hagen,GK,R,30,GUA,5,false,false,false,positioning,reflexes

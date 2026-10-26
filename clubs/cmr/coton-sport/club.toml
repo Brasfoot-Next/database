@@ -1,0 +1,13 @@
+name = "Coton Sport"
+country = "CMR"
+level = 15
+reputation = 3
+colors = ["#008040", "#ffffff"]
+
+[stadium]
+name = "Ominsports"
+capacity = 35000
+
+[coach]
+name = "Aboubakar Souleymanou"
+country = "CMR"

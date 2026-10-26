@@ -1,0 +1,13 @@
+name = "Shakhter Soligorsk"
+country = "BLR"
+level = 15
+reputation = 2
+colors = ["#ffff00", "#000000"]
+
+[stadium]
+name = "Stroitel"
+capacity = 4200
+
+[coach]
+name = "Ivan Bionchik"
+country = "BLR"

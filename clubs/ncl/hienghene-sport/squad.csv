@@ -1,0 +1,19 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rocky Nyikeine,GK,R,28,NCL,4,true,false,false,positioning,rushing-out
+Jacques Nyikeine,GK,L,24,NCL,2,false,false,false,reflexes,positioning
+Émile Béaruné,FB,R,30,NCL,6,true,false,false,marking,pace
+Jordan Dinet,FB,L,28,NCL,6,true,false,false,marking,pace
+Wakanumune,FB,R,19,NCL,8,false,false,false,finishing,passing
+Roy Kayara,CB,R,30,NCL,5,true,false,false,tackling,stamina
+Bruno Hyanem,CB,L,24,NCL,7,true,false,false,tackling,stamina
+Jean-Luc Decoire,CB,R,24,NCL,4,false,false,false,tackling,marking
+Yvanoe Bamy,MF,L,28,NCL,7,false,false,false,tackling,finishing
+Cedric Sansot,MF,R,31,NCL,9,true,false,false,tackling,finishing
+Miguel Kayara,MF,R,34,NCL,2,true,false,false,playmaking,passing
+Joseph Athale,MF,L,25,NCL,4,true,false,false,tackling,marking
+Georgy Bamy,MF,L,25,NCL,4,true,false,false,playmaking,finishing
+Giani Kayara,MF,R,23,NCL,6,false,false,false,passing,finishing
+Antoine Roine,FW,L,28,NCL,1,true,false,false,finishing,stamina
+Bertrand Kai,FW,R,37,NCL,4,true,false,false,heading,pace
+Rayan Oue,FW,R,19,NCL,10,false,false,false,pace,dribbling
+Nelson Kai,FW,L,22,NCL,5,false,false,false,heading,pace

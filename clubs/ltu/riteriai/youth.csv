@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Edgaras Sirkas,GK,L,18,LTU,5,false,false,false,reflexes,positioning
+Jeronimas Vainikonis,GK,R,16,LTU,5,false,false,false,penalty-saving,rushing-out
+Konstantinas Ruskys,FB,L,19,LTU,2,false,false,false,tackling,crossing
+Egidius Dusevicius,FB,R,17,LTU,2,true,false,false,crossing,marking
+Izidorius Svoba,FB,L,17,LTU,5,false,false,false,pace,crossing
+Martas Bukauskas,CB,R,18,LTU,6,false,false,false,tackling,stamina
+Saulenis Depolskis,CB,L,16,LTU,5,false,false,false,marking,heading
+Inocentas Remezas,CB,R,19,LTU,9,false,false,false,heading,tackling
+Artur Dolznikov,MF,L,18,LTU,5,true,false,false,passing,finishing
+Matas Gudaitis,MF,R,18,LTU,4,true,false,false,playmaking,pace
+Jonas Cimolonskis,MF,L,16,LTU,5,false,false,false,tackling,finishing
+Matas Ramanauskas,MF,R,18,LTU,7,true,false,false,marking,passing
+Rokas Filipavicius,FW,L,19,LTU,4,true,false,false,dribbling,pace
+Dominyk Kodz,FW,R,18,LTU,7,true,false,false,finishing,stamina
+Valdas Paulauskas,FW,L,18,LTU,6,true,false,false,finishing,dribbling

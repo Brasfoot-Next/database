@@ -1,0 +1,13 @@
+name = "Central Coast Mariners"
+country = "AUS"
+level = 7
+reputation = 1
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Polytec Stadium"
+capacity = 20059
+
+[coach]
+name = "Ryan Sainsbury"
+country = "BRA"

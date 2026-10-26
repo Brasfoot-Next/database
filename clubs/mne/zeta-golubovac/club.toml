@@ -1,0 +1,13 @@
+name = "Zeta Golubovac"
+country = "MNE"
+level = 13
+reputation = 2
+colors = ["#ff0000", "#ffffff"]
+
+[stadium]
+name = "Tresnjica "
+capacity = 3000
+
+[coach]
+name = "Dejan Batrovic"
+country = "MNE"

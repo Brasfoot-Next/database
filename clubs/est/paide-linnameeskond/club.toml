@@ -1,0 +1,13 @@
+name = "Paide Linnameeskond"
+country = "EST"
+level = 13
+reputation = 1
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Paide"
+capacity = 1000
+
+[coach]
+name = "Karel Voolaid"
+country = "EST"

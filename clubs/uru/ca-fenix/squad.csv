@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nahuel Suárez,GK,R,26,URU,6,true,false,false,rushing-out,reflexes
+Ernesto Hernández,GK,R,41,URU,8,false,false,false,positioning,rushing-out
+Santiago Rodríguez,GK,R,25,URU,5,false,false,false,positioning,penalty-saving
+Guillermo Pereira,CB,R,24,URU,6,true,false,false,tackling,pace
+Lautaro Centurión,CB,R,26,ARG,7,true,false,false,passing,marking
+Renzo Galeano,CB,L,20,URU,4,false,false,false,heading,marking
+Fabián Píriz,FB,R,28,URU,5,true,false,false,dribbling,pace
+Jorge González,FB,L,34,URU,6,false,false,false,crossing,passing
+Augusto Gallo,FB,L,25,ARG,7,true,false,false,marking,crossing
+Alan Acevedo,FB,R,24,URU,4,false,false,false,crossing,passing
+Alex Silva,FB,R,33,URU,7,false,false,false,passing,crossing
+Ángel Rodríguez,MF,R,33,URU,2,false,false,false,pace,dribbling
+Nicolás Prieto,MF,R,33,URU,5,false,false,false,passing,stamina
+Enzo Suárez,MF,R,25,URU,6,true,false,false,playmaking,passing
+Gonzalo Andrada,MF,R,29,URU,7,true,false,false,playmaking,dribbling
+Matías Cabrera,MF,R,24,URU,3,true,false,false,dribbling,passing
+Nahuel De Armas,MF,R,23,URU,5,false,false,false,stamina,tackling
+Nicholas Negro,MF,R,17,URU,6,false,false,false,dribbling,passing
+Esteban González,MF,R,35,URU,7,false,false,false,pace,crossing
+Diego Rosa,MF,L,27,URU,3,true,false,false,pace,crossing
+Fabricio Fernández,MF,R,33,URU,5,false,false,false,stamina,passing
+Bryan Olivera,MF,R,32,URU,6,false,false,false,passing,finishing
+Sebastián De Marco,FW,L,24,URU,7,true,false,false,finishing,stamina
+Lucas Goberville,FW,L,26,ARG,3,true,false,false,pace,finishing
+Axel Pérez,FW,L,24,URU,5,false,false,false,heading,finishing
+Valentin Luciani,FW,R,21,ARG,6,false,false,false,dribbling,playmaking
+Diago Fernández,FW,R,20,URU,7,false,false,false,finishing,dribbling
+Jeremías Silveira,FW,L,22,URU,3,false,false,false,dribbling,finishing
+Gastón Colmán,FW,R,37,URU,5,false,false,false,crossing,pace
+Sebastián Ribas,FW,R,38,URU,6,false,false,false,dribbling,finishing
+Franco Ramos,FW,R,17,URU,5,false,false,false,pace,dribbling

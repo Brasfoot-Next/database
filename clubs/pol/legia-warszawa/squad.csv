@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Damian Szymanski,MF,R,31,POL,6,true,false,false,stamina,tackling
+Rúben Vinagre,FB,L,27,POR,7,true,false,false,stamina,pace
+Pawel Wszolek,FB,R,34,POL,3,false,false,false,stamina,pace
+Juergen Elitim,MF,L,28,COL,6,true,false,false,pace,passing
+Vahan Bichakhchyan,FW,L,27,POL,7,false,false,false,pace,stamina
+Bartosz Kapustka,MF,L,29,POL,3,true,false,false,stamina,pace
+Kamil Piatkowski,CB,R,26,POL,5,true,false,false,stamina,pace
+Kacper Chodyna,FW,R,27,POL,6,false,false,false,pace,stamina
+Petar Stojanovic,FB,R,30,SVN,7,true,false,false,stamina,pace
+Arkadiusz Reca,FB,L,31,POL,3,false,false,false,stamina,pace
+Noah Weisshaupt,FW,L,24,GER,5,false,false,false,dribbling,pace
+Claude Gonçalves,MF,R,32,POR,6,false,false,false,passing,stamina
+Kacper Urbanski,MF,R,22,POL,8,true,false,false,dribbling,passing
+Patryk Kun,FW,L,31,POL,4,false,false,false,pace,dribbling
+Rafal Augustyniak,CB,R,32,POL,5,false,false,false,stamina,passing
+Antonio Colak,FW,R,32,CRO,6,false,false,false,finishing,heading
+Mileta Rajovic,FW,R,27,DEN,1,true,false,false,pace,heading
+Ermal Krasniqi,FW,L,28,POL,5,true,false,false,pace,stamina
+Henrique Arreiol,MF,R,21,POR,5,false,false,false,tackling,passing
+Migouel Alfarela,FW,L,28,FRA,6,false,false,false,dribbling,pace
+Jean Pierre Nsame,FW,R,33,CMR,5,false,false,false,heading,finishing
+Wojciech Urbanski,MF,R,21,POL,6,false,false,false,passing,crossing
+Marco Burch,CB,R,25,SUI,7,false,false,false,stamina,heading
+Artur Jedrzejczyk,CB,R,38,POL,4,false,false,false,stamina,heading
+Steve Kapuadi,CB,L,28,COD,5,true,false,false,stamina,tackling
+Pascal Mozie,MF,L,18,POL,6,false,false,false,pace,stamina
+Radovan Pankov,CB,R,31,SRB,7,false,false,false,stamina,marking
+Jakub Zewlakow,FW,L,19,POL,4,false,false,false,pace,passing
+Gabriel Kobylak,GK,R,24,POL,5,false,false,false,positioning,reflexes
+Kacper Tobiasz,GK,L,23,POL,6,true,false,false,reflexes,penalty-saving
+Marcel Mendes Dudzinski,GK,R,21,POL,7,false,false,false,reflexes,positioning

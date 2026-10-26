@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ali Gholamzadeh,GK,R,22,IRN,2,true,false,false,positioning,rushing-out
+Shahab Gordan,GK,R,38,IRN,5,false,false,false,positioning,penalty-saving
+Vahid Heydarieh,FB,L,29,IRN,4,true,false,false,crossing,marking
+Mojtaba Najarian,FB,R,24,IRN,6,true,false,false,crossing,pace
+Mehdi Shiri,FB,R,31,IRN,1,false,false,false,crossing,marking
+Ayoub Vali,CB,R,34,IRN,8,true,false,false,tackling,stamina
+Aref Aghasi,CB,L,25,IRN,8,true,false,false,tackling,marking
+Moussa Coulibaly,CB,R,29,MLI,2,false,false,false,heading,stamina
+Mohammad Abshak,MF,L,35,IRN,4,true,false,false,marking,pace
+Abdollahzadeh,MF,R,29,IRN,4,true,false,false,tackling,marking
+Alireza Bavieh,MF,R,19,IRN,1,true,false,false,finishing,passing
+Hamid Bouhamdan,MF,R,33,IRN,10,true,false,false,marking,pace
+Sasan Ansari,FW,R,31,IRN,6,true,false,false,heading,pace
+Alireza Koushki,FW,R,22,IRN,3,true,false,false,crossing,pace
+Christopher Knett,GK,L,31,AUT,1,false,false,false,positioning,rushing-out
+Vouria Ghafoori,FB,L,34,IRN,6,false,false,false,marking,finishing
+Sina Shahabassi,CB,L,22,IRN,1,false,false,false,tackling,heading
+Farshid Esmaeili,MF,L,28,IRN,1,false,false,false,finishing,passing
+Khalatbari,FW,R,38,IRN,10,false,false,false,crossing,pace
+Ashkan Dejagah,FW,R,36,IRN,4,false,false,false,pace,finishing
+Ghobeishavi,MF,R,22,IRN,3,false,false,false,finishing,playmaking

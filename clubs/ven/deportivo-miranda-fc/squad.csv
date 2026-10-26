@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jesús Vega,GK,R,23,VEN,6,false,false,false,reflexes,penalty-saving
+Eleazar Espinoza,GK,R,18,VEN,8,false,false,false,positioning,rushing-out
+Diego González,GK,R,22,VEN,4,true,false,false,penalty-saving,reflexes
+Arón Angulo,CB,R,30,VEN,5,true,false,false,marking,passing
+Luisbert Salazar,CB,R,23,VEN,6,true,false,false,stamina,heading
+Víctor Sifontes,CB,L,32,VEN,1,false,false,false,marking,passing
+Andrés Maldonado,CB,L,32,VEN,5,false,false,false,tackling,heading
+Óscar Jiménez,FB,R,23,VEN,5,true,false,false,marking,pace
+Derwuinson Vargas,FB,R,22,VEN,6,false,false,false,marking,pace
+José Ascanio,FB,L,31,VEN,1,false,false,false,marking,crossing
+Giovanni Quatromani,FB,L,23,VEN,5,false,false,false,pace,tackling
+Gabriel Fernandez,FB,R,18,VEN,6,true,false,false,marking,pace
+Salvador Diaz,FB,R,18,VEN,6,false,false,false,crossing,passing
+Óscar Linares,MF,R,22,VEN,1,true,false,false,finishing,playmaking
+Andrés Hernández,MF,R,33,VEN,5,true,false,false,finishing,passing
+Radamés Davis,MF,L,27,VEN,6,true,false,false,playmaking,finishing
+Christian Savarese,MF,R,17,VEN,7,false,false,false,stamina,tackling
+Diomar Díaz,MF,R,36,VEN,1,true,false,false,pace,finishing
+Jorge Barraza,FW,R,17,VEN,5,false,false,false,playmaking,finishing
+Marco Coronado,FW,R,22,VEN,6,false,false,false,pace,finishing
+Darwin Gómez,FW,R,34,VEN,6,false,false,false,crossing,pace
+Diego Claut,FW,R,18,VEN,6,false,false,false,finishing,heading
+Shola Oduoye,FW,R,21,NGA,7,false,false,false,finishing,stamina
+David Olaoye,FW,R,29,ENG,3,true,false,false,dribbling,playmaking
+Miguel Morena,FW,R,30,VEN,5,true,false,false,heading,finishing
+Mathias Teixeira,FW,R,20,POR,6,false,false,false,playmaking,finishing

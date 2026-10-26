@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Krisjanis Zviedris,GK,L,25,LVA,6,true,false,false,positioning,rushing-out
+Luka Radotic,GK,R,22,SRB,10,false,false,false,penalty-saving,reflexes
+Kudrjavcevs,GK,R,24,LVA,3,false,false,false,rushing-out,penalty-saving
+Marquinhos Pedroso,FB,L,28,BRA,2,false,false,false,marking,finishing
+Kriss Karklins,FB,R,26,LVA,2,true,false,false,marking,finishing
+Roberts Savalnieks,FB,L,29,LVA,7,true,false,false,marking,finishing
+Eduards Tidenbergs,FB,R,27,LVA,1,false,false,false,finishing,pace
+Marko Simic,CB,R,35,MNE,7,false,false,false,heading,stamina
+Martín Marta,CB,L,25,URU,9,true,false,false,heading,stamina
+Seydina Keita,CB,R,29,SEN,2,true,false,false,heading,stamina
+Kenan Hreljic,CB,L,24,BIH,2,false,false,false,tackling,stamina
+Martins Kigurs,MF,R,25,LVA,1,true,false,false,passing,finishing
+Leonel Strumia,MF,R,29,ARG,4,true,false,false,tackling,marking
+Lucas Villela,MF,L,28,BRA,7,true,false,false,marking,pace
+Yuriy Tkachuk,MF,L,27,UKR,3,true,false,false,marking,pace
+Ardit Deliu,MF,R,24,ALB,3,false,false,false,tackling,finishing
+Eriks Punculs,MF,R,28,LVA,5,false,false,false,passing,finishing
+Jordy Soladio,MF,L,24,BEL,1,false,false,false,passing,finishing
+Gauthier Mankenda,MF,R,25,COD,8,false,false,false,finishing,passing
+Nemanja Belakovic,FW,L,25,SRB,4,true,false,false,finishing,stamina
+Daniils Hvoinickis,FW,R,24,LVA,8,false,false,false,playmaking,finishing
+Arturs Karasausks,FW,L,30,LVA,8,false,false,false,pace,finishing
+Dodô,FW,R,34,BRA,5,true,false,false,finishing,dribbling

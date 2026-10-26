@@ -1,0 +1,13 @@
+name = "Padova"
+country = "ITA"
+level = 11
+reputation = 2
+colors = ["#E01020", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Kevin Russini"
+country = "BRA"

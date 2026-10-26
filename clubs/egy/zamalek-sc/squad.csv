@@ -1,0 +1,42 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mohamed Sobhi,GK,L,27,EGY,2,true,false,false,rushing-out,positioning
+Mohamed Awad,GK,R,34,EGY,5,false,false,false,penalty-saving,reflexes
+El Mahdi Soliman,GK,R,31,EGY,6,false,false,false,reflexes,positioning
+Mahmoud El Shenawy,GK,R,21,EGY,7,false,false,false,reflexes,positioning
+Hossam Abdelmaguid,CB,R,25,EGY,3,true,false,false,heading,stamina
+Mohamed Ismail,CB,R,26,EGY,5,true,false,false,heading,tackling
+Mahmoud El Wensh,CB,L,31,EGY,6,false,false,false,heading,passing
+Mostafa El Zenary,CB,R,27,EGY,7,false,false,false,tackling,marking
+Ahmed Hossam,CB,R,24,EGY,3,false,false,false,passing,marking
+Ahmed Magdy,CB,R,21,EGY,5,false,false,false,tackling,marking
+Ali Abdelmaguid,CB,L,20,EGY,4,false,false,false,tackling,stamina
+Mahmoud Bentayg,FB,R,26,MAR,5,true,false,false,tackling,pace
+Ahmed Fatouh,FB,L,28,EGY,6,true,false,false,stamina,crossing
+Mohamed Ibrahim,FB,R,20,EGY,7,false,false,false,tackling,marking
+Omar Gaber,FB,L,34,EGY,4,false,false,false,marking,crossing
+Ahmed Mahmoud,FB,R,23,EGY,5,false,false,false,stamina,pace
+Baron Ochieng,FB,R,20,KEN,6,false,false,false,crossing,pace
+Ahmed Rabie,MF,R,25,EGY,3,true,false,false,stamina,passing
+El Sayed Osama,MF,R,20,EGY,5,false,false,false,finishing,passing
+Ahmed Khodary,MF,R,21,EGY,6,false,false,false,playmaking,finishing
+Mahmoud Gehad,MF,R,24,EGY,3,true,false,false,dribbling,pace
+Youssef Wael,MF,R,21,EGY,5,false,false,false,tackling,marking
+Mohamed Shehata,MF,R,25,EGY,6,true,false,false,playmaking,passing
+Mohamed El Sayed,MF,R,20,EGY,7,false,false,false,tackling,marking
+Adam Kaied,MF,R,24,EGY,3,false,false,false,passing,stamina
+Seif Gaafar,MF,R,26,EGY,5,true,false,false,playmaking,passing
+Abdallah El Said,MF,L,31,EGY,6,false,false,false,finishing,passing
+Mohamed Hamad,MF,R,18,EGY,7,false,false,false,playmaking,dribbling
+Ahmed Safwat,MF,R,17,EGY,7,false,false,false,passing,playmaking
+Chico Banza,FW,R,27,ANG,4,false,false,false,pace,dribbling
+Ahmed Sherif,FW,L,23,EGY,6,false,false,false,heading,stamina
+Ahmed Jafeli,FW,R,22,TUN,7,false,false,false,finishing,stamina
+Juan Bezerra,FW,R,23,BRA,3,true,false,false,dribbling,pace
+Mohamed Atef,FW,L,23,EGY,5,false,false,false,dribbling,playmaking
+Ahmed Esho,FW,R,23,EGY,6,false,false,false,finishing,pace
+Hazem Osama,FW,R,22,EGY,7,false,false,false,heading,pace
+Oday Dabbagh,FW,R,27,EGY,3,true,false,false,heading,stamina
+Nasser Mansy,FW,R,28,EGY,5,false,false,false,playmaking,finishing
+Amr Nasser,FW,R,27,EGY,6,false,false,false,pace,finishing
+Hossam Ashraf,FW,L,25,EGY,3,false,false,false,heading,finishing
+Seifeddine Jaziri,FW,R,33,TUN,6,false,false,false,heading,stamina

@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Alex Rufer,MF,R,30,NZL,4,true,false,false,stamina,playmaking
+Hideki Ishige,FW,L,31,JPN,5,false,false,false,stamina,pace
+Tim Payne,FB,R,32,NZL,6,true,false,false,stamina,pace
+Kazuki Nagasawa,MF,L,34,JPN,1,true,false,false,stamina,pace
+Corban Piper,FW,R,23,NZL,5,true,false,false,stamina,pace
+Nikola Mileusnic,FW,R,33,AUS,5,false,false,false,pace,stamina
+Carlo Armiento,FW,L,27,AUS,7,false,false,false,pace,dribbling
+Fin Roa Conchie,MF,R,23,NZL,7,true,false,false,stamina,pace
+Luke Brooke Smith,FW,R,18,NZL,3,false,false,false,pace,dribbling
+Paulo Retre,MF,R,33,AUS,5,true,false,false,stamina,passing
+Matt Sheridan,CB,L,22,NZL,1,false,false,false,pace,stamina
+Ifeanyi Eze,FW,L,27,NGA,5,true,false,false,pace,stamina
+Manjrekar James,CB,R,33,CAN,6,true,false,false,heading,stamina
+Dan Edwards,FB,L,28,NZL,7,true,false,false,stamina,pace
+Isaac Hughes,CB,R,22,NZL,1,true,false,false,stamina,pace
+Lukas Kelly Heald,FW,L,21,NZL,5,false,false,false,stamina,pace
+Nathan Walker,FW,R,20,NZL,6,false,false,false,pace,dribbling
+Xuan Loke,FB,L,21,NZL,7,false,false,false,pace,stamina
+Luke Supyk,FW,R,20,NZL,2,false,false,false,pace,stamina
+Gabriel Sloane Rodrigues,FW,L,19,NZL,5,false,false,false,pace,dribbling
+Jayden Smith,CB,R,19,NZL,8,false,false,false,stamina,pace
+Joshua Oluwayemi,GK,R,25,NGA,4,true,false,false,reflexes,positioning
+Alby Kelly Heald,GK,R,21,NZL,5,false,false,false,penalty-saving,rushing-out

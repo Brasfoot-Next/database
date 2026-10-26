@@ -1,0 +1,43 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Daiya Maekawa,GK,R,31,JPN,6,true,false,false,reflexes,penalty-saving
+Shuichi Gonda,GK,R,37,JPN,7,false,false,false,rushing-out,reflexes
+Shota Arai,GK,R,37,JPN,3,false,false,false,reflexes,positioning
+Shioki Takayama,GK,R,25,JPN,5,false,false,false,positioning,penalty-saving
+Richard Monday Ubong,GK,R,20,NGA,6,false,false,false,rushing-out,reflexes
+Matheus Thuler,CB,R,27,BRA,6,true,false,false,passing,marking
+Tetsushi Yamakawa,CB,L,28,JPN,8,true,false,false,passing,marking
+Caetano,CB,R,27,BRA,4,false,false,false,marking,tackling
+Boniface Nduka,CB,R,30,JPN,5,false,false,false,heading,marking
+Kaito Yamada,CB,R,19,JPN,6,false,false,false,stamina,heading
+Takuya Iwanami,CB,R,32,JPN,4,false,false,false,heading,stamina
+Katsuya Nagato,FB,L,31,JPN,5,true,false,false,crossing,passing
+Diego,FB,R,30,BRA,6,true,false,false,stamina,crossing
+Ryosuke Irie,FB,L,21,JPN,8,false,false,false,dribbling,pace
+Rikuto Hirose,FB,R,30,JPN,5,false,false,false,passing,crossing
+Nanasei Iino,FB,R,29,JPN,6,false,false,false,marking,crossing
+Gotoku Sakai,FB,L,35,JPN,6,false,false,false,tackling,pace
+Justin Homma,FB,R,20,JPN,10,false,false,false,crossing,passing
+Yuya Kuwasaki,MF,R,28,JPN,5,false,false,false,pace,dribbling
+Takahiro Ogihara,MF,R,34,JPN,6,false,false,false,passing,tackling
+Kota Watanabe,MF,R,27,JPN,6,true,false,false,dribbling,pace
+Yosuke Ideguchi,MF,R,29,JPN,1,true,false,false,stamina,tackling
+Kento Hamasaki,MF,R,19,JPN,5,false,false,false,playmaking,finishing
+Mitsuki Hidaka,MF,R,23,JPN,5,false,false,false,marking,passing
+Tafuku Satomi,MF,L,17,JPN,6,false,false,false,marking,passing
+Juzo Ura,MF,R,22,JPN,1,false,false,false,pace,crossing
+Sota Onishi,MF,R,19,JPN,5,false,false,false,pace,crossing
+Rikuto Hashimoto,MF,L,21,JPN,6,false,false,false,pace,crossing
+Taiga Seguchi,MF,L,18,JPN,7,false,false,false,pace,crossing
+Daiju Sasaki,MF,R,26,JPN,2,true,false,false,passing,stamina
+Yuta Goke,MF,R,27,JPN,6,true,false,false,playmaking,passing
+Haruya Ide,MF,L,32,JPN,7,false,false,false,dribbling,passing
+Jean Patric,FW,R,29,BRA,4,false,false,false,pace,crossing
+Sota Ito,FW,L,18,JPN,5,false,false,false,pace,dribbling
+Yuta Miyahara,FW,R,21,JPN,6,false,false,false,pace,dribbling
+Anderson Lopes,FW,R,32,BRA,7,false,false,false,heading,stamina
+Yoshinori Muto,FW,R,34,JPN,4,true,false,false,dribbling,finishing
+Ren Komatsu,FW,R,27,JPN,5,true,false,false,finishing,heading
+Yuya Osako,FW,L,36,JPN,6,false,false,false,finishing,heading
+Niina Tominaga,FW,R,21,JPN,7,false,false,false,finishing,dribbling
+David Aizawa,FW,L,22,JPN,6,false,false,false,heading,stamina
+Hayato Watanabe,FW,R,19,JPN,7,false,false,false,heading,finishing

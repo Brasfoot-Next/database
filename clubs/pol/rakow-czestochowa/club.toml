@@ -1,0 +1,13 @@
+name = "Raków Częstochowa"
+country = "POL"
+level = 13
+reputation = 3
+colors = ["#C00000", "#FFFFFF"]
+
+[stadium]
+name = "zondacrypto Arena"
+capacity = 5500
+
+[coach]
+name = "Tomasz Zych"
+country = "BRA"

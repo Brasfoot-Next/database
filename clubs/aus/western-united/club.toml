@@ -1,0 +1,13 @@
+name = "Western United"
+country = "AUS"
+level = 8
+reputation = 2
+colors = ["#000000", "#FFFFFF"]
+
+[stadium]
+name = "Ironbark Fields"
+capacity = 5000
+
+[coach]
+name = "Jaxon Nankervis"
+country = "BRA"

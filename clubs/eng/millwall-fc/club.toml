@@ -1,0 +1,13 @@
+name = "Millwall FC"
+country = "ENG"
+level = 13
+reputation = 3
+colors = ["#001040", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Will Leonard"
+country = "BRA"

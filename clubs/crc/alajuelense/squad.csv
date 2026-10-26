@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Leonel Moreira,GK,L,32,CRC,7,false,false,false,positioning,penalty-saving
+Miguel Ajú,GK,L,22,CRC,10,true,false,false,penalty-saving,reflexes
+Bayron Mora,GK,L,19,CRC,1,false,false,false,rushing-out,penalty-saving
+Ian Smith,FB,L,24,CRC,8,true,false,false,marking,pace
+Ian Lawrence,FB,R,20,CRC,7,true,false,false,finishing,passing
+Yael López,FB,R,23,CRC,2,false,false,false,marking,pace
+Alexis Gamboa,CB,R,23,CRC,7,true,false,false,tackling,stamina
+Giancarlo González,CB,L,34,CRC,4,true,false,false,heading,stamina
+Aubrey David,CB,R,31,TRI,10,false,false,false,marking,pace
+Putten,CB,L,18,CRC,2,false,false,false,tackling,heading
+Alexander López,MF,L,30,HON,4,true,false,false,passing,finishing
+Bryan Ruíz,MF,R,36,CRC,5,true,false,false,passing,finishing
+Bernald Alfaro,MF,R,25,CRC,3,false,false,false,tackling,finishing
+Miguel Cubero,MF,L,35,CRC,7,false,false,false,marking,finishing
+Aarón Suárez,MF,R,20,CRC,5,true,false,false,finishing,passing
+Celso Borges,MF,R,34,CRC,7,true,false,false,tackling,marking
+Rashir Parkins,MF,R,21,CRC,6,false,false,false,marking,finishing
+Carlos Mora,FW,R,21,CRC,8,true,false,false,pace,finishing
+Freddy Góndola,FW,R,26,PAN,3,true,false,false,finishing,pace
+Doryan Rodríguez,FW,L,19,CRC,3,false,false,false,finishing,pace
+Bryan Félix,FW,R,19,HON,5,false,false,false,dribbling,finishing

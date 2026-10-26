@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lucas Paquetá,MF,L,29,BRA,6,true,false,false,dribbling,playmaking
+Jarrod Bowen,FW,L,29,ENG,8,true,false,false,finishing,stamina
+James Ward Prowse,MF,L,31,ENG,4,false,false,false,crossing,stamina
+El Hadji Malick Diouf,FB,L,21,SEN,6,true,false,false,pace,heading
+Tomas Soucek,MF,R,31,CZE,7,true,false,false,stamina,heading
+Mateus Fernandes,MF,R,22,POR,8,true,false,false,dribbling,passing
+Aaron Wan Bissaka,FB,R,28,COD,4,true,false,false,tackling,pace
+Niclas Fullkrug,FW,L,33,GER,6,false,false,false,heading,finishing
+Andy Irving,MF,L,26,SCO,7,false,false,false,playmaking,passing
+Callum Wilson,FW,R,34,ENG,8,false,false,false,finishing,heading
+Guido Rodriguez,MF,R,32,ARG,5,false,false,false,tackling,marking
+Freddie Potts,MF,R,22,ENG,6,false,false,false,stamina,passing
+Kyle Walker Peters,FB,R,29,ENG,7,false,false,false,stamina,pace
+Jean Clair Todibo,CB,R,26,FRA,8,true,false,false,tackling,pace
+Crysencio Summerville,FW,L,24,NED,4,true,false,false,pace,dribbling
+Oliver Scarles,FB,L,20,ENG,6,false,false,false,pace,crossing
+Soungoutou Magassa,MF,R,22,FRA,7,true,false,false,tackling,passing
+Maximilian Kilman,CB,L,29,ENG,8,false,false,false,tackling,marking
+Konstantinos Mavropanos,CB,R,28,GRE,5,true,false,false,tackling,heading
+Callum Marshall,FW,L,21,NIR,6,false,false,false,stamina,finishing
+Luis Guilherme,FW,L,20,BRA,5,false,false,false,dribbling,pace
+George Earthy,MF,R,22,ENG,6,false,false,false,passing,dribbling
+Igor Julio,CB,L,28,BRA,7,false,false,false,tackling,marking
+Alphonse Areola,GK,R,33,FRA,7,false,false,false,reflexes,penalty-saving
+Mads Hermansen,GK,R,26,DEN,2,true,false,false,reflexes,positioning
+Ł. Fabiański,GK,R,41,POL,6,false,false,false,positioning,rushing-out

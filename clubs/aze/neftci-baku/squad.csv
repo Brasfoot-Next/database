@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Aqil Mammadov,GK,L,33,AZE,6,false,false,false,penalty-saving,reflexes
+Ivan Brkic,GK,R,27,CRO,2,true,false,false,positioning,penalty-saving
+Rashad Azizli,GK,L,28,AZE,5,false,false,false,reflexes,positioning
+Omar Buludov,FB,R,23,AZE,4,false,false,false,crossing,marking
+Ismayil Zülfügarly,FB,L,21,AZE,5,true,false,false,crossing,pace
+Azar Salahly,FB,R,28,AZE,4,true,false,false,crossing,pace
+Vojislav Stankovic,CB,L,34,SRB,9,true,false,false,marking,pace
+Mamadou Mbodj,CB,R,29,SEN,9,false,false,false,tackling,marking
+Solomon Kvirkvelia,CB,R,30,GEO,1,true,false,false,tackling,heading
+Elton Alibayli,CB,L,22,AZE,1,false,false,false,marking,pace
+Emin Makhmudov,MF,R,30,AZE,9,true,false,false,playmaking,passing
+César Meza Colli,MF,R,30,PAR,10,false,false,false,playmaking,pace
+Vusal Asgarov,MF,R,20,AZE,8,false,false,false,passing,finishing
+Azer Aliev,MF,R,28,RUS,2,false,false,false,passing,finishing
+Eddy Silvestre,MF,R,29,AZE,5,true,false,false,marking,passing
+Farid Yusifli,MF,R,20,AZE,8,false,false,false,marking,pace
+Kenny Saief,MF,L,28,USA,10,true,false,false,finishing,passing
+Ataa Jaber,MF,L,27,ISR,6,true,false,false,tackling,marking
+Yusuf Lawal,FW,L,24,NGA,5,true,false,false,finishing,pace
+Mirabdulla Abbasov,FW,R,27,AZE,2,false,false,false,pace,finishing
+Godsway Donyoh,FW,R,27,GHA,7,true,false,false,heading,pace
+Guilherme Pato,FW,R,21,BRA,2,false,false,false,finishing,heading

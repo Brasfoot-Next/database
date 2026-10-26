@@ -1,0 +1,40 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Matheus,GK,L,34,BRA,7,false,false,false,positioning,penalty-saving
+Omri Glazer,GK,L,30,SRB,9,true,false,false,positioning,reflexes
+Ivan Gutesa,GK,R,24,SRB,5,false,false,false,penalty-saving,reflexes
+Savo Radanovic,GK,L,17,SRB,6,false,false,false,positioning,penalty-saving
+Strahinja Erakovic,CB,R,25,SRB,7,true,false,false,tackling,stamina
+Franklin Tebo Uchenna,CB,L,26,NGA,9,true,false,false,tackling,stamina
+Rodrigão,CB,R,30,BRA,5,false,false,false,marking,tackling
+Milos Veljkovic,CB,R,30,SRB,7,false,false,false,heading,marking
+Stefan Gudelj,CB,R,20,SRB,9,false,false,false,heading,passing
+Adem Avdic,FB,R,18,SRB,5,true,false,false,crossing,pace
+Nair Tiknizyan,FB,R,27,SRB,8,true,false,false,crossing,passing
+Matej Strika,FB,R,23,SRB,5,false,false,false,passing,pace
+Young-woo Seol,FB,L,27,SRB,6,false,false,false,pace,tackling
+Nikola Stankovic,FB,L,23,SRB,7,false,false,false,tackling,pace
+Tomás Händel,MF,R,25,POR,8,true,false,false,passing,tackling
+Rade Krunic,MF,R,32,SRB,5,false,false,false,finishing,playmaking
+Mahmudu Bajo,MF,R,21,SRB,6,false,false,false,dribbling,passing
+Edmund Addo,MF,R,26,GHA,7,false,false,false,dribbling,pace
+Matej Gashtarov,MF,R,19,SRB,9,false,false,false,dribbling,playmaking
+Timi Max Elsnik,MF,R,28,SVN,5,true,false,false,finishing,passing
+Mohammed Abu Fani,MF,R,28,SRB,7,false,false,false,stamina,passing
+Jovan Sljivic,MF,R,20,SRB,2,false,false,false,dribbling,pace
+Vasilije Kostov,MF,R,18,SRB,6,true,false,false,stamina,passing
+Muhammed Cham,MF,L,25,AUT,6,true,false,false,dribbling,playmaking
+Mirko Ivanic,MF,L,32,MNE,8,false,false,false,passing,stamina
+Aleksandar Katai,MF,R,35,SRB,4,false,false,false,pace,dribbling
+Vladimir Lucic,FW,R,24,SRB,6,false,false,false,pace,dribbling
+Kristiyan Balov,FW,L,19,BUL,6,false,false,false,finishing,dribbling
+Vasilije Subotic,FW,R,18,SRB,8,false,false,false,finishing,pace
+Luka Sandulovic,FW,L,21,SRB,4,false,false,false,heading,stamina
+Douglas Owusu,FW,R,20,GHA,7,true,false,false,dribbling,pace
+Osman Bukari,FW,R,27,GHA,9,false,false,false,pace,dribbling
+Loizos Loizou,FW,L,22,CYP,5,false,false,false,pace,dribbling
+Luka Zaric,FW,R,17,SRB,6,false,false,false,finishing,heading
+Shavy Babicka,FW,R,26,SRB,7,false,false,false,pace,dribbling
+Dimitrije Saric,FW,R,17,SRB,10,false,false,false,pace,crossing
+Jay Enem,FW,R,23,NED,5,true,false,false,finishing,pace
+Bruno Duarte,FW,R,30,BRA,6,false,false,false,pace,finishing
+Marko Arnautovic,FW,L,37,AUT,7,false,false,false,finishing,heading

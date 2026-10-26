@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tomas Svedkauskas,GK,L,28,LTU,5,true,false,false,rushing-out,penalty-saving
+Vilius Stebrys,GK,L,22,LTU,8,false,false,false,reflexes,positioning
+Rokas Pacesa,GK,R,16,LTU,5,false,false,false,rushing-out,penalty-saving
+Vaidas Slavickas,FB,L,36,LTU,10,true,false,false,marking,finishing
+Markas Beneta,FB,R,29,LTU,5,true,false,false,finishing,pace
+Baltrunas,FB,L,20,LTU,5,false,false,false,crossing,pace
+Diogo Coelho,FB,R,30,POR,7,false,false,false,finishing,passing
+Zivanovic,CB,L,35,SRB,10,true,false,false,tackling,heading
+Janusevskis,CB,R,28,LTU,10,true,false,false,heading,stamina
+Nicolas Taravel,CB,R,27,FRA,3,false,false,false,tackling,heading
+Xabi Auzmendi,MF,L,25,ESP,9,true,false,false,playmaking,finishing
+Matulevicius,MF,R,25,LTU,6,true,false,false,tackling,marking
+Povilas Leimonas,MF,R,34,LTU,4,false,false,false,marking,passing
+Yevgen Protasov,MF,R,25,UKR,3,true,false,false,playmaking,pace
+Levan Macharashvili,MF,R,25,GEO,6,false,false,false,finishing,passing
+Matas Miskinis,MF,R,16,LTU,9,false,false,false,passing,finishing
+Olivier Rommens,MF,L,27,BEL,3,true,false,false,tackling,heading
+Tomislav Gomelt,MF,L,27,CRO,5,false,false,false,marking,finishing
+Kule Mbombo,FW,R,26,COD,10,true,false,false,pace,dribbling
+Simonas Urbys,FW,R,26,LTU,3,true,false,false,finishing,pace
+Linas Zingertas,FW,L,20,LTU,7,false,false,false,pace,finishing
+Danylo Kondrakov,FW,L,24,UKR,1,false,false,false,heading,pace

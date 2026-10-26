@@ -1,0 +1,13 @@
+name = "KV Mechelen"
+country = "BEL"
+level = 13
+reputation = 3
+colors = ["#E0B040", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Lovro Konate"
+country = "BRA"

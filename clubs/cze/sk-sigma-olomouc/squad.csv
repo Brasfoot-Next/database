@@ -1,0 +1,38 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jan Koutny,GK,R,21,CZE,7,true,false,false,positioning,penalty-saving
+Anthony Pavlesic,GK,L,20,CRO,8,false,false,false,positioning,rushing-out
+Tadeas Stoppen,GK,L,22,CZE,6,false,false,false,positioning,rushing-out
+Matus Hruska,GK,R,31,SVK,6,false,false,false,penalty-saving,reflexes
+Louis Lurvink,CB,R,24,SUI,7,true,false,false,passing,marking
+Abdoulaye Sylla,CB,R,26,GUI,5,true,false,false,heading,stamina
+Jan Kral,CB,R,27,CZE,6,false,false,false,tackling,heading
+Matus Maly,CB,L,25,SVK,7,false,false,false,heading,tackling
+Tomas Huk,CB,R,31,SVK,8,false,false,false,passing,marking
+Adam Dohnalek,CB,R,22,CZE,5,false,false,false,heading,marking
+Stéphane Noumbissie,CB,R,19,CMR,5,false,false,false,marking,heading
+Jakub Elbel,FB,R,26,CZE,6,false,false,false,crossing,pace
+Filip Slavicek,FB,R,23,CZE,7,true,false,false,marking,crossing
+Matej Hadas,FB,R,22,CZE,1,true,false,false,marking,crossing
+Péter Baráth,MF,R,24,HUN,5,true,false,false,pace,passing
+Marko Soldo,MF,R,22,CRO,6,true,false,false,stamina,dribbling
+Jakub Jezierski,MF,R,22,POL,7,false,false,false,playmaking,passing
+Tihomir Kostadinov,MF,R,30,CZE,2,false,false,false,playmaking,passing
+Michal Beran,MF,R,25,CZE,5,true,false,false,tackling,marking
+Jiri Spacil,MF,L,27,CZE,6,false,false,false,stamina,tackling
+David Tkac,MF,R,24,CZE,5,false,false,false,dribbling,passing
+Matej Mikulenka,MF,R,22,CZE,6,false,false,false,pace,crossing
+Jan Fiala,MF,R,25,CZE,6,false,false,false,pace,crossing
+Ahmad Ghali,MF,L,26,NGA,8,false,false,false,pace,crossing
+Fabijan Krivak,MF,R,21,CRO,5,true,false,false,stamina,tackling
+Dario Grgic,MF,R,23,SRB,6,false,false,false,marking,passing
+Dominik Janosek,MF,L,28,CZE,7,false,false,false,stamina,passing
+Jachym Sip,FW,R,23,CZE,8,true,false,false,heading,stamina
+Filip Urica,FW,R,22,CZE,5,false,false,false,playmaking,finishing
+Artūr Dolžnikov,FW,L,26,LTU,6,false,false,false,heading,pace
+Antonin Rusek,FW,R,27,CZE,7,false,false,false,finishing,dribbling
+Vaclav Sejk,FW,R,24,CZE,8,true,false,false,pace,heading
+Hilmir Rafn Mikaelsson,FW,R,22,ISL,5,false,false,false,pace,heading
+Jan Kliment,FW,R,33,CZE,6,false,false,false,finishing,heading
+Mohamed Yasser,FW,R,25,EGY,7,false,false,false,finishing,heading
+John Paul Dembe,FW,R,21,UGA,8,false,false,false,pace,heading
+Denis Kramar,FW,R,22,CZE,5,false,false,false,heading,pace

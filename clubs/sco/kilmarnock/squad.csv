@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kyle Magennis,MF,R,28,SCO,4,true,false,false,stamina,passing
+Brad Lyons,MF,R,29,NIR,5,true,false,false,stamina,pace
+Matty Kennedy,FW,L,31,NIR,6,false,false,false,pace,dribbling
+Liam Polworth,MF,R,31,SCO,8,false,false,false,crossing,passing
+David Watson,MF,R,21,SCO,4,true,false,false,stamina,playmaking
+Tom Lowery,MF,R,28,ENG,5,false,false,false,pace,stamina
+Rory Mckenzie,MF,L,32,SCO,6,false,false,false,stamina,pace
+Scott Tiffoney,FW,R,28,SCO,8,false,false,false,pace,stamina
+Jamie Brandon,FB,R,28,SCO,4,true,false,false,pace,tackling
+Greg Kiltie,FW,L,29,SCO,5,false,false,false,stamina,dribbling
+Marley Watkins,FW,R,35,WAL,6,false,false,false,pace,stamina
+James Brown,FW,R,28,IRL,7,false,false,false,stamina,pace
+Dominic Thompson,FW,L,26,ENG,7,true,false,false,pace,stamina
+Lewis Mayo,CB,R,26,SCO,3,true,false,false,stamina,pace
+Bruce Anderson,FW,R,27,SCO,5,true,false,false,pace,stamina
+Jack Thomson,MF,R,26,SCO,6,true,false,false,pace,tackling
+Ben Brannan,FB,L,19,SCO,7,true,false,false,stamina,pace
+Zac Williams,CB,L,22,WAL,3,false,false,false,stamina,pace
+Robbie Deas,CB,L,26,SCO,5,true,false,false,heading,tackling
+George Stanger,CB,R,26,NZL,6,false,false,false,heading,tackling
+Djenairo Daniels,FW,L,24,NED,5,false,false,false,finishing,dribbling
+Marcus Dackers,FW,R,23,WAL,6,false,false,false,stamina,heading
+Kian Leslie,FW,L,21,SCO,7,false,false,false,pace,dribbling
+Ethan Schilte Brown,CB,R,21,CAN,2,false,false,false,pace,tackling
+Maksymilian Stryjek,GK,R,30,POL,5,true,false,false,reflexes,penalty-saving
+Eddie Beach,GK,R,22,WAL,6,false,false,false,reflexes,penalty-saving

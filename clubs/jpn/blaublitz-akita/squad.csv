@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Genki Yamada,GK,L,31,JPN,5,false,false,false,reflexes,rushing-out
+Soki Yatagai,GK,L,28,JPN,6,true,false,false,positioning,penalty-saving
+Cailen Hill,GK,R,24,JPN,10,false,false,false,reflexes,rushing-out
+Tomoki Horiuchi,GK,L,19,JPN,4,false,false,false,reflexes,positioning
+Kazuma Nagai,CB,R,27,JPN,5,true,false,false,heading,stamina
+Takato Nonomura,CB,R,28,JPN,7,true,false,false,tackling,marking
+Ryoya Iizumi,CB,R,30,JPN,1,false,false,false,marking,heading
+Hiroki Hatahashi,CB,R,23,JPN,4,false,false,false,marking,heading
+Ryohei Okazaki,CB,R,34,JPN,6,false,false,false,passing,marking
+Jun Okano,CB,R,28,JPN,8,false,false,false,tackling,pace
+Takuma Mizutani,FB,R,30,JPN,7,false,false,false,pace,tackling
+Takumi Hasegawa,FB,L,27,JPN,3,true,false,false,tackling,stamina
+Hidenori Takahashi,FB,L,27,JPN,5,true,false,false,marking,crossing
+Ryuji Saito,FB,L,33,JPN,6,false,false,false,stamina,crossing
+Hiroto Morooka,MF,R,29,JPN,7,true,false,false,dribbling,passing
+Tomofumi Fujiyama,MF,R,32,JPN,4,false,false,false,tackling,passing
+Koki Doi,MF,L,24,JPN,5,true,false,false,tackling,marking
+Hinase Suzuki,MF,R,21,JPN,6,false,false,false,finishing,playmaking
+Chie Edoojon Kawakami,MF,R,28,JPN,4,true,false,false,pace,crossing
+Ryotaro Ishida,MF,R,24,JPN,5,false,false,false,pace,crossing
+Takuro Iwai,MF,R,23,JPN,7,true,false,false,pace,crossing
+Yoshihiro Nakano,MF,L,33,JPN,4,false,false,false,pace,crossing
+Masakazu Yoshioka,FW,R,31,JPN,5,false,false,false,finishing,dribbling
+Ryuhei Oishi,FW,L,29,JPN,6,false,false,false,dribbling,pace
+Kosuke Sagawa,FW,L,26,JPN,7,false,false,false,dribbling,playmaking
+Shota Suzuki,FW,L,33,JPN,4,false,false,false,playmaking,finishing
+Masaki Nishimura,FW,R,24,JPN,5,false,false,false,pace,crossing
+Kaito Umeda,FW,R,29,JPN,6,false,false,false,dribbling,pace
+Koya Handa,FW,R,27,JPN,7,true,false,false,finishing,stamina
+Shohei Aihara,FW,L,30,JPN,5,true,false,false,heading,pace
+Ryota Nakamura,FW,L,35,JPN,7,false,false,false,heading,finishing

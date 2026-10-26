@@ -1,0 +1,13 @@
+name = "Cultural Leonesa"
+country = "ESP"
+level = 11
+reputation = 2
+colors = ["#D0D0D0", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Roger Toca"
+country = "BRA"

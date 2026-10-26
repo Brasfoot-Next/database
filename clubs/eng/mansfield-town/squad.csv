@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Aaron Lewis,MF,R,28,WAL,7,true,false,false,stamina,dribbling
+Regan Hendry,MF,L,28,SCO,2,true,false,false,stamina,pace
+George Maris,MF,R,30,ENG,5,false,false,false,stamina,pace
+Louis Reed,MF,L,29,ENG,6,false,false,false,stamina,playmaking
+Will Evans,FW,L,29,WAL,7,false,false,false,stamina,pace
+Stephen Mclaughlin,FB,L,36,IRL,3,false,false,false,pace,stamina
+Jordan Bowery,CB,R,35,ENG,5,false,false,false,pace,stamina
+Tyler Roberts,FW,R,27,WAL,6,true,false,false,pace,dribbling
+Jamie Mcdonnell,MF,R,22,NIR,7,true,false,false,stamina,tackling
+Deji Oshilaja,CB,R,33,ENG,7,false,false,false,stamina,pace
+Nathan Moriah Welsh,MF,R,24,GUY,6,true,false,false,stamina,pace
+Luke Bolton,FW,R,26,ENG,7,true,false,false,pace,stamina
+Elliott Hewitt,FB,R,32,WAL,2,false,false,false,stamina,pace
+Kyle Knoyle,FB,R,29,ENG,5,true,false,false,stamina,pace
+Dom Dwyer,FW,L,36,USA,6,false,false,false,pace,heading
+Frazer Blake Tracy,FB,L,30,ENG,7,true,false,false,stamina,pace
+Rhys Oates,FW,R,31,ENG,3,false,false,false,pace,dribbling
+Baily Cargill,CB,L,31,ENG,5,true,false,false,stamina,heading
+Max Dickov,FW,L,24,ENG,5,false,false,false,pace,stamina
+Kyle Mcadam,FW,L,21,ENG,6,false,false,false,pace,stamina
+Joe Gardner,MF,R,21,IRL,5,false,false,false,pace,playmaking
+Ryan Sweeney,CB,L,29,IRL,7,true,false,false,stamina,heading
+Liam Roberts,GK,L,31,ENG,1,true,false,false,positioning,reflexes
+Owen Mason,GK,R,22,IRL,5,false,false,false,penalty-saving,reflexes

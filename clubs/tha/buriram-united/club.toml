@@ -1,0 +1,13 @@
+name = "Buriram United"
+country = "THA"
+level = 14
+reputation = 3
+colors = ["#000066", "#ccffff"]
+
+[stadium]
+name = "New I-mobile"
+capacity = 32600
+
+[coach]
+name = "Masatada Ishii"
+country = "JPN"

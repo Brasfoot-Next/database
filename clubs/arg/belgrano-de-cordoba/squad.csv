@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lucas Zelarayan,FW,R,34,ARG,6,true,false,false,stamina,dribbling
+Lucas Menossi,MF,R,34,ARG,7,false,false,false,stamina,passing
+Nicolas Fernandez,FW,R,30,ARG,2,true,false,false,pace,stamina
+Ulises Sanchez,FW,R,28,ARG,5,false,false,false,pace,crossing
+Francisco Gonzalez Metilli,MF,L,29,ARG,6,true,false,false,stamina,crossing
+Facundo Quignon,MF,L,33,ARG,7,false,false,false,stamina,passing
+Elias Lopez,FB,R,26,ARG,4,true,false,false,pace,stamina
+Adrian Sporle,FB,L,31,ARG,6,true,false,false,pace,stamina
+Santiago Longo,MF,L,28,ARG,6,true,false,false,stamina,tackling
+Franco Jara,FW,L,38,ARG,7,false,false,false,finishing,dribbling
+Federico Ricca,CB,L,31,URU,1,true,false,false,stamina,tackling
+Rodrigo Saravia,MF,R,26,URU,5,false,false,false,stamina,passing
+Leonardo Morales,CB,R,35,ARG,6,false,false,false,stamina,marking
+Gabriel Compagnucci,FW,R,35,ARG,6,false,false,false,pace,stamina
+Geronimo Heredia,FB,R,21,ARG,7,false,false,false,stamina,pace
+Lisandro Lopez,CB,L,37,ARG,4,false,false,false,heading,tackling
+Agustin Baldi,CB,L,24,ARG,6,false,false,false,passing,tackling
+Tobias Ostchega,FW,L,28,ARG,6,false,false,false,stamina,pace
+Bryan Reyna,FW,L,28,PER,7,false,false,false,pace,dribbling
+Juan Martin Velazquez,FW,L,21,ARG,5,false,false,false,pace,dribbling
+Julian Mavilla,MF,L,26,ARG,6,true,false,false,pace,passing
+Lucas Passerini,FW,R,32,ARG,7,false,false,false,finishing,heading
+Ramiro Hernandes,MF,R,21,ARG,1,true,false,false,passing,dribbling
+Jeremias Lucco,MF,R,20,ARG,5,false,false,false,pace,passing
+Anibal Leguizamon,CB,R,34,ARG,6,false,false,false,tackling,marking
+Alexis Maldonado,CB,R,29,ARG,6,true,false,false,stamina,tackling
+Lucas Bernabeu,CB,L,22,ARG,7,false,false,false,pace,tackling
+Gonzalo Zelarayan,FW,L,22,ARG,5,false,false,false,stamina,heading
+Thiago Cardozo,GK,R,30,URU,6,true,false,false,reflexes,positioning
+Ignacio Chicco,GK,R,30,ARG,6,false,false,false,positioning,rushing-out
+Manuel Vicentini,GK,R,36,ARG,6,false,false,false,penalty-saving,reflexes
+Matias Daniele,GK,R,22,ARG,7,false,false,false,penalty-saving,rushing-out

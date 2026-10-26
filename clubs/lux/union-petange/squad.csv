@@ -1,0 +1,20 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+André Barrela,GK,L,21,LUX,6,true,false,false,reflexes,positioning
+Mike Schneider,FB,R,27,LUX,3,true,false,false,marking,passing
+Sascha Heil,CB,R,23,GER,7,true,false,false,heading,stamina
+Denis Stumpf,MF,L,24,LUX,9,true,false,false,passing,finishing
+Alexander Laukart,MF,R,23,GER,9,true,false,false,passing,finishing
+Artur Abreu,FW,R,27,LUX,6,true,false,false,finishing,dribbling
+Patrik Teixeira,FW,L,26,LUX,7,true,false,false,finishing,pace
+Kai Merk,FW,L,23,GER,8,false,false,false,finishing,stamina
+António Gomes,FW,L,21,POR,3,false,false,false,pace,finishing
+Hugo Wolf,GK,R,22,FRA,6,false,false,false,penalty-saving,reflexes
+Matisse Giovanardi,GK,L,17,BEL,8,false,false,false,reflexes,positioning
+Marian Sarr,CB,L,27,GER,2,true,false,false,marking,pace
+Lucas Carnevalli,CB,L,27,BRA,3,false,false,false,tackling,marking
+Fabio Besir,CB,R,19,GER,7,false,false,false,heading,stamina
+Fernandes,MF,R,19,LUX,5,true,false,false,playmaking,pace
+Valentin Steinmetz,MF,L,24,FRA,9,true,false,false,passing,finishing
+Abdoul Kaboré,MF,R,28,BFA,10,false,false,false,marking,finishing
+Jérémy Mawatu,FB,L,24,FRA,4,true,false,false,marking,passing
+Munir Dragulovcanin,FB,R,22,LUX,1,true,false,false,finishing,passing

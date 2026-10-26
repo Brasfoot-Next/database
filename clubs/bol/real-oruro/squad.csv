@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ronaldo Huanacota,GK,R,22,BOL,3,false,false,false,positioning,reflexes
+Israel Peña,GK,L,27,BOL,5,true,false,false,reflexes,rushing-out
+Alex Arancibia,GK,R,36,BOL,6,false,false,false,reflexes,penalty-saving
+Wilfredo Soleto,CB,R,30,BOL,7,false,false,false,tackling,pace
+Yhon Jairo Villegas,CB,R,29,BOL,3,true,false,false,stamina,heading
+Joao Quiñónez,CB,L,27,ECU,5,true,false,false,stamina,heading
+Hallysson Padilha,CB,R,32,BRA,6,false,false,false,heading,marking
+José Lizarraga,FB,R,20,BOL,7,false,false,false,tackling,pace
+Rivaldo Méndez,FB,L,23,BOL,8,true,false,false,marking,pace
+Reymar Balceras,FB,R,20,BOL,4,false,false,false,stamina,crossing
+Daniel Castellón,FB,R,30,BOL,7,true,false,false,passing,pace
+Francisco Gatti,MF,R,32,ARG,4,false,false,false,tackling,passing
+Iván Huayhuata,MF,R,37,BOL,5,false,false,false,passing,finishing
+Carlos Ribera,MF,R,29,BOL,6,true,false,false,finishing,passing
+Ademar Rivera,MF,R,30,BOL,7,true,false,false,finishing,passing
+Hernán Tifner,MF,R,29,ARG,4,true,false,false,pace,crossing
+Alexis Bravo,MF,R,27,ARG,5,true,false,false,dribbling,passing
+Juan Montenegro,FW,R,29,BOL,6,true,false,false,pace,playmaking
+Yamil Calle,FW,R,21,BOL,7,false,false,false,heading,pace
+Santos García,FW,R,18,BOL,2,false,false,false,heading,finishing
+Bryan Puma,FW,R,22,BOL,7,false,false,false,dribbling,pace
+Ángel Quiñónez,FW,R,29,ECU,2,false,false,false,dribbling,playmaking
+Yerco Vallejos,FW,L,31,BOL,5,false,false,false,pace,finishing
+Alejandro Barrón,FW,L,26,BOL,6,true,false,false,pace,dribbling

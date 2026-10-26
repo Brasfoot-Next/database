@@ -1,0 +1,13 @@
+name = "Chesterfield"
+country = "ENG"
+level = 8
+reputation = 2
+colors = ["#F0F0F0", "#004090"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Chey Dickson"
+country = "BRA"

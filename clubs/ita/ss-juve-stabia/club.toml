@@ -1,0 +1,13 @@
+name = "SS Juve Stabia"
+country = "ITA"
+level = 11
+reputation = 2
+colors = ["#F0D000", "#002050"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Giuseppe Pierobon"
+country = "BRA"

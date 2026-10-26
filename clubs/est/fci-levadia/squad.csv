@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Andre Vallner,GK,L,24,EST,6,true,false,false,positioning,rushing-out
+Artur Kotenko,GK,R,40,EST,2,false,false,false,positioning,rushing-out
+Georg Mattias Lagus,GK,L,19,EST,7,false,false,false,penalty-saving,reflexes
+Markus Jürgenson,FB,R,34,EST,10,true,false,false,crossing,marking
+Artur Pikk,FB,L,29,EST,1,true,false,false,marking,finishing
+Maksim Podholjuzin,CB,R,29,EST,1,false,false,false,tackling,stamina
+Maximiliano Uggè,CB,R,30,ITA,8,true,false,false,tackling,stamina
+Milan Mitrovic,CB,L,34,SRB,4,true,false,false,tackling,stamina
+Rasmus Peetson,CB,L,27,EST,5,false,false,false,marking,pace
+Karl Oigus,MF,L,23,EST,2,false,false,false,finishing,passing
+Artjom Komlov,MF,R,19,EST,5,false,false,false,finishing,passing
+Beglarishvili,MF,R,32,GEO,7,true,false,false,playmaking,pace
+Brent Lepistu,MF,R,29,EST,9,true,false,false,marking,passing
+Ilja Antonov,MF,L,29,EST,2,false,false,false,tackling,marking
+Ernest Agyiri,MF,L,24,GHA,4,true,false,false,tackling,heading
+Marko Putincanin,MF,L,34,SRB,8,true,false,false,marking,passing
+Robert Kirss,FW,L,27,EST,3,false,false,false,pace,finishing
+Roosnupp,FW,R,25,EST,7,true,false,false,pace,finishing
+Liliu,FW,R,32,BRA,6,true,false,false,pace,dribbling
+Murad Velijev,FW,L,20,EST,6,false,false,false,playmaking,finishing

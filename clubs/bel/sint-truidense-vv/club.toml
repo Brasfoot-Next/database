@@ -1,0 +1,13 @@
+name = "Sint-Truidense VV"
+country = "BEL"
+level = 11
+reputation = 2
+colors = ["#C0B000", "#000070"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Abdoulaye Juklerod"
+country = "BRA"

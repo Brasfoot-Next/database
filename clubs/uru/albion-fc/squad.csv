@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sebastián Jaume,GK,L,22,URU,5,false,false,false,reflexes,penalty-saving
+Danilo Lerda,GK,R,24,ARG,6,true,false,false,positioning,penalty-saving
+Ezequiel Burdín,CB,L,21,URU,1,true,false,false,marking,tackling
+Francisco Couture,CB,L,22,URU,5,true,false,false,heading,stamina
+Matías De los Santos,CB,R,33,URU,6,false,false,false,heading,stamina
+Pablo Lacoste,CB,R,38,URU,7,false,false,false,passing,marking
+José Álvarez,FB,R,31,URU,4,false,false,false,stamina,crossing
+Federico Puente,FB,L,30,URU,5,false,false,false,tackling,marking
+Andrés Romero,FB,L,28,URU,6,true,false,false,crossing,pace
+Agustín Pereira,FB,R,25,URU,8,true,false,false,pace,stamina
+Tomás Moschión,MF,R,26,ARG,5,true,false,false,playmaking,passing
+Pablo Alcoba,MF,L,17,URU,6,true,false,false,pace,dribbling
+Octavio Perdomo,MF,R,26,URU,8,true,false,false,finishing,playmaking
+Francisco Ginella,MF,R,27,URU,4,true,false,false,passing,tackling
+Santiago Costa,MF,R,26,URU,5,false,false,false,passing,stamina
+Román Gutiérrez,MF,R,21,URU,6,false,false,false,passing,finishing
+Leonardo Pais,MF,R,32,URU,8,false,false,false,pace,crossing
+Felipe Serrés,MF,R,20,URU,5,false,false,false,pace,crossing
+Agustín Vera,FW,R,22,URU,6,false,false,false,finishing,stamina
+Hernán Toledo,FW,R,30,ARG,6,false,false,false,dribbling,finishing
+Lucas Rodríguez,FW,R,29,URU,5,false,false,false,heading,stamina
+Nahuel Roldán,FW,R,27,URU,6,true,false,false,finishing,heading
+Mateo Alcoba,FW,R,17,URU,7,false,false,false,finishing,stamina
+Carlos Airala,FW,R,23,ARG,3,false,false,false,heading,stamina
+Briam Acosta,FW,R,28,URU,5,false,false,false,dribbling,pace
+Álvaro López,FW,R,27,ARG,6,true,false,false,dribbling,pace
+Tobías Figueroa,FW,R,34,ARG,7,false,false,false,pace,dribbling

@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Marko Bulat,MF,R,24,CRO,7,true,false,false,pace,crossing
+Fran Tudor,FW,R,30,CRO,4,false,false,false,pace,stamina
+Ivi López,MF,R,32,ESP,5,false,false,false,passing,pace
+Vladyslav Kochergin,MF,R,30,UKR,6,false,false,false,stamina,passing
+Oskar Repka,MF,R,27,POL,7,true,false,false,stamina,passing
+Jean Carlos,FW,L,30,BRA,4,false,false,false,pace,stamina
+Erick Otieno,FW,L,29,KEN,5,false,false,false,pace,stamina
+Karol Struski,MF,L,25,POL,6,true,false,false,stamina,passing
+Jonatan Braut Brunes,FW,L,26,NOR,8,true,false,false,stamina,pace
+Zoran Arsenic,CB,R,32,CRO,4,false,false,false,stamina,heading
+Peter Barath,MF,R,24,HUN,5,true,false,false,pace,passing
+Michael Ameyaw,FW,R,25,POL,6,true,false,false,pace,stamina
+Patryk Makuch,FW,R,27,POL,7,false,false,false,stamina,pace
+Stratos Svarnas,CB,L,28,GRE,2,true,false,false,stamina,tackling
+Adriano Amorim,MF,R,24,BRA,5,false,false,false,pace,stamina
+Lamine Diaby Fadiga,FW,L,25,FRA,6,true,false,false,pace,finishing
+Bogdan Mircetic,FW,L,20,SRB,7,false,false,false,pace,dribbling
+Tomasz Pienko,MF,L,22,POL,3,true,false,false,pace,stamina
+Imad Rondic,FW,L,27,BIH,5,false,false,false,heading,finishing
+Ariel Mosor,CB,R,23,POL,6,false,false,false,stamina,heading
+Apostolos Konstantopoulos,CB,R,24,GRE,5,false,false,false,stamina,pace
+Bogdan Racovitan,CB,R,26,ROU,6,true,false,false,pace,tackling
+Ibrahima Seck,FW,L,22,SEN,7,false,false,false,pace,dribbling
+Kacper Trelowski,GK,R,23,POL,9,true,false,false,penalty-saving,positioning
+Jakub Madrzyk,GK,R,22,POL,4,false,false,false,penalty-saving,reflexes
+Oliwier Zych,GK,R,22,POL,5,false,false,false,positioning,rushing-out

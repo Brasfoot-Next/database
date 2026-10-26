@@ -1,0 +1,13 @@
+name = "VfL Osnabrück"
+country = "GER"
+level = 9
+reputation = 2
+colors = ["#502080", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Bjarke Remberg"
+country = "BRA"

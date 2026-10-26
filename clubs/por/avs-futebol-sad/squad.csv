@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jaume Grau,MF,L,29,ESP,2,true,false,false,stamina,tackling
+Kiki,FB,L,31,POR,5,true,false,false,pace,stamina
+Bruno Lourenço,FW,L,28,POR,6,false,false,false,pace,passing
+Tiago Galletto,MF,R,24,URU,7,false,false,false,tackling,heading
+Algobia,MF,L,27,ESP,3,true,false,false,passing,playmaking
+Leonardo Rivas,FB,L,24,PAR,5,false,false,false,pace,stamina
+Gustavo,MF,R,23,POR,6,false,false,false,stamina,passing
+Pedro Lima,MF,L,23,BRA,7,true,false,false,passing,playmaking
+Aderllan Santos,CB,R,37,BRA,3,false,false,false,heading,marking
+Tomané,FW,R,33,POR,5,false,false,false,heading,stamina
+Kobamelo Kodisang,FW,L,27,POR,5,false,false,false,pace,finishing
+Babatunde Akinsola,FW,L,23,NGA,6,false,false,false,pace,dribbling
+Diogo Spencer,FW,R,22,POR,7,true,false,false,stamina,pace
+Sidi Bane,CB,R,22,SEN,4,false,false,false,pace,tackling
+Rafael Barbosa,MF,R,30,POR,5,true,false,false,pace,dribbling
+Oscar Perea,FW,L,20,COL,6,true,false,false,pace,dribbling
+Diego Duarte,FW,L,24,PAR,3,false,false,false,finishing,pace
+Neiva,FW,L,25,BRA,5,false,false,false,pace,dribbling
+Jordi Escobar,FW,R,24,ESP,6,false,false,false,finishing,pace
+António Machado,MF,R,19,POR,7,false,false,false,pace,dribbling
+Guillem Molina,FB,R,26,ESP,5,true,false,false,marking,stamina
+Cristian Devenish,CB,L,25,COL,6,true,false,false,tackling,marking
+Paulo Vitor,CB,L,25,BRA,7,true,false,false,tackling,heading
+Pedro Trigueira,GK,R,38,POR,2,false,false,false,positioning,penalty-saving
+Simão Bertelli,GK,R,33,BRA,5,false,false,false,penalty-saving,reflexes
+João Gonçalves,GK,R,25,POR,6,true,false,false,positioning,reflexes

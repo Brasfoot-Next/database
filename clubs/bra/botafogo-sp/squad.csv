@@ -1,0 +1,36 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Victor Souza,GK,R,33,BRA,3,false,false,false,rushing-out,reflexes
+Jordan,GK,L,28,BRA,5,true,false,false,positioning,penalty-saving
+Brenno Klippel,GK,L,23,BRA,6,false,false,false,positioning,penalty-saving
+Wallace,CB,R,31,BRA,7,false,false,false,marking,stamina
+Guilherme Mariano,CB,R,26,BRA,3,true,false,false,passing,marking
+Vilar,CB,R,26,BRA,5,false,false,false,marking,heading
+Carlão,CB,L,25,BRA,6,false,false,false,heading,stamina
+Darlan,CB,R,22,BRA,3,true,false,false,marking,tackling
+Badaró,CB,R,21,BRA,5,false,false,false,tackling,heading
+Patrick Brey,FB,L,29,BRA,6,false,false,false,tackling,marking
+Felipe Vieira,FB,L,27,BRA,4,true,false,false,passing,pace
+Pedro Souza,FB,R,19,BRA,5,false,false,false,tackling,marking
+Gabriel Inocêncio,FB,L,31,BRA,6,false,false,false,pace,crossing
+Jonathan,FB,L,33,BRA,7,false,false,false,tackling,marking
+Ericson,FB,R,27,BRA,4,true,false,false,marking,pace
+Leandro Maciel,MF,R,30,ARG,5,true,false,false,tackling,marking
+Matheus Sales,MF,L,31,BRA,6,false,false,false,pace,dribbling
+Marco Antônio,MF,R,26,BRA,8,true,false,false,playmaking,dribbling
+Thiaguinho,MF,R,28,BRA,4,true,false,false,passing,finishing
+Erik Rebello,MF,L,21,BRA,5,false,false,false,dribbling,playmaking
+Everton Morelli,MF,R,28,BRA,3,true,false,false,stamina,tackling
+João Costa,MF,L,21,BRA,5,false,false,false,pace,dribbling
+Yuri Felipe,MF,R,20,BRA,6,false,false,false,passing,stamina
+Rafael Gava,MF,R,33,BRA,7,false,false,false,playmaking,finishing
+Arthur Caíke,FW,L,34,BRA,3,false,false,false,finishing,pace
+Zé Hugo,FW,L,26,BRA,5,false,false,false,pace,dribbling
+Jefferson Nem,FW,R,30,BRA,6,false,false,false,pace,dribbling
+Márcio Maranhão,FW,R,27,BRA,7,true,false,false,pace,dribbling
+Wesley Santos,FW,R,25,BRA,3,false,false,false,playmaking,finishing
+Kelvin,FW,R,28,BRA,5,false,false,false,heading,finishing
+Luizão,FW,L,23,BRA,6,true,false,false,finishing,dribbling
+Hygor,FW,R,33,BRA,7,false,false,false,finishing,dribbling
+Guilherme Queiróz,FW,R,36,BRA,3,false,false,false,pace,crossing
+Kauã Freire,FW,L,19,BRA,5,false,false,false,heading,finishing
+Thalles,FW,R,21,BRA,6,false,false,false,heading,pace

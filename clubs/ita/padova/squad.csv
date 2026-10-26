@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Daniele Baselli,MF,R,34,ITA,6,true,false,false,passing,playmaking
+Pietro Fusi,MF,L,28,ITA,7,true,false,false,stamina,pace
+Kevin Lasagna,FW,L,34,ITA,4,false,false,false,pace,stamina
+Lorenzo Crisetig,MF,L,33,ITA,5,false,false,false,stamina,playmaking
+Cristian Buonaiuto,MF,L,33,ITA,6,false,false,false,dribbling,passing
+Paolo Ghiglione,FW,R,29,ITA,7,true,false,false,pace,dribbling
+Alessandro Capelli,FW,R,29,ITA,4,true,false,false,pace,stamina
+Giulio Favale,FW,L,28,ITA,5,true,false,false,stamina,pace
+Kevin Varas,MF,R,33,ECU,7,false,false,false,dribbling,playmaking
+Antonio Barreca,FW,L,31,ITA,3,false,false,false,pace,crossing
+Francesco Belli,CB,R,32,ITA,4,false,false,false,pace,stamina
+Luca Di Maggio,MF,R,21,ITA,5,false,false,false,pace,passing
+Jonathan Silva,MF,L,22,BRA,6,true,false,false,pace,dribbling
+Mattia Bortolussi,FW,R,30,ITA,7,false,false,false,heading,finishing
+Alberto Spagnoli,FW,R,31,ITA,4,false,false,false,heading,finishing
+Simone Russini,FW,L,30,ITA,5,false,false,false,pace,dribbling
+Jonas Harder,MF,R,20,ITA,6,true,false,false,stamina,passing
+Christian Pastina,CB,L,25,ITA,8,true,false,false,marking,tackling
+Carlo Faedo,CB,L,27,ITA,4,true,false,false,marking,tackling
+Alessandro Seghetti,FW,L,22,ITA,6,false,false,false,finishing,pace
+Marco Perrotta,CB,L,32,ITA,3,false,false,false,stamina,tackling
+Jacopo Bacci,MF,R,21,ITA,5,false,false,false,passing,pace
+Filippo Sgarbi,CB,R,28,ITA,6,true,false,false,heading,tackling
+Lorenzo Villa,CB,R,23,ITA,7,false,false,false,pace,tackling
+Mattia Fortin,GK,R,23,ITA,3,false,false,false,reflexes,penalty-saving
+Michele Voltan,GK,R,23,ITA,5,false,false,false,reflexes,rushing-out
+Alessandro Sorrentino,GK,R,24,ITA,6,true,false,false,reflexes,positioning

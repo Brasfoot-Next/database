@@ -1,0 +1,13 @@
+name = "Bromley"
+country = "ENG"
+level = 7
+reputation = 1
+colors = ["#000000", "#F00000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Nicke Ilunga"
+country = "BRA"

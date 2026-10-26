@@ -1,0 +1,13 @@
+name = "Blackburn Rovers"
+country = "ENG"
+level = 12
+reputation = 2
+colors = ["#F0F0F0", "#008030"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Aynsley Batty"
+country = "BRA"

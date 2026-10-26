@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ramiz Zerrouki,MF,R,28,ALG,6,true,false,false,stamina,passing
+Ricky Van Wolfswinkel,FW,R,37,NED,6,false,false,false,heading,finishing
+Arno Verschueren,MF,R,29,BEL,7,false,false,false,stamina,heading
+Thomas Van Den Belt,MF,L,25,NED,4,true,false,false,stamina,passing
+Marko Pjaca,FW,L,31,CRO,6,false,false,false,dribbling,pace
+Sam Lammers,FW,L,29,NED,6,true,false,false,dribbling,stamina
+Daan Rots,FW,L,25,NED,7,true,false,false,pace,playmaking
+Taylor Booth,FW,L,25,USA,5,false,false,false,pace,dribbling
+Bas Kuipers,FB,L,32,NED,6,false,false,false,stamina,crossing
+Mathias Kjolo,MF,R,25,NOR,6,false,false,false,stamina,passing
+Bart Van Rooij,FB,R,25,NED,1,true,false,false,pace,stamina
+Robin Propper,CB,L,32,NED,5,false,false,false,marking,heading
+Max Bruns,CB,R,23,NED,6,false,false,false,passing,tackling
+Mats Rots,FB,L,20,NED,7,true,false,false,pace,crossing
+Mees Hilgers,CB,R,25,IDN,7,false,false,false,tackling,pace
+Naci Unuvar,FW,L,23,TUR,5,false,false,false,playmaking,dribbling
+Kristian Hlynsson,MF,R,22,ISL,6,true,false,false,stamina,dribbling
+Daouda Weidmann,MF,R,23,FRA,6,true,false,false,stamina,passing
+Sondre Orjasaeter,FW,L,22,NOR,7,false,false,false,pace,dribbling
+Ruud Nijstad,CB,L,18,NED,5,true,false,false,pace,dribbling
+Stav Lemkin,CB,R,23,NED,8,true,false,false,pace,marking
+Guilherme Peixoto,FB,R,20,POR,5,false,false,false,pace,dribbling
+Lucas Vennegoor Of Hess,FW,L,20,NED,6,false,false,false,heading,stamina
+Przemyslaw Tyton,GK,R,39,POL,7,false,false,false,penalty-saving,reflexes
+Lars Unnerstall,GK,R,36,GER,8,true,false,false,reflexes,positioning
+Issam El Maach,GK,R,26,MAR,2,false,false,false,reflexes,penalty-saving
+Yannick Gerritsen,GK,R,20,NED,5,false,false,false,reflexes,positioning
+Sam Karssies,GK,R,23,NED,6,false,false,false,rushing-out,reflexes

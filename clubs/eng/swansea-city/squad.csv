@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Malick Yalcouye,MF,R,20,MLI,9,true,false,false,stamina,pace
+Gonçalo Franco,MF,R,25,POR,5,false,false,false,stamina,passing
+Marko Stamenic,MF,R,24,NZL,6,true,false,false,stamina,passing
+Josh Tymon,FB,L,27,ENG,7,true,false,false,stamina,pace
+Ethan Galbraith,MF,R,25,NIR,1,true,false,false,stamina,playmaking
+Manuel Benson,FW,L,29,ANG,5,false,false,false,pace,dribbling
+Jay Fulton,MF,L,32,SCO,6,false,false,false,passing,tackling
+Eom Ji Sung,FW,L,24,KOR,7,false,false,false,pace,stamina
+Liam Cullen,FW,L,27,WAL,1,true,false,false,pace,stamina
+Zeidane Inoussa,FW,L,24,SWE,5,false,false,false,pace,stamina
+Josh Key,FB,R,26,ENG,6,false,false,false,stamina,pace
+Adam Idah,FW,R,25,IRL,1,true,false,false,pace,heading
+Ronald,FW,R,25,BRA,4,false,false,false,pace,stamina
+Melker Widell,MF,R,24,SWE,5,true,false,false,stamina,passing
+Ishe Samuels Smith,FB,L,20,ENG,6,true,false,false,pace,tackling
+Cameron Burgess,CB,L,30,AUS,7,true,false,false,tackling,marking
+Ž. Vipotnik,FW,R,24,SVN,2,false,false,false,finishing,stamina
+Daniel Watts,MF,R,20,WAL,5,false,false,false,pace,passing
+Ricardo Santos,CB,R,31,CPV,6,false,false,false,stamina,heading
+Ben Cabango,CB,R,26,WAL,7,true,false,false,tackling,marking
+Bobby Wales,FW,R,21,SCO,6,false,false,false,pace,finishing
+Sam Parker,FB,R,20,WAL,7,false,false,false,pace,marking
+Kaelan Casey,CB,R,21,ENG,4,false,false,false,heading,tackling
+Lawrence Vigouroux,GK,L,32,CHI,5,false,false,false,reflexes,penalty-saving
+Andy Fisher,GK,R,28,ENG,6,true,false,false,reflexes,penalty-saving

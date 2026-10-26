@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Julian Gunther Schmidt,MF,R,31,GER,5,true,false,false,stamina,pace
+Erik Majetschak,CB,R,26,GER,5,true,false,false,stamina,passing
+Julian Guttau,MF,L,26,GER,6,true,false,false,stamina,pace
+Eric Uhlmann,MF,L,23,GER,7,false,false,false,pace,heading
+Marcel Bar,FW,R,34,GER,3,false,false,false,pace,stamina
+Marvin Stefaniak,MF,L,31,GER,5,false,false,false,stamina,playmaking
+Moritz Seiffert,FW,L,25,GER,6,true,false,false,pace,stamina
+Erik Weinhauer,MF,L,25,GER,7,true,false,false,pace,dribbling
+Jonah Fabisch,MF,L,25,ZIM,3,true,false,false,stamina,playmaking
+Borys Tashchy,MF,R,33,UKR,5,false,false,false,stamina,heading
+Anthony Barylla,CB,R,29,GER,8,true,false,false,stamina,pace
+Can Ozkan,FB,R,26,GER,4,true,false,false,pace,dribbling
+Mika Clausen,FW,R,24,GER,5,false,false,false,dribbling,pace
+Luan Simnica,MF,L,22,ALB,6,false,false,false,stamina,dribbling
+Maxim Burghardt,FB,R,21,GER,9,true,false,false,pace,marking
+Jannic Ehlers,FW,R,23,GER,4,false,false,false,pace,dribbling
+Pascal Fallmann,FW,R,22,AUT,5,false,false,false,stamina,pace
+Paul Seidel,MF,R,20,GER,6,false,false,false,pace,passing
+Finn Hetzsch,FW,R,22,GER,1,false,false,false,pace,stamina
+Ryan Malone,CB,R,34,USA,5,false,false,false,heading,stamina
+Maximilian Schmid,FW,R,23,GER,6,false,false,false,pace,finishing
+Ricky Bornschein,FW,L,26,GER,3,true,false,false,heading,pace
+Tristan Zobel,CB,L,22,GER,5,false,false,false,tackling,stamina
+Lukas Schimkus,FW,L,18,GER,6,false,false,false,pace,dribbling
+Martin Mannel,GK,R,38,GER,7,false,false,false,penalty-saving,reflexes
+Louis Lord,GK,R,22,GER,4,true,false,false,penalty-saving,reflexes
+Max Uhlig,GK,L,20,GER,5,false,false,false,penalty-saving,rushing-out

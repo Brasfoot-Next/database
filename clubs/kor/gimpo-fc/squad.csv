@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jeong-hyeon Son,GK,L,34,KOR,5,false,false,false,positioning,reflexes
+Bo-sang Yoon,GK,R,32,KOR,6,false,false,false,positioning,rushing-out
+Sang-min Lee,GK,L,23,KOR,7,true,false,false,reflexes,rushing-out
+Tae-han Kim,CB,R,30,KOR,3,false,false,false,stamina,tackling
+Dong-min Kim,CB,L,31,KOR,5,false,false,false,marking,stamina
+Kyung-rok Park,CB,L,31,KOR,6,false,false,false,tackling,pace
+Chan-hyung Lee,CB,R,21,KOR,7,false,false,false,heading,passing
+In-jae Lee,CB,R,34,KOR,5,false,false,false,tackling,heading
+Byung-hyun Park,CB,R,33,KOR,6,false,false,false,stamina,heading
+Yong-hyeok Lee,CB,R,29,KOR,7,true,false,false,heading,passing
+Sun-gyu Choi,CB,L,25,KOR,4,true,false,false,tackling,stamina
+Sang-hyoun Park,CB,L,20,KOR,5,false,false,false,heading,tackling
+Min-sik Kim,FB,R,28,KOR,7,true,false,false,pace,tackling
+Bu-seong Jang,FB,R,22,KOR,1,false,false,false,passing,pace
+Chang-seok Lim,FB,R,26,KOR,5,true,false,false,tackling,marking
+Hak-min Lee,FB,R,35,KOR,6,false,false,false,tackling,marking
+Djalma,MF,R,26,BRA,7,true,false,false,passing,playmaking
+Connor Chapman,MF,R,31,AUS,2,true,false,false,passing,finishing
+Jae-young Choi,MF,L,28,KOR,5,true,false,false,passing,tackling
+Do-hyeok Kim,MF,R,34,KOR,6,false,false,false,finishing,playmaking
+Sung-joon Kim,MF,R,38,KOR,4,false,false,false,finishing,playmaking
+Luan Dias,MF,R,28,BRA,5,true,false,false,dribbling,pace
+Paulo Henrique,FW,R,30,BRA,6,false,false,false,dribbling,finishing
+Min-seog Kim,FW,L,23,KOR,7,false,false,false,heading,pace
+Si-heon Lee,FW,R,28,KOR,4,true,false,false,finishing,dribbling
+Jae-woon Yoon,FW,R,24,KOR,5,false,false,false,heading,pace
+Sung-bum Choi,FW,R,24,KOR,6,false,false,false,pace,dribbling
+Luis Mina,FW,R,32,COL,8,false,false,false,dribbling,playmaking
+Amar Muhsin,FW,L,28,IRQ,4,true,false,false,dribbling,finishing
+Dong-jin Park,FW,L,31,KOR,5,false,false,false,finishing,pace
+Gyeol Kim,FW,R,21,KOR,3,false,false,false,dribbling,pace

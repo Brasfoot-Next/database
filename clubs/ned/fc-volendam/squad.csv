@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Aaron Meijers,FB,L,38,NED,8,false,false,false,stamina,heading
+Gibson Yah,MF,R,22,NED,4,true,false,false,pace,passing
+Brandley Kuwas,FW,L,33,CUW,6,false,false,false,pace,dribbling
+Robert Muhren,MF,R,37,NED,7,false,false,false,pace,finishing
+Kiano Dyer,MF,R,19,ENG,10,false,false,false,passing,stamina
+Nordin Bukala,MF,L,20,NED,4,true,false,false,passing,stamina
+Ozan Kokcu,FW,L,28,NED,7,false,false,false,passing,playmaking
+Yannick Leliendal,FB,L,24,SUR,4,true,false,false,stamina,pace
+Mawouna Amevor,CB,R,34,NED,5,false,false,false,stamina,pace
+Anthony Descotte,FW,R,23,BEL,6,true,false,false,pace,dribbling
+Alex Plat,MF,R,28,NED,5,true,false,false,stamina,marking
+Joel Ideho,FW,L,23,NED,6,false,false,false,pace,dribbling
+Precious Ugwu,CB,R,20,NED,7,false,false,false,pace,tackling
+Deron Payne,FB,R,23,NED,4,true,false,false,stamina,pace
+Robin Van Cruijsen,MF,L,20,NED,5,true,false,false,pace,crossing
+Aurelio Oehlers,FW,R,22,NED,6,true,false,false,pace,dribbling
+Henk Veerman,FW,R,35,NED,7,false,false,false,pace,heading
+Xavier Mbuyamba,CB,L,24,NED,4,true,false,false,tackling,pace
+Key Shawn Wong A Soij,FW,L,19,NED,5,false,false,false,pace,dribbling
+Anass Bouziane,MF,R,19,NED,6,false,false,false,dribbling,pace
+Mauro Zijlstra,FW,R,21,IDN,5,false,false,false,pace,heading
+Myron Mau Asam,FB,L,22,NED,6,false,false,false,pace,dribbling
+Nick Verschuren,CB,R,21,NED,7,true,false,false,stamina,pace
+Jesper Tielemans,FW,R,20,NED,2,false,false,false,heading,pace
+Silvinho Esajas,CB,R,24,SUR,5,false,false,false,stamina,tackling
+Luca Blondeau,CB,R,20,NED,6,false,false,false,tackling,pace
+Kayne Van Oevelen,GK,R,23,NED,7,true,false,false,positioning,reflexes
+Roy Steur,GK,R,21,NED,3,false,false,false,reflexes,penalty-saving
+Dion Vlak,GK,R,25,NED,5,false,false,false,penalty-saving,reflexes

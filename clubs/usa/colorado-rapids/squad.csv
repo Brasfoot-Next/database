@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Paxten Aaronson,MF,R,23,USA,7,true,false,false,pace,stamina
+Connor Ronan,MF,R,28,IRL,3,true,false,false,stamina,passing
+Alexis Manyoma,FW,R,23,COL,5,false,false,false,pace,passing
+Keegan Rosenberry,FB,L,32,USA,6,false,false,false,stamina,tackling
+Cole Bassett,MF,R,25,USA,7,true,false,false,playmaking,stamina
+Reggie Cannon,FB,R,28,USA,4,true,false,false,pace,stamina
+Sam Vines,FB,L,27,USA,5,true,false,false,stamina,pace
+Andreas Maxso,CB,R,32,DEN,6,false,false,false,stamina,heading
+Josh Atencio,MF,L,24,USA,7,true,false,false,heading,tackling
+Rafael Navarro,FW,R,26,BRA,1,true,false,false,finishing,heading
+Rafael Santos,FB,L,28,BRA,4,false,false,false,pace,crossing
+Rob Holding,CB,R,30,ENG,5,true,false,false,marking,heading
+Ali Fadal,MF,R,22,GHA,6,false,false,false,passing,pace
+Theodore Ku Dipietro,FW,L,24,USA,8,false,false,false,pace,dribbling
+Oliver Larraz,MF,R,24,USA,5,false,false,false,passing,marking
+Ian Murphy,CB,L,26,USA,6,true,false,false,marking,stamina
+Sam Bassett,MF,R,23,USA,6,false,false,false,passing,stamina
+Calvin Harris,FW,R,26,ENG,10,false,false,false,pace,dribbling
+Darren Yapi,FW,R,21,USA,3,true,false,false,pace,dribbling
+Noah Cobb,CB,R,21,USA,5,false,false,false,pace,tackling
+Wayne Frederick,MF,R,22,TRI,3,false,false,false,pace,dribbling
+Zack Steffen,GK,R,31,USA,5,true,false,false,reflexes,penalty-saving
+Alex Harris,FW,R,21,USA,6,false,false,false,pace,finishing
+Nico Hansen,GK,R,25,DEN,7,false,false,false,rushing-out,reflexes

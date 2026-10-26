@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Khaled Ibrahim,GK,R,27,SYR,7,true,false,false,rushing-out,penalty-saving
+Mustafa Al Borsali,GK,L,20,SYR,1,false,false,false,positioning,penalty-saving
+Salah Shahrour,FB,R,34,SYR,6,true,false,false,crossing,marking
+Ahmad Al Khaimi,FB,L,22,SYR,7,true,false,false,crossing,pace
+Ahmed Al-Khaimi,FB,L,22,SYR,5,false,false,false,marking,passing
+Ibraheem Sawas,FB,R,32,SYR,8,false,false,false,marking,pace
+Ali Rammal,CB,L,30,SYR,1,true,false,false,tackling,heading
+Mohammad Hadid,CB,R,27,SYR,4,true,false,false,heading,stamina
+Hussain Al-Shouaeeb,CB,R,30,SYR,4,false,false,false,marking,pace
+Louay Al Shareef,CB,L,22,SYR,8,false,false,false,tackling,stamina
+Barakat,MF,L,24,SYR,5,true,false,false,playmaking,passing
+Anas Balhous,MF,R,35,SYR,1,true,false,false,pace,dribbling
+Tariq Hendawi,MF,L,26,SYR,4,true,false,false,marking,finishing
+Mohammad Ali,MF,R,28,SYR,9,true,false,false,finishing,passing
+Mohamed Maatouk,MF,R,20,SYR,2,false,false,false,playmaking,dribbling
+Yahya Karak,MF,L,25,SYR,3,false,false,false,finishing,passing
+Mohanad Marande,MF,R,20,SYR,9,false,false,false,tackling,pace
+Mohammed Rustom,MF,L,22,SYR,2,false,false,false,marking,finishing
+Anas Alaji,FW,L,24,SYR,10,true,false,false,dribbling,finishing
+Mohamad Sharif,FW,R,27,SYR,1,true,false,false,dribbling,finishing
+Malek Ali,FW,R,27,SYR,1,false,false,false,pace,finishing
+Ahmed Sharif,FW,R,26,SYR,8,false,false,false,heading,stamina

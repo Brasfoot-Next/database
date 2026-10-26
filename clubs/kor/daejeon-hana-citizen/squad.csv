@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Chang-geun Lee,GK,R,33,KOR,6,true,false,false,reflexes,rushing-out
+Jun-seo Lee,GK,R,28,KOR,8,false,false,false,penalty-saving,reflexes
+Min-soo Kim,GK,R,21,KOR,4,false,false,false,penalty-saving,reflexes
+Kyeong-tae Lee,GK,R,31,KOR,5,false,false,false,reflexes,positioning
+Chang-rae Ha,CB,R,31,KOR,6,true,false,false,heading,marking
+Anton Kryvotsiuk,CB,L,27,KOR,7,true,false,false,marking,passing
+Min-duk Kim,CB,R,30,KOR,2,false,false,false,marking,heading
+Sung-gwon Cho,CB,R,25,KOR,5,false,false,false,stamina,pace
+Jong-eun Lim,CB,R,36,KOR,6,false,false,false,heading,tackling
+Myung-jae Lee,FB,L,32,KOR,7,true,false,false,stamina,pace
+Kyu-hyun Park,FB,L,25,KOR,6,false,false,false,pace,stamina
+Jin-ya Kim,FB,R,28,KOR,8,false,false,false,stamina,pace
+Young-jae Seo,FB,R,31,KOR,4,false,false,false,crossing,pace
+Do-yeon Kim,FB,R,18,KOR,5,false,false,false,stamina,crossing
+Moon-hwan Kim,FB,R,31,KOR,6,true,false,false,stamina,pace
+Yun-sung Kang,FB,L,29,KOR,8,false,false,false,marking,crossing
+Jae-suk Oh,FB,R,36,KOR,4,false,false,false,stamina,tackling
+Bobsin,MF,R,26,BRA,5,true,false,false,stamina,passing
+Bong-soo Kim,MF,L,26,KOR,6,true,false,false,stamina,tackling
+Soon-min Lee,MF,R,32,KOR,10,true,false,false,stamina,tackling
+Hyeon-sik Lee,MF,R,30,KOR,6,true,false,false,stamina,pace
+Jun-beom Kim,MF,R,28,KOR,7,false,false,false,stamina,pace
+Byung-chan Park,MF,R,17,KOR,3,false,false,false,pace,dribbling
+Gustav Ludwigson,FW,L,32,SWE,5,true,false,false,pace,stamina
+Won-sang Um,FW,R,27,KOR,6,false,false,false,pace,stamina
+Hyeon-ug Kim,FW,L,31,KOR,7,false,false,false,stamina,pace
+João Victor,FW,R,27,BRA,4,false,false,false,pace,dribbling
+Jae-hee Jeong,FW,R,32,KOR,5,false,false,false,pace,stamina
+Ji-ho Kim,FW,L,17,KOR,6,false,false,false,pace,crossing
+Masatoshi Ishida,FW,L,31,JPN,7,false,false,false,stamina,pace
+Diogo Oliveira,FW,R,29,BRA,6,true,false,false,dribbling,playmaking
+Min-kyu Joo,FW,R,36,KOR,7,false,false,false,finishing,heading
+Kang-hyun Yu,FW,R,30,KOR,2,false,false,false,pace,finishing
+Jin-su Seo,FW,R,25,KOR,5,false,false,false,pace,stamina

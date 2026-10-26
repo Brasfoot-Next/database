@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Yoell Van Nieff,MF,L,33,NED,3,false,false,false,crossing,tackling
+Jorge Ortiz,FW,R,34,ESP,4,false,false,false,pace,stamina
+Jorge Pereyra Diaz,FW,R,36,ARG,5,false,false,false,pace,stamina
+Lallianzuala Chhangte,FW,L,29,IND,6,true,false,false,pace,stamina
+Jon Toral,MF,L,31,ESP,7,true,false,false,playmaking,passing
+Brandon Fernandes,MF,L,31,IND,4,true,false,false,pace,stamina
+Tiri,CB,L,35,ESP,5,true,false,false,marking,passing
+Gyamar Nikum,MF,R,21,IND,6,false,false,false,pace,stamina
+Akash Mishra,FB,L,24,IND,7,true,false,false,stamina,pace
+Thaer Krouma,CB,L,36,IND,4,false,false,false,marking,stamina
+Vikram Singh,FW,L,24,IND,4,false,false,false,pace,crossing
+Zothanpuia Zothanpuia,MF,R,22,IND,5,true,false,false,pace,passing
+Lalnuntluanga Bawitlung,MF,R,26,IND,6,true,false,false,pace,stamina
+Sanjeev Stalin,FB,L,25,IND,7,false,false,false,tackling,stamina
+Nathan Rodrigues,FB,L,22,IND,4,false,false,false,stamina,pace
+Hmingthanmawia Ralte,FB,R,26,IND,5,true,false,false,stamina,tackling
+Seilenthang Lotjem,FW,R,22,IND,6,false,false,false,pace,crossing
+Ayush Chhikara,FW,L,24,IND,7,false,false,false,pace,heading
+Franklin Nazareth,MF,R,22,IND,4,false,false,false,passing,pace
+Noufal PN,FW,L,25,IND,5,true,false,false,pace,crossing
+Halen Nongtdu,CB,R,22,IND,4,true,false,false,heading,stamina
+Tp Rehenesh,GK,R,33,IND,5,false,false,false,reflexes,positioning
+Phurba Lachenpa,GK,R,28,IND,6,true,false,false,reflexes,penalty-saving
+Ahan Prakash,GK,R,22,IND,7,false,false,false,reflexes,positioning

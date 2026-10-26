@@ -1,0 +1,13 @@
+name = "Beşiktaş JK"
+country = "TUR"
+level = 18
+reputation = 4
+colors = ["#000000", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Ersin Rashica"
+country = "BRA"

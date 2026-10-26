@@ -1,0 +1,13 @@
+name = "Horoya"
+country = "GUI"
+level = 14
+reputation = 3
+colors = ["#c40000", "#ffffff"]
+
+[stadium]
+name = "Stade 28 Septembre"
+capacity = 25000
+
+[coach]
+name = "Lamine N'Diaye"
+country = "SEN"

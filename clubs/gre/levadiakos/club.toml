@@ -1,0 +1,13 @@
+name = "Levadiakos"
+country = "GRE"
+level = 12
+reputation = 2
+colors = ["#F0F0F0", "#104080"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Dimitris Emmanouilidis"
+country = "BRA"

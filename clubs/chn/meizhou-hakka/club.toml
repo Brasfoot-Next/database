@@ -1,0 +1,13 @@
+name = "Meizhou Hakka"
+country = "CHN"
+level = 8
+reputation = 2
+colors = ["#003080", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Liu Chaosheng"
+country = "BRA"

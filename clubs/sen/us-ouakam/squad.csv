@@ -1,0 +1,38 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mansour Dieng,GK,R,24,SEN,6,false,false,false,rushing-out,reflexes
+El Hadji Wade,GK,L,25,SEN,7,true,false,false,positioning,rushing-out
+Alioune Ndiaye,GK,R,29,SEN,3,false,false,false,reflexes,rushing-out
+Djiby Ndoye,CB,R,25,SEN,5,false,false,false,marking,tackling
+Moussa Sogue,CB,L,25,SEN,6,false,false,false,heading,marking
+Mamadou Sylla,CB,R,33,SEN,7,true,false,false,marking,stamina
+Abdoul Aziz Diouf,CB,R,25,SEN,3,false,false,false,tackling,stamina
+Abdoul Diagne,CB,R,27,SEN,5,true,false,false,heading,stamina
+Mody Diouf,CB,R,21,SEN,6,false,false,false,passing,marking
+Ibrahima Diop,CB,R,26,SEN,7,false,false,false,heading,marking
+Oumar Sarr,FB,L,25,SEN,7,false,false,false,crossing,pace
+Oumar Diene,FB,R,21,SEN,4,false,false,false,crossing,passing
+Omar Ndoye,FB,L,28,SEN,5,true,false,false,dribbling,pace
+Ibrahima Bitèye,FB,L,20,SEN,6,false,false,false,marking,pace
+Valentin Gomis,FB,R,27,SEN,8,true,false,false,stamina,crossing
+Aboubacar Cissé,MF,L,25,SEN,4,true,false,false,tackling,passing
+Christian Diatta,MF,R,26,SEN,5,true,false,false,passing,playmaking
+Mamadou Sarr,MF,R,25,SEN,6,true,false,false,passing,stamina
+Samba Seck,MF,R,28,SEN,9,false,false,false,pace,dribbling
+Abdourahmane Diouf,MF,R,25,SEN,5,false,false,false,dribbling,playmaking
+Ousseynou Seck,MF,L,20,SEN,6,false,false,false,passing,playmaking
+Abdoul Diouf,MF,R,25,SEN,7,false,false,false,dribbling,pace
+Pape Gueye,MF,L,27,SEN,9,true,false,false,passing,stamina
+Idrissa Dia,MF,R,25,SEN,4,false,false,false,passing,finishing
+Toussain Dionou,MF,R,21,SEN,5,false,false,false,pace,dribbling
+Pape Ba,MF,R,25,SEN,6,false,false,false,marking,passing
+Thierno Ndir,MF,L,18,SEN,1,false,false,false,finishing,passing
+Alassane Guèye,FW,R,19,SEN,5,false,false,false,heading,stamina
+Mamadou Sarr,FW,R,18,SEN,6,true,false,false,pace,crossing
+Ousseynou Ball,FW,R,25,SEN,7,true,false,false,finishing,heading
+Mamadou Coly,FW,L,23,SEN,4,false,false,false,finishing,stamina
+Ebrahim Faye,FW,L,21,SEN,5,false,false,false,pace,dribbling
+Papa Dione,FW,R,23,SEN,6,false,false,false,pace,crossing
+Idrissa Mbaye,FW,R,25,SEN,4,false,false,false,dribbling,pace
+Souleymane Sané,FW,R,23,SEN,5,false,false,false,finishing,dribbling
+Cheikh Tidiane Camara,FW,R,22,SEN,6,false,false,false,dribbling,finishing
+Khadime Ngom,FW,R,19,SEN,7,false,false,false,dribbling,playmaking

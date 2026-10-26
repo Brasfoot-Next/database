@@ -1,0 +1,13 @@
+name = "Hapoel Be'er Sheva"
+country = "ISR"
+level = 13
+reputation = 2
+colors = ["#ff0000", "#ffffff"]
+
+[stadium]
+name = "Turner Stadium"
+capacity = 16126
+
+[coach]
+name = "Elyaniv Barda"
+country = "ISR"

@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Bruno Leite,MF,R,31,CPV,7,true,false,false,stamina,pace
+Niko Hamalainen,FB,L,29,FIN,2,true,false,false,pace,stamina
+Parfait Bizoza,MF,L,27,NOR,5,true,false,false,stamina,pace
+Claus Niyukuri,FB,R,26,NOR,6,true,false,false,pace,stamina
+Pyry Hannola,MF,L,24,FIN,7,true,false,false,pace,passing
+Martin Samuelsen,FW,R,29,NOR,2,true,false,false,pace,dribbling
+Martin Bjornbak,CB,R,34,NOR,5,false,false,false,heading,stamina
+Sory Ibrahim Diarra,FW,R,26,MLI,6,true,false,false,pace,stamina
+Runar Espejord,FW,R,30,NOR,7,false,false,false,stamina,finishing
+Amidou Traore,MF,R,22,CIV,3,true,false,false,stamina,pace
+Mikkel Hope,FB,R,20,NOR,6,false,false,false,pace,stamina
+Vegard Solheim,FB,R,22,NOR,7,false,false,false,pace,crossing
+Almar Gjerd Grindhaug,MF,R,20,NOR,2,false,false,false,passing,playmaking
+Troy Engseth Nyhammer,MF,R,20,NOR,5,false,false,false,crossing,playmaking
+Eivind Helgeland,FB,L,22,NOR,6,false,false,false,pace,passing
+Anders Bondhus,FB,L,21,NOR,7,false,false,false,pace,stamina
+Emil Rohd,FW,L,21,DEN,3,false,false,false,finishing,dribbling
+Lars Tanggaard Eide,MF,R,19,NOR,5,false,false,false,pace,stamina
+Ismael Petcho Camara,FW,R,19,CIV,6,false,false,false,pace,dribbling
+Havard Vatland Karlsen,FW,L,24,NOR,7,false,false,false,pace,finishing
+Madiodio Dia,CB,R,22,SEN,6,false,false,false,marking,heading
+Ismael Seone,FW,R,21,BFA,7,false,false,false,pace,finishing
+Mathias Bakken Myklebust,FB,L,20,NOR,10,false,false,false,stamina,pace
+Ilir Kukleci,CB,R,27,NOR,4,true,false,false,tackling,stamina
+Mikkel Fischer,CB,L,22,DEN,5,true,false,false,pace,tackling
+Miika Koskela,CB,R,23,FIN,6,false,false,false,pace,tackling
+Amund Wichne,GK,R,29,NOR,1,true,false,false,reflexes,positioning
+Frank Stople,GK,R,24,NOR,5,false,false,false,reflexes,rushing-out
+Einar Boe Fauskanger,GK,R,18,NOR,6,false,false,false,reflexes,positioning

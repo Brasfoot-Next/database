@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kudirat Ablet,GK,R,29,CHN,7,true,false,false,rushing-out,positioning
+Rongze Han,GK,L,33,CHN,3,false,false,false,positioning,rushing-out
+Yan Zhang,GK,R,29,CHN,5,false,false,false,rushing-out,positioning
+Tianai Wang,GK,R,17,CHN,6,false,false,false,rushing-out,positioning
+Hanbo Zhang,GK,R,20,CHN,7,false,false,false,positioning,penalty-saving
+Pavle Vagic,CB,L,26,SWE,10,true,false,false,stamina,tackling
+Mincheng Yuan,CB,R,31,CHN,5,false,false,false,stamina,marking
+Jiarun Gao,CB,R,31,CHN,5,false,false,false,heading,marking
+Ziyi Tian,CB,R,25,CHN,6,true,false,false,pace,stamina
+Ximing Pan,CB,L,33,CHN,1,false,false,false,heading,passing
+De'ao Tian,CB,R,24,CHN,1,false,false,false,heading,tackling
+Peng Li,CB,L,35,CHN,5,false,false,false,tackling,marking
+Hongfu Zhang,CB,R,17,CHN,6,false,false,false,tackling,heading
+Shiqi Li,CB,R,18,CHN,7,false,false,false,heading,passing
+Haoran Li,FB,R,26,CHN,2,true,false,false,stamina,pace
+Dong Xu,FB,R,35,CHN,5,false,false,false,pace,crossing
+Dilmurat Mawlanniyaz,FB,R,28,CHN,6,true,false,false,pace,stamina
+Jiacheng Zheng,FB,L,21,CHN,7,false,false,false,crossing,passing
+Felipe,MF,L,32,BRA,2,true,false,false,finishing,playmaking
+Tixiang Li,MF,R,37,CHN,5,false,false,false,stamina,pace
+Yinong Tian,MF,R,35,CHN,7,true,false,false,dribbling,playmaking
+Dinghao Yan,MF,R,28,CHN,4,true,false,false,stamina,playmaking
+Takahiro Kunimoto,MF,R,28,JPN,5,true,false,false,stamina,passing
+Jeffinho,FW,R,26,BRA,6,true,false,false,heading,pace
+Binbin Chen,FW,R,28,CHN,8,false,false,false,crossing,pace
+Zihan Gui,FW,R,23,CHN,4,false,false,false,finishing,heading
+Yifeng Zang,FW,L,32,CHN,5,false,false,false,pace,finishing
+Guy Mbenza,FW,R,26,CGO,6,false,false,false,heading,pace
+Ange Kouamé,FW,R,29,CHN,8,true,false,false,pace,dribbling
+Yuda Tian,FW,R,24,CHN,4,false,false,false,finishing,dribbling
+Guobo Liu,FW,R,26,CHN,7,false,false,false,finishing,stamina

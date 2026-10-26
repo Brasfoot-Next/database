@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Farid Chaâl,GK,R,32,ALG,6,true,false,false,reflexes,positioning
+Tarek Bousseder,GK,L,25,ALG,7,false,false,false,rushing-out,reflexes
+Mohamed Anes Mokhtar,GK,R,21,ALG,2,false,false,false,positioning,rushing-out
+Riyane Akacem,CB,R,27,ALG,5,true,false,false,stamina,heading
+Chouaib Keddad,CB,R,31,ALG,6,true,false,false,marking,heading
+Sofiane Bouchar,CB,L,32,ALG,7,false,false,false,marking,tackling
+Naoufel Khacef,FB,L,28,ALG,7,true,false,false,pace,tackling
+Youcef Amine Laouafi,FB,R,30,ALG,4,false,false,false,pace,crossing
+Mohammed Yasser Chelfaoui,FB,R,29,ALG,5,false,false,false,dribbling,pace
+Fouad Kermiche,FB,L,27,ALG,6,true,false,false,stamina,pace
+Houcine Benayada,FB,R,33,ALG,9,false,false,false,tackling,stamina
+Oussama Benkihoul,FB,L,20,ALG,4,false,false,false,pace,tackling
+Salim Boukhanchouche,MF,R,34,ALG,5,false,false,false,playmaking,dribbling
+Houssem Tka,MF,L,25,TUN,7,true,false,false,finishing,playmaking
+Mehdi Boudjemaa,MF,R,28,ALG,1,true,false,false,passing,playmaking
+Bilal Boukerchaoui,MF,R,23,ALG,4,true,false,false,finishing,playmaking
+Djaber Kaassis,MF,R,27,ALG,5,true,false,false,passing,tackling
+Julio Bandessi,MF,L,22,CGO,7,false,false,false,pace,dribbling
+Abdelmalek Kelaleche,MF,R,20,ALG,1,false,false,false,pace,dribbling
+Farid El Melali,FW,L,29,ALG,5,true,false,false,heading,finishing
+Abderrahmane Meziane,FW,R,32,ALG,7,false,false,false,finishing,stamina
+Abdel Ali Hamadi,FW,L,22,ALG,4,false,false,false,pace,crossing
+Yousri Bouzok,FW,R,29,ALG,5,false,false,false,finishing,stamina
+Abdennour Iheb Belhocini,FW,R,29,ALG,6,false,false,false,finishing,heading
+Mohamed Ali Ben Hammouda,FW,L,27,TUN,7,true,false,false,heading,finishing
+Franck Etouga,FW,R,24,CMR,4,false,false,false,crossing,pace
+Lofti Boussouar,FW,R,21,ALG,5,false,false,false,pace,crossing

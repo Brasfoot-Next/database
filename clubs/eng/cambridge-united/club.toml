@@ -1,0 +1,13 @@
+name = "Cambridge United"
+country = "ENG"
+level = 8
+reputation = 2
+colors = ["#000000", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "George Bradshaw"
+country = "BRA"

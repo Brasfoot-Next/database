@@ -1,0 +1,13 @@
+name = "CSKA Sofia"
+country = "BUL"
+level = 15
+reputation = 3
+colors = ["#F0F0F0", "#D02020"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Ioannis Pereira"
+country = "BRA"

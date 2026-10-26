@@ -1,0 +1,13 @@
+name = "Hafnarfjördur"
+country = "ISL"
+level = 15
+reputation = 3
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Kaplakriki"
+capacity = 6500
+
+[coach]
+name = "Ólafur Jóhannesson"
+country = "ISL"

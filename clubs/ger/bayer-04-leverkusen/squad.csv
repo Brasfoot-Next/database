@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Grimaldo,FW,L,30,ESP,6,false,false,false,crossing,stamina
+Aleix García,MF,R,29,ESP,7,true,false,false,playmaking,passing
+Malik Tillman,MF,R,24,USA,8,true,false,false,pace,dribbling
+Exequiel Palacios,MF,R,27,ARG,4,true,false,false,passing,tackling
+Robert Andrich,MF,L,31,GER,6,false,false,false,marking,tackling
+Lucas Vázquez,FB,R,35,ESP,7,true,false,false,crossing,stamina
+Jonas Hofmann,MF,R,34,GER,8,false,false,false,playmaking,passing
+Patrik Schick,FW,L,30,CZE,5,true,true,false,heading,finishing
+Martin Terrier,FW,R,29,FRA,5,false,false,false,dribbling,finishing
+Edmond Tapsoba,CB,L,27,BFA,6,true,false,false,heading,passing
+Nathan Tella,MF,L,27,NGA,5,false,false,false,dribbling,pace
+Ezequiel Fernandez,MF,L,24,ARG,6,false,false,false,stamina,passing
+Eliesse Ben Seghir,FW,L,21,MAR,7,false,false,false,dribbling,pace
+Claudio Echeverri,MF,R,20,ARG,9,false,false,false,pace,dribbling
+Ibrahim Maza,MF,R,20,ALG,5,true,false,false,dribbling,pace
+Jeanuel Belocian,CB,L,21,FRA,6,false,false,false,tackling,passing
+Arthur,FW,R,23,BRA,7,false,false,false,pace,crossing
+Ernest Poku,FW,R,22,NED,10,true,false,false,pace,stamina
+Jarell Quansah,CB,R,23,ENG,6,true,false,false,marking,heading
+Loic Bade,CB,R,26,FRA,6,false,false,false,tackling,marking
+Jeremiah Mensah,MF,R,18,GER,5,false,false,false,pace,dribbling
+Christian Kofane,FW,R,20,CMR,6,true,false,false,finishing,heading
+Axel Tape,CB,R,19,FRA,7,false,false,false,tackling,pace
+Alejo Sarco,FW,L,20,ARG,9,false,false,false,pace,finishing
+Mark Flekken,GK,R,33,NED,5,true,false,false,reflexes,penalty-saving
+Janis Blaswich,GK,R,35,GER,6,false,false,false,positioning,reflexes
+Niklas Lomb,GK,R,33,GER,7,false,false,false,reflexes,penalty-saving

@@ -1,0 +1,13 @@
+name = "RB Leipzig"
+country = "GER"
+level = 20
+reputation = 4
+colors = ["#F0F0F0", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Lukas Bungi"
+country = "BRA"

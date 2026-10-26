@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Conor Chaplin,MF,L,29,ENG,5,true,false,false,pace,finishing
+Callum Lang,FW,R,28,ENG,6,false,false,false,stamina,pace
+John Swift,MF,R,31,ENG,4,false,false,false,playmaking,dribbling
+Andre Dozzell,MF,L,27,ENG,5,true,false,false,stamina,passing
+Josh Murphy,FW,L,31,ENG,6,false,false,false,pace,dribbling
+Colby Bishop,FW,R,29,ENG,7,false,false,false,stamina,finishing
+Marlon Pack,MF,R,35,ENG,4,false,false,false,playmaking,crossing
+Connor Ogilvie,FB,L,30,ENG,5,false,false,false,stamina,heading
+Luke Le Roux,MF,R,26,ENG,6,true,false,false,stamina,passing
+Terry Devlin,FB,R,22,NIR,7,true,false,false,stamina,pace
+Zak Swanson,FB,R,25,ENG,5,false,false,false,pace,stamina
+Franco Umeh,FW,L,21,IRL,6,true,false,false,pace,dribbling
+Conor Shaughnessy,CB,L,30,IRL,7,false,false,false,stamina,heading
+Jordan Williams,FB,R,26,ENG,4,false,false,false,pace,stamina
+Yang Min Hyeok,FW,R,20,KOR,5,false,false,false,pace,stamina
+Regan Poole,CB,R,28,WAL,6,true,false,false,stamina,marking
+Mark Kosznovszky,MF,R,24,HUN,7,false,false,false,passing,pace
+Florian Bianchini,FW,R,25,FRA,4,false,false,false,pace,dribbling
+Jacob Farrell,FB,L,23,AUS,5,true,false,false,stamina,tackling
+Josh Knight,CB,R,29,ENG,6,false,false,false,stamina,heading
+Adrian Segecic,MF,L,22,AUS,5,true,false,false,pace,finishing
+Thomas Waddingham,FW,L,21,AUS,6,false,false,false,pace,stamina
+Reuben Swann,MF,R,20,ENG,7,false,false,false,pace,passing
+Harvey Blair,FW,L,22,ENG,2,false,false,false,pace,dribbling
+Makenzie Kirk,FW,R,22,NIR,5,true,false,false,pace,stamina
+Ibane Bowat,CB,L,23,SCO,6,false,false,false,stamina,tackling
+Hayden Matthews,CB,R,22,AUS,7,true,false,false,stamina,pace
+Harry Clout,MF,R,20,ENG,3,false,false,false,pace,dribbling
+Josef Bursik,GK,L,26,ENG,5,false,false,false,reflexes,penalty-saving
+Nicolas Schmid,GK,R,29,AUT,6,true,false,false,reflexes,positioning
+Ben Killip,GK,R,30,ENG,5,false,false,false,reflexes,positioning
+Jordan Archer,GK,R,33,SCO,5,false,false,false,positioning,reflexes

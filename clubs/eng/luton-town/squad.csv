@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+George Saville,MF,L,33,NIR,6,true,false,false,stamina,playmaking
+Kal Naismith,CB,L,34,SCO,7,false,false,false,stamina,tackling
+Jordan Clark,MF,R,32,ENG,5,false,false,false,passing,stamina
+Liam Walsh,MF,L,28,ENG,6,true,false,false,passing,playmaking
+Shandon Baptiste,MF,R,28,GRN,7,true,false,false,dribbling,passing
+Isaiah Jones,FW,R,27,GUY,2,false,false,false,pace,stamina
+Nahki Wells,FW,R,36,BER,5,false,false,false,finishing,pace
+Marvelous Nakamba,MF,L,32,ZIM,6,false,false,false,tackling,marking
+Jacob Brown,FW,R,28,SCO,7,false,false,false,stamina,pace
+Elijah Adebayo,FW,R,28,ENG,2,false,false,false,pace,stamina
+Cohen Bramall,FB,L,30,ENG,2,true,false,false,pace,stamina
+Jerry Yates,FW,R,29,ENG,5,false,false,false,stamina,pace
+Hakeem Odoffin,CB,R,28,ENG,6,true,false,false,pace,stamina
+Teden Mengi,CB,R,24,ENG,7,false,false,false,pace,tackling
+Lamine Fanne,MF,R,22,ESP,3,false,false,false,pace,passing
+Millenic Alli,MF,L,26,IRL,5,true,false,false,pace,dribbling
+Jake Richards,MF,L,19,ENG,6,false,false,false,pace,passing
+Zack Nelson,FW,L,21,ENG,7,false,false,false,pace,dribbling
+Reuell Walters,FB,R,21,ENG,3,true,false,false,pace,stamina
+Joe Johnson,FB,L,20,ENG,5,false,false,false,pace,tackling
+Gideon Kodua,FW,R,21,ENG,10,false,false,false,pace,dribbling
+Ali Al Hamadi,FW,R,24,IRQ,4,true,false,false,pace,finishing
+Nigel Lonwijk,FW,L,23,SUR,5,false,false,false,pace,stamina
+Shayden Morris,FW,R,24,ENG,6,false,false,false,pace,dribbling
+Lasse Nordas,FW,L,24,NOR,1,true,false,false,pace,finishing
+Christ Makosso,CB,R,22,CGO,5,false,false,false,tackling,heading
+Mads Juel Andersen,CB,R,28,DEN,6,true,false,false,tackling,heading
+Joseph Gbode,FW,R,21,ENG,7,false,false,false,pace,stamina
+Josh Keeley,GK,R,23,IRL,1,true,false,false,reflexes,penalty-saving
+James Shea,GK,R,35,ENG,5,false,false,false,positioning,reflexes

@@ -1,0 +1,13 @@
+name = "Noah Yerevan"
+country = "ARM"
+level = 13
+reputation = 2
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Mika Stadium"
+capacity = 8000
+
+[coach]
+name = "Aram Hakobyan"
+country = "ARM"

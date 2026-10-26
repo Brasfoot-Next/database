@@ -1,0 +1,13 @@
+name = "Hienghene Sport"
+country = "NCL"
+level = 14
+reputation = 2
+colors = ["#0066cc", "#ffffff"]
+
+[stadium]
+name = "Numa Daly"
+capacity = 9646
+
+[coach]
+name = "Felix Tagawa"
+country = "TAH"

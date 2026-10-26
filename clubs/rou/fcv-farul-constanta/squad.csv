@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ionut Vina,MF,L,31,ROU,6,true,false,false,stamina,pace
+Cristian Ganea,FB,L,34,ROU,7,false,false,false,stamina,pace
+Victor Dican,MF,R,25,ROU,4,true,false,false,stamina,pace
+Narek Grigoryan,FW,L,26,ROU,5,false,false,false,stamina,dribbling
+Eduard Radaslavescu,MF,L,22,ROU,6,true,false,false,stamina,playmaking
+Ramalho,MF,R,27,POR,7,true,false,false,stamina,passing
+David Maftei,FB,R,22,ROU,1,true,false,false,pace,stamina
+Gabriel Iancu,FW,L,32,ROU,5,false,false,false,playmaking,finishing
+Alexandru Isfan,FW,L,26,ROU,6,true,false,false,pace,stamina
+Jovan Markovic,FW,R,25,ROU,7,false,false,false,pace,heading
+Dan Sirbu,FB,R,23,ROU,5,true,false,false,stamina,pace
+Steve Furtado,FB,R,31,CPV,6,false,false,false,pace,stamina
+Razvan Tanasa,FW,L,23,ROU,7,true,false,false,pace,dribbling
+Gustavo Marins,CB,L,24,BRA,3,true,false,false,stamina,pace
+Albert Iustin Doicaru,FW,L,19,ROU,5,false,false,false,pace,finishing
+Ionut Cojocaru,FW,L,23,ROU,6,false,false,false,pace,finishing
+Lucas Pellegrini,CB,L,26,FRA,7,true,false,false,stamina,tackling
+André Seruca,MF,R,25,POR,3,false,false,false,tackling,stamina
+Jakub Vojtus,FW,R,32,SVK,5,false,false,false,heading,finishing
+Luca Banu,MF,R,21,ROU,6,false,false,false,tackling,marking
+Ionut Larie,CB,R,39,ROU,5,false,false,false,marking,tackling
+Bogdan Tiru,CB,L,32,ROU,6,false,false,false,stamina,marking
+Cristian Sima,FW,R,19,ROU,7,false,false,false,pace,dribbling
+Alexandru Buzbuchi,GK,R,32,ROU,2,true,false,false,positioning,reflexes
+Razvan Ducan,GK,R,25,ROU,5,false,false,false,reflexes,penalty-saving
+Rafael Munteanu,GK,R,20,ROU,6,false,false,false,reflexes,penalty-saving

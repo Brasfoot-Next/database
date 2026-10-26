@@ -1,0 +1,13 @@
+name = "Randers FC"
+country = "DEN"
+level = 12
+reputation = 2
+colors = ["#F0F0F0", "#000050"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Mike Greve"
+country = "BRA"

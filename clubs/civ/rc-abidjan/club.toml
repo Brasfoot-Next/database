@@ -1,0 +1,13 @@
+name = "RC Abidjan"
+country = "CIV"
+level = 15
+reputation = 3
+colors = ["#003399", "#ffffff"]
+
+[stadium]
+name = "Robert Champroux"
+capacity = 20000
+
+[coach]
+name = "Bassiriki Diabaté"
+country = "CIV"

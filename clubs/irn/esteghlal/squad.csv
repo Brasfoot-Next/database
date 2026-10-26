@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Alireza Rezaei,GK,R,22,IRN,4,false,false,false,rushing-out,penalty-saving
+Hosseini,GK,R,30,IRN,3,true,false,false,penalty-saving,reflexes
+Sina Saeidifar,GK,L,21,IRN,1,false,false,false,rushing-out,penalty-saving
+Abolfazl Jalali,FB,R,24,IRN,10,true,false,false,crossing,pace
+Saleh Hardani,FB,L,23,IRN,5,true,false,false,finishing,passing
+Kayhan Vali,FB,L,26,IRN,6,false,false,false,crossing,marking
+Aref Gholami,CB,R,25,IRN,2,true,false,false,heading,stamina
+Behafarin,CB,L,23,IRN,5,false,false,false,marking,pace
+Moradmand,CB,R,29,IRN,6,false,false,false,tackling,stamina
+Raphael Silva,CB,L,30,BRA,2,true,false,false,tackling,marking
+Arash Rezavand,MF,R,28,IRN,3,false,false,false,finishing,passing
+Azizbek Amanov,MF,R,24,UZB,9,false,false,false,dribbling,playmaking
+Hosseinzadeh,MF,L,21,IRN,6,true,false,false,playmaking,passing
+Mehdi Mehdipour,MF,L,27,IRN,7,true,false,false,marking,finishing
+Roozbeh Cheshmi,MF,R,29,IRN,4,true,false,false,tackling,finishing
+Saeid Mehri,MF,R,26,IRN,4,false,false,false,marking,finishing
+Zobeir Niknafs,MF,R,29,IRN,9,true,false,false,tackling,marking
+Jafar Salmani,FW,L,25,IRN,6,false,false,false,finishing,pace
+Kevin Yamga,FW,R,25,FRA,3,false,false,false,finishing,dribbling
+Motahari,FW,R,29,IRN,8,true,false,false,finishing,dribbling
+Sobhan Khaghani,FW,L,22,IRN,8,true,false,false,finishing,pace

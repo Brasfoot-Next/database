@@ -1,0 +1,13 @@
+name = "Gjilani"
+country = "KVX"
+level = 13
+reputation = 2
+colors = ["#ff0000", "#ffffff"]
+
+[stadium]
+name = "Gjilan"
+capacity = 15000
+
+[coach]
+name = "Zekirija Ramadani"
+country = "MKD"

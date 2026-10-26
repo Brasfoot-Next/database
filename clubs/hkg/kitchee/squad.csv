@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Zhenpeng Wang,GK,L,38,HKG,5,true,false,false,reflexes,positioning
+Dani Cancela,FB,L,40,HKG,4,true,false,false,crossing,marking
+Benhaddouche,FB,R,26,FRA,5,true,false,false,finishing,passing
+Tsz-Chun Law,FB,L,25,HKG,10,false,false,false,finishing,passing
+Helio,CB,R,36,HKG,3,true,false,false,tackling,marking
+Tomas,CB,L,37,BRA,7,true,false,false,marking,pace
+Chin-Lung Cheng,MF,R,24,HKG,4,true,false,false,passing,finishing
+Yang Huang,MF,R,38,HKG,6,true,false,false,marking,finishing
+Cleiton,MF,L,35,BRA,7,true,false,false,marking,finishing
+Sohgo Ichikawa,MF,L,17,HKG,2,true,false,false,passing,finishing
+Shinichi Chan,FW,R,19,HKG,5,true,false,false,finishing,stamina
+Matt Orr,FW,L,25,HKG,7,true,false,false,finishing,dribbling
+Paulo César,GK,R,36,HKG,10,false,false,false,positioning,penalty-saving
+Jordon Brown,FB,R,28,ENG,5,false,false,false,marking,passing
+Tsang,CB,L,18,HKG,8,false,false,false,marking,pace
+Oliver Gerbig,CB,R,23,HKG,7,false,false,false,tackling,heading
+Fernando,FW,R,35,HKG,5,false,false,false,finishing,stamina
+Ruslan Mingazov,FW,L,30,TKM,7,false,false,false,crossing,pace
+Raúl Baena,MF,R,33,ESP,5,false,false,false,dribbling,passing
+Charlie Scott,MF,R,24,ENG,2,false,false,false,marking,finishing

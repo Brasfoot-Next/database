@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sancet,MF,R,26,ESP,8,true,false,false,stamina,dribbling
+Berenguer,FW,L,31,ESP,5,false,false,false,dribbling,pace
+Yuri Berchiche,FB,L,36,ESP,5,true,false,false,stamina,tackling
+Iñaki Williams,FW,R,32,GHA,6,true,false,false,pace,stamina
+Ruiz de Galarreta,MF,R,33,ESP,7,false,false,false,stamina,tackling
+Nico Williams,FW,L,24,ESP,10,true,true,false,pace,dribbling
+Jauregizar,MF,L,22,ESP,6,false,false,false,stamina,passing
+Guruzeta,FW,R,29,ESP,6,false,false,false,heading,finishing
+Beñat Prados,MF,R,25,ESP,7,true,false,false,stamina,tackling
+Lekue,FB,R,33,ESP,1,false,false,false,stamina,pace
+Vivian,CB,L,27,ESP,6,false,false,false,tackling,marking
+Aymeric Laporte,CB,L,32,ESP,7,true,false,false,tackling,heading
+Vesga,MF,L,33,ESP,8,false,false,false,stamina,finishing
+Gorosabel,FB,R,30,ESP,5,false,false,false,pace,tackling
+Areso,FB,R,27,ESP,6,false,false,false,stamina,crossing
+Adama Boiro,FB,L,24,SEN,7,true,false,false,stamina,pace
+Robert Navarro,FW,R,24,ESP,9,false,false,false,dribbling,passing
+Unai Gómez,MF,L,23,ESP,5,true,false,false,playmaking,passing
+Izeta,FW,R,26,ESP,6,false,false,false,heading,finishing
+Maroan,FW,R,25,MAR,7,false,false,false,heading,finishing
+Aitor Paredes,CB,R,26,ESP,9,true,false,false,tackling,marking
+Rego,MF,R,23,ESP,5,true,false,false,stamina,passing
+Nico Serrano,FW,L,23,ESP,6,false,false,false,pace,dribbling
+Egiluz,CB,R,24,ESP,7,false,false,false,tackling,marking
+Unai Simón,GK,R,29,ESP,9,true,true,false,reflexes,positioning
+Mikel Santos,GK,L,21,ESP,5,false,false,false,positioning,penalty-saving
+Álex Padilla,GK,R,23,MEX,6,false,false,false,reflexes,penalty-saving

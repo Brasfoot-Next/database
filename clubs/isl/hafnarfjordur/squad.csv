@@ -1,0 +1,20 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nielsen,GK,L,35,FRO,5,true,false,false,rushing-out,penalty-saving
+Gudmundsson,GK,R,28,ISL,4,false,false,false,rushing-out,penalty-saving
+Hermannsson,GK,L,16,ISL,5,false,false,false,positioning,rushing-out
+Ólafur Gudmundsson,FB,L,20,ISL,1,true,false,false,marking,passing
+Ásgrímsson,FB,R,22,ISL,10,false,false,false,marking,pace
+Ástbjörn Thórdarson,FB,R,23,ISL,7,true,false,false,crossing,marking
+Arnarsson,CB,R,19,ISL,1,false,false,false,marking,pace
+Oliver Heidarsson,CB,R,21,ISL,7,true,false,false,heading,stamina
+Margeirsson,CB,L,31,ISL,10,true,false,false,marking,pace
+Kristjánsson,MF,R,33,ISL,4,true,false,false,marking,pace
+Sverrisson,MF,L,32,ISL,5,true,false,false,tackling,marking
+Jónsson,MF,L,33,ISL,5,true,false,false,tackling,marking
+Sigurdsson,MF,L,30,ISL,3,true,false,false,finishing,passing
+Gudlaugsson,MF,R,20,ISL,1,false,false,false,tackling,finishing
+Jóhannsson,MF,R,20,ISL,8,false,false,false,playmaking,passing
+Steven Lennon,FW,L,34,SCO,3,true,false,false,heading,finishing
+Dimitrijevic,FW,L,21,ISL,6,false,false,false,pace,finishing
+Vilhjálmsson,FW,R,35,ISL,9,true,false,false,finishing,pace
+Máni Hilmarsson,FW,R,24,ISL,6,false,false,false,dribbling,finishing

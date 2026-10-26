@@ -1,0 +1,13 @@
+name = "Pakhtakor"
+country = "UZB"
+level = 15
+reputation = 3
+colors = ["#0033cc", "#ffffcc"]
+
+[stadium]
+name = "PCS"
+capacity = 35000
+
+[coach]
+name = "Maksim Shatskikh"
+country = "UZB"

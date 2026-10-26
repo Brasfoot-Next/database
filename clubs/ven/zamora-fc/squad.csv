@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Italo Sulbarán,GK,R,21,VEN,4,true,false,false,positioning,reflexes
+Juan Mosquera,CB,R,24,COL,6,true,false,false,tackling,stamina
+Anthony Matos,CB,R,31,VEN,7,false,false,false,heading,tackling
+Brayan Rodríguez,CB,R,30,VEN,1,true,false,false,stamina,tackling
+Santiago Gómez,CB,R,23,VEN,5,false,false,false,marking,tackling
+Stiven Valencia,CB,R,23,COL,6,false,false,false,tackling,pace
+Jean Madera,FB,R,27,VEN,8,true,false,false,pace,tackling
+Armando Rivas,FB,L,23,VEN,4,false,false,false,marking,pace
+Gabriel Benítez,FB,L,32,VEN,5,false,false,false,stamina,pace
+Isai Valladares,FB,L,21,VEN,6,false,false,false,tackling,marking
+Yonder Guevara,FB,L,24,VEN,6,true,false,false,stamina,crossing
+Cristian Díaz,MF,R,25,COL,7,true,false,false,dribbling,pace
+Junior Cedeño,MF,R,35,VEN,3,false,false,false,passing,stamina
+Arles Flores,MF,R,35,VEN,5,false,false,false,passing,finishing
+Kevin Alexander Palacios,MF,L,23,VEN,6,true,false,false,tackling,marking
+Carlos Rueda,MF,R,29,VEN,7,true,false,false,marking,passing
+Sergio Sulbarán,MF,L,28,VEN,4,true,false,false,tackling,marking
+Helzon Pomozy,MF,R,17,VEN,5,false,false,false,passing,tackling
+Freddy Espinal,FW,R,28,COL,6,false,false,false,finishing,dribbling
+Santos Torrealba,FW,R,19,VEN,7,false,false,false,finishing,stamina
+Richard Celis,FW,R,30,VEN,6,false,false,false,heading,pace
+Erickson Gallardo,FW,L,29,VEN,7,true,false,false,dribbling,finishing
+Néstor Jiménez,FW,L,23,VEN,2,false,false,false,finishing,dribbling
+Roberth Patiño,FW,R,21,VEN,5,false,false,false,playmaking,finishing
+José Sequera,FW,R,22,VEN,6,false,false,false,finishing,dribbling
+José Flores,FW,R,18,VEN,7,true,false,false,finishing,dribbling
+Mario Álvarez,FW,R,32,COL,3,false,false,false,finishing,pace
+José Barragán,FW,L,26,VEN,5,false,false,false,finishing,stamina

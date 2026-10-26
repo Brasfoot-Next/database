@@ -1,0 +1,20 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Eldorbek Suyunov,GK,R,31,UZB,2,false,false,false,positioning,rushing-out
+Kuvvatov,GK,L,32,UZB,9,true,false,false,penalty-saving,reflexes
+Azizkhon Isokov,GK,R,21,UZB,1,false,false,false,penalty-saving,reflexes
+Farrukh Sayfiev,FB,L,31,UZB,4,true,false,false,marking,passing
+Alizhonov,FB,R,25,UZB,2,true,false,false,marking,passing
+Ilija Martinovic,FB,R,28,MNE,10,false,false,false,marking,finishing
+Sherzod Azamov,CB,L,32,UZB,2,true,false,false,tackling,stamina
+Oleksiy Larin,CB,R,28,UKR,5,true,false,false,heading,stamina
+Shakhzod Azmiddinov,CB,L,21,UZB,8,false,false,false,heading,stamina
+Jasur Yakubov,CB,R,23,UZB,5,false,false,false,marking,pace
+Iminov,MF,R,22,UZB,9,false,false,false,marking,passing
+Sobirkhuzhaev,MF,L,27,UZB,7,true,false,false,marking,finishing
+Azizbek Turgunboev,MF,R,27,UZB,6,true,false,false,marking,finishing
+Ikromzhon Alibaev,MF,L,28,UZB,9,true,false,false,finishing,passing
+Khamrobekov,MF,R,26,UZB,9,true,false,false,tackling,finishing
+Dragan Ceran,FW,R,34,SRB,2,true,false,false,finishing,dribbling
+Oliver Sarkic,FW,L,25,MNE,7,true,false,false,heading,pace
+Abbosbek Fayzullaev,FW,R,18,UZB,9,false,false,false,dribbling,playmaking
+Mirakhmadov,FW,L,25,UZB,6,false,false,false,pace,finishing

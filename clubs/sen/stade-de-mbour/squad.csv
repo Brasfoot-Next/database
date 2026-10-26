@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Boubacar Nguer,GK,R,22,SEN,6,false,false,false,reflexes,penalty-saving
+Mouhamadou Talla Mbaye,GK,R,25,SEN,7,false,false,false,rushing-out,reflexes
+Dib Faye,GK,L,26,SEN,3,true,false,false,reflexes,penalty-saving
+Jean Coly,GK,R,20,SEN,5,false,false,false,reflexes,positioning
+Pape Cham,CB,L,21,SEN,6,false,false,false,marking,heading
+Lamine Bodian,CB,L,24,SEN,7,false,false,false,heading,marking
+Boubacar Faye,CB,R,24,SEN,3,false,false,false,tackling,marking
+Ousmane Touré,CB,R,21,SEN,5,true,false,false,passing,marking
+Mouhamadou Mbaye,CB,R,29,SEN,6,true,false,false,heading,tackling
+François Preira,CB,R,23,SEN,7,false,false,false,tackling,stamina
+Youssouf Cisse,CB,R,25,SEN,7,false,false,false,marking,passing
+Sega Sissokho,CB,R,32,SEN,2,false,false,false,marking,tackling
+Thierno Sakho,FB,R,17,SEN,5,false,false,false,marking,crossing
+Ibrahima Sarr,FB,L,25,SEN,5,true,false,false,passing,pace
+Abo Ka,FB,R,23,SEN,6,true,false,false,tackling,stamina
+Mouhamed Coly,MF,L,22,SEN,7,true,false,false,playmaking,finishing
+Moussa Ciss,MF,R,23,SEN,4,true,false,false,dribbling,passing
+Cheikh Tamba,MF,R,22,SEN,5,true,false,false,passing,playmaking
+Landing Sagna,MF,R,19,SEN,6,true,false,false,playmaking,passing
+Amadou Gaye,FW,R,27,SEN,7,true,false,false,crossing,pace
+Ablaye Samba,FW,R,25,SEN,5,true,false,false,pace,finishing
+Pape Camara,FW,R,25,SEN,6,false,false,false,heading,pace
+Sény Ndiaye,FW,R,25,SEN,7,false,false,false,pace,dribbling
+Babacar Ba,FW,L,20,SEN,3,false,false,false,pace,dribbling
+Fadel Diouf,FW,R,23,SEN,4,false,false,false,playmaking,finishing
+Amath Cissokho,FW,R,20,SEN,5,false,false,false,dribbling,playmaking

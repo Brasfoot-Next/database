@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Elias Curzel,GK,L,31,BRA,2,false,false,false,rushing-out,reflexes
+Talles,GK,R,29,BRA,5,false,false,false,positioning,rushing-out
+Vagner,GK,R,24,BRA,6,false,false,false,reflexes,positioning
+Diego Monteiro,GK,R,26,BRA,7,true,false,false,penalty-saving,reflexes
+Miranda,CB,R,26,BRA,3,true,false,false,tackling,pace
+José Cuenú,CB,R,31,COL,5,false,false,false,passing,marking
+William Klaus,CB,R,32,BRA,6,false,false,false,heading,stamina
+André,CB,L,27,BRA,7,true,false,false,tackling,pace
+Bernardo Rodrigues,CB,R,21,BRA,3,false,false,false,heading,passing
+Renan Gustavo,CB,R,21,BRA,5,false,false,false,tackling,pace
+Gabriel Feliciano,FB,R,24,BRA,6,false,false,false,stamina,pace
+Moraes,FB,R,28,BRA,7,true,false,false,stamina,crossing
+Mikael Doka,FB,L,26,BRA,3,true,false,false,marking,pace
+Maguinho,FB,R,34,BRA,5,false,false,false,marking,pace
+João Gabriel,FB,R,20,BRA,6,false,false,false,tackling,marking
+Matheus Trindade,MF,L,30,BRA,6,true,false,false,playmaking,dribbling
+Índio,MF,R,33,BRA,8,false,false,false,pace,dribbling
+Charles Raphael,MF,R,31,BRA,4,false,false,false,dribbling,playmaking
+Pedro Vilhena,MF,R,24,BRA,5,true,false,false,stamina,tackling
+Juan Zuluaga,MF,R,33,COL,6,false,false,false,dribbling,pace
+Neto Paraíba,MF,R,34,BRA,5,false,false,false,tackling,marking
+Gabriel Boschilia,MF,L,30,BRA,6,true,false,false,finishing,playmaking
+Vinícius Diniz,MF,R,26,BRA,1,true,false,false,passing,stamina
+Maxwell,FW,L,31,BRA,5,false,false,false,heading,stamina
+Berto,FW,R,30,BRA,6,true,false,false,dribbling,finishing
+Felipe Augusto,FW,R,34,BRA,7,true,false,false,playmaking,finishing
+Vinicius Mingotti,FW,L,26,BRA,7,false,false,false,pace,dribbling
+Pablo,FW,R,34,BRA,3,false,false,false,pace,finishing
+Caio Dantas,FW,R,33,BRA,5,false,false,false,pace,dribbling
+Aylon,FW,R,34,BRA,6,false,false,false,finishing,stamina

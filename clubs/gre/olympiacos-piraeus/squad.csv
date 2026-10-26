@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Konstantinos Tzolakis,GK,R,23,GRE,7,true,false,false,reflexes,positioning
+Balsa Popovic,GK,R,26,MNE,9,false,false,false,reflexes,positioning
+Dimitrios Stournaras,GK,L,25,GRE,5,false,false,false,rushing-out,reflexes
+Lorenzo Pirola,CB,L,24,ITA,6,true,false,false,tackling,heading
+Panagiotis Retsos,CB,R,28,GRE,7,true,false,false,tackling,passing
+David Carmo,CB,L,27,ANG,7,false,false,false,marking,tackling
+Zinedin Smajlović,CB,R,22,SWE,1,false,false,false,pace,marking
+Francisco Ortega,FB,L,27,ARG,5,true,false,false,pace,stamina
+Bruno Onyemaechi,FB,L,27,NGA,6,false,false,false,pace,crossing
+Pablo Maffeo,FB,L,29,ARG,7,true,false,false,marking,pace
+Rodinei,FB,R,34,BRA,5,false,false,false,stamina,pace
+Santiago Hezze,MF,R,24,ARG,6,true,false,false,stamina,tackling
+Lorenzo Scipioni,MF,R,21,ARG,7,true,false,false,passing,stamina
+Theofanis Bakoulas,MF,R,21,GRE,10,false,false,false,stamina,passing
+Dani García,MF,L,36,ESP,6,false,false,false,tackling,passing
+Christos Mouzakitis,MF,L,19,GRE,6,true,false,false,playmaking,passing
+Chiquinho,MF,R,31,POR,7,false,false,false,stamina,passing
+Yusuf Yazıcı,MF,L,29,TUR,1,true,false,false,dribbling,playmaking
+Konstantinos Fortounis,MF,R,33,GRE,6,false,false,false,playmaking,passing
+Rémy Cabella,MF,L,36,FRA,6,false,false,false,dribbling,playmaking
+Antonis Papakanellos,MF,R,21,GRE,5,false,false,false,pace,dribbling
+Jota Silva,FW,R,27,POR,6,true,false,false,pace,dribbling
+Georgios Masouras,FW,R,32,GRE,7,false,false,false,crossing,dribbling
+Gabriel Strefezza,FW,R,29,BRA,9,true,false,false,pace,stamina
+André Luiz,FW,L,24,BRA,5,false,false,false,pace,dribbling
+Gelson Martins,FW,L,31,POR,6,false,false,false,pace,dribbling
+Clayton,FW,R,27,BRA,7,false,false,false,finishing,stamina
+Ayoub El Kaabi,FW,L,33,MAR,9,false,false,false,finishing,pace
+Roman Yaremchuk,FW,R,30,UKR,5,false,false,false,finishing,pace
+Mehdi Taremi,FW,R,33,GRE,6,false,false,false,finishing,heading
+Jefté Betancor,FW,L,33,ESP,7,false,false,false,dribbling,playmaking

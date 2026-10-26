@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Manula,GK,R,26,TAN,6,true,false,false,reflexes,positioning
+Kakolanya,GK,L,28,TAN,4,false,false,false,rushing-out,penalty-saving
+Salim Juma,GK,R,22,TAN,7,false,false,false,positioning,penalty-saving
+Mohamed Husseini,FB,R,25,TAN,5,true,false,false,marking,passing
+Shomari Kapombe,FB,L,30,TAN,1,true,false,false,marking,passing
+Kamagi,FB,L,25,TAN,1,false,false,false,finishing,pace
+Joash Onyango,CB,R,29,KEN,10,true,false,false,tackling,stamina
+Ibrahim Ame,CB,L,29,TAN,6,true,false,false,tackling,marking
+Mohamed Ouattara,CB,R,23,CIV,4,false,false,false,tackling,heading
+Cletus Chama,MF,L,31,ZAM,4,true,false,false,playmaking,pace
+Mzamiru Yassin,MF,R,26,TAN,8,true,false,false,playmaking,finishing
+Erasto Nyoni,MF,L,34,TAN,7,true,false,false,tackling,marking
+Jonas Mkude,MF,R,29,TAN,3,true,false,false,tackling,pace
+Taddeo Lwanga,MF,R,28,UGA,5,false,false,false,marking,passing
+Sadio Kanouté,MF,L,25,MLI,3,false,false,false,playmaking,finishing
+Rashid Juma,MF,L,24,TAN,1,false,false,false,finishing,passing
+Hassan Dilunga,FW,L,28,TAN,8,true,false,false,finishing,dribbling
+John Bocco,FW,R,32,TAN,4,true,false,false,heading,finishing
+Peter Banda,FW,L,21,MWI,8,false,false,false,dribbling,finishing
+Denis Kibu,FW,L,23,TAN,9,false,false,false,finishing,dribbling

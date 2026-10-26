@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Alessandro Schopf,MF,R,32,AUT,5,true,false,false,stamina,passing
+Rene Renner,FB,L,32,AUT,6,true,false,false,stamina,pace
+Fabian Wolmuth,FW,R,24,AUT,7,false,false,false,stamina,pace
+Donis Avdijaj,FW,L,30,AUT,3,false,false,false,stamina,pace
+Dejan Zukic,MF,R,25,SRB,5,true,false,false,playmaking,passing
+Tochukwu Raymond,MF,L,22,NGA,6,false,false,false,passing,tackling
+David Atanga,FW,L,29,GHA,7,false,false,false,pace,stamina
+Nicolas Wimmer,CB,L,31,AUT,3,false,false,false,stamina,heading
+Simon Piesinger,MF,L,34,AUT,5,false,false,false,stamina,heading
+Angelo Gattermayer,FW,R,24,AUT,6,true,false,false,pace,heading
+Austin Uzondu,FB,L,20,NGA,7,false,false,false,pace,tackling
+Dominik Baumgartner,CB,R,30,AUT,5,false,false,false,stamina,heading
+Adama Drame,CB,R,21,CIV,6,false,false,false,heading,tackling
+Chibuike Nwaiwu,CB,R,23,NGA,7,true,false,false,heading,tackling
+Markus Pink,FW,R,35,AUT,3,false,false,false,heading,finishing
+Ryan Ogam,FW,L,21,KEN,5,false,false,false,pace,stamina
+Erik Kojzek,FW,L,20,SVN,6,true,false,false,heading,finishing
+Emmanuel Agyemang,MF,R,22,GHA,7,true,false,false,playmaking,dribbling
+Mickael Dosso,FW,L,21,CIV,3,false,false,false,pace,dribbling
+Marco Sulzner,MF,R,23,AUT,5,true,false,false,pace,tackling
+Boris Matic,FB,R,22,SRB,7,true,false,false,pace,stamina
+Florent Hajdini,MF,R,20,AUT,2,false,false,false,pace,passing
+Cheick Mamadou Diabate,CB,R,22,CIV,6,true,false,false,pace,marking
+Tobias Gruber,CB,R,21,AUT,7,false,false,false,heading,tackling
+Emmanuel Chukwu,CB,R,19,NGA,1,false,false,false,pace,tackling
+Lukas Gutlbauer,GK,R,25,AUT,5,false,false,false,penalty-saving,reflexes
+Nikolas Polster,GK,R,24,AUT,6,true,false,false,reflexes,penalty-saving
+David Skubl,GK,R,24,AUT,7,false,false,false,reflexes,penalty-saving

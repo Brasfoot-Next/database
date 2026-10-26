@@ -1,0 +1,13 @@
+name = "San Diego FC"
+country = "USA"
+level = 14
+reputation = 3
+colors = ["#001020", "#FFFFFF"]
+
+[stadium]
+name = "Snapdragon Stadium"
+capacity = 35000
+
+[coach]
+name = "Willy Kumado"
+country = "BRA"

@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rubén Alcaraz,MF,R,35,ESP,5,false,false,false,stamina,crossing
+Martin Hongla,MF,R,28,CMR,6,true,false,false,stamina,dribbling
+Manu Trigueros,MF,L,34,ESP,7,false,false,false,passing,crossing
+José Arnáiz,FW,L,31,ESP,2,false,false,false,pace,stamina
+Álex Sola,FW,R,27,ESP,5,true,false,false,stamina,pace
+Sergio Ruiz,MF,R,31,ESP,6,true,false,false,stamina,passing
+Jorge Pascual,FW,L,23,ESP,7,false,false,false,stamina,pace
+Souleymane Faye,FW,R,23,SEN,3,true,false,false,pace,dribbling
+Mohamed Bouldini,FW,L,30,MAR,5,false,false,false,stamina,pace
+Dominique Moubeke,MF,L,21,CMR,6,false,false,false,pace,stamina
+Manu Lama,CB,R,25,ESP,7,true,false,false,stamina,marking
+Gael Joel,MF,R,22,ESP,2,false,false,false,pace,stamina
+Loïc Williams,CB,L,24,ESP,5,true,false,false,stamina,pace
+Pau Casadesús,FB,R,23,ESP,6,true,false,false,stamina,pace
+Pablo Sáenz,FW,L,25,ESP,7,false,false,false,finishing,passing
+Mario Gambín,MF,R,19,ESP,3,false,false,false,dribbling,passing
+Pedro Alemañ,MF,L,23,ESP,5,true,false,false,dribbling,passing
+Sergio Rodelas,FW,L,21,ESP,6,false,false,false,playmaking,dribbling
+Luka Gagnidze,MF,R,23,GEO,7,true,false,false,dribbling,playmaking
+Pere Haro,FB,L,22,ESP,3,false,false,false,pace,stamina
+Baila Diallo,FB,L,25,SEN,6,true,false,false,pace,tackling
+Oscar Naasei Oppong,CB,R,21,GHA,9,false,false,false,tackling,pace
+Samu Cortés,FW,L,20,ESP,4,false,false,false,dribbling,pace
+Hormigo,FB,L,23,ESP,5,false,false,false,tackling,marking
+Seydou,CB,R,21,ESP,6,false,false,false,marking,stamina
+Luca Zidane,GK,R,28,FRA,1,true,false,false,penalty-saving,positioning
+Astralaga,GK,R,22,ESP,5,false,false,false,positioning,rushing-out

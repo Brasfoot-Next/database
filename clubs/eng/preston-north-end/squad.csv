@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ben Whiteman,MF,R,30,ENG,6,false,false,false,stamina,playmaking
+Brad Potts,FB,R,32,ENG,7,false,false,false,stamina,pace
+Robbie Brady,FB,L,34,IRL,3,true,false,false,crossing,playmaking
+Ali Mccann,MF,L,26,NIR,5,true,false,false,stamina,tackling
+Jordan Thompson,MF,L,29,NIR,6,true,false,false,stamina,playmaking
+Will Keane,FW,R,33,IRL,7,false,false,false,stamina,heading
+Mads Frokjaer,MF,R,27,DEN,3,false,false,false,playmaking,passing
+Thierry Small,FB,L,22,ENG,5,false,false,false,pace,stamina
+Stefan Teitur Thordharson,MF,R,27,ISL,6,false,false,false,stamina,passing
+Milutin Osmajic,FW,L,27,MNE,7,false,false,false,pace,finishing
+Alfie Devine,MF,R,22,ENG,6,true,false,false,passing,playmaking
+Harrison Armstrong,MF,R,19,ENG,8,true,false,false,stamina,passing
+Andrew Hughes,CB,L,34,WAL,4,false,false,false,stamina,heading
+Pol Valentín,FB,R,29,ESP,5,false,false,false,pace,stamina
+Andrija Vukcevic,FB,L,29,MNE,6,true,false,false,stamina,pace
+Lewis Dobbin,FW,L,23,ENG,10,true,false,false,pace,dribbling
+Michael Smith,FW,R,34,ENG,5,false,false,false,heading,finishing
+Noah Mawene,MF,R,21,ENG,5,false,false,false,pace,dribbling
+Daniel Jebbison,FW,R,23,CAN,6,true,false,false,pace,finishing
+Odel Offiah,FB,R,23,ENG,1,false,false,false,pace,tackling
+Jordan Storey,CB,R,29,ENG,5,true,false,false,heading,stamina
+Lewis Gibson,CB,L,26,ENG,6,true,false,false,marking,tackling
+Liam Lindsay,CB,L,30,SCO,4,false,false,false,stamina,heading
+Josh Seary,FB,R,21,IRL,5,false,false,false,pace,crossing
+Theo Carroll,MF,R,19,ENG,6,false,false,false,pace,dribbling
+Daniel Iversen,GK,R,29,DEN,7,true,false,false,reflexes,penalty-saving
+Jack Walton,GK,R,28,ENG,4,false,false,false,positioning,penalty-saving
+David Cornell,GK,R,35,WAL,5,false,false,false,reflexes,penalty-saving
+James Pradic,GK,R,21,WAL,6,false,false,false,penalty-saving,rushing-out

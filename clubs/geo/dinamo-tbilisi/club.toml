@@ -1,0 +1,13 @@
+name = "Dinamo Tbilisi"
+country = "GEO"
+level = 16
+reputation = 3
+colors = ["#004080", "#ffffff"]
+
+[stadium]
+name = "Boris Paichadze"
+capacity = 53279
+
+[coach]
+name = "Giorgi Chiabrishvili"
+country = "GEO"

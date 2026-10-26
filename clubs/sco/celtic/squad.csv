@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Callum Mcgregor,MF,L,33,SCO,6,true,false,false,stamina,passing
+Daizen Maeda,FW,R,28,JPN,8,true,false,false,stamina,pace
+Arne Engels,MF,R,23,BEL,2,true,false,false,stamina,playmaking
+Reo Hatate,MF,L,28,JPN,6,true,false,false,playmaking,passing
+Paulo Bernardo,MF,R,24,POR,6,true,false,false,stamina,passing
+Alistair Johnston,FB,R,27,CAN,7,true,false,false,pace,stamina
+Kieran Tierney,FB,L,29,SCO,8,true,false,false,crossing,passing
+Luke Mccowan,MF,L,28,SCO,5,false,false,false,stamina,playmaking
+Benjamin Nygren,FW,L,25,SWE,6,true,false,false,stamina,playmaking
+Marcelo Saracchi,FB,L,28,URU,7,false,false,false,pace,stamina
+Michel Ange Balikwisha,FW,L,25,BEL,6,false,false,false,pace,stamina
+Anthony Ralston,FB,R,27,SCO,8,false,false,false,stamina,pace
+Jota,FW,L,27,POR,4,false,false,false,pace,dribbling
+Liam Scales,CB,L,28,IRL,6,false,false,false,stamina,heading
+Kelechi Iheanacho,FW,L,29,NGA,6,false,false,false,dribbling,finishing
+Yang Hyun Jun,FW,R,24,KOR,8,false,false,false,pace,stamina
+James Forrest,FW,R,35,SCO,4,false,false,false,pace,passing
+Cameron Carter Vickers,CB,R,28,USA,6,true,false,false,tackling,marking
+Auston Trusty,CB,L,28,USA,6,false,false,false,stamina,pace
+Johnny Kenny,FW,R,23,IRL,8,false,false,false,pace,finishing
+Shin Yamada,FW,R,26,JPN,6,false,false,false,pace,stamina
+Colby Donovan,FB,R,20,SCO,7,false,false,false,pace,stamina
+Hayato Inamura,CB,L,24,JPN,10,false,false,false,passing,pace
+Sebastian Tounekti,FW,L,24,TUN,6,false,false,false,pace,stamina
+Dane Murray,CB,R,23,SCO,6,false,false,false,heading,passing
+Jahmai Simpson Pusey,CB,R,20,ENG,7,true,false,false,tackling,marking
+Callum Osmand,FW,R,20,WAL,1,false,false,false,pace,stamina
+Kasper Schmeichel,GK,R,39,DEN,6,false,false,false,positioning,reflexes
+Ross Doohan,GK,R,28,SCO,6,false,false,false,reflexes,penalty-saving
+Viljami Sinisalo,GK,R,24,FIN,7,true,false,false,reflexes,penalty-saving

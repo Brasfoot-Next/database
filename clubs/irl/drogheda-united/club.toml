@@ -1,0 +1,13 @@
+name = "Drogheda United"
+country = "IRL"
+level = 5
+reputation = 1
+colors = ["#80A0C0", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "John Bolger"
+country = "BRA"

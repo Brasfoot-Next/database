@@ -1,0 +1,13 @@
+name = "The New Saints"
+country = "WAL"
+level = 13
+reputation = 3
+colors = ["#006633", "#ffffff"]
+
+[stadium]
+name = "Park Hall"
+capacity = 2034
+
+[coach]
+name = "Anthony Limbrick"
+country = "AUS"

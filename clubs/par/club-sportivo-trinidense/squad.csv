@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Matías Dufour,GK,R,27,URU,5,true,false,false,rushing-out,positioning
+Mauro Rodas,GK,R,26,PAR,6,false,false,false,rushing-out,positioning
+Víctor Samudio,GK,R,34,PAR,7,false,false,false,rushing-out,positioning
+Fernando Román,CB,R,25,PAR,3,true,false,false,heading,tackling
+Maximiliano Centurión,CB,L,27,ARG,5,true,false,false,marking,tackling
+Agustín Da Silveira,CB,R,25,URU,6,false,false,false,stamina,heading
+Bruno Valdez,CB,R,33,PAR,7,false,false,false,heading,stamina
+David Villalba,CB,R,35,PAR,3,false,false,false,marking,heading
+César Benítez,CB,R,36,PAR,5,false,false,false,marking,stamina
+Tobías Morinigo,FB,R,20,PAR,6,false,false,false,stamina,crossing
+Diego Melgarejo,FB,L,29,PAR,5,true,false,false,marking,crossing
+Sergio Mendoza,FB,L,32,PAR,6,false,false,false,passing,crossing
+Axel Cañete,FB,R,24,PAR,7,false,false,false,crossing,pace
+Leandro Esteche,FB,R,25,PAR,4,true,false,false,pace,tackling
+Armando Ruiz Díaz,FB,L,33,PAR,5,false,false,false,stamina,pace
+Ariel Gauto,MF,R,23,PAR,6,true,false,false,playmaking,finishing
+Gustavo Viera,MF,R,30,PAR,7,true,false,false,dribbling,passing
+Randy Báez,MF,L,18,PAR,4,false,false,false,pace,dribbling
+Fabrizio Baruja,MF,R,19,PAR,5,false,false,false,dribbling,playmaking
+Jorge Marcelino,MF,R,20,PAR,6,false,false,false,playmaking,passing
+Luis de la Cruz,MF,R,35,PAR,5,false,false,false,tackling,marking
+Luis Abreu,MF,R,22,PAR,6,true,false,false,pace,passing
+Ronald Cornet,MF,L,24,PAR,7,true,false,false,stamina,tackling
+Lucas González,MF,L,22,ARG,3,false,false,false,finishing,passing
+Junior Gamarra,FW,L,19,PAR,5,false,false,false,playmaking,finishing
+Ronaldo Báez,FW,R,28,PAR,6,true,false,false,finishing,stamina
+Tomás Rayer,FW,R,24,ARG,7,true,false,false,finishing,stamina
+Nicolás Maná,FW,L,32,ARG,3,false,false,false,heading,finishing
+Joel Román,FW,L,36,PAR,5,false,false,false,heading,stamina
+Néstor Camacho,FW,L,38,PAR,5,false,false,false,finishing,stamina
+Oscar Giménez,FW,R,36,PAR,4,false,false,false,pace,crossing
+Clementino González,FW,L,36,PAR,6,false,false,false,heading,pace

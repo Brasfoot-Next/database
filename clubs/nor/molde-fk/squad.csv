@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mats Moller Daehli,MF,R,31,NOR,7,false,false,false,stamina,dribbling
+Martin Linnes,FB,R,34,NOR,4,false,false,false,stamina,pace
+Kristian Eriksen,MF,R,31,NOR,5,true,false,false,stamina,playmaking
+Fredrik Gulbrandsen,FW,R,33,NOR,7,false,false,false,pace,stamina
+Emil Breivik,MF,L,26,NOR,3,true,false,false,stamina,pace
+Birk Risa,CB,L,28,NOR,5,true,false,false,stamina,pace
+Jacob Christensen,MF,R,25,DEN,6,true,false,false,passing,stamina
+Halldor Stenevik,FB,R,26,NOR,7,false,false,false,stamina,pace
+Eirik Hestad,FW,L,31,NOR,3,false,false,false,dribbling,stamina
+Magnus Wolff Eikrem,MF,R,36,NOR,5,false,false,false,playmaking,passing
+Neraysho Kasanwirjo,FB,R,24,NED,6,true,false,false,pace,stamina
+Sondre Granaas,FW,L,20,NOR,8,false,false,false,stamina,passing
+Caleb Zady Sery,FW,L,26,CIV,5,true,false,false,pace,dribbling
+Jalal Abdullai,FW,R,21,GHA,6,true,false,false,pace,finishing
+Casper Oyvann,CB,R,26,NOR,6,false,false,false,stamina,pace
+Daniel Daga,MF,R,19,NGA,1,true,false,false,pace,tackling
+Eirik Haugan,CB,R,29,NOR,5,false,false,false,stamina,tackling
+Isak Helstad Amundsen,CB,R,26,NOR,6,true,false,false,stamina,pace
+Oskar Spiten Nysaeter,FW,L,19,NOR,7,false,false,false,pace,finishing
+Blerton Isufi,MF,R,20,NOR,1,false,false,false,pace,passing
+Samukele Kabini,FB,L,22,NOR,6,true,false,false,pace,stamina
+Gustav Kjolstad Nyheim,FW,L,20,NOR,7,false,false,false,pace,dribbling
+Faveur Ndayizeye,MF,R,18,NOR,4,false,false,false,pace,stamina
+Magnus Fjortoft Lovik,FW,R,20,NOR,5,false,false,false,pace,finishing
+Mathias Silseth Mork,MF,R,19,NOR,6,false,false,false,passing,pace
+Igor Gosik,FW,R,18,NOR,7,false,false,false,pace,finishing
+Jacob Karlstrom,GK,R,29,NOR,4,true,false,false,reflexes,positioning
+Sean Mcdermott,GK,R,33,IRL,5,false,false,false,reflexes,penalty-saving

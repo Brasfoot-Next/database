@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Amara Conde,MF,R,29,GER,7,true,false,false,stamina,passing
+Lukas Petkov,FW,R,25,BUL,4,false,false,false,pace,stamina
+Lasse Gunther,FB,L,23,GER,5,true,false,false,pace,stamina
+Ł. Poręba,MF,R,26,POL,6,true,false,false,passing,playmaking
+Frederik Schmahl,MF,R,23,GER,8,true,false,false,passing,stamina
+Jan Gyamerah,FB,R,31,GER,4,false,false,false,stamina,pace
+Luca Schnellbacher,FW,R,32,GER,5,false,false,false,stamina,finishing
+Felix Keidel,FB,L,23,GER,7,false,false,false,stamina,passing
+Carlo Sickinger,MF,L,29,GER,9,true,false,false,marking,stamina
+Maximilian Rohr,CB,L,31,GER,4,true,false,false,tackling,marking
+Tom Zimmerschied,FW,L,27,GER,2,false,false,false,stamina,dribbling
+Lukas Pinckert,CB,R,26,GER,5,true,false,false,pace,stamina
+Manuel Feil,FW,R,31,GER,6,false,false,false,stamina,dribbling
+Bambase Conte,MF,R,23,GER,7,false,false,false,pace,dribbling
+Jason Ceka,FW,L,26,GER,3,false,false,false,dribbling,stamina
+Luca Pfeiffer,FW,R,30,GER,5,false,false,false,heading,finishing
+Nicholas Mickelson,FB,R,27,GER,6,true,false,false,stamina,pace
+Younes Ebnoutalib,FW,R,22,GER,1,true,false,false,pace,dribbling
+Jarzinho Malanga,FW,L,20,GER,5,false,false,false,pace,dribbling
+Daniel Pantschenko,MF,R,23,GER,6,false,false,false,pace,passing
+Florian Le Joncour,CB,L,31,FRA,9,false,false,false,heading,pace
+Mohammad Mahmoud,FW,R,21,GER,4,false,false,false,finishing,heading
+Otto Stange,FW,R,19,GER,5,true,false,false,finishing,pace
+Luis Seifert,CB,R,22,GER,6,false,false,false,tackling,marking
+Tim Boss,GK,R,33,GER,1,false,false,false,penalty-saving,reflexes
+Frank Lehmann,GK,R,37,GER,5,false,false,false,penalty-saving,rushing-out
+Nicolas Kristof,GK,R,26,AUT,5,true,false,false,reflexes,penalty-saving

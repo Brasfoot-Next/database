@@ -1,0 +1,42 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Carlos Coronel,GK,R,29,PAR,7,true,false,false,rushing-out,positioning
+Rafael,GK,R,37,BRA,9,false,false,false,rushing-out,positioning
+Young,GK,R,24,BRA,5,false,false,false,rushing-out,positioning
+João Pedro,GK,R,20,BRA,6,false,false,false,rushing-out,positioning
+Felipe Preis,GK,R,20,BRA,7,false,false,false,positioning,reflexes
+Sabino,CB,R,29,BRA,9,true,false,false,heading,marking
+Matheus Belém,CB,R,23,BRA,5,true,false,false,heading,stamina
+Rafael Tolói,CB,R,35,ITA,6,false,false,false,heading,tackling
+Robert Arboleda,CB,R,34,ECU,7,false,false,false,tackling,marking
+Isac,CB,R,20,BRA,9,false,false,false,tackling,marking
+Luis Osorio,CB,R,19,BRA,6,false,false,false,passing,marking
+Enzo Díaz,FB,L,30,ARG,8,true,false,false,stamina,crossing
+Wendell,FB,L,32,BRA,5,true,false,false,dribbling,pace
+Nicolas,FB,L,19,BRA,6,false,false,false,pace,tackling
+Maik,FB,R,21,BRA,7,false,false,false,stamina,pace
+João Moreira,FB,R,22,BRA,8,false,false,false,tackling,marking
+Lucas Ramon,FB,R,32,BRA,6,false,false,false,stamina,pace
+Cédric Soares,FB,R,34,POR,6,false,false,false,pace,crossing
+Igor Felisberto,FB,L,19,BRA,7,false,false,false,dribbling,pace
+Pablo Maia,MF,L,24,BRA,4,true,false,false,pace,dribbling
+Felipe Negrucci,MF,L,22,BRA,6,false,false,false,marking,passing
+Luan,MF,L,27,BRA,7,false,false,false,passing,finishing
+Hugo Leonardo,MF,R,22,BRA,1,false,false,false,marking,passing
+Marcos Antônio,MF,R,26,BRA,6,true,false,false,playmaking,finishing
+Damián Bobadilla,MF,R,25,PAR,6,true,false,false,passing,finishing
+Danielzinho,MF,R,31,BRA,7,false,false,false,playmaking,finishing
+Djhordney,MF,R,19,BRA,2,false,false,false,tackling,marking
+Cauly,MF,R,30,BRA,6,true,false,false,finishing,passing
+Pedro Ferreira,MF,R,19,BRA,7,false,false,false,playmaking,dribbling
+Ferreirinha,FW,L,28,BRA,9,false,false,false,heading,pace
+Lucca,FW,R,19,BRA,6,false,false,false,playmaking,finishing
+Victor Sá,FW,R,32,BRA,7,false,false,false,pace,dribbling
+Tetê,FW,R,19,BRA,9,false,false,false,finishing,heading
+Artur,FW,L,30,BRA,5,true,false,false,stamina,tackling
+Lucas Moura,FW,L,33,BRA,6,false,false,false,dribbling,playmaking
+Ryan Francisco,FW,R,19,BRA,7,true,false,false,heading,finishing
+Gonzalo Tapia,FW,R,24,CHI,9,false,false,false,finishing,pace
+André Silva,FW,R,29,BRA,5,false,false,false,pace,crossing
+Jonathan Calleri,FW,L,32,ARG,7,false,false,false,heading,pace
+Luciano,FW,R,33,BRA,9,false,false,false,dribbling,finishing
+Paulinho,FW,R,21,BRA,6,false,false,false,crossing,pace

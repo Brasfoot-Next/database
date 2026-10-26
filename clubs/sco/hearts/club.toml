@@ -1,0 +1,13 @@
+name = "Hearts"
+country = "SCO"
+level = 13
+reputation = 3
+colors = ["#800000", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Stephen Kabore"
+country = "BRA"

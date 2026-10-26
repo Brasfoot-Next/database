@@ -1,0 +1,13 @@
+name = "Differdange 03"
+country = "LUX"
+level = 13
+reputation = 1
+colors = ["#ff3333", "#000000"]
+
+[stadium]
+name = "Ville Differdange"
+capacity = 3000
+
+[coach]
+name = "Pedro Resende"
+country = "POR"

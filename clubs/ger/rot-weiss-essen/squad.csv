@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ahmet Arslan,MF,R,32,GER,5,true,false,false,stamina,finishing
+Lucas Brumme,FW,L,26,GER,6,true,false,false,stamina,pace
+Tom Moustier,MF,R,24,FRA,8,true,false,false,stamina,dribbling
+Torben Musel,MF,R,27,GER,4,true,false,false,stamina,pace
+Kaito Mizuta,MF,R,26,JPN,5,true,false,false,stamina,dribbling
+Jannik Mause,FW,R,28,GER,6,true,false,false,stamina,finishing
+Klaus Gjasula,MF,L,36,ALB,9,false,false,false,stamina,marking
+Luca Bazzoli,MF,R,25,GER,4,false,false,false,marking,stamina
+Marvin Obuz,FW,R,24,GER,5,false,false,false,dribbling,stamina
+Ramien Safi,MF,L,26,NED,7,false,false,false,stamina,pace
+Nils Kaiser,FB,R,24,GER,7,true,false,false,stamina,pace
+Jose Enrique Rios Alonso,CB,R,26,GER,3,true,false,false,stamina,pace
+Michael Kostka,FB,R,22,GER,5,false,false,false,pace,passing
+Jannik Hofmann,FB,R,24,GER,6,true,false,false,pace,stamina
+Tobias Kraulich,CB,L,27,GER,6,true,false,false,heading,tackling
+Marek Janssen,FW,R,29,GER,7,false,false,false,pace,heading
+Kelsey Owusu,FW,L,22,GER,4,false,false,false,pace,dribbling
+Jaka Cuber Potocnik,FW,R,21,SVN,5,false,false,false,finishing,dribbling
+Franci Bouebari,FB,L,22,FRA,6,false,false,false,tackling,marking
+Gianluca Swajkowski,CB,R,21,GER,8,false,false,false,pace,tackling
+Michael Schultz,CB,R,33,GER,6,false,false,false,stamina,heading
+Nicolai Schulte Kellinghaus,CB,L,19,GER,1,false,false,false,pace,stamina
+Jakob Golz,GK,R,28,GER,5,true,false,false,reflexes,penalty-saving
+Felix Wienand,GK,R,24,GER,6,false,false,false,reflexes,penalty-saving
+Malte Bruning,GK,R,22,GER,7,false,false,false,positioning,rushing-out

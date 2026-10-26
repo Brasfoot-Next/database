@@ -1,0 +1,13 @@
+name = "Verdes"
+country = "BLZ"
+level = 12
+reputation = 2
+colors = ["#145c14", "#ffffff"]
+
+[stadium]
+name = "Norman Broaster"
+capacity = 2000
+
+[coach]
+name = "David Pérez"
+country = "ESP"

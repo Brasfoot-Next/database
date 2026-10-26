@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Allahyar Sayyadmanesh,FW,L,25,BEL,8,true,false,false,pace,stamina
+Dogucan Haspolat,MF,R,26,TUR,4,true,false,false,stamina,passing
+Serhiy Sydorchuk,MF,L,35,UKR,5,false,false,false,stamina,passing
+Mathias Fixelles,MF,R,30,BEL,7,false,false,false,passing,playmaking
+Bryan Reynolds,FB,R,25,USA,9,true,false,false,stamina,dribbling
+Roman Neustadter,CB,L,38,RUS,4,false,false,false,stamina,tackling
+Thomas Van Den Keybus,FW,R,25,BEL,6,false,false,false,stamina,passing
+Emin Bayram,CB,R,23,TUR,7,true,false,false,stamina,tackling
+Antoñito Cordero,FW,L,19,ESP,1,false,false,false,pace,dribbling
+Tuur Rommens,FB,L,23,BEL,5,true,false,false,crossing,passing
+Kyan Vaesen,FW,R,25,BEL,6,false,false,false,pace,heading
+Reda Laalaoui,MF,R,21,MAR,8,true,false,false,passing,playmaking
+Jan Bernat,MF,R,25,SVK,4,false,false,false,passing,playmaking
+Griffin Yow,FW,R,23,USA,6,false,false,false,crossing,finishing
+Adedire Mebude,FW,R,22,SCO,7,false,false,false,pace,dribbling
+Nacho Ferri,FW,R,21,ESP,4,true,false,false,finishing,pace
+Arthur Piedfort,MF,R,21,BEL,5,true,false,false,stamina,tackling
+Josimar Alcocer,FW,L,22,BEL,6,false,false,false,dribbling,pace
+Amando Lapage,CB,R,21,BEL,8,false,false,false,heading,stamina
+Eliot Bujupi,FW,L,20,BEL,4,false,false,false,stamina,pace
+Raf Smekens,MF,L,22,BEL,6,false,false,false,stamina,pace
+Fernand Goure,FW,R,24,CIV,7,false,false,false,pace,heading
+Bakary Haidara,CB,R,21,CIV,4,false,false,false,tackling,pace
+Isa Sakamoto,MF,R,23,JPN,5,true,false,false,pace,finishing
+Seiji Kimura,CB,R,25,JPN,7,true,false,false,pace,heading
+Julian Placias,FW,R,20,USA,3,false,false,false,stamina,heading
+Sinan Bolat,GK,R,38,TUR,5,false,false,false,rushing-out,positioning
+Koen Van Langendonck,GK,R,37,BEL,6,false,false,false,positioning,penalty-saving
+Andreas Jungdal,GK,R,24,DEN,7,true,false,false,reflexes,penalty-saving
+Oskar Annell,GK,R,21,BEL,3,false,false,false,rushing-out,positioning

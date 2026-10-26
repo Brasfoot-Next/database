@@ -1,0 +1,13 @@
+name = "Tishreen SC"
+country = "SYR"
+level = 14
+reputation = 2
+colors = ["#ffff99", "#990000"]
+
+[stadium]
+name = "Al-Assad"
+capacity = 28000
+
+[coach]
+name = "Al-Salama"
+country = "SYR"

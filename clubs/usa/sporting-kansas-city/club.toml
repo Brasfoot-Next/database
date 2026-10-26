@@ -1,0 +1,13 @@
+name = "Sporting Kansas City"
+country = "USA"
+level = 13
+reputation = 3
+colors = ["#002060", "#FFFFFF"]
+
+[stadium]
+name = "Sporting Park"
+capacity = 21000
+
+[coach]
+name = "Nemanja Davis"
+country = "BRA"

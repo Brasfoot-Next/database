@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Raphael Obermair,FW,L,30,GER,4,true,false,false,stamina,pace
+David Kinsombi,MF,R,30,GER,5,false,false,false,playmaking,stamina
+Felix Gotze,CB,R,28,GER,6,true,false,false,marking,stamina
+Sven Michel,FW,L,36,GER,7,false,false,false,dribbling,finishing
+Nick Batzner,MF,L,26,GER,4,true,false,false,passing,playmaking
+Marcel Hoffmeier,CB,R,27,GER,5,true,false,false,stamina,pace
+Calvin Brackelmann,CB,L,27,GER,6,true,false,false,pace,tackling
+Laurin Curda,FW,R,24,GER,8,false,false,false,pace,stamina
+Santiago Castaneda,MF,R,21,USA,4,false,false,false,stamina,marking
+Sebastian Klaas,MF,R,28,GER,5,true,false,false,stamina,playmaking
+Filip Bilbija,MF,R,26,GER,6,false,false,false,stamina,dribbling
+Steffen Tigges,FW,L,28,GER,7,true,false,false,heading,stamina
+Mattes Hansen,MF,R,22,GER,3,false,false,false,passing,tackling
+Luis Engelns,MF,L,19,GER,5,true,false,false,stamina,passing
+Mika Baur,MF,R,22,GER,6,false,false,false,passing,dribbling
+Jonah Sticker,FB,L,22,GER,7,true,false,false,pace,dribbling
+Ruben Muller,FW,R,21,GER,9,false,false,false,pace,dribbling
+Lucas Copado,FW,R,22,GER,4,false,false,false,pace,dribbling
+Anton Bauerle,FW,L,21,GER,5,false,false,false,dribbling,passing
+Bennit Broger,MF,R,20,GER,6,true,false,false,dribbling,passing
+Marco Worner,MF,R,21,GER,6,false,false,false,pace,dribbling
+Tjark Scheller,CB,R,24,GER,7,false,false,false,tackling,marking
+Joel Vega Zambrano,FW,L,21,GER,1,false,false,false,pace,dribbling
+Stefano Marino,FW,R,22,GER,5,false,false,false,stamina,pace
+Kerem Yalcin,CB,R,21,GER,6,false,false,false,stamina,tackling
+Kevin Krumme,CB,R,22,GER,7,false,false,false,heading,tackling
+Dennis Seimen,GK,L,20,GER,2,true,false,false,reflexes,penalty-saving
+Markus Schubert,GK,R,28,GER,4,false,false,false,reflexes,penalty-saving
+Florian Pruhs,GK,R,20,GER,5,false,false,false,rushing-out,penalty-saving

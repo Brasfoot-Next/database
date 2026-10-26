@@ -1,0 +1,13 @@
+name = "Al-Wahda Damasco"
+country = "SYR"
+level = 14
+reputation = 3
+colors = ["#ff6600", "#000000"]
+
+[stadium]
+name = "Abbasiyyin"
+capacity = 30000
+
+[coach]
+name = "Ziad Shabbo"
+country = "SYR"

@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mohamed Shika,GK,R,33,EGY,5,false,false,false,penalty-saving,reflexes
+Mahmoud Genesh,GK,R,30,EGY,6,true,false,false,reflexes,positioning
+El Sayed El Sawy,GK,R,35,EGY,9,false,false,false,rushing-out,reflexes
+Ahmed Awad,CB,L,30,EGY,4,true,false,false,passing,marking
+Islam Gaber,CB,R,30,EGY,5,false,false,false,tackling,marking
+Ahmed Fayez,CB,R,29,EGY,7,true,false,false,tackling,marking
+Gaber Kamel,FB,R,29,EGY,1,false,false,false,dribbling,pace
+Islam Ashraf,FB,L,27,EGY,4,true,false,false,crossing,pace
+Mohamed Alaa,FB,L,26,EGY,5,true,false,false,marking,pace
+Emad Hamdi,MF,L,33,EGY,7,false,false,false,passing,finishing
+Ramez Milad,MF,R,28,EGY,7,true,false,false,playmaking,dribbling
+Ziad Reyad,MF,R,23,EGY,3,false,false,false,passing,playmaking
+Ocha,MF,R,28,EGY,5,true,false,false,pace,dribbling
+Omar Ibrahim,MF,R,28,EGY,6,true,false,false,playmaking,passing
+Youssef Hamdi,MF,R,26,EGY,7,true,false,false,passing,finishing
+Ahmed Khaled,FW,R,27,EGY,3,true,false,false,dribbling,pace
+Ahmed Essam,FW,R,22,EGY,5,false,false,false,dribbling,pace
+Mohamed Magdy,FW,R,29,EGY,6,true,false,false,crossing,pace
+Mostafa Shehata,FW,R,25,EGY,7,false,false,false,pace,crossing
+Hesham Ramadan,FW,R,30,EGY,4,false,false,false,pace,dribbling
+Khaled Rabiaa,FW,R,21,EGY,6,false,false,false,heading,stamina
+Mohamed Camara,FW,L,19,GUI,6,false,false,false,dribbling,pace

@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Arsha Shakouri,GK,R,19,QAT,7,false,false,false,rushing-out,positioning
+Amir Hassan,GK,L,22,QAT,2,false,false,false,reflexes,positioning
+Mohamed Al-Ashwal,GK,R,25,QAT,5,true,false,false,penalty-saving,reflexes
+Franco Russo,CB,R,31,ARG,6,true,false,false,tackling,pace
+Yassin Yagoub,CB,L,30,QAT,7,false,false,false,heading,passing
+Yaghob Eissa Madani,CB,R,28,QAT,3,true,false,false,marking,heading
+Amin Pilali,FB,R,23,QAT,5,false,false,false,marking,crossing
+Ali Karami,FB,R,27,QAT,6,true,false,false,marking,pace
+Husam Kamal,FB,L,30,QAT,7,true,false,false,dribbling,pace
+Omid Ebrahimi,MF,R,38,QAT,3,false,false,false,passing,playmaking
+Khalid Mohammed,MF,R,26,QAT,3,true,false,false,dribbling,playmaking
+Ziyad Fadi,MF,R,21,QAT,6,false,false,false,passing,stamina
+Tiago Geralnik,MF,R,23,ARG,7,true,false,false,stamina,passing
+Saud Jjbril,MF,R,31,QAT,2,true,false,false,marking,passing
+Abdullah Makki Al-Karatly,MF,R,25,QAT,5,true,false,false,marking,passing
+Hamidreza Firouzi,FW,R,20,QAT,6,false,false,false,heading,pace
+Abdulrahman Rashid Al-Madhaki,FW,R,28,QAT,7,true,false,false,dribbling,playmaking
+Farhad Zavoshi,FW,R,23,QAT,2,false,false,false,finishing,pace
+Khaled Mansour,FW,R,26,QAT,5,true,false,false,finishing,heading
+Sattar Rajaeinejad,FW,R,21,QAT,6,false,false,false,heading,stamina
+Rodrigo,FW,L,35,ESP,1,false,false,false,heading,stamina
+Rayane Wail Attia,FW,R,26,ALG,5,false,false,false,pace,crossing
+Kaleb Michael Tekie,FW,L,20,QAT,6,false,false,false,crossing,pace

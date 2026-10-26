@@ -1,0 +1,13 @@
+name = "Johor Darul"
+country = "MAS"
+level = 14
+reputation = 3
+colors = ["#0033cc", "#ffffff"]
+
+[stadium]
+name = "Ibrahim Larkin"
+capacity = 40000
+
+[coach]
+name = "Luciano Figueroa"
+country = "ARG"

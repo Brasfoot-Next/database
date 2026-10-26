@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Alejandro Torres,GK,R,28,BOL,6,true,false,false,reflexes,rushing-out
+Sebastián Álvarez,CB,L,24,BOL,7,true,false,false,heading,stamina
+Andrés Ariza,CB,R,28,COL,3,true,false,false,heading,passing
+Danco,CB,R,33,BOL,5,false,false,false,tackling,marking
+Dieguito Rodriguez,FB,R,22,BOL,6,false,false,false,crossing,passing
+Manuel Bonilla,FB,L,21,BOL,7,false,false,false,passing,crossing
+Dico Roca,FB,L,29,BOL,3,true,false,false,pace,stamina
+Enrique Taborga,FB,R,24,BOL,4,true,false,false,stamina,pace
+Marco Velasco,FB,R,18,BOL,5,false,false,false,tackling,pace
+Roberto Diez,FB,R,22,BOL,6,false,false,false,crossing,passing
+Jorge Lovera,MF,R,29,BOL,3,true,false,false,tackling,passing
+Luis Sabja,MF,R,18,BOL,5,false,false,false,tackling,stamina
+Julio Herrera,MF,R,27,BOL,6,true,false,false,stamina,pace
+Jamir Berdecio,MF,R,23,BOL,7,true,false,false,passing,stamina
+Mirko Tomianovic,MF,R,24,BOL,4,true,false,false,playmaking,passing
+Celin Padilla,MF,R,22,BOL,5,false,false,false,tackling,passing
+Gary Rea,FW,R,23,BOL,6,false,false,false,pace,dribbling
+José Flores,FW,R,22,BOL,8,true,false,false,finishing,stamina
+Nabil Nacif,FW,R,30,BOL,4,true,false,false,pace,finishing
+Adrián Peña,FW,R,22,BOL,5,false,false,false,crossing,pace

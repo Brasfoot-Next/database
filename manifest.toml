@@ -1,0 +1,6 @@
+format = 1
+id = "brasfoot-next/database"
+kind = "base"
+name = "Brasfoot Next"
+description = "Banco oficial: times, elencos, ligas, estaduais e imagens"
+version = "2026.10"

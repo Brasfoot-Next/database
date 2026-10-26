@@ -1,0 +1,13 @@
+name = "Tauro"
+country = "PAN"
+level = 15
+reputation = 3
+colors = ["#000000", "#ffffff"]
+
+[stadium]
+name = "Rod Carew"
+capacity = 27000
+
+[coach]
+name = "Rolando Palma"
+country = "PAN"

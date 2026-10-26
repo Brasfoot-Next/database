@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+José Echave,GK,R,21,CHI,9,false,false,false,reflexes,positioning
+Luis Mejía,GK,L,31,PAN,10,true,false,false,positioning,rushing-out
+Miguel Pinto,GK,R,39,CHI,9,false,false,false,penalty-saving,reflexes
+Mario Larenas,FB,L,28,CHI,9,true,false,false,crossing,pace
+Alberto Pavez,FB,L,26,CHI,6,false,false,false,marking,pace
+Augusto Barrios,FB,R,31,CHI,6,false,false,false,crossing,marking
+Stefano Magnasco,FB,R,29,CHI,7,true,false,false,marking,pace
+Thomas Galdames,CB,R,23,CHI,10,false,false,false,heading,stamina
+Jonathan Villagra,CB,R,21,CHI,7,true,false,false,heading,stamina
+Manuel Fernández,CB,L,33,URU,7,true,false,false,marking,pace
+Víctor Méndez,MF,L,22,CHI,1,true,false,false,tackling,marking
+Bryan Rabello,MF,R,28,CHI,1,true,false,false,finishing,passing
+Ignacio Jara,MF,L,25,CHI,6,true,false,false,finishing,passing
+Jeremy Silva,MF,R,21,CHI,8,false,false,false,playmaking,finishing
+Gonzalo Espinoza,MF,R,32,CHI,2,true,false,false,tackling,marking
+Diego Acevedo,MF,R,21,CHI,6,false,false,false,marking,finishing
+Claudio Espinoza,MF,R,20,CHI,7,false,false,false,finishing,passing
+Luis Antonio Pavez,MF,L,34,CHI,7,false,false,false,tackling,pace
+Bastián Yáñez,FW,L,21,CHI,6,true,false,false,finishing,dribbling
+Leandro Garate,FW,R,28,ARG,2,true,false,false,heading,pace
+Ignacio Ibáñez,FW,R,25,CHI,3,false,false,false,finishing,dribbling
+Norambuena,FW,L,23,CHI,7,false,false,false,pace,stamina

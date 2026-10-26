@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Balbouli,GK,R,37,TUN,8,true,false,false,reflexes,positioning
+Rami Gabsi,GK,L,22,TUN,10,false,false,false,penalty-saving,reflexes
+Ghofrane Naouali,FB,R,23,TUN,9,true,false,false,crossing,pace
+Amine Helal,FB,L,20,TUN,1,true,false,false,finishing,pace
+Baligh Jemmali,FB,L,21,TUN,2,false,false,false,marking,finishing
+Houssem Souissi,FB,R,23,TUN,3,false,false,false,marking,passing
+Ben Aziza,CB,R,31,TUN,9,true,false,false,tackling,stamina
+Sellami,CB,L,25,TUN,3,true,false,false,tackling,stamina
+Ramez Aouani,CB,L,23,TUN,8,false,false,false,marking,pace
+Abdelrazek Bouazra,CB,R,24,TUN,5,false,false,false,heading,stamina
+Iheb Msakni,MF,L,34,TUN,0,true,false,false,playmaking,passing
+Malek Baayou,MF,R,23,TUN,8,true,false,false,tackling,finishing
+Yassine Chikhaoui,MF,R,35,TUN,9,true,false,false,playmaking,finishing
+Amor,MF,L,30,TUN,8,true,false,false,tackling,finishing
+Fraj Kayramani,MF,L,23,TUN,7,false,false,false,passing,finishing
+Ayoub Ayed,MF,R,22,TUN,2,false,false,false,marking,passing
+Yassine Amri,MF,L,26,TUN,6,false,false,false,finishing,passing
+Sik Salem,MF,L,21,TUN,6,false,false,false,tackling,finishing
+Aziz Chtioui,FW,L,24,TUN,7,true,false,false,pace,finishing
+Ben Hassine,FW,R,22,TUN,2,true,false,false,heading,pace
+Nabil Makni,FW,L,20,TUN,6,false,false,false,finishing,pace
+Zinedine Boutmène,FW,R,21,ALG,10,false,false,false,crossing,pace

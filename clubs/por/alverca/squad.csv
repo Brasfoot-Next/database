@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lincoln,MF,L,27,BRA,5,true,false,false,crossing,dribbling
+Chissumba,FB,L,21,POR,6,true,false,false,pace,stamina
+Chiquinho,FW,L,26,POR,7,true,false,false,pace,dribbling
+Sergi Gómez,CB,R,34,ESP,4,false,false,false,heading,tackling
+Stephane Diarra,FW,L,27,CIV,5,false,false,false,pace,dribbling
+Gonçalo Esteves,FB,R,22,POR,6,false,false,false,pace,dribbling
+Nabil Touaizi,FB,R,25,MAR,8,true,false,false,pace,dribbling
+Gian Franco Cabezas,MF,R,23,COL,4,false,false,false,pace,stamina
+Figueiredo,FW,L,25,BRA,5,true,false,false,dribbling,finishing
+Diogo Martins,MF,R,30,POR,6,false,false,false,dribbling,passing
+Sabit Abdulai,MF,R,27,GHA,3,true,false,false,passing,tackling
+Davy Gui,MF,R,20,CIV,5,true,false,false,stamina,passing
+Sandro Lima,FW,R,35,BRA,6,false,false,false,heading,finishing
+Alex Amorim,MF,R,21,BRA,2,false,false,false,dribbling,passing
+Léo Chú,FW,L,26,BRA,5,false,false,false,pace,dribbling
+Isaac James,FB,L,22,NGA,6,false,false,false,pace,crossing
+Marko Milovanovic,FW,R,23,SRB,7,false,false,false,dribbling,finishing
+Cedric Nuozzi,FW,R,20,BEL,2,false,false,false,pace,dribbling
+Tomás Mendes,MF,L,21,ESP,5,true,false,false,playmaking,pace
+Abderrahmane Soumare,MF,R,19,POR,6,false,false,false,tackling,passing
+Julian Martinez,CB,L,22,POR,1,false,false,false,tackling,marking
+Kauan Gomes,FB,R,21,BRA,5,false,false,false,pace,stamina
+Tiago Leite,FW,R,26,POR,6,false,false,false,heading,finishing
+Felipe Lima,FW,R,20,BRA,7,false,false,false,pace,finishing
+Naves,CB,R,24,BRA,4,false,false,false,tackling,marking
+Ikker Julian,FB,L,21,BEL,5,false,false,false,pace,stamina
+Bastien Meupiyou,CB,L,20,FRA,6,true,false,false,tackling,marking
+Mouhamed Ndiaye,CB,R,21,SEN,8,false,false,false,tackling,pace
+Steven Baseya,CB,R,21,FRA,4,false,false,false,tackling,heading
+Talisca,CB,L,23,BRA,6,true,false,false,tackling,pace
+André Gomes,GK,L,21,POR,7,true,false,false,reflexes,penalty-saving
+André Paulo,GK,R,29,POR,4,false,false,false,reflexes,positioning
+Matheus Mendes,GK,R,27,BRA,5,false,false,false,reflexes,penalty-saving
+Mateus,GK,R,24,BRA,6,false,false,false,positioning,rushing-out

@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Shehab Ellethy,GK,R,26,QAT,5,true,false,false,rushing-out,positioning
+Ebrahim Mordou,GK,R,29,QAT,6,false,false,false,rushing-out,reflexes
+Majed Khalaf,GK,R,31,QAT,7,false,false,false,rushing-out,positioning
+Sven van Beek,CB,L,31,NED,5,true,false,false,marking,heading
+Hassan Mohammed Al-Ghareeb,CB,L,22,QAT,6,false,false,false,heading,tackling
+Ebrahim Abdo,CB,L,23,QAT,7,true,false,false,marking,passing
+Khalid Muftah,FB,R,34,QAT,2,false,false,false,pace,crossing
+Bandar Badr Naser Badr,FB,R,25,IRQ,5,true,false,false,pace,tackling
+Yousuf Al-Raeesi,FB,R,29,QAT,6,true,false,false,stamina,pace
+Álvaro Sanz,MF,R,25,ESP,7,true,false,false,passing,stamina
+Issa Ghaderi,MF,R,28,QAT,6,true,false,false,dribbling,playmaking
+Mohammad Sayyar,MF,R,35,QAT,7,false,false,false,finishing,playmaking
+Omar Al-Emadi,MF,R,31,QAT,2,true,false,false,dribbling,passing
+Amenallah Meherzi,MF,R,20,TUN,5,false,false,false,dribbling,pace
+Abdalla Khaled Al-Yazidi,MF,R,36,QAT,6,false,false,false,stamina,tackling
+Jawad El Jemili,MF,L,23,ESP,7,true,false,false,tackling,passing
+Abdoulaye Traoré,FW,R,23,QAT,2,false,false,false,pace,crossing
+Mohamed Surag,FW,R,23,QAT,5,true,false,false,dribbling,finishing
+Abdulrahman Mussed,FW,R,30,QAT,6,false,false,false,dribbling,pace
+Ibrahim Nasser Kala,FW,R,29,QAT,7,false,false,false,playmaking,finishing
+Mohammed Hany Al-Raeesi,FW,R,22,QAT,5,false,false,false,heading,finishing
+Pelle van Amersfoort,FW,R,30,NED,6,false,false,false,finishing,stamina
+Mohammed Balah,FW,R,32,QAT,8,false,false,false,dribbling,playmaking
+Mohammad Abu Shanab,FW,R,28,QAT,4,true,false,false,finishing,stamina

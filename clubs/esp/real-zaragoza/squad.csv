@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Francho Serrano,MF,L,24,ESP,5,false,false,false,stamina,tackling
+Dani Tasende,FB,L,26,ESP,7,true,false,false,pace,playmaking
+Raúl Guti,MF,R,29,ESP,4,true,false,false,stamina,playmaking
+Valery,FW,L,26,ESP,5,false,false,false,pace,stamina
+Keidi Bare,MF,R,29,ALB,6,true,false,false,stamina,tackling
+Soberón,FW,L,29,ESP,7,false,false,false,heading,finishing
+Dani Gómez,FW,R,28,ESP,4,false,false,false,pace,stamina
+Paulino,FW,L,29,ESP,5,false,false,false,pace,dribbling
+Paul Akouokou,MF,R,28,CIV,6,true,false,false,tackling,passing
+Yussif Saidu,MF,R,21,GHA,7,false,false,false,stamina,pace
+Samed Bazdar,FW,R,22,BIH,6,true,false,false,playmaking,dribbling
+Toni Moya,MF,R,28,ESP,7,true,false,false,crossing,dribbling
+Sebas Moyano,FW,L,29,ESP,3,false,false,false,dribbling,pace
+Pau Sans,FW,R,21,ESP,5,true,false,false,pace,dribbling
+Pomares,FB,L,33,ESP,6,false,false,false,pace,tackling
+Cuenca,FW,L,23,ESP,7,false,false,false,dribbling,heading
+Aguirregabiria,FB,R,30,ESP,4,true,false,false,stamina,crossing
+Kodro,FW,R,33,BIH,5,false,false,false,finishing,heading
+Juan Sebastián,FB,R,24,ESP,6,false,false,false,playmaking,crossing
+Lucas Terrer,MF,R,21,ESP,8,false,false,false,playmaking,tackling
+Tachi,CB,L,28,ESP,1,true,false,false,heading,passing
+Hugo Pinilla,FW,R,20,ESP,3,false,false,false,pace,dribbling
+Insua,CB,R,32,ESP,5,true,false,false,tackling,heading
+Luis Carbonell,FW,R,23,ESP,6,false,false,false,dribbling,playmaking
+Sinan Bakis,FW,R,32,TUR,7,false,false,false,heading,finishing
+Sebastian Kosa,CB,R,22,SVK,3,false,false,false,heading,stamina
+Barrachina,CB,L,20,ESP,5,false,false,false,heading,passing
+Aleksandar Radovanovic,CB,L,32,SRB,6,false,false,false,tackling,heading
+Jaime Sánchez-Rubio,FB,R,20,ESP,7,false,false,false,pace,stamina
+Esteban Andrada,GK,R,35,ARG,4,false,false,false,positioning,reflexes
+Adrián,GK,R,25,ARG,7,true,false,false,penalty-saving,positioning
+Calavia,GK,R,23,ESP,4,false,false,false,reflexes,penalty-saving
+Manu Obón,GK,R,24,ESP,5,false,false,false,reflexes,penalty-saving

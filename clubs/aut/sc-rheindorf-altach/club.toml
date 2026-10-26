@@ -1,0 +1,13 @@
+name = "SC Rheindorf Altach"
+country = "AUT"
+level = 10
+reputation = 2
+colors = ["#000000", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Marlon Ouedraogo"
+country = "BRA"

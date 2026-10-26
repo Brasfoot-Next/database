@@ -1,0 +1,13 @@
+name = "Seattle Sounders FC"
+country = "USA"
+level = 14
+reputation = 3
+colors = ["#00C040", "#0030A0"]
+
+[stadium]
+name = "Lumen Field"
+capacity = 68740
+
+[coach]
+name = "Georgi Ragen"
+country = "BRA"

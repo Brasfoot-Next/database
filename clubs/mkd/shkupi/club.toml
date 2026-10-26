@@ -1,0 +1,13 @@
+name = "Shkupi"
+country = "MKD"
+level = 13
+reputation = 2
+colors = ["#3366ff", "#ffffff"]
+
+[stadium]
+name = "Cair Stadion"
+capacity = 4000
+
+[coach]
+name = "Goce Sedloski"
+country = "MKD"

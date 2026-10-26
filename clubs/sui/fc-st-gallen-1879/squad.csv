@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lukas Gortler,MF,R,32,GER,7,false,false,false,stamina,playmaking
+Jordi Quintillà,MF,L,32,ESP,4,false,false,false,stamina,playmaking
+Christian Witzig,MF,R,25,SUI,5,true,false,false,stamina,playmaking
+Lukas Daschner,FW,R,27,GER,6,false,false,false,dribbling,passing
+Albert Vallci,CB,L,31,AUT,8,false,false,false,heading,stamina
+Carlo Boukhalfa,MF,L,27,GER,4,true,false,false,dribbling,stamina
+Mihailo Stevanovic,MF,R,24,SRB,5,false,false,false,passing,stamina
+Chima Okoroji,FB,L,29,ENG,6,true,false,false,pace,stamina
+Hugo Vandermersch,FB,R,27,FRA,9,true,false,false,stamina,tackling
+Shkelqim Vladi,FW,R,25,SUI,3,false,false,false,pace,finishing
+Aliou Balde,FW,R,23,GUI,6,true,false,false,pace,dribbling
+Corsin Konietzke,MF,R,20,SUI,7,true,false,false,stamina,passing
+Betim Fazliji,MF,R,27,SUI,2,false,false,false,passing,pace
+Jozo Stanic,CB,R,27,CRO,5,true,false,false,stamina,tackling
+Tom Gaal,CB,R,25,GER,6,false,false,false,stamina,heading
+Malamine Efekele,FW,R,22,FRA,7,false,false,false,pace,dribbling
+Stephan Ambrosius,CB,R,27,GHA,3,false,false,false,tackling,marking
+Behar Neziri,MF,R,23,SUI,5,true,false,false,pace,passing
+Alessandro Vogt,FW,L,21,SUI,5,true,false,false,pace,finishing
+Enoch Owusu,FW,R,21,ITA,6,false,false,false,pace,dribbling
+Cyrill May,CB,R,19,SUI,2,true,false,false,pace,tackling
+Lawrence Ati Zigi,GK,R,29,GHA,5,true,false,false,reflexes,positioning
+Lukas Watkowiak,GK,R,30,GER,6,false,false,false,positioning,reflexes
+Janis Widmer,GK,R,19,SUI,7,false,false,false,rushing-out,reflexes

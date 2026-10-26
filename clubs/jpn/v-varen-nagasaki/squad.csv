@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Masaaki Goto,GK,R,32,JPN,6,true,false,false,rushing-out,reflexes
+Go Hatano,GK,L,28,JPN,7,false,false,false,rushing-out,reflexes
+Luka Radotic,GK,L,26,SRB,1,false,false,false,rushing-out,positioning
+Kaito Ioka,GK,R,28,JPN,5,false,false,false,reflexes,positioning
+Takuma Ominami,CB,L,28,JPN,5,true,false,false,pace,stamina
+Kanta Doi,CB,R,21,JPN,6,true,false,false,tackling,stamina
+Ryosuke Shindo,CB,R,30,JPN,7,false,false,false,heading,stamina
+Eduardo,CB,R,33,BRA,3,false,false,false,marking,heading
+Yusei Egawa,CB,L,25,JPN,5,false,false,false,marking,stamina
+Ikki Arai,CB,L,32,JPN,6,false,false,false,heading,passing
+Hijiri Onaga,FB,R,31,JPN,6,true,false,false,passing,crossing
+Shunya Yoneda,FB,L,30,JPN,7,true,false,false,pace,crossing
+Keita Takahata,FB,R,25,JPN,3,false,false,false,crossing,passing
+Hyeung-jun Noh,FB,R,18,JPN,5,false,false,false,pace,crossing
+Masahiro Sekiguchi,FB,L,28,JPN,6,false,false,false,tackling,stamina
+Kenshin Yasuda,MF,L,21,JPN,7,false,false,false,dribbling,playmaking
+Riku Yamada,MF,R,28,JPN,3,false,false,false,finishing,playmaking
+Hotaru Yamaguchi,MF,L,35,JPN,5,false,false,false,finishing,playmaking
+Ren Nishimura,MF,R,21,JPN,6,false,false,false,playmaking,dribbling
+Harumu Nabeshima,MF,R,22,JPN,7,false,false,false,dribbling,pace
+Diego Pituca,MF,R,33,BRA,5,true,false,false,playmaking,passing
+Temmu Matsumoto,MF,L,23,JPN,6,true,false,false,dribbling,pace
+Takashi Sawada,MF,L,35,JPN,1,false,false,false,pace,crossing
+Matheus Jesus,MF,L,29,BRA,5,true,false,false,finishing,passing
+Motoki Hasegawa,MF,R,27,JPN,6,true,false,false,finishing,passing
+Takumi Nagura,MF,L,28,JPN,7,false,false,false,passing,playmaking
+Keita Nakamura,MF,R,33,JPN,2,false,false,false,passing,playmaking
+Yuto Iwasaki,FW,R,28,JPN,5,false,false,false,finishing,pace
+Emerson,FW,R,26,BRA,6,false,false,false,finishing,dribbling
+Norman Campbell,FW,R,26,JAM,7,true,false,false,pace,dribbling
+Thiago Santana,FW,R,33,BRA,5,true,false,false,finishing,stamina
+Ryogo Yamasaki,FW,R,33,JPN,6,false,false,false,finishing,dribbling
+Ryota Saito,FW,R,24,JPN,7,false,false,false,pace,finishing
+Reijin Ko,FW,L,22,JPN,4,false,false,false,heading,stamina

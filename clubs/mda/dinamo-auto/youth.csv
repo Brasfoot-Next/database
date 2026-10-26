@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Arian Mocanu,GK,R,19,MDA,5,false,false,false,positioning,reflexes
+Tudor Russo,GK,L,17,MDA,4,false,false,false,rushing-out,penalty-saving
+Marcel Tataru,FB,R,19,MDA,8,false,false,false,passing,crossing
+Tudor Postica,FB,L,16,MDA,8,false,false,false,crossing,tackling
+Denis Dolgan,FB,R,17,MDA,2,false,false,false,pace,crossing
+Erhan Grosu,CB,L,17,MDA,10,false,false,false,marking,stamina
+Karim Cara,CB,R,19,MDA,7,false,false,false,tackling,heading
+Iaroslav Caraman,CB,L,18,MDA,4,false,false,false,stamina,tackling
+Constantin Rotari,MF,R,16,MDA,7,false,false,false,playmaking,passing
+Vsevolod Nihaev,MF,L,19,MDA,4,true,false,false,passing,dribbling
+Nichita Ciumacenko,MF,R,19,MDA,8,true,false,false,marking,passing
+Vladislav Rusnac,MF,L,18,MDA,3,false,false,false,tackling,marking
+Ibrahim Voronin,FW,R,17,MDA,6,false,false,false,pace,finishing
+Alexandr Mardari,FW,L,16,MDA,5,false,false,false,finishing,dribbling
+Bors Florea,FW,R,19,MDA,5,false,false,false,heading,finishing

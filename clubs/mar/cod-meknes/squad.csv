@@ -1,0 +1,20 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Aymane Majid,GK,L,31,MAR,6,true,false,false,reflexes,positioning
+Soufiane Taher,GK,R,22,MAR,7,false,false,false,rushing-out,positioning
+Karim El Bounagate,CB,R,25,MAR,4,true,false,false,stamina,heading
+Anass Nouader,CB,L,28,MAR,5,true,false,false,tackling,stamina
+Ayoub Lakhlifi,CB,R,25,MAR,6,false,false,false,heading,stamina
+Chemseddine Knaidil,FB,L,23,MAR,8,true,false,false,crossing,pace
+Ayoub Lourhraz,FB,L,25,MAR,4,true,false,false,crossing,passing
+Larbi Naji,MF,R,35,MAR,5,false,false,false,playmaking,finishing
+Achraf Hmaidou,MF,R,26,MAR,6,true,false,false,tackling,marking
+Ismael Benktib,MF,R,28,MAR,7,true,false,false,finishing,playmaking
+Adnane Berdad,MF,R,32,MAR,5,true,false,false,tackling,marking
+Marius Mbou,MF,L,22,CGO,6,true,false,false,dribbling,pace
+Mohamed Zinaf,FW,R,23,MAR,6,false,false,false,pace,dribbling
+Abdellatif Benkassou,FW,R,23,MAR,1,false,false,false,dribbling,pace
+Karim L'Koucha,FW,R,25,MAR,5,true,false,false,crossing,pace
+Younes Sakhi,FW,R,26,MAR,6,true,false,false,playmaking,finishing
+Zouhir Eddib,FW,L,23,MAR,7,false,false,false,dribbling,finishing
+Yassine Senhaji,FW,R,19,MAR,1,false,false,false,finishing,pace
+Oussama Msahli,FW,L,22,MAR,3,false,false,false,finishing,dribbling

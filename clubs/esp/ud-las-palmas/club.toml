@@ -1,0 +1,13 @@
+name = "UD Las Palmas"
+country = "ESP"
+level = 14
+reputation = 3
+colors = ["#004090", "#C0B000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Sandro Viera"
+country = "BRA"

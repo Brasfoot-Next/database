@@ -1,0 +1,36 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Darwish Mohammad,GK,R,31,UAE,6,false,false,false,rushing-out,positioning
+Khaled Tawhid,GK,R,22,UAE,7,false,false,false,positioning,reflexes
+Adel Al-Hosani,GK,R,36,UAE,8,true,false,false,reflexes,positioning
+Maro Katinic,CB,R,22,CRO,2,false,false,false,marking,tackling
+Diney Borges,CB,R,31,UAE,5,true,false,false,marking,heading
+Rafael Pereira,CB,R,26,BRA,6,true,false,false,stamina,heading
+Abdulla Ghanim,CB,R,31,UAE,7,false,false,false,heading,tackling
+Shahin Abdulrahman,CB,L,33,UAE,2,false,false,false,heading,passing
+Francisco Pinho,CB,R,21,POR,5,false,false,false,marking,stamina
+Leandrinho,FB,L,21,BRA,6,false,false,false,stamina,pace
+Vladimir Prijovic,FB,R,24,SRB,2,true,false,false,pace,crossing
+Alhusain Saleh,FB,L,35,UAE,5,false,false,false,stamina,pace
+Hamad Fahad,FB,R,23,UAE,6,false,false,false,crossing,pace
+Khaled Ebraheim,FB,R,29,UAE,7,true,false,false,marking,crossing
+Charles Pickel,MF,L,29,UAE,2,true,false,false,tackling,passing
+Majid Rashid,MF,R,26,UAE,6,true,false,false,playmaking,passing
+Gerónimo Poblete,MF,L,33,ARG,6,false,false,false,marking,passing
+Majed Hassan,MF,R,33,UAE,7,false,false,false,passing,playmaking
+Majid Suroor,MF,R,28,UAE,4,true,false,false,tackling,passing
+Arshia Sarshogh,MF,L,23,UAE,6,true,false,false,dribbling,passing
+Harun Ibrahim,MF,L,23,SWE,9,false,false,false,tackling,marking
+Adel Taarabt,MF,R,37,MAR,5,false,false,false,passing,tackling
+Igor Coronado,MF,R,33,ITA,6,false,false,false,finishing,playmaking
+Agner,MF,L,21,BRA,7,false,false,false,passing,stamina
+Luan Pereira,FW,R,26,UAE,10,false,false,false,pace,dribbling
+Caio Lucas,FW,R,32,UAE,5,true,false,false,heading,finishing
+Julimar,FW,R,25,BRA,6,false,false,false,dribbling,playmaking
+Khalid Bawazir,FW,L,31,UAE,7,false,false,false,pace,finishing
+Mayed Saeed,FW,R,23,UAE,1,false,false,false,pace,dribbling
+Nicolas Clemente,FW,L,23,ARG,5,false,false,false,heading,finishing
+Guilherme Biro,FW,R,22,BRA,7,false,false,false,dribbling,finishing
+Harib Suhail,FW,R,23,UAE,5,false,false,false,pace,crossing
+Carlos André,FW,R,20,BRA,6,false,false,false,finishing,heading
+Kodjo Laba,FW,L,34,UAE,6,false,false,false,pace,finishing
+Ousmane Camara,FW,R,25,UAE,8,true,false,false,heading,finishing

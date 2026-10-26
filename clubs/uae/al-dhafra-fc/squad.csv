@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Eisa Ahmed,GK,R,25,UAE,5,true,false,false,positioning,penalty-saving
+Amjad Al-Sayed,GK,L,36,UAE,6,false,false,false,rushing-out,positioning
+Abdulla Sultan,GK,L,32,UAE,4,false,false,false,reflexes,penalty-saving
+Mohssine Rabja,CB,R,32,MAR,5,true,false,false,tackling,marking
+Leonard Amesimeku,CB,R,22,UAE,6,false,false,false,heading,passing
+Dramane Koumare,CB,R,21,MLI,9,false,false,false,pace,tackling
+Firas Al-Khaseebi,CB,R,30,UAE,5,true,false,false,heading,marking
+Serafim,CB,L,22,BRA,6,false,false,false,tackling,heading
+Ezeckiel Noumonvi,FB,L,23,UAE,7,true,false,false,stamina,crossing
+Zé Welinton,FB,L,22,BRA,1,false,false,false,tackling,pace
+Rangel,FB,L,22,BRA,4,false,false,false,pace,finishing
+Ibrahim Al-Hosani,FB,R,23,UAE,5,false,false,false,stamina,pace
+Abdullah Al-Karbi,FB,R,27,UAE,6,true,false,false,crossing,passing
+Dominique Mendy,MF,R,26,SEN,1,true,false,false,playmaking,dribbling
+Mansor Al-Harbi,MF,R,27,UAE,5,true,false,false,playmaking,finishing
+Vittor Richardh,MF,R,23,BRA,5,false,false,false,playmaking,finishing
+Yousef Ayman,MF,R,27,UAE,6,true,false,false,stamina,tackling
+Rostand Djooh,MF,R,24,CMR,1,false,false,false,stamina,passing
+Regi Lushkja,MF,R,30,ALB,5,false,false,false,passing,playmaking
+Zackariah Mohammed,MF,R,25,GHA,6,false,false,false,passing,stamina
+Rayan Yaslam,MF,R,31,UAE,4,false,false,false,playmaking,passing
+Rodriguinho,MF,R,22,BRA,5,true,false,false,playmaking,dribbling
+Mohamed El Khaloui,FW,R,28,MAR,6,false,false,false,pace,crossing
+Abdullah Fadaq,FW,R,23,UAE,7,false,false,false,pace,dribbling
+Zayed Al-Ameri,FW,R,29,UAE,4,false,false,false,pace,finishing
+Ibrahim Bayesh,FW,L,26,IRQ,5,true,false,false,stamina,pace
+Marcelinho,FW,R,23,BRA,6,false,false,false,dribbling,playmaking
+Sory Kaba,FW,R,31,GUI,7,true,false,false,stamina,finishing
+Arielson,FW,R,21,BRA,4,false,false,false,dribbling,finishing

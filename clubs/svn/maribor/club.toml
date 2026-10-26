@@ -1,0 +1,13 @@
+name = "Maribor"
+country = "SVN"
+level = 16
+reputation = 3
+colors = ["#620062", "#ffffff"]
+
+[stadium]
+name = "Krunoslav Jurcic"
+capacity = 12435
+
+[coach]
+name = "Radovan Karanovic"
+country = "SVN"

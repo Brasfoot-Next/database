@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Alexis Trouillet,MF,L,25,FRA,7,true,false,false,stamina,playmaking
+Wilitty Younoussa,MF,R,24,CMR,3,true,false,false,stamina,pace
+Samy Benchamma,MF,R,26,FRA,5,true,false,false,stamina,pace
+Mathys Tourraine,FB,R,25,MAR,6,true,false,false,pace,stamina
+Mohamed Achi,MF,L,24,FRA,7,false,false,false,dribbling,passing
+Tairyk Arconte,FW,L,22,FRA,3,false,false,false,dribbling,pace
+Jordan Mendes,MF,R,22,FRA,6,false,false,false,pace,passing
+Mathis Saka,MF,R,19,FRA,7,true,false,false,dribbling,passing
+Jean Lambert Evans,FB,L,27,FRA,2,true,false,false,dribbling,crossing
+Nolan Galves,FB,R,23,FRA,5,false,false,false,pace,stamina
+Ibrahima Balde,FW,R,23,FRA,6,false,false,false,pace,dribbling
+Raphael Lipinski,CB,L,24,FRA,7,false,false,false,stamina,pace
+Kenny Nagera,FW,R,24,FRA,2,false,false,false,pace,dribbling
+Octave Joly,MF,L,23,FRA,5,false,false,false,tackling,stamina
+Hermann Tebily,FW,R,24,FRA,6,false,false,false,pace,stamina
+Mehdi Baaloudj,FW,R,25,ALG,7,true,false,false,finishing,heading
+Corentin Issanchou,FB,L,21,FRA,2,false,false,false,stamina,pace
+Loni Laurent,CB,R,25,FRA,5,true,false,false,tackling,marking
+Ryan Ponti,FW,L,28,FRA,6,true,false,false,pace,dribbling
+Yanis Dahalani,MF,L,21,FRA,7,false,false,false,pace,tackling
+Dylan Vangi,CB,R,21,FRA,5,false,false,false,heading,pace
+Clement Jolibois,CB,R,29,FRA,6,true,false,false,tackling,heading
+Mathis Magnin,CB,R,24,SUI,8,false,false,false,tackling,heading
+Morgan Corredor,FW,R,22,FRA,4,false,false,false,finishing,stamina
+Aurelien Pelon,CB,R,22,FRA,6,false,false,false,tackling,pace
+Quentin Braat,GK,R,29,FRA,7,true,false,false,reflexes,penalty-saving
+Lucas Margueron,GK,R,25,FRA,10,false,false,false,reflexes,penalty-saving
+Enzo Crombez,GK,R,23,FRA,5,false,false,false,rushing-out,reflexes

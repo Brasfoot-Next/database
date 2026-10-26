@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+David Volk,GK,R,25,RWA,2,true,false,false,reflexes,rushing-out
+Timur Magomedov,GK,L,24,RWA,5,false,false,false,reflexes,positioning
+Nikita Karabashev,GK,R,24,RWA,6,false,false,false,reflexes,positioning
+Idar Shumakhov,CB,L,27,RWA,7,true,false,false,tackling,heading
+Andrés Alarcón,CB,L,25,COL,2,true,false,false,marking,heading
+Ilyas Akhmedov,CB,L,19,RWA,5,false,false,false,heading,marking
+Mutalip Alibekov,CB,L,29,RWA,6,false,false,false,heading,passing
+Temirkan Sundukov,FB,L,24,RWA,7,true,false,false,passing,crossing
+Jan Dapo,FB,R,23,SVN,3,false,false,false,dribbling,pace
+Mohamed Azzi,FB,L,24,ALG,5,true,false,false,marking,pace
+Soslan Kagermazov,FB,R,29,RWA,6,false,false,false,stamina,pace
+Aleksandr Sandrachuk,FB,R,24,RWA,7,false,false,false,tackling,marking
+Houssem Mrezigue,MF,R,26,ALG,3,true,false,false,tackling,passing
+Abdulpasha Dzhabrailov,MF,R,21,RWA,5,false,false,false,passing,tackling
+Nikita Glushkov,MF,L,27,RWA,6,true,false,false,tackling,passing
+Marat Apshatsev,MF,R,25,RWA,6,false,false,false,playmaking,dribbling
+Anton Krachkovskiy,MF,R,24,RWA,10,false,false,false,finishing,passing
+Mohammadjavad Hosseinnejad,MF,L,23,RWA,4,true,false,false,passing,tackling
+Razhab Magomedov,MF,R,25,RWA,5,true,false,false,passing,stamina
+Kirill Zinovich,MF,R,23,RWA,7,false,false,false,passing,playmaking
+Daniil Lesovoy,FW,R,28,RWA,6,true,false,false,finishing,heading
+Vladimir Khubulov,FW,L,25,RWA,7,false,false,false,finishing,heading
+Diaa Eddine Mechid,FW,R,20,ALG,2,false,false,false,dribbling,playmaking
+Gamid Agalarov,FW,R,26,RWA,5,true,false,false,dribbling,playmaking
+Hazem Mastouri,FW,L,29,TUN,6,false,false,false,heading,stamina
+Miro,FW,R,23,ANG,7,false,false,false,finishing,pace
+Serder Serderov,FW,R,32,RWA,7,false,false,false,finishing,stamina
+Gadzhi Budunov,FW,R,19,RWA,4,false,false,false,pace,dribbling
+Kirill Pomeshkin,FW,L,22,RWA,5,false,false,false,heading,pace

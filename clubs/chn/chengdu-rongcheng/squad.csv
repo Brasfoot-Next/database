@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Chow Tim,MF,L,32,CHN,3,true,false,false,stamina,pace
+Rômulo,FW,L,30,BRA,5,false,false,false,stamina,pace
+Timo Letschert,CB,R,33,NED,6,false,false,false,passing,heading
+Wei Shihao,FW,L,31,CHN,7,false,false,false,pace,stamina
+Felipe Silva,FW,L,34,BRA,3,true,false,false,stamina,heading
+Yang Mingyang,MF,R,31,CHN,5,true,false,false,stamina,pace
+Muzepper Mirahmetjan,MF,L,35,CHN,6,false,false,false,crossing,heading
+Yan Dinghao,MF,R,28,CHN,7,true,false,false,stamina,playmaking
+De Erjiaduo,FW,L,29,CHN,4,true,false,false,pace,passing
+Gan Chao,MF,R,31,CHN,5,true,false,false,pace,stamina
+Yahav Gurfinkel,FB,L,28,CHN,7,true,false,false,stamina,pace
+Issa Kallon,FW,L,30,SLE,2,false,false,false,pace,dribbling
+Han Pengfei,CB,L,33,CHN,5,false,false,false,stamina,heading
+Dong Yanfeng,CB,R,30,CHN,7,false,false,false,pace,stamina
+Tang Xin,FB,L,35,CHN,1,false,false,false,pace,tackling
+Yang Shuai,CB,R,29,CHN,5,true,false,false,stamina,heading
+Hu Hetao,FB,L,22,CHN,6,false,false,false,stamina,pace
+Li Yang,CB,R,29,CHN,7,true,false,false,stamina,heading
+Wang Dongsheng,FB,L,29,CHN,2,true,false,false,stamina,pace
+Liao Rongxiang,MF,R,21,CHN,5,false,false,false,pace,stamina
+Yuan Mincheng,CB,R,31,CHN,7,false,false,false,stamina,marking
+Xu Hong,MF,R,21,CHN,1,false,false,false,pace,stamina
+Liu Dianzuo,GK,R,36,CHN,4,false,false,false,positioning,reflexes
+Tang Chuang,FW,R,30,CHN,5,false,false,false,pace,heading
+Li Moyu,FW,R,21,CHN,6,false,false,false,pace,stamina
+Qeyser Ezimet,FW,R,20,CHN,7,false,false,false,pace,dribbling
+Wang Ziteng,FB,R,21,CHN,1,false,false,false,stamina,pace
+Tang Zicheng,GK,R,18,CHN,5,false,false,false,penalty-saving,rushing-out
+Jian Tao,GK,R,25,CHN,6,true,false,false,rushing-out,reflexes
+Ran Weifeng,GK,R,24,CHN,7,false,false,false,reflexes,penalty-saving
+Peng Haochen,GK,R,21,CHN,4,false,false,false,rushing-out,positioning

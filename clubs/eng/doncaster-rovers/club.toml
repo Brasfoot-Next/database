@@ -1,0 +1,13 @@
+name = "Doncaster Rovers"
+country = "ENG"
+level = 9
+reputation = 2
+colors = ["#000000", "#E0B000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Billy Middleton"
+country = "BRA"

@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Chinedu Anozie,GK,R,19,NGA,5,true,false,false,positioning,reflexes
+Odera Onyiri,GK,L,17,NGA,4,false,false,false,rushing-out,penalty-saving
+Peter Clinton,FB,R,19,NGA,8,true,false,false,passing,crossing
+Francis Momoh,FB,L,16,NGA,8,false,false,false,crossing,tackling
+Alexandre Kouakou,FB,R,17,NGA,2,false,false,false,pace,crossing
+Okoro Ndukwe,CB,L,17,NGA,10,false,false,false,marking,stamina
+Ibrahim Buhari,CB,R,19,NGA,7,true,false,false,tackling,heading
+Ibeh Johnson,CB,L,18,NGA,4,true,false,false,stamina,tackling
+Oche Ochowechi,MF,R,16,NGA,7,true,false,false,playmaking,passing
+Silas Nenrot,MF,L,19,NGA,4,true,false,false,passing,dribbling
+Abubakar Umar,MF,R,19,NGA,8,true,false,false,marking,passing
+Saheed Jubril,MF,L,18,NGA,3,true,false,false,tackling,marking
+Ibrahim Abubakar,FW,R,20,NGA,6,true,false,false,pace,finishing
+Jesse Akila,FW,L,16,NGA,5,true,false,false,finishing,dribbling
+Isah Ndala,FW,R,19,NGA,5,true,false,false,heading,finishing

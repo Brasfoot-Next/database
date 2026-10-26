@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gunngeir Bjoernolfursson,GK,R,17,ISL,5,true,false,false,positioning,reflexes
+Oddur Bjarnason,GK,L,19,ISL,7,true,false,false,penalty-saving,positioning
+Ólafur Óskar Ómarsson,FB,R,17,ISL,5,true,false,false,crossing,pace
+Birgir Steinn Styrmisson,FB,L,16,ISL,2,true,false,false,crossing,passing
+Örlygur Ómarsson,FB,R,18,ISL,7,true,false,false,pace,crossing
+Kjartan Franklín Magnús,CB,L,19,ISL,9,true,false,false,tackling,heading
+Elvar Aron Friðriksson,CB,R,18,ISL,10,true,false,false,tackling,heading
+Samúel Már Kristinsson,CB,L,18,ISL,6,true,false,false,heading,tackling
+Viktor Máni Róbertsson,MF,R,18,ISL,3,true,false,false,finishing,passing
+Valdimar Dadi Saevarsson,MF,L,16,ISL,9,true,false,false,passing,finishing
+Pétur Matthías Sæmundsson,MF,R,18,ISL,2,true,false,false,tackling,passing
+Magnús Símonarsson,MF,L,17,ISL,2,true,false,false,marking,tackling
+Askur Jóhannsson,FW,R,19,ISL,5,true,false,false,finishing,pace
+Jón Helgi Sigurðsson,FW,L,19,ISL,10,true,false,false,pace,finishing
+Hafþór Bjarki Guðmundsson,FW,R,17,ISL,3,true,false,false,finishing,heading

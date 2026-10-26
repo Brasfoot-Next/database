@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Aku Kaven,GK,R,17,FIN,5,true,false,false,penalty-saving,rushing-out
+Niko Lampinen,GK,L,19,FIN,7,true,false,false,positioning,reflexes
+Pedro Solano,FB,R,17,FIN,5,true,false,false,crossing,marking
+Juuso Yli-Rajala,FB,L,16,FIN,2,true,false,false,pace,crossing
+Konsta Mäkelä,FB,R,19,FIN,7,true,false,false,crossing,passing
+Eelis Tallberg,CB,L,20,FIN,9,true,false,false,heading,tackling
+Ilari Vaajanen,CB,R,17,FIN,10,true,false,false,heading,tackling
+Daniel Armstrong,CB,L,16,FIN,6,true,false,false,tackling,heading
+Luca Berg,MF,R,18,FIN,3,true,false,false,finishing,passing
+Eemeli Rantaneva,MF,L,16,FIN,9,true,false,false,playmaking,passing
+Santeri Pitkäkoski,MF,R,17,FIN,2,true,false,false,marking,tackling
+Juho Talvitie,MF,L,16,FIN,2,true,false,false,tackling,pace
+Badreddine Bushara,FW,R,16,FIN,5,true,false,false,pace,finishing
+Eetu Mömmö,FW,L,18,FIN,10,true,false,false,finishing,heading
+Tomas Varhi,FW,R,17,FIN,3,true,false,false,finishing,passing

@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rayan Raveloson,MF,R,29,SUI,1,false,false,false,stamina,heading
+Edimilson Fernandes,MF,L,30,SUI,5,true,false,false,tackling,marking
+Alvyn Sanches,MF,L,23,SUI,6,true,false,false,pace,stamina
+Sandro Lauper,CB,R,29,SUI,7,false,false,false,passing,stamina
+Armin Gigovic,MF,R,24,BIH,1,true,false,false,stamina,passing
+Joel Almada Monteiro,FW,L,27,SUI,5,false,false,false,pace,stamina
+Loris Benito,CB,L,34,SUI,6,false,false,false,stamina,marking
+Dominik Pech,MF,R,20,CZE,7,true,false,false,dribbling,playmaking
+Christian Fassnacht,FW,L,32,SUI,2,false,false,false,pace,heading
+Saidy Janko,FB,R,30,GAM,6,false,false,false,pace,tackling
+Darian Males,FW,L,25,SUI,7,false,false,false,pace,dribbling
+Jaouen Hadjam,FB,L,23,ALG,4,true,false,false,pace,stamina
+Ryan Andrews,FB,R,22,ENG,5,true,false,false,pace,stamina
+Chris Bedia,FW,L,30,CIV,6,true,false,false,pace,finishing
+Ebrima Colley,FW,L,26,GAM,7,false,false,false,pace,dribbling
+Sergio Cordova,FW,R,29,VEN,4,false,false,false,pace,heading
+Alan Virginius,FW,R,23,FRA,5,true,false,false,pace,dribbling
+Gregory Wuthrich,CB,R,31,SUI,6,true,false,false,marking,tackling
+Facinet Conte,FW,R,21,GUI,3,false,false,false,pace,finishing
+Rhodri Smith,FB,L,19,SUI,5,false,false,false,pace,passing
+Tanguy Zoukrou,CB,R,23,FRA,7,true,false,false,heading,tackling
+Felix Emmanuel Tsimba,FW,R,20,SUI,3,false,false,false,pace,finishing
+Mats Seiler,CB,L,21,SUI,5,false,false,false,pace,stamina
+Heinz Lindner,GK,R,36,AUT,6,false,false,false,positioning,rushing-out
+Dario Marzino,GK,R,29,SUI,7,false,false,false,penalty-saving,reflexes
+Marvin Keller,GK,R,24,SUI,3,true,false,false,reflexes,positioning

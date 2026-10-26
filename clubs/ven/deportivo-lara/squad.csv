@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Franco Carretero,GK,R,27,ARG,8,true,false,false,positioning,rushing-out
+Luis Curiel,GK,R,36,VEN,4,false,false,false,reflexes,positioning
+Fernando Guerrero,GK,R,18,VEN,5,false,false,false,positioning,penalty-saving
+Williams Pedrozo,CB,L,24,VEN,6,true,false,false,marking,tackling
+Sebastian Gonzalez,CB,R,17,VEN,8,false,false,false,marking,stamina
+Hugo Sanchez,CB,L,28,VEN,4,true,false,false,tackling,heading
+Henri Pernía,CB,R,35,VEN,5,false,false,false,marking,tackling
+Néstor Cova,FB,R,31,VEN,6,false,false,false,tackling,marking
+Rodney Chirinos,FB,R,30,VEN,7,true,false,false,stamina,crossing
+Joel Cáceres,FB,R,33,VEN,10,false,false,false,stamina,pace
+Moisés González,FB,R,26,VEN,5,true,false,false,pace,tackling
+Yaicar Perdomo,FB,L,19,VEN,6,false,false,false,marking,crossing
+Carlos Garcilazo,MF,R,17,VEN,7,false,false,false,dribbling,pace
+Francisco Flores,MF,L,36,VEN,3,false,false,false,finishing,passing
+Willimger Castillo,MF,R,28,VEN,5,true,false,false,playmaking,passing
+Germain Torcate,MF,L,21,VEN,6,false,false,false,passing,stamina
+Ronaldo Lucena,MF,R,29,VEN,7,true,false,false,tackling,passing
+Enmanuel Verde,MF,R,22,VEN,3,true,false,false,passing,tackling
+Adriangel Torrealba,MF,L,20,VEN,5,false,false,false,passing,playmaking
+Jacobo Kouffati,MF,R,33,VEN,6,false,false,false,finishing,passing
+Alejandro Torres,MF,R,19,VEN,5,false,false,false,playmaking,passing
+José Ardila,MF,L,21,VEN,6,false,false,false,playmaking,passing
+Orlando Quintero,MF,R,25,VEN,8,true,false,false,finishing,playmaking
+Keny Gonzalez,FW,R,19,VEN,5,false,false,false,heading,finishing
+Diego Ladino,FW,L,18,VEN,6,false,false,false,dribbling,pace
+Jesus Gonzalez,FW,R,25,VEN,6,true,false,false,heading,pace
+Jeirye Caicedo,FW,R,22,COL,1,false,false,false,playmaking,finishing
+Nestor Verenzuela,FW,R,19,VEN,5,false,false,false,finishing,dribbling
+Charlis Ortiz Jr,FW,R,19,VEN,6,false,false,false,finishing,dribbling
+Ronaldo Peña,FW,R,29,VEN,7,true,false,false,finishing,stamina
+Luis Annese,FW,L,33,VEN,5,false,false,false,heading,stamina
+Johan Arrieche,FW,R,35,VEN,6,false,false,false,heading,finishing

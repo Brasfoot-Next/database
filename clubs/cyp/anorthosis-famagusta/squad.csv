@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Giorgi Loria,GK,L,36,GEO,10,true,false,false,positioning,penalty-saving
+Papadopoulos,GK,R,31,CYP,3,false,false,false,penalty-saving,reflexes
+Anderson Correia,FB,L,31,BRA,4,true,false,false,marking,passing
+Hambardzumyan,FB,R,31,ARM,8,true,false,false,crossing,marking
+Chatzimitsis,FB,R,18,CYP,5,false,false,false,marking,pace
+Pavlos Korrea,CB,L,24,CYP,1,true,false,false,tackling,marking
+Marios Antoniadis,CB,R,32,CYP,5,true,false,false,tackling,heading
+Kostakis Artymatas,MF,L,29,CYP,9,true,false,false,marking,pace
+Christodoulopoulos,MF,R,35,GRE,1,true,false,false,playmaking,passing
+Denis Popovic,MF,L,32,SVN,9,true,false,false,playmaking,passing
+Michalis Ioannou,MF,R,22,CYP,10,true,false,false,marking,finishing
+Chrysostomou,MF,R,21,CYP,7,false,false,false,tackling,pace
+Dimitrios Christofi,FW,L,33,CYP,10,true,false,false,dribbling,finishing
+Amr Warda,FW,R,28,EGY,5,true,false,false,finishing,dribbling
+Neofytos Michail,GK,R,28,CYP,10,false,false,false,positioning,rushing-out
+Kiko,FB,L,29,POR,2,false,false,false,crossing,pace
+Varazdat Haroyan,CB,R,29,ARM,7,false,false,false,heading,stamina
+Marco Baixinho,CB,L,33,POR,4,false,false,false,tackling,stamina
+Minas Antoniou,MF,R,28,CYP,5,false,false,false,passing,finishing
+Casimir Ninga,FW,L,29,CHA,1,false,false,false,heading,pace
+Avto,FW,R,30,GEO,8,false,false,false,finishing,pace
+Blaz Vrhovec,MF,L,30,SVN,10,false,false,false,tackling,marking

@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Aleksandr Gutor,GK,L,18,BLR,5,true,false,false,rushing-out,penalty-saving
+Vasily Khomutovskiy,GK,R,16,BLR,4,true,false,false,penalty-saving,reflexes
+Sergey Palitsevich,FB,L,16,BLR,6,true,false,false,crossing,passing
+Oleg Veretilo,FB,R,18,BLR,2,true,false,false,marking,crossing
+Sergei Karpovich,FB,L,17,BLR,9,true,false,false,crossing,pace
+Sergey Kontsevoy,CB,R,16,BLR,8,true,false,false,heading,marking
+Dmitriy Molosh,CB,L,18,BLR,3,true,false,false,stamina,tackling
+Maksim Vitus,CB,R,19,BLR,7,true,false,false,tackling,heading
+Yuriy Kovalev,MF,L,17,BLR,9,true,false,false,passing,pace
+Artem Bykov,MF,R,18,BLR,10,true,false,false,playmaking,finishing
+Nikita Korzun,MF,L,18,BLR,2,true,false,false,marking,tackling
+Aleksandr Kucherov,MF,R,17,BLR,2,true,false,false,tackling,passing
+Nusmir Fajic,FW,L,16,BLR,7,true,false,false,finishing,passing
+Gleb Rassadkin,FW,R,19,BLR,9,true,false,false,stamina,finishing
+Nikita Yanush,FW,L,17,BLR,2,true,false,false,finishing,pace

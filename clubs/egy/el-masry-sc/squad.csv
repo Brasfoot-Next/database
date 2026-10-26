@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mahmoud Hamdy,GK,L,32,EGY,4,false,false,false,reflexes,rushing-out
+Essam Tharwat,GK,R,36,EGY,5,false,false,false,rushing-out,positioning
+Ahmed Wahp,GK,L,21,EGY,6,false,false,false,positioning,rushing-out
+Mohamed Shehata,GK,L,26,EGY,3,true,false,false,reflexes,positioning
+Baher El Mohamady,CB,R,29,EGY,5,true,false,false,marking,passing
+Khaled Sobhi,CB,R,31,EGY,6,true,false,false,tackling,stamina
+Mohamed Hashem,CB,R,30,EGY,7,false,false,false,marking,heading
+Ahmed Ayman Mansour,CB,R,32,EGY,3,false,false,false,marking,tackling
+Hamada Helal,CB,R,22,EGY,5,false,false,false,tackling,heading
+Amr El Saadawy,FB,L,29,EGY,6,true,false,false,passing,pace
+Karim El Eraki,FB,L,28,EGY,5,true,false,false,marking,pace
+Abdo Nader,FB,L,21,EGY,6,false,false,false,stamina,crossing
+Mohamed Makhlouf,MF,R,28,EGY,7,true,false,false,playmaking,passing
+Bonheur Mugisha,MF,R,26,EGY,4,true,false,false,finishing,playmaking
+Mostafa Aboul-Kheir,MF,R,22,EGY,5,false,false,false,passing,finishing
+Ahmed Shadad,MF,R,24,EGY,6,false,false,false,tackling,passing
+Mahmoud Hamada,MF,R,32,EGY,7,false,false,false,dribbling,playmaking
+Ameed Sawafta,MF,R,26,EGY,4,false,false,false,dribbling,playmaking
+Hassan Ali,MF,R,28,EGY,5,false,false,false,passing,finishing
+Hussein Faisal,MF,R,27,EGY,6,true,false,false,stamina,tackling
+Ahmed Ali,MF,L,25,EGY,5,false,false,false,playmaking,finishing
+Youssef El Gohary,MF,R,28,EGY,6,false,false,false,stamina,tackling
+Belia,MF,R,21,EGY,7,false,false,false,passing,finishing
+Abderrahim Deghmoum,MF,R,27,ALG,3,true,false,false,playmaking,dribbling
+Moustafa Zeidan,MF,R,28,EGY,5,false,false,false,playmaking,passing
+Ziad Farag,MF,R,24,EGY,6,false,false,false,finishing,playmaking
+Ahmed Fouad,FW,R,22,EGY,7,false,false,false,dribbling,pace
+Ahmed El Armouty,FW,L,27,EGY,3,true,false,false,heading,finishing
+Ahmed Sharaf,FW,R,20,EGY,5,false,false,false,dribbling,playmaking
+Salah Mohsen,FW,R,27,EGY,6,true,false,false,crossing,pace
+Mounder Temine,FW,R,24,ALG,5,false,false,false,heading,pace
+Karim Bambo,FW,R,33,EGY,6,false,false,false,crossing,pace
+Mohamed El Shami,FW,L,30,EGY,8,false,false,false,pace,dribbling
+Mohamed El Zarif,FW,L,23,EGY,4,false,false,false,pace,finishing

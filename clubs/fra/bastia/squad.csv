@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tom Ducrocq,MF,R,27,FRA,3,true,false,false,stamina,pace
+Zakaria Ariss,FB,L,22,FRA,5,false,false,false,pace,stamina
+Jocelyn Janneh,MF,L,23,SLE,6,true,false,false,stamina,tackling
+Christophe Vincent,MF,R,33,FRA,7,false,false,false,stamina,playmaking
+Amine Boutrah,FW,L,25,FRA,3,false,false,false,pace,stamina
+Florian Bohnert,FB,R,28,FRA,5,true,false,false,stamina,pace
+Tom Meynadier,FB,R,26,FRA,5,true,false,false,pace,stamina
+Felix Tomi,FW,R,26,FRA,6,true,false,false,playmaking,pace
+Loic Etoga,MF,R,23,CMR,8,true,false,false,stamina,pace
+Dominique Guidi,CB,R,30,FRA,4,false,false,false,stamina,marking
+Jeremy Sebas,FW,R,23,FRA,7,true,false,false,dribbling,pace
+Issiaka Karamoko,FW,L,25,FRA,2,false,false,false,pace,stamina
+Yahya Bathily,MF,R,23,FRA,5,true,false,false,passing,pace
+Anthony Roncaglia,CB,L,27,FRA,6,true,false,false,stamina,heading
+Maxime Ble,FW,R,24,FRA,7,false,false,false,pace,finishing
+Ayman Aiki,FW,R,21,FRA,3,false,false,false,pace,dribbling
+Alexandre Zaouai,MF,R,21,CIV,5,false,false,false,pace,dribbling
+Loup Diwan Gueho,CB,R,22,FRA,6,false,false,false,tackling,pace
+Gustave Akueson,CB,R,30,FRA,7,false,false,false,tackling,pace
+Nicolas Parravicini,FW,R,29,ITA,3,false,false,false,heading,stamina
+Juan Jose Guevara,CB,R,25,COL,7,true,false,false,tackling,pace
+Noah Zilliox,CB,R,23,FRA,1,false,false,false,stamina,tackling
+Donovan Basset,CB,L,22,FRA,5,false,false,false,pace,tackling
+Johny Placide,GK,R,38,HAI,6,true,false,false,positioning,rushing-out
+Julien Fabri,GK,R,32,FRA,7,false,false,false,positioning,rushing-out
+Lisandru Olmeta,GK,R,21,FRA,1,false,false,false,reflexes,penalty-saving
+Sacha Contena,GK,R,20,FRA,5,false,false,false,penalty-saving,reflexes

@@ -1,0 +1,13 @@
+name = "Alashkert Yerevan"
+country = "ARM"
+level = 13
+reputation = 3
+colors = ["#000000", "#ffcc33"]
+
+[stadium]
+name = "Alashkert"
+capacity = 6850
+
+[coach]
+name = "Karen Barseghyan"
+country = "ARM"

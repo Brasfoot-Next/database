@@ -1,0 +1,13 @@
+name = "Real Oviedo"
+country = "ESP"
+level = 15
+reputation = 3
+colors = ["#F0D000", "#000000"]
+
+[stadium]
+name = "Carlos Tartiere"
+capacity = 30500
+
+[coach]
+name = "Horatiu Cheli"
+country = "BRA"

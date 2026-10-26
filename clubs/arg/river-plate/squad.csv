@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Marcos Acuna,FB,L,34,ARG,6,false,false,false,crossing,dribbling
+Giuliano Galoppo,MF,R,27,ARG,6,true,false,false,stamina,heading
+Maximiliano Meza,MF,R,33,ARG,7,true,false,false,dribbling,passing
+Milton Casco,FB,L,38,ARG,1,false,false,false,dribbling,passing
+Kevin Castano,MF,L,25,COL,6,true,false,false,passing,playmaking
+Gonzalo Montiel,FB,R,29,ARG,6,true,false,false,stamina,pace
+Fabricio Bustos,FB,R,30,ARG,7,true,false,false,stamina,pace
+Sebastian Driussi,FW,R,30,ARG,2,false,false,false,pace,dribbling
+Ignacio Fernandez,MF,L,36,ARG,6,false,false,false,playmaking,passing
+Maximiliano Salas,FW,L,28,ARG,6,true,false,false,stamina,pace
+Lucas Martinez Quarta,CB,R,30,ARG,5,true,false,false,heading,tackling
+Paulo Diaz,CB,L,32,CHI,6,false,false,false,stamina,heading
+Enzo Perez,MF,R,40,ARG,7,false,false,false,passing,stamina
+Facundo Colidio,FW,L,26,ARG,10,true,false,false,pace,dribbling
+Miguel Borja,FW,R,33,COL,5,false,false,false,finishing,pace
+Juan Portillo,CB,R,26,ARG,7,false,false,false,stamina,pace
+Juan Fernando Quintero,FW,L,33,COL,9,false,false,false,playmaking,dribbling
+Matias Galarza,MF,L,24,PAR,5,false,false,false,dribbling,finishing
+Sebastian Boselli,CB,R,22,URU,6,false,false,false,pace,stamina
+Gonzalo Martinez,FW,L,33,ARG,7,false,false,false,dribbling,playmaking
+Federico Gattoni,CB,R,27,ARG,5,false,false,false,marking,pace
+Giorgio Costantini,MF,L,20,BRA,6,false,false,false,passing,pace
+German Pezzella,CB,R,35,ARG,7,false,false,false,heading,tackling
+Lautaro Rivero,CB,L,22,ARG,9,true,false,false,heading,marking
+Ian Subiabre,FW,L,19,ARG,5,false,false,false,pace,dribbling
+Santiago Lencina,FW,L,21,ARG,6,false,false,false,dribbling,pace
+Bautista Dadin,FW,L,20,ARG,4,false,false,false,pace,finishing
+Juan Cruz Meza,MF,R,18,ARG,6,true,false,false,pace,dribbling
+Agustin De La Cuesta,MF,L,20,ARG,6,false,false,false,stamina,tackling
+Agustin Ruberto,FW,R,20,ARG,8,false,false,false,finishing,pace
+Ulises Gimenez,CB,R,20,ARG,6,false,false,false,pace,tackling
+Conan Ledesma,GK,R,33,ARG,6,false,false,false,reflexes,penalty-saving
+Franco Armani,GK,R,39,ARG,7,false,false,false,reflexes,positioning
+Santiago Beltran,GK,L,21,ARG,4,true,false,false,reflexes,penalty-saving

@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Francisco Tinaglini,GK,R,27,URU,5,true,false,false,positioning,penalty-saving
+Stefanos Souloukos,GK,R,25,GRE,6,false,false,false,rushing-out,reflexes
+Viktoras Sakalidis,GK,R,23,GRE,9,false,false,false,penalty-saving,reflexes
+Michalis Pourliotopoulos,GK,R,19,GRE,5,false,false,false,reflexes,positioning
+Iva Gelashvili,CB,R,25,GEO,6,true,false,false,stamina,heading
+Epaminondas Pantelakis,CB,R,31,GRE,7,true,false,false,tackling,pace
+Theocharis Iliadis,CB,R,29,GRE,1,false,false,false,marking,passing
+Vernon de Marco,CB,R,33,SVK,5,false,false,false,marking,tackling
+Manolis Aliatidis,CB,R,31,GRE,6,false,false,false,heading,marking
+Fotis Chavos,CB,R,20,GRE,7,false,false,false,tackling,marking
+Marios Tsaousis,FB,L,26,GRE,4,true,false,false,stamina,pace
+Yoël Armougom,FB,L,28,FRA,5,false,false,false,tackling,stamina
+Stathis Tachatos,FB,R,24,GRE,7,true,false,false,stamina,pace
+Charalampos Georgiadis,FB,L,21,GRE,1,false,false,false,tackling,stamina
+Giannis Kosmidis,MF,R,19,GRE,4,false,false,false,tackling,passing
+Ethan Brooks,MF,R,24,GRE,5,true,false,false,playmaking,passing
+Giannis Doiranlis,MF,L,23,GRE,6,true,false,false,passing,tackling
+Viktor Rumyantsev,MF,R,22,GRE,7,true,false,false,stamina,tackling
+Angelos Ikonomou,MF,R,30,GRE,3,false,false,false,dribbling,pace
+Samir Ben Sallam,MF,R,25,NED,5,true,false,false,finishing,playmaking
+Ilias Tselios,MF,L,28,GRE,4,false,false,false,stamina,tackling
+Alex Teixeira,MF,R,36,BRA,5,false,false,false,dribbling,pace
+Zacharias Tsagarakis,MF,R,18,GRE,6,false,false,false,playmaking,dribbling
+Alexandros Maskanakis,FW,L,21,GRE,7,true,false,false,pace,finishing
+Darnell Eric Bile,FW,L,20,FRA,4,true,false,false,pace,dribbling
+Giannis Pasas,FW,L,35,GRE,5,false,false,false,pace,crossing
+Karim Hamed,FW,R,20,EGY,6,false,false,false,heading,pace
+Theodoros Vernardos,FW,R,28,GRE,7,false,false,false,heading,stamina
+Grigorios Politakis,FW,R,20,GRE,1,false,false,false,pace,crossing
+Alexandros Salvanos,FW,R,20,GRE,5,false,false,false,dribbling,finishing
+Jean-Baptiste Léo,FW,R,30,GRE,3,false,false,false,pace,dribbling

@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ignacio Guerrico,FB,L,28,ARG,5,false,false,false,stamina,dribbling
+Justo Giani,FW,R,27,ARG,6,false,false,false,pace,dribbling
+Marcelo Esponda,MF,R,23,ARG,7,true,false,false,pace,dribbling
+Tobias Leiva,MF,R,22,ARG,7,true,false,false,passing,stamina
+Matias Garcia,FW,L,34,ARG,4,true,false,false,playmaking,stamina
+Nestor Breitenbruch,CB,R,30,ARG,5,true,false,false,pace,stamina
+Federico Gino,MF,L,33,URU,6,true,false,false,stamina,passing
+Ayrton Preciado,FW,L,32,ECU,7,false,false,false,pace,dribbling
+Roberto Bochi,MF,R,36,ARG,4,false,false,false,passing,tackling
+Lucio Falasco,MF,R,22,ARG,5,false,false,false,pace,passing
+Agustin Palavecino,MF,R,23,ARG,7,true,false,false,pace,dribbling
+Giuliano Cerato,FB,R,28,ARG,2,true,false,false,pace,crossing
+Gonzalo Mottes,CB,L,28,ARG,5,false,false,false,heading,stamina
+Fernando Roman,FB,L,27,PAR,6,true,false,false,pace,stamina
+Gabriel Paredes,FB,L,22,ARG,7,false,false,false,pace,stamina
+Franco Rami,FW,R,23,ARG,2,false,false,false,pace,heading
+Lautaro Chavez,FW,L,25,ARG,5,false,false,false,dribbling,playmaking
+Rodrigo Gonzalez,FB,R,26,ARG,6,false,false,false,stamina,pace
+Emiliano Rodriguez,FW,L,23,URU,7,false,false,false,pace,playmaking
+Tiago Serrago,FW,L,22,ARG,3,true,false,false,dribbling,passing
+Tobias Cervera,FW,L,24,ARG,6,false,false,false,pace,dribbling
+Natanael Guzman,FW,L,27,ARG,8,false,false,false,pace,passing
+Tomas Kummer,CB,R,21,ARG,4,false,false,false,tackling,pace
+Santiago Laquidain,CB,L,25,ARG,6,false,false,false,stamina,tackling
+Juan Ignacio Achetoni,MF,R,21,ARG,7,false,false,false,pace,passing
+Yonathan Cabral,CB,R,34,ARG,10,false,false,false,heading,passing
+Alejandro Villarreal,FW,R,21,COL,4,false,false,false,heading,finishing
+Santiago Moya,CB,R,23,ARG,6,true,false,false,tackling,marking
+Sebastian Moyano,GK,R,36,ARG,7,true,false,false,reflexes,positioning
+Jorge Carranza,GK,R,45,ARG,1,false,false,false,positioning,reflexes
+Nahuel Gonzalez,GK,R,22,ARG,6,false,false,false,reflexes,positioning

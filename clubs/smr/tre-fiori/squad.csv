@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Simone Teodorani,GK,L,22,ITA,8,false,false,false,positioning,rushing-out
+Alessandro Semprini,GK,L,28,ITA,7,true,false,false,positioning,rushing-out
+Della Valle,FB,L,25,SMR,4,false,false,false,marking,finishing
+Enrico Pezzi,FB,L,32,ITA,8,true,false,false,marking,passing
+Eros Grani,FB,R,23,ITA,1,true,false,false,crossing,marking
+Kevin Martin,FB,R,27,ITA,2,false,false,false,marking,finishing
+Davide Simoncini,CB,R,35,SMR,4,true,false,false,tackling,stamina
+De Lucia,CB,L,30,ITA,6,true,false,false,tackling,stamina
+Filippo Ronci,CB,R,21,ITA,10,false,false,false,tackling,stamina
+David Astolfi,CB,L,24,ITA,9,false,false,false,heading,stamina
+Federico Dolcini,MF,R,22,SMR,3,false,false,false,passing,stamina
+Giacomo Pracucci,MF,R,25,ITA,8,true,false,false,tackling,heading
+Andrea Tamagnini,MF,R,24,SMR,3,false,false,false,playmaking,pace
+Kristjan Mani,MF,L,23,ALB,7,false,false,false,playmaking,passing
+Mario Ferri,MF,R,35,ITA,8,false,false,false,finishing,passing
+Adami Martins,MF,L,30,BRA,5,true,false,false,tackling,pace
+De Falco,MF,L,36,ITA,7,true,false,false,marking,pace
+Thomas Rastelli,MF,L,20,SMR,4,true,false,false,dribbling,playmaking
+Bojan Gjurchinoski,FW,R,28,CRO,3,true,false,false,playmaking,finishing
+Joel Núñez,FW,L,29,ESP,9,true,false,false,pace,finishing
+Antonio Lentini,FW,R,26,ITA,2,false,false,false,pace,finishing
+Andrea Traverso,FW,L,23,ITA,5,false,false,false,finishing,pace

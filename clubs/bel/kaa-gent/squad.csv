@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Leonardo Lopes,CB,R,27,POR,5,false,false,false,stamina,tackling
+Abdelkahar Kadri,MF,R,26,ALG,6,true,false,false,dribbling,passing
+Omri Gandelman,MF,L,26,BEL,7,true,false,false,stamina,heading
+Dante Vanzeir,FW,R,28,BEL,4,false,false,false,pace,stamina
+Matisse Samoise,FB,R,24,BEL,5,true,false,false,stamina,pace
+Tiago Araújo,FB,L,25,POR,6,true,false,false,pace,crossing
+Mathias Delorge,MF,L,22,BEL,8,true,false,false,stamina,playmaking
+Atsuki Ito,MF,R,28,JPN,4,true,false,false,stamina,tackling
+Michal Skoras,FW,L,26,POL,5,true,false,false,stamina,pace
+Jean Kevin Duverne,FB,L,29,HAI,6,false,false,false,tackling,passing
+Aime Omgba,MF,R,23,NED,7,false,false,false,pace,dribbling
+Franck Surdez,FW,L,24,SUI,2,false,false,false,pace,dribbling
+Wilfried Kanga,FW,L,28,CIV,5,false,false,false,stamina,pace
+Max Dean,FW,R,22,ENG,6,false,false,false,finishing,pace
+Siebe Van Der Heyden,CB,L,28,BEL,7,true,false,false,tackling,stamina
+Momodou Lamin Sonko,FW,L,21,SWE,7,false,false,false,pace,dribbling
+Tibe De Vlieger,FW,R,20,BEL,3,false,false,false,finishing,passing
+Gilles De Meyer,FB,R,19,BEL,5,false,false,false,pace,crossing
+Maksim Paskotsi,CB,R,23,BEL,6,true,false,false,tackling,marking
+Samuel Kotto,CB,L,23,CMR,7,false,false,false,pace,stamina
+Hatim Essaouabi,CB,R,25,MAR,6,false,false,false,heading,stamina
+Hyllarion Goore,FW,R,21,CIV,7,true,false,false,pace,dribbling
+Bram Lagae,CB,L,22,BEL,4,false,false,false,tackling,pace
+Stefan Mitrovic,CB,R,36,SRB,5,false,false,false,marking,heading
+Mohammed El Adfaoui,MF,L,18,BEL,6,false,false,false,stamina,dribbling
+Davy Roef,GK,R,32,BEL,8,true,false,false,positioning,reflexes
+Tom Vandenberghe,GK,R,34,BEL,2,false,false,false,positioning,reflexes
+Kjell Peersman,GK,R,22,BEL,5,false,false,false,rushing-out,reflexes

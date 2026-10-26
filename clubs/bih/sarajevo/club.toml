@@ -1,0 +1,13 @@
+name = "Sarajevo"
+country = "BIH"
+level = 16
+reputation = 3
+colors = ["#540909", "#ffffff"]
+
+[stadium]
+name = "Asim Hase"
+capacity = 35630
+
+[coach]
+name = "Fedja Dudic"
+country = "BIH"

@@ -1,0 +1,13 @@
+name = "Colorado Rapids"
+country = "USA"
+level = 13
+reputation = 3
+colors = ["#702020", "#FFFFFF"]
+
+[stadium]
+name = "Dick's Sporting Goods Park"
+capacity = 33680
+
+[coach]
+name = "Rafael Aaronson"
+country = "BRA"

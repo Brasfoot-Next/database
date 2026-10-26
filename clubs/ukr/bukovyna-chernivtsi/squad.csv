@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Danylo Kanevtsev,GK,R,29,UKR,10,false,false,false,positioning,reflexes
+German Penkov,GK,R,32,UKR,5,true,false,false,rushing-out,reflexes
+Danylo Karas,CB,R,29,UKR,6,true,false,false,tackling,stamina
+Mykyta Bezuglyi,CB,R,30,UKR,7,false,false,false,marking,heading
+Vladyslav Pryimak,CB,R,29,UKR,1,true,false,false,heading,stamina
+Andriy Busko,CB,R,29,UKR,5,false,false,false,heading,marking
+Petro Stasyuk,FB,L,31,UKR,6,true,false,false,pace,crossing
+Taras Sakiv,FB,L,28,UKR,7,false,false,false,pace,crossing
+Ilya Putrya,FB,R,28,UKR,2,true,false,false,tackling,stamina
+Edwin Odinaka,FB,R,22,NGA,5,false,false,false,tackling,marking
+Dmytro Shynkarenko,FB,L,26,UKR,4,false,false,false,marking,pace
+Vadym Vitenchuk,MF,L,29,UKR,5,true,false,false,passing,finishing
+Vyacheslav Tankovskyi,MF,R,30,UKR,6,true,false,false,dribbling,playmaking
+Fedir Babak,MF,R,19,UKR,1,false,false,false,stamina,passing
+Oleg Ilyin,MF,R,29,UKR,5,false,false,false,pace,crossing
+Vitaliy Dakhnovskyi,MF,L,27,UKR,5,true,false,false,pace,crossing
+Maksym Zaderaka,MF,R,31,UKR,6,true,false,false,playmaking,passing
+Vitaliy Grusha,MF,L,32,UKR,7,false,false,false,passing,tackling
+Ivan Tyshchenko,MF,R,28,UKR,3,false,false,false,marking,passing
+Arseniy Kilyevyi,MF,R,22,UKR,5,false,false,false,finishing,passing
+Mihael Klepac,FW,R,28,CRO,4,false,false,false,dribbling,finishing
+Yevgen Pidlepenets,FW,L,27,UKR,5,true,false,false,finishing,dribbling
+Bogdan Boychuk,FW,R,30,UKR,6,false,false,false,finishing,pace
+Oleg Kozhushko,FW,R,28,UKR,7,true,false,false,dribbling,finishing
+Maksym Voytikhovskyi,FW,L,27,UKR,4,false,false,false,playmaking,finishing

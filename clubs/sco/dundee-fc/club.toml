@@ -1,0 +1,13 @@
+name = "Dundee FC"
+country = "SCO"
+level = 8
+reputation = 2
+colors = ["#F0F0F0", "#001040"]
+
+[stadium]
+name = "Kilmac Stadium at Dens Park"
+capacity = 11850
+
+[coach]
+name = "Emile Hamilton"
+country = "BRA"

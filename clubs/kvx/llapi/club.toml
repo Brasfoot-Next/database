@@ -1,0 +1,13 @@
+name = "Llapi"
+country = "KVX"
+level = 14
+reputation = 1
+colors = ["#0066cc", "#ffffff"]
+
+[stadium]
+name = "Stadiumi Zahir Pajaziti"
+capacity = 8000
+
+[coach]
+name = "Tahir Batatina"
+country = "KVX"

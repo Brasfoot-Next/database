@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mathew Leckie,MF,R,35,AUS,5,true,false,false,pace,stamina
+Aziz Behich,FB,L,35,AUS,5,false,false,false,stamina,pace
+Andreas Kuen,MF,L,31,AUT,6,true,false,false,stamina,pace
+Nathaniel Atkinson,FB,R,27,AUS,7,true,false,false,stamina,pace
+Andrew Nabbout,FW,L,33,AUS,3,false,false,false,pace,dribbling
+Kai Trewin,CB,L,25,AUS,5,true,false,false,stamina,tackling
+German Ferreyra,CB,R,30,ARG,6,true,false,false,stamina,heading
+Samuel Souprayen,CB,L,37,FRA,7,false,false,false,stamina,heading
+Alessandro Lopane,MF,R,22,AUS,3,true,false,false,stamina,pace
+Takeshi Kanamori,FW,R,32,JPN,5,false,false,false,pace,stamina
+Max Caputo,FW,R,21,AUS,5,true,false,false,pace,finishing
+Zane Schreiber,MF,L,21,AUS,6,true,false,false,stamina,pace
+Medin Memeti,FW,R,19,AUS,7,false,false,false,pace,finishing
+Benjamin Mazzeo,FW,R,21,AUS,1,false,false,false,pace,stamina
+Emin Durakovic,FW,L,21,AUS,5,false,false,false,pace,dribbling
+Lawrence Wong,MF,L,18,AUS,6,false,false,false,pace,dribbling
+Kavian Rahmani,FW,L,19,AUS,7,true,false,false,pace,finishing
+Peter Antoniou,FB,R,19,AUS,2,false,false,false,stamina,dribbling
+Liam Bonetig,CB,R,21,AUS,5,false,false,false,stamina,pace
+Harrison Shillington,FB,R,21,AUS,6,true,false,false,dribbling,crossing
+Jayden Necovski,CB,R,18,AUS,10,false,false,false,pace,stamina
+Patrick Beach,GK,L,23,AUS,5,true,false,false,reflexes,penalty-saving
+Dakota Ochsenham,GK,R,26,AUS,6,false,false,false,rushing-out,reflexes
+James Nieuwenhuizen,GK,R,22,AUS,7,false,false,false,reflexes,penalty-saving

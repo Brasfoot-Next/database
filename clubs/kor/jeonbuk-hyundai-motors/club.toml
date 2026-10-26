@@ -1,0 +1,13 @@
+name = "Jeonbuk Hyundai Motors"
+country = "KOR"
+level = 12
+reputation = 2
+colors = ["#105030", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Seo Jin"
+country = "BRA"

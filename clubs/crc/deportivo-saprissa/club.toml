@@ -1,0 +1,13 @@
+name = "Deportivo Saprissa"
+country = "CRC"
+level = 15
+reputation = 3
+colors = ["#750b1b", "#ffffff"]
+
+[stadium]
+name = "Ricardo Saprissa"
+capacity = 23281
+
+[coach]
+name = "Jeaustin Campos"
+country = "CRC"

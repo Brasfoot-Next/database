@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Will Ferry,FW,L,26,IRL,7,true,false,false,stamina,pace
+Ryan Strain,FB,R,29,AUS,10,true,false,false,stamina,pace
+Panutche Camará,MF,L,29,GNB,5,true,false,false,pace,stamina
+Luca Stephenson,FW,R,22,ENG,6,true,false,false,stamina,pace
+Julius Eskesen,MF,R,27,DEN,7,true,false,false,stamina,playmaking
+Craig Sibbald,MF,L,31,SCO,1,true,false,false,stamina,pace
+Isaac Pappoe,MF,R,22,GHA,5,false,false,false,stamina,pace
+Ivan Dolcek,FW,L,26,CRO,5,false,false,false,pace,crossing
+Vicko Sevelj,MF,R,25,CRO,6,true,false,false,stamina,tackling
+Zac Sapsford,FW,R,24,AUS,7,false,false,false,pace,finishing
+Miller Thomson,FB,R,22,SCO,2,false,false,false,pace,passing
+Kristijan Trapanovski,FW,L,27,SCO,5,false,false,false,pace,dribbling
+Max Watters,FW,R,27,ENG,6,false,false,false,pace,stamina
+Nikolaj Moller,FW,R,24,SWE,7,false,false,false,heading,finishing
+Ross Graham,CB,L,25,SCO,3,true,false,false,heading,tackling
+Dario Naamo,FB,R,21,FIN,5,true,false,false,pace,stamina
+Lewis Odonnell,MF,R,21,SCO,6,false,false,false,pace,passing
+Bert Esselink,CB,R,27,NED,7,false,false,false,stamina,heading
+Amar Fatah,FW,L,22,SWE,3,false,false,false,pace,dribbling
+Owen Stirton,FW,R,19,SCO,5,false,false,false,finishing,pace
+Iurie Iovu,CB,R,24,SCO,1,true,false,false,heading,stamina
+Krisztian Keresztes,CB,L,26,HUN,4,false,false,false,heading,pace
+David Richards,GK,R,32,WAL,5,false,false,false,reflexes,rushing-out
+Yevgeniy Kucherenko,GK,L,27,UKR,7,true,false,false,penalty-saving,reflexes

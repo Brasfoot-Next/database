@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jorge Cabezudo,GK,R,24,PER,7,false,false,false,reflexes,penalty-saving
+Carlos Cáceda,GK,R,34,PER,2,true,false,false,rushing-out,reflexes
+Ricardo Farro,GK,R,41,PER,5,false,false,false,reflexes,rushing-out
+Facundo de la Cruz,GK,R,19,PER,6,false,false,false,positioning,penalty-saving
+Matías Lazo,CB,R,23,PER,7,true,false,false,tackling,marking
+Juan Escobar,CB,R,31,PAR,3,false,false,false,pace,heading
+Jesús Alcántar,CB,R,22,MEX,5,false,false,false,heading,tackling
+Alec Deneumostier,CB,L,27,PER,6,true,false,false,heading,marking
+Leonel González,CB,L,32,ARG,7,false,false,false,stamina,pace
+Nelson Cabanillas,FB,L,26,PER,3,true,false,false,pace,playmaking
+Ángel Obando,FB,L,20,PER,7,false,false,false,tackling,stamina
+Alejandro Ramos,FB,R,27,PER,3,true,false,false,stamina,pace
+Kevin Minda,MF,R,27,ECU,5,true,false,false,stamina,playmaking
+Walter Tandazo,MF,R,26,PER,6,true,false,false,stamina,playmaking
+Yimy Gamero,MF,L,24,PER,7,false,false,false,marking,tackling
+Horacio Orzán,MF,R,38,ARG,5,false,false,false,pace,stamina
+Keith Yáñez,MF,R,17,PER,6,false,false,false,dribbling,pace
+Marcos Portillo,MF,R,26,ARG,7,true,false,false,pace,dribbling
+Gian García,MF,R,20,PER,2,false,false,false,pace,passing
+Ian Arróspide,MF,R,17,PER,5,false,false,false,playmaking,finishing
+Nicolás Quagliata,MF,L,27,URU,7,true,false,false,finishing,passing
+Jefferson Cáceres,FW,L,23,PER,1,false,false,false,finishing,pace
+Matias Zegarra,FW,R,19,PER,5,false,false,false,finishing,heading
+Jhamir D'Arrigo,FW,L,26,PER,6,false,false,false,pace,finishing
+Abraham Aguinaga,FW,L,23,PER,7,false,false,false,dribbling,finishing
+Lautaro Guzmán,FW,L,26,ARG,2,false,false,false,pace,playmaking
+Franco Zanelatto,FW,L,26,PER,6,true,false,false,finishing,dribbling
+Cristian Bordacahar,FW,R,34,ARG,7,false,false,false,pace,dribbling
+Patricio Núñez,FW,R,19,PER,10,false,false,false,finishing,heading
+Jhonny Vidales,FW,R,34,PER,5,true,false,false,dribbling,finishing
+Nicolás Figueroa,FW,R,24,PER,6,false,false,false,pace,dribbling
+Bernardo Cuesta,FW,R,37,ARG,8,false,false,false,heading,finishing
+Ryu Yabiku,FW,R,19,PER,4,false,false,false,finishing,stamina

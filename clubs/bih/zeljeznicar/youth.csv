@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kadir Mujic,GK,L,17,BIH,4,false,false,false,reflexes,positioning
+Vernes Karavdic,GK,R,20,BIH,2,true,false,false,penalty-saving,rushing-out
+Eldar Mulaosmanovic,FB,L,16,BIH,5,true,false,false,crossing,marking
+Halid Dzanko,FB,R,16,BIH,4,true,false,false,pace,crossing
+Ensar Izetbegović ,FB,L,18,BIH,5,false,false,false,crossing,passing
+Benjamin Milanović,CB,R,19,BIH,7,false,false,false,marking,heading
+Amar Drina,CB,L,16,BIH,1,true,false,false,heading,tackling
+Ali Panjeta,CB,R,17,BIH,9,true,false,false,tackling,stamina
+Amar Music,MF,L,16,BIH,2,true,false,false,tackling,marking
+Hamza Gasal,MF,R,16,BIH,1,true,false,false,marking,finishing
+Medaris Hadzic,MF,L,17,BIH,4,true,false,false,passing,pace
+Faruk Durakovic,MF,R,16,BIH,9,true,false,false,playmaking,finishing
+Mirza Subo,FW,L,20,BIH,1,true,false,false,finishing,heading
+Bakir Salihovic,FW,R,17,BIH,7,false,false,false,stamina,finishing
+Šaban Omeragic,FW,L,17,BIH,3,false,false,false,dribbling,pace

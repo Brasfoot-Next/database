@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Makhammadaliev,GK,L,28,AZE,3,true,false,false,penalty-saving,reflexes
+Luka Gugeshashvili,GK,L,23,GEO,3,false,false,false,reflexes,positioning
+Ayhan Arazly,GK,R,21,AZE,10,false,false,false,penalty-saving,reflexes
+Medvedev,FB,R,32,AZE,4,true,false,false,marking,passing
+Abbas Hüseynov,FB,L,27,AZE,6,false,false,false,marking,finishing
+Elvin Cafarquliyev,FB,L,21,AZE,5,true,false,false,finishing,passing
+Toral Bayramov,FB,R,21,AZE,9,false,false,false,finishing,pace
+Kevin Medina,CB,L,29,COL,9,true,false,false,tackling,heading
+Bahlul Mustafazada,CB,R,25,AZE,10,true,false,false,marking,pace
+Badavi Hüseynov,CB,R,31,AZE,3,false,false,false,tackling,heading
+Rahil Mammadov,CB,L,26,AZE,9,false,false,false,tackling,heading
+Gara Garayev,MF,L,29,AZE,8,true,false,false,marking,pace
+Filip Ozobic,MF,L,31,CRO,7,true,false,false,playmaking,pace
+Ismayil Ibrahimli,MF,R,24,AZE,1,false,false,false,playmaking,pace
+Leandro Andrade,MF,L,22,CPV,5,false,false,false,playmaking,passing
+Richard,MF,R,33,AZE,2,true,false,false,tackling,marking
+Marko Jankovic,MF,R,27,MNE,10,true,false,false,passing,finishing
+Júlio Romão,MF,L,24,BRA,3,false,false,false,marking,pace
+Abdellah Zoubir,FW,L,30,FRA,6,true,false,false,pace,crossing
+Kady,FW,R,26,BRA,5,true,false,false,heading,pace
+Ramil Sheydayev,FW,L,26,AZE,2,false,false,false,pace,finishing
+Ibrahima Wadji,FW,R,27,SEN,5,false,false,false,dribbling,finishing

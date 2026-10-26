@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Hayate Tanaka,GK,R,27,JPN,5,true,false,false,positioning,reflexes
+Seung-gyu Kim,GK,L,35,JPN,6,false,false,false,positioning,reflexes
+Wataru Goto,GK,R,20,JPN,7,false,false,false,reflexes,rushing-out
+Alexander Scholz,CB,R,33,DEN,1,true,false,false,tackling,heading
+Hayato Inamura,CB,L,24,JPN,5,true,false,false,passing,pace
+Rio Omori,CB,R,23,JPN,6,false,false,false,marking,tackling
+Shuto Nagano,CB,R,20,JPN,7,false,false,false,marking,tackling
+Masato Morishige,CB,R,21,JPN,2,false,false,false,heading,stamina
+Kento Hashimoto,FB,L,26,JPN,5,true,false,false,tackling,pace
+Kashif Bangnagande,FB,R,24,JPN,6,false,false,false,pace,tackling
+Yuto Nagatomo,FB,R,33,JPN,6,false,false,false,stamina,pace
+Hirokazu Ishihara,FB,R,27,JPN,7,true,false,false,marking,pace
+Sei Muroya,FB,R,32,JPN,3,false,false,false,stamina,pace
+Takahiro Ko,MF,R,28,JPN,5,true,false,false,playmaking,passing
+Kento Hashimoto,MF,R,32,JPN,6,true,false,false,passing,finishing
+Kyota Tokiwa,MF,R,24,JPN,7,true,false,false,playmaking,dribbling
+Kaede Suzuki,MF,R,19,JPN,5,false,false,false,playmaking,passing
+Soma Anzai,MF,R,23,JPN,6,false,false,false,pace,crossing
+Yuta Sugawara,MF,R,18,JPN,7,false,false,false,pace,crossing
+Shion Homma,MF,L,25,JPN,1,true,false,false,pace,crossing
+Kio Tanaka,MF,L,18,JPN,5,false,false,false,finishing,playmaking
+Kota Tawaratsumida,FW,R,22,JPN,6,false,false,false,crossing,pace
+Kein Sato,FW,R,25,JPN,9,true,false,false,crossing,pace
+Fuki Yamada,FW,R,25,JPN,5,false,false,false,playmaking,finishing
+Teruhito Nakagawa,FW,R,33,JPN,6,false,false,false,heading,finishing
+Marcelo Ryan,FW,R,24,BRA,7,true,false,false,crossing,pace
+Motoki Nagakura,FW,R,26,JPN,1,false,false,false,dribbling,finishing
+Tsuyoshi Ogashiwa,FW,L,28,JPN,5,false,false,false,finishing,stamina
+Divine Chinedu Otani,FW,L,19,JPN,6,false,false,false,heading,finishing

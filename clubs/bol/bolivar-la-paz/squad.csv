@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Juan Jose Lopez,GK,R,19,BOL,5,false,false,false,positioning,reflexes
+Carlos Lampe,GK,R,39,BOL,6,false,false,false,positioning,reflexes
+Diego Méndez,GK,R,35,BOL,7,true,false,false,positioning,reflexes
+Xavier Arreaga,CB,R,31,ECU,3,false,false,false,stamina,heading
+Leonardo Zabala,CB,R,24,BOL,5,true,false,false,tackling,stamina
+José Sagredo,CB,L,32,BOL,6,true,false,false,pace,stamina
+Fernando Mena,CB,R,17,BOL,7,false,false,false,tackling,stamina
+Santiago Echeverría,CB,R,36,ARG,8,false,false,false,tackling,marking
+Heiden Butrón,FB,R,20,BOL,4,false,false,false,stamina,crossing
+Luis Paz,FB,R,22,BOL,5,true,false,false,pace,tackling
+Escleizon Freita,FB,R,19,BOL,5,false,false,false,passing,stamina
+Jesús Sagredo,FB,L,32,BOL,6,true,false,false,tackling,marking
+Ervin Vaca,MF,L,22,BOL,7,true,false,false,passing,stamina
+Carlos Sejas,MF,R,22,BOL,3,true,false,false,playmaking,passing
+Matías Galindo,MF,R,20,BOL,5,false,false,false,stamina,passing
+Anderson Ayhuana,MF,R,20,BOL,6,false,false,false,stamina,pace
+Robson Matheus,MF,L,24,BOL,7,true,false,false,stamina,pace
+Leonel Justiniano,MF,R,34,BOL,4,false,false,false,stamina,tackling
+Erwin Saavedra,MF,R,30,BOL,5,false,false,false,stamina,pace
+Jhon Velásquez,MF,R,23,BOL,6,false,false,false,pace,dribbling
+John García,MF,R,26,BOL,5,false,false,false,dribbling,passing
+Carlos Melgar,MF,L,31,BOL,6,true,false,false,passing,stamina
+Lucas Chávez,MF,R,23,BOL,7,false,false,false,passing,finishing
+Billy Arce,FW,R,28,ECU,2,true,false,false,pace,dribbling
+Pato Rodríguez,FW,L,36,ARG,5,false,false,false,dribbling,finishing
+Dairon Asprilla,FW,L,34,COL,6,false,false,false,pace,heading
+Bruno Miranda,FW,R,28,BOL,7,false,false,false,heading,stamina
+Dorny Romero,FW,L,28,BOL,3,true,false,false,heading,finishing
+Martín Cauteruccio,FW,R,39,URU,5,false,false,false,heading,finishing

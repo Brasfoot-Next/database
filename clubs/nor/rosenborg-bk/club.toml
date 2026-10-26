@@ -1,0 +1,13 @@
+name = "Rosenborg BK"
+country = "NOR"
+level = 12
+reputation = 2
+colors = ["#000000", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Sander Nemcik"
+country = "BRA"

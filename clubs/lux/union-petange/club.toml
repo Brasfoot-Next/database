@@ -1,0 +1,13 @@
+name = "Union Pétange"
+country = "LUX"
+level = 13
+reputation = 1
+colors = ["#ffffff", "#003399"]
+
+[stadium]
+name = "Stade Municipal"
+capacity = 2520
+
+[coach]
+name = "Yannick Kakoko"
+country = "GER"

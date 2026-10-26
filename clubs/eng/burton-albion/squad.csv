@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+George Evans,MF,R,31,ENG,6,false,false,false,tackling,marking
+Charlie Webster,MF,R,22,ENG,7,false,false,false,dribbling,passing
+James Jones,MF,R,30,SCO,2,true,false,false,pace,stamina
+Jj Mckiernan,MF,R,24,NIR,5,true,false,false,pace,stamina
+Kegs Chauke,MF,L,23,ENG,6,false,false,false,stamina,pace
+Jack Armer,FW,L,25,SCO,7,true,false,false,stamina,pace
+Tyrese Shade,FW,L,26,SKN,2,true,false,false,pace,stamina
+Ciaran Gilligan,MF,R,24,IRL,5,true,false,false,pace,stamina
+Fábio Tavares,FW,L,25,POR,6,false,false,false,pace,dribbling
+Jake Beesley,FW,R,29,ENG,7,false,false,false,pace,heading
+Udoka Godwin Malife,CB,R,26,ENG,6,false,false,false,pace,stamina
+Terence Vancooten,CB,R,28,GUY,7,false,false,false,stamina,pace
+Kyran Lofthouse,FW,R,25,ENG,5,false,false,false,pace,stamina
+Dylan Williams,FB,L,22,ENG,6,false,false,false,pace,stamina
+Toby Sibbick,CB,L,27,UGA,6,true,false,false,pace,stamina
+Alex Hartridge,CB,L,27,ENG,10,true,false,false,stamina,pace
+Sebastian Revan,FB,L,23,ENG,5,true,false,false,tackling,dribbling
+Jack Hazlehurst,MF,R,26,ENG,6,true,false,false,pace,dribbling
+Julian Larsson,FW,R,25,SWE,7,false,false,false,pace,finishing
+Nick Akoto,FB,R,27,USA,1,true,false,false,pace,tackling
+Jack Newall,FW,R,19,ENG,5,false,false,false,pace,finishing
+Josh Taroni,MF,L,19,ENG,6,false,false,false,pace,stamina
+Jasper Moon,CB,R,25,ENG,8,false,false,false,stamina,tackling
+Jason Sraha,CB,L,23,ENG,5,false,false,false,pace,marking
+Finn Delap,CB,R,21,ENG,6,false,false,false,stamina,pace
+Brad Collins,GK,R,29,ENG,7,false,false,false,reflexes,penalty-saving
+Harry Isted,GK,R,29,ENG,4,false,false,false,reflexes,penalty-saving
+Jordan Amissah,GK,R,25,GHA,5,true,false,false,reflexes,penalty-saving
+Kamil Dudek,GK,R,20,POL,6,false,false,false,reflexes,penalty-saving

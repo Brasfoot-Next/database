@@ -1,0 +1,13 @@
+name = "Portland Timbers"
+country = "USA"
+level = 14
+reputation = 3
+colors = ["#006040", "#F0F0F0"]
+
+[stadium]
+name = "Providence Park"
+capacity = 25218
+
+[coach]
+name = "Cristhian Muse"
+country = "BRA"

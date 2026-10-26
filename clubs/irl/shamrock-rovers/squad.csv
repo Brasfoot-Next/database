@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Danny Mandroiu,MF,R,27,IRL,7,true,false,false,playmaking,crossing
+Aaron Mceneff,MF,R,31,IRL,3,false,false,false,stamina,passing
+Dylan Watts,MF,R,29,IRL,5,true,false,false,stamina,passing
+Gary Oneill,MF,R,31,IRL,6,false,false,false,stamina,passing
+Connor Malley,MF,R,26,ENG,7,true,false,false,stamina,passing
+Graham Burke,FW,L,32,IRL,4,false,false,false,stamina,dribbling
+Adam Matthews,FB,R,34,WAL,5,false,false,false,crossing,playmaking
+Matt Healy,MF,L,24,IRL,6,false,false,false,stamina,passing
+Trevor Clarke,FW,L,28,IRL,7,true,false,false,pace,crossing
+Josh Honohan,FB,L,25,IRL,4,true,false,false,pace,stamina
+Danny Grant,FB,R,26,IRL,5,true,false,false,pace,stamina
+Darragh Nugent,MF,R,25,IRL,5,true,false,false,stamina,tackling
+Aaron Greene,FW,L,36,IRL,6,false,false,false,finishing,heading
+Rory Gaffney,FW,R,36,IRL,8,false,false,false,heading,finishing
+Michael Noonan,FW,L,18,IRL,4,false,false,false,pace,stamina
+Daniel Cleary,CB,R,30,IRL,5,true,false,false,stamina,heading
+Roberto Lopes,CB,R,34,CPV,6,false,false,false,stamina,heading
+Cory Osullivan,CB,L,20,IRL,8,false,false,false,pace,stamina
+John Mcgovern,FW,R,23,NIR,4,true,false,false,pace,finishing
+Lee Grace,CB,L,33,IRL,6,true,false,false,heading,marking
+Cian Barrett,CB,R,21,IRL,7,false,false,false,pace,stamina
+Egor Vassenin,FB,L,18,IRL,3,false,false,false,pace,stamina
+Max Kovalevskis,FW,L,18,IRL,4,false,false,false,pace,dribbling
+Ed Mcginty,GK,L,27,IRL,5,true,false,false,penalty-saving,reflexes
+Lee Steacy,GK,R,33,IRL,6,false,false,false,positioning,rushing-out
+Alex Noonan,GK,R,18,IRL,8,false,false,false,reflexes,rushing-out

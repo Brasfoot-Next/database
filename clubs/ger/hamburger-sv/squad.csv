@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Miro Muheim,FB,L,28,SUI,5,true,false,false,stamina,passing
+Nicolas Capaldo,MF,R,27,ARG,6,true,false,false,stamina,pace
+Fábio Vieira,MF,L,26,POR,7,true,false,false,playmaking,passing
+Albert Sambi Lokonga,MF,R,26,BEL,1,true,false,false,passing,dribbling
+Yussuf Poulsen,FW,R,32,DEN,5,false,false,false,heading,stamina
+Nicolai Remberg,MF,L,26,GER,6,true,false,false,stamina,tackling
+Jean Luc Dompe,FW,L,31,FRA,8,false,false,false,dribbling,crossing
+Emir Sahiti,FW,R,27,GER,5,false,false,false,dribbling,pace
+Giorgi Gocholeishvili,FB,R,25,GEO,6,false,false,false,pace,stamina
+Levin Oztunali,FW,R,30,GER,7,false,false,false,pace,dribbling
+Ransford Yeboah Konigsdorffer,FW,R,24,GHA,6,false,false,false,pace,dribbling
+Bakery Jatta,FW,R,28,GAM,7,false,false,false,stamina,pace
+Silvan Hefti,FB,R,28,SUI,9,false,false,false,marking,heading
+Daniel Elfadli,CB,R,29,GER,5,false,false,false,stamina,marking
+Jordan Torunarigha,CB,L,29,NGA,6,false,false,false,pace,heading
+Jonas Meffert,MF,R,32,GER,7,false,false,false,stamina,passing
+Luka Vuskovic,CB,R,19,CRO,10,true,false,false,heading,passing
+Rayan Philippe,FW,L,25,FRA,5,true,false,false,pace,stamina
+Immanuel Pherai,MF,R,25,SUR,6,false,false,false,pace,dribbling
+William Mikelbrencis,FB,R,22,FRA,7,true,false,false,pace,stamina
+Noah Katterbach,FB,L,25,GER,10,false,false,false,dribbling,tackling
+Robert Glatzel,FW,R,32,GER,5,false,false,false,heading,finishing
+Warmed Omari,CB,R,26,GER,6,true,false,false,tackling,heading
+Fabio Balde,FW,L,21,GER,7,true,false,false,pace,dribbling
+Guilherme Ramos,CB,R,29,POR,1,false,false,false,heading,tackling
+Aboubaka Soumahoro,CB,L,21,FRA,5,false,false,false,pace,tackling
+Bilal Yalcinkaya,MF,R,20,GER,6,false,false,false,pace,dribbling
+Alexander Rossing Lelesiit,FW,L,19,NOR,7,false,false,false,pace,dribbling
+Daniel Heuer Fernandes,GK,R,33,POR,2,false,false,false,reflexes,penalty-saving
+Daniel Peretz,GK,R,26,GER,5,true,false,false,reflexes,rushing-out
+Fernando Dickes,GK,L,18,GER,7,false,false,false,penalty-saving,reflexes
+Hannes Hermann,GK,R,21,GER,5,false,false,false,reflexes,positioning

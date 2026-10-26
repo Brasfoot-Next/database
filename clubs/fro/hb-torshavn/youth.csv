@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Bjarti Vitalis Mörk,GK,R,17,FRO,5,true,false,false,penalty-saving,rushing-out
+Eivindur Isaksen,GK,L,19,FRO,7,false,false,false,positioning,reflexes
+Gundur Bærentsen,FB,R,17,FRO,5,false,false,false,crossing,tackling
+Jarmundur Mohr,FB,L,16,FRO,2,false,false,false,pace,crossing
+Tóki Haugaard,FB,R,18,FRO,7,false,false,false,crossing,passing
+Hámundur Landt,CB,L,19,FRO,9,false,false,false,stamina,marking
+Gutti Háberg,CB,R,17,FRO,10,false,false,false,heading,tackling
+Hannes Oskarsson,CB,L,18,FRO,6,false,false,false,marking,heading
+Edvard Krogh,MF,R,18,FRO,3,false,false,false,dribbling,passing
+Brynleivur Thomsen,MF,L,16,FRO,9,false,false,false,playmaking,dribbling
+Mikal Ólavsson,MF,R,17,FRO,2,false,false,false,marking,finishing
+Jóhan Eidesgaard,MF,L,16,FRO,2,false,false,false,tackling,pace
+Hákun Tausen,FW,R,19,FRO,5,false,false,false,pace,dribbling
+Gudleygur Mikines,FW,L,18,FRO,10,false,false,false,finishing,heading
+Bessi Bronck,FW,R,17,FRO,3,false,false,false,finishing,passing

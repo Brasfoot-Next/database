@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tom Glover,GK,R,28,AUS,5,true,false,false,positioning,rushing-out
+Takashi Kasahara,GK,R,37,JPN,6,false,false,false,reflexes,penalty-saving
+Ko Shimura,GK,R,29,JPN,7,false,false,false,positioning,penalty-saving
+Manafu Wakabayashi,GK,R,22,JPN,2,false,false,false,positioning,reflexes
+Ryuya Nishio,CB,R,25,JPN,5,true,false,false,stamina,heading
+Gabriel,CB,R,31,BRA,6,false,false,false,passing,marking
+Kaishin Sekiguchi,CB,R,24,JPN,7,false,false,false,passing,marking
+Yusei Ozaki,CB,R,22,JPN,3,false,false,false,tackling,marking
+Osamu Henry Iyoha,CB,R,28,JPN,5,true,false,false,passing,marking
+Yosuke Murakami,CB,R,24,JPN,6,false,false,false,marking,tackling
+Yoshito Kumada,CB,R,24,JPN,6,false,false,false,heading,passing
+Hijiri Kato,FB,R,24,JPN,7,true,false,false,tackling,pace
+Rikiya Motegi,FB,L,29,JPN,3,true,false,false,pace,tackling
+Sunao Kidera,FB,R,17,JPN,5,false,false,false,marking,crossing
+Masato Kojima,MF,R,29,JPN,6,true,false,false,passing,stamina
+Kauã Diniz,MF,R,22,BRA,7,true,false,false,dribbling,pace
+Kota Nakayama,MF,R,24,JPN,5,true,false,false,passing,stamina
+Gen Kato,MF,R,23,JPN,6,true,false,false,finishing,playmaking
+Taito Kanda,MF,R,18,JPN,7,false,false,false,passing,playmaking
+Yuzuki Kobayashi,MF,R,18,JPN,2,false,false,false,pace,crossing
+Ota Yamamoto,MF,R,22,JPN,6,false,false,false,stamina,tackling
+Toya Izumi,FW,R,25,JPN,7,false,false,false,finishing,heading
+Carlinhos Junior,FW,R,31,BRA,1,true,false,false,dribbling,finishing
+Caprini,FW,R,28,BRA,5,false,false,false,finishing,stamina
+Suphanat Mueanta,FW,R,23,JPN,6,true,false,false,heading,pace
+Yuta Toyokawa,FW,R,31,JPN,7,false,false,false,crossing,pace
+Oriola Sunday,FW,R,23,NGA,1,false,false,false,finishing,heading
+Hajime Hidaka,FW,R,18,JPN,4,false,false,false,crossing,pace
+Kenyu Sugimoto,FW,R,33,JPN,5,false,false,false,finishing,heading
+Jelani McGhee,FW,R,17,JPN,6,false,false,false,heading,finishing

@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ítalo Espinoza,GK,R,30,PER,4,false,false,false,rushing-out,positioning
+Gonzalo Falcón,GK,R,29,URU,5,true,false,false,positioning,penalty-saving
+Jean Franco Roncal,GK,R,21,PER,6,false,false,false,penalty-saving,reflexes
+Kevin Becerra,CB,R,30,ECU,7,true,false,false,heading,stamina
+Claudio Nuñez,CB,R,30,PAR,4,false,false,false,passing,marking
+Rotceh Aguilar,CB,R,25,PER,5,true,false,false,stamina,heading
+Maximiliano Amondarain,CB,R,33,URU,6,false,false,false,tackling,marking
+Alonso Yovera,FB,L,25,PER,8,true,false,false,marking,crossing
+Sebastián Cavero,FB,R,24,PER,4,false,false,false,dribbling,pace
+Marcos Martinich,FB,L,29,ARG,6,true,false,false,crossing,passing
+Renzo Salazar,FB,R,23,PER,7,false,false,false,dribbling,pace
+Santiago Arias,MF,R,31,URU,1,true,false,false,stamina,tackling
+Henry Caparó,MF,R,21,PER,5,false,false,false,tackling,pace
+Gerson Barreto,MF,R,30,PER,6,true,false,false,pace,dribbling
+Gonzalo Aguirre,MF,R,23,PER,7,true,false,false,passing,dribbling
+Ademar Robles,MF,R,31,PER,1,true,false,false,tackling,marking
+Alejandro Hohberg,FW,R,35,PER,5,false,false,false,pace,dribbling
+Ray Sandoval,FW,R,31,PER,6,false,false,false,pace,dribbling
+Yván Rojas,FW,R,18,PER,7,false,false,false,playmaking,finishing
+Carlos Cabello,FW,R,28,PER,2,true,false,false,finishing,heading
+Juan Romagnoli,FW,R,30,ARG,7,false,false,false,finishing,dribbling
+Didier La Torre,FW,R,24,PER,3,false,false,false,playmaking,finishing
+Cristian Souza,FW,L,31,URU,4,false,false,false,pace,crossing
+Matías Succar,FW,L,27,PER,5,false,false,false,pace,finishing
+Carlos Garcés,FW,R,36,ECU,6,true,false,false,heading,finishing
+Neri Bandiera,FW,L,37,ARG,7,false,false,false,finishing,stamina
+Nadhir Colunga,FW,L,22,PER,4,false,false,false,finishing,pace

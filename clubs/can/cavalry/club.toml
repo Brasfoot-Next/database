@@ -1,0 +1,13 @@
+name = "Cavalry"
+country = "CAN"
+level = 13
+reputation = 2
+colors = ["#cc0033", "#ffffff"]
+
+[stadium]
+name = "Atco Field"
+capacity = 6000
+
+[coach]
+name = "Tommy Wheeldon"
+country = "ENG"

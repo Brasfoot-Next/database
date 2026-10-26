@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Guillaume Cappa,GK,R,28,FRA,7,true,false,false,rushing-out,penalty-saving
+Andrea Amodio,GK,L,25,LUX,2,false,false,false,reflexes,positioning
+Rémy Pereira,GK,R,22,LUX,3,false,false,false,positioning,penalty-saving
+Geoffrey Franzoni,FB,R,31,FRA,5,true,false,false,crossing,marking
+Dylan Lempereur,FB,L,23,FRA,9,true,false,false,marking,finishing
+Gianluca Bei,FB,R,27,LUX,10,false,false,false,marking,passing
+Théo Brusco,CB,R,22,FRA,4,true,false,false,tackling,marking
+Juan Bedouret,CB,L,23,ARG,4,false,false,false,marking,pace
+Ulisses Oliveira,CB,L,33,BRA,3,true,false,false,tackling,marking
+Manuel Pami,CB,R,23,GNB,5,false,false,false,heading,stamina
+Kevin d'Anzico,MF,L,21,LUX,10,true,false,false,marking,finishing
+Kilian Gulluni,MF,R,23,FRA,10,false,false,false,tackling,marking
+Lima,MF,R,20,LUX,5,true,false,false,tackling,pace
+Marcelino,MF,R,25,GNB,2,true,false,false,marking,finishing
+Guillaume Trani,MF,L,24,FRA,10,true,false,false,finishing,passing
+Tyrone Tavares,MF,R,20,LUX,1,false,false,false,playmaking,pace
+Asim Huskic,MF,L,18,LUX,2,false,false,false,finishing,passing
+Moreira,MF,R,20,LUX,10,false,false,false,finishing,passing
+Barbosa,FW,R,30,POR,4,true,false,false,dribbling,finishing
+Gonçalo Almeida,FW,L,31,LUX,7,true,false,false,finishing,dribbling
+Moussa Maazou,FW,R,33,NIG,4,false,false,false,finishing,dribbling
+Laurent Pomponi,FW,L,26,FRA,7,false,false,false,dribbling,finishing

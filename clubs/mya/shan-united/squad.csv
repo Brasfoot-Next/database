@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Set Aung,GK,R,21,MYA,3,true,false,false,positioning,penalty-saving
+Richard Zhang,GK,R,20,MYA,3,false,false,false,positioning,penalty-saving
+Myint Aris,GK,R,22,MYA,6,false,false,false,reflexes,positioning
+Hein Mann,FB,R,25,MYA,9,true,false,false,crossing,pace
+Jimmy Hu,FB,L,24,MYA,8,true,false,false,marking,passing
+Michael Oo,FB,L,19,MYA,1,false,false,false,marking,pace
+Ronald Htun,CB,R,19,MYA,2,true,false,false,tackling,heading
+Ba Zhao,CB,L,21,MYA,2,true,false,false,tackling,heading
+Tihamér Min,CB,R,26,MYA,10,false,false,false,heading,stamina
+Sara Oo,CB,L,26,MYA,3,false,false,false,marking,pace
+Ba Maung,MF,L,27,MYA,7,true,false,false,tackling,marking
+Moe Min,MF,R,28,MYA,9,true,false,false,tackling,heading
+Sara Aung,MF,R,18,MYA,7,true,false,false,marking,finishing
+Sara Crampton,MF,R,29,MYA,6,true,false,false,passing,playmaking
+Stanley Bao,MF,R,18,MYA,3,false,false,false,playmaking,pace
+Myint Khin,MF,R,28,MYA,8,false,false,false,passing,finishing
+John Aung,FW,R,18,MYA,10,true,false,false,pace,finishing
+Peter Bao,FW,L,19,MYA,2,true,false,false,pace,finishing
+Moe Aung,FW,R,23,MYA,2,false,false,false,pace,finishing
+Eike Oo,FW,L,19,MYA,3,false,false,false,heading,pace

@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nikolay Krastev,GK,R,29,BUL,4,true,false,false,positioning,rushing-out
+Vladimir Ivanov,GK,R,21,BUL,6,false,false,false,positioning,reflexes
+Martin Hristov,CB,L,22,BUL,7,false,false,false,heading,passing
+Valentine Ozornwafor,CB,R,27,NGA,1,true,false,false,tackling,pace
+Sebas Wade,CB,R,23,ENG,5,true,false,false,stamina,heading
+Bozhidar Tomovski,FB,R,21,BUL,6,true,false,false,dribbling,pace
+Kubrat Onasci,MF,L,20,BUL,7,false,false,false,dribbling,pace
+Yoan Baurenski,MF,R,24,BUL,2,true,false,false,pace,dribbling
+Zahari Atanasov,MF,R,21,BUL,5,false,false,false,passing,stamina
+Pedro Ferreira,MF,R,28,POR,6,true,false,false,stamina,tackling
+Stoyan Stoichkov,MF,R,22,BUL,7,true,false,false,passing,playmaking
+Bozhidar Penchev,MF,R,24,BUL,2,true,false,false,dribbling,playmaking
+Preslav Georgiev,MF,R,20,BUL,5,false,false,false,passing,playmaking
+Nicolas Fontaine,FW,L,26,BUL,6,true,false,false,pace,crossing
+Faiz Mattoir,FW,R,26,BUL,7,true,false,false,playmaking,finishing
+Aleksandar Dzhamov,FW,R,18,BUL,2,false,false,false,finishing,stamina
+Frantzety Herard,FW,L,24,HAI,5,false,false,false,pace,finishing
+Galin Ivanov,FW,R,38,BUL,5,false,false,false,pace,dribbling
+Bertrand Fourrier,FW,R,28,FRA,6,true,false,false,dribbling,finishing
+André Liberal,FW,R,23,POR,7,false,false,false,crossing,pace
+Edney Ribeiro,FW,R,25,POR,6,false,false,false,heading,stamina

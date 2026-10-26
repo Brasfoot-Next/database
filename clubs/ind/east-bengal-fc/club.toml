@@ -1,0 +1,13 @@
+name = "East Bengal FC"
+country = "IND"
+level = 6
+reputation = 1
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Anwar Silva"
+country = "BRA"

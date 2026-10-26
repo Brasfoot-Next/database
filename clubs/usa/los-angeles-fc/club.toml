@@ -1,0 +1,13 @@
+name = "Los Angeles FC"
+country = "USA"
+level = 15
+reputation = 3
+colors = ["#101010", "#B09060"]
+
+[stadium]
+name = "BMO Stadium"
+capacity = 22000
+
+[coach]
+name = "Hugo Wibowo"
+country = "BRA"

@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ivan,GK,R,29,BRA,4,true,false,false,reflexes,positioning
+Marcelo Rangel,GK,R,38,BRA,6,false,false,false,reflexes,rushing-out
+Ygor Vinhas,GK,R,32,BRA,6,false,false,false,positioning,reflexes
+Tchamba,CB,R,28,CMR,7,true,false,false,tackling,pace
+Thalisson,CB,R,24,BRA,4,true,false,false,marking,passing
+Léo Andrade,CB,R,28,BRA,5,false,false,false,heading,marking
+Marllon,CB,L,34,BRA,6,false,false,false,marking,stamina
+Cristian Tassano,CB,L,29,URU,7,false,false,false,marking,heading
+Braian Cufré,FB,L,29,ARG,8,true,false,false,stamina,pace
+Mayk,FB,R,26,BRA,5,false,false,false,tackling,pace
+Edson Kauã,FB,R,22,BRA,5,false,false,false,crossing,pace
+João Lucas,FB,R,28,BRA,6,true,false,false,pace,tackling
+Matheus Alexandre,FB,L,27,BRA,7,false,false,false,marking,crossing
+Marcelinho,FB,R,27,BRA,9,false,false,false,stamina,crossing
+Caio Magalhães,FB,L,21,BRA,5,false,false,false,crossing,passing
+Leonel Picco,MF,L,27,ARG,6,true,false,false,stamina,passing
+Zé Welison,MF,R,31,BRA,7,true,false,false,dribbling,pace
+David Braga,MF,L,24,BRA,10,true,false,false,dribbling,pace
+Edson Fernando,MF,R,28,BRA,5,false,false,false,tackling,marking
+Zé Ricardo,MF,R,27,BRA,6,false,false,false,passing,stamina
+Patrick,MF,R,33,BRA,5,false,false,false,passing,tackling
+Franco Catarozzi,MF,L,26,URU,6,false,false,false,stamina,pace
+Vitor Bueno,MF,R,31,BRA,7,true,false,false,finishing,passing
+Jajá,FW,L,27,BRA,7,true,false,false,finishing,pace
+Jáderson,FW,R,25,BRA,5,false,false,false,finishing,stamina
+Alef Manga,FW,R,31,BRA,6,false,false,false,pace,dribbling
+Yago Pikachu,FW,R,34,BRA,7,false,false,false,heading,stamina
+Tico,FW,R,19,BRA,8,false,false,false,dribbling,pace
+Gabriel Taliari,FW,R,29,BRA,5,true,false,false,pace,finishing
+Rafael Monti,FW,L,26,ARG,6,false,false,false,heading,pace
+Gabriel Poveda,FW,R,28,BRA,6,false,false,false,heading,stamina
+Eduardo Melo,FW,R,25,BRA,7,false,false,false,heading,pace

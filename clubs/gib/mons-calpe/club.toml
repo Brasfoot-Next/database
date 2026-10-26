@@ -1,0 +1,13 @@
+name = "Mons Calpe"
+country = "GIB"
+level = 12
+reputation = 1
+colors = ["#cc0000", "#ffffff"]
+
+[stadium]
+name = "Victoria Stadium"
+capacity = 5000
+
+[coach]
+name = "Allen Bula"
+country = "GIB"

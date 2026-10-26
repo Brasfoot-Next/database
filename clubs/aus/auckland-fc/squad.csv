@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jake Brimmer,MF,R,28,MLT,3,true,false,false,stamina,crossing
+Louis Verstraete,MF,L,27,BEL,5,true,false,false,stamina,playmaking
+Hiroki Sakai,FB,R,36,JPN,6,false,false,false,stamina,pace
+Francis De Vries,FB,L,31,NZL,7,true,false,false,stamina,crossing
+Felipe Gallegos,MF,L,34,CHI,3,false,false,false,stamina,pace
+Cameron Howieson,MF,L,31,NZL,4,true,false,false,stamina,pace
+Guillermo May,FW,L,28,URU,5,true,false,false,stamina,pace
+Logan Rogerson,FW,R,28,NZL,6,false,false,false,pace,stamina
+Callan Elliot,FB,R,27,NZL,9,true,false,false,stamina,pace
+Nando Pijnaker,CB,L,27,NZL,5,true,false,false,stamina,heading
+Lachlan Brook,FW,L,25,AUS,8,false,false,false,pace,dribbling
+Jesse Randall,FW,L,24,NZL,4,true,false,false,pace,dribbling
+Dan Hall,CB,R,27,AUS,5,false,false,false,pace,stamina
+Marlee Francois,FW,L,23,AUS,6,false,false,false,pace,dribbling
+Sam Cosgrove,FW,R,29,ENG,8,false,false,false,stamina,heading
+Adama Coulibaly,CB,R,21,NZL,4,true,false,false,pace,passing
+Liam Gillion,FW,L,23,NZL,5,false,false,false,pace,dribbling
+Finn Mckenlay,MF,R,21,NZL,6,true,false,false,playmaking,passing
+Oliver Middleton,MF,R,20,NZL,10,false,false,false,pace,playmaking
+Jonty Bidois,FW,R,21,NZL,5,false,false,false,pace,stamina
+Oliver Sail,GK,R,30,NZL,7,false,false,false,penalty-saving,reflexes
+Michael Woud,GK,L,27,NZL,3,true,false,false,penalty-saving,reflexes
+Joe Knowles,GK,R,21,NZL,5,false,false,false,reflexes,penalty-saving

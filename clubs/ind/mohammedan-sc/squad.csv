@@ -1,0 +1,19 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sudhiri Parekh,MF,R,30,IND,5,true,false,false,stamina,pace
+Mitar Majumdar,FW,L,34,IND,6,false,false,false,stamina,pace
+Gurdrep Dharr,MF,R,34,IND,4,true,false,false,playmaking,marking
+Hrithikit Iyengar,MF,R,38,IND,5,false,false,false,stamina,heading
+Indria Rayi,MF,L,30,IND,6,true,false,false,stamina,pace
+Nirayi Nagarr,FW,L,30,IND,7,true,false,false,pace,stamina
+Maniy Manne,MF,R,30,IND,4,true,false,false,stamina,heading
+Jajendya Goyal,FW,R,30,IND,5,true,false,false,stamina,playmaking
+Sanjit Divan,FW,R,30,IND,6,false,false,false,pace,stamina
+Parthy Dada,FW,L,34,IND,7,false,false,false,pace,heading
+Munir Radhakrishnann,FB,R,30,IND,5,true,false,false,tackling,stamina
+Many Srivastyava,FW,R,30,IND,6,false,false,false,pace,stamina
+Goni Prasad,FB,R,34,IND,8,true,false,false,stamina,pace
+Vishal Minghi,CB,L,30,IND,4,true,false,false,stamina,pace
+Abhaiy Bawwa,CB,R,30,IND,5,true,false,false,heading,marking
+Punyt Gokchale,CB,R,34,IND,6,false,false,false,stamina,crossing
+Hariy Sundaramm,GK,R,34,IND,8,true,false,false,penalty-saving,rushing-out
+Omar Bingwas,GK,R,34,IND,5,false,false,false,reflexes,penalty-saving

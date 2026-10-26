@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Dayle Coleing,GK,L,25,GIB,6,true,false,false,penalty-saving,reflexes
+Jesús Toscano,FB,L,31,ESP,5,true,false,false,marking,passing
+Scott Wiseman,FB,R,36,GIB,2,true,false,false,finishing,pace
+Kian Ronan,FB,R,21,GIB,5,false,false,false,crossing,marking
+Ethan Britto,FB,L,21,GIB,5,false,false,false,marking,pace
+Jack Sergeant,CB,L,27,GIB,6,true,false,false,marking,pace
+Bernardo Lopes,CB,R,28,POR,1,true,false,false,tackling,marking
+Roy Chipolina,CB,L,39,GIB,4,false,false,false,tackling,marking
+Mustapha Yahaya,MF,L,28,GHA,2,true,false,false,tackling,marking
+Graeme Torrilla,MF,R,24,GIB,4,true,false,false,tackling,marking
+Liam Walker,MF,L,34,GIB,4,true,false,false,passing,finishing
+Marco Rosa,MF,R,26,ESP,4,false,false,false,tackling,marking
+Javier Añón,MF,L,35,ESP,9,false,false,false,tackling,marking
+Kike Gómez,FW,R,28,PHI,2,true,false,false,pace,finishing
+Lee Casciaro,FW,L,40,GIB,7,false,false,false,dribbling,finishing
+Nauzet García,GK,L,28,ESP,5,false,false,false,reflexes,positioning
+Iván Villanueva,GK,L,26,ESP,9,false,false,false,reflexes,positioning
+Nano,MF,R,37,ESP,5,true,false,false,finishing,passing
+Kyle Clinton,MF,L,18,GIB,2,false,false,false,passing,finishing
+Lee Chipolina,MF,R,16,GIB,4,false,false,false,playmaking,pace
+Juanfri,FW,L,32,ESP,9,true,false,false,finishing,dribbling
+Juampe,FW,R,38,ESP,1,false,false,false,finishing,dribbling

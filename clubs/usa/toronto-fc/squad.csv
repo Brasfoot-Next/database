@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Djordje Mihailovic,MF,R,27,USA,6,true,false,false,stamina,playmaking
+Jose Cifuentes,MF,R,27,ECU,7,true,false,false,passing,stamina
+Maxime Dominguez,MF,L,30,SUI,4,false,false,false,stamina,passing
+Richie Laryea,FW,R,31,CAN,6,true,false,false,pace,stamina
+Jonathan Osorio,MF,R,34,CAN,7,true,false,false,passing,stamina
+Theo Corbeanu,FW,L,24,CAN,3,true,false,false,pace,dribbling
+Raoul Petretta,FB,L,29,ITA,5,false,false,false,pace,stamina
+Henry Wingo,FB,R,30,USA,6,false,false,false,pace,stamina
+Derrick Etienne Jr,FW,L,29,HAI,7,false,false,false,pace,dribbling
+Kosi Thompson,FB,R,23,CAN,3,true,false,false,pace,stamina
+Deandre Kerr,FW,R,23,CAN,7,false,false,false,pace,stamina
+Alonso Coello,MF,L,26,ESP,2,true,false,false,passing,stamina
+Markus Cimermancic,MF,L,21,CAN,5,false,false,false,pace,stamina
+Sigurd Rosted,CB,L,32,NOR,6,true,false,false,stamina,heading
+Kobe Franklin,FB,R,23,CAN,7,true,false,false,pace,stamina
+Kevin Long,CB,R,36,IRL,2,false,false,false,heading,marking
+Malik Henry,FW,R,24,CAN,5,false,false,false,pace,passing
+Nathaniel Edwards,FW,R,23,CAN,6,false,false,false,pace,dribbling
+Nicksoen Gomis,CB,L,24,FRA,7,false,false,false,pace,tackling
+Jules Anthony Vilsaint,FW,R,23,CAN,3,false,false,false,pace,heading
+Zane Monlouis,CB,R,22,JAM,6,true,false,false,pace,tackling
+Lazar Stefanovic,CB,R,20,CAN,8,false,false,false,pace,tackling
+Sean Johnson,GK,R,37,USA,4,false,false,false,reflexes,positioning
+Luka Gavran,GK,R,26,CAN,6,true,false,false,rushing-out,penalty-saving
+Adisa De Rosario,GK,R,21,CAN,7,false,false,false,positioning,rushing-out

@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Federico Zuccon,MF,R,23,ITA,6,false,false,false,passing,pace
+Fabio Maistro,MF,R,28,ITA,7,true,false,false,stamina,playmaking
+Giuseppe Leone,MF,R,25,ITA,4,false,false,false,stamina,passing
+Kevin Piscopo,MF,R,28,ITA,5,true,false,false,dribbling,pace
+Christian Pierobon,MF,R,24,ITA,6,false,false,false,stamina,passing
+Leonardo Candellone,FW,L,28,ITA,7,false,false,false,stamina,pace
+Thomas Battistella,MF,R,25,ITA,4,false,false,false,passing,pace
+Edoardo Duca,MF,R,29,ITA,5,false,false,false,pace,stamina
+Aaron Ciammaglichella,MF,R,21,ITA,6,true,false,false,tackling,passing
+Lorenzo Carissoni,FW,R,29,ITA,7,false,false,false,pace,stamina
+Alessandro Gabrielloni,FW,R,32,ITA,6,false,false,false,pace,finishing
+Omar Correia,MF,R,26,FRA,7,true,false,false,stamina,passing
+Nicola Mosti,MF,L,28,ITA,5,false,false,false,playmaking,dribbling
+Giacomo De Pieri,FW,L,19,ITA,6,true,false,false,pace,stamina
+Marco Varnier,CB,R,28,ITA,7,true,false,false,marking,heading
+Andrea Giorgini,CB,R,24,ITA,3,false,false,false,stamina,pace
+Mattia Mannini,FB,R,20,ITA,5,true,false,false,stamina,pace
+Marco Ruggero,CB,R,26,ITA,6,false,false,false,marking,heading
+Marco Bellich,CB,L,27,ITA,7,true,false,false,tackling,heading
+Gregorio Morachioli,MF,R,26,ITA,3,false,false,false,dribbling,pace
+Matteo Baldi,FB,R,24,ITA,6,true,false,false,pace,marking
+Filippo Reale,FW,L,20,ITA,7,false,false,false,tackling,stamina
+Rares Burnete,FW,R,22,ROU,2,true,false,false,finishing,dribbling
+Giacomo Stabile,CB,L,21,ITA,3,false,false,false,heading,tackling
+Alessio Cacciamani,FW,L,19,ITA,5,false,false,false,pace,passing
+Alessandro Confente,GK,R,28,ITA,6,false,false,false,positioning,reflexes
+Pietro Boer,GK,R,24,ITA,7,false,false,false,reflexes,rushing-out
+Alessandro Signorini,GK,R,27,ITA,3,true,false,false,rushing-out,positioning

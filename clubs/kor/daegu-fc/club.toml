@@ -1,0 +1,13 @@
+name = "Daegu FC"
+country = "KOR"
+level = 10
+reputation = 2
+colors = ["#F08000", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Carlos Jun"
+country = "BRA"

@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sebastian Vasiliadis,MF,R,28,GRE,1,true,false,false,stamina,passing
+Calogero Rizzuto,FW,R,34,GER,5,false,false,false,stamina,pace
+Richard Neudecker,MF,L,29,GER,6,true,false,false,stamina,passing
+Tim Civeja,MF,R,24,ALB,7,true,false,false,stamina,playmaking
+Patrick Sontheimer,MF,R,28,GER,2,true,false,false,stamina,playmaking
+Maurice Multhaup,FW,R,29,GER,5,false,false,false,pace,dribbling
+Elijah Krahn,MF,L,23,GER,6,false,false,false,passing,pace
+Kasim Rabihic,MF,R,33,GER,7,false,false,false,dribbling,stamina
+Rodney Elongo Yombo,FW,L,25,GER,3,true,false,false,pace,stamina
+Philip Fahrner,FB,R,23,GER,5,true,false,false,stamina,pace
+Abdoulaye Kamara,MF,R,21,GUI,7,false,false,false,passing,dribbling
+Kai Brunker,FW,R,32,GER,2,false,false,false,stamina,heading
+Manuel Zeitz,CB,R,36,GER,5,false,false,false,stamina,marking
+Dominic Baumann,FW,R,31,GER,6,false,false,false,finishing,pace
+Florian Pick,MF,L,31,GER,7,false,false,false,dribbling,playmaking
+Till Schumacher,FB,L,28,GER,2,true,false,false,stamina,pace
+Amine Naifi,FW,R,26,FRA,5,false,false,false,pace,dribbling
+Niko Bretschneider,FW,L,27,GER,7,true,false,false,stamina,pace
+Amine Groune,FW,L,29,FRA,1,false,false,false,pace,dribbling
+Robin Bormuth,CB,R,30,GER,5,true,false,false,pace,marking
+Patrick Schmidt,FW,R,32,GER,6,false,false,false,stamina,heading
+Joel Bichsel,CB,L,24,SUI,10,false,false,false,pace,heading
+Lasse Wilhelm,CB,R,23,GER,4,false,false,false,pace,heading
+Luca Wollschlager,FW,R,23,GER,5,false,false,false,heading,finishing
+Sven Sonnenberg,CB,R,27,GER,7,true,false,false,stamina,heading
+Tim Paterok,GK,R,34,GER,1,false,false,false,reflexes,penalty-saving
+Phillip Menzel,GK,R,28,GER,4,true,false,false,penalty-saving,positioning
+Jonas Nickisch,GK,R,22,GER,6,false,false,false,reflexes,penalty-saving

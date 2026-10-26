@@ -1,0 +1,13 @@
+name = "Sileks Kratovo"
+country = "MKD"
+level = 14
+reputation = 2
+colors = ["#000099", "#ffffff"]
+
+[stadium]
+name = "Sileks Stadion"
+capacity = 4500
+
+[coach]
+name = "Gorazd Mihajlov"
+country = "MKD"

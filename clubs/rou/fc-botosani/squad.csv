@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Aldaír Ferreira,MF,R,28,ANG,1,true,false,false,stamina,pace
+Adams Friday,FB,R,23,NGA,5,false,false,false,pace,stamina
+Enriko Papa,MF,R,33,ALB,6,true,false,false,stamina,passing
+Mihai Bordeianu,MF,L,34,ROU,7,false,false,false,stamina,pace
+Hervin Ongenda,FW,R,31,FRA,1,false,false,false,pace,stamina
+Enzo Adrian Lopez,FW,R,28,ARG,5,false,false,false,pace,stamina
+Gabriel David,MF,R,23,ROU,6,true,false,false,pace,passing
+Andrei Dumiter,FW,R,27,ROU,7,true,false,false,pace,stamina
+Alexandru Cimpanu,FW,L,25,ROU,2,false,false,false,pace,dribbling
+Ș. Bodișteanu,FW,L,23,ROU,5,false,false,false,pace,stamina
+Zoran Mitrov,FW,R,24,ROU,6,true,false,false,pace,playmaking
+Sebastian Mailat,MF,R,28,ROU,7,true,false,false,pace,dribbling
+Charles Petro,CB,R,25,ROU,1,true,false,false,pace,stamina
+Ș. Pănoiu,MF,L,23,ROU,3,false,false,false,pace,passing
+Alexandru Tiganasu,FB,L,36,ROU,5,false,false,false,stamina,crossing
+Michael Pavlovic,FB,L,25,SVN,6,true,false,false,pace,stamina
+Narcis Ilas,FB,R,19,ROU,7,false,false,false,pace,stamina
+Andrei Miron,CB,L,32,ROU,3,true,false,false,stamina,heading
+Miguel Muñoz,CB,R,29,ESP,5,false,false,false,stamina,tackling
+Riad Suta,CB,R,24,BIH,6,false,false,false,stamina,passing
+Mykola Kovtalyuk,FW,R,31,UKR,5,false,false,false,heading,stamina
+Rijad Sadiku,CB,R,26,BIH,6,false,false,false,stamina,heading
+Andrei Dumitru,MF,R,19,CAN,7,false,false,false,pace,dribbling
+Antonio Dumitru,FW,R,21,ROU,4,false,false,false,pace,stamina
+Djibril Diaw,CB,L,31,SEN,5,false,false,false,stamina,heading
+Razvan Cret,FB,L,20,ROU,6,true,false,false,pace,stamina
+Denis Stefan,FW,R,20,ROU,7,false,false,false,pace,stamina
+Giannis Anestis,GK,R,35,GRE,2,false,false,false,positioning,reflexes
+Luka Kukic,GK,R,30,BIH,5,true,false,false,positioning,penalty-saving
+Alin Ciobanu,GK,R,18,ROU,6,false,false,false,reflexes,penalty-saving

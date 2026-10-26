@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Pedro Ortiz,GK,R,36,ECU,6,true,false,false,positioning,rushing-out
+Mario Valero,GK,R,30,ECU,7,false,false,false,positioning,penalty-saving
+Ezequiel Castañeda,GK,R,21,ECU,2,false,false,false,rushing-out,positioning
+Estalin Segura,CB,L,26,ECU,5,true,false,false,tackling,marking
+Fernando León,CB,R,33,ECU,6,false,false,false,tackling,heading
+Stalin Valencia,CB,L,22,ECU,7,true,false,false,tackling,stamina
+Aníbal Leguizamón,CB,R,34,ARG,7,false,false,false,tackling,marking
+Ignacio Guerrico,FB,L,28,ARG,4,true,false,false,stamina,dribbling
+Ibrain Cuero,FB,L,20,ECU,5,false,false,false,tackling,pace
+Romario Caicedo,FB,L,36,ECU,6,false,false,false,marking,crossing
+Orlando Herrera,FB,R,22,ECU,8,true,false,false,tackling,pace
+Mathias Carabali,FB,R,19,ECU,4,false,false,false,passing,crossing
+Angelo Mina,MF,R,27,ECU,5,true,false,false,passing,finishing
+Sergio Quintero,MF,R,27,ECU,6,true,false,false,stamina,passing
+Víctor Griffith,MF,R,25,PAN,8,true,false,false,marking,passing
+Bolívar Tobar,MF,R,17,ECU,4,false,false,false,finishing,passing
+Gonzalo Nápoli,MF,R,26,URU,5,true,false,false,marking,passing
+José Francisco Cevallos Jr.,MF,R,31,ECU,6,false,false,false,dribbling,playmaking
+Reixon Saya,MF,R,18,ECU,10,false,false,false,tackling,passing
+Ariel Mina,FW,R,23,ECU,4,false,false,false,finishing,pace
+Washington Corozo,FW,R,28,ECU,7,true,false,false,finishing,stamina
+Andrés Viteri,FW,R,21,ECU,3,false,false,false,heading,finishing
+Francisco Pizzini,FW,L,32,ARG,5,false,false,false,pace,stamina
+Jhon Sánchez,FW,L,26,ECU,6,true,false,false,dribbling,finishing
+Luis Fragozo,FW,R,32,ECU,7,false,false,false,finishing,pace
+Juan Pablo Ruíz,FW,R,32,ARG,3,false,false,false,playmaking,finishing
+Luca Klimowicz,FW,R,22,ARG,5,false,false,false,heading,finishing
+José Neris,FW,R,26,URU,6,false,false,false,playmaking,finishing
+Jaime Ayoví,FW,L,38,ECU,7,false,false,false,heading,stamina
+Jheremy Gonzaga,FW,R,20,ECU,4,false,false,false,pace,dribbling

@@ -1,0 +1,13 @@
+name = "Shirak Giumri"
+country = "ARM"
+level = 14
+reputation = 2
+colors = ["#ff3300", "#ffffff"]
+
+[stadium]
+name = "Giumri City"
+capacity = 2844
+
+[coach]
+name = "Tigran Davtyan"
+country = "ARM"

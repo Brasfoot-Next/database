@@ -1,0 +1,36 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Guga Rodrigues,MF,L,29,POR,5,true,false,false,stamina,pace
+Sai Erjiniao,MF,L,31,CHN,6,true,false,false,stamina,pace
+Dawhan,MF,R,30,BRA,7,true,false,false,stamina,passing
+Fábio Abreu,FW,R,33,ANG,3,false,false,false,stamina,pace
+Cao Yongjing,FW,R,29,CHN,5,true,false,false,pace,stamina
+Li Lei,FB,L,34,CHN,6,false,false,false,pace,stamina
+Wang Gang,CB,L,37,CHN,7,false,false,false,pace,stamina
+Yang Liyu,FW,R,29,CHN,3,false,false,false,pace,stamina
+Zhang Yuning,FW,R,29,CHN,5,false,false,false,pace,stamina
+Chi Zhongguo,MF,R,36,CHN,6,false,false,false,playmaking,marking
+Zhang Xizhe,MF,R,35,CHN,6,false,false,false,playmaking,passing
+Zhang Yuan,MF,R,29,CHN,7,true,false,false,pace,passing
+Michael Ngadeu,CB,R,35,CMR,5,false,false,false,heading,marking
+Lin Liangming,FW,L,29,CHN,6,false,false,false,pace,finishing
+Wu Shaocong,CB,L,26,CHN,7,true,false,false,pace,stamina
+Uros Spajic,CB,R,33,SRB,2,true,false,false,heading,marking
+Wang Ziming,FW,L,30,CHN,5,false,false,false,pace,stamina
+Fang Hao,FW,R,26,CHN,6,true,false,false,pace,stamina
+Feng Boxuan,FB,R,29,CHN,7,false,false,false,pace,dribbling
+He Yupeng,FB,R,26,CHN,2,true,false,false,stamina,pace
+Moxmet Nebijan,FB,L,25,CHN,6,false,false,false,marking,stamina
+Bai Yang,CB,L,28,CHN,7,false,false,false,stamina,heading
+Jiang Wenhao,FB,L,26,CHN,1,true,false,false,pace,stamina
+Li Ruiyue,CB,R,20,CHN,4,false,false,false,pace,stamina
+Wang Yuxiang,FW,R,21,CHN,5,false,false,false,pace,dribbling
+Fan Shuangjie,CB,R,21,CHN,6,false,false,false,stamina,tackling
+Dai Jinyu,FB,R,20,CHN,7,false,false,false,stamina,pace
+Hou Sen,GK,R,37,CHN,4,false,false,false,rushing-out,positioning
+Wang Zihao,FW,R,19,CHN,5,false,false,false,stamina,heading
+Li Shanghan,CB,R,20,CHN,6,false,false,false,pace,stamina
+Han Jiaqi,GK,R,27,CHN,4,true,false,false,positioning,rushing-out
+Zhang Jianzhi,GK,R,26,CHN,5,false,false,false,positioning,rushing-out
+Zheng Tuluo,GK,R,27,CHN,6,false,false,false,positioning,reflexes
+Xie Jintian,GK,R,20,CHN,7,false,false,false,reflexes,positioning
+Abbas Nureli,GK,R,21,CHN,5,false,false,false,penalty-saving,positioning

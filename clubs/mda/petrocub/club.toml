@@ -1,0 +1,13 @@
+name = "Petrocub"
+country = "MDA"
+level = 14
+reputation = 2
+colors = ["#ffffff", "#006699"]
+
+[stadium]
+name = "Orăşenesc"
+capacity = 2672
+
+[coach]
+name = "Ivan Tabanov"
+country = "MDA"

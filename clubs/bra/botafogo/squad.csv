@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Léo Linck,GK,L,25,BRA,5,true,false,false,reflexes,rushing-out
+Raul,GK,R,28,BRA,6,false,false,false,positioning,rushing-out
+Cristhian Loor,GK,L,20,ECU,7,false,false,false,positioning,penalty-saving
+Nahuel Ferraresi,CB,L,27,VEN,1,true,false,false,marking,stamina
+Kaio,CB,R,30,BRA,6,true,false,false,heading,passing
+Bastos,CB,L,35,ANG,6,false,false,false,marking,stamina
+Ythallo,CB,R,21,BRA,7,false,false,false,tackling,marking
+Anthony,CB,R,21,BRA,2,false,false,false,marking,stamina
+Alex Telles,FB,L,33,BRA,6,true,false,false,stamina,pace
+Marçal,FB,R,37,BRA,6,false,false,false,pace,tackling
+Jhoan Hernández,FB,R,20,COL,6,false,false,false,tackling,marking
+Caio Roque,FB,R,24,BRA,8,false,false,false,marking,crossing
+Vitinho,FB,R,26,BRA,9,true,false,false,tackling,stamina
+Mateo Ponte,FB,L,23,URU,5,false,false,false,stamina,pace
+Newton,MF,L,26,BRA,6,true,false,false,passing,tackling
+Patrick de Paula,MF,L,27,BRA,7,false,false,false,stamina,passing
+Allan,MF,R,35,BRA,9,false,false,false,passing,stamina
+Wallace Davi,MF,R,19,BRA,5,false,false,false,passing,stamina
+Huguinho,MF,L,19,BRA,6,false,false,false,playmaking,dribbling
+Danilo,MF,R,25,BRA,7,true,true,false,dribbling,pace
+Cristian Medina,MF,R,24,ARG,6,true,false,false,stamina,dribbling
+Edenilson,MF,R,36,BRA,7,false,false,false,tackling,marking
+Santiago Rodríguez,MF,R,26,URU,9,true,false,false,dribbling,pace
+Jordan Barrera,MF,R,20,COL,4,false,false,false,dribbling,passing
+Álvaro Montoro,FW,R,19,ARG,6,true,false,false,crossing,pace
+Matheus Martins,FW,R,23,BRA,6,false,false,false,finishing,stamina
+Nathan Fernandes,FW,R,21,BRA,8,false,false,false,dribbling,playmaking
+Júnior Santos,FW,R,31,BRA,4,false,false,false,finishing,dribbling
+Lucas Villalba,FW,R,25,URU,6,false,false,false,pace,stamina
+Joaquín Correa,FW,R,31,ARG,6,false,false,false,finishing,dribbling
+Arthur Cabral,FW,R,28,BRA,6,true,false,false,dribbling,pace
+Chris Ramos,FW,R,29,ESP,7,false,false,false,dribbling,finishing
+Kadir Barría,FW,R,18,PAN,8,false,false,false,finishing,pace
+Elias Manoel,FW,R,24,BRA,5,false,false,false,pace,stamina

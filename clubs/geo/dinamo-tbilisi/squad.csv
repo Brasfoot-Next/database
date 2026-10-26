@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Davit Kereselidze,GK,L,22,GEO,4,true,false,false,positioning,rushing-out
+Luka Kutaladze,GK,R,21,GEO,9,false,false,false,reflexes,positioning
+Levan Kharabadze,FB,L,22,GEO,9,true,false,false,finishing,passing
+Nikoloz Mali,FB,R,23,GEO,3,true,false,false,marking,finishing
+Stephen,FB,L,21,NGA,9,false,false,false,marking,passing
+Giorgi Maisuradze,FB,R,20,GEO,8,false,false,false,crossing,pace
+Saba Khvadagiani,CB,R,19,GEO,4,true,false,false,tackling,marking
+Kalandadze,CB,L,21,GEO,5,true,false,false,tackling,heading
+Irakli Iakobidze,CB,L,20,GEO,5,false,false,false,tackling,marking
+Davit Kobouri,CB,R,24,GEO,7,false,false,false,heading,stamina
+Giorgi Papava,MF,L,29,GEO,6,true,false,false,marking,finishing
+Moistsrapishvili,MF,R,20,GEO,7,true,false,false,passing,finishing
+Anzor Mekvabishvili,MF,R,21,GEO,4,true,false,false,marking,finishing
+Tornike Morchiladze,MF,L,20,GEO,4,false,false,false,passing,playmaking
+Tornike Kirkitadze,MF,L,26,GEO,3,true,false,false,passing,finishing
+Imran Oulad Omar,MF,L,24,NED,7,false,false,false,finishing,passing
+Levan Osikmashvili,MF,L,20,GEO,6,false,false,false,tackling,finishing
+Giorgi Kutsia,MF,R,22,GEO,3,false,false,false,tackling,finishing
+Giorgi Gabedava,FW,L,32,GEO,7,false,false,false,finishing,pace
+Barnes Osei,FW,R,27,GHA,1,true,false,false,dribbling,finishing
+Dmitriy Antilevskiy,FW,R,25,BLR,8,false,false,false,finishing,stamina
+Ousmane Camara,FW,L,24,GUI,6,true,false,false,dribbling,pace

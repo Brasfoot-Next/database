@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tim Meyer,MF,R,22,SUI,5,true,false,false,stamina,tackling
+Amir Abrashi,MF,R,36,ALB,6,false,false,false,stamina,marking
+Jonathan Asp Jensen,FW,L,20,DEN,7,true,false,false,passing,playmaking
+Tomas Veron,FW,R,26,ARG,4,false,false,false,dribbling,pace
+Allan Arigoni,CB,R,27,SUI,5,false,false,false,pace,tackling
+Lovro Zvonarek,MF,R,21,CRO,3,true,false,false,pace,passing
+Dirk Abels,CB,L,29,NED,5,false,false,false,stamina,pace
+Óscar Clemente,FW,L,27,ESP,6,false,false,false,passing,pace
+Lee Young Jun,FW,R,23,KOR,7,false,false,false,heading,finishing
+Luke Plange,FW,R,23,ENG,3,true,false,false,pace,dribbling
+Imourane Hassane,MF,L,23,SUI,5,true,false,false,stamina,tackling
+Saulo Decarli,CB,R,34,SUI,6,false,false,false,heading,tackling
+Nikolas Muci,FW,R,23,SUI,7,false,false,false,finishing,pace
+Samuel Marques,MF,R,21,SUI,2,true,false,false,passing,pace
+Salifou Diarrassouba,MF,R,24,BFA,5,false,false,false,pace,passing
+Simone Stroscio,FW,L,23,SUI,6,false,false,false,passing,tackling
+Abdoulaye Diaby,CB,R,26,MLI,7,true,false,false,stamina,pace
+Matteo Mantini,MF,R,19,ITA,3,false,false,false,passing,pace
+Loris Giandomenico,FB,L,20,SUI,5,true,false,false,stamina,pace
+Pantaleo Creti,FB,R,18,ITA,6,true,false,false,stamina,dribbling
+Yannick Bettkober,CB,R,21,GER,4,false,false,false,pace,marking
+Dorian Paloschi,CB,R,20,ITA,6,true,false,false,heading,tackling
+Justin Hammel,GK,R,25,SUI,7,true,false,false,reflexes,penalty-saving
+Nicolas Glaus,GK,R,24,SUI,1,false,false,false,reflexes,penalty-saving
+Laurent Seji,GK,R,22,SUI,5,false,false,false,positioning,penalty-saving

@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nazariy Fedorivskyi,GK,R,30,UKR,7,true,false,false,positioning,penalty-saving
+Vadym Stashkiv,GK,L,19,UKR,3,false,false,false,reflexes,penalty-saving
+Kyrylo Barantsov,GK,R,22,UKR,4,false,false,false,reflexes,rushing-out
+Oleksandr Zhovtenko,CB,L,21,UKR,5,true,false,false,passing,marking
+Andriy Lomnytskyi,CB,R,20,UKR,6,true,false,false,marking,passing
+Vitaliy Yermakov,CB,R,34,UKR,7,false,false,false,marking,stamina
+Oleksandr Feshchenko,CB,R,18,UKR,4,false,false,false,tackling,heading
+Yevgeniy Shevchenko,FB,L,30,UKR,5,true,false,false,passing,crossing
+Yegor Prokopenko,FB,L,28,UKR,6,false,false,false,marking,crossing
+Dmytro Kapinus,FB,L,23,UKR,7,true,false,false,stamina,pace
+Pavlo Polegenko,FB,L,31,UKR,2,false,false,false,marking,pace
+Maksym Grysyo,FB,R,30,UKR,5,false,false,false,marking,crossing
+Maksym Chekh,MF,R,27,UKR,6,true,false,false,finishing,passing
+Taras Moroz,MF,R,30,UKR,7,true,false,false,playmaking,dribbling
+Roman Volokhatyi,MF,L,25,UKR,3,true,false,false,dribbling,pace
+Dmytro Myshnyov,MF,R,32,UKR,5,false,false,false,playmaking,passing
+Artem Kulakovskyi,MF,R,24,UKR,6,false,false,false,marking,passing
+Oleg Slobodyan,MF,R,29,UKR,7,true,false,false,passing,finishing
+Igor Medynskyi,FW,R,33,UKR,3,false,false,false,dribbling,playmaking
+Daniil Yushko,FW,R,21,UKR,5,false,false,false,dribbling,playmaking
+Denys Ustymenko,FW,R,27,UKR,10,true,false,false,pace,crossing
+Sergiy Sukhanov,FW,L,31,UKR,5,true,false,false,finishing,stamina
+Denys Teslyuk,FW,R,23,UKR,5,false,false,false,finishing,pace
+Taras Lyakh,FW,R,21,UKR,6,false,false,false,crossing,pace

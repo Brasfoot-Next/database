@@ -1,0 +1,13 @@
+name = "Budapest Honvéd"
+country = "HUN"
+level = 16
+reputation = 2
+colors = ["#ff6666", "#000000"]
+
+[stadium]
+name = "József Bozsik"
+capacity = 15000
+
+[coach]
+name = "Tam Courts"
+country = "SCO"

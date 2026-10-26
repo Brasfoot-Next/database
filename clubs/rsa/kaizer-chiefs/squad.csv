@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Khune,GK,L,35,RSA,0,true,false,false,reflexes,positioning
+Bruce Bvuma,GK,R,27,RSA,9,false,false,false,positioning,rushing-out
+Brandon Petersen,GK,R,27,RSA,2,false,false,false,penalty-saving,reflexes
+Reeve Frosler,FB,L,24,RSA,7,true,false,false,marking,finishing
+Dillan Solomons,FB,R,23,RSA,2,true,false,false,marking,finishing
+Happy Mashiane,FB,L,24,RSA,9,false,false,false,finishing,pace
+Sifiso Hlanti,FB,R,32,RSA,1,false,false,false,marking,passing
+Eric Mathoho,CB,L,32,RSA,0,true,false,false,marking,pace
+Ngezana,CB,R,24,RSA,8,true,false,false,tackling,marking
+Njabulo Blom,CB,R,22,RSA,3,false,false,false,heading,stamina
+Zitha Kwinika,CB,L,28,RSA,10,false,false,false,marking,pace
+Ngcobo,MF,R,22,RSA,10,true,false,false,passing,finishing
+Siyethemba Sithebe,MF,L,29,RSA,6,true,false,false,finishing,passing
+Yusuf Maart,MF,L,27,RSA,9,true,false,false,playmaking,passing
+Kamohelo Mahlatsi,MF,L,23,RSA,4,true,false,false,finishing,passing
+Cole Alexander,MF,L,33,RSA,5,false,false,false,tackling,marking
+Nange,MF,R,30,RSA,4,false,false,false,marking,finishing
+Sabelo Radebe,MF,L,22,RSA,7,false,false,false,marking,finishing
+Khama Billiat,FW,R,31,ZIM,2,true,false,false,finishing,heading
+Keletso Sifama,FW,R,19,RSA,5,true,false,false,finishing,dribbling
+Du Preez,FW,L,25,RSA,3,false,false,false,finishing,pace
+Mduduzi Shabalala,FW,R,18,RSA,1,false,false,false,pace,crossing

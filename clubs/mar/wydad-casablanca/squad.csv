@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+El Mehdi Benabid,GK,R,28,MAR,5,true,false,false,rushing-out,reflexes
+Omar Aqzdaou,GK,R,23,MAR,6,false,false,false,positioning,rushing-out
+Ayman El Wafi,CB,R,22,MAR,1,false,false,false,marking,stamina
+Amine Aboulfath,CB,R,28,MAR,5,true,false,false,heading,tackling
+Sallah Moussaddaq,CB,R,28,MAR,5,true,false,false,heading,marking
+Guilherme Ferreira,CB,R,26,BRA,7,false,false,false,marking,heading
+Mohammed El Jadidi,CB,R,21,MAR,1,false,false,false,marking,stamina
+Ayman Dairani,CB,R,30,MAR,5,false,false,false,tackling,heading
+Nabil Khali,FB,L,28,FRA,6,true,false,false,crossing,passing
+Mohamed Moufid,FB,R,26,MAR,7,true,false,false,stamina,pace
+Mohamed Bouchouari,FB,R,25,BEL,4,false,false,false,dribbling,pace
+Walid Atik,FB,R,24,MAR,5,false,false,false,passing,crossing
+Abdelghafour Lamirat,MF,R,28,MAR,6,true,false,false,passing,finishing
+Rayane Mahtou,MF,R,21,MAR,4,false,false,false,playmaking,passing
+Oussama Zemraoui,MF,R,24,MAR,5,true,false,false,dribbling,pace
+Joseph Bakasu,MF,R,22,MAR,6,false,false,false,tackling,marking
+Naïm Byar,MF,R,21,MAR,7,true,false,false,dribbling,pace
+Walid Sabbar,MF,R,30,MAR,4,false,false,false,tackling,passing
+Ramiro Vaca,MF,R,27,BOL,5,true,false,false,finishing,playmaking
+Pedrinho,MF,R,22,BRA,6,false,false,false,stamina,passing
+Moises Paniagua,FW,R,18,BOL,3,true,false,false,dribbling,finishing
+Hamza Elowasti,FW,L,31,MAR,5,false,false,false,heading,pace
+Mouad Enzo,FW,R,25,MAR,6,false,false,false,finishing,dribbling
+Zouhair El Moutaraji,FW,R,30,MAR,7,false,false,false,heading,finishing
+Zacarías Ghailán,FW,R,24,MAR,5,false,false,false,crossing,pace
+Mohamed El Ouardi,FW,R,25,MAR,6,false,false,false,finishing,pace
+Hakim Ziyech,FW,L,33,MAR,7,true,false,false,playmaking,crossing
+Walid Nassi,FW,R,26,MAR,2,false,false,false,finishing,pace
+Zakaria Fatihi,FW,L,27,MAR,5,false,false,false,heading,stamina
+Hamza Hannouri,FW,R,28,MAR,6,false,false,false,dribbling,finishing
+Ahmed Rhailouf,FW,R,21,MAR,1,false,false,false,pace,finishing
+Selemani Mwalimu,FW,R,20,TAN,5,false,false,false,heading,stamina

@@ -1,0 +1,13 @@
+name = "Wadi Degla FC"
+country = "EGY"
+level = 10
+reputation = 2
+colors = ["#101000", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Mohamed Maher"
+country = "BRA"

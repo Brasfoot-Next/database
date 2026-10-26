@@ -1,0 +1,13 @@
+name = "IF Elfsborg"
+country = "SWE"
+level = 12
+reputation = 2
+colors = ["#101010", "#F0D000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Lucas Sigurpalsson"
+country = "BRA"

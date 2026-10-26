@@ -1,0 +1,13 @@
+name = "Linfield"
+country = "NIR"
+level = 15
+reputation = 3
+colors = ["#0033ff", "#ffff00"]
+
+[stadium]
+name = "Windsor Park"
+capacity = 20332
+
+[coach]
+name = "David Healy"
+country = "NIR"

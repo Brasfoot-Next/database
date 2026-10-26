@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Seung-gun Kim,GK,L,27,KOR,5,true,false,false,rushing-out,reflexes
+Eui-jeong Park,GK,R,22,KOR,6,false,false,false,penalty-saving,reflexes
+Ki-hun Kim,GK,R,23,KOR,7,false,false,false,reflexes,rushing-out
+Tae-joon Kim,GK,R,25,KOR,5,false,false,false,penalty-saving,reflexes
+Aleksandar Vojnovic,CB,L,29,KOR,6,true,false,false,heading,stamina
+Min-jun Jang,CB,R,24,KOR,7,false,false,false,tackling,heading
+Jun-seo Park,CB,L,22,KOR,1,false,false,false,tackling,pace
+Sun-woo Ham,CB,R,21,KOR,5,false,false,false,marking,passing
+Si-hoo Yang,CB,R,26,KOR,6,true,false,false,heading,passing
+Je-wook Woo,CB,L,32,KOR,7,false,false,false,marking,heading
+Je-yul Kim,CB,R,22,KOR,1,false,false,false,tackling,heading
+Dong-jae Cho,FB,R,23,KOR,5,false,false,false,crossing,passing
+Kyung-min Park,FB,R,26,KOR,6,true,false,false,dribbling,pace
+Yong-hee Jeong,FB,L,24,KOR,7,true,false,false,tackling,marking
+Sung-jin Kim,FB,R,22,KOR,2,false,false,false,pace,crossing
+Chan-yeol Lim,FB,R,23,KOR,5,false,false,false,passing,crossing
+Dae-hwan Kim,FB,R,21,KOR,6,false,false,false,dribbling,pace
+Jong-sung Lee,MF,R,33,KOR,7,false,false,false,passing,tackling
+Jae-seong Park,MF,R,23,KOR,2,true,false,false,dribbling,playmaking
+Myeong-hee Choi,MF,R,35,KOR,5,false,false,false,dribbling,playmaking
+Jung-min Kim,MF,R,26,KOR,8,true,false,false,stamina,playmaking
+Demethryus,MF,R,27,BRA,4,true,false,false,passing,stamina
+Seong-jin Jeon,MF,L,23,KOR,5,true,false,false,pace,dribbling
+Jae-min Jegal,FW,L,25,KOR,6,false,false,false,pace,dribbling
+Seung-beom Son,FW,L,22,KOR,9,true,false,false,pace,stamina
+Ji-han Lee,FW,R,23,KOR,4,false,false,false,dribbling,playmaking
+Jin-woo Park,FW,L,22,KOR,5,false,false,false,dribbling,pace
+Leonard Pllana,FW,R,29,KOR,7,false,false,false,finishing,dribbling
+Geon-ho Moon,FW,L,22,KOR,1,false,false,false,finishing,dribbling
+Sava Petrov,FW,L,28,SRB,4,true,false,false,heading,pace
+Rae-jun Lee,FW,R,29,KOR,7,false,false,false,dribbling,pace
+Byong-oh Kim,FW,L,37,KOR,3,false,false,false,finishing,dribbling

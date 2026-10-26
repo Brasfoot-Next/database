@@ -1,0 +1,13 @@
+name = "Once Caldas"
+country = "COL"
+level = 12
+reputation = 2
+colors = ["#002060", "#F0F0E0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Santiago Orobio"
+country = "BRA"

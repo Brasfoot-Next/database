@@ -1,0 +1,13 @@
+name = "Petro Luanda"
+country = "ANG"
+level = 14
+reputation = 3
+colors = ["#ffff66", "#0000cc"]
+
+[stadium]
+name = "11 novembro"
+capacity = 48500
+
+[coach]
+name = "Alexandre Santos"
+country = "POR"

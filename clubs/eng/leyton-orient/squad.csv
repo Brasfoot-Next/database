@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Demetri Mitchell,FW,L,29,JAM,6,false,false,false,pace,stamina
+Tom James,FB,R,30,WAL,7,true,false,false,stamina,playmaking
+Idris El Mizouni,MF,R,25,TUN,3,true,false,false,stamina,passing
+Josh Koroma,FW,L,27,SLE,5,true,false,false,pace,stamina
+Tyreeq Bakinson,MF,L,27,ENG,6,true,false,false,stamina,playmaking
+Aaron Connolly,FW,R,26,IRL,7,true,false,false,pace,finishing
+Ollie Oneill,FW,R,23,IRL,3,false,false,false,pace,stamina
+Joe White,MF,L,23,ENG,5,true,false,false,stamina,passing
+Azeem Abdulai,FW,L,23,SCO,6,false,false,false,stamina,pace
+Sean Clare,FB,R,29,ENG,7,true,false,false,pace,stamina
+Tayo Adaramola,FB,L,22,IRL,1,false,false,false,pace,crossing
+Zech Obiero,MF,R,21,KEN,5,false,false,false,pace,stamina
+Jack Moorhouse,MF,R,20,IRL,6,true,false,false,pace,playmaking
+Diallang Jaiyesimi,FW,L,28,ENG,7,false,false,false,dribbling,pace
+Charlie Wellens,MF,R,23,ENG,2,false,false,false,stamina,pace
+Michael Craig,FB,R,23,SCO,5,false,false,false,stamina,passing
+Rarmani Edmonds Green,CB,R,27,ENG,6,true,false,false,stamina,pace
+Sonny Perkins,FW,L,22,ENG,6,false,false,false,pace,stamina
+Lemar Gordon,FW,L,20,ENG,7,false,false,false,pace,dribbling
+Alfie Lloyd,FW,R,23,ENG,3,false,false,false,pace,dribbling
+Dom Ballard,FW,R,21,ENG,7,false,false,false,pace,finishing
+Jack Simpson,CB,L,29,ENG,4,false,false,false,heading,tackling
+Omar Beckles,CB,R,34,GRN,5,false,false,false,stamina,tackling
+Dan Happe,CB,L,27,ENG,6,true,false,false,stamina,heading
+Tommy Simkin,GK,R,21,ENG,8,false,false,false,reflexes,penalty-saving
+Killian Cahill,GK,R,22,IRL,4,true,false,false,penalty-saving,rushing-out

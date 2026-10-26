@@ -1,0 +1,13 @@
+name = "Rennes"
+country = "FRA"
+level = 18
+reputation = 4
+colors = ["#000000", "#E03020"]
+
+[stadium]
+name = "Roazhon Park"
+capacity = 29778
+
+[coach]
+name = "Mahdi Blas"
+country = "BRA"

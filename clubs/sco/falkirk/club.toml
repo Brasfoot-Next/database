@@ -1,0 +1,13 @@
+name = "Falkirk"
+country = "SCO"
+level = 7
+reputation = 1
+colors = ["#F0F0F0", "#004070"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Filip Spencer"
+country = "BRA"

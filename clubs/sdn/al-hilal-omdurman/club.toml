@@ -1,0 +1,13 @@
+name = "Al-Hilal Omdurman"
+country = "SDN"
+level = 15
+reputation = 3
+colors = ["#0000b9", "#ffffff"]
+
+[stadium]
+name = "Al-Hilal Stadium "
+capacity = 35000
+
+[coach]
+name = "João Mota"
+country = "POR"

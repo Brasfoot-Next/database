@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Enea Koliçi,GK,R,36,ALB,5,true,false,false,penalty-saving,reflexes
+Arion Ymeri,GK,R,27,KVX,7,false,false,false,penalty-saving,reflexes
+Armend Halili,FB,L,25,KVX,4,true,false,false,finishing,passing
+Yll Hoxha,FB,R,34,KVX,6,true,false,false,finishing,passing
+Arbër Prekazi,CB,R,32,KVX,3,true,false,false,tackling,heading
+Besar Musolli,MF,R,33,KVX,5,true,false,false,marking,passing
+Edison Kqiku,MF,R,23,KVX,4,false,false,false,passing,finishing
+Lanzeni Aziz,MF,L,25,CIV,5,true,false,false,tackling,marking
+Agustín Torassa,MF,R,33,ARG,6,false,false,false,playmaking,finishing
+Albert Dabiqaj,MF,L,26,KVX,1,true,false,false,tackling,marking
+Shend Kelmendi,FW,R,27,KVX,3,true,false,false,pace,finishing
+Blerim Krasniqi,FW,L,26,ALB,8,true,false,false,pace,finishing
+Aridon Bllaca,GK,R,21,KVX,9,false,false,false,penalty-saving,reflexes
+Perparim Islami,FB,R,29,KVX,9,false,false,false,marking,pace
+Besart Krivanjeva,CB,L,26,MKD,2,true,false,false,tackling,heading
+Granit Jashari,CB,R,23,KVX,2,false,false,false,heading,stamina
+Blend Jakupi,MF,L,21,KVX,2,false,false,false,finishing,passing
+Ukshin Hoti,MF,R,24,KVX,6,false,false,false,playmaking,finishing
+Élton Calé,FW,R,34,BRA,1,false,false,false,dribbling,pace
+Baton Zabergja,FW,R,21,KVX,10,false,false,false,finishing,heading
+Fabjan Beqja,MF,R,28,ALB,4,true,false,false,marking,pace

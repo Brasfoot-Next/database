@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sefer Emini,MF,R,26,DEN,5,true,false,false,stamina,passing
+Andreas Oggesen,MF,R,32,DEN,6,false,false,false,pace,stamina
+Tobias Klysner,FW,R,25,DEN,7,false,false,false,pace,stamina
+Kristall Mani Ingason,FW,R,24,ISL,1,true,false,false,pace,dribbling
+Daniel Leo Gretarsson,CB,L,30,ISL,5,false,false,false,stamina,pace
+Lirim Qamili,FW,L,28,DEN,6,false,false,false,pace,finishing
+Runar Thor Sigurgeirsson,FB,L,26,ISL,7,true,false,false,stamina,pace
+Ivan Nikolov,MF,R,24,DEN,2,false,false,false,pace,stamina
+Rasmus Vinderslev,MF,R,29,DEN,3,true,false,false,stamina,tackling
+Magnus Jensen,CB,R,29,DEN,5,true,false,false,stamina,heading
+Mads Agger,FW,L,26,DEN,7,false,false,false,pace,stamina
+Tobias Sommer,MF,L,24,DEN,3,true,false,false,passing,tackling
+Matthew Hoppe,FW,R,25,USA,5,false,false,false,pace,dribbling
+Mohamed Cherif,MF,R,20,GUI,6,false,false,false,tackling,pace
+Simon Waever,FB,R,30,DEN,7,true,false,false,pace,marking
+Albert Rrahmani,MF,R,19,DEN,4,false,false,false,pace,dribbling
+Ebube Duru,FW,L,27,NGA,5,false,false,false,pace,stamina
+Olti Hyseni,FW,L,19,DEN,6,true,false,false,pace,dribbling
+Alexander Lyng,MF,R,21,DEN,7,true,false,false,dribbling,pace
+Maxime Soulas,CB,R,27,FRA,1,true,false,false,stamina,pace
+Alberto Vogtmann,FB,L,20,DEN,7,false,false,false,pace,tackling
+Pachanga Kristensen,CB,L,19,DEN,2,false,false,false,stamina,pace
+Nicolai Flo,GK,L,30,DEN,5,false,false,false,rushing-out,reflexes
+Marcus Bundgaard,GK,R,25,DEN,6,true,false,false,positioning,penalty-saving
+Benicio Pena,GK,R,23,DEN,7,false,false,false,positioning,rushing-out

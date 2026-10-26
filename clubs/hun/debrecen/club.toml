@@ -1,0 +1,13 @@
+name = "Debrecen"
+country = "HUN"
+level = 16
+reputation = 3
+colors = ["#cc0000", "#ffffff"]
+
+[stadium]
+name = "Nagyerdei"
+capacity = 20340
+
+[coach]
+name = "João Janeiro"
+country = "POR"

@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Matthaus Taferner,MF,L,25,AUT,9,true,false,false,stamina,pace
+Valentino Muller,MF,R,27,AUT,4,true,false,false,stamina,pace
+Lukas Sulzbacher,FB,R,26,AUT,5,true,false,false,stamina,pace
+Florian Rieder,FW,L,30,AUT,7,false,false,false,stamina,pace
+Johannes Naschberger,MF,R,26,AUT,1,true,false,false,stamina,pace
+Thomas Sabitzer,FW,R,25,AUT,4,false,false,false,pace,stamina
+Moritz Wels,MF,L,21,AUT,6,true,false,false,pace,dribbling
+Tobias Anselm,FW,R,26,AUT,7,false,false,false,pace,stamina
+Benjamin Bockle,FW,L,24,AUT,1,true,false,false,stamina,pace
+Lukas Hinterseer,FW,L,35,AUT,5,false,false,false,heading,dribbling
+Marco Boras,CB,R,24,CRO,5,true,false,false,heading,pace
+Ademola Ola Adebomi,FW,L,23,ENG,6,true,false,false,heading,finishing
+David Falkner,MF,R,19,AUT,7,false,false,false,pace,passing
+Raphael Gschosser,MF,R,20,AUT,2,false,false,false,passing,pace
+David Jaunegg,CB,R,23,AUT,5,false,false,false,pace,tackling
+Quincy Butler,FW,R,25,USA,6,true,false,false,pace,dribbling
+Thomas Geris,FW,L,23,AUT,7,false,false,false,pace,finishing
+David Gugganig,CB,L,29,AUT,2,false,false,false,heading,tackling
+Mahamadou Diarra,FW,R,22,MLI,5,false,false,false,pace,finishing
+Jamie Lawrence,CB,L,23,GER,6,true,false,false,heading,tackling
+Yannick Votter,FW,R,21,AUT,8,false,false,false,dribbling,pace
+Mazou Bambara,MF,R,21,BFA,4,false,false,false,pace,dribbling
+Christian Huetz,FW,R,20,AUT,5,false,false,false,pace,heading
+David Kubatta,CB,R,22,GER,6,false,false,false,heading,tackling
+Michael Neuner,CB,R,19,AUT,7,false,false,false,heading,pace
+Lukas Schweighofer,CB,R,19,AUT,2,false,false,false,pace,tackling
+Adam Stejskal,GK,R,24,CZE,5,true,false,false,penalty-saving,reflexes
+Alexander Eckmayr,GK,R,27,AUT,6,false,false,false,rushing-out,reflexes
+Paul Schermer,GK,R,22,AUT,7,false,false,false,penalty-saving,reflexes

@@ -1,0 +1,13 @@
+name = "Nice"
+country = "FRA"
+level = 18
+reputation = 4
+colors = ["#B09050", "#201020"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Charles Bard"
+country = "BRA"

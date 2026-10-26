@@ -1,0 +1,13 @@
+name = "FC Winterthur"
+country = "SUI"
+level = 9
+reputation = 2
+colors = ["#C0C0C0", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Thierry Cueni"
+country = "BRA"

@@ -1,0 +1,13 @@
+name = "KFUM-Kameratene Oslo"
+country = "NOR"
+level = 8
+reputation = 2
+colors = ["#F01020", "#F0F0F0"]
+
+[stadium]
+name = "KFUM Arena"
+capacity = 3300
+
+[coach]
+name = "Jonas Berglie"
+country = "BRA"

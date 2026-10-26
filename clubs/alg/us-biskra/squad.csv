@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Imad Benchlef,GK,R,32,ALG,6,true,false,false,reflexes,penalty-saving
+Lamdjed Houssem Eddine Guessoum,GK,R,22,ALG,7,false,false,false,reflexes,positioning
+Ahmed Oukkal,CB,R,27,ALG,3,true,false,false,tackling,pace
+Ayoub Derbal,CB,R,25,ALG,5,true,false,false,tackling,marking
+Zakaria Zaitri,FB,R,28,ALG,6,true,false,false,dribbling,pace
+Mohamed Heriat,MF,R,36,ALG,7,false,false,false,passing,finishing
+Zakarya Kemoukh,MF,R,34,ALG,3,true,false,false,playmaking,finishing
+Mohamed Ouassim Zerari,MF,L,24,ALG,5,true,false,false,finishing,playmaking
+Mustapha Zeghnoun,MF,L,35,ALG,6,true,false,false,pace,dribbling
+Yacine Medane,MF,R,33,ALG,7,true,false,false,passing,stamina
+Chouaib Debbih,FW,R,33,ALG,4,false,false,false,dribbling,playmaking
+Laïd Saïdi,FW,R,26,ALG,5,true,false,false,finishing,stamina
+Ishak Salaheddine Harrari,FW,R,28,ALG,6,true,false,false,pace,dribbling
+Oualid Ardji,FW,R,30,ALG,7,false,false,false,pace,crossing
+Chérif Siam,FW,L,31,ALG,3,false,false,false,pace,finishing
+Rayane Adaika,FW,R,21,ALG,5,false,false,false,pace,finishing
+Abdouel Ali Hadji,FW,R,29,ALG,6,false,false,false,finishing,stamina
+Hichem Mokhtar,FW,R,34,ALG,7,false,false,false,finishing,heading
+Abdelouahab Merri,FW,L,26,ALG,3,true,false,false,finishing,pace
+Hamza Demane,FW,L,37,ALG,5,false,false,false,finishing,dribbling

@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ž. Majer,MF,L,34,SVN,5,false,false,false,stamina,passing
+Cesar Falletti,MF,R,33,URU,7,false,false,false,pace,stamina
+Leonardo Mancuso,MF,R,34,ITA,3,false,false,false,stamina,pace
+Cristiano Bani,FB,L,27,ITA,5,true,false,false,stamina,passing
+Davis Mensah,FW,R,35,ITA,6,false,false,false,stamina,pace
+David Wieser,MF,R,24,ITA,7,true,false,false,passing,dribbling
+Simone Trimboli,MF,R,24,ITA,3,true,false,false,passing,stamina
+Francesco Galuppini,FW,L,32,ITA,5,false,false,false,finishing,dribbling
+Nicolo Radaelli,FB,R,23,ITA,6,false,false,false,stamina,pace
+Giacomo Fedel,FB,R,24,ITA,7,false,false,false,stamina,pace
+Francesco Ruocco,FW,L,25,ITA,1,true,false,false,dribbling,playmaking
+Federico Artioli,MF,R,25,ITA,5,true,false,false,stamina,passing
+Antonio Fiori,FW,L,23,ITA,6,false,false,false,dribbling,pace
+Nicholas Bonfanti,FW,R,24,ITA,7,false,false,false,heading,pace
+Tommaso Maggioni,FB,R,25,ITA,2,true,false,false,stamina,tackling
+Flavio Paoletti,MF,R,23,ITA,5,true,false,false,passing,stamina
+Davide Bragantini,FW,L,23,ITA,6,false,false,false,crossing,dribbling
+Senan Mullen,CB,R,21,IRL,7,false,false,false,pace,tackling
+Maat Daniel Caprini,FW,L,20,ITA,2,true,false,false,pace,passing
+Stefano Cella,CB,L,25,ITA,5,true,false,false,stamina,heading
+Valerio Mantovani,CB,R,30,ITA,3,false,false,false,stamina,tackling
+Tommaso Marras,FW,L,22,ITA,4,false,false,false,pace,dribbling
+Alessio Castellini,CB,R,23,ITA,5,false,false,false,stamina,tackling
+Tommaso Pittino,CB,R,21,ITA,6,true,false,false,tackling,marking
+Marco Festa,GK,R,34,ITA,7,false,false,false,positioning,reflexes
+Lorenzo Andrenacci,GK,R,31,ITA,4,false,false,false,positioning,rushing-out
+Federico Botti,GK,L,24,ITA,5,true,false,false,reflexes,positioning

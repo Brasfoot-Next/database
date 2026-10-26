@@ -1,0 +1,13 @@
+name = "Apollon Limassol"
+country = "CYP"
+level = 14
+reputation = 2
+colors = ["#003399", "#ffffff"]
+
+[stadium]
+name = "Tsirion"
+capacity = 13331
+
+[coach]
+name = "Alexander Zorniger"
+country = "GER"

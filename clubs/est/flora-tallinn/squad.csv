@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Karl-Romet Nomm,GK,R,24,EST,1,true,false,false,rushing-out,penalty-saving
+Evert Grünvald,GK,L,21,EST,3,false,false,false,penalty-saving,reflexes
+Kristen Lapa,GK,R,22,EST,5,false,false,false,positioning,penalty-saving
+Michael Lilander,FB,R,25,EST,3,true,false,false,marking,pace
+Kristo Hussar,FB,L,20,EST,8,false,false,false,marking,finishing
+Ken Kallaste,FB,L,33,EST,6,true,false,false,crossing,pace
+Henrik Pürg,CB,R,26,EST,6,true,false,false,tackling,stamina
+Markkus Seppik,CB,L,21,EST,5,false,false,false,tackling,stamina
+Marco Lukka,CB,L,25,EST,10,true,false,false,tackling,stamina
+Marko Lipp,CB,R,23,EST,2,false,false,false,tackling,stamina
+Vassiljev,MF,R,37,EST,5,true,false,false,passing,finishing
+Markus Soomets,MF,R,22,EST,4,true,false,false,marking,finishing
+Martin Miller,MF,L,24,EST,10,true,false,false,tackling,heading
+Markus Poom,MF,L,23,EST,7,true,false,false,tackling,marking
+Andrei Smirnov,MF,L,19,EST,2,false,false,false,tackling,finishing
+Danil Kuraksin,MF,L,19,EST,7,false,false,false,finishing,passing
+Rauno Alliku,FW,R,32,EST,3,false,false,false,pace,finishing
+Henrik Ojamaa,FW,L,31,EST,3,true,false,false,dribbling,finishing
+Sergei Zenjov,FW,R,33,EST,5,true,false,false,heading,pace
+Tristan Koskor,FW,R,26,EST,2,false,false,false,dribbling,playmaking

@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Badreddine Abyir,GK,R,27,MAR,7,true,false,false,positioning,penalty-saving
+Amine El Ouaad,GK,R,30,MAR,4,false,false,false,rushing-out,reflexes
+Malcolm Barcola,GK,R,27,MAR,6,false,false,false,reflexes,penalty-saving
+Youssef Laghzal,GK,R,25,MAR,7,false,false,false,positioning,reflexes
+Ahmed Azmi,GK,L,23,MAR,3,false,false,false,rushing-out,positioning
+Bilal El Ouadghiri,CB,L,24,MAR,5,true,false,false,heading,marking
+Mohamed Saoud,CB,R,30,MAR,6,false,false,false,marking,stamina
+Oussama Al Aiz,CB,R,25,MAR,7,true,false,false,tackling,heading
+Akram El Wahabi,CB,L,22,ESP,3,false,false,false,heading,marking
+Badr Gaddarine,FB,R,28,MAR,5,true,false,false,stamina,pace
+Anass Lamrabat,FB,R,33,MAR,6,false,false,false,tackling,pace
+Louay El Moussaoui,FB,L,22,MAR,7,false,false,false,pace,tackling
+Zakaria Kiani,FB,R,29,MAR,2,true,false,false,pace,tackling
+Reda El Meliani,FB,L,21,MAR,5,false,false,false,passing,pace
+Babacar Sarr,MF,R,28,SEN,6,true,false,false,passing,playmaking
+Ennaama El Bellali,MF,R,28,MAR,7,true,false,false,tackling,passing
+Faouzi Abdoul Mutalib,MF,R,32,MAR,3,false,false,false,tackling,passing
+Gape Edwin Mohutsiwa,MF,R,29,MAR,5,true,false,false,tackling,passing
+Adam Darazi,MF,R,21,FRA,6,false,false,false,finishing,passing
+Mohamed El Arouch,MF,R,22,FRA,7,false,false,false,playmaking,finishing
+Siriky Sanogo,MF,R,24,MAR,6,true,false,false,tackling,marking
+Hamza El Moudene,MF,L,30,MAR,7,false,false,false,playmaking,dribbling
+Zakaria Bakkali,FW,R,30,BEL,10,false,false,false,finishing,stamina
+Dylan Saint-Louis,FW,R,31,CGO,5,false,false,false,dribbling,finishing
+Abdelhamid Maali,FW,R,20,MAR,6,false,false,false,dribbling,playmaking
+Ousama Siddiki,FW,R,28,MAR,7,true,false,false,pace,finishing
+Haytham El Bahja,FW,R,32,MAR,1,false,false,false,finishing,pace
+Senad Jarovic,FW,R,28,GER,5,true,false,false,pace,dribbling
+Papa Magueye Gaye,FW,R,20,SEN,6,false,false,false,finishing,stamina
+Karim Lagrouch,FW,R,26,MAR,7,false,false,false,dribbling,finishing
+Livty Kpolo,FW,R,24,FRA,6,false,false,false,heading,pace
+Moussa Koté,FW,R,20,SEN,6,false,false,false,finishing,heading
+Nawfal Chninak,FW,R,20,MAR,7,false,false,false,dribbling,finishing

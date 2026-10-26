@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Alhassan Yusuf,MF,L,26,NGA,4,true,false,false,stamina,pace
+Carles Gil,MF,L,33,ESP,5,true,false,false,playmaking,stamina
+Tomas Chancalay,FW,L,27,ARG,7,false,false,false,pace,dribbling
+Jackson Yueill,MF,R,29,USA,4,true,false,false,stamina,passing
+Brandon Bye,FB,R,30,USA,5,false,false,false,stamina,pace
+Luca Langoni,FW,R,24,ARG,6,true,false,false,stamina,pace
+Ignatius Ganago,FW,L,27,CMR,7,false,false,false,pace,dribbling
+Andrew Farrell,CB,R,34,USA,4,false,false,false,stamina,pace
+Peyton Miller,FB,L,18,USA,5,true,false,false,pace,dribbling
+Matt Polster,MF,R,33,USA,6,true,false,false,stamina,passing
+Leonardo Campana,FW,L,26,ECU,3,false,false,false,heading,finishing
+Ilay Feingold,FB,R,22,USA,5,true,false,false,dribbling,pace
+Mamadou Fofana,CB,R,28,MLI,6,true,false,false,stamina,marking
+Will Sands,FW,L,26,USA,7,false,false,false,stamina,pace
+Dor Turgeman,FW,R,22,USA,3,true,false,false,pace,finishing
+Malcolm Fry,FW,L,21,USA,5,false,false,false,pace,heading
+Brayan Ceballos,CB,R,25,COL,6,true,false,false,marking,tackling
+Tanner Beason,CB,L,29,USA,7,false,false,false,stamina,marking
+Keegan Hughes,CB,R,24,USA,4,false,false,false,tackling,marking
+Eric Klein,CB,R,19,USA,5,false,false,false,pace,marking
+Wyatt Omsberg,CB,R,30,USA,1,false,false,false,heading,tackling
+Matt Turner,GK,R,32,USA,5,true,false,false,reflexes,penalty-saving
+Alex Bono,GK,R,32,USA,6,false,false,false,reflexes,penalty-saving
+Aljaz Ivacic,GK,R,32,SVN,7,false,false,false,reflexes,penalty-saving

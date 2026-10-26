@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sergiu Hanca,MF,L,34,ROU,7,false,false,false,stamina,pace
+Alexandru Mateiu,MF,R,36,ROU,2,false,false,false,stamina,passing
+Valentin Ticu,FB,L,25,ROU,5,false,false,false,pace,crossing
+Lucian Dumitriu,FB,L,33,ROU,6,false,false,false,stamina,pace
+Tommy Jyry,MF,R,27,FIN,7,false,false,false,stamina,pace
+Gheorghe Grozav,FW,L,35,ROU,3,false,false,false,stamina,pace
+Ricardinho,FB,R,32,POR,5,true,false,false,stamina,marking
+Valentin Gheorghe,FW,L,29,ROU,6,true,false,false,pace,stamina
+Fabrício Baiano,MF,R,34,BRA,7,true,false,false,dribbling,tackling
+Paul Papp,CB,R,36,ROU,3,false,false,false,stamina,marking
+Kilian Ludewig,FW,R,26,GER,5,false,false,false,pace,dribbling
+Danel Dongmo,MF,R,25,CMR,6,true,false,false,pace,passing
+Denis Radu,FB,R,23,ROU,1,true,false,false,pace,stamina
+Moutir Chajia,MF,R,28,BEL,5,false,false,false,pace,dribbling
+Brahima Doukansy,MF,R,27,FRA,6,true,false,false,stamina,passing
+Franjo Prce,FB,L,30,CRO,7,false,false,false,stamina,tackling
+Adi Chica Rosa,FW,R,28,ROU,7,true,false,false,stamina,finishing
+Oscar Correia,FW,L,28,SUI,3,false,false,false,stamina,pace
+Rafinha,MF,R,28,ESP,5,false,false,false,dribbling,finishing
+Ioan Tolea,FB,L,23,ROU,6,false,false,false,pace,tackling
+Yohan Roche,CB,L,29,ROU,1,true,false,false,pace,stamina
+Guilherme Soares,CB,R,25,POR,4,false,false,false,tackling,marking
+Konstantinos Doumtsios,FW,R,28,GRE,6,false,false,false,pace,finishing
+Robert Salceanu,FB,L,22,ROU,7,false,false,false,pace,stamina
+Jerome Onguene,CB,R,28,CMR,1,true,false,false,heading,tackling
+Bogdan Marian,FB,L,21,ROU,5,false,false,false,pace,crossing
+David Paraschiv,MF,R,19,ROU,6,false,false,false,pace,passing
+Alin Botogan,MF,L,22,ROU,6,true,false,false,pace,dribbling
+Iustin Raducan,FW,R,21,ROU,7,false,false,false,pace,dribbling
+Raul Bucur,FW,R,23,ROU,3,false,false,false,pace,finishing
+David Ilie,FW,R,22,ROU,7,false,false,false,pace,finishing
+Raul Balbarau,GK,R,25,ROU,4,true,false,false,reflexes,penalty-saving
+Stefan Krell,GK,R,34,AUT,5,false,false,false,reflexes,positioning
+Andrei Jercalau,GK,R,21,ROU,6,false,false,false,reflexes,rushing-out

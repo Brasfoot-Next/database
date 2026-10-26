@@ -1,0 +1,13 @@
+name = "Málaga CF"
+country = "ESP"
+level = 12
+reputation = 2
+colors = ["#D0A000", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Álex López"
+country = "BRA"

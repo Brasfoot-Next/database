@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Joe Hodge,MF,R,23,IRL,3,true,false,false,stamina,pace
+Rony Lopes,FW,L,30,POR,5,true,false,false,dribbling,passing
+Bebeto,FB,R,36,BRA,6,false,false,false,stamina,pace
+Ivan Cavaleiro,FW,L,32,POR,7,false,false,false,pace,dribbling
+Jordan Siebatcheu,FW,R,30,USA,4,false,false,false,heading,finishing
+Sphephelo Sithole,MF,R,27,POR,5,false,false,false,stamina,heading
+João Talocha,FB,L,37,POR,6,false,false,false,stamina,crossing
+Remy Vita,FB,L,25,POR,7,true,false,false,stamina,crossing
+Hélder Tavares,MF,R,36,CPV,4,false,false,false,stamina,tackling
+Tiago Manso,FB,R,26,POR,5,true,false,false,crossing,tackling
+André Ceitil,MF,R,31,POR,1,false,false,false,tackling,passing
+Cícero,MF,R,29,BRA,5,true,false,false,passing,stamina
+Afonso Rodrigues,FW,L,24,POR,5,false,false,false,pace,dribbling
+Juan Rodriguez,MF,L,20,ECU,6,true,false,false,stamina,pace
+Maranhão,FW,L,27,BRA,7,true,false,false,pace,dribbling
+Brayan Medina,CB,L,24,COL,2,true,false,false,tackling,marking
+Emmanuel Maviram,FB,L,25,NGA,5,false,false,false,stamina,pace
+Sie Moudjatovic,FW,L,24,CIV,6,false,false,false,pace,dribbling
+Christian Marques,CB,R,23,POR,7,true,false,false,tackling,marking
+Miro,FW,L,23,ANG,3,false,false,false,finishing,pace
+Xabi Huarte,MF,R,25,ESP,6,true,false,false,passing,playmaking
+Yarlen,FW,R,20,BRA,7,false,false,false,pace,dribbling
+João Afonso,CB,L,36,POR,2,false,false,false,heading,tackling
+Yefrei Rodriguez,FW,R,21,COL,6,false,false,false,finishing,pace
+Diego Tavares,CB,R,21,POR,7,false,false,false,tackling,marking
+Gabriel Souza,GK,R,29,BRA,10,false,false,false,reflexes,positioning
+Bernardo,GK,L,24,BRA,5,true,false,false,positioning,reflexes
+Cañizares,GK,R,24,ESP,6,false,false,false,rushing-out,penalty-saving

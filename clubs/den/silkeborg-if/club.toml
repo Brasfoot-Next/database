@@ -1,0 +1,13 @@
+name = "Silkeborg IF"
+country = "DEN"
+level = 11
+reputation = 2
+colors = ["#0090D0", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Julius Simmelhack"
+country = "BRA"

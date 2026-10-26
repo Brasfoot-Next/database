@@ -1,0 +1,13 @@
+name = "PSG"
+country = "FRA"
+level = 25
+reputation = 5
+colors = ["#005080", "#FFFFFF"]
+
+[stadium]
+name = "Parc des Princes"
+capacity = 48583
+
+[coach]
+name = "Willian Mbaye"
+country = "BRA"

@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Marco Reus,MF,R,37,GER,5,true,false,false,passing,playmaking
+Riqui Puig,MF,R,27,ESP,7,true,false,false,passing,playmaking
+Joseph Paintsil,FW,L,28,GHA,9,true,false,false,pace,dribbling
+Miki Yamane,FB,R,32,JPN,4,false,false,false,stamina,pace
+Gabriel Pec,FW,L,25,BRA,6,true,false,false,pace,stamina
+Diego Fagundez,FW,L,31,URU,7,false,false,false,pace,dribbling
+Lucas Sanabria,MF,R,22,URU,1,true,false,false,marking,passing
+Julian Aude,FB,L,23,ARG,5,true,false,false,dribbling,passing
+Isaiah Parente,MF,R,26,USA,6,false,false,false,passing,dribbling
+Edwin Cerrillo,MF,L,25,USA,7,true,false,false,stamina,passing
+Christian Ramirez,FW,R,35,USA,5,false,false,false,heading,passing
+Maya Yoshida,CB,L,38,JPN,6,true,false,false,heading,tackling
+Tucker Lepley,MF,R,24,USA,7,false,false,false,pace,passing
+Mauricio Cuevas,FB,R,23,USA,2,false,false,false,pace,dribbling
+Zanka,CB,R,36,DEN,5,true,false,false,heading,tackling
+Emiro Garcés,CB,R,24,COL,7,false,false,false,pace,stamina
+Miguel Berry,FW,R,28,ESP,1,false,false,false,pace,dribbling
+Eriq Zavaleta,CB,R,34,USA,4,false,false,false,heading,stamina
+Elijah Wynder,MF,R,23,USA,6,false,false,false,passing,tackling
+John Nelson,FB,L,28,USA,7,true,false,false,pace,stamina
+Matheus Nascimento,FW,R,22,BRA,4,false,false,false,finishing,heading
+Gino Vivi,FW,L,25,USA,5,false,false,false,pace,dribbling
+Harbor Miller,FB,R,19,USA,6,false,false,false,pace,passing
+Ruben Ramos Jr,MF,R,19,USA,9,false,false,false,pace,playmaking
+Jt Marcinkowski,GK,R,29,USA,4,false,false,false,reflexes,penalty-saving
+Brady Scott,GK,R,27,USA,5,false,false,false,positioning,rushing-out
+Novak Micovic,GK,R,24,SRB,6,true,false,false,rushing-out,penalty-saving

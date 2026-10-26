@@ -1,0 +1,13 @@
+name = "Gaziantep FK"
+country = "TUR"
+level = 14
+reputation = 3
+colors = ["#F0F0F0", "#101010"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Nazim Cakir"
+country = "BRA"

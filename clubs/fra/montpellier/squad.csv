@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Teji Savanier,MF,R,34,FRA,4,true,false,false,passing,playmaking
+Becir Omeragic,CB,R,24,SUI,5,true,false,false,pace,tackling
+Khalil Fayad,MF,L,22,MAR,6,true,false,false,dribbling,passing
+Lucas Mincarelli,FB,L,22,FRA,7,false,false,false,tackling,marking
+Nathanael Mbuku,FW,L,24,COD,4,true,false,false,dribbling,passing
+Everson Junior,MF,R,22,FRA,5,false,false,false,pace,stamina
+Enzo Tchato,FB,R,23,CMR,6,true,false,false,pace,tackling
+Theo Sainte Luce,FB,L,27,FRA,8,true,false,false,pace,stamina
+Alexandre Mendy,FW,R,32,GNB,4,false,false,false,heading,stamina
+Nicolas Pays,MF,L,23,FRA,6,true,false,false,playmaking,passing
+Christopher Jullien,CB,L,33,FRA,7,true,false,false,heading,tackling
+Theo Chennahi,MF,R,21,FRA,2,false,false,false,passing,dribbling
+Ayanda Sishuba,MF,R,21,BEL,5,true,false,false,dribbling,passing
+Wilfried Ndollo Bille,FB,R,21,CMR,6,false,false,false,tackling,pace
+Axel Gueguin,FW,L,21,FRA,7,true,false,false,pace,dribbling
+Naoufel El Hannach,CB,R,19,MAR,3,false,false,false,tackling,pace
+Yanis Issoufou,MF,L,19,FRA,5,false,false,false,passing,dribbling
+Junior Ndiaye,FW,L,21,ERI,6,false,false,false,pace,dribbling
+Julien Laporte,CB,R,32,FRA,6,false,false,false,heading,marking
+Victor Orakpo,FW,R,20,NGA,7,false,false,false,pace,heading
+Yvan Djemba,MF,R,21,CMR,5,false,false,false,passing,stamina
+Fayssal El Mahboub,FW,R,19,FRA,6,false,false,false,pace,dribbling
+Yael Mouanga,CB,R,21,FRA,7,false,false,false,tackling,heading
+Mathieu Michel,GK,R,35,FRA,2,false,false,false,reflexes,penalty-saving
+Simon Ngapandouetnbu,GK,R,23,CMR,5,true,false,false,reflexes,penalty-saving
+Viktor Dzodic,GK,R,19,SRB,6,false,false,false,penalty-saving,rushing-out

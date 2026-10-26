@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ayoze,FW,L,33,ESP,5,false,false,false,finishing,pace
+Parejo,MF,L,37,ESP,6,true,false,false,playmaking,passing
+Thomas Partey,MF,R,33,GHA,6,true,false,false,passing,tackling
+Gerard Moreno,FW,L,34,ESP,8,false,false,false,finishing,dribbling
+Renato Veiga,CB,L,23,POR,5,true,false,false,stamina,tackling
+Pedraza,FB,L,30,ESP,6,false,false,false,pace,crossing
+Pape Gueye,MF,L,27,SEN,7,true,false,false,passing,stamina
+Georges Mikautadze,FW,R,25,GEO,4,true,false,false,pace,dribbling
+Nicolas Pepe,FW,L,31,CIV,6,false,false,false,pace,dribbling
+Sergi Cardona,FB,L,27,ESP,6,true,false,false,stamina,tackling
+Santi Comesaña,MF,R,29,ESP,6,true,false,false,passing,tackling
+Moleiro,FW,L,22,ESP,7,true,false,false,dribbling,pace
+Tajon Buchanan,FW,R,27,CAN,1,false,false,false,pace,dribbling
+Juan Foyth,CB,R,28,ARG,6,false,false,false,tackling,marking
+Manor Solomon,FW,L,27,ESP,6,false,false,false,pace,dribbling
+Altimira,FB,R,25,ESP,7,false,false,false,stamina,dribbling
+Ilias Akhomach,FW,L,22,MAR,2,false,false,false,pace,dribbling
+Logan Costa,CB,R,25,CPV,6,true,false,false,heading,tackling
+Tani Oluwaseyi,FW,R,26,CAN,6,false,false,false,pace,heading
+Santiago Mourino,FB,R,24,URU,7,true,false,false,tackling,heading
+Pau Navarro,CB,R,21,ESP,6,false,false,false,heading,tackling
+Rafa Marín,CB,R,24,ESP,7,false,false,false,tackling,heading
+Willy Kambwala,CB,R,22,FRA,9,false,false,false,tackling,marking
+Pau Cabanes,FW,R,21,ESP,5,false,false,false,dribbling,finishing
+Jean Yves Valou,CB,L,20,CIV,6,false,false,false,stamina,heading
+Arnau Tenas,GK,R,25,ESP,7,false,false,false,reflexes,penalty-saving
+Diego Conde,GK,R,27,ESP,9,false,false,false,reflexes,positioning
+Luiz Júnior,GK,R,25,BRA,5,true,false,false,positioning,rushing-out
+Rubén Gómez,GK,R,24,ESP,6,false,false,false,positioning,penalty-saving

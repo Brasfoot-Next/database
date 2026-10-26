@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Romeo Amane,MF,L,23,CIV,6,true,false,false,stamina,pace
+Tobias Gulliksen,MF,R,23,NOR,7,true,false,false,stamina,pace
+Bendeguz Bolla,FB,R,26,HUN,1,true,false,false,stamina,pace
+Jonas Auer,FB,L,26,AUT,5,false,false,false,stamina,pace
+Matthias Seidl,MF,R,25,AUT,6,true,false,false,stamina,passing
+Martin Ndzie,MF,L,23,CMR,7,false,false,false,heading,tackling
+Marco Tilio,FW,L,25,AUS,2,false,false,false,pace,stamina
+Louis Schaub,MF,L,31,AUT,5,false,false,false,playmaking,passing
+Lukas Grgic,MF,L,31,AUT,6,false,false,false,stamina,pace
+Andrija Radulovic,FW,L,24,MNE,7,false,false,false,pace,dribbling
+Claudy Mbuyi,FW,R,27,FRA,6,false,false,false,pace,finishing
+Ercan Kara,FW,R,30,AUT,7,false,false,false,stamina,pace
+Nikolaus Wurmbrand,FW,R,20,AUT,1,true,false,false,pace,dribbling
+Janis Antiste,MF,R,24,FRA,5,true,false,false,pace,finishing
+Petter Nosa Dahl,FW,L,22,NOR,6,true,false,false,pace,dribbling
+Tobias Borkeeiet,MF,R,27,NOR,7,false,false,false,stamina,passing
+Jannes Horn,FB,L,29,GER,1,true,false,false,stamina,tackling
+Dominik Weixelbraun,FW,L,22,AUT,5,false,false,false,pace,crossing
+Serge Philippe Raux Yao,CB,L,27,FRA,6,true,false,false,tackling,heading
+Oliver Strunz,FW,L,26,AUT,7,false,false,false,pace,heading
+Nenad Cvetkovic,CB,R,30,SRB,5,false,false,false,heading,tackling
+Furkan Demir,FB,R,21,TUR,6,false,false,false,stamina,pace
+Jean Harisson Marcelin,CB,R,26,AUT,7,false,false,false,heading,tackling
+Noah Bischof,FW,L,23,AUT,4,false,false,false,pace,stamina
+Jakob Scholler,CB,R,20,AUT,5,false,false,false,pace,heading
+Ange Ahoussou,CB,L,22,CIV,6,true,false,false,heading,tackling
+Amin Elias Groller,CB,R,21,TUN,8,false,false,false,pace,stamina
+Niklas Hedl,GK,R,25,AUT,4,true,false,false,reflexes,penalty-saving
+Paul Gartler,GK,R,29,AUT,5,false,false,false,penalty-saving,positioning
+Benjamin Goschl,GK,R,20,AUT,6,false,false,false,reflexes,positioning
+Laurenz Orgler,GK,R,21,AUT,4,false,false,false,reflexes,penalty-saving

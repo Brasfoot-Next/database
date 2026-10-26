@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kellyn Acosta,MF,R,31,USA,6,true,false,false,stamina,passing
+Jonathan Bamba,FW,L,30,CIV,7,false,false,false,pace,dribbling
+Hugo Cuypers,FW,R,29,BEL,3,true,false,false,stamina,finishing
+Philip Zinckernagel,FW,R,31,DEN,6,true,false,false,pace,playmaking
+Rominigue Kouame,MF,L,29,MLI,7,true,false,false,stamina,passing
+André Franco,FW,L,28,POR,1,false,false,false,playmaking,pace
+Andrew Gutman,FB,L,29,USA,5,true,false,false,pace,stamina
+Maren Haile Selassie,FW,R,27,SUI,6,false,false,false,pace,stamina
+Brian Gutierrez,MF,L,23,USA,7,true,false,false,dribbling,passing
+Chris Mueller,FW,L,30,USA,2,false,false,false,pace,dribbling
+Tom Barlow,FW,R,31,USA,5,false,false,false,pace,stamina
+Samuel Rogers,CB,R,27,USA,6,false,false,false,stamina,tackling
+Chase Gasper,FB,L,30,USA,8,false,false,false,stamina,pace
+Jonathan Dean,FB,R,29,USA,4,false,false,false,pace,stamina
+Leonardo Barroso,FB,R,21,POR,5,false,false,false,pace,finishing
+Joel Waterman,CB,R,30,CAN,6,true,false,false,passing,marking
+Sergio Oregel,MF,R,21,USA,10,true,false,false,pace,passing
+David Poreba,MF,R,23,USA,5,false,false,false,stamina,passing
+Jack Elliott,CB,L,31,ENG,5,true,false,false,stamina,tackling
+Mauricio Pineda,CB,R,28,USA,6,false,false,false,stamina,heading
+Omar Gonzalez,CB,R,37,USA,5,false,false,false,heading,tackling
+Sam Williams,MF,R,21,USA,6,false,false,false,stamina,passing
+Dje Davilla,MF,R,23,CIV,7,false,false,false,passing,heading
+Justin Reynolds,FB,R,22,USA,4,false,false,false,tackling,pace
+Dylan Borso,MF,L,20,USA,5,false,false,false,pace,passing
+Viktor Radojevic,FB,L,22,SRB,6,true,false,false,stamina,pace
+Christopher Cupps,CB,R,18,USA,7,false,false,false,pace,stamina
+Chris Brady,GK,R,22,USA,4,true,false,false,penalty-saving,reflexes
+Jeff Gal,GK,R,33,USA,5,false,false,false,positioning,reflexes

@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Chimere Maduba,GK,R,19,NGA,5,false,false,false,positioning,reflexes
+Ali Buhari,GK,L,17,NGA,4,false,false,false,rushing-out,penalty-saving
+Chigozie Ihunda,FB,R,19,NGA,8,true,false,false,passing,crossing
+Michael Enaruma,FB,L,16,NGA,8,true,false,false,crossing,tackling
+Ossy Martins,FB,R,17,NGA,2,true,false,false,pace,crossing
+Victor Chidume,CB,L,17,NGA,10,true,false,false,marking,stamina
+Uchenna Martins,CB,R,19,NGA,7,true,false,false,tackling,heading
+Enyinnaya Kazie,CB,L,18,NGA,4,true,false,false,stamina,tackling
+Ifeanyi Onyeali,MF,R,16,NGA,7,true,false,false,playmaking,passing
+Joshua Akhabue,MF,L,19,NGA,4,true,false,false,passing,dribbling
+Elvis Okoroafor,MF,R,19,NGA,8,false,false,false,marking,passing
+Ademola Adebambo,MF,L,18,NGA,3,true,false,false,tackling,marking
+Malachi Ohawuma,FW,R,17,NGA,6,true,false,false,pace,finishing
+Bamba Bakari,FW,L,16,NGA,5,true,false,false,finishing,dribbling
+Nafiu Bala Kabuga,FW,R,19,NGA,5,true,false,false,heading,finishing

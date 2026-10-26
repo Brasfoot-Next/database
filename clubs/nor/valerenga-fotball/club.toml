@@ -1,0 +1,13 @@
+name = "Vålerenga Fotball"
+country = "NOR"
+level = 10
+reputation = 2
+colors = ["#F0F0F0", "#002070"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Stian Jarl"
+country = "BRA"

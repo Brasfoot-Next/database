@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Alistair Smith,MF,R,27,ENG,5,true,false,false,stamina,pace
+Jake Reeves,MF,L,33,ENG,6,true,false,false,stamina,pace
+Myles Hippolyte,FW,L,31,GRN,7,false,false,false,pace,stamina
+Steve Seddon,FB,L,28,ENG,3,true,false,false,stamina,pace
+Callum Maycock,MF,R,28,ENG,5,true,false,false,stamina,pace
+Delano Mccoy Splatt,MF,R,21,JAM,7,true,false,false,pace,dribbling
+Marcus Browne,FW,R,28,ENG,2,true,false,false,pace,dribbling
+Omar Bugiel,FW,R,32,LBN,5,false,false,false,stamina,pace
+Sam Hutchinson,CB,R,37,ENG,6,false,false,false,tackling,marking
+Mathew Stevens,FW,R,28,ENG,7,true,false,false,stamina,pace
+Isaac Ogundere,CB,R,23,ENG,6,false,false,false,pace,stamina
+Danilo Orsi,FW,R,30,ENG,7,false,false,false,stamina,pace
+Joe Lewis,CB,R,26,WAL,3,false,false,false,stamina,heading
+Osman Foyo,FW,L,21,ENG,5,false,false,false,pace,stamina
+Nathan Asiimwe,FB,R,21,UGA,6,true,false,false,stamina,pace
+Brodi Hughes,CB,R,21,ENG,7,false,false,false,pace,stamina
+Harry Sidwell,MF,R,20,ENG,4,false,false,false,pace,stamina
+Aron Sasu,FW,L,21,NOR,5,false,false,false,pace,dribbling
+Riley Harbottle,CB,R,25,ENG,6,true,false,false,stamina,pace
+Ryan Johnson,CB,L,29,NIR,7,true,false,false,stamina,pace
+Antwoine Hackford,FW,R,22,ENG,6,false,false,false,pace,finishing
+Patrick Bauer,CB,R,33,GER,7,false,false,false,heading,tackling
+Ethan Sutcliffe,CB,R,22,ENG,2,false,false,false,pace,stamina
+Nathan Bishop,GK,R,26,ENG,5,true,false,false,reflexes,penalty-saving
+Leo Young,CB,L,20,ENG,6,false,false,false,pace,stamina
+Joe Mcdonnell,GK,R,32,ENG,7,false,false,false,reflexes,positioning

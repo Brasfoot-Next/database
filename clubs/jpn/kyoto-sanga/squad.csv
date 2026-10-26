@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Masaaki Murakami,GK,R,33,JPN,3,true,false,false,rushing-out,reflexes
+Gakuji Ota,GK,R,35,JPN,5,false,false,false,reflexes,positioning
+Kentaro Kakoi,GK,R,35,JPN,6,false,false,false,reflexes,positioning
+Akira Fantini,GK,R,28,JPN,7,false,false,false,rushing-out,positioning
+Henrique Trevisan,CB,R,29,BRA,3,true,false,false,tackling,marking
+Weverton,CB,R,23,BRA,5,true,false,false,tackling,marking
+Yoshinori Suzuki,CB,L,33,JPN,7,false,false,false,marking,tackling
+Hisashi Appiah Tawiah,CB,R,27,JPN,3,false,false,false,tackling,marking
+Kodai Nagata,CB,R,23,JPN,5,false,false,false,heading,tackling
+Kyo Sato,FB,R,26,JPN,6,true,false,false,stamina,crossing
+Ren Kato,FB,L,26,JPN,5,false,false,false,pace,tackling
+Ryosuke Yamanaka,FB,R,33,JPN,6,false,false,false,stamina,crossing
+Shinnosuke Fukuda,FB,R,25,JPN,7,true,false,false,crossing,pace
+Yusuke Ishida,FB,L,23,JPN,2,false,false,false,marking,crossing
+João Pedro,MF,R,26,BRA,5,false,false,false,finishing,passing
+Sung-jun Yoon,MF,R,19,JPN,6,false,false,false,marking,passing
+Mitsuki Saito,MF,R,27,JPN,7,false,false,false,finishing,playmaking
+Takuji Yonemoto,MF,R,35,JPN,2,false,false,false,tackling,marking
+Thiago,MF,R,24,BRA,5,false,false,false,marking,passing
+Shimpei Fukuoka,MF,R,26,JPN,6,true,false,false,pace,dribbling
+Ryuma Nakano,MF,R,23,JPN,7,false,false,false,pace,crossing
+Taiki Hirato,MF,L,29,JPN,2,true,false,false,pace,crossing
+Haruki Arai,MF,L,28,JPN,5,true,false,false,pace,crossing
+Taiyo Hiraoka,MF,R,23,JPN,6,true,false,false,passing,tackling
+Temma Matsuda,MF,L,31,JPN,7,false,false,false,pace,dribbling
+Fuchi Honda,MF,L,25,JPN,2,false,false,false,pace,dribbling
+Masaya Okugawa,FW,R,30,JPN,5,false,false,false,finishing,dribbling
+Sora Hiraga,FW,R,21,JPN,6,false,false,false,finishing,heading
+Everton Maceió,FW,R,23,BRA,7,false,false,false,heading,pace
+Rafael Elias,FW,R,27,BRA,3,true,false,false,finishing,pace
+Marco Túlio,FW,L,28,BRA,6,true,false,false,heading,pace
+Alex Souza,FW,R,25,BRA,8,false,false,false,pace,finishing
+Takumi Kato,FW,R,27,JPN,4,false,false,false,heading,stamina
+Shun Nagasawa,FW,L,37,JPN,5,false,false,false,heading,pace

@@ -1,0 +1,19 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Daniel Chima Chukwu,FW,R,35,NGA,7,false,false,false,stamina,finishing
+Mandar Dessai,FB,L,34,IND,3,false,false,false,stamina,pace
+Pritam Kotal,CB,R,33,IND,5,true,false,false,stamina,pace
+Jitendra Singh,MF,R,25,IND,6,true,false,false,pace,passing
+Farukh Choudhary,FW,L,29,IND,6,true,false,false,pace,passing
+Elsinho,MF,L,35,BRA,7,true,false,false,marking,tackling
+Lalrinliana Hnamte,FW,L,23,IND,3,false,false,false,stamina,passing
+Irfan Yadwad,FW,L,25,IND,5,true,false,false,playmaking,crossing
+Laldinliana Renthlei,FB,R,28,IND,6,true,false,false,stamina,pace
+Vignesh Dakshinamurthy,FB,L,28,IND,7,true,false,false,pace,tackling
+Maheson Singh,FW,R,21,IND,7,false,false,false,stamina,dribbling
+Gurkirat Singh,FW,L,23,IND,2,false,false,false,pace,finishing
+Ankit Mukherjee,FB,R,30,IND,5,true,false,false,pace,stamina
+Jiteshwor Singh,MF,R,24,IND,6,true,false,false,passing,dribbling
+Pachuau Laldinpuia,CB,L,29,IND,7,true,false,false,stamina,tackling
+Mohammad Nawaz,GK,R,26,IND,3,true,false,false,reflexes,penalty-saving
+Samik Mitra,GK,R,25,IND,5,false,false,false,reflexes,penalty-saving
+Prateek Kumar,GK,R,26,IND,6,false,false,false,positioning,rushing-out

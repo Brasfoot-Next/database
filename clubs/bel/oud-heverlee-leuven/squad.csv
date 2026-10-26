@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Siebe Schrijvers,MF,L,30,BEL,5,true,false,false,playmaking,passing
+Birger Verstraete,MF,R,32,BEL,6,true,false,false,stamina,passing
+Mathieu Maertens,MF,R,31,BEL,7,false,false,false,stamina,playmaking
+Takahiro Akimoto,FB,L,28,JPN,7,true,false,false,stamina,pace
+Ł. Łakomy,MF,R,25,POL,4,false,false,false,stamina,marking
+Youssef Maziz,MF,R,28,FRA,5,true,false,false,dribbling,passing
+Óscar Gil,FB,R,28,ESP,6,true,false,false,pace,stamina
+Chukwubuikem Ikwuemesi,FW,R,25,NGA,7,false,false,false,pace,dribbling
+Thibault Vlietinck,FW,R,29,BEL,4,false,false,false,pace,crossing
+William Balikwisha,FW,R,27,COD,5,false,false,false,dribbling,pace
+Henok Teklab,FW,L,27,GER,5,false,false,false,pace,playmaking
+Bryang Kayo,MF,R,24,USA,6,false,false,false,stamina,pace
+Nachon Nsingi,FW,L,25,BEL,7,false,false,false,pace,dribbling
+Thibaud Verlinden,FW,L,27,BEL,3,true,false,false,pace,passing
+Sory Kaba,FW,R,31,GUI,5,false,false,false,stamina,finishing
+Casper Terho,FW,L,23,FIN,6,false,false,false,pace,finishing
+Noe Dussenne,CB,R,34,BEL,7,false,false,false,stamina,marking
+Takuma Ominami,CB,L,28,JPN,3,false,false,false,pace,stamina
+Viktor Damjanic,CB,L,20,CRO,5,false,false,false,heading,tackling
+Wouter George,MF,R,24,BEL,6,true,false,false,dribbling,passing
+Abdoul Karim Traore,FW,R,19,GUI,5,false,false,false,dribbling,pace
+Ewoud Pletinckx,CB,R,25,BEL,5,true,false,false,stamina,heading
+Jovan Mijatovic,FW,L,21,SRB,7,true,false,false,finishing,stamina
+Mohamed Azzouz,MF,R,19,MAR,1,false,false,false,pace,dribbling
+Davis Opoku,FB,R,18,BEL,5,false,false,false,pace,tackling
+Roggerio Nyakossi,CB,R,22,SUI,6,true,false,false,stamina,tackling
+Christ Souanga,FB,L,19,BEL,7,false,false,false,stamina,pace
+Tobe Leysen,GK,L,24,BEL,2,true,false,false,reflexes,positioning
+Maxence Prevot,GK,R,29,FRA,5,false,false,false,rushing-out,positioning
+Owen Jochmans,GK,R,23,BEL,6,false,false,false,penalty-saving,reflexes

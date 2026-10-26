@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mark Ohara,MF,L,30,SCO,6,false,false,false,stamina,pace
+Liam Donnelly,MF,R,30,NIR,7,true,false,false,stamina,tackling
+Keanu Baccus,MF,R,28,AUS,1,true,false,false,stamina,pace
+Scott Tanser,FB,L,31,ENG,5,true,false,false,stamina,pace
+Killian Phillips,MF,R,24,IRL,6,true,false,false,stamina,passing
+Declan John,FB,L,31,WAL,7,false,false,false,pace,crossing
+Jonah Ayunga,FW,R,29,KEN,2,true,false,false,pace,stamina
+Mikael Mandron,FW,L,31,FRA,5,false,false,false,stamina,finishing
+Marcus Fraser,CB,R,32,SCO,7,true,false,false,stamina,pace
+Roland Idowu,MF,R,24,IRL,9,true,false,false,pace,stamina
+Tunmise Sobowale,FB,R,27,IRL,4,false,false,false,pace,stamina
+Jayden Richardson,FB,R,26,ENG,5,true,false,false,pace,stamina
+Alex Gogic,CB,R,32,CYP,6,false,false,false,stamina,heading
+Malik Dijksteel,FW,L,25,NED,8,false,false,false,pace,stamina
+Dan Nlundulu,FW,R,27,ENG,4,true,false,false,pace,stamina
+Conor Mcmenamin,FW,L,31,NIR,5,false,false,false,pace,dribbling
+Fraser Taylor,MF,R,23,SCO,6,false,false,false,pace,playmaking
+Evan Mooney,FW,R,18,SCO,9,false,false,false,pace,passing
+Miguel Freckleton,CB,L,23,ENG,4,false,false,false,stamina,pace
+Jalmaro Calvin,FW,L,23,ATG,5,false,false,false,pace,finishing
+Richard King,CB,R,24,JAM,3,true,false,false,pace,heading
+Shamal George,GK,R,28,ENG,5,true,false,false,reflexes,penalty-saving
+Ryan Mullen,GK,R,25,SCO,6,false,false,false,reflexes,penalty-saving

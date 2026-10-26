@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ashley Young,FB,R,41,ENG,5,false,false,false,passing,crossing
+Leif Davis,FB,L,26,ENG,6,true,false,false,stamina,crossing
+Marcelino Nunez,MF,R,26,CHI,7,true,false,false,stamina,playmaking
+Sammie Szmodics,MF,R,30,IRL,1,true,false,false,stamina,finishing
+Wes Burns,FW,R,31,WAL,5,false,false,false,pace,stamina
+Jens Lys Cajuste,MF,R,27,SWE,6,false,false,false,passing,playmaking
+Jack Taylor,MF,R,28,IRL,7,true,false,false,stamina,passing
+Azor Matusiwa,MF,L,28,NED,2,true,false,false,stamina,tackling
+Kasey Mcateer,FW,R,24,IRL,5,false,false,false,pace,dribbling
+Harry Clarke,FB,R,25,ENG,6,false,false,false,pace,stamina
+Jack Clarke,FW,L,25,ENG,6,true,false,false,pace,stamina
+Cameron Humphreys,MF,L,22,ENG,7,false,false,false,stamina,playmaking
+Jaden Philogene,FW,L,24,ENG,5,true,false,false,pace,dribbling
+Chuba Akpom,FW,R,30,ENG,6,false,false,false,finishing,pace
+Ben Johnson,FB,R,26,ENG,6,true,false,false,tackling,marking
+Darnell Furlong,FB,R,30,ENG,7,false,false,false,stamina,pace
+George Hirst,FW,R,27,SCO,10,false,false,false,pace,heading
+Jacob Greaves,CB,L,25,ENG,5,true,false,false,marking,tackling
+Conor Townsend,FB,L,33,ENG,6,false,false,false,tackling,crossing
+Iván Azón,FW,R,23,ESP,7,false,false,false,heading,stamina
+Dara Oshea,CB,R,27,IRL,6,false,false,false,heading,tackling
+Cedric Kipre,CB,R,29,CIV,7,true,false,false,stamina,tackling
+Sindre Walle Egeli,FW,L,20,NOR,2,false,false,false,pace,stamina
+Elkan Baggott,CB,L,23,IDN,6,false,false,false,stamina,heading
+Christian Walton,GK,L,30,ENG,6,true,false,false,reflexes,penalty-saving
+Alex Palmer,GK,R,30,ENG,7,false,false,false,penalty-saving,reflexes
+David Button,GK,R,37,ENG,4,false,false,false,penalty-saving,positioning

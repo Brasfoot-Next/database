@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Liziero,MF,L,28,BRA,7,true,false,false,passing,dribbling
+André Sousa,MF,L,36,POR,3,false,false,false,playmaking,passing
+Lenny Vallier,FB,L,27,FRA,5,false,false,false,stamina,pace
+Filipe Soares,MF,R,27,POR,6,true,false,false,stamina,passing
+João Aurélio,FB,R,38,POR,7,false,false,false,playmaking,crossing
+Joel Silva,MF,R,23,POR,8,false,false,false,stamina,pace
+Witi,FW,L,30,MOZ,4,false,false,false,pace,stamina
+Jota,MF,R,33,POR,5,false,false,false,playmaking,dribbling
+Jesus Ramirez,FW,R,28,VEN,6,true,false,false,pace,stamina
+José Gomes,FB,L,30,POR,9,true,false,false,stamina,pace
+Miguel Baeza,MF,L,26,ESP,6,false,false,false,passing,crossing
+Deivison,MF,R,20,BRA,7,false,false,false,pace,tackling
+Matheus Dias,MF,R,24,BRA,1,true,false,false,tackling,stamina
+Chiheb Labidi,MF,L,25,TUN,5,true,false,false,tackling,passing
+Lucas João,FW,R,33,ANG,6,false,false,false,pace,finishing
+Léo Santos,CB,R,27,BRA,7,true,false,false,stamina,tackling
+Paulinho Bóia,FW,L,28,BRA,2,true,false,false,pace,dribbling
+Daniel Júnior,MF,L,24,BRA,5,false,false,false,dribbling,passing
+Alan Nunez,FB,R,21,PAR,6,true,false,false,pace,stamina
+Zé Vitor,CB,L,25,BRA,7,true,false,false,stamina,heading
+Pablo Ruan,FW,R,23,BRA,5,false,false,false,finishing,heading
+Martim Watts,FW,R,21,POR,6,false,false,false,pace,dribbling
+Josué Souza,MF,R,21,BRA,8,false,false,false,tackling,passing
+Motez Nourani,FW,L,24,TUN,4,false,false,false,pace,dribbling
+Ulisses Wilson,CB,R,26,BRA,5,false,false,false,stamina,tackling
+Ivanildo Fernandes,CB,L,30,CPV,6,false,false,false,stamina,heading
+Francisco Gonçalves,CB,R,22,POR,9,false,false,false,stamina,tackling
+Lucas França,GK,R,30,BRA,4,false,false,false,reflexes,positioning
+Kaique Pereira,GK,R,23,BRA,5,true,false,false,penalty-saving,reflexes
+Kevyn Vinícius,GK,L,21,BRA,7,false,false,false,reflexes,penalty-saving

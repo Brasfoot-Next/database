@@ -1,0 +1,13 @@
+name = "Mjällby AIF"
+country = "SWE"
+level = 11
+reputation = 2
+colors = ["#C0C000", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Elliot Tornqvist"
+country = "BRA"

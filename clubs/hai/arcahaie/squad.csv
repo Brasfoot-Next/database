@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Desrosiers,GK,L,30,HAI,4,true,false,false,positioning,rushing-out
+Jean Loriston,GK,R,18,HAI,4,false,false,false,positioning,penalty-saving
+Gooly Elien,GK,L,22,HAI,10,false,false,false,reflexes,positioning
+Alland Pierre,FB,R,29,HAI,9,true,false,false,crossing,marking
+Marc Sully,FB,L,30,HAI,3,true,false,false,crossing,pace
+Richard Moril,FB,R,32,HAI,4,false,false,false,crossing,marking
+Sylvenson Colin,CB,R,27,HAI,7,true,false,false,heading,stamina
+Reginald Cadet,CB,L,34,HAI,9,true,false,false,tackling,marking
+Hantz Anacius,CB,L,28,HAI,6,false,false,false,tackling,stamina
+Esdras Philippe,CB,R,39,HAI,6,false,false,false,tackling,marking
+Osé Charles,MF,R,21,HAI,4,true,false,false,finishing,passing
+Wendy Louis-Jean,MF,L,27,HAI,6,true,false,false,tackling,marking
+Cliford Thomas,MF,R,23,HAI,3,true,false,false,marking,passing
+Olnick Alesy,MF,R,29,HAI,6,true,false,false,marking,passing
+Eguynor Cinéus,MF,R,21,HAI,5,false,false,false,tackling,pace
+Richardson Thomas,MF,R,20,HAI,3,false,false,false,finishing,passing
+Woodensray Villière,MF,R,24,HAI,8,false,false,false,playmaking,finishing
+Junior Limage,MF,R,22,HAI,5,false,false,false,passing,finishing
+Pierre Paul,FW,L,22,HAI,8,true,false,false,dribbling,finishing
+Mylove Dorvilien,FW,L,20,HAI,4,true,false,false,finishing,pace
+Marc Beldor,FW,R,24,HAI,10,false,false,false,playmaking,finishing
+Walny Bien-Aimé,FW,L,23,HAI,7,false,false,false,dribbling,finishing

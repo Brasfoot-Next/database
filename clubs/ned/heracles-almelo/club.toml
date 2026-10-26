@@ -1,0 +1,13 @@
+name = "Heracles Almelo"
+country = "NED"
+level = 11
+reputation = 2
+colors = ["#000000", "#F0F0F0"]
+
+[stadium]
+name = "Asito Stadion"
+capacity = 12242
+
+[coach]
+name = "Sava Sanches"
+country = "BRA"

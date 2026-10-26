@@ -1,0 +1,13 @@
+name = "Córdoba CF"
+country = "ESP"
+level = 12
+reputation = 2
+colors = ["#E0E0E0", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Carracedo Alcedo"
+country = "BRA"

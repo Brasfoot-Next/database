@@ -1,0 +1,13 @@
+name = "Sheriff Tiraspol"
+country = "MDA"
+level = 15
+reputation = 3
+colors = ["#000000", "#ffff33"]
+
+[stadium]
+name = "Sheriff Stadium"
+capacity = 12746
+
+[coach]
+name = "Stjepan Tomas"
+country = "CRO"

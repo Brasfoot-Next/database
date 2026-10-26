@@ -1,0 +1,13 @@
+name = "Western Sydney Wanderers"
+country = "AUS"
+level = 9
+reputation = 2
+colors = ["#A0A0A0", "#FFFFFF"]
+
+[stadium]
+name = "CommBank Stadium"
+capacity = 30000
+
+[coach]
+name = "Phillip Simmons"
+country = "BRA"

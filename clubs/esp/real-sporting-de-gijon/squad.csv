@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Àlex Corredera,MF,L,30,ESP,6,true,false,false,stamina,passing
+Juan Ferney Otero,FW,R,31,COL,7,false,false,false,pace,stamina
+Gaspar Campos,FW,L,26,ESP,3,false,false,false,stamina,pace
+Guille Rosas,FB,R,26,ESP,5,false,false,false,stamina,pace
+Jonathan Dubasin,FW,R,26,BEL,6,false,false,false,finishing,pace
+César Gelabert,MF,R,25,ESP,7,true,false,false,playmaking,passing
+Oscar Cortes,FW,L,22,COL,3,true,false,false,pace,dribbling
+Eric Curbelo,CB,R,32,ESP,5,false,false,false,stamina,pace
+Kevin,FB,R,33,ESP,6,true,false,false,crossing,passing
+Nacho Martín,MF,R,24,ESP,7,false,false,false,stamina,passing
+Pablo García,FB,L,26,ESP,7,true,false,false,stamina,pace
+Diego Sánchez,CB,L,23,ESP,5,true,false,false,stamina,pace
+Jesús Bernal,MF,R,29,ESP,6,true,false,false,stamina,passing
+Mamadou Loum,CB,R,29,SEN,7,false,false,false,stamina,heading
+Daniel Queipo,FW,L,24,ESP,2,false,false,false,pace,finishing
+Enol Prendes,MF,R,22,ESP,5,false,false,false,pace,passing
+Justin Smith,MF,R,23,CAN,6,true,false,false,stamina,passing
+Álex Lozano,FW,L,21,ESP,7,false,false,false,pace,dribbling
+Jordy Caicedo,FW,R,28,ECU,3,true,false,false,pace,heading
+Amadou Matar Coundoul,FW,R,24,SEN,5,false,false,false,pace,heading
+Álex Oyón,FW,R,23,ESP,7,false,false,false,pace,dribbling
+Lucas Perrin,CB,L,27,FRA,2,true,false,false,stamina,heading
+Pablo Vázquez,CB,R,31,ESP,6,false,false,false,heading,tackling
+Iker Martínez,FB,R,22,ESP,7,false,false,false,tackling,dribbling
+Pierre Mbemba,CB,R,22,FRA,10,false,false,false,tackling,heading
+Yann Kembo Diantela,CB,L,24,FRA,4,false,false,false,tackling,heading
+Rubén Yáñez,GK,R,32,ESP,6,false,false,false,reflexes,penalty-saving
+Christian Joel Sanchez,GK,L,27,ESP,7,false,false,false,reflexes,penalty-saving
+Iker Venteo,GK,R,23,ESP,1,false,false,false,reflexes,penalty-saving
+Gerard Moreno,GK,R,21,ESP,5,true,false,false,penalty-saving,rushing-out

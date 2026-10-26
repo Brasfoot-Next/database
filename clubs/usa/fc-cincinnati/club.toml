@@ -1,0 +1,13 @@
+name = "FC Cincinnati"
+country = "USA"
+level = 15
+reputation = 3
+colors = ["#A03000", "#F0F0F0"]
+
+[stadium]
+name = "TQL Stadium"
+capacity = 26000
+
+[coach]
+name = "Gerardo Valenzuela"
+country = "BRA"

@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ognjen Cancarevic,GK,L,32,SRB,2,true,false,false,positioning,rushing-out
+Sevak Aslanyan,GK,L,24,ARM,5,false,false,false,positioning,rushing-out
+Tiago Cametá,FB,R,30,BRA,10,true,false,false,crossing,marking
+Gagik Daghbashyan,FB,L,31,ARM,8,true,false,false,marking,passing
+Vahagn Ayvazyan,FB,R,30,ARM,6,false,false,false,finishing,passing
+Taron Voskanyan,CB,L,29,ARM,8,true,false,false,marking,pace
+Didier Kadio,CB,R,32,CIV,10,true,false,false,tackling,stamina
+Andranik Voskanyan,CB,R,32,ARM,2,false,false,false,marking,pace
+Annan Mensah,CB,L,26,GHA,3,false,false,false,marking,pace
+Wangu Gome,MF,R,29,NAM,10,false,false,false,tackling,pace
+Artak Grigoryan,MF,L,34,ARM,3,true,false,false,marking,pace
+David Khurtsidze,MF,L,29,RUS,8,true,false,false,playmaking,passing
+James,MF,R,27,BRA,4,true,false,false,finishing,passing
+Artak Yedigaryan,MF,L,32,ARM,10,true,false,false,passing,finishing
+Erik Soghomonyan,MF,R,22,ARM,6,false,false,false,tackling,passing
+Tiago Galvão,MF,R,32,BRA,10,false,false,false,finishing,passing
+Benik Hovhannisyan,MF,L,29,ARM,7,false,false,false,tackling,marking
+Bladimir Díaz,FW,R,30,COL,8,true,false,false,pace,crossing
+Ismaël Fofana,FW,L,33,CIV,1,true,false,false,finishing,pace
+Sargis Metoyan,FW,R,24,ARM,8,false,false,false,finishing,pace
+Karapetyan,FW,R,34,ARM,4,false,false,false,dribbling,finishing

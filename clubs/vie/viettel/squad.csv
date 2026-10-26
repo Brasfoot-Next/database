@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Manh Tran,GK,R,30,VIE,4,true,false,false,positioning,penalty-saving
+Tai Quang,GK,L,25,VIE,6,false,false,false,penalty-saving,reflexes
+Son Ngo,GK,R,25,VIE,9,false,false,false,positioning,penalty-saving
+Chien Nguyen,FB,R,23,VIE,8,true,false,false,finishing,passing
+Thang Nguyen,FB,L,22,VIE,1,false,false,false,finishing,passing
+Cao Tran,FB,L,23,VIE,4,true,false,false,finishing,pace
+Kien Nguyen,FB,R,22,VIE,7,false,false,false,crossing,marking
+Binh Nguyen,CB,L,21,VIE,1,true,false,false,marking,pace
+Dung Bui,CB,R,26,VIE,5,false,false,false,heading,stamina
+Thiet Truong,CB,R,27,VIE,5,true,false,false,tackling,stamina
+Thuong Bui,MF,R,26,VIE,5,true,false,false,passing,finishing
+Duc Nguyen,MF,L,24,VIE,10,true,false,false,passing,finishing
+Son Tran,MF,L,25,VIE,9,false,false,false,passing,finishing
+Nguyen,MF,R,24,VIE,10,false,false,false,marking,finishing
+Ngoc Ho,MF,L,29,VIE,8,false,false,false,marking,passing
+Geovane Magno,MF,L,28,BRA,9,true,false,false,finishing,passing
+Abdumuminov,MF,L,29,UZB,4,true,false,false,tackling,pace
+Hao Duong,FW,R,25,VIE,7,false,false,false,heading,finishing
+Pedro Paulo,FW,L,28,BRA,7,true,false,false,pace,finishing
+Caíque Lemes,FW,L,29,BRA,3,false,false,false,dribbling,finishing
+Anh Truong,FW,R,23,VIE,7,true,false,false,finishing,stamina

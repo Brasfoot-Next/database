@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Simon Hedlund,FB,R,33,SWE,5,true,false,false,pace,stamina
+Johan Larsson,FB,R,36,SWE,6,true,false,false,stamina,playmaking
+Niklas Hult,FB,L,36,SWE,7,false,false,false,stamina,passing
+Besfort Zeneli,MF,L,23,SWE,1,true,false,false,playmaking,passing
+Arber Zeneli,FW,L,31,SWE,5,true,false,false,crossing,dribbling
+Wenderson,MF,R,27,BRA,6,false,false,false,pace,stamina
+Jens Jakob Thomasen,MF,R,30,DEN,7,true,false,false,stamina,passing
+Daniel Granli,CB,R,32,NOR,1,true,false,false,stamina,passing
+Per Frick,FW,R,34,SWE,5,false,false,false,stamina,pace
+Simon Olsson,MF,R,28,SWE,6,true,false,false,stamina,passing
+Frederik Ihler,FW,R,23,DEN,6,true,false,false,pace,stamina
+Julius Magnusson,MF,R,28,ISL,3,true,false,false,pace,marking
+Ari Sigurpalsson,FW,L,23,ISL,5,false,false,false,stamina,pace
+Buhari Ibrahim,CB,R,24,NGA,6,false,false,false,pace,heading
+Sebastian Holmen,CB,R,34,SWE,7,false,false,false,stamina,heading
+Rasmus Wikstrom,CB,L,25,SWE,3,true,false,false,heading,tackling
+Altti Hellemaa,MF,R,22,FIN,5,false,false,false,pace,stamina
+Taylor Silverholt,FW,L,25,SWE,6,false,false,false,pace,finishing
+Gottfrid Rapp,FW,R,21,SWE,7,false,false,false,pace,passing
+Leo Ostman,FW,R,20,SWE,4,false,false,false,pace,heading
+Frode Aronsson,FB,R,20,SWE,6,false,false,false,pace,tackling
+Isak Pettersson,GK,L,29,SWE,7,true,false,false,reflexes,penalty-saving
+Lucas Hagg Johansson,GK,R,32,SWE,5,false,false,false,penalty-saving,rushing-out
+Simon Eriksson,GK,R,20,SWE,6,false,false,false,rushing-out,reflexes

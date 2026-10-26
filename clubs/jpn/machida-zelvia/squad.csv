@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kosei Tani,GK,R,25,JPN,1,true,false,false,positioning,penalty-saving
+Aki Koch,GK,R,22,GER,5,false,false,false,reflexes,penalty-saving
+Tatsuya Morita,GK,R,35,JPN,6,false,false,false,rushing-out,reflexes
+Nicholas Guimarães,GK,L,19,JPN,7,false,false,false,positioning,reflexes
+Yuta Nakayama,CB,R,29,JPN,7,true,false,false,heading,marking
+Ibrahim Dresevic,CB,R,29,JPN,3,true,false,false,tackling,heading
+Daihachi Okamura,CB,R,29,JPN,5,false,false,false,marking,heading
+Min-tae Kim,CB,R,32,JPN,6,false,false,false,heading,tackling
+Gen Shoji,CB,R,33,JPN,7,false,false,false,marking,passing
+Ryuho Kikuchi,CB,L,29,JPN,4,false,false,false,heading,passing
+Takahiro Akimoto,FB,L,28,JPN,5,true,false,false,stamina,pace
+Henry Heroki Mochizuki,FB,L,24,JPN,6,true,false,false,pace,crossing
+Hotaka Nakamura,FB,R,28,JPN,7,false,false,false,tackling,stamina
+Hiroyuki Mae,MF,R,30,JPN,3,true,false,false,passing,tackling
+Neta Lavi,MF,R,29,JPN,5,true,false,false,stamina,passing
+Hokuto Shimoda,MF,R,34,JPN,6,false,false,false,finishing,passing
+Je-hoon Cha,MF,L,20,JPN,7,false,false,false,passing,finishing
+Keiya Sento,MF,R,31,JPN,4,false,false,false,pace,dribbling
+Asahi Masuyama,MF,R,29,JPN,5,true,false,false,pace,crossing
+Yusuke Matsuo,MF,L,28,JPN,6,true,false,false,pace,crossing
+Futa Tokumura,MF,R,18,JPN,5,false,false,false,passing,playmaking
+Ryohei Shirasaki,MF,R,33,JPN,6,false,false,false,playmaking,passing
+Yuki Soma,FW,R,29,JPN,7,true,false,false,heading,pace
+Erik,FW,L,31,BRA,2,true,false,false,dribbling,finishing
+Takuma Nishimura,FW,R,29,JPN,5,false,false,false,finishing,dribbling
+Shota Fujio,FW,R,25,JPN,6,false,false,false,dribbling,finishing
+Tete Yengi,FW,R,25,AUS,7,false,false,false,pace,stamina
+Mitchell Duke,FW,R,35,AUS,3,false,false,false,heading,stamina

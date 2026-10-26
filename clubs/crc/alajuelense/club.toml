@@ -1,0 +1,13 @@
+name = "Alajuelense"
+country = "CRC"
+level = 14
+reputation = 3
+colors = ["#000000", "#ff3333"]
+
+[stadium]
+name = "Alejandro Soto"
+capacity = 17895
+
+[coach]
+name = "Fabián Coito"
+country = "URU"

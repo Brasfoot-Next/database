@@ -1,0 +1,13 @@
+name = "Moreirense FC"
+country = "POR"
+level = 13
+reputation = 3
+colors = ["#E0C070", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Maracás Landerson"
+country = "BRA"

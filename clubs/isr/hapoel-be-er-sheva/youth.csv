@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rubi Levkovic,GK,R,19,ISR,5,true,false,false,positioning,reflexes
+Gal Navon,GK,L,17,ISR,4,true,false,false,rushing-out,penalty-saving
+Liran Cohen,FB,R,18,ISR,8,true,false,false,passing,crossing
+Noam Gamoun,FB,L,16,ISR,8,true,false,false,crossing,tackling
+Dor Malul,FB,R,17,ISR,2,true,false,false,pace,crossing
+Aviatar Illouz,CB,L,17,ISR,10,true,false,false,marking,stamina
+Daniel Eskeling,CB,R,19,ISR,7,true,false,false,tackling,heading
+Shalom Shalev Avitan,CB,L,18,ISR,4,true,false,false,stamina,tackling
+Liad Levi,MF,R,16,ISR,7,true,false,false,playmaking,passing
+Abdallah Abu Abaid,MF,L,17,ISR,4,true,false,false,passing,dribbling
+Rashir Parkins,MF,R,18,CRC,8,true,false,false,marking,passing
+Ilay Madmon,MF,L,16,ISR,3,true,false,false,tackling,marking
+Elianiv Barda,FW,R,17,ISR,6,true,false,false,pace,finishing
+Yosef Abu Laben,FW,L,16,ISR,5,true,false,false,finishing,dribbling
+Dovev Gabay,FW,R,19,ISR,5,true,false,false,heading,finishing

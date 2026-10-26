@@ -1,0 +1,43 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Dmytro Riznyk,GK,R,27,UKR,7,true,false,false,positioning,reflexes
+Kiril Fesyun,GK,R,24,UKR,2,false,false,false,positioning,reflexes
+Denys Tvardovskyi,GK,R,23,UKR,6,false,false,false,reflexes,penalty-saving
+Tymur Puzankov,GK,R,23,UKR,6,false,false,false,reflexes,penalty-saving
+Rostyslav Baglay,GK,R,18,UKR,8,false,false,false,reflexes,rushing-out
+Mykola Matvienko,CB,L,30,UKR,4,true,false,false,tackling,passing
+Valeriy Bondar,CB,R,27,UKR,6,true,false,false,passing,marking
+Marlon,CB,R,31,BRA,6,false,false,false,heading,tackling
+Alaa Ghram,CB,R,25,TUN,8,false,false,false,pace,passing
+Eduard Kozik,CB,R,23,UKR,4,false,false,false,heading,stamina
+Diego Arroyo,CB,L,21,BOL,6,false,false,false,passing,stamina
+Maryan Faryna,CB,L,23,UKR,6,false,false,false,heading,pace
+Danylo Udod,CB,R,22,UKR,8,false,false,false,tackling,marking
+Roman Savchenko,CB,R,22,UKR,4,false,false,false,marking,tackling
+Pedro Henrique,FB,L,24,BRA,6,true,false,false,pace,stamina
+Irakli Azarovi,FB,L,24,GEO,6,false,false,false,pace,dribbling
+Viktor Korniyenko,FB,L,27,UKR,7,false,false,false,crossing,pace
+Vinícius Tobias,FB,R,22,BRA,9,true,false,false,pace,dribbling
+Giorgi Gocholeishvili,FB,R,25,GEO,5,false,false,false,pace,stamina
+Oleksandr Karavaev,FB,R,34,UKR,6,false,false,false,stamina,pace
+Marlon Gomes,MF,R,22,BRA,8,true,false,false,passing,pace
+Dmytro Kryskiv,MF,R,25,UKR,4,false,false,false,passing,playmaking
+Yegor Nazaryna,MF,L,29,UKR,6,false,false,false,dribbling,passing
+Viktor Tsukanov,MF,R,20,UKR,7,false,false,false,passing,dribbling
+Kyrylo Sigeev,MF,R,22,UKR,8,false,false,false,stamina,tackling
+Isaque,MF,R,19,BRA,4,true,false,false,dribbling,playmaking
+Artem Bondarenko,MF,L,26,UKR,5,true,false,false,passing,dribbling
+Oleg Ocheretko,MF,L,23,UKR,6,true,false,false,dribbling,passing
+Anton Glushchenko,MF,L,22,UKR,7,false,false,false,pace,dribbling
+Newerton,FW,L,21,BRA,9,false,false,false,pace,dribbling
+Eguinaldo,FW,R,22,BRA,7,false,false,false,pace,dribbling
+Gleiker Mendoza,FW,R,24,VEN,10,false,false,false,pace,dribbling
+Oleg Pushkaryov,FW,R,22,UKR,6,false,false,false,heading,stamina
+Ryan Roberto,FW,R,18,BRA,6,false,false,false,finishing,heading
+Pedrinho,FW,L,28,BRA,7,true,false,false,pace,dribbling
+Alisson,FW,L,20,BRA,1,false,false,false,pace,dribbling
+Lucas Ferreira,FW,L,20,BRA,6,false,false,false,pace,dribbling
+Prosper Obah,FW,R,22,NGA,6,false,false,false,heading,pace
+Maryan Shved,FW,L,29,UKR,7,false,false,false,dribbling,pace
+Kauã Elias,FW,R,20,BRA,8,true,false,false,pace,dribbling
+Luca Meirelles,FW,R,19,BRA,7,false,false,false,dribbling,pace
+Lassina Traoré,FW,R,25,BFA,9,false,false,false,pace,heading

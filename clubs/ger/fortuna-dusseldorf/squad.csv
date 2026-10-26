@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Emmanuel Iyoha,FB,L,28,GER,7,false,false,false,stamina,dribbling
+Sotiris Alexandropoulos,MF,R,24,GRE,2,true,false,false,stamina,pace
+Matthias Zimmermann,FB,R,34,GER,5,false,false,false,stamina,marking
+Cedric Itten,FW,R,29,SUI,6,true,false,false,heading,stamina
+Christopher Lenz,FB,L,31,GER,7,true,false,false,tackling,marking
+Florent Muslija,MF,R,28,GER,3,true,false,false,dribbling,passing
+Tim Oberdorf,CB,R,30,GER,6,false,false,false,marking,stamina
+Moritz Heyer,FB,L,31,GER,7,false,false,false,passing,tackling
+Ž. Celar,FW,R,27,SVN,1,false,false,false,stamina,pace
+Julian Hettwer,FW,L,23,GER,5,false,false,false,pace,stamina
+Anouar El Azzouzi,MF,R,25,MAR,7,true,false,false,stamina,passing
+Shinta Appelkamp,MF,L,25,GER,3,false,false,false,dribbling,playmaking
+Tim Rossmann,FW,L,22,GER,5,false,false,false,pace,dribbling
+Christian Rasmussen,FW,L,23,DEN,6,true,false,false,pace,dribbling
+Valgeir Lunddal,FB,R,24,ISL,7,true,false,false,stamina,heading
+Jordy De Wijs,CB,L,31,NED,4,false,false,false,stamina,heading
+Danny Schmidt,FW,R,23,GER,5,false,false,false,finishing,passing
+Luca Raimund,MF,L,21,GER,6,false,false,false,pace,dribbling
+Jesper Daland,CB,R,26,NOR,7,true,false,false,heading,tackling
+Tim Breithaupt,MF,R,24,GER,4,true,false,false,marking,passing
+Sima Suso,MF,L,21,GER,7,false,false,false,pace,playmaking
+Karim Affo,FW,L,20,GER,2,false,false,false,pace,passing
+Kenneth Schmidt,CB,L,24,GER,5,true,false,false,pace,tackling
+Elias Egouli,CB,R,24,GER,6,false,false,false,tackling,heading
+Florian Kastenmeier,GK,R,29,GER,7,false,false,false,reflexes,penalty-saving
+Marcel Lotka,GK,R,25,POL,3,true,false,false,reflexes,positioning
+Florian Schock,GK,R,25,GER,5,false,false,false,positioning,reflexes

@@ -1,0 +1,13 @@
+name = "NK Celje"
+country = "SVN"
+level = 16
+reputation = 2
+colors = ["#0033ff", "#ffffff"]
+
+[stadium]
+name = "Zdezele"
+capacity = 13059
+
+[coach]
+name = "Roman Pilipchuk"
+country = "RUS"

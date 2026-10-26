@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Said Lamaiz,GK,R,26,MAR,5,true,false,false,rushing-out,reflexes
+Zakaria Benabbou,GK,R,30,MAR,6,false,false,false,penalty-saving,reflexes
+Yassine Amaadour,GK,R,21,MAR,8,false,false,false,rushing-out,reflexes
+Soulayman Driouech,CB,R,26,MAR,4,true,false,false,heading,passing
+Yassine Karraz,CB,R,22,MAR,5,true,false,false,marking,tackling
+Reda El Baine,CB,R,32,MAR,7,false,false,false,tackling,pace
+Issam Bouabsidi,CB,L,22,MAR,9,false,false,false,tackling,heading
+Mohammed Nahiri,FB,L,34,MAR,4,false,false,false,dribbling,pace
+Mohamed Dades,FB,L,22,MAR,6,false,false,false,pace,tackling
+Yassine Aboursas,FB,L,30,MAR,7,true,false,false,tackling,marking
+Achraf Marzak,FB,R,31,MAR,6,true,false,false,pace,crossing
+Youssef Bouchatta,FB,L,35,MAR,6,false,false,false,passing,pace
+Ayoub El Ouardighi,MF,R,28,MAR,7,true,false,false,passing,playmaking
+Mouad Karmoun,MF,R,24,MAR,3,false,false,false,dribbling,playmaking
+Roshdi Wahabi,MF,L,31,MAR,5,false,false,false,pace,dribbling
+Hicham Zeghari,MF,L,27,MAR,6,true,false,false,tackling,marking
+Reda Jaadi,MF,L,31,MAR,7,false,false,false,passing,tackling
+Mohamed Kassou,MF,L,23,MAR,3,false,false,false,dribbling,passing
+Mohamed Said Bouksyr,MF,R,29,MAR,5,false,false,false,playmaking,passing
+Ahmed Lakhtibi,MF,R,26,MAR,6,true,false,false,finishing,playmaking
+Marwan Moujni,MF,L,26,MAR,5,true,false,false,passing,playmaking
+Zaid Krouch,MF,R,35,MAR,6,false,false,false,passing,finishing
+Diae-Eddine Eddaoudi,MF,R,20,MAR,7,false,false,false,marking,passing
+Nabil Ferri,MF,R,32,MAR,2,false,false,false,playmaking,dribbling
+Bilal El Megri,FW,R,37,MAR,5,false,false,false,playmaking,finishing
+Imad Errahouli,FW,L,32,MAR,6,false,false,false,finishing,dribbling
+Anwar Oussarhan,FW,R,25,MAR,7,false,false,false,playmaking,finishing
+Ismail El Harrach,FW,R,27,MAR,2,true,false,false,dribbling,finishing
+Youssef El Houari,FW,R,27,MAR,5,true,false,false,pace,finishing
+Hamza Darai,FW,R,25,MAR,6,false,false,false,heading,pace
+Hamza Rhattas,FW,R,32,MAR,5,false,false,false,finishing,heading

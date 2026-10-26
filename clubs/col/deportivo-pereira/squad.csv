@@ -1,0 +1,47 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Salvador Ichazo,GK,R,31,URU,2,true,false,false,reflexes,penalty-saving
+Franklin Mosquera,GK,L,24,COL,5,false,false,false,reflexes,rushing-out
+Jorge Martínez,GK,R,17,COL,6,false,false,false,positioning,rushing-out
+Samuel Atehortua,GK,L,25,COL,7,false,false,false,rushing-out,positioning
+Juan Quintero,CB,R,28,COL,7,false,false,false,tackling,marking
+José Moya,CB,R,31,COL,4,false,false,false,marking,stamina
+Jhostín Medranda,CB,R,22,COL,5,false,false,false,heading,passing
+Santiago Aguilar,CB,R,25,COL,6,true,false,false,heading,tackling
+Sebastián Urrea,CB,R,21,COL,7,false,false,false,tackling,marking
+Jared Rodríguez,CB,L,24,GUA,4,false,false,false,marking,passing
+Julián Bazán,CB,R,18,COL,4,true,false,false,marking,stamina
+Yeison Suárez,FB,R,26,COL,5,true,false,false,stamina,crossing
+Edwin Velasco,FB,R,32,COL,6,false,false,false,pace,crossing
+Juan Ramirez,FB,L,18,COL,8,false,false,false,marking,pace
+Walmer Pacheco,FB,L,28,COL,4,false,false,false,passing,pace
+Eber Moreno,FB,R,21,COL,5,true,false,false,stamina,crossing
+Jaime Diaz,FB,L,23,COL,6,false,false,false,crossing,pace
+Jordy Monroy,FB,L,27,COL,9,false,false,false,marking,pace
+Juan David Ríos,MF,R,32,COL,4,true,false,false,tackling,passing
+Felipe Mosquera,MF,L,21,COL,6,false,false,false,finishing,playmaking
+Víctor Mejía,MF,R,30,COL,3,false,false,false,passing,stamina
+Jorge Bermúdez,MF,R,22,COL,5,true,false,false,finishing,playmaking
+Santiago Mosquera,MF,L,18,COL,6,false,false,false,pace,dribbling
+Ederson Moreno,MF,R,29,COL,7,false,false,false,dribbling,playmaking
+Luis González,MF,L,21,COL,3,false,false,false,playmaking,passing
+Nicolás Rengifo,MF,R,19,COL,5,true,false,false,passing,tackling
+Miguel Aguirre,MF,R,18,COL,6,false,false,false,dribbling,passing
+Kelvin Osorio,MF,R,30,COL,7,true,false,false,playmaking,finishing
+Sebastián Acosta,MF,L,29,COL,4,false,false,false,dribbling,passing
+Yesús Cabrera,MF,R,33,COL,5,false,false,false,passing,finishing
+Darwin Quintero,MF,R,36,COL,6,false,false,false,passing,stamina
+Ronaldinho Mosquera,MF,L,18,COL,7,false,false,false,finishing,playmaking
+Omar Albornoz,FW,L,28,COL,3,false,false,false,heading,pace
+Jhon Largacha,FW,R,19,COL,5,true,false,false,pace,crossing
+Adrián Estacio,FW,R,25,COL,6,false,false,false,playmaking,finishing
+Yuber Quiñones,FW,R,21,COL,7,true,false,false,finishing,dribbling
+Gustavo Torres,FW,L,27,COL,4,false,false,false,dribbling,playmaking
+Javier Mena,FW,R,18,COL,5,false,false,false,dribbling,finishing
+Eduar Arízalas,FW,R,22,COL,6,false,false,false,crossing,pace
+Rubilio Castillo,FW,R,32,COL,7,false,false,false,finishing,pace
+Marco Pérez,FW,R,33,COL,6,false,false,false,pace,dribbling
+Gianfranco Peña,FW,L,23,COL,7,false,false,false,pace,crossing
+Giancarlo García,FW,L,17,COL,2,false,false,false,pace,crossing
+Andrés Calderón,FW,R,29,COL,5,false,false,false,heading,stamina
+Samy Jr. Merheg,FW,L,17,LBN,6,false,false,false,finishing,pace
+Alejandro Álvarez,FW,R,19,COL,7,false,false,false,dribbling,playmaking

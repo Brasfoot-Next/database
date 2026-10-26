@@ -1,0 +1,13 @@
+name = "Al Nassr"
+country = "KSA"
+level = 19
+reputation = 4
+colors = ["#001040", "#F0D000"]
+
+[stadium]
+name = "Al-Awwal Park"
+capacity = 25000
+
+[coach]
+name = "Rakan Sharari"
+country = "BRA"

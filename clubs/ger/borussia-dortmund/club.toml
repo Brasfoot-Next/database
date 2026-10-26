@@ -1,0 +1,13 @@
+name = "Borussia Dortmund"
+country = "GER"
+level = 22
+reputation = 4
+colors = ["#F0E000", "#000000"]
+
+[stadium]
+name = "SIGNAL IDUNA PARK"
+capacity = 81365
+
+[coach]
+name = "Gregor Campbell"
+country = "BRA"

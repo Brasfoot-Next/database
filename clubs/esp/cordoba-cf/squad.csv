@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Isma Ruiz,MF,R,25,ESP,6,false,false,false,passing,stamina
+Vilarrasa,FB,L,27,ESP,7,true,false,false,crossing,stamina
+Pedro Ortiz,MF,L,26,ESP,3,true,false,false,stamina,passing
+Théo,MF,R,24,FRA,5,false,false,false,playmaking,dribbling
+Alberto del Moral,MF,R,26,ESP,6,true,false,false,stamina,tackling
+Carracedo,FW,R,30,ESP,7,false,false,false,stamina,pace
+Sergi Guardiola,FW,L,35,ESP,4,true,false,false,heading,passing
+Albarrán,FB,R,32,ESP,5,false,false,false,stamina,pace
+Jacobo González,FW,L,29,ESP,6,true,false,false,dribbling,pace
+Dani Requena,MF,R,22,ESP,7,true,false,false,pace,playmaking
+Rubén Alves,CB,L,32,ESP,6,false,false,false,tackling,marking
+Dalisson,MF,R,26,ESP,8,false,false,false,pace,playmaking
+Carlos Isaac,FB,R,28,ESP,4,true,false,false,pace,stamina
+Kevin Medina,FW,L,25,ESP,5,false,false,false,pace,dribbling
+Adilson,FW,L,29,POR,6,false,false,false,pace,dribbling
+Alcedo,FB,L,25,ESP,9,false,false,false,pace,tackling
+Adri Fuentes,FW,L,30,ESP,3,false,false,false,heading,stamina
+Xavi Sintes,CB,R,25,ESP,5,false,false,false,tackling,marking
+Nikolay Obolskii,FW,L,29,RUS,6,false,false,false,heading,dribbling
+Jan Salas,MF,R,21,ESP,7,true,false,false,playmaking,dribbling
+Franck Ferry Fomeyem,CB,L,26,CMR,4,true,false,false,pace,tackling
+Álex Martín,CB,R,28,ESP,5,true,false,false,heading,marking
+Diego Bri,FW,L,23,ESP,6,false,false,false,pace,dribbling
+Iker Álvarez,GK,R,25,ESP,1,true,false,false,positioning,reflexes
+Carlos Marín,GK,R,29,ESP,5,false,false,false,reflexes,penalty-saving
+Alejandro Arévalo,GK,R,18,ESP,5,false,false,false,reflexes,penalty-saving

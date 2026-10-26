@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Fredrik Aursnes,FW,R,30,NOR,6,false,false,false,stamina,passing
+Richard Rios,MF,R,26,COL,7,true,false,false,stamina,dribbling
+Georgiy Sudakov,MF,R,24,UKR,9,true,false,false,dribbling,playmaking
+Alexander Bah,FB,R,28,DEN,5,false,false,false,pace,stamina
+Vangelis Pavlidis,FW,R,27,GRE,6,true,false,false,stamina,finishing
+Leandro Barreiro,MF,R,26,POR,6,true,false,false,stamina,pace
+Amar Dedic,FB,R,24,BIH,8,true,false,false,stamina,pace
+Dodi Lukebakio,FW,L,28,BEL,4,false,false,false,pace,dribbling
+Enzo Barrenechea,MF,L,25,ARG,6,true,false,false,passing,stamina
+Bruma,FW,L,31,POR,6,false,false,false,pace,dribbling
+Nicolas Otamendi,CB,L,38,ARG,5,false,false,false,stamina,heading
+Samuel Dahl,FB,L,23,SWE,6,true,false,false,pace,stamina
+Tomás Araújo,CB,R,24,POR,7,true,false,false,pace,tackling
+Franjo Ivanovic,FW,L,22,CRO,9,false,false,false,finishing,dribbling
+Andreas Schjelderup,FW,L,22,NOR,5,true,false,false,dribbling,stamina
+Manu Silva,MF,R,25,POR,6,false,false,false,stamina,tackling
+António Silva,CB,R,22,POR,7,true,false,false,stamina,tackling
+João Veloso,MF,R,21,POR,10,false,false,false,dribbling,passing
+Gianluca Prestianni,FW,R,20,ARG,6,false,false,false,pace,dribbling
+Diogo Prioste,MF,R,22,POR,6,false,false,false,playmaking,passing
+Obrador,FB,L,22,ESP,5,false,false,false,pace,stamina
+Henrique Araújo,FW,R,24,POR,6,false,false,false,finishing,heading
+Leandro Santos,FB,R,20,POR,7,false,false,false,pace,stamina
+João Rego,MF,R,21,POR,9,false,false,false,dribbling,passing
+Nuno Félix,MF,R,22,POR,5,false,false,false,tackling,stamina
+Gonçalo Oliveira,CB,L,20,POR,6,false,false,false,tackling,marking
+Joshua Wynder,CB,R,21,USA,7,false,false,false,heading,tackling
+Samuel Soares,GK,R,24,POR,9,false,false,false,reflexes,penalty-saving
+Anatoliy Trubin,GK,R,25,UKR,5,true,false,false,reflexes,positioning
+Diogo Ferreira,GK,L,19,POR,6,false,false,false,reflexes,penalty-saving
+Gonçalo Sobral,GK,R,20,POR,4,false,false,false,reflexes,penalty-saving

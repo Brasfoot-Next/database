@@ -1,0 +1,13 @@
+name = "Nottingham Forest"
+country = "ENG"
+level = 20
+reputation = 4
+colors = ["#F0F0F0", "#D00000"]
+
+[stadium]
+name = "The City Ground"
+capacity = 30404
+
+[coach]
+name = "Murillo Morato"
+country = "BRA"

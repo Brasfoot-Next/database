@@ -1,0 +1,13 @@
+name = "HJK Helsinki"
+country = "FIN"
+level = 15
+reputation = 3
+colors = ["#006699", "#ffffff"]
+
+[stadium]
+name = "Telia Areena"
+capacity = 10770
+
+[coach]
+name = "Toni Koskela"
+country = "FIN"

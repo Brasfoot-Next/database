@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Anders Trondsen,FB,L,31,NOR,7,true,false,false,pace,stamina
+Jo Inge Berget,FW,R,35,NOR,1,false,false,false,stamina,crossing
+Niklas Sandberg,FW,L,31,NOR,5,false,false,false,stamina,pace
+Mohanad Jeahze,FB,L,29,IRQ,6,false,false,false,stamina,pace
+Sondre Sorli,FW,L,30,NOR,7,false,false,false,pace,stamina
+Sander Christiansen,MF,R,25,NOR,4,true,false,false,tackling,passing
+Eirik Wichne,FB,R,29,NOR,5,false,false,false,pace,stamina
+Victor Emanuel Halvorsen,MF,R,22,NOR,6,false,false,false,stamina,passing
+Aimar Sher,MF,L,23,IRQ,8,true,false,false,stamina,dribbling
+Harald Nilsen Tangen,MF,R,25,NOR,5,false,false,false,stamina,pace
+Daniel Karlsbakk,FW,R,23,NOR,6,true,false,false,pace,stamina
+Peter Reinhardsen,FB,R,27,NOR,9,false,false,false,pace,stamina
+Anders Hiim,FB,L,23,NOR,4,true,false,false,pace,stamina
+Bop Gueye,MF,L,19,SEN,5,false,false,false,pace,stamina
+Andreas Nibe,MF,L,23,DEN,7,true,false,false,passing,playmaking
+Heine Gikling Bruseth,MF,L,22,NOR,1,true,false,false,pace,passing
+Bjorn Inge Utvik,CB,R,30,NOR,4,false,false,false,stamina,heading
+Alagie Sanyang,FW,L,29,GAM,5,false,false,false,pace,dribbling
+Frederik Carstensen,FW,R,24,DEN,7,false,false,false,pace,dribbling
+Menno Koch,CB,R,32,NED,1,true,false,false,heading,marking
+Szymon Roguski,MF,R,18,NOR,6,false,false,false,pace,passing
+Sveinn Aron Gudhjohnsen,FW,L,28,ISL,7,false,false,false,heading,finishing
+Momodou Lion Njie,CB,R,24,GAM,4,true,false,false,pace,heading
+Adam Kaszuba,FB,L,19,NOR,5,false,false,false,pace,stamina
+Michael Opoku,FW,L,21,DEN,6,true,false,false,pace,dribbling
+Daniel Job,FW,R,21,NGA,7,false,false,false,pace,dribbling
+Mathias Svenningsen Gronn,MF,R,18,NOR,4,false,false,false,pace,passing
+Magnar Odegaard,CB,L,33,NOR,5,false,false,false,tackling,heading
+Martin Bakkenget,FW,R,18,NOR,6,false,false,false,pace,finishing
+Mamour Ndiaye,GK,R,20,SEN,7,true,false,false,reflexes,penalty-saving
+Havar Grontvedt Jenssen,GK,R,30,NOR,3,false,false,false,penalty-saving,rushing-out
+Tord Flolid,GK,R,21,NOR,5,false,false,false,penalty-saving,rushing-out

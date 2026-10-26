@@ -1,0 +1,13 @@
+name = "Asante Kotoko"
+country = "GHA"
+level = 14
+reputation = 3
+colors = ["#006400", "#ffffff"]
+
+[stadium]
+name = "Kumasi Sports"
+capacity = 43000
+
+[coach]
+name = "Prosper Narteh"
+country = "GHA"

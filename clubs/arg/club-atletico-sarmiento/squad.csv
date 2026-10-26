@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jonatan Gomez,MF,R,36,ARG,7,false,false,false,dribbling,passing
+Alex Vigo,FB,R,27,ARG,3,true,false,false,pace,stamina
+Yair Arismendi,FW,L,28,ARG,5,false,false,false,stamina,pace
+Carlos Villalba,MF,L,28,ARG,6,true,false,false,stamina,dribbling
+Gaston Gonzalez,FW,L,25,ARG,7,true,false,false,stamina,pace
+Leandro Suhr,FW,R,28,URU,3,false,false,false,pace,stamina
+Manuel Garcia,MF,R,27,ARG,4,true,false,false,stamina,tackling
+Santiago Rodriguez,FW,L,29,ARG,5,false,false,false,finishing,dribbling
+Facundo Roncaglia,CB,R,39,ARG,6,false,false,false,tackling,heading
+Juan Andrada,MF,R,31,ARG,7,false,false,false,passing,stamina
+Renzo Orihuela,FB,R,25,URU,7,false,false,false,pace,stamina
+Emiliano Mendez,MF,R,37,ARG,1,false,false,false,stamina,heading
+Juan Manuel Insaurralde,CB,L,41,ARG,5,false,false,false,heading,stamina
+Tomas Guiacobini,MF,L,22,ARG,6,true,false,false,stamina,pace
+Federico Paradela,MF,R,25,ARG,7,false,false,false,stamina,pace
+Elian Gimenez,MF,R,22,ARG,1,true,false,false,stamina,passing
+Gabriel Diaz Nunez,FB,L,26,ARG,5,false,false,false,stamina,pace
+Ivan Morales,FW,R,27,CHI,6,true,false,false,stamina,finishing
+Pablo Magnin,FW,L,36,ARG,7,false,false,false,finishing,dribbling
+Joaquin Ardaiz,FW,L,27,URU,2,false,false,false,pace,heading
+Franco Frias,MF,R,24,ARG,6,false,false,false,pace,dribbling
+Julian Contrera,FW,L,23,ARG,8,false,false,false,dribbling,pace
+Matias Rosales,FW,R,21,ARG,4,false,false,false,pace,dribbling
+Agustin Molina,FW,R,20,ARG,5,false,false,false,dribbling,pace
+Jeremias Vallejos,FB,R,23,ARG,6,false,false,false,dribbling,tackling
+Agustin Seyral,CB,R,21,ARG,8,true,false,false,pace,stamina
+Santiago Morales,CB,L,25,ARG,4,true,false,false,heading,tackling
+Joel Godoy,FB,L,21,ARG,5,true,false,false,pace,stamina
+Lucas Acosta,GK,R,31,ARG,6,true,false,false,reflexes,penalty-saving
+Jhon Renteria,FW,L,20,COL,1,false,false,false,heading,pace
+Jose Devecchi,GK,R,31,ARG,6,false,false,false,reflexes,positioning
+Thyago Ayala,GK,R,25,ARG,7,false,false,false,rushing-out,reflexes

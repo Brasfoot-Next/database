@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Federico Varese,GK,R,23,URU,5,true,false,false,positioning,rushing-out
+Facundo Machado,GK,R,22,URU,6,false,false,false,positioning,reflexes
+Ramiro Brazionis,CB,R,24,URU,9,false,false,false,tackling,marking
+Felipe Álvarez,CB,R,22,ARG,4,false,false,false,marking,tackling
+Lucas Monzón,CB,L,24,URU,5,true,false,false,heading,stamina
+Facundo Parada,CB,R,26,URU,7,true,false,false,heading,marking
+Diego Cheuquepal,FB,L,19,ARG,1,false,false,false,pace,crossing
+Martín Ferreira,FB,L,34,URU,4,true,false,false,stamina,pace
+Guillermo Cotugno,FB,R,31,URU,6,true,false,false,heading,marking
+Agustín Álvarez,MF,R,25,URU,7,true,false,false,stamina,heading
+Juan Pablo Bosca,MF,R,21,URU,5,false,false,false,passing,pace
+Erik De Los Santos,MF,R,27,URU,6,true,false,false,passing,finishing
+Juan Pérez,MF,R,24,ARG,7,true,false,false,playmaking,finishing
+Rodrigo Teliz,MF,L,21,URU,4,false,false,false,dribbling,pace
+José Varela,MF,L,38,URU,4,false,false,false,playmaking,passing
+Yuri Oyarzo,MF,L,18,URU,5,false,false,false,pace,crossing
+Álex Vázquez,MF,L,24,URU,6,true,false,false,playmaking,passing
+Franco Suárez,FW,R,22,URU,9,false,false,false,pace,finishing
+Rodrigo Dudok,FW,R,18,URU,5,false,false,false,finishing,heading
+Esteban Da Silva,FW,R,25,URU,6,true,false,false,pace,dribbling
+Agustín Kahl,FW,R,22,ARG,7,false,false,false,finishing,dribbling
+Sebastián da Silva,FW,L,24,URU,4,true,false,false,finishing,stamina
+Tomás Habib,FW,R,24,ARG,5,false,false,false,finishing,pace
+Bautista Euclides Tomatis,FW,R,22,ARG,6,false,false,false,heading,pace
+Iván Manzur,FW,L,21,ARG,8,false,false,false,pace,dribbling
+Nicolás Sosa,FW,L,30,URU,5,false,false,false,stamina,heading

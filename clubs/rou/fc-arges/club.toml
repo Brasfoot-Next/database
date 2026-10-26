@@ -1,0 +1,13 @@
+name = "FC Argeș"
+country = "ROU"
+level = 8
+reputation = 2
+colors = ["#F0F0F0", "#703090"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Caio Straton"
+country = "BRA"

@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Éric Hughes,GK,R,36,PAN,2,true,false,false,reflexes,positioning
+Celino Hinojosa,GK,R,22,PAN,2,false,false,false,reflexes,positioning
+Luis Asprilla,FB,R,21,PAN,6,true,false,false,crossing,marking
+Jorge Gutiérrez,FB,L,23,PAN,9,true,false,false,crossing,pace
+Paredes,FB,R,23,PAN,7,false,false,false,crossing,marking
+Gerardo Negrete,CB,R,29,PAN,2,true,false,false,marking,pace
+Gustavo Chará,CB,L,26,COL,1,true,false,false,marking,pace
+Juan Madrid,CB,R,20,COL,6,false,false,false,tackling,stamina
+Giancarlos Moreno,CB,L,20,PAN,10,false,false,false,tackling,marking
+Rolando Botello,MF,L,30,PAN,4,true,false,false,tackling,finishing
+Carrasquilla,MF,R,20,PAN,8,false,false,false,tackling,heading
+Richard Rodríguez,MF,R,26,PAN,9,true,false,false,finishing,passing
+Paul Arce,MF,L,20,COL,5,true,false,false,passing,finishing
+Víctor Medina,MF,R,21,PAN,2,false,false,false,passing,finishing
+Miguel Camargo,MF,R,28,PAN,9,false,false,false,passing,finishing
+Irving Gudiño,MF,R,21,PAN,1,true,false,false,marking,passing
+Sergio Cunningham,MF,L,28,PAN,5,false,false,false,tackling,marking
+Edwin Aguilar,FW,R,36,PAN,1,true,false,false,dribbling,finishing
+Saed Díaz,FW,L,23,PAN,2,false,false,false,pace,crossing
+Omar Valencia,FW,L,22,PAN,4,true,false,false,pace,passing
+Axel McKenzie,FW,L,23,PAN,4,false,false,false,finishing,stamina

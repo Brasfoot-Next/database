@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lennart Moser,GK,R,26,GER,5,true,false,false,reflexes,rushing-out
+Taro Hamada,GK,R,26,JPN,6,false,false,false,reflexes,rushing-out
+Goro Kawanami,GK,R,35,JPN,7,false,false,false,positioning,reflexes
+Shun Matsuda,GK,R,19,JPN,3,false,false,false,positioning,penalty-saving
+Yugo Tatsuta,CB,R,28,JPN,5,true,false,false,tackling,heading
+Yoshitake Suzuki,CB,R,28,JPN,6,true,false,false,heading,tackling
+Hiroshi Omori,CB,L,23,JPN,6,false,false,false,marking,passing
+Daichi Tagami,CB,R,33,JPN,9,false,false,false,tackling,heading
+Yota Fujii,FB,R,20,JPN,4,false,false,false,tackling,stamina
+Kosuke Shirai,FB,R,32,JPN,5,true,false,false,passing,crossing
+Soichiro Mori,FB,R,19,JPN,6,true,false,false,tackling,marking
+Eiji Miyamoto,MF,R,27,JPN,8,false,false,false,marking,passing
+Ryo Tabei,MF,R,27,JPN,4,false,false,false,passing,tackling
+Kosei Ogura,MF,L,21,JPN,6,false,false,false,passing,playmaking
+Haruka Motoyama,MF,R,27,JPN,7,false,false,false,passing,stamina
+Ibuki Fujita,MF,R,35,JPN,10,false,false,false,stamina,tackling
+Ryo Takeuchi,MF,R,35,JPN,4,false,false,false,passing,tackling
+Masaya Matsumoto,MF,R,31,JPN,6,true,false,false,pace,crossing
+Takaya Kimura,MF,L,28,JPN,7,true,false,false,pace,crossing
+Towa Yamane,MF,L,27,JPN,1,true,false,false,pace,crossing
+Rui Sueyoshi,MF,L,29,JPN,4,false,false,false,pace,crossing
+Ataru Esaka,MF,R,34,JPN,6,true,false,false,passing,finishing
+Yuta Kamiya,MF,L,29,JPN,6,false,false,false,dribbling,passing
+Sang-ho Na,FW,R,29,JPN,10,true,false,false,dribbling,playmaking
+Jun Nishikawa,FW,R,24,JPN,5,true,false,false,finishing,stamina
+Kota Kawano,FW,R,22,JPN,6,false,false,false,finishing,dribbling
+Kazunari Ichimi,FW,L,28,JPN,7,false,false,false,pace,finishing
+Léo Gaúcho,FW,R,24,BRA,1,false,false,false,heading,finishing
+Lucão,FW,R,30,BRA,5,false,false,false,finishing,stamina
+Noah Kenshin Browne,FW,L,25,JPN,6,false,false,false,finishing,dribbling

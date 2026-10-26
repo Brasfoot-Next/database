@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jeferson Nolasco,GK,R,24,PER,6,true,false,false,rushing-out,reflexes
+Diego Melián,GK,L,34,URU,7,false,false,false,penalty-saving,reflexes
+Sebastian Oblitas,GK,R,19,PER,5,false,false,false,positioning,rushing-out
+Gustavo Dulanto,CB,R,31,PER,6,false,false,false,tackling,marking
+Renzo Alfani,CB,R,30,ARG,6,true,false,false,heading,stamina
+Carlos Zambrano,CB,R,37,PER,10,true,false,false,marking,heading
+Hansell Riojas,CB,L,34,PER,5,false,false,false,marking,passing
+Evanz Cruz,CB,L,18,PER,6,false,false,false,tackling,heading
+Mathías Llontop,FB,L,24,PER,7,true,false,false,marking,pace
+Nilson Loyola,FB,R,31,PER,1,false,false,false,crossing,pace
+Miguel Trauco,FB,L,34,PER,5,false,false,false,stamina,passing
+Nicolás Valencia,FB,R,18,PER,6,true,false,false,tackling,pace
+Emilio Saba,FB,R,25,PER,7,false,false,false,tackling,marking
+Oslimg Mora,FB,L,27,PER,2,false,false,false,pace,tackling
+Diego Contreras,FB,R,20,PER,5,false,false,false,stamina,pace
+Erick Gonzales,MF,R,30,PER,6,true,false,false,stamina,passing
+Federico Illanes,MF,R,32,ARG,7,false,false,false,dribbling,passing
+Leonel Solís,MF,L,29,PER,3,true,false,false,playmaking,dribbling
+Nicolas Paz,MF,R,20,PER,5,true,false,false,dribbling,passing
+Hernán Da Campo,MF,R,31,ARG,6,false,false,false,passing,tackling
+Víctor Flores,MF,L,21,PER,4,false,false,false,playmaking,dribbling
+Yuriel Celi,MF,R,24,PER,5,true,false,false,passing,playmaking
+Christian Cueva,MF,R,34,PER,6,false,false,false,passing,finishing
+Jostin Alarcón,FW,R,24,PER,8,false,false,false,finishing,heading
+Juan Carlos Gonzáles,FW,R,22,PER,4,false,false,false,crossing,pace
+Carlos López,FW,R,31,COL,5,false,false,false,finishing,stamina
+Alexis Huamán,FW,L,22,PER,6,false,false,false,heading,finishing
+José Davey,FW,R,18,PER,9,false,false,false,dribbling,pace
+Pablo Erustes,FW,R,32,ARG,5,false,false,false,finishing,heading
+Luis Urruti,FW,R,33,URU,6,false,false,false,dribbling,playmaking
+Luciano Nequecaur,FW,R,33,ARG,5,false,false,false,dribbling,finishing
+Percy Liza,FW,L,26,PER,5,true,false,false,pace,dribbling
+Rolando Díaz,FW,R,27,PER,6,true,false,false,finishing,heading

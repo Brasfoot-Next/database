@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Abdel-Sattar,GK,R,36,JOR,5,true,false,false,positioning,penalty-saving
+Al Fakhori,GK,L,21,JOR,9,false,false,false,positioning,rushing-out
+Feras Salem,GK,R,31,JOR,1,false,false,false,rushing-out,penalty-saving
+Al-Dumeiri,FB,L,33,JOR,10,true,false,false,marking,pace
+Abdel Monem,FB,R,27,JOR,6,true,false,false,crossing,marking
+Feras Shelbaieh,FB,R,27,JOR,4,false,false,false,crossing,pace
+Tareq Khattab,CB,L,28,JOR,2,true,false,false,tackling,stamina
+Yazan Al-Arab,CB,R,25,JOR,5,true,false,false,heading,stamina
+Danial Afaneh,CB,L,20,JOR,1,false,false,false,tackling,marking
+Ahmad Samir,MF,R,29,JOR,8,true,false,false,finishing,passing
+Ahmad Elias,MF,L,30,JOR,9,true,false,false,tackling,marking
+Ahmad Haikal,MF,R,23,JOR,2,true,false,false,marking,pace
+Fadi Awad,MF,L,27,JOR,6,true,false,false,marking,finishing
+Saleh Rateb,MF,R,26,JOR,7,false,false,false,tackling,marking
+Abu Amarah,MF,R,28,JOR,10,false,false,false,finishing,passing
+Raja'ei Ayed,MF,L,27,JOR,9,false,false,false,finishing,passing
+Soony Saad,FW,L,28,LBN,4,true,false,false,finishing,pace
+Khaled Essam,FW,R,24,JOR,10,true,false,false,finishing,pace
+Ahmad Zreik,FW,R,31,LBN,1,false,false,false,finishing,dribbling
+Al Awadat,FW,L,22,JOR,2,false,false,false,dribbling,finishing

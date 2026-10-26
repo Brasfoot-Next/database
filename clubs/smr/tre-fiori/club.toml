@@ -1,0 +1,13 @@
+name = "Tre Fiori"
+country = "SMR"
+level = 13
+reputation = 2
+colors = ["#ffff00", "#003399"]
+
+[stadium]
+name = "Montecchio"
+capacity = 1000
+
+[coach]
+name = "Luca Borgagni"
+country = "ITA"

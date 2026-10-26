@@ -1,0 +1,13 @@
+name = "Unión La Calera"
+country = "CHI"
+level = 16
+reputation = 1
+colors = ["#cc3300", "#ffffff"]
+
+[stadium]
+name = "Nicolás Chahuán"
+capacity = 9500
+
+[coach]
+name = "Federico Vilar"
+country = "ARG"

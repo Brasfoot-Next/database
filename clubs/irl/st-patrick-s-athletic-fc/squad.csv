@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Chris Forrester,MF,L,33,IRL,7,false,false,false,stamina,playmaking
+Jake Mulraney,FW,L,30,IRL,3,false,false,false,pace,stamina
+Romal Palmer,MF,R,27,ENG,5,true,false,false,stamina,playmaking
+Aidan Keena,FW,R,27,IRL,7,true,false,false,pace,stamina
+Jamie Lennon,MF,R,28,IRL,2,true,false,false,stamina,tackling
+Jordon Garrick,FW,L,28,JAM,5,true,false,false,pace,dribbling
+Brandon Kavanagh,MF,L,25,IRL,6,true,false,false,playmaking,pace
+Kian Leavy,MF,L,24,IRL,7,true,false,false,stamina,pace
+Jason Mcclelland,FB,L,29,IRL,2,true,false,false,stamina,pace
+Barry Baggley,MF,L,24,NIR,5,false,false,false,stamina,passing
+Ryan Mclaughlin,FB,R,31,NIR,7,false,false,false,pace,crossing
+Mason Melia,FW,R,18,IRL,3,false,false,false,pace,stamina
+Zachary Elbouzedi,FW,R,28,IRL,5,false,false,false,pace,dribbling
+Anto Breslin,FB,L,29,IRL,6,false,false,false,stamina,pace
+Darren Robinson,MF,R,21,NIR,7,false,false,false,pace,heading
+Axel Sjoberg,FB,R,26,SWE,3,true,false,false,pace,tackling
+Al Amin Kazeem,FB,L,24,ENG,5,false,false,false,pace,stamina
+Simon Power,FW,L,28,IRL,6,false,false,false,pace,dribbling
+Joe Redmond,CB,R,26,IRL,7,true,false,false,stamina,heading
+Conor Carty,FW,R,24,IRL,3,false,false,false,pace,stamina
+Sean Hoare,CB,R,32,IRL,7,false,false,false,heading,tackling
+Tom Grivosti,CB,L,27,ENG,1,true,false,false,heading,tackling
+Luke Turner,CB,L,24,IRL,5,false,false,false,stamina,tackling
+Danny Rogers,GK,L,32,IRL,6,false,false,false,reflexes,penalty-saving
+Joseph Anang,GK,R,26,GHA,7,true,false,false,reflexes,rushing-out

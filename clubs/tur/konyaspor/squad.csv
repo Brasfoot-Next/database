@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Guilherme Sityá,FB,L,36,BRA,1,false,false,false,stamina,crossing
+Riechedly Bazoer,CB,R,29,NED,5,true,false,false,tackling,dribbling
+Enis Bardhi,FW,L,31,TUR,6,true,false,false,crossing,dribbling
+Morten Bjorlo,MF,R,30,NOR,7,false,false,false,stamina,passing
+Marius Stefanescu,FW,L,28,ROU,7,false,false,false,pace,stamina
+Jackson Muleka,FW,R,26,COD,3,true,false,false,pace,stamina
+Marko Jevtovic,MF,R,33,SRB,5,true,false,false,heading,tackling
+Ufuk Akyol,MF,R,29,TUR,6,true,false,false,pace,passing
+Pedrinho,MF,R,29,BRA,7,true,false,false,dribbling,finishing
+Umut Nayir,FW,R,33,TUR,4,false,false,false,heading,finishing
+Alassane Ndao,FW,R,29,SEN,5,false,false,false,pace,dribbling
+Melih Ibrahimoglu,MF,L,26,TUR,6,true,false,false,pace,dribbling
+Melih Bostan,FW,R,22,TUR,10,false,false,false,pace,finishing
+Yhoan Andzouana,FB,R,29,CGO,4,true,false,false,pace,dribbling
+Jo Jin Ho,MF,R,23,KOR,5,false,false,false,passing,pace
+Adil Demirbag,CB,L,28,TUR,7,true,false,false,tackling,marking
+Yasir Subasi,FB,L,30,TUR,1,true,false,false,pace,stamina
+Tunahan Tasci,FW,L,24,TUR,5,false,false,false,pace,stamina
+Ugurcan Yazgili,CB,R,27,TUR,6,false,false,false,tackling,marking
+Mucahit Ibrahimoglu,MF,R,21,AUT,7,false,false,false,passing,tackling
+Josip Calusic,CB,L,32,CRO,5,false,false,false,tackling,marking
+Kaan Akyazi,FW,L,21,TUR,6,false,false,false,pace,finishing
+Bahadir Gungordu,GK,R,30,TUR,7,false,false,false,penalty-saving,positioning
+Deniz Ertas,GK,R,21,TUR,4,true,false,false,reflexes,penalty-saving

@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Georginio Wijnaldum,FW,R,35,NED,4,false,false,false,passing,playmaking
+Ondrej Duda,MF,R,31,SVK,5,true,false,false,stamina,dribbling
+Medrán,MF,R,32,ESP,6,true,false,false,passing,playmaking
+Jack Hendry,CB,R,31,SCO,7,true,false,false,pace,stamina
+João Costa,FW,L,21,BRA,1,false,false,false,pace,dribbling
+Moussa Dembele,FW,R,30,FRA,5,true,false,false,heading,pace
+Mukhtar Ali,MF,L,28,KSA,6,true,false,false,stamina,playmaking
+Francisco Calvo,FB,L,34,KSA,7,true,false,false,stamina,tackling
+Ahmed Hassan,FW,R,33,EGY,2,false,false,false,heading,finishing
+Radhi Al Otaibi,FB,R,26,KSA,5,true,false,false,pace,stamina
+Madallah Al Olayan,FB,L,32,KSA,7,false,false,false,stamina,pace
+Majed Dawran,MF,R,23,KSA,3,true,false,false,pace,stamina
+Abdullah Al Khatib,CB,L,31,KSA,5,false,false,false,stamina,pace
+Mohau Nkota,FW,L,21,KSA,6,false,false,false,pace,dribbling
+Khalid Al Ghannam,FW,L,25,KSA,7,true,false,false,dribbling,pace
+Abdulbasit Hindi,CB,L,29,KSA,3,true,false,false,stamina,heading
+Jalal Al Salem,FW,L,21,KSA,5,false,false,false,pace,dribbling
+Matija Gluscevic,FW,L,22,SRB,6,false,false,false,pace,dribbling
+Meshal Sibyani,CB,R,25,KSA,7,false,false,false,stamina,tackling
+Redha Al Abdullah,FW,L,21,KSA,4,false,false,false,pace,heading
+Abdulrahman Sahhari,CB,R,21,KSA,7,false,false,false,marking,stamina
+Awad Dahal,FB,R,21,KSA,2,false,false,false,pace,stamina
+Ziyad Al Ghamdi,MF,R,21,KSA,5,false,false,false,pace,stamina
+Abdullah Madu,CB,L,33,KSA,6,false,false,false,heading,tackling
+Fares Al Ghamdi,MF,R,23,KSA,7,false,false,false,passing,pace
+Marek Rodak,GK,R,29,SVK,3,true,false,false,reflexes,penalty-saving
+Abdulbasit Hawsawi,GK,R,29,KSA,5,false,false,false,reflexes,penalty-saving
+Belal Al Doaa,GK,R,22,KSA,6,false,false,false,reflexes,penalty-saving
+Turki Baljawsh,GK,R,22,KSA,7,false,false,false,penalty-saving,reflexes

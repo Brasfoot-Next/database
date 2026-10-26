@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rustam Yatimov,GK,R,24,TJK,4,true,false,false,positioning,penalty-saving
+Olimdzhon Dzhuraev,GK,R,30,TJK,7,false,false,false,positioning,penalty-saving
+Mukhriddin Khasanov,GK,L,19,TJK,7,false,false,false,rushing-out,penalty-saving
+Tabrezi Davlatmir,FB,L,24,TJK,8,true,false,false,finishing,passing
+Akhtam Nazarov,FB,R,29,TJK,2,true,false,false,crossing,marking
+Daler Imomnazarov,FB,L,27,TJK,5,false,false,false,marking,finishing
+Temur Partsvaniya,CB,R,31,UKR,2,true,false,false,tackling,heading
+Vladislav Kosmynin,CB,L,32,BLR,1,true,false,false,tackling,stamina
+Karomatullozoda,CB,L,20,TJK,4,false,false,false,tackling,marking
+Shervoni Mabatshoev,MF,L,21,TJK,7,true,false,false,playmaking,finishing
+Shonazarov,MF,R,32,TJK,6,true,false,false,passing,finishing
+Shakhrom Sulaymonov,MF,R,25,TJK,1,true,false,false,passing,finishing
+Islom Zoirov,MF,R,20,TJK,1,true,false,false,playmaking,passing
+Vadim Hoji,MF,L,23,TJK,9,false,false,false,marking,pace
+Ismail Abdumannonov,MF,R,25,TJK,1,false,false,false,tackling,marking
+Yury Umarov,MF,R,28,TJK,1,false,false,false,tackling,heading
+Rakhimov,FW,R,23,TJK,4,true,false,false,dribbling,pace
+Rustam Soirov,FW,L,19,TJK,7,true,false,false,dribbling,finishing
+Sayedi Kovussho,FW,R,27,TJK,5,false,false,false,finishing,dribbling
+Dzhalilov,FW,R,31,TJK,7,false,false,false,dribbling,pace

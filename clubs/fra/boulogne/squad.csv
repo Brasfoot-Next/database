@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Noah Fatar,FW,L,24,FRA,1,false,false,false,pace,finishing
+Julien Boyer,FB,L,28,FRA,5,true,false,false,pace,stamina
+Aurelien Platret,FB,R,23,FRA,6,false,false,false,stamina,pace
+Lilian Raillot,MF,R,22,FRA,7,true,false,false,playmaking,passing
+Amine El Farissi,FW,L,27,FRA,2,true,false,false,dribbling,playmaking
+Nolan Binet,MF,R,22,FRA,5,true,false,false,stamina,tackling
+Corentin Fatou,FW,L,27,FRA,6,true,false,false,finishing,heading
+Joffrey Bultel,MF,L,26,FRA,7,true,false,false,passing,stamina
+Gabin Capuano,FW,R,20,FRA,2,false,false,false,finishing,heading
+Demba Thiam,CB,R,36,FRA,5,false,false,false,pace,tackling
+Sonny Duflos,FB,R,31,FRA,1,false,false,false,pace,tackling
+Louis Siliadin,FB,L,24,FRA,5,true,false,false,pace,tackling
+Sohan Paillard,FW,R,22,FRA,6,false,false,false,pace,dribbling
+Christian Kitenge,FW,R,25,FRA,7,false,false,false,pace,dribbling
+Exauce Mpembele Boula,FW,L,24,FRA,1,false,false,false,pace,dribbling
+Souleymane Keita,FW,L,20,FRA,5,false,false,false,pace,dribbling
+Siad Gourville,CB,R,26,FRA,5,true,false,false,pace,tackling
+Jonathan Kapenga,CB,R,22,FRA,6,false,false,false,pace,tackling
+Luka Boiteau,MF,R,20,CAN,7,false,false,false,dribbling,passing
+Zanga Kone,FW,R,21,CIV,3,false,false,false,heading,finishing
+Herve Toure,MF,R,26,CIV,6,true,false,false,tackling,passing
+Adrien Pinot,CB,R,25,FRA,7,true,false,false,stamina,tackling
+Nathan Zohore,CB,L,25,FRA,3,false,false,false,stamina,tackling
+Florian Boulet,FW,R,23,FRA,5,false,false,false,heading,stamina
+Ibrahim Kone,GK,R,36,GUI,6,false,false,false,positioning,reflexes
+Xavier Lenogue,GK,R,29,FRA,7,true,false,false,penalty-saving,reflexes
+Azamat Uriev,GK,R,22,FRA,4,false,false,false,positioning,reflexes

@@ -1,0 +1,13 @@
+name = "Como"
+country = "ITA"
+level = 18
+reputation = 4
+colors = ["#104060", "#F0F0F0"]
+
+[stadium]
+name = "Giuseppe Sinigaglia"
+capacity = 12039
+
+[coach]
+name = "Diego Butez"
+country = "BRA"

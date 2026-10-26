@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Adem Zorgane,MF,R,26,ALG,7,true,false,false,stamina,playmaking
+Rob Schoofs,MF,L,32,BEL,4,false,false,false,stamina,passing
+Anan Khalaili,FW,R,22,BEL,6,true,false,false,pace,stamina
+Mathias Rasmussen,MF,L,28,NOR,6,true,false,false,stamina,passing
+Ousseynou Niang,FW,L,24,SEN,7,true,false,false,pace,stamina
+Kevin Mac Allister,CB,R,28,ARG,4,true,false,false,stamina,tackling
+Anouar Ait El Hadj,MF,R,24,BEL,6,true,false,false,dribbling,passing
+Louis Patris,FW,R,25,BEL,6,false,false,false,pace,dribbling
+Sofiane Boufal,MF,R,32,MAR,7,false,false,false,dribbling,passing
+Guillaume Francois,FW,R,36,BEL,5,false,false,false,marking,dribbling
+Ivan Pavlic,MF,R,24,BEL,7,false,false,false,dribbling,passing
+Raul Florucz,FW,L,25,AUT,1,false,false,false,dribbling,playmaking
+Mohammed Fuseini,FW,R,24,GHA,5,false,false,false,pace,finishing
+Promise David,FW,R,25,CAN,6,true,false,false,finishing,heading
+Kamiel Van De Perre,MF,L,22,BEL,7,true,false,false,passing,pace
+Kevin Rodriguez,FW,R,26,ECU,2,true,false,false,pace,dribbling
+Ross Sykes,CB,R,27,ENG,5,true,false,false,stamina,marking
+Guilherme Smith,FW,R,23,BRA,6,false,false,false,pace,dribbling
+Fedde Leysen,CB,L,23,BEL,6,false,false,false,passing,tackling
+Marc Giger,FW,R,22,SUI,7,false,false,false,stamina,heading
+Christian Burgess,CB,R,34,ENG,5,false,false,false,heading,marking
+Mamadou Thierno Barry,CB,R,21,SEN,6,false,false,false,stamina,tackling
+Cristian Makaté,FW,R,23,BEL,7,false,false,false,pace,finishing
+Soulaimane Berradi,FW,R,21,BEL,2,false,false,false,pace,dribbling
+Kjell Scherpen,GK,R,26,NED,6,true,false,false,penalty-saving,reflexes
+Vic Chambaere,GK,R,23,BEL,6,false,false,false,penalty-saving,reflexes
+Giorgi Kavlashvili,GK,L,19,GEO,7,false,false,false,reflexes,penalty-saving

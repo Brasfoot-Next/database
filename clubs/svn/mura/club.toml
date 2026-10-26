@@ -1,0 +1,13 @@
+name = "Mura"
+country = "SVN"
+level = 15
+reputation = 2
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Fazanerija"
+capacity = 5500
+
+[coach]
+name = "Damir Contala"
+country = "SVN"

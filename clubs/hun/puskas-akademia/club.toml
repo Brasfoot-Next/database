@@ -1,0 +1,13 @@
+name = "Puskás Akadémia"
+country = "HUN"
+level = 15
+reputation = 2
+colors = ["#003366", "#ffff00"]
+
+[stadium]
+name = "Pancho Aréna"
+capacity = 3865
+
+[coach]
+name = "Zsolt Hornyák"
+country = "SVK"

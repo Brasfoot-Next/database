@@ -1,0 +1,36 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kirian,MF,R,30,ESP,8,false,false,false,playmaking,passing
+Jonathan Viera,MF,R,36,ESP,4,false,false,false,playmaking,dribbling
+Jeremia Recoba,FW,R,22,URU,5,false,false,false,pace,passing
+Manu Fuster,FW,R,28,ESP,6,true,false,false,passing,playmaking
+Enzo Loiodice,MF,L,25,FRA,4,true,false,false,stamina,dribbling
+Sandro,FW,R,31,ESP,5,false,false,false,finishing,dribbling
+Viti Rozada,FB,R,28,ESP,6,false,false,false,pace,stamina
+Cristian Gutiérrez,FB,L,25,ESP,7,false,false,false,pace,crossing
+Iván Gil,MF,R,26,ESP,4,true,false,false,passing,dribbling
+Mika Mármol,CB,L,25,ESP,5,true,false,false,pace,stamina
+Marvin,FB,R,26,ESP,8,false,false,false,pace,dribbling
+Edward Cedeno,MF,R,23,PAN,4,true,false,false,passing,stamina
+Iñaki González,MF,R,22,ESP,5,false,false,false,stamina,pace
+Pejiño,FW,L,30,ESP,6,false,false,false,pace,finishing
+Lorenzo Amatucci,MF,L,22,ITA,9,false,false,false,passing,playmaking
+Álex Suárez,CB,R,33,ESP,5,true,false,false,pace,tackling
+Jesé,FW,R,33,ESP,6,false,false,false,dribbling,pace
+Ale García,FW,L,23,ESP,6,false,false,false,pace,stamina
+Diego Martín,FB,L,23,ESP,1,true,false,false,pace,stamina
+Marc Cardona,FW,R,31,ESP,5,false,false,false,stamina,pace
+Sergio Viera,MF,R,21,ESP,7,true,false,false,stamina,pace
+Mata,FW,R,37,ESP,3,false,false,false,heading,dribbling
+Herzog,CB,R,22,ESP,5,false,false,false,heading,pace
+Clemente,FB,L,27,ESP,6,false,false,false,stamina,pace
+Valentin Pezzolesi,FB,R,19,ESP,7,true,false,false,pace,stamina
+Adam Arvelo,FW,L,21,ESP,4,false,false,false,pace,dribbling
+Arturo,FW,L,20,ESP,5,false,false,false,pace,dribbling
+Milos Lukovic,FW,L,20,SRB,6,true,false,false,finishing,heading
+Sergio Barcia,CB,L,25,ESP,7,false,false,false,marking,heading
+Sergio Ruiz,FW,L,20,ESP,4,false,false,false,pace,dribbling
+Caro,GK,R,32,ESP,7,false,false,false,positioning,reflexes
+Dinko Horkas,GK,R,27,CRO,2,true,false,false,reflexes,penalty-saving
+Nicolau,GK,R,23,ESP,5,false,false,false,reflexes,rushing-out
+Adri Suárez,GK,R,21,ESP,6,false,false,false,rushing-out,reflexes
+Killane,GK,R,21,ARG,7,false,false,false,rushing-out,reflexes

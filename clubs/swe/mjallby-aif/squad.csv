@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Elliot Stroud,FB,L,24,SWE,6,true,false,false,stamina,pace
+Jesper Gustavsson,MF,R,31,SWE,8,true,false,false,stamina,tackling
+Herman Johansson,FB,R,28,SWE,4,true,false,false,pace,stamina
+Viktor Gustafson,FW,R,31,SWE,6,true,false,false,stamina,passing
+Abdoulie Manneh,FW,L,21,GAM,6,true,false,false,pace,stamina
+Alexander Johansson,FW,L,30,SWE,10,false,false,false,stamina,pace
+Uba Charles,FB,R,23,NGA,5,false,false,false,pace,stamina
+Jeppe Kjaer,MF,L,22,DEN,6,false,false,false,pace,stamina
+Ludwig Malachowski Thorell,MF,L,21,SWE,7,true,false,false,passing,pace
+Tom Pettersson,CB,L,36,SWE,1,false,false,false,stamina,heading
+Timo Stavitski,FW,L,27,FIN,3,false,false,false,pace,crossing
+Adam Petersson,MF,R,26,SWE,5,false,false,false,pace,passing
+Manasse Kusu,MF,R,24,SWE,6,false,false,false,pace,stamina
+Jacob Bergstrom,FW,R,31,SWE,7,false,false,false,heading,stamina
+Silas Nwankwo,FW,R,22,NGA,3,false,false,false,pace,finishing
+Abdullah Iqbal,CB,L,24,SWE,5,true,false,false,tackling,pace
+Axel Noren,CB,R,27,SWE,6,true,false,false,tackling,heading
+Bork Bang Kittilsen,FW,L,21,NOR,3,false,false,false,pace,finishing
+Ludvig Tidstrand,MF,L,21,SWE,5,true,false,false,pace,passing
+Romeo Leandersson,MF,R,18,SWE,6,false,false,false,pace,passing
+Mans Isaksson,MF,R,19,SWE,2,true,false,false,pace,stamina
+Tony Miettinen,CB,R,23,FIN,5,false,false,false,tackling,marking
+Christian Tchouante,CB,R,20,CMR,6,false,false,false,pace,heading
+Olle Nilsson Lov,FW,R,18,SWE,7,false,false,false,pace,stamina
+Ludvig Svanberg,CB,L,23,SWE,2,false,false,false,pace,heading
+Noel Tornqvist,GK,L,24,SWE,5,true,false,false,rushing-out,positioning
+Alexander Lundin,GK,R,33,SWE,6,false,false,false,rushing-out,positioning

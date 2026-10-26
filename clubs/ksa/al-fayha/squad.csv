@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jason,FW,R,32,ESP,7,false,false,false,dribbling,playmaking
+Yassine Benzia,MF,R,32,ALG,3,true,false,false,playmaking,dribbling
+Alfa Semedo,MF,R,29,GNB,5,true,false,false,stamina,tackling
+Fashion Sakala,FW,L,29,ZAM,6,true,false,false,pace,stamina
+Chris Smalling,CB,R,36,ENG,7,true,false,false,heading,marking
+Mikel Villanueva,CB,L,33,VEN,4,true,false,false,marking,tackling
+Silvere Ganvoula,FW,R,30,CGO,5,true,false,false,pace,heading
+Nawaf Al Harthi,MF,L,27,KSA,6,false,false,false,stamina,pace
+Mansour Al Bishi,MF,R,26,KSA,7,false,false,false,stamina,passing
+Ahmed Bamsaud,FB,L,30,KSA,4,true,false,false,pace,stamina
+Stylianos Vrontis,MF,R,21,CYP,3,true,false,false,pace,stamina
+Ziyad Al Sahafi,CB,R,32,KSA,5,false,false,false,tackling,stamina
+Rangel,FB,L,22,BRA,6,false,false,false,pace,finishing
+Mukhair Al Rashidi,CB,L,27,KSA,7,false,false,false,pace,stamina
+Mohammed Al Baqawi,FB,R,31,KSA,8,true,false,false,stamina,pace
+Ali Al Hussain,MF,R,21,KSA,4,false,false,false,pace,passing
+Abdulrahman Al Enazi,FB,R,28,KSA,5,false,false,false,stamina,pace
+Rakan Kaabi,MF,L,23,KSA,6,true,false,false,stamina,pace
+Abdullah Al Joui,FW,L,31,KSA,8,false,false,false,pace,dribbling
+Sattam Al Rouqi,FW,L,24,KSA,4,false,false,false,pace,dribbling
+Rayan Al Mutairi,FW,R,25,KSA,1,false,false,false,pace,dribbling
+Malek Al Abdulmunem,FW,R,28,KSA,5,false,false,false,pace,heading
+Khalid Al Rammah,FB,L,21,KSA,6,false,false,false,pace,stamina
+Mohamed Al Dowaish,FB,R,22,KSA,7,false,false,false,pace,stamina
+Orlando Mosquera,GK,R,31,PAN,1,true,false,false,penalty-saving,reflexes
+Abdelraouf Al Duqail,GK,R,31,KSA,3,false,false,false,positioning,reflexes
+Sattam Al Shammari,GK,R,22,KSA,5,false,false,false,penalty-saving,positioning
+Osama Al Thumayri,GK,L,20,KSA,6,false,false,false,rushing-out,reflexes

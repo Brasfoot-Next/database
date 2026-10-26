@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Quinten Timber,MF,L,25,NED,7,true,false,false,passing,dribbling
+Sem Steijn,MF,R,24,NED,5,true,false,false,stamina,finishing
+Jakub Moder,MF,R,27,POL,6,false,false,false,stamina,passing
+Hwang In Beom,MF,R,29,KOR,6,false,false,false,stamina,passing
+Bart Nieuwkoop,FB,R,30,NED,7,false,false,false,stamina,crossing
+Gijs Smal,FB,L,29,NED,10,false,false,false,crossing,stamina
+Givairo Read,FB,R,20,NED,5,true,false,false,pace,stamina
+Jordan Lotomba,FB,R,27,SUI,6,false,false,false,stamina,pace
+Jordan Bos,FB,L,23,AUS,7,true,false,false,pace,stamina
+Casper Tengstedt,FW,R,26,DEN,1,false,false,false,pace,finishing
+Gernot Trauner,CB,R,34,AUT,7,false,false,false,heading,tackling
+Thomas Beelen,CB,R,25,NED,10,false,false,false,pace,tackling
+Oussama Targhalline,MF,R,24,MAR,5,true,false,false,passing,playmaking
+Luciano Valente,MF,R,22,NED,6,true,false,false,stamina,playmaking
+Cyle Larin,FW,R,31,CAN,7,false,false,false,finishing,heading
+Shiloh T Zand,MF,R,23,SUR,2,false,false,false,dribbling,stamina
+Ayase Ueda,FW,R,28,JPN,5,true,false,false,heading,finishing
+Anis Hadj Moussa,FW,L,24,ALG,6,true,false,false,dribbling,pace
+Leo Sauer,FW,L,20,SVK,7,false,false,false,pace,dribbling
+Gaoussou Diarra,FW,L,23,MLI,2,false,false,false,pace,dribbling
+Ezequiel Bullaude,MF,R,25,ARG,6,false,false,false,stamina,dribbling
+Anel Ahmedhodzic,CB,R,27,BIH,8,true,false,false,pace,stamina
+Tsuyoshi Watanabe,CB,L,29,JPN,5,true,false,false,marking,tackling
+Gonçalo Borges,FW,R,25,POR,6,false,false,false,pace,dribbling
+Thijs Kraaijeveld,MF,R,19,NED,7,false,false,false,pace,passing
+Jan Plug,CB,L,21,NED,8,false,false,false,pace,stamina
+Malcolm Jeng,CB,L,21,SWE,5,false,false,false,pace,stamina
+Jaden Slory,FW,R,21,NED,6,false,false,false,pace,dribbling
+Aymen Sliti,FW,L,20,NED,7,false,false,false,pace,dribbling
+Timon Wellenreuther,GK,R,30,GER,9,true,false,false,penalty-saving,reflexes
+Liam Bossin,GK,R,30,IRL,5,false,false,false,penalty-saving,reflexes
+Justin Bijlow,GK,R,28,NED,6,false,false,false,penalty-saving,reflexes
+Mannou Berger,GK,R,21,NED,7,false,false,false,reflexes,penalty-saving

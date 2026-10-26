@@ -1,0 +1,13 @@
+name = "Pristina"
+country = "KVX"
+level = 14
+reputation = 2
+colors = ["#006699", "#ffffff"]
+
+[stadium]
+name = "Fadil Vokrri"
+capacity = 16200
+
+[coach]
+name = "Ismet Munishi"
+country = "KVX"

@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ilir Avdyli,GK,R,32,KVX,9,true,false,false,penalty-saving,reflexes
+Amrush Bujupi,GK,R,25,KVX,5,false,false,false,positioning,penalty-saving
+Avni Selmani,FB,R,18,KVX,4,true,false,false,finishing,pace
+Bujar Idrizi,FB,L,30,KVX,6,true,false,false,crossing,marking
+Benjamin Emini,FB,R,30,KVX,10,false,false,false,marking,passing
+Fernandinho,FB,L,29,BRA,5,false,false,false,finishing,passing
+Aulon Shabani,CB,R,19,KVX,2,true,false,false,tackling,stamina
+Bianor Neto,CB,L,28,BRA,7,true,false,false,heading,stamina
+Alban Shabani,CB,L,22,KVX,5,true,false,false,heading,stamina
+Olti Mehmeti,CB,L,20,KVX,9,true,false,false,heading,stamina
+Kushtrim Shabani,CB,R,25,KVX,10,true,false,false,marking,pace
+Andri Stafa,MF,L,20,ALB,5,true,false,false,playmaking,passing
+Francisco Rivera,MF,R,27,MEX,8,true,false,false,finishing,passing
+Festim Haxhiu,MF,L,19,KVX,9,true,false,false,marking,finishing
+Ardi Qorri,MF,R,21,KVX,4,true,false,false,tackling,marking
+Arbnor Ramadani,MF,L,28,KVX,9,false,false,false,tackling,finishing
+Ilir Krasniqi,MF,R,22,KVX,8,false,false,false,tackling,marking
+Nderim Hasani,FW,L,20,KVX,9,true,false,false,finishing,dribbling
+Adem Maliqi,FW,L,25,KVX,1,true,false,false,heading,stamina
+Alef Firmino,FW,R,24,BRA,1,false,false,false,finishing,dribbling
+Trimror Selimi,FW,L,21,KVX,10,false,false,false,heading,pace

@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Olivier Ntcham,MF,L,30,CMR,10,true,false,false,passing,stamina
+Carlo Holse,MF,L,27,DEN,5,true,false,false,stamina,pace
+Zeki Yavru,FB,R,35,TUR,6,false,false,false,crossing,playmaking
+Soner Aydogdu,MF,L,35,TUR,7,false,false,false,passing,playmaking
+Afonso Sousa,MF,R,26,POR,1,true,false,false,pace,passing
+Antoine Makoumbou,MF,R,28,CGO,5,true,false,false,stamina,dribbling
+Emre Kilinc,FW,L,32,TUR,6,false,false,false,stamina,dribbling
+Logi Tomasson,FB,L,25,ISL,7,true,false,false,pace,stamina
+Eyup Aydin,MF,L,22,TUR,2,false,false,false,playmaking,passing
+Joe Mendes,FB,R,23,SWE,6,true,false,false,pace,stamina
+Marius Mouandilmadji,FW,R,28,TUR,5,true,false,false,stamina,pace
+Tanguy Coulibaly,FW,L,25,FRA,6,false,false,false,dribbling,pace
+Celil Yuksel,MF,R,28,TUR,6,false,false,false,tackling,passing
+Cherif Ndiaye,FW,R,30,SEN,7,false,false,false,pace,stamina
+Rick Van Drongelen,CB,L,27,NED,9,true,false,false,heading,tackling
+Anthony Musaba,FW,R,25,NED,5,true,false,false,pace,dribbling
+Soner Gonul,FB,L,29,TUR,6,false,false,false,pace,marking
+Ľ. Šatka,CB,R,30,SVK,7,false,false,false,tackling,marking
+Toni Borevkovic,CB,R,29,CRO,1,true,false,false,marking,stamina
+Yunus Emre Cift,CB,R,23,TUR,5,false,false,false,tackling,marking
+Ebrima Ceesay,FW,R,20,GAM,2,false,false,false,finishing,heading
+Bedirhan Cetin,CB,R,20,TUR,6,false,false,false,tackling,marking
+Albert Posiadala,GK,R,23,POL,6,false,false,false,penalty-saving,positioning
+Okan Kocuk,GK,R,31,TUR,7,true,false,false,reflexes,penalty-saving
+Efe Berat Toruz,GK,R,20,TUR,4,false,false,false,penalty-saving,rushing-out

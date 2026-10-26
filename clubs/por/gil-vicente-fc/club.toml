@@ -1,0 +1,13 @@
+name = "Gil Vicente FC"
+country = "POR"
+level = 13
+reputation = 3
+colors = ["#E02020", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Facundo Freitas"
+country = "BRA"

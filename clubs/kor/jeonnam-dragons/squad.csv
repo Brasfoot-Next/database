@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Bong-jin Choi,GK,L,34,KOR,6,false,false,false,positioning,penalty-saving
+Jun-hee Lee,GK,R,32,KOR,7,true,false,false,positioning,penalty-saving
+Min-hyeop Jo,GK,R,19,KOR,2,false,false,false,rushing-out,positioning
+Ji-ha Yoo,CB,R,27,KOR,5,true,false,false,heading,marking
+Jérémy Corinus,CB,R,29,KOR,6,false,false,false,marking,passing
+Seok-hyun Hong,CB,R,24,KOR,7,false,false,false,marking,tackling
+Hyun-jun Ku,CB,R,32,KOR,7,false,false,false,marking,heading
+Gyeong-jae Kim,CB,R,32,KOR,4,false,false,false,marking,heading
+Dong-geon Noh,CB,R,27,KOR,5,true,false,false,tackling,stamina
+Sun-hyuk Jang,CB,R,33,KOR,6,false,false,false,marking,stamina
+Ho Song,CB,R,22,KOR,5,false,false,false,tackling,marking
+Jun-yeong Min,FB,R,29,KOR,6,true,false,false,marking,pace
+Kwang-hyun Ryu,FB,R,22,KOR,7,false,false,false,stamina,pace
+Ju-yeop Kim,FB,R,26,KOR,3,true,false,false,dribbling,pace
+Yong-hwan Kim,FB,L,33,KOR,5,false,false,false,marking,crossing
+Young-kwang Cho,FB,R,22,KOR,6,false,false,false,stamina,pace
+Han-sol Choi,MF,R,29,KOR,7,true,false,false,playmaking,dribbling
+Min-ho Yoon,MF,R,26,KOR,3,true,false,false,tackling,marking
+Won-jin Hong,MF,R,26,KOR,5,true,false,false,passing,tackling
+Valdívia,MF,L,31,BRA,6,false,false,false,dribbling,playmaking
+Tae-yong Park,MF,R,25,KOR,5,true,false,false,passing,playmaking
+Tae-in Jung,MF,L,21,KOR,6,false,false,false,finishing,passing
+Ji-yong Jeong,FW,L,27,KOR,7,true,false,false,heading,stamina
+Young-seok Yoon,FW,L,22,KOR,1,false,false,false,heading,stamina
+Beom-su Kim,FW,R,26,KOR,5,false,false,false,pace,crossing
+Kang-min Jeong,FW,R,21,KOR,6,false,false,false,crossing,pace
+Irakli Bughridze,FW,R,28,GEO,7,false,false,false,playmaking,finishing
+Ji-san Yang,FW,R,27,KOR,1,true,false,false,pace,dribbling
+Sang-hun Chu,FW,R,26,KOR,5,false,false,false,finishing,heading
+Gun-ho Son,FW,R,19,KOR,6,false,false,false,dribbling,finishing
+Ronan,FW,R,31,BRA,4,false,false,false,finishing,stamina
+Nam Ha,FW,L,27,KOR,5,false,false,false,heading,pace
+Kyeong-jun Kim,FW,R,29,KOR,6,false,false,false,pace,stamina

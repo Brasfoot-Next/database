@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Aaron McCarey,GK,R,30,IRL,8,true,false,false,reflexes,positioning
+Marcus Kane,FB,L,30,NIR,9,true,false,false,marking,pace
+Rhys Marshall,FB,R,27,NIR,1,true,false,false,finishing,passing
+Bobby Burns,FB,L,22,NIR,10,false,false,false,marking,pace
+Willie Garrett,FB,R,30,NIR,9,false,false,false,marking,pace
+Luke McCullough,CB,R,28,NIR,9,true,false,false,tackling,stamina
+Patrick McClean,CB,L,25,NIR,6,true,false,false,tackling,heading
+Caolan Marron,CB,R,24,NIR,8,false,false,false,tackling,marking
+Joe Crowe,CB,L,24,NIR,8,false,false,false,tackling,marking
+Hrvoje Plum,MF,L,28,CRO,3,true,false,false,tackling,marking
+Seanan Clucas,MF,R,29,NIR,2,true,false,false,tackling,heading
+Sean Murray,MF,R,28,IRL,7,true,false,false,tackling,heading
+Shay McCartan,MF,R,28,NIR,4,true,false,false,finishing,passing
+Jay Donnelly,FW,L,27,NIR,9,true,false,false,finishing,pace
+Rory Donnelly,FW,R,30,NIR,2,true,false,false,dribbling,finishing
+Conor McMenamin,FW,R,26,NIR,7,false,false,false,dribbling,finishing
+Mike Argyrides,GK,R,23,CAN,1,false,false,false,positioning,rushing-out
+Oliver Webber,GK,L,22,NIR,3,false,false,false,rushing-out,penalty-saving
+Ciaran O'Connor,MF,R,26,IRL,3,false,false,false,finishing,passing
+Danny Purkis,FW,L,27,NIR,9,false,false,false,finishing,pace
+Aaron Wightman,MF,R,18,NIR,4,false,false,false,playmaking,dribbling

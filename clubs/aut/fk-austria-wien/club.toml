@@ -1,0 +1,13 @@
+name = "FK Austria Wien"
+country = "AUT"
+level = 12
+reputation = 2
+colors = ["#F0F0F0", "#000030"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Konstantin Handl"
+country = "BRA"

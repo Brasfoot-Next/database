@@ -1,0 +1,13 @@
+name = "Hamilton Wanderers"
+country = "NZL"
+level = 13
+reputation = 2
+colors = ["#ffffff", "#0000cc"]
+
+[stadium]
+name = "Porritt Park"
+capacity = 2000
+
+[coach]
+name = "Joseph Hinds"
+country = "WAL"

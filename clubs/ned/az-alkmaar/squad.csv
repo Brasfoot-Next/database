@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sven Mijnans,MF,L,26,NED,6,true,false,false,stamina,playmaking
+Jordy Clasie,MF,R,35,NED,7,false,false,false,passing,playmaking
+Seiya Maikuma,FB,R,28,JPN,4,false,false,false,stamina,tackling
+Troy Parrott,FW,R,24,IRL,6,true,false,false,pace,finishing
+Peer Koopmeiners,MF,R,26,NED,6,true,false,false,stamina,passing
+Matej Sin,MF,L,22,CZE,7,true,false,false,stamina,dribbling
+Kees Smit,MF,L,20,NED,8,true,false,false,dribbling,passing
+Mees De Wit,FB,L,28,NED,5,true,false,false,stamina,dribbling
+Mexx Meerdink,FW,L,23,NED,6,true,false,false,stamina,heading
+Ibrahim Sadiq,FW,R,26,GHA,7,false,false,false,pace,stamina
+Denso Kasius,FB,R,23,NED,6,true,false,false,pace,stamina
+Patati,FW,L,22,BRA,7,false,false,false,pace,dribbling
+Mateo Chavez,FB,L,22,MEX,2,false,false,false,pace,stamina
+Dave Kwakman,FW,L,22,NED,5,false,false,false,passing,stamina
+Wouter Goes,CB,R,22,NED,6,true,false,false,marking,tackling
+Isak Jensen,FW,L,22,DEN,7,false,false,false,pace,dribbling
+Alexandre Penetra,CB,L,24,POR,4,true,false,false,marking,tackling
+Ro Zangelo Daal,FW,L,22,NED,6,false,false,false,pace,dribbling
+Elijah Dijkstra,FB,R,20,NED,6,false,false,false,pace,dribbling
+Lequincio Zeefuik,FW,R,21,NED,7,false,false,false,pace,stamina
+Maxim Dekker,CB,L,22,NED,6,false,false,false,heading,marking
+Sem Van Duijn,FW,L,22,NED,7,false,false,false,pace,dribbling
+Jasper Hartog,FW,R,20,NED,9,false,false,false,pace,dribbling
+Andrea Natali,CB,R,18,ITA,5,false,false,false,tackling,passing
+Billy Van Duijl,CB,L,20,NED,6,false,false,false,tackling,marking
+Jeroen Zoet,GK,R,35,NED,7,false,false,false,rushing-out,positioning
+Hobie Verhulst,GK,L,33,NED,1,false,false,false,positioning,reflexes
+Rome Jayden Owusu Oduro,GK,R,22,NED,5,true,false,false,reflexes,positioning
+Daniel Virginio Deen,GK,R,23,NED,6,false,false,false,rushing-out,reflexes

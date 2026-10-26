@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Matty Longstaff,MF,R,26,ENG,6,true,false,false,dribbling,passing
+Fabian Herbers,MF,R,33,GER,7,false,false,false,stamina,passing
+Victor Loturi,MF,L,25,CAN,10,true,false,false,stamina,pace
+Tom Pearce,FW,L,28,ENG,4,false,false,false,pace,crossing
+Kwadwo Opoku,FW,L,25,GHA,6,false,false,false,pace,dribbling
+Giacomo Vrioni,FW,L,27,ALB,8,true,false,false,pace,finishing
+Dante Sealy,FW,L,23,TRI,4,false,false,false,pace,stamina
+Bryce Duke,MF,R,25,USA,5,true,false,false,passing,dribbling
+Luca Petrasso,FB,L,26,CAN,6,true,false,false,pace,stamina
+Prince Owusu,FW,L,29,GER,8,true,false,false,pace,finishing
+Sunusi Ibrahim,FW,R,23,NGA,6,false,false,false,pace,dribbling
+Aleksandr Guboglo,FW,R,19,HAI,10,false,false,false,pace,crossing
+Bode Hidalgo,FB,L,24,USA,4,true,false,false,pace,dribbling
+Samuel Piette,MF,R,31,CAN,5,true,false,false,stamina,tackling
+Hennadii Synchuk,MF,L,20,UKR,6,false,false,false,dribbling,pace
+Fernando Alvarez,CB,L,23,COL,1,true,false,false,pace,stamina
+Dawid Bugaj,FB,R,22,POL,5,false,false,false,stamina,pace
+Jalen Neal,CB,R,23,USA,6,true,false,false,pace,marking
+Olger Escobar,FW,L,19,GUA,7,false,false,false,pace,dribbling
+Brandan Craig,CB,R,22,USA,1,false,false,false,pace,marking
+Efrain Morales,CB,R,22,BOL,6,false,false,false,tackling,stamina
+Owen Graham Roache,FW,R,18,CAN,7,false,false,false,pace,finishing
+Sebastian Breza,GK,R,28,CAN,4,false,false,false,reflexes,rushing-out
+Jonathan Sirois,GK,R,25,CAN,5,false,false,false,reflexes,penalty-saving
+Thomas Gillier,GK,R,22,CHI,6,true,false,false,reflexes,penalty-saving

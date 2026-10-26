@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Maxim De Cuyper,FB,L,25,BEL,6,true,false,false,stamina,crossing
+Carlos Baleba,MF,L,22,CMR,7,true,false,false,tackling,dribbling
+Ferdi Kadioglu,FB,R,26,TUR,8,false,false,false,dribbling,stamina
+Georginio Rutter,MF,L,24,FRA,2,true,false,false,dribbling,stamina
+Kaoru Mitoma,FW,L,29,JPN,6,false,false,false,dribbling,pace
+Mats Wieffer,MF,R,26,NED,6,false,false,false,passing,tackling
+Jack Hinshelwood,MF,R,21,ENG,7,false,false,false,passing,tackling
+Yasin Ayari,MF,L,22,SWE,4,true,false,false,dribbling,passing
+Danny Welbeck,FW,R,35,ENG,6,false,false,false,finishing,heading
+Olivier Boscagli,CB,L,28,FRA,6,false,false,false,passing,tackling
+Diego Gomez,MF,R,23,PAR,6,false,false,false,dribbling,passing
+James Milner,MF,R,40,ENG,7,false,false,false,passing,crossing
+Solly March,FW,L,32,ENG,9,false,false,false,crossing,dribbling
+Jan Paul Van Hecke,CB,R,26,NED,5,true,false,false,tackling,marking
+Yankuba Minteh,FW,L,22,GAM,6,true,false,false,pace,dribbling
+Joel Veltman,FB,R,34,NED,7,true,false,false,tackling,marking
+Brajan Gruda,MF,L,22,GER,9,true,false,false,dribbling,playmaking
+Charalampos Kostoulas,FW,R,19,GRE,5,true,false,false,pace,stamina
+Lewis Dunk,CB,L,34,ENG,6,false,false,false,heading,tackling
+Stefanos Tzimas,FW,R,20,GRE,7,false,false,false,pace,finishing
+Tom Watson,FW,L,20,ENG,2,false,false,false,pace,dribbling
+Diego Coppola,CB,R,22,ITA,6,true,false,false,marking,tackling
+Adam Webster,CB,R,31,ENG,6,false,false,false,heading,tackling
+Jason Steele,GK,R,36,ENG,8,false,false,false,penalty-saving,positioning
+Bart Verbruggen,GK,R,24,NED,4,true,false,false,reflexes,penalty-saving
+Tom Mcgill,GK,R,26,CAN,6,false,false,false,reflexes,penalty-saving

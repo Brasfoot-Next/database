@@ -1,0 +1,19 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Stanislav Namasco,GK,L,35,MDA,6,true,false,false,rushing-out,penalty-saving
+Akpar Valiyev,GK,R,20,AZE,9,false,false,false,penalty-saving,reflexes
+Ruslan Amircanov,FB,R,37,AZE,6,true,false,false,marking,finishing
+Rahman Dashdamirov,FB,L,22,AZE,7,true,false,false,finishing,pace
+Abdulla Rzayev,FB,R,20,AZE,5,false,false,false,crossing,pace
+Franco Flores,CB,L,29,ARG,2,true,false,false,marking,pace
+Karim Diniyev,CB,R,28,AZE,3,true,false,false,tackling,marking
+Fuad Bayramov,CB,R,24,AZE,10,false,false,false,tackling,heading
+Rail Malikov,CB,L,36,AZE,2,false,false,false,tackling,heading
+Parviz Azadov,MF,L,21,AZE,4,true,false,false,tackling,marking
+Samir Abdullayev,MF,L,20,AZE,9,true,false,false,passing,finishing
+Sahil Hristov,MF,R,23,AZE,3,true,false,false,playmaking,pace
+Avetik Isayev,MF,R,28,AZE,3,true,false,false,playmaking,passing
+Mustafa Garayev,MF,L,27,AZE,1,false,false,false,tackling,marking
+Sadio Tounkara,FW,R,30,MLI,2,true,false,false,pace,finishing
+Aldair Neto,FW,R,28,POR,2,true,false,false,dribbling,finishing
+Nathan Oduwa,FW,L,26,ENG,7,false,false,false,finishing,dribbling
+Bahadur Haziyev,FW,R,23,AZE,7,false,false,false,finishing,heading

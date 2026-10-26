@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Valerio Verre,MF,R,32,ITA,7,false,false,false,playmaking,dribbling
+Filippo Ranocchia,MF,L,25,ITA,2,true,false,false,stamina,passing
+Antonio Palumbo,MF,L,30,ITA,5,false,false,false,stamina,playmaking
+Claudio Gomes,MF,R,26,FRA,6,true,false,false,stamina,pace
+Jacopo Segre,MF,R,29,ITA,7,true,false,false,stamina,heading
+Aljosa Vasic,MF,R,24,SRB,2,false,false,false,pace,heading
+Tommaso Augello,FW,L,32,ITA,5,true,false,false,crossing,stamina
+Matteo Brunori,MF,L,31,ITA,6,false,false,false,stamina,pace
+Niccolo Pierozzi,FW,R,24,ITA,7,false,false,false,stamina,dribbling
+Jeremy Le Douaron,FW,L,28,FRA,3,true,false,false,heading,dribbling
+Salim Diakite,CB,R,26,MLI,8,true,false,false,pace,stamina
+Joel Pohjanpalo,FW,R,31,FIN,4,true,false,false,finishing,heading
+Emmanuel Gyasi,MF,R,32,GHA,7,true,false,false,stamina,pace
+Samuel Giovane,MF,L,23,ITA,4,false,false,false,pace,stamina
+Pietro Ceccaroni,CB,L,30,ITA,5,false,false,false,stamina,heading
+Alexis Blin,MF,R,29,FRA,6,true,false,false,stamina,passing
+Giacomo Corona,FW,R,22,ITA,7,false,false,false,pace,dribbling
+Patryk Peda,CB,R,24,POL,4,false,false,false,pace,tackling
+Davide Veroli,CB,L,23,ITA,5,false,false,false,pace,heading
+Pietro Avena,FW,L,19,ITA,6,false,false,false,pace,heading
+Mattia Bani,CB,R,32,ITA,3,true,false,false,tackling,marking
+Alfred Gomis,GK,R,33,SEN,5,false,false,false,reflexes,penalty-saving
+Jesse Joronen,GK,R,33,FIN,6,true,false,false,rushing-out,positioning
+Francesco Bardi,GK,R,34,ITA,2,false,false,false,reflexes,penalty-saving
+Michele Avella,GK,L,26,ITA,5,false,false,false,reflexes,penalty-saving

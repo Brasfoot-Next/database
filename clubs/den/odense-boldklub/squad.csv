@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rasmus Falk,MF,L,34,DEN,2,true,false,false,stamina,dribbling
+Leeroy Owusu,FB,R,30,NED,5,true,false,false,pace,stamina
+Jakob Bonde,MF,L,32,DEN,6,true,false,false,stamina,passing
+Jay Roy Grot,FW,R,28,NED,7,true,false,false,pace,stamina
+Adam Sorensen,FB,L,25,DEN,3,false,false,false,pace,stamina
+Jann Fiete Arp,FW,L,26,GER,5,false,false,false,pace,dribbling
+Jona Niemiec,FW,R,24,GER,6,false,false,false,pace,stamina
+Tom Trybull,MF,R,33,GER,7,false,false,false,stamina,marking
+Bjorn Paulsen,CB,R,35,DEN,3,false,false,false,stamina,heading
+Ismahila Ouedraogo,MF,R,26,BFA,5,true,false,false,stamina,pace
+Max Ejdum,MF,L,21,DEN,5,true,false,false,pace,playmaking
+James Gomez,CB,L,24,GAM,6,true,false,false,pace,stamina
+Noah Ganaus,FW,R,25,GER,7,true,false,false,pace,stamina
+Gustav Grubbe,FB,R,23,DEN,3,false,false,false,pace,crossing
+Nicolas Burgy,CB,R,31,SUI,5,false,false,false,heading,marking
+Marcus Mccoy,FB,R,21,DEN,6,true,false,false,pace,heading
+Magnus Andersen,FW,L,20,DEN,7,false,false,false,pace,stamina
+William Martin,FW,R,19,DEN,7,false,false,false,pace,finishing
+Elias Hansborg Sorensen,FW,R,21,DEN,4,false,false,false,pace,finishing
+Yaya Bojang,CB,R,21,GAM,5,false,false,false,pace,tackling
+Julius Berthel Askou,CB,R,20,DEN,4,true,false,false,stamina,pace
+Viljar Myhra,GK,R,30,NOR,5,false,false,false,reflexes,penalty-saving
+Theo Sander,GK,R,21,DEN,6,true,false,false,reflexes,penalty-saving
+Martin Hansen,GK,R,36,DEN,8,false,false,false,reflexes,positioning
+Marcus Eskildsen,GK,R,18,DEN,5,false,false,false,penalty-saving,reflexes

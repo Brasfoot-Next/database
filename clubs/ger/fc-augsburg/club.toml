@@ -1,0 +1,13 @@
+name = "FC Augsburg"
+country = "GER"
+level = 17
+reputation = 3
+colors = ["#F0F0F0", "#C01010"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Elias Rexhbecaj"
+country = "BRA"

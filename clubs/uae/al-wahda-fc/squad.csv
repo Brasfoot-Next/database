@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Facundo Lirussi,GK,R,20,PAR,7,false,false,false,reflexes,rushing-out
+Zayed Ahmed,GK,R,30,UAE,4,false,false,false,penalty-saving,reflexes
+Hazaa Ammar,GK,R,26,UAE,6,true,false,false,reflexes,penalty-saving
+Lucas Pimenta,CB,R,26,UAE,6,true,false,false,heading,marking
+Ala Zhir,CB,L,26,UAE,7,true,false,false,heading,marking
+Favour Inyeka Ogbu,CB,R,22,NGA,4,false,false,false,heading,passing
+Renne Rivas,FB,L,23,VEN,6,true,false,false,tackling,marking
+Guga,FB,R,22,POR,6,true,false,false,crossing,pace
+Mansour Burghash,FB,R,21,UAE,7,false,false,false,stamina,crossing
+Jadsom,MF,R,25,BRA,5,true,false,false,passing,finishing
+Mohammad Ghorbani,MF,R,25,UAE,10,true,false,false,marking,passing
+Abdulla Hamad,MF,L,24,UAE,5,true,false,false,playmaking,dribbling
+Mobin Dehghan,MF,L,20,UAE,6,false,false,false,passing,playmaking
+Gastón Álvarez Suarez,MF,R,33,UAE,7,true,false,false,finishing,passing
+Louay Trayi,MF,R,21,TUN,7,false,false,false,dribbling,playmaking
+Facundo Kruspzky,FW,L,23,ARG,2,false,false,false,finishing,stamina
+Arnau Pradas,FW,R,20,ESP,5,false,false,false,pace,crossing
+Asher Agbinone,FW,R,20,ENG,6,true,false,false,finishing,dribbling
+Gerónimo Rivera,FW,R,22,ARG,7,false,false,false,heading,finishing
+Brahima Diarra,FW,R,23,MLI,4,false,false,false,pace,finishing
+Abdulqader Abdullah,FW,L,20,UAE,6,false,false,false,finishing,stamina
+Omar Khribin,FW,L,32,UAE,7,false,false,false,finishing,pace
+Christian Benteke,FW,R,35,BEL,2,true,false,false,heading,finishing
+Caio Canedo,FW,R,35,UAE,5,false,false,false,dribbling,finishing

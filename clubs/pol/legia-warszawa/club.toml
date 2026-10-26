@@ -1,0 +1,13 @@
+name = "Legia Warszawa"
+country = "POL"
+level = 13
+reputation = 3
+colors = ["#005020", "#D0D0D0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Steve Zewlakow"
+country = "BRA"

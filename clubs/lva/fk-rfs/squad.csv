@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Cerniauskas,GK,R,33,LTU,10,true,false,false,rushing-out,penalty-saving
+Jevgenijs Nerugals,GK,R,33,LVA,7,false,false,false,rushing-out,penalty-saving
+Pavels Steinbors,GK,L,36,LVA,3,false,false,false,positioning,penalty-saving
+Vladislavs Sorokins,FB,L,25,LVA,3,true,false,false,marking,finishing
+Petr Mares,FB,R,31,CZE,3,true,false,false,finishing,pace
+Fjodorovs,FB,R,25,LVA,7,false,false,false,crossing,pace
+Jovan Vlalukin,FB,L,23,SRB,2,false,false,false,marking,pace
+Jagodinskis,CB,R,30,LVA,8,true,false,false,tackling,marking
+Ziga Lipuscek,CB,L,25,SVN,3,true,false,false,heading,stamina
+Elvis Stuglis,CB,L,29,LVA,6,false,false,false,tackling,heading
+Kaspars Dubra,CB,R,31,LVA,2,false,false,false,marking,pace
+Tomislav Saric,MF,R,32,CRO,7,true,false,false,marking,finishing
+Arturs Zjuzins,MF,L,31,LVA,3,true,false,false,playmaking,finishing
+Alfusainey Jatta,MF,R,22,GAM,5,true,false,false,marking,passing
+Karolis Uzela,MF,L,22,LTU,9,false,false,false,tackling,pace
+Glebs Zaleiko,MF,R,18,LVA,4,false,false,false,marking,passing
+Renars Varslavans,MF,R,20,LVA,10,true,false,false,passing,finishing
+Deniss Rakels,MF,L,29,LVA,3,false,false,false,passing,finishing
+Ismael Diomande,MF,R,18,CIV,6,false,false,false,playmaking,pace
+Cedric Kouadio,FW,L,26,CIV,7,false,false,false,heading,stamina
+Deocleciano,FW,R,22,BRA,3,true,false,false,pace,finishing
+Friesenbichler,FW,L,28,AUT,7,false,false,false,pace,finishing
+Andrej Ilic,FW,L,22,SRB,7,true,false,false,heading,pace

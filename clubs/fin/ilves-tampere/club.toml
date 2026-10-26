@@ -1,0 +1,13 @@
+name = "Ilves Tampere"
+country = "FIN"
+level = 14
+reputation = 2
+colors = ["#ffff33", "#006600"]
+
+[stadium]
+name = "Tammelan"
+capacity = 5060
+
+[coach]
+name = "Toni Kallio"
+country = "FIN"

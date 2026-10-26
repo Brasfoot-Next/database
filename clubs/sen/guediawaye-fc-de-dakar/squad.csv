@@ -1,0 +1,37 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+El Hadji Gueye,GK,R,22,SEN,6,false,false,false,rushing-out,reflexes
+Idy Diop,GK,R,25,SEN,7,true,false,false,positioning,penalty-saving
+Cheikh Babou,GK,R,24,SEN,2,false,false,false,reflexes,penalty-saving
+Chérif Kambaye,CB,L,21,SEN,5,false,false,false,passing,marking
+Khadim Faye,CB,L,25,SEN,7,true,false,false,stamina,heading
+Omar Diocou,CB,R,25,SEN,1,true,false,false,marking,heading
+Baye Diop,CB,R,25,SEN,5,false,false,false,heading,passing
+Arona Camara,CB,R,25,SEN,6,false,false,false,tackling,pace
+Jean Dasylva,CB,R,25,SEN,7,false,false,false,passing,marking
+El Hadji Wade,CB,R,25,SEN,2,false,false,false,marking,stamina
+Mbaye Sarr,CB,R,25,SEN,5,false,false,false,tackling,stamina
+Pape Hann,FB,R,20,SEN,7,false,false,false,passing,pace
+Mady Ndiaye,FB,R,25,SEN,1,true,false,false,passing,crossing
+Abdoul Gaye,FB,L,25,SEN,4,false,false,false,stamina,pace
+Mouhamed Fall,FB,R,26,SEN,6,true,false,false,passing,crossing
+Oumar Niabaly,FB,L,25,SEN,7,false,false,false,marking,pace
+Amadou Thiaw,FB,L,25,SEN,1,false,false,false,pace,tackling
+Lamine Sagna,MF,R,18,SEN,5,false,false,false,playmaking,passing
+Racine Badiane,MF,R,25,SEN,6,true,false,false,tackling,marking
+Boubacar Seydi,MF,R,25,SEN,7,true,false,false,pace,dribbling
+Moussa Ndiaye,MF,L,24,SEN,5,true,false,false,pace,dribbling
+Babacar Ndiaye,MF,R,25,SEN,6,true,false,false,playmaking,finishing
+Amadou Sandé,MF,R,18,SEN,7,false,false,false,passing,playmaking
+Pape Pène,MF,R,25,SEN,4,false,false,false,passing,tackling
+Mouhamed Sylla,MF,R,20,SEN,5,false,false,false,finishing,playmaking
+Makhmouth Diallo,MF,R,30,SEN,6,false,false,false,passing,tackling
+Abdoulaye Diédhiou,MF,L,25,SEN,8,false,false,false,finishing,passing
+Babacar Diouf,MF,R,25,SEN,4,false,false,false,playmaking,passing
+Patrick Basse,FW,R,20,SEN,5,false,false,false,heading,finishing
+Bernard Sow,FW,R,18,SEN,6,false,false,false,pace,finishing
+Mamadou Sow,FW,R,25,SEN,5,true,false,false,finishing,dribbling
+Moulaye Thiaw,FW,R,25,SEN,6,true,false,false,dribbling,playmaking
+Bécaye Ndiaye,FW,R,19,SEN,7,false,false,false,heading,pace
+Cheikh Ndoye,FW,R,25,SEN,3,false,false,false,finishing,stamina
+Fallou Faye,FW,R,18,SEN,5,false,false,false,pace,dribbling
+Abdou Manga,FW,R,20,SEN,6,false,false,false,dribbling,pace

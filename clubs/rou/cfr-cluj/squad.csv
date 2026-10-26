@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Damjan Dokovic,MF,L,36,CRO,4,false,false,false,stamina,passing
+Marcus Coco,FB,R,30,FRA,5,true,false,false,pace,crossing
+Louis Munteanu,FW,R,24,ROU,6,true,false,false,pace,stamina
+Ciprian Deac,FW,L,40,ROU,7,false,false,false,crossing,playmaking
+Ovidiu Perianu,MF,R,24,ROU,4,false,false,false,stamina,pace
+Andrei Cordea,FW,L,27,ROU,5,true,false,false,pace,stamina
+Alin Fica,MF,L,25,ROU,6,true,false,false,stamina,passing
+Kurt Zouma,CB,R,31,FRA,7,true,false,false,heading,tackling
+Meriton Korenica,FW,L,29,ROU,1,false,false,false,pace,stamina
+Tidiane Keita,MF,R,29,FRA,5,true,false,false,stamina,passing
+Islam Slimani,FW,R,38,ALG,6,false,false,false,finishing,playmaking
+Lindon Emerllahu,MF,R,23,ROU,7,true,false,false,stamina,passing
+Karlo Muhar,MF,R,30,CRO,2,true,false,false,stamina,heading
+Camora,FB,L,39,ROU,5,false,false,false,crossing,passing
+Adrian Paun,MF,R,31,ROU,6,false,false,false,stamina,pace
+Simão Rocha,FB,L,25,POR,7,false,false,false,stamina,pace
+Mohammed Kamara,FW,L,28,LBR,3,false,false,false,pace,stamina
+Sheriff Sinyan,CB,R,30,GAM,5,false,false,false,pace,tackling
+Aly Abeid,FB,L,28,ROU,6,true,false,false,stamina,pace
+Viktor Kun,MF,R,22,ROU,7,false,false,false,pace,passing
+Mohamed Badamosi,FW,R,28,GAM,6,false,false,false,heading,stamina
+Lorenzo Biliboc,FW,R,19,ROU,8,false,false,false,pace,stamina
+Andres Sfait,FW,L,21,ROU,4,false,false,false,pace,dribbling
+Matei Ilie,CB,L,23,ROU,5,true,false,false,stamina,tackling
+Alexandru Tirlea,FB,R,26,ROU,6,false,false,false,pace,passing
+Drilon Islami,MF,R,26,ROU,10,false,false,false,stamina,pace
+Kenneth Omeruo,CB,R,32,NGA,5,false,false,false,heading,tackling
+Anton Kresic,CB,R,30,CRO,5,false,false,false,heading,tackling
+Alessandro Micai,GK,R,33,ITA,6,false,false,false,reflexes,rushing-out
+Otto Hindrich,GK,R,24,ROU,1,true,false,false,reflexes,positioning
+Rares Gal,GK,R,25,ROU,6,false,false,false,reflexes,rushing-out

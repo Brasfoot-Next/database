@@ -1,0 +1,13 @@
+name = "Club Alianza Lima"
+country = "PER"
+level = 12
+reputation = 2
+colors = ["#C0C0C0", "#000050"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Alejandro Mesías"
+country = "BRA"

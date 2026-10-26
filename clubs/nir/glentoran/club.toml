@@ -1,0 +1,13 @@
+name = "Glentoran"
+country = "NIR"
+level = 14
+reputation = 1
+colors = ["#006600", "#ffffff"]
+
+[stadium]
+name = "The Oval"
+capacity = 15000
+
+[coach]
+name = "Mick McDermott"
+country = "NIR"

@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ruben Yttergard Jenssen,MF,L,38,NOR,7,true,false,false,stamina,crossing
+Lars Olden Larsen,FW,L,27,NOR,1,true,false,false,stamina,dribbling
+August Mikkelsen,FW,L,25,NOR,5,false,false,false,stamina,pace
+David Edvardsson,MF,R,24,SWE,6,true,false,false,stamina,passing
+Vegard Erlien,FW,R,28,NOR,7,false,false,false,stamina,pace
+Ruben Kristiansen,FB,L,38,NOR,2,false,false,false,stamina,tackling
+Yaw Paintsil,FW,L,27,NOR,5,false,false,false,pace,dribbling
+Leo Cornic,FB,R,25,NOR,6,false,false,false,pace,stamina
+Jens Hjerto Dahl,MF,L,20,NOR,7,true,false,false,passing,playmaking
+Alexander Warneryd,FB,R,21,SWE,2,true,false,false,pace,stamina
+Heine Asen Larsen,FW,R,24,NOR,9,true,false,false,stamina,pace
+Ieltsin Camões,FW,L,27,ANG,4,false,false,false,pace,finishing
+Sander Havik Innvaer,FW,L,21,NOR,5,false,false,false,pace,dribbling
+Sigurd Prestmo,MF,L,19,NOR,7,false,false,false,pace,finishing
+Vetle Skjaervik,CB,R,25,NOR,4,false,false,false,stamina,pace
+Anders Finjord Jenssen,CB,R,32,NOR,5,false,false,false,stamina,tackling
+Abubacarr Sedi Kinteh,CB,L,19,GAM,6,true,false,false,pace,tackling
+Jens Berland Husebo,CB,R,27,NOR,8,false,false,false,stamina,tackling
+Daniel Braut,FW,R,21,NOR,4,false,false,false,pace,heading
+Tobias Guddal,CB,R,24,NOR,5,true,false,false,heading,tackling
+Mads Mikkelsen,MF,L,18,NOR,7,true,false,false,pace,stamina
+Isak Vadebu,FB,R,23,NOR,4,true,false,false,pace,stamina
+Jakob Haugaard,GK,L,34,DEN,5,true,false,false,positioning,rushing-out
+Simon Thomas,GK,R,36,CAN,6,false,false,false,rushing-out,reflexes
+Ole Kristian Lauvli,GK,R,32,NOR,6,false,false,false,penalty-saving,positioning

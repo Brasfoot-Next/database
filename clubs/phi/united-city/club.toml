@@ -1,0 +1,13 @@
+name = "United City"
+country = "PHI"
+level = 13
+reputation = 3
+colors = ["#ffff33", "#000000"]
+
+[stadium]
+name = "Panaad Park"
+capacity = 9825
+
+[coach]
+name = "Franklin Muescan"
+country = "PHI"

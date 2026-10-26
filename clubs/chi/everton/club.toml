@@ -1,0 +1,13 @@
+name = "Everton"
+country = "CHI"
+level = 17
+reputation = 3
+colors = ["#003366", "#ffff33"]
+
+[stadium]
+name = "Sausalito"
+capacity = 22000
+
+[coach]
+name = "Francisco Meneghini"
+country = "ARG"

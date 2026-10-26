@@ -1,0 +1,14 @@
+name = "Goiás"
+country = "BRA"
+state = "GO"
+level = 13
+reputation = 3
+colors = ["#F0F0F0", "#004010"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Lucas Carlos"
+country = "BRA"

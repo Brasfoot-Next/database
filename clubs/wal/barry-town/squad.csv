@@ -1,0 +1,19 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mike Lewis,GK,R,33,WAL,6,true,false,false,positioning,penalty-saving
+Ryley Allen,GK,R,19,WAL,8,false,false,false,penalty-saving,reflexes
+Chris Hugh,FB,L,30,WAL,4,true,false,false,finishing,passing
+Curtis McDonald,FB,R,34,WAL,2,true,false,false,finishing,passing
+Luke Cooper,CB,L,29,WAL,10,true,false,false,tackling,stamina
+Jordan Cotterill,MF,R,33,WAL,9,true,false,false,passing,finishing
+Evan Press,MF,R,22,WAL,4,true,false,false,pace,dribbling
+Michael George,MF,R,23,WAL,6,true,false,false,marking,pace
+Kayne McLaggon,FW,R,31,WAL,6,true,false,false,finishing,stamina
+Cameron Clarke,GK,R,25,WAL,7,false,false,false,rushing-out,penalty-saving
+Liam Walsh,FB,R,26,WAL,7,false,false,false,marking,passing
+Rhys Davies,FB,L,21,WAL,8,false,false,false,marking,finishing
+Troy Greening,MF,L,29,ENG,1,true,false,false,finishing,passing
+Aiden Lewis,MF,L,29,WAL,4,false,false,false,passing,finishing
+Drew Fahiya,FW,L,34,WAL,4,true,false,false,dribbling,playmaking
+Gavin Beddard,FW,L,20,ENG,4,false,false,false,crossing,pace
+Josh Graham,FW,R,28,WAL,4,false,false,false,finishing,pace
+Callum Sainty,MF,R,26,WAL,7,false,false,false,marking,passing

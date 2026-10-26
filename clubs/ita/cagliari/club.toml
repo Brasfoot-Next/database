@@ -1,0 +1,13 @@
+name = "Cagliari"
+country = "ITA"
+level = 16
+reputation = 3
+colors = ["#F0F0F0", "#B01020"]
+
+[stadium]
+name = "Unipol Domus"
+capacity = 16416
+
+[coach]
+name = "Marco Borrelli"
+country = "BRA"

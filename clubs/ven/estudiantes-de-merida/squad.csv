@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Eddie Roberts,GK,R,32,PAN,5,true,false,false,positioning,rushing-out
+Tito Rojas,GK,R,38,VEN,6,false,false,false,rushing-out,positioning
+Christopher Rodríguez,CB,R,28,VEN,7,true,false,false,heading,marking
+Jean Fran Gutiérrez,CB,R,28,VEN,3,true,false,false,tackling,pace
+Javier Marquez,CB,R,22,VEN,5,false,false,false,tackling,marking
+Luis Caicedo,CB,R,34,ECU,6,false,false,false,passing,marking
+Michael Maldonado,CB,R,25,VEN,7,false,false,false,marking,passing
+José Montilla,FB,R,22,VEN,4,false,false,false,dribbling,pace
+Héctor Acosta,FB,L,25,VEN,5,true,false,false,passing,crossing
+Geovan Montes,FB,L,30,COL,6,true,false,false,pace,tackling
+Luis Vera,FB,L,19,VEN,6,false,false,false,marking,crossing
+Wilken Ramírez,MF,L,24,VEN,7,true,false,false,passing,finishing
+Cristhian Rivas,MF,L,29,VEN,3,true,false,false,finishing,passing
+Jesús Lobo,MF,R,24,VEN,5,true,false,false,playmaking,passing
+Andrés D'Agostino,MF,R,24,VEN,6,true,false,false,playmaking,dribbling
+Andrés Montero,MF,R,32,VEN,2,false,false,false,stamina,tackling
+Ender Albarrán,MF,R,18,VEN,5,false,false,false,stamina,tackling
+Ángelo Peña,MF,R,36,VEN,6,false,false,false,pace,dribbling
+Manuel Paez,MF,R,21,VEN,7,false,false,false,finishing,passing
+César Magallán,FW,R,28,VEN,3,true,false,false,dribbling,finishing
+Romeesh Ivey,FW,L,32,PAN,6,false,false,false,dribbling,finishing
+Yohandry Lacruz,FW,L,18,VEN,7,false,false,false,finishing,pace
+Juan Carlos Azócar,FW,R,30,VEN,2,false,false,false,dribbling,finishing
+Ronaldo Chacón,FW,R,28,VEN,5,true,false,false,finishing,dribbling
+Kevin Quejada,FW,R,23,COL,6,false,false,false,crossing,pace

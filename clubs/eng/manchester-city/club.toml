@@ -1,0 +1,13 @@
+name = "Manchester City"
+country = "ENG"
+level = 24
+reputation = 5
+colors = ["#F0F0F0", "#002060"]
+
+[stadium]
+name = "Etihad Stadium"
+capacity = 61000
+
+[coach]
+name = "Jeremy Nouri"
+country = "BRA"

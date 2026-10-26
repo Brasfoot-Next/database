@@ -1,0 +1,13 @@
+name = "Deportivo Alavés"
+country = "ESP"
+level = 16
+reputation = 3
+colors = ["#0030A0", "#F0F0F0"]
+
+[stadium]
+name = "Mendizorroza"
+capacity = 19840
+
+[coach]
+name = "Antonio Blanco"
+country = "BRA"

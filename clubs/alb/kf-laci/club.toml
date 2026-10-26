@@ -1,0 +1,13 @@
+name = "KF Laçi"
+country = "ALB"
+level = 13
+reputation = 2
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Stadiumi Laçi"
+capacity = 5000
+
+[coach]
+name = "Shpëtim Duro"
+country = "ALB"

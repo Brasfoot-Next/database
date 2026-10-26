@@ -1,0 +1,13 @@
+name = "Leones FC"
+country = "ECU"
+level = 10
+reputation = 2
+colors = ["#D0D0D0", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Ronaldo Monserrat"
+country = "BRA"

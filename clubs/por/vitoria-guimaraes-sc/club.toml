@@ -1,0 +1,13 @@
+name = "Vitória Guimarães SC"
+country = "POR"
+level = 17
+reputation = 3
+colors = ["#000000", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Yeimar Mosquera"
+country = "BRA"

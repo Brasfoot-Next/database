@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Beitir Ólafsson,GK,R,36,ISL,9,true,false,false,positioning,rushing-out
+Fridriksson,GK,L,25,ISL,5,false,false,false,positioning,rushing-out
+Kennie Chopart,FB,R,32,DEN,6,true,false,false,crossing,pace
+Kristinn Jónsson,FB,L,31,ISL,8,true,false,false,crossing,pace
+Albertsson,FB,R,26,ISL,9,false,false,false,finishing,passing
+Adalsteinsson,CB,L,36,ISL,4,true,false,false,marking,pace
+Pálmason,CB,R,21,ISL,7,true,false,false,marking,pace
+Pontus Lindgren,CB,R,21,SWE,10,false,false,false,heading,stamina
+Sigurdsson,CB,L,15,ISL,9,false,false,false,tackling,heading
+Atli Sigurjónsson,MF,R,31,ISL,5,true,false,false,passing,finishing
+Jarl Jónasson,MF,L,24,ISL,8,false,false,false,passing,finishing
+Rafn Pálmason,MF,L,37,ISL,9,true,false,false,tackling,marking
+Lárusson,MF,R,23,ISL,4,false,false,false,finishing,passing
+Elmar Bjarnason,MF,R,35,ISL,8,true,false,false,marking,finishing
+Gunnarsson,MF,R,25,ISL,8,false,false,false,tackling,marking
+Hallur Hansson,MF,L,30,FRO,1,true,false,false,tackling,heading
+Ragnarsson,MF,L,32,ISL,2,false,false,false,passing,finishing
+Finnbogason,FW,R,27,ISL,4,false,false,false,finishing,pace
+Geirsson,FW,R,21,ISL,6,true,false,false,heading,finishing
+Stefan Ljubicic,FW,R,22,ISL,1,false,false,false,finishing,pace
+Kjartan Finnbogason,FW,L,36,ISL,6,true,false,false,finishing,pace

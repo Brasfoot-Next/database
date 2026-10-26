@@ -1,0 +1,19 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Orwell Allgood,MF,R,34,AUS,1,true,false,false,stamina,passing
+Kieran Nankervis,CB,L,30,AUS,5,true,false,false,stamina,heading
+Alessandro Lethbridge,MF,R,38,AUS,6,true,false,false,stamina,pace
+Jaxon Drinkwater,MF,R,34,AUS,7,true,false,false,stamina,tackling
+Axle Cascioli,MF,L,38,AUS,1,true,false,false,passing,pace
+Giulio Dalrymple,FW,R,34,AUS,5,true,false,false,pace,dribbling
+Tiernan Singh,FB,R,34,AUS,6,true,false,false,stamina,pace
+Cadel Wang,FB,R,30,AUS,7,true,false,false,pace,dribbling
+Percival Mabo,FW,L,38,AUS,2,false,false,false,pace,stamina
+Hayden Cayless,FB,L,34,AUS,5,false,false,false,stamina,pace
+Lachlan Brunskillus,FW,L,30,AUS,5,true,false,false,stamina,pace
+Blake Oaksott,FB,L,38,AUS,6,false,false,false,stamina,pace
+Caius Willem,FW,R,34,AUS,9,false,false,false,stamina,pace
+Lleyton Quattrocchi,CB,R,34,AUS,5,true,false,false,stamina,crossing
+Jago Leahy,CB,R,38,AUS,6,false,false,false,pace,tackling
+Jarrah Foothead,FW,L,38,AUS,7,false,false,false,pace,stamina
+Thaddeus Jindalee,GK,R,34,AUS,1,false,false,false,penalty-saving,rushing-out
+Lionel Alderuccio,GK,R,30,AUS,3,true,false,false,penalty-saving,rushing-out

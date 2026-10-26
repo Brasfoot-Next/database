@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Samuele Di Benedetto,MF,L,21,GER,8,true,false,false,pace,passing
+Christopher Olivier,FB,R,20,AUT,4,true,false,false,pace,stamina
+Dominik Nothnagel,CB,L,31,GER,5,true,false,false,stamina,pace
+Nicolas Sessa,MF,L,30,GER,6,true,false,false,pace,stamina
+Nuha Jatta,MF,R,20,GER,9,true,false,false,passing,pace
+Leny Meyer,FB,L,22,SUI,3,true,false,false,stamina,marking
+Abdenego Nankishi,FW,L,24,GER,5,true,false,false,pace,dribbling
+Mohamed Sankoh,FW,R,22,NED,6,false,false,false,pace,dribbling
+Mansour Ouro Tagba,FW,R,21,GER,7,false,false,false,pace,dribbling
+Thomas Kastanaras,FW,R,23,GER,3,false,false,false,finishing,pace
+Alexander Groiss,CB,R,28,GER,6,true,false,false,heading,tackling
+Alexandre Azevedo,FB,L,21,GER,7,false,false,false,pace,dribbling
+Efe Korkut,FW,L,20,TUR,3,false,false,false,dribbling,passing
+Kaden Amaniampong,FB,R,22,GER,5,false,false,false,pace,passing
+Julian Luers,MF,L,20,GER,6,true,false,false,passing,tackling
+Jordan Majchrzak,FW,R,21,POL,7,true,false,false,heading,finishing
+Lauri Penna,MF,R,20,GER,3,false,false,false,pace,passing
+Tino Kaufmann,FW,R,21,GER,5,false,false,false,pace,dribbling
+Michael Gluck,CB,R,23,AUT,6,false,false,false,tackling,marking
+Peter Reinhardt,CB,R,21,GER,7,false,false,false,stamina,tackling
+Tim Kohler,CB,R,21,GER,5,false,false,false,tackling,marking
+Kenny Fressle,FW,R,20,GER,7,false,false,false,pace,dribbling
+Deli Hajdini,FW,L,19,GER,1,false,false,false,dribbling,pace
+David Tritschler,FW,R,23,GER,5,false,false,false,heading,finishing
+Semih Kara,FB,L,21,TUR,6,false,false,false,dribbling,crossing
+Maximilian Herwerth,CB,R,20,GER,7,false,false,false,heading,tackling
+Paulo Fritschi,CB,R,21,GER,2,false,false,false,tackling,marking
+Jerik Von Der Felsen,GK,R,21,GER,5,false,false,false,rushing-out,reflexes
+Dominik Draband,GK,R,30,GER,6,true,false,false,reflexes,penalty-saving

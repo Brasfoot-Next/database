@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jozo Vukman,GK,R,22,CRO,5,false,false,false,reflexes,penalty-saving
+Ivan Sisko,GK,R,20,CRO,6,false,false,false,reflexes,positioning
+Ivan Brdar,GK,R,24,CRO,7,true,false,false,penalty-saving,reflexes
+Marin Biocic,GK,R,20,CRO,4,false,false,false,reflexes,positioning
+Josip Mijic,CB,R,23,CRO,5,true,false,false,heading,stamina
+Leon Zeqiraj,CB,R,21,CRO,6,false,false,false,marking,heading
+Jakov Karabatic,CB,R,26,CRO,8,true,false,false,heading,marking
+Andrija Basic,CB,R,20,CRO,4,false,false,false,marking,heading
+Ivan Curkovic,FB,L,20,CRO,5,true,false,false,pace,tackling
+Raul Milinovic,FB,R,25,CRO,7,true,false,false,tackling,pace
+Daniel Ropar,FB,L,20,CRO,5,false,false,false,crossing,pace
+Ivan Gilic-Kuko,MF,R,26,CRO,7,true,false,false,stamina,tackling
+Antonio Klaric Kukuz,MF,L,22,CRO,1,true,false,false,finishing,passing
+Pjero Skaric,MF,R,27,CRO,5,true,false,false,dribbling,playmaking
+Roko Zilic,MF,R,19,CRO,6,false,false,false,passing,stamina
+Dominik Ravlic,MF,R,23,CRO,7,true,false,false,passing,stamina
+Jaden Jones,MF,R,20,ENG,2,false,false,false,dribbling,passing
+Josip Vuckovic,FW,R,25,CRO,5,true,false,false,pace,dribbling
+Ivan Ikic,FW,L,26,CRO,6,true,false,false,pace,dribbling
+Marin Carev,FW,R,21,CRO,7,false,false,false,finishing,heading
+Josip Jelic,FW,R,19,CRO,4,false,false,false,crossing,pace
+Dailon Ramadani,FW,R,20,GER,5,false,false,false,finishing,pace
+Bosko Jemo,FW,R,21,CRO,7,false,false,false,pace,finishing
+Leo Peric,FW,L,24,SUI,4,false,false,false,dribbling,finishing
+Fatjon Bytyqi,FW,R,21,CRO,5,false,false,false,dribbling,pace

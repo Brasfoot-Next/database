@@ -1,0 +1,18 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Marino Bulat,GK,R,27,CRO,4,true,false,false,positioning,reflexes
+Dominik Damjanovic,GK,R,19,CRO,5,false,false,false,positioning,rushing-out
+Dominik Mulac,CB,R,27,CRO,6,true,false,false,heading,tackling
+Dominik Pavlek,CB,R,25,CRO,7,false,false,false,tackling,heading
+Mario Tadic,CB,L,33,CRO,4,true,false,false,heading,passing
+Kerim Calhanoglu,FB,L,23,GER,5,true,false,false,pace,tackling
+Niko Beros,FB,L,18,CRO,6,false,false,false,passing,pace
+Gonzalo Pineda,FB,L,22,ARG,8,false,false,false,dribbling,pace
+Kristijan Pavicic,FB,L,27,CRO,5,true,false,false,dribbling,pace
+Mario Ticinovic,FB,R,34,CRO,6,false,false,false,marking,crossing
+Jakov Biljan,MF,R,30,CRO,7,true,false,false,playmaking,passing
+Ugosinho,MF,R,21,POR,3,true,false,false,playmaking,finishing
+Robin González,MF,R,27,COL,5,true,false,false,finishing,playmaking
+Josip Spoljaric,MF,R,29,CRO,6,true,false,false,playmaking,passing
+Pocholo Bugas,FW,R,24,CRO,7,true,false,false,pace,finishing
+Fran Petkovic,FW,R,23,CRO,3,false,false,false,dribbling,finishing
+Luka Klanac,FW,R,21,CRO,5,true,false,false,heading,stamina

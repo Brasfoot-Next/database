@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mohamed Ali,GK,L,28,UAE,7,true,false,false,reflexes,penalty-saving
+Suhail Abdulla,GK,L,26,UAE,1,false,false,false,reflexes,penalty-saving
+Abdullrahman Al-Ameri,GK,R,28,UAE,5,false,false,false,reflexes,rushing-out
+Yann Llahona,GK,R,19,FRA,6,false,false,false,positioning,rushing-out
+Yousuf Fahad Al-Rahma,GK,R,23,UAE,7,false,false,false,reflexes,positioning
+Adryelson,CB,R,28,BRA,2,true,false,false,stamina,heading
+Gabriel Vareta,CB,R,21,BRA,6,false,false,false,heading,marking
+Sasa Ivkovic,CB,R,33,UAE,6,true,false,false,marking,stamina
+Tarek Issaoui,CB,R,20,MAR,7,false,false,false,heading,tackling
+Hugo,FB,L,24,BRA,2,true,false,false,stamina,crossing
+Abdulrahman Saleh,FB,R,27,UAE,6,false,false,false,stamina,pace
+Pedro Malheiro,FB,R,25,POR,7,true,false,false,tackling,stamina
+Takashi Uchino,FB,R,25,JPN,2,false,false,false,dribbling,pace
+Rodrigo,FB,L,23,BRA,5,false,false,false,stamina,pace
+Salem Juma Awad,FB,R,33,UAE,6,false,false,false,marking,crossing
+Siaka Sidibe,MF,R,23,MLI,7,false,false,false,dribbling,pace
+Yahya Nader,MF,R,27,UAE,2,true,false,false,passing,playmaking
+Renato Tapia,MF,L,30,PER,5,true,false,false,passing,playmaking
+Ridwan Popoola,MF,R,19,NGA,6,false,false,false,marking,passing
+Malek Ganaer,MF,L,23,UAE,6,false,false,false,playmaking,dribbling
+João Alves,MF,R,21,BRA,2,false,false,false,passing,tackling
+Nicolás Giménez,MF,R,30,UAE,6,true,false,false,finishing,passing
+Tahnoon Al-Zaabi,MF,R,27,UAE,6,true,false,false,dribbling,passing
+Ali Saleh,FW,R,26,UAE,7,false,false,false,crossing,pace
+Serginho,FW,R,25,UAE,4,false,false,false,finishing,dribbling
+Brahian Palacios,FW,L,23,COL,6,false,false,false,playmaking,finishing
+Leandro Spadacio,FW,R,26,BRA,6,false,false,false,playmaking,finishing
+Matheus Saldanha,FW,R,26,BRA,7,false,false,false,pace,dribbling
+Miguel Borja,FW,R,33,COL,8,true,false,false,finishing,pace
+Renato Júnior,FW,R,24,BRA,5,true,false,false,finishing,stamina

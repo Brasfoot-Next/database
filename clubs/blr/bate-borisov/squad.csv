@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Denis Shcherbitski,GK,L,26,BLR,6,false,false,false,positioning,penalty-saving
+Andrey Kudravets,GK,R,18,BLR,1,true,false,false,reflexes,positioning
+Dergachev,GK,L,21,BLR,9,false,false,false,reflexes,positioning
+Maksim Volodjko,FB,L,29,BLR,9,true,false,false,finishing,pace
+Danila Nechaev,FB,R,22,BLR,9,true,false,false,marking,pace
+Viktor Sotnikov,FB,L,20,BLR,1,false,false,false,finishing,passing
+Jakov Filipovic,CB,R,29,CRO,7,true,false,false,heading,stamina
+Maksim Bordachev,CB,L,36,BLR,10,true,false,false,heading,stamina
+Sidi Bane,CB,R,18,SEN,10,false,false,false,tackling,heading
+Zakhar Volkov,CB,L,24,BLR,10,false,false,false,marking,pace
+Stanislav Dragun,MF,L,34,BLR,10,true,false,false,marking,finishing
+Dmitri Bessmertniy,MF,R,25,BLR,10,true,false,false,finishing,passing
+Vladislav Malkevich,MF,L,22,BLR,5,true,false,false,passing,finishing
+Valeriy Gromyko,MF,L,25,BLR,2,false,false,false,passing,finishing
+Valeriy Bocherov,MF,R,21,BLR,6,true,false,false,tackling,marking
+Oreshkevich,MF,R,21,BLR,7,false,false,false,playmaking,passing
+Sergey Sazonchik,MF,R,21,BLR,6,false,false,false,tackling,finishing
+Nemanja Milic,FW,R,32,SRB,9,true,false,false,finishing,pace
+Ilya Vasilevich,FW,L,22,BLR,2,true,false,false,finishing,pace
+Artem Shumanskiy,FW,R,17,BLR,7,false,false,false,finishing,pace
+Nikita Nekrasov,FW,L,21,BLR,7,false,false,false,pace,finishing

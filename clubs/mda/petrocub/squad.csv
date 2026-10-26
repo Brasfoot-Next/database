@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Igor Mostovei,GK,R,22,MDA,3,false,false,false,positioning,penalty-saving
+Nicolae Cebotari,GK,L,25,MDA,1,false,false,false,positioning,rushing-out
+Ion Jardan,FB,R,32,MDA,2,true,false,false,marking,finishing
+Ioan-Calin Revenco,FB,L,22,MDA,1,true,false,false,marking,passing
+Artem Fedorov,FB,L,23,UKR,9,false,false,false,marking,passing
+Maxim Potirniche,CB,R,33,MDA,2,true,false,false,tackling,marking
+Victor Mudrac,CB,L,28,MDA,7,true,false,false,marking,pace
+Iaser Turcan,MF,R,24,MDA,3,true,false,false,marking,finishing
+Victor Bogaciuc,MF,L,22,MDA,10,true,false,false,tackling,marking
+Maxim Cojocaru,MF,L,24,MDA,6,true,false,false,passing,finishing
+Mihail Platica,MF,L,32,MDA,6,false,false,false,marking,finishing
+Corneliu Cotogoi,MF,R,21,MDA,4,false,false,false,tackling,marking
+Sergiu Platica,FW,R,31,MDA,6,true,false,false,crossing,pace
+Vladimir Ambros,FW,R,28,MDA,5,false,false,false,dribbling,finishing
+Constantin Sandu,FW,R,28,MDA,7,false,false,false,heading,stamina
+Marius Iosipoi,FW,R,22,MDA,1,true,false,false,dribbling,finishing
+Cristian Avram,GK,L,27,MDA,4,true,false,false,positioning,rushing-out
+Ianus Jaman,CB,R,18,MDA,4,false,false,false,marking,pace
+Alexandru Bejan,MF,R,26,MDA,8,true,false,false,finishing,passing
+Mihai Lupan,MF,L,17,MDA,9,false,false,false,finishing,passing

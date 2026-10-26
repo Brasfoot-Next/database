@@ -1,0 +1,13 @@
+name = "FC AGMK"
+country = "UZB"
+level = 14
+reputation = 2
+colors = ["#000000", "#ffff33"]
+
+[stadium]
+name = "AGMK"
+capacity = 12000
+
+[coach]
+name = "Mirdzhalol Kasymov"
+country = "UZB"

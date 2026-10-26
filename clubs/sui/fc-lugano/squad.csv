@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ezgjan Alioski,FB,L,34,SUI,5,false,false,false,crossing,dribbling
+Renato Steffen,FW,L,34,SUI,6,false,false,false,pace,crossing
+Anto Grgic,MF,R,29,SUI,7,true,false,false,stamina,passing
+Mattia Zanotti,FB,R,23,ITA,3,true,false,false,stamina,pace
+Uran Bislimi,MF,R,26,SUI,5,true,false,false,stamina,dribbling
+Ahmed Kendouci,MF,L,27,ALG,6,false,false,false,passing,dribbling
+Ousmane Doumbia,MF,L,34,CIV,7,false,false,false,stamina,tackling
+Yanis Cimignani,FW,L,24,FRA,3,true,false,false,pace,dribbling
+Mohamed Belhadj Mahmoud,MF,R,26,TUN,5,true,false,false,stamina,passing
+Kevin Behrens,FW,R,35,GER,6,false,false,false,heading,pace
+Mattia Bottani,FW,L,35,SUI,5,false,false,false,pace,stamina
+Zachary Brault Guillard,FB,R,27,CAN,7,false,false,false,pace,stamina
+Hicham Mahou,FW,L,27,FRA,1,false,false,false,pace,stamina
+Georgios Koutsias,FW,R,22,GRE,4,true,false,false,pace,finishing
+Antonios Papadopoulos,CB,R,26,GER,5,true,false,false,stamina,passing
+Daniel Dos Santos,MF,R,23,SUI,6,true,false,false,playmaking,passing
+Martim Marques,FB,L,22,POR,7,true,false,false,dribbling,pace
+Yassin Sbai,FB,L,23,SUI,3,false,false,false,pace,dribbling
+Lars Lukas Mai,CB,L,26,GER,5,false,false,false,passing,heading
+Ayman El Wafi,CB,R,22,MAR,6,false,false,false,marking,stamina
+Alexandre Parsemain,FW,R,23,FRA,5,false,false,false,finishing,pace
+Elias Pihlstrom,FW,L,20,SWE,6,false,false,false,stamina,dribbling
+Ilija Maslarov,MF,R,19,SUI,7,false,false,false,marking,passing
+Damian Kelvin,CB,R,24,SUI,4,true,false,false,tackling,pace
+David Von Ballmoos,GK,R,31,SUI,5,false,false,false,rushing-out,penalty-saving
+Amir Saipi,GK,R,26,SUI,6,true,false,false,positioning,reflexes
+Š. Berbić,GK,R,24,SUI,7,false,false,false,reflexes,penalty-saving
+Fotis Pseftis,GK,R,23,GRE,1,false,false,false,reflexes,penalty-saving
+Diego Mina,GK,R,21,SUI,5,false,false,false,reflexes,rushing-out

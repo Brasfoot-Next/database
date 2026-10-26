@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Fahad Mohamed,GK,L,34,UAE,7,false,false,false,penalty-saving,reflexes
+Adel Abubaker,GK,R,33,UAE,7,true,false,false,positioning,reflexes
+Mohamed Khalaf,GK,R,36,UAE,3,false,false,false,rushing-out,positioning
+Luiz Turatto,GK,R,20,BRA,5,false,false,false,reflexes,positioning
+Khalid Hashemi,CB,L,29,UAE,6,true,false,false,stamina,heading
+Mahamadou Camara,CB,L,24,MLI,7,true,false,false,tackling,heading
+Khamis Al-Mansoori,CB,R,22,UAE,3,false,false,false,passing,marking
+Hasan Al-Muharrami,CB,R,30,UAE,5,true,false,false,marking,tackling
+João Victor,FB,R,27,BRA,6,true,false,false,pace,dribbling
+Mackenzie Hunt,FB,R,24,UAE,7,true,false,false,pace,crossing
+Solomon Sosu,FB,R,21,UAE,5,false,false,false,marking,crossing
+Khamis Saleh,FB,R,27,UAE,6,true,false,false,marking,crossing
+Mubarak Zamah,FB,R,22,UAE,7,false,false,false,dribbling,pace
+Fawaz Awana,MF,L,37,UAE,3,true,false,false,finishing,playmaking
+Saviour Godwin,FW,R,29,NGA,5,true,false,false,crossing,pace
+Burak İnce,FW,R,22,TUR,6,true,false,false,finishing,stamina
+Mohamed Awad Alla,FW,R,24,UAE,7,true,false,false,pace,finishing
+Suhail Al-Noobi,FW,R,30,UAE,4,false,false,false,heading,pace
+Khalfan Mubarak,FW,R,31,UAE,5,false,false,false,finishing,dribbling
+Rocky Marciano,FW,R,24,CMR,6,false,false,false,crossing,pace
+Bernard Faye,FW,L,23,SEN,3,false,false,false,finishing,dribbling
+Ahmed Fawzi,FW,R,24,UAE,6,false,false,false,heading,pace

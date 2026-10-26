@@ -1,0 +1,13 @@
+name = "Strømsgodset IF"
+country = "NOR"
+level = 10
+reputation = 2
+colors = ["#F0F0F0", "#002060"]
+
+[stadium]
+name = "Marienlyst Stadion"
+capacity = 8935
+
+[coach]
+name = "Eirik Ardraa"
+country = "BRA"

@@ -1,0 +1,39 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Saúl Crespo,MF,R,30,ESP,4,false,false,false,passing,heading
+Cleiton Silva,FW,R,39,BRA,5,false,false,false,stamina,pace
+Madih Talal,MF,R,29,FRA,6,true,false,false,stamina,dribbling
+Miguel Ferreira,MF,R,26,BRA,7,true,false,false,stamina,pace
+Hamid Ahadad,FW,R,31,MAR,4,false,false,false,pace,heading
+Bipin Singh,FW,L,31,IND,6,false,false,false,stamina,pace
+Mohammed Rashid,MF,R,31,IND,7,false,false,false,stamina,passing
+Jeakson,MF,L,25,IND,3,true,false,false,stamina,heading
+Naorem Mahesh Singh,FW,L,27,IND,5,true,false,false,pace,finishing
+Nandha Kumar Sekar,FW,R,30,IND,6,false,false,false,pace,stamina
+Kevin Sibille,CB,L,27,ARG,5,true,false,false,heading,passing
+Lalramsanga,MF,L,26,IND,6,true,false,false,pace,passing
+Souvik Chakrabarti,MF,R,35,IND,9,false,false,false,stamina,passing
+Anwar Ali,CB,R,26,IND,4,true,false,false,stamina,pace
+Muhammed Roshal Pp,FW,R,23,IND,6,false,false,false,pace,passing
+Hira Mondal,FB,L,30,IND,7,false,false,false,stamina,pace
+Provat Lakra,FB,R,29,IND,1,false,false,false,pace,stamina
+Nambrath Sundran,MF,R,21,IND,5,false,false,false,pace,passing
+Mark Zothanpuia,FB,L,24,IND,6,false,false,false,pace,stamina
+Lalchungnunga Lalchungnunga,FB,L,25,IND,7,false,false,false,pace,stamina
+Tanmay Das,MF,R,25,IND,5,false,false,false,stamina,pace
+Mohamad Rakip,FB,R,26,IND,6,true,false,false,pace,stamina
+Shyamal Besra,MF,R,21,IND,7,false,false,false,passing,tackling
+Jay Gupta,FB,L,24,IND,4,true,false,false,pace,stamina
+Jesin TK,FW,R,26,IND,5,false,false,false,finishing,passing
+Edmund Lalrindika,FW,R,27,IND,6,true,false,false,pace,dribbling
+David Lalhlansanga Hmar,FW,R,24,IND,7,false,false,false,dribbling,pace
+Aman Chama Kuzhiyil,FW,R,23,IND,4,false,false,false,finishing,pace
+Vishnu Puthiya Valappill,FW,R,24,IND,5,false,false,false,pace,finishing
+Sayan Banerjee,FW,L,20,IND,6,false,false,false,pace,dribbling
+Suman Dey,FB,R,23,IND,7,false,false,false,stamina,pace
+Martand Raina,CB,R,25,IND,4,false,false,false,tackling,pace
+Gursimrat Singh,CB,R,29,IND,5,false,false,false,stamina,marking
+Prabhsukhan Singh Gill,GK,L,25,IND,6,false,false,false,penalty-saving,rushing-out
+Debjit Majumder,GK,R,38,IND,7,false,false,false,reflexes,positioning
+Julfikar Gazi,GK,R,20,IND,4,false,false,false,penalty-saving,reflexes
+Gourab Shaw,GK,R,22,IND,5,false,false,false,penalty-saving,positioning
+Aditya Patra,GK,R,26,IND,6,true,false,false,penalty-saving,positioning

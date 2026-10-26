@@ -1,0 +1,13 @@
+name = "Albacete Balompié"
+country = "ESP"
+level = 13
+reputation = 3
+colors = ["#505050", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Pacheco García"
+country = "BRA"

@@ -1,0 +1,13 @@
+name = "Kasimpasa"
+country = "TUR"
+level = 15
+reputation = 3
+colors = ["#1050A0", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Kubilay Deniz"
+country = "BRA"

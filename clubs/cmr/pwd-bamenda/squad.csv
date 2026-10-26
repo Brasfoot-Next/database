@@ -1,0 +1,19 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Haschou Kerrido,GK,R,28,CMR,6,true,false,false,rushing-out,penalty-saving
+Damlabeu,GK,L,24,CMR,9,false,false,false,reflexes,positioning
+Ondoua Boung,FB,L,25,CMR,1,true,false,false,marking,pace
+Abossolo,FB,R,26,CMR,2,true,false,false,crossing,marking
+Hamzat Ibrahim,CB,L,27,BEN,7,true,false,false,tackling,stamina
+Derick,CB,R,27,CMR,8,true,false,false,heading,stamina
+Brian Ngwang,CB,L,24,CMR,3,false,false,false,tackling,heading
+Enjonaei Mbah,MF,L,25,CMR,3,true,false,false,playmaking,passing
+Nchindo,MF,R,20,CMR,8,true,false,false,finishing,passing
+Bomba,MF,R,23,CMR,7,true,false,false,marking,pace
+Samin Billy,MF,L,21,CMR,3,true,false,false,playmaking,passing
+Collins Ndeh,MF,L,30,CMR,5,false,false,false,tackling,pace
+Mohamed Aboubakar,MF,R,22,CMR,9,false,false,false,playmaking,pace
+Omgba,MF,R,22,CMR,8,false,false,false,passing,finishing
+Andre Zanga,MF,R,25,CMR,5,false,false,false,tackling,marking
+Onyekweni,FW,R,22,GHA,5,true,false,false,pace,dribbling
+Kammen,FW,R,22,CMR,2,true,false,false,pace,finishing
+Mael Dindjeke,FW,R,24,CMR,2,false,false,false,dribbling,finishing

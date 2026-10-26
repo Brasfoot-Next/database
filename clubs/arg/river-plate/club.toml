@@ -1,0 +1,13 @@
+name = "River Plate"
+country = "ARG"
+level = 18
+reputation = 4
+colors = ["#F0F0F0", "#D02020"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "German Ruberto"
+country = "BRA"

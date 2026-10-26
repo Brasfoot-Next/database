@@ -1,0 +1,13 @@
+name = "Slovan Bratislava"
+country = "SVK"
+level = 16
+reputation = 3
+colors = ["#ffffff", "#0033cc"]
+
+[stadium]
+name = "Tehelné Pole"
+capacity = 22500
+
+[coach]
+name = "Vladimir Weiss"
+country = "SVK"

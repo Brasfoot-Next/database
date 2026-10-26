@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Emanuel Cabral,GK,R,25,LUX,2,true,false,false,positioning,rushing-out
+Evan da Costa,GK,R,19,LUX,5,false,false,false,positioning,penalty-saving
+Dylan Pereira,GK,L,20,LUX,7,false,false,false,rushing-out,penalty-saving
+Hugo Domingos,FB,R,20,LUX,6,false,false,false,crossing,marking
+Correia,FB,R,19,LUX,5,true,false,false,marking,passing
+Wesley Orville,FB,L,20,BEL,6,true,false,false,crossing,pace
+Steve Schmidhäusler,FB,L,21,SUI,4,false,false,false,marking,finishing
+Julien Klein,CB,R,34,FRA,6,true,false,false,tackling,heading
+Denis Ahmetxhekaj,CB,L,20,LUX,2,true,false,false,tackling,stamina
+Fabio Cerqueira,CB,R,19,LUX,1,false,false,false,tackling,stamina
+Brice Bernard,CB,L,22,LUX,6,false,false,false,tackling,marking
+Bob Simon,MF,L,26,LUX,8,true,false,false,tackling,finishing
+Noé Basone,MF,R,21,BEL,5,true,false,false,playmaking,passing
+Lizardo,MF,L,18,POR,10,false,false,false,playmaking,pace
+Dino Sabotic,MF,R,16,LUX,6,false,false,false,playmaking,passing
+Dipak Khatri,MF,L,17,LUX,9,false,false,false,finishing,passing
+Diogo Pimentel,MF,R,25,LUX,4,true,false,false,marking,finishing
+Mohamed Camara,MF,R,22,COD,3,true,false,false,tackling,marking
+Tiago Semedo,MF,L,20,LUX,2,false,false,false,marking,passing
+Gilson Delgado,FW,R,29,LUX,5,true,false,false,finishing,heading
+Jules Diallo,FW,L,29,FRA,9,false,false,false,finishing,dribbling
+Stefano Bensi,FW,R,33,LUX,1,false,false,false,finishing,heading
+Mendes,FW,R,27,POR,4,true,false,false,finishing,pace

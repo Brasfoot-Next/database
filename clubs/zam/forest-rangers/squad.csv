@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Daniel Mutshinuemu,GK,L,23,ZAM,3,true,false,false,penalty-saving,reflexes
+Allan Chibwe,GK,R,35,ZAM,5,false,false,false,rushing-out,penalty-saving
+Masauso Zimba,FB,L,29,ZAM,10,true,false,false,marking,pace
+Gift Sikaonga,FB,R,23,ZAM,7,true,false,false,finishing,passing
+Anshel Siame,FB,R,27,ZAM,10,false,false,false,marking,finishing
+Diego Apanane,FB,L,27,COD,5,false,false,false,crossing,marking
+Cédric Djeugoué,CB,L,29,CMR,10,true,false,false,tackling,marking
+Mbelenge Ngulakwey,CB,R,34,COD,5,true,false,false,heading,stamina
+Benson Chali,CB,L,24,ZAM,3,false,false,false,tackling,stamina
+Billy Mutale,CB,R,29,ZAM,8,false,false,false,tackling,stamina
+Mpho Mathekgane,MF,R,27,RSA,9,true,false,false,passing,finishing
+Shadrick Malambo,MF,R,31,ZAM,9,true,false,false,tackling,heading
+Isaac Chansa,MF,L,38,ZAM,1,true,false,false,tackling,finishing
+Daily Echabe,MF,L,25,ZAM,8,true,false,false,marking,pace
+Manasseh Soko,MF,R,29,ZAM,8,false,false,false,passing,finishing
+Jonathan Munalula,MF,L,21,ZAM,1,false,false,false,playmaking,finishing
+Tanaka Chinyahara,MF,R,26,ZIM,6,false,false,false,marking,finishing
+Aladeokun,FW,R,29,NGA,4,true,false,false,finishing,dribbling
+Lameck Silwaba,FW,R,29,ZAM,10,true,false,false,dribbling,finishing
+Laurent Muma,FW,R,29,ZAM,4,false,false,false,pace,dribbling
+Jackson Silwimba,FW,L,23,ZAM,5,false,false,false,finishing,stamina

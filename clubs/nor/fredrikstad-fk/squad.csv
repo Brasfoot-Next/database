@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sondre Sorlokk,FW,R,29,NOR,6,true,false,false,pace,stamina
+Rocco Robert Shein,MF,R,23,NOR,7,true,false,false,pace,stamina
+Daniel Eid,FB,R,27,NOR,3,true,false,false,stamina,pace
+Oskar Ohlenschlaeger,FW,R,22,DEN,5,false,false,false,stamina,pace
+Simen Rafn,CB,R,34,NOR,6,false,false,false,stamina,pace
+Patrick Metcalfe,MF,L,27,CAN,1,true,false,false,stamina,passing
+Stian Molde,FB,L,29,NOR,5,false,false,false,stamina,pace
+Henrik Skogvold,FW,L,22,NOR,6,true,false,false,pace,finishing
+Johannes Hummelvoll Nunez,FW,R,29,NOR,7,false,false,false,pace,stamina
+Maxwell Woledzi,CB,L,25,GHA,2,true,false,false,stamina,pace
+Solomon Owusu,CB,R,30,GHA,7,false,false,false,pace,tackling
+Leonard Owusu,MF,R,29,GHA,3,true,false,false,stamina,passing
+Benjamin Faraas,MF,R,21,NOR,5,true,false,false,pace,dribbling
+Joannes Bjartalidh,FW,L,30,FRO,6,false,false,false,pace,finishing
+Ulrik Fredriksen,CB,R,27,NOR,7,true,false,false,stamina,marking
+Sigurd Kvile,CB,R,26,NOR,3,false,false,false,pace,tackling
+Fanuel Ghebreyohannes,FB,R,19,NOR,5,true,false,false,stamina,dribbling
+Elias Johnsson Solberg,MF,R,18,NOR,6,false,false,false,pace,stamina
+Ludvig Begby,FW,L,29,NOR,7,false,false,false,pace,playmaking
+Imre Bech Hermansen,FB,R,20,NOR,3,false,false,false,pace,stamina
+Torjus Engebakken,CB,R,19,NOR,6,false,false,false,pace,tackling
+Jesper Johnsson Solberg,CB,R,18,NOR,1,false,false,false,tackling,marking
+Valdemar Birkso,GK,L,25,DEN,5,false,false,false,positioning,rushing-out
+Oystein Ovretveit,GK,R,32,NOR,6,false,false,false,positioning,penalty-saving
+Martin Borsheim,GK,R,21,NOR,7,false,false,false,reflexes,positioning
+Ole Langbraten,GK,R,23,NOR,2,true,false,false,rushing-out,penalty-saving

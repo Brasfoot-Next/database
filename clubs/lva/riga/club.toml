@@ -1,0 +1,13 @@
+name = "Riga"
+country = "LVA"
+level = 16
+reputation = 3
+colors = ["#000066", "#ffffff"]
+
+[stadium]
+name = "Skonto  "
+capacity = 8087
+
+[coach]
+name = "Sandro Perkovic"
+country = "CRO"

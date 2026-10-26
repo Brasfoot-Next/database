@@ -1,0 +1,13 @@
+name = "FC Bayern München"
+country = "GER"
+level = 24
+reputation = 5
+colors = ["#F0F0F0", "#900000"]
+
+[stadium]
+name = "Allianz Arena"
+capacity = 75000
+
+[coach]
+name = "Raphael Neuer"
+country = "BRA"

@@ -1,0 +1,13 @@
+name = "Samsunspor"
+country = "TUR"
+level = 15
+reputation = 3
+colors = ["#F0F0F0", "#F00010"]
+
+[stadium]
+name = "Samsun Yeni 19 Mayıs"
+capacity = 34303
+
+[coach]
+name = "Ľ. Holse"
+country = "BRA"

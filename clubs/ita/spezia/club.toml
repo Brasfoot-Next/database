@@ -1,0 +1,13 @@
+name = "Spezia"
+country = "ITA"
+level = 13
+reputation = 3
+colors = ["#000000", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Edoardo Aurelio"
+country = "BRA"

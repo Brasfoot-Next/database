@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Dragos Albu,MF,L,25,ROU,6,true,false,false,stamina,pace
+Antoni Ivanov,MF,L,30,BUL,7,true,false,false,stamina,passing
+Jair,MF,R,32,BRA,1,true,false,false,pace,passing
+Silviu Balaure,MF,R,30,ROU,5,true,false,false,stamina,pace
+Ionut Biceanu,MF,R,32,ROU,6,false,false,false,stamina,pace
+Cristian Negut,FW,L,30,ROU,7,true,false,false,pace,stamina
+Aurelian Chitu,FW,L,35,ROU,2,false,false,false,stamina,finishing
+Alexandru Oroian,FB,L,25,ROU,5,false,false,false,pace,stamina
+Kalifa Kujabi,MF,L,26,GAM,7,false,false,false,passing,stamina
+Tiberiu Capusa,CB,R,28,ROU,1,true,false,false,stamina,pace
+Sergiu Bus,FW,R,33,ROU,7,false,false,false,heading,stamina
+Diogo Batista,MF,R,26,POR,3,false,false,false,stamina,passing
+Nana Antwi,FB,R,26,GHA,5,false,false,false,pace,stamina
+Kevin Ciubotaru,FB,L,22,ROU,6,true,false,false,pace,dribbling
+Luca Stancu,FB,R,21,ROU,7,true,false,false,pace,stamina
+Marko Gjorgjievski,FW,R,26,ROU,3,true,false,false,pace,finishing
+Andreas Karo,CB,R,29,CYP,5,false,false,false,stamina,heading
+Saeed Issah,CB,L,26,GHA,6,false,false,false,tackling,marking
+Ianis Gandila,MF,R,20,ROU,7,false,false,false,pace,passing
+Vahid Selimovic,CB,L,29,ROU,6,true,false,false,heading,marking
+Patrick Vuc,FW,R,22,GER,10,false,false,false,pace,heading
+Ionut Stoica,CB,L,38,ROU,4,false,false,false,stamina,tackling
+Florin Bejan,CB,R,35,ROU,6,false,false,false,heading,marking
+Catalin Cabuz,GK,R,30,ROU,7,true,false,false,reflexes,penalty-saving
+Ionut Pop,GK,R,29,ROU,1,false,false,false,reflexes,positioning
+Vlad Mutiu,GK,R,31,ROU,5,false,false,false,penalty-saving,positioning

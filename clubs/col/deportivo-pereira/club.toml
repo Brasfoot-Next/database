@@ -1,0 +1,13 @@
+name = "Deportivo Pereira"
+country = "COL"
+level = 12
+reputation = 2
+colors = ["#D00010", "#F0E030"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Edwin Atehortua"
+country = "BRA"

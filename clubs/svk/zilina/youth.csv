@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Marek Teplan,GK,L,17,SVK,4,true,false,false,reflexes,positioning
+Branislav Durana,FB,L,19,SVK,8,true,false,false,marking,crossing
+Dominik Javorcek,FB,L,17,SVK,2,true,false,false,crossing,passing
+Patrik Leitner,CB,R,18,SVK,3,true,false,false,marking,pace
+Branislav Lesko,CB,R,18,SVK,5,true,false,false,tackling,heading
+Martin Matejcik,CB,L,18,SVK,4,true,false,false,tackling,marking
+Timotej Toth,CB,R,18,SVK,6,true,false,false,tackling,stamina
+Filip Mraz,MF,L,19,SVK,3,true,false,false,tackling,pace
+Martin Gomola,MF,R,18,SVK,8,true,false,false,tackling,passing
+Tobias Dyroff,MF,R,18,SVK,7,true,false,false,passing,finishing
+Rob Rudonja,FW,L,16,SVN,3,true,true,false,finishing,passing
+Vladimir Barbora,FW,L,19,SVK,6,true,false,false,finishing,heading
+Filip Skrtel,FW,R,17,SVK,10,true,false,false,finishing,pace
+Tomas Valovcin,FW,R,18,SVK,7,true,false,false,dribbling,passing
+Dominik Huncik,FW,L,18,SVK,5,true,false,false,heading,playmaking

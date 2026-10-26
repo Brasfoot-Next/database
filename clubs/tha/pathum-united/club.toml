@@ -1,0 +1,13 @@
+name = "Pathum United"
+country = "THA"
+level = 14
+reputation = 2
+colors = ["#0066cc", "#ffffff"]
+
+[stadium]
+name = "LEO Stadium"
+capacity = 13000
+
+[coach]
+name = "Makoto Teguramori"
+country = "JPN"

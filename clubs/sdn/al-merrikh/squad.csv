@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Monged Elneel,GK,R,26,SDN,10,true,false,false,positioning,rushing-out
+Mohamed Mustafa,GK,R,26,SDN,4,false,false,false,positioning,penalty-saving
+Hamza Daoud,FB,R,24,SDN,3,true,false,false,marking,pace
+Bakhit Khamis,FB,L,28,SDN,5,true,false,false,marking,pace
+Bawak Etta,FB,L,28,CMR,7,false,false,false,marking,passing
+Abdalla,FB,R,30,SDN,7,false,false,false,crossing,marking
+Ahmed Mohamed,CB,R,27,SDN,10,true,false,false,heading,stamina
+Salah Nimer,CB,L,30,SDN,6,false,false,false,tackling,marking
+Emad Alsini,CB,R,29,SDN,5,false,false,false,tackling,stamina
+Mustafa Karshom,CB,L,29,SDN,1,true,false,false,tackling,marking
+Suliman,MF,R,30,SDN,0,false,false,false,marking,passing
+Al-Rasheed,MF,L,25,SDN,10,true,false,false,tackling,marking
+Ammar Taifour,MF,R,25,SDN,3,true,false,false,tackling,finishing
+Mahjoub Musa,MF,R,27,SDN,1,true,false,false,finishing,passing
+Al-Gozoli Nooh,MF,L,19,SDN,4,true,false,false,playmaking,finishing
+Mohamed Mokhtar,MF,L,26,SDN,3,false,false,false,playmaking,pace
+Ibrahim Colina,MF,R,23,SDN,10,false,false,false,finishing,playmaking
+Alsawy,FW,L,30,SDN,4,false,false,false,finishing,pace
+Al Madina,FW,R,34,SDN,7,false,false,false,dribbling,playmaking
+Tony Edjomariegwe,FW,L,29,NGA,6,true,false,false,dribbling,finishing
+Ramadan Agab,FW,R,32,SDN,2,true,false,false,heading,pace

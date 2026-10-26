@@ -1,0 +1,13 @@
+name = "Lanús"
+country = "ARG"
+level = 15
+reputation = 3
+colors = ["#702020", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Mariano Cardozo"
+country = "BRA"

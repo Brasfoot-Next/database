@@ -1,0 +1,13 @@
+name = "Lincoln Red Imps"
+country = "GIB"
+level = 13
+reputation = 2
+colors = ["#ff0000", "#ffffff"]
+
+[stadium]
+name = "Lincoln Red"
+capacity = 5000
+
+[coach]
+name = "Raúl Castillo"
+country = "ESP"

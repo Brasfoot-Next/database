@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lino Tempelmann,MF,R,27,GER,5,true,false,false,stamina,dribbling
+Fabio Kaufmann,MF,R,34,GER,6,false,false,false,stamina,pace
+Mehmet Can Aydin,FW,R,24,TUR,7,false,false,false,stamina,dribbling
+Robin Heusser,MF,L,28,GER,3,true,false,false,stamina,passing
+Leon Bell Bell,FB,L,30,CMR,5,true,false,false,stamina,pace
+Sven Kohler,CB,R,29,GER,6,true,false,false,stamina,passing
+Mohamed Drager,FB,R,30,TUN,7,true,false,false,stamina,crossing
+Johan Arath Gomez,MF,R,25,USA,4,true,false,false,stamina,pace
+Fabio Di Michele Sanchez,FW,L,23,GER,5,false,false,false,pace,crossing
+Sidney Raebiger,MF,R,21,GER,6,false,false,false,passing,playmaking
+Erencan Yardimci,FW,L,24,TUR,4,false,false,false,pace,stamina
+Sebastian Polter,FW,R,35,GER,5,false,false,false,heading,passing
+Florian Flick,MF,R,26,GER,6,true,false,false,passing,stamina
+Sidi Sane,FW,R,23,GER,7,false,false,false,pace,dribbling
+Max Marie,MF,R,21,GER,4,false,false,false,pace,dribbling
+Christian Conteh,FW,R,27,GER,5,true,false,false,pace,dribbling
+Robert Ramsak,FW,R,19,GER,6,false,false,false,pace,heading
+Sanoussy Ba,FB,L,22,GER,7,false,false,false,pace,dribbling
+Lukas Frenkert,CB,R,26,GER,2,false,false,false,heading,pace
+Kevin Ehlers,CB,R,25,GER,5,false,false,false,tackling,marking
+Louis Breunig,CB,L,22,GER,3,false,false,false,pace,stamina
+Levente Szabo,FW,R,27,HUN,5,true,false,false,heading,finishing
+Frederik Jakel,CB,R,25,GER,6,false,false,false,pace,heading
+Patrick Nkoa,CB,R,27,CMR,7,true,false,false,heading,pace
+Ron Thorben Hoffmann,GK,R,27,GER,3,false,false,false,reflexes,positioning
+Elhan Kastrati,GK,R,29,ALB,5,true,false,false,reflexes,positioning
+Marko Rajkovacic,GK,R,26,SUI,5,false,false,false,reflexes,positioning

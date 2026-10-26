@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tim Leibold,FB,L,32,GER,6,false,false,false,stamina,crossing
+Manu García,MF,R,28,ESP,7,true,false,false,dribbling,passing
+Erik Thommy,MF,R,32,GER,3,true,false,false,pace,passing
+Daniel Salloi,FW,L,30,HUN,5,true,false,false,stamina,pace
+Nemanja Radoja,MF,R,33,SRB,6,true,false,false,passing,tackling
+Dejan Joveljic,FW,R,27,SRB,7,true,false,false,finishing,heading
+Memo Rodriguez,MF,R,30,USA,3,false,false,false,stamina,passing
+Khiry Shelton,FB,R,33,USA,5,false,false,false,pace,stamina
+Magomed Shapi Suleymanov,FW,L,26,RUS,6,false,false,false,dribbling,pace
+Joaquín,CB,L,30,ESP,7,false,false,false,heading,tackling
+Andrew Brody,FB,R,31,USA,1,false,false,false,stamina,pace
+Jake Davis,MF,R,24,USA,5,true,false,false,pace,tackling
+Logan Ndenbe,FB,L,26,BEL,6,true,false,false,pace,stamina
+Zorhan Bassong,FB,L,27,CAN,8,true,false,false,pace,dribbling
+Santiago Munoz,FW,R,24,MEX,4,false,false,false,pace,dribbling
+Mason Toye,FW,L,27,USA,5,false,false,false,pace,finishing
+Jacob Bartlett,MF,L,20,USA,7,false,false,false,pace,stamina
+Alan Montes,CB,R,25,MEX,9,false,false,false,stamina,heading
+Stephen Afrifa,FW,L,25,CAN,4,false,false,false,pace,dribbling
+Robert Voloder,CB,L,25,GER,6,true,false,false,pace,tackling
+Jansen Miller,CB,R,24,USA,7,true,false,false,tackling,marking
+Ian James,CB,R,18,USA,4,false,false,false,marking,pace
+John Pulskamp,GK,R,25,USA,4,true,false,false,reflexes,penalty-saving
+Ryan Schewe,GK,R,24,USA,5,false,false,false,reflexes,penalty-saving

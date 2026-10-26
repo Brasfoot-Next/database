@@ -1,0 +1,13 @@
+name = "Jagiellonia Białystok"
+country = "POL"
+level = 13
+reputation = 3
+colors = ["#000000", "#F00000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Álex Pelmard"
+country = "BRA"

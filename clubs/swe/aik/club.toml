@@ -1,0 +1,13 @@
+name = "AIK"
+country = "SWE"
+level = 12
+reputation = 2
+colors = ["#102040", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Alexander Hove"
+country = "BRA"

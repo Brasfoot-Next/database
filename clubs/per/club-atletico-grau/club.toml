@@ -1,0 +1,13 @@
+name = "Club Atlético Grau"
+country = "PER"
+level = 10
+reputation = 2
+colors = ["#D00000", "#F0F040"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Pablo Benites"
+country = "BRA"

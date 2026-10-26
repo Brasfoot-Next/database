@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tedsungnoen,GK,L,38,THA,7,true,false,false,positioning,penalty-saving
+Phuchum,GK,R,20,THA,4,false,false,false,positioning,penalty-saving
+Nopphon Lakhonphon,GK,L,22,THA,2,false,false,false,penalty-saving,reflexes
+Weerawatnodom,FB,R,28,THA,9,true,false,false,finishing,passing
+Sarawut Munjit,FB,L,22,THA,6,true,false,false,finishing,passing
+Bunmathan,FB,L,32,THA,7,false,false,false,finishing,passing
+Paibulkijcharoen,FB,R,20,THA,1,false,false,false,finishing,pace
+Pansa Hemviboon,CB,L,32,THA,4,true,false,false,tackling,marking
+Tanklang,CB,R,31,THA,2,true,false,false,marking,pace
+Oonchaiyaphum,CB,L,22,THA,2,false,false,false,heading,stamina
+Rebin Sulaka,CB,R,30,IRQ,6,false,false,false,tackling,stamina
+Haiprakhon,MF,R,26,THA,4,true,false,false,playmaking,finishing
+Maikami,MF,L,24,THA,4,true,false,false,tackling,marking
+Aung Thu,MF,R,26,MYA,6,true,false,false,playmaking,finishing
+Kritapas Vichaidit,MF,L,20,THA,4,true,false,false,passing,finishing
+Chutipol Thongthae,MF,L,31,THA,4,false,false,false,finishing,passing
+Chamratsamee,MF,R,29,THA,3,false,false,false,marking,passing
+Goran Causic,MF,L,30,SRB,6,false,false,false,tackling,marking
+Airfan Doloh,MF,L,21,THA,8,false,false,false,tackling,heading
+Suphanat Mueanta,FW,R,19,THA,5,true,false,false,finishing,dribbling
+Supachai Jaided,FW,L,23,THA,9,true,false,false,heading,stamina
+Ayub Masika,FW,L,29,KEN,10,false,false,false,heading,pace
+Frank Castañeda,FW,R,28,COL,3,false,false,false,finishing,dribbling

@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Diogo Costa,GK,R,26,POR,6,true,false,false,reflexes,positioning
+João Afonso,GK,R,19,POR,6,false,false,false,penalty-saving,rushing-out
+Samuel Portugal,GK,L,32,BRA,8,false,false,false,reflexes,penalty-saving
+Cláudio Ramos,GK,R,34,POR,5,false,false,false,penalty-saving,positioning
+João Costa,GK,R,30,POR,6,false,false,false,reflexes,positioning
+Jakub Kiwior,CB,L,26,POL,7,true,false,false,tackling,marking
+Nehuén Pérez,CB,R,26,ARG,8,true,false,false,tackling,marking
+Jan Bednarek,CB,R,30,POL,5,false,false,false,heading,tackling
+Dominik Prpić,CB,L,22,CRO,6,false,false,false,pace,marking
+Francisco Moura,FB,L,27,POR,7,false,false,false,stamina,crossing
+Zaidu Sanusi,FB,L,29,NGA,10,false,false,false,pace,marking
+Alberto Costa,FB,R,22,POR,5,true,false,false,crossing,dribbling
+Martim Fernandes,FB,R,20,POR,6,true,false,false,pace,crossing
+Alan Varela,MF,R,25,ARG,9,true,false,false,stamina,passing
+Pablo Rosario,MF,R,29,POR,5,false,false,false,stamina,tackling
+Victor Froholdt,MF,R,20,DEN,6,true,false,false,stamina,pace
+Stephen Eustaquio,MF,R,29,CAN,7,false,false,false,stamina,passing
+Vasco Sousa,MF,R,23,POR,9,false,false,false,passing,dribbling
+Rodrigo Mora,MF,R,19,POR,5,true,false,false,playmaking,dribbling
+Gabri Veiga,MF,L,24,ESP,6,true,false,false,dribbling,passing
+Iván Jaime,MF,R,25,ESP,9,false,false,false,tackling,passing
+Oskar Pietuszewski,FW,L,18,POL,5,false,false,false,pace,dribbling
+Borja Sainz,FW,L,25,ESP,6,false,false,false,pace,dribbling
+William Gomes,FW,L,20,BRA,7,true,false,false,pace,dribbling
+Pepê,FW,R,29,BRA,5,false,false,false,pace,dribbling
+Gabriel Veron,FW,R,23,BRA,6,false,false,false,dribbling,playmaking
+Samu Aghehowa,FW,R,22,ESP,7,true,true,false,finishing,pace
+Deniz Gül,FW,R,22,TUR,8,false,false,false,playmaking,pace
+André Silva,FW,L,30,POR,5,false,false,false,heading,passing

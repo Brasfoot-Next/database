@@ -1,0 +1,15 @@
+name = "Athletico Paranaense"
+country = "BRA"
+state = "PR"
+level = 18
+reputation = 4
+colors = ["#202020", "#FFFFFF"]
+rivals = ["bra/coritiba"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Léo Palacios"
+country = "BRA"

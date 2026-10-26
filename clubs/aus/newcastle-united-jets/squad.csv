@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+James Delianov,GK,R,26,AUS,6,true,false,false,reflexes,penalty-saving
+Alex Nassiep,GK,L,20,AUS,7,false,false,false,reflexes,rushing-out
+Jordan Baylis,GK,R,20,AUS,4,false,false,false,reflexes,positioning
+Max Cooper,CB,L,19,AUS,5,true,false,false,stamina,heading
+Joe Shaughnessy,CB,R,34,AUS,6,true,false,false,passing,marking
+Daniel Wilmering,FB,L,25,AUS,7,true,false,false,stamina,pace
+Will Kennedy,FB,R,21,AUS,4,false,false,false,tackling,marking
+Joel Bertolissio,FB,R,23,AUS,5,true,false,false,stamina,passing
+Thomas Aquilina,FB,R,25,AUS,6,false,false,false,stamina,pace
+Zane Schreiber,MF,L,21,AUS,6,true,false,false,stamina,pace
+Max Burgess,MF,L,31,AUS,1,true,false,false,pace,stamina
+Will Dobson,MF,R,19,AUS,5,true,false,false,pace,passing
+Alex Badolato,MF,R,21,AUS,6,true,false,false,pace,dribbling
+Alex Nunes,MF,R,19,AUS,7,false,false,false,pace,playmaking
+Xavier Bertoncello,FW,L,20,AUS,2,false,false,false,pace,dribbling
+Oscar Fryer,FW,L,20,AUS,5,false,false,false,pace,dribbling
+Joe Lolley,FW,L,34,ENG,6,true,false,false,finishing,stamina
+Zach Clough,FW,R,31,ENG,7,true,false,false,heading,finishing
+Nikolaos Vergos,FW,R,30,GRE,5,false,false,false,heading,pace
+Patrick Wood,FW,R,23,AUS,6,false,false,false,pace,stamina
+Oli Cockle,FW,L,17,AUS,7,false,false,false,dribbling,finishing
+Oscar Gonzalez,FW,R,17,AUS,4,false,false,false,playmaking,finishing

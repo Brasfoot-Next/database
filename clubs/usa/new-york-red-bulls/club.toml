@@ -1,0 +1,13 @@
+name = "New York Red Bulls"
+country = "USA"
+level = 13
+reputation = 3
+colors = ["#F0F0F0", "#D01020"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Mohammed Duncan"
+country = "BRA"

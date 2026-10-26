@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nadeo Argawinata,GK,R,25,IDN,4,true,false,false,positioning,penalty-saving
+Rakasurya Handika,GK,L,22,IDN,8,false,false,false,positioning,rushing-out
+Komang Aryantara,GK,R,17,IDN,4,false,false,false,reflexes,positioning
+Ricky Fajrin,FB,L,26,IDN,3,true,false,false,finishing,pace
+Made Andhika,FB,R,26,IDN,2,true,false,false,marking,finishing
+Ardi Idrus,FB,L,29,IDN,9,false,false,false,marking,passing
+Gede Agus,FB,R,20,IDN,5,false,false,false,crossing,pace
+Willian Pacheco,CB,R,30,BRA,8,true,false,false,tackling,stamina
+Leonard Tupamahu,CB,L,39,IDN,2,true,false,false,tackling,stamina
+Haudi Abdillah,CB,L,29,IDN,5,false,false,false,tackling,marking
+Komang Arta,CB,R,20,IDN,1,false,false,false,tackling,stamina
+Sidik Saimima,MF,R,25,IDN,9,true,false,false,finishing,passing
+Fadhil Sausu,MF,L,37,IDN,7,false,false,false,tackling,pace
+Hariono,MF,R,36,IDN,2,false,false,false,tackling,marking
+Kadek Agung,MF,L,24,IDN,7,false,false,false,playmaking,finishing
+Éber Bessa,MF,L,30,BRA,7,true,false,false,finishing,passing
+Brwa Nouri,MF,R,35,IRQ,7,true,false,false,marking,passing
+Rizky Pellu,MF,L,30,IDN,7,true,false,false,marking,passing
+Ramdani Lestaluhu,MF,R,30,IDN,10,false,false,false,finishing,passing
+Yabes Roni,FW,L,27,IDN,5,false,false,false,finishing,pace
+Muhammad Rahmat,FW,R,34,IDN,8,false,false,false,pace,finishing
+Ilija Spasojević,FW,L,34,IDN,8,true,false,false,dribbling,finishing
+Privat Mbarga,FW,R,30,CMR,2,true,false,false,pace,finishing

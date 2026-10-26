@@ -1,0 +1,13 @@
+name = "Bruk-Bet Termalica Nieciecza"
+country = "POL"
+level = 9
+reputation = 2
+colors = ["#004080", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Rafal Kurzawa"
+country = "BRA"

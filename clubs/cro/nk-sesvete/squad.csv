@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Borna Cik,GK,R,20,CRO,6,true,false,false,rushing-out,reflexes
+Raul Bezeljak,GK,R,19,CRO,7,false,false,false,reflexes,rushing-out
+Ivan Omazic,GK,R,20,CRO,3,false,false,false,reflexes,rushing-out
+Tino Agic,CB,R,24,CRO,5,false,false,false,heading,passing
+Jeremiah Oluwaseyi Olaleke,CB,L,20,NGA,6,false,false,false,heading,tackling
+Marko Gasparac,CB,R,25,CRO,7,true,false,false,heading,passing
+Matija Ruskovacki,CB,R,21,CRO,3,true,false,false,heading,tackling
+River Pavich,FB,R,19,CRO,5,false,false,false,crossing,passing
+Vanja Sare,FB,R,22,CRO,7,true,false,false,passing,crossing
+Toni Gorupec,FB,R,33,CRO,3,true,false,false,pace,tackling
+Moses Zambrang Barnabas,MF,R,23,NGA,4,true,false,false,finishing,playmaking
+Petar Antolkovic,MF,R,21,CRO,6,true,false,false,stamina,passing
+Isaiah Otache,MF,R,22,NGA,7,true,false,false,finishing,passing
+Roko Brajkovic,MF,L,21,CRO,1,true,false,false,pace,dribbling
+Dragan Juranovic,FW,R,32,CRO,5,false,false,false,heading,finishing
+Vito Jakovljevic,FW,R,32,CRO,6,false,false,false,heading,finishing
+Matija Kanceljak,FW,L,25,CRO,7,true,false,false,dribbling,playmaking
+Ilan Pejic,FW,R,25,CRO,1,false,false,false,dribbling,finishing
+Viktor Kanizaj,FW,L,23,CRO,5,false,false,false,finishing,dribbling
+Bartol Kardum,FW,R,19,CRO,5,true,false,false,dribbling,pace
+Antonio Cacic,FW,R,19,GER,6,false,false,false,dribbling,playmaking
+Julian Bytyci,FW,R,18,ALB,1,false,false,false,heading,pace

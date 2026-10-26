@@ -1,0 +1,20 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Víctor Guambe,GK,L,23,MOZ,6,true,false,false,penalty-saving,reflexes
+Pinto,GK,R,35,MOZ,6,false,false,false,positioning,penalty-saving
+Danilo,FB,L,25,MOZ,10,true,false,false,crossing,pace
+Manucho,FB,R,32,MOZ,5,true,false,false,finishing,pace
+Jorge,FB,L,33,MOZ,2,false,false,false,finishing,passing
+Abú,CB,R,28,MOZ,10,true,false,false,tackling,heading
+Chico Mioche,CB,L,37,MOZ,10,true,false,false,tackling,heading
+Salomão,CB,L,27,MOZ,1,false,false,false,tackling,marking
+Bernardo,CB,R,27,MOZ,6,false,false,false,tackling,marking
+Nené,MF,L,25,MOZ,4,true,false,false,tackling,marking
+Nilton,MF,R,24,MOZ,10,true,false,false,tackling,pace
+Stephen Seameh,MF,L,25,LBR,8,true,false,false,tackling,finishing
+Mário,MF,R,23,MOZ,8,true,false,false,playmaking,passing
+Nandinho,MF,R,19,MOZ,5,false,false,false,playmaking,passing
+Mambucho,MF,R,31,MOZ,2,false,false,false,tackling,pace
+Isac Carvalho,FW,R,33,MOZ,9,true,false,false,heading,pace
+Nelson Divrassone,FW,L,29,MOZ,8,true,false,false,heading,pace
+Telinho,FW,R,33,MOZ,9,false,false,false,pace,finishing
+Chelito Omar,FW,R,26,MOZ,5,false,false,false,heading,finishing

@@ -1,0 +1,13 @@
+name = "Borac Banja Luka"
+country = "BIH"
+level = 15
+reputation = 2
+colors = ["#cc0000", "#ffffff"]
+
+[stadium]
+name = "Banja Luka"
+capacity = 10030
+
+[coach]
+name = "Nenad Lalatovic"
+country = "SRB"

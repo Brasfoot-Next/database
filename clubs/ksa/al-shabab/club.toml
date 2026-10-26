@@ -1,0 +1,13 @@
+name = "Al Shabab"
+country = "KSA"
+level = 15
+reputation = 3
+colors = ["#F0F0F0", "#000000"]
+
+[stadium]
+name = "SHG Arena"
+capacity = 15000
+
+[coach]
+name = "Amjad Shuwayrikh"
+country = "BRA"

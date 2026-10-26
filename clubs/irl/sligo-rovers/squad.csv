@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jad Hakiki,MF,R,22,IRL,3,false,false,false,stamina,dribbling
+James Mcmanus,MF,L,21,IRL,5,false,false,false,pace,stamina
+Seb Quirk,MF,R,24,ENG,6,true,false,false,pace,stamina
+Owen Elding,FW,L,20,ENG,7,true,false,false,stamina,pace
+Ronan Manning,MF,L,26,IRL,3,true,false,false,pace,stamina
+Ciaron Harkin,MF,R,30,NIR,5,true,false,false,passing,playmaking
+Patrick Mcclean,CB,L,29,IRL,6,true,false,false,heading,pace
+Sean Stewart,FB,L,23,NIR,7,true,false,false,pace,stamina
+Will Fitzgerald,FW,L,27,IRL,4,true,false,false,pace,stamina
+Matty Wolfe,MF,R,26,ENG,5,true,false,false,passing,pace
+Edwin Agbaje,FB,R,22,IRL,5,true,false,false,pace,stamina
+Daire Patton,MF,R,20,IRL,6,false,false,false,pace,passing
+Kyle Mcdonagh,FW,R,20,IRL,7,false,false,false,pace,dribbling
+Wilson Waweru,FW,R,25,IRL,1,false,false,false,pace,stamina
+Ryan Okane,FW,R,23,IRL,5,false,false,false,pace,dribbling
+Shea Malone,MF,R,21,IRL,6,false,false,false,stamina,passing
+Conor Cannon,MF,R,20,IRL,7,false,false,false,passing,dribbling
+Cian Kavanagh,FW,R,23,IRL,7,false,false,false,stamina,heading
+Gareth Mcelroy,CB,R,19,IRL,3,false,false,false,stamina,heading
+Conor Reynolds,FB,R,20,IRL,5,false,false,false,tackling,stamina
+John Mahon,CB,R,26,IRL,4,true,false,false,stamina,tackling
+Oliver Denham,CB,R,24,WAL,5,false,false,false,stamina,tackling
+Richard Brush,GK,R,41,ENG,6,false,false,false,positioning,rushing-out
+Sam Sargeant,GK,L,28,ENG,7,true,false,false,penalty-saving,reflexes
+Kyle Gabbidon,GK,R,19,USA,4,false,false,false,penalty-saving,positioning
+Conor Walsh,GK,R,21,IRL,5,false,false,false,penalty-saving,positioning

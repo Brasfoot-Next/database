@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Faton Maloku,GK,R,31,KVX,6,true,false,false,positioning,penalty-saving
+Florjan Smakiqi,GK,L,23,KVX,3,false,false,false,reflexes,positioning
+Ilir Blakçori,FB,L,29,KVX,4,true,false,false,finishing,passing
+Tun Bardhoku,FB,R,28,KVX,7,false,false,false,marking,finishing
+Yll Ibrahimi,FB,L,18,KVX,5,false,false,false,crossing,marking
+Besnik Krasniqi,FB,R,32,KVX,3,true,false,false,finishing,pace
+Ardian Limani,CB,R,28,KVX,9,true,false,false,tackling,marking
+Prince Balde,CB,L,24,LBR,1,true,false,false,heading,stamina
+Leonat Vitija,CB,L,21,KVX,9,false,false,false,marking,pace
+Ekow Mills,CB,R,19,GHA,5,false,false,false,tackling,heading
+Hamdi Namani,MF,L,27,KVX,1,true,false,false,marking,passing
+Albin Krasniqi,MF,L,21,KVX,8,false,false,false,marking,passing
+Muharrem Jashari,MF,L,24,KVX,7,true,false,false,passing,playmaking
+Rron Broja,MF,L,26,KVX,3,true,false,false,tackling,finishing
+Blend Baftiu,MF,R,24,KVX,5,true,false,false,passing,finishing
+Iran Junior,MF,L,26,BRA,7,false,false,false,passing,finishing
+Almir Ajzeraj,FW,R,24,KVX,10,false,false,false,finishing,stamina
+Marko Simonovski,FW,R,30,MKD,8,true,false,false,pace,crossing
+Arbnor Muja,FW,R,23,KVX,10,true,false,false,dribbling,pace
+Kastriot Selmani,FW,R,23,KVX,10,false,false,false,finishing,pace

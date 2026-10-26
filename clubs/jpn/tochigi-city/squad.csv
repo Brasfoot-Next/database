@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jun Kodama,GK,L,28,JPN,7,false,false,false,reflexes,rushing-out
+Jin-hyeon Kim,GK,R,29,JPN,3,true,false,false,rushing-out,positioning
+Yoshinobu Harada,GK,R,34,JPN,5,false,false,false,positioning,penalty-saving
+Tomoya Murata,GK,R,25,JPN,6,false,false,false,positioning,reflexes
+Hayato Teruyama,CB,R,25,JPN,6,true,false,false,heading,tackling
+Matej Jonjic,CB,R,35,CRO,8,false,false,false,passing,marking
+Tetsuya Chinen,CB,R,28,JPN,4,true,false,false,passing,marking
+Keitaro Konishi,CB,R,24,JPN,5,false,false,false,heading,stamina
+Yoshiki Sato,CB,R,28,JPN,6,false,false,false,stamina,heading
+Yuta Koike,FB,L,29,JPN,9,false,false,false,tackling,marking
+Takaya Inui,FB,L,30,JPN,4,false,false,false,stamina,crossing
+Aidan Simmons,FB,R,23,AUS,6,true,false,false,stamina,pace
+Hiroto Suzuki,FB,R,26,JPN,7,true,false,false,tackling,marking
+Ryo Okui,FB,R,36,JPN,1,false,false,false,tackling,pace
+Joe Caletti,MF,R,27,AUS,5,true,false,false,dribbling,passing
+Pedro Augusto,MF,R,29,BRA,6,true,false,false,tackling,passing
+Masaru Kato,MF,R,35,JPN,7,false,false,false,tackling,marking
+Yuki Okaniwa,MF,R,31,JPN,1,false,false,false,dribbling,playmaking
+Kazuki Nishiya,MF,L,32,JPN,5,false,false,false,pace,crossing
+Toshiki Mori,MF,R,28,JPN,6,true,false,false,playmaking,dribbling
+Takashi Oshima,MF,R,25,JPN,6,true,false,false,playmaking,finishing
+Byron Vásquez,FW,L,26,CHI,1,false,false,false,playmaking,finishing
+Atsushi Yoshida,FW,R,27,JPN,5,false,false,false,finishing,stamina
+Paulo Junichi Tanaka,FW,R,32,JPN,6,false,false,false,pace,dribbling
+Yugo Masukake,FW,R,22,JPN,7,false,false,false,finishing,dribbling
+Tokmac Chol Nguen,FW,R,32,NOR,1,true,false,false,pace,dribbling
+Keita Yamashita,FW,L,30,JPN,5,false,false,false,finishing,heading
+Musashi Suzuki,FW,L,32,JPN,6,true,false,false,crossing,pace
+Masahide Hiraoka,FW,R,31,JPN,7,false,false,false,finishing,heading

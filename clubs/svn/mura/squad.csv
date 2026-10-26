@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Matko Obradovic,GK,L,31,CRO,7,true,false,false,reflexes,positioning
+Klemen Mihelak,GK,R,20,SVN,7,false,false,false,penalty-saving,reflexes
+Ziga Kous,FB,L,29,SVN,5,true,false,false,crossing,pace
+Klemen Pucko,FB,L,26,SVN,3,false,false,false,finishing,pace
+Amar Beganovic,FB,R,22,BIH,3,true,false,false,marking,pace
+Srdjan Kuzmic,FB,R,18,SVN,2,false,false,false,marking,finishing
+Matic Marusko,CB,L,31,SVN,9,true,false,false,tackling,heading
+Marin Karamarko,CB,R,24,CRO,9,false,false,false,tackling,marking
+Gregor Balazic,CB,L,34,SVN,9,false,false,false,tackling,stamina
+Kobie Morris,CB,R,27,CRO,5,true,false,false,tackling,stamina
+Luka Bobicanec,MF,L,29,CRO,1,true,false,false,finishing,passing
+Alen Kozar,MF,R,27,SVN,3,false,false,false,playmaking,passing
+Samsondin Ouro,MF,R,22,TOG,10,true,false,false,tackling,marking
+Tio Cipot,MF,R,19,SVN,10,true,false,false,finishing,passing
+Nik Lorbek,MF,L,26,SVN,6,true,false,false,tackling,heading
+Zan Bucek,MF,R,18,SVN,7,false,false,false,finishing,passing
+Kai Cipot,FW,L,21,SVN,2,true,false,false,heading,pace
+Mihael Klepac,FW,L,24,CRO,7,false,false,false,pace,finishing
+Mirlind Daku,FW,L,24,KVX,7,true,false,false,heading,pace
+Nikola Petkovic,FW,R,23,SRB,7,false,false,false,passing,tackling

@@ -1,0 +1,13 @@
+name = "SL Benfica"
+country = "POR"
+level = 20
+reputation = 4
+colors = ["#805000", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Samuel Obrador"
+country = "BRA"

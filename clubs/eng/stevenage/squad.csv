@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Harvey White,MF,L,24,ENG,3,true,false,false,stamina,playmaking
+Daniel Phillips,MF,R,25,TRI,5,true,false,false,pace,stamina
+Jordan Roberts,FW,L,32,ENG,6,false,false,false,pace,stamina
+Jordan Houghton,MF,R,30,ENG,7,false,false,false,stamina,tackling
+Louis Thompson,MF,R,31,WAL,4,false,false,false,pace,passing
+Jasper Pattenden,FB,R,24,ENG,5,true,false,false,pace,stamina
+Dan Butler,FB,L,32,ENG,6,false,false,false,stamina,pace
+Chem Campbell,FW,R,23,WAL,7,true,false,false,pace,crossing
+Phoenix Patterson,FW,L,26,SCO,1,false,false,false,pace,stamina
+Luther James Wildin,FB,R,28,ATG,5,true,false,false,stamina,pace
+Beryly Lubala,FW,R,28,COD,5,false,false,false,pace,finishing
+Jamie Reid,FW,R,32,NIR,6,false,false,false,pace,stamina
+Tyreece Simpson,FW,L,24,ENG,7,false,false,false,pace,stamina
+Dan Kemp,MF,L,27,ENG,3,true,false,false,stamina,pace
+Lewis Orford,MF,R,20,ENG,5,true,false,false,passing,stamina
+Lewis Freestone,CB,L,26,ENG,6,true,false,false,pace,stamina
+Saxon Earley,FB,L,23,ENG,7,false,false,false,pace,stamina
+Gassan Ahadme,FW,R,25,MAR,4,false,false,false,heading,stamina
+Dan Sweeney,CB,R,32,ENG,5,false,false,false,stamina,marking
+Jake Young,FW,R,25,ENG,6,true,false,false,pace,finishing
+Jovan Malcolm,FW,R,23,ENG,7,false,false,false,pace,finishing
+Ryan Doherty,MF,R,18,ENG,4,false,false,false,pace,dribbling
+Charlie Goode,CB,R,31,ENG,5,true,false,false,heading,marking
+Mathaeus Roberts,MF,R,21,WAL,6,false,false,false,pace,dribbling
+Carl Piergianni,CB,L,34,ENG,7,false,false,false,stamina,heading
+Ellis Bates,CB,R,19,ENG,4,false,false,false,pace,tackling
+Taye Ashby Hammond,GK,R,27,ENG,5,true,false,false,reflexes,positioning
+Filip Marschall,GK,R,23,ENG,6,false,false,false,penalty-saving,rushing-out
+Max Woodford,GK,R,18,ENG,7,false,false,false,positioning,rushing-out

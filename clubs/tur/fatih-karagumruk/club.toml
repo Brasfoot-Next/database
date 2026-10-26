@@ -1,0 +1,13 @@
+name = "Fatih Karagümrük"
+country = "TUR"
+level = 13
+reputation = 3
+colors = ["#d50000", "#000000"]
+
+[stadium]
+name = "Atatürk Olimpiyat Stadı"
+capacity = 77563
+
+[coach]
+name = "Murat Aksoy"
+country = "BRA"

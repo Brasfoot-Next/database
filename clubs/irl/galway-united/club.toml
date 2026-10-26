@@ -1,0 +1,13 @@
+name = "Galway United"
+country = "IRL"
+level = 5
+reputation = 1
+colors = ["#400000", "#5080B0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Evan Cunningham"
+country = "BRA"

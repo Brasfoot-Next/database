@@ -1,0 +1,13 @@
+name = "Tigres UANL"
+country = "MEX"
+level = 18
+reputation = 4
+colors = ["#cc9900", "#000099"]
+
+[stadium]
+name = "Universitario"
+capacity = 42000
+
+[coach]
+name = "Miguel Herrera"
+country = "MEX"

@@ -1,0 +1,39 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Song Min Kyu,FW,L,26,KOR,4,false,false,false,stamina,pace
+Lee Yeong Jae,MF,L,31,KOR,5,false,false,false,stamina,pace
+Kim Jin Kyu,MF,L,29,KOR,6,true,false,false,stamina,passing
+Lee Seung Woo,MF,R,28,KOR,8,true,false,false,pace,playmaking
+Park Jin Seob,MF,R,30,KOR,4,true,false,false,stamina,heading
+João Gamboa,MF,R,30,POR,5,true,false,false,stamina,passing
+Kim Tae Hwan,FB,R,37,KOR,6,false,false,false,pace,stamina
+Kang Sang Yoon,MF,R,22,KOR,8,false,false,false,stamina,pace
+Han Kook Young,MF,R,36,KOR,4,false,false,false,stamina,playmaking
+Kim Tae Hyun,FB,L,29,KOR,5,true,false,false,stamina,pace
+Jeon Jin Woo,FW,R,26,KOR,8,false,false,false,pace,dribbling
+Patrick Twumasi,FW,L,32,GHA,4,false,false,false,pace,crossing
+Andrea Compagno,FW,R,30,ITA,7,true,false,false,heading,stamina
+Tiago Orobó,FW,R,32,BRA,4,true,false,false,pace,heading
+Hong Jeong Ho,CB,L,37,KOR,5,false,false,false,heading,marking
+Choi Woo Jin,FB,L,22,KOR,6,true,false,false,pace,stamina
+Choi Chul Soon,FB,R,39,KOR,7,false,false,false,heading,marking
+Kim Young Bin,CB,R,34,KOR,4,false,false,false,heading,marking
+Yeon Je Woon,CB,R,32,KOR,5,true,false,false,stamina,pace
+Bak Jae Yong,FW,R,26,KOR,6,false,false,false,pace,stamina
+Kwon Chang Hoon,FW,L,32,KOR,3,false,false,false,pace,dribbling
+Lee Gyu Dong,MF,R,22,KOR,5,false,false,false,pace,dribbling
+Kim Min Jae,MF,R,22,KOR,6,false,false,false,pace,stamina
+Park Kyu Min,FW,R,25,KOR,2,false,false,false,pace,dribbling
+Yoon Hyun Seok,MF,R,22,KOR,5,false,false,false,pace,stamina
+Sung Jin Young,MF,R,23,KOR,6,false,false,false,pace,passing
+Jang Nam Ung,MF,R,22,KOR,7,false,false,false,playmaking,tackling
+Eom Seung Min,FW,R,23,KOR,3,false,false,false,pace,dribbling
+Lee Jun Ho,FW,R,23,KOR,5,false,false,false,finishing,heading
+Kang Hyeon Jong,FW,R,22,KOR,6,false,false,false,pace,passing
+Jeong Sang Woon,FW,R,23,KOR,2,false,false,false,heading,pace
+Seo Jeong Hyeok,FB,L,20,KOR,5,false,false,false,stamina,pace
+Kim Chang Hun,FW,R,21,KOR,6,false,false,false,pace,dribbling
+Hwang Seung Jun,FB,R,21,KOR,7,false,false,false,pace,stamina
+Hwang Jung Gu,CB,R,21,KOR,5,true,false,false,stamina,pace
+Song Bum Keun,GK,R,28,KOR,6,true,false,false,reflexes,penalty-saving
+Kim Jeong hoon,GK,R,25,KOR,6,false,false,false,reflexes,rushing-out
+Gong Si Hyeun,GK,R,21,KOR,10,false,false,false,reflexes,penalty-saving

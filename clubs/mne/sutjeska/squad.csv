@@ -1,0 +1,20 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Vladan Giljen,GK,L,33,MNE,7,true,false,false,positioning,penalty-saving
+Suad Licina,GK,R,27,MNE,9,false,false,false,positioning,penalty-saving
+Dragan Grivić,FB,R,26,MNE,9,true,false,false,marking,finishing
+Nikola Stijepović,FB,L,28,MNE,10,true,false,false,finishing,passing
+Milos Drincic,CB,R,23,MNE,6,true,false,false,tackling,heading
+Novica Erakovic,MF,L,22,MNE,8,true,false,false,marking,pace
+Marko Zocevic,MF,R,29,SRB,7,false,false,false,tackling,pace
+Marko Matanovic,MF,R,22,MNE,3,true,false,false,playmaking,passing
+Alharaish,FW,R,23,LBY,9,true,false,false,pace,crossing
+Aleksandar Vlahovic,FB,R,22,MNE,4,false,false,false,finishing,passing
+Ognjen Djinovic,FB,L,18,MNE,7,false,false,false,marking,pace
+Adrijan Rudovic,CB,L,27,MNE,6,true,false,false,tackling,heading
+Anto Babic,CB,R,22,MNE,5,false,false,false,heading,stamina
+Ilija Tučević,MF,L,26,MNE,8,true,false,false,playmaking,finishing
+Yuliyan Nenov,FW,L,27,BUL,8,true,false,false,dribbling,finishing
+Vuk Strikovic,FW,R,20,MNE,2,false,false,false,dribbling,finishing
+Tyrone Conraad,FW,R,25,NED,10,false,false,false,finishing,heading
+Srdjan Krstovic,MF,R,21,MNE,1,true,false,false,marking,finishing
+Igor Pajovic,MF,L,20,MNE,1,false,false,false,tackling,finishing

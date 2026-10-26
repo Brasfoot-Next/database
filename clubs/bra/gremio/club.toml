@@ -1,0 +1,15 @@
+name = "Grêmio"
+country = "BRA"
+state = "RS"
+level = 19
+reputation = 4
+colors = ["#ffffff", "#000000"]
+rivals = ["bra/internacional"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Martin Balbuena"
+country = "BRA"

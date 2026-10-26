@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Martin Velichkov,GK,R,26,BUL,1,true,false,false,positioning,reflexes
+Aleksandar Lyubenov,GK,R,31,BUL,3,false,false,false,reflexes,positioning
+Tsvetan Tsvetkov,GK,R,17,BUL,5,false,false,false,reflexes,penalty-saving
+Ryan Bidounga,CB,R,29,CGO,6,true,false,false,marking,tackling
+Kaloyan Kostov,CB,R,22,BUL,7,true,false,false,marking,heading
+Nikola Neychev,CB,R,21,BUL,4,false,false,false,marking,heading
+Angel Lyaskov,FB,R,28,BUL,5,true,false,false,stamina,pace
+Mihail Zahariev,FB,L,18,BUL,6,true,false,false,passing,pace
+Erol Dost,MF,R,27,BUL,7,true,false,false,passing,tackling
+Reyan Daskalov,MF,R,31,BUL,4,true,false,false,pace,dribbling
+Bozhidar Katsarov,MF,R,32,BUL,6,false,false,false,dribbling,playmaking
+Krasimir Stanoev,MF,R,31,BUL,7,false,false,false,finishing,playmaking
+Kristian Chachev,MF,R,20,BUL,3,false,false,false,passing,finishing
+Adil Taoui,MF,L,24,FRA,5,true,false,false,dribbling,playmaking
+Dimitar Kostadinov,MF,L,26,BUL,6,true,false,false,passing,playmaking
+Mitko Mitkov,FW,R,25,BUL,7,true,false,false,dribbling,finishing
+Mohamed Medfai,FW,L,25,TUN,3,true,false,false,finishing,stamina
+Nikolas Penev,FW,R,21,BUL,5,false,false,false,dribbling,pace
+Emil Gerov,FW,R,19,BUL,6,false,false,false,heading,pace
+Spas Delev,FW,R,36,BUL,7,false,false,false,pace,dribbling
+Ante Aralica,FW,L,29,CRO,5,false,false,false,heading,finishing
+Georgi Minchev,FW,R,31,BUL,7,false,false,false,finishing,stamina
+Mark-Emilio Papazov,FW,L,22,BUL,1,false,false,false,finishing,pace
+Cauê Caruso,FW,R,24,BRA,5,false,false,false,playmaking,finishing

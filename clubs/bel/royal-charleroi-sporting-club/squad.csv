@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kevin Van Den Kerkhof,FB,R,30,ALG,7,true,false,false,stamina,pace
+Patrick Pflucke,FW,L,29,GER,4,false,false,false,stamina,passing
+Antoine Bernier,FW,R,28,BEL,5,false,false,false,stamina,pace
+Isaac Mbenza,FW,L,30,BEL,6,false,false,false,pace,dribbling
+Jules Gaudin,FB,L,26,FRA,8,false,false,false,stamina,pace
+Yacine Titraoui,MF,R,23,ALG,4,false,false,false,passing,dribbling
+Parfait Guiagon,FW,L,25,CIV,5,true,false,false,dribbling,playmaking
+Aiham Ousou,CB,R,26,BEL,6,true,false,false,pace,heading
+Etienne Camara,MF,L,23,FRA,9,true,false,false,tackling,passing
+Lewin Blum,FB,R,25,SUI,4,true,false,false,stamina,pace
+Aurelien Scheidler,FW,R,28,FRA,7,true,false,false,stamina,heading
+Jakob Napoleon Romsaas,MF,R,22,NOR,3,true,false,false,pace,playmaking
+Filip Szymczak,FW,R,24,POL,6,false,false,false,pace,dribbling
+Mardochee Nzita,FB,L,26,BEL,7,false,false,false,crossing,dribbling
+Antoine Colassin,MF,R,25,BEL,2,true,false,false,pace,dribbling
+Check Keita,CB,L,23,FRA,5,true,false,false,heading,tackling
+Amine Boukamir,MF,R,19,MAR,6,true,false,false,marking,tackling
+Massamba Sow,CB,R,22,FRA,7,false,false,false,marking,tackling
+Raymond Asante,FW,R,22,GHA,3,false,false,false,pace,dribbling
+Mehdi Boukamir,CB,R,22,MAR,5,false,false,false,pace,tackling
+Quentin Benaets,FW,R,23,BEL,7,false,false,false,pace,dribbling
+Martin Delavallee,GK,R,22,BEL,2,false,false,false,penalty-saving,rushing-out
+Theo Defourny,GK,R,34,BEL,5,false,false,false,penalty-saving,positioning
+Mohamed Kone,GK,R,24,CIV,6,true,false,false,reflexes,rushing-out
+Nicolas Closset,GK,R,22,BEL,1,false,false,false,reflexes,positioning

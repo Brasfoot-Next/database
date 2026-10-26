@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jeppe Andersen,MF,R,33,DEN,6,false,false,false,stamina,pace
+Callum Mccowatt,FW,R,27,NZL,8,true,false,false,pace,stamina
+Rami Al Hajj,MF,R,24,SWE,4,true,false,false,dribbling,stamina
+Jens Martin Gammelby,FB,R,31,DEN,5,true,false,false,stamina,pace
+Mads Larsen,MF,R,24,DEN,6,true,false,false,stamina,pace
+Younes Bakiz,FW,L,27,DEN,8,true,false,false,stamina,pace
+Tonni Adamsen,FW,L,31,DEN,4,false,false,false,stamina,pace
+Leonel Montano,FB,L,26,DEN,6,false,false,false,pace,stamina
+Andreas Poulsen,FB,L,26,DEN,6,true,false,false,dribbling,passing
+Mads Freundlich,MF,L,23,DEN,10,true,false,false,stamina,passing
+Robin Ostrom,CB,R,24,NOR,6,false,false,false,pace,stamina
+Sofus Berger,MF,R,23,DEN,7,false,false,false,pace,passing
+Asbjorn Bondergaard,FW,R,22,DEN,1,false,false,false,finishing,pace
+Julius Lorents Nielsen,MF,R,20,DEN,5,false,false,false,pace,stamina
+Oskar Boesen,MF,R,21,DEN,6,false,false,false,pace,passing
+Alexander Simmelhack,FW,R,20,DEN,8,false,false,false,pace,finishing
+Mikkel Oxenberg,MF,R,19,DEN,4,false,false,false,pace,stamina
+Pontus Rodin,CB,R,26,SWE,5,false,false,false,heading,tackling
+Alexander Busch,CB,R,23,DEN,6,true,false,false,tackling,heading
+Simon Stuker,FB,R,19,DEN,8,false,false,false,pace,tackling
+Villads Westh,MF,L,22,DEN,5,true,false,false,pace,passing
+Pedro Ganchas,CB,L,26,POR,6,true,false,false,heading,tackling
+Sebastian Biller,FW,L,19,DEN,7,false,false,false,pace,dribbling
+Alexander Madsen,CB,R,21,DEN,4,false,false,false,stamina,tackling
+Nicolai Larsen,GK,R,35,DEN,7,false,false,false,reflexes,positioning
+Benjamin Clemmensen,CB,R,21,DEN,3,false,false,false,pace,stamina
+Aske Andresen,GK,R,21,DEN,5,true,false,false,reflexes,penalty-saving
+Bastian Holm,GK,R,21,DEN,6,false,false,false,reflexes,penalty-saving

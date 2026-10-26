@@ -1,0 +1,13 @@
+name = "Fleetwood Town"
+country = "ENG"
+level = 8
+reputation = 2
+colors = ["#D01020", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "David Johnson"
+country = "BRA"

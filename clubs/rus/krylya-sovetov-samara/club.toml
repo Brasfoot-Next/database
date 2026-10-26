@@ -1,0 +1,13 @@
+name = "Krylya Sovetov Samara"
+country = "RUS"
+level = 14
+reputation = 3
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Jimmy Geoffrey"
+country = "BRA"

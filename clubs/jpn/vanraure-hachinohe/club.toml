@@ -1,0 +1,13 @@
+name = "Vanraure Hachinohe"
+country = "JPN"
+level = 9
+reputation = 2
+colors = ["#F09000", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Kenta Oka"
+country = "BRA"

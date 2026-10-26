@@ -1,0 +1,13 @@
+name = "Klaksvík"
+country = "FRO"
+level = 13
+reputation = 2
+colors = ["#0000ff", "#ffffff"]
+
+[stadium]
+name = "Við Djúpumýrar"
+capacity = 2000
+
+[coach]
+name = "Mikkjal Thomassen"
+country = "FRO"

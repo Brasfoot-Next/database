@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Luis Cárdenas,GK,R,28,MEX,4,true,false,false,rushing-out,penalty-saving
+Esteban Andrada,GK,L,31,ARG,1,false,false,false,positioning,penalty-saving
+César Ramos,GK,L,22,MEX,5,false,false,false,reflexes,positioning
+Stefan Medina,FB,R,30,COL,10,true,false,false,crossing,pace
+Édson Gutiérrez,FB,R,26,MEX,10,false,false,false,crossing,pace
+Érick Aguirre,FB,L,25,MEX,6,true,false,false,marking,finishing
+César Montes,CB,R,25,MEX,2,true,false,false,tackling,stamina
+Sebastián Vegas,CB,L,25,CHI,10,true,false,false,tackling,heading
+Héctor Moreno,CB,R,34,MEX,6,false,false,false,tackling,stamina
+Axel Grijalva,CB,L,22,MEX,9,false,false,false,tackling,stamina
+Celso Ortiz,MF,R,33,PAR,8,true,false,false,tackling,heading
+Arturo González,MF,R,27,MEX,8,true,false,false,passing,finishing
+Maximiliano Meza,MF,L,29,ARG,1,true,false,false,passing,finishing
+Matías Kranevitter,MF,L,29,ARG,5,false,false,false,marking,pace
+Rodolfo Pizarro,MF,R,28,MEX,4,false,false,false,marking,passing
+Luis Romo,MF,L,27,MEX,4,true,false,false,tackling,marking
+Funes Mori,FW,R,31,ARG,1,true,false,false,pace,dribbling
+Jesús Gallardo,FW,R,27,MEX,3,false,false,false,finishing,stamina
+Rodrigo Aguirre,FW,L,27,URU,8,true,false,false,pace,finishing
+Joao Rojas,FW,R,24,ECU,2,false,false,false,dribbling,finishing

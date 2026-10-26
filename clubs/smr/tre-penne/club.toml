@@ -1,0 +1,13 @@
+name = "Tre Penne"
+country = "SMR"
+level = 13
+reputation = 3
+colors = ["#0066ff", "#ffffff"]
+
+[stadium]
+name = "Fonte dell'Ovo"
+capacity = 1000
+
+[coach]
+name = "Stefano Ceci"
+country = "ITA"

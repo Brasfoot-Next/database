@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Svend Brodersen,GK,R,29,GER,3,true,false,false,rushing-out,positioning
+Louis Thébault-Yamaguchi,GK,R,28,JPN,5,false,false,false,positioning,reflexes
+Yuki Hayasaka,GK,R,27,JPN,6,false,false,false,reflexes,penalty-saving
+Keun-hyeong Lee,GK,R,20,JPN,7,false,false,false,penalty-saving,reflexes
+Filip Uremovic,CB,L,29,CRO,4,true,false,false,heading,passing
+Hiroto Taniguchi,CB,R,26,JPN,5,true,false,false,marking,stamina
+Pedro Romano,CB,R,25,BRA,6,false,false,false,marking,heading
+Yuichi Maruyama,CB,L,37,JPN,7,false,false,false,heading,marking
+Shunsuke Hayashi,CB,R,19,JPN,4,false,false,false,marking,heading
+Sota Miura,FB,L,25,JPN,5,true,false,false,marking,crossing
+Asahi Sasaki,FB,R,26,JPN,3,false,false,false,tackling,stamina
+Reon Yamahara,FB,R,27,JPN,5,true,false,false,dribbling,pace
+Noriharu Kan,FB,L,19,JPN,6,false,false,false,stamina,crossing
+Yuto Matsunagane,FB,R,21,JPN,7,false,false,false,stamina,crossing
+Hiroto Noda,FB,L,20,JPN,7,false,false,false,tackling,pace
+Kento Tachibanada,MF,R,28,JPN,4,true,false,false,tackling,passing
+So Kawahara,MF,R,28,JPN,5,true,false,false,playmaking,passing
+Kota Yui,MF,L,21,JPN,6,false,false,false,dribbling,playmaking
+Yasuto Wakizaka,MF,R,31,JPN,8,true,false,false,dribbling,playmaking
+Yuki Yamamoto,MF,R,28,JPN,4,true,false,false,playmaking,finishing
+Ryota Oshima,MF,L,33,JPN,9,false,false,false,stamina,passing
+Shuto Yamaichi,MF,R,22,JPN,5,false,false,false,dribbling,playmaking
+Ryuki Osa,MF,L,18,JPN,6,false,false,false,pace,crossing
+Yuto Ozeki,MF,R,21,JPN,7,false,false,false,tackling,passing
+Tatsuya Ito,FW,R,29,JPN,1,true,false,false,finishing,stamina
+Marcinho,FW,R,31,BRA,3,false,false,false,playmaking,finishing
+Ten Miyagi,FW,R,25,JPN,5,false,false,false,finishing,pace
+Kazuya Konno,FW,R,29,JPN,6,false,false,false,dribbling,pace
+Akihiro Ienaga,FW,R,34,JPN,7,false,false,false,dribbling,playmaking
+Kyosuke Mochiyama,FW,R,22,JPN,3,false,false,false,finishing,dribbling
+Kayke Queiroz,FW,L,20,BRA,6,false,false,false,heading,stamina
+Lazar Romanić,FW,R,28,SRB,7,true,false,false,finishing,heading
+Yu Kobayashi,FW,R,38,JPN,1,false,false,false,dribbling,pace

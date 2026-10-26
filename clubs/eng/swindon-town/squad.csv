@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tom Nichols,MF,R,33,ENG,4,false,false,false,stamina,pace
+Ollie Clarke,MF,R,34,ENG,5,false,false,false,stamina,pace
+Will Wright,CB,R,29,ENG,6,true,false,false,stamina,pace
+Billy Bodin,FW,L,34,WAL,7,false,false,false,pace,playmaking
+James Ball,MF,R,30,ENG,1,true,false,false,stamina,tackling
+Gavin Kilkenny,MF,R,26,IRL,5,true,false,false,stamina,playmaking
+Darren Oldaker,MF,L,27,ENG,6,true,false,false,stamina,pace
+Adam Murphy,MF,R,21,IRL,7,false,false,false,pace,stamina
+Daniel Butterworth,MF,R,26,ENG,2,true,false,false,pace,dribbling
+Joe Snowdon,FB,R,22,ENG,5,true,false,false,pace,stamina
+Harry Smith,FW,R,31,ENG,7,false,false,false,stamina,heading
+Paul Glatzel,FW,L,25,GER,3,true,false,false,pace,finishing
+Finley Munroe,FB,L,21,ENG,5,false,false,false,stamina,pace
+Aaron Drinan,FW,L,28,IRL,6,true,false,false,pace,stamina
+Ollie Palmer,FW,R,34,ENG,7,false,false,false,heading,finishing
+Billy Kirkman,FB,L,22,ENG,4,true,false,false,pace,stamina
+Joel Mcgregor,FB,R,20,ENG,5,false,false,false,pace,stamina
+Princewill Ehibhatiomhan,FW,R,20,ENG,6,false,false,false,pace,stamina
+Ryan Tafazolli,CB,L,34,ENG,7,false,false,false,stamina,heading
+Jamie Knight Lebel,CB,R,21,CAN,4,false,false,false,stamina,tackling
+Filozofe Mabete,CB,R,21,COD,7,false,false,false,pace,tackling
+Ryan Delaney,CB,L,30,IRL,2,true,false,false,stamina,tackling
+Thomas Wilson Brown,CB,L,21,ENG,5,false,false,false,stamina,pace
+Antony Mccormick,CB,L,19,ENG,6,false,false,false,pace,stamina
+Lewis Ward,GK,R,29,ENG,7,true,false,false,reflexes,penalty-saving
+Connor Ripley,GK,R,33,ENG,3,false,false,false,reflexes,positioning

@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Otso Virtanen,GK,R,28,FIN,8,false,false,false,penalty-saving,reflexes
+Johannes Kreidl,GK,L,26,AUT,7,true,false,false,penalty-saving,reflexes
+Saku Savolainen,FB,R,25,FIN,7,false,false,false,marking,passing
+Henri Toivomäki,FB,L,31,FIN,7,true,false,false,finishing,passing
+Daniel Carrillo,FB,R,26,VEN,6,true,false,false,marking,pace
+Henry Uzochukwu,FB,L,23,NGA,4,false,false,false,crossing,pace
+Diogo Tomas,CB,R,24,FIN,6,true,false,false,heading,stamina
+Taneli Hämäläinen,CB,L,21,FIN,1,true,false,false,heading,stamina
+Paulo Ricardo,CB,R,28,BRA,3,false,false,false,tackling,heading
+Tony Miettinen,CB,L,19,FIN,7,false,false,false,tackling,heading
+Janis Ikaunieks,MF,R,27,LVA,3,true,false,false,tackling,marking
+Anton Popovitch,MF,R,26,FIN,10,true,false,false,tackling,marking
+Otto Ruoppi,MF,R,16,FIN,10,false,false,false,passing,finishing
+Gabriel Bispo,MF,L,25,BRA,2,true,false,false,marking,pace
+Sebastian Dahlström,MF,R,25,FIN,6,true,false,false,marking,pace
+Filip Valencic,MF,R,30,SVN,2,false,false,false,passing,finishing
+Jensen,MF,R,22,DEN,5,false,false,false,finishing,passing
+Joona Veteli,MF,R,27,FIN,9,false,false,false,tackling,pace
+Santeri Haarala,FW,R,22,FIN,8,true,false,false,pace,dribbling
+Tim Väyrynen,FW,R,29,FIN,6,true,false,false,dribbling,finishing
+Iiro Järvinen,FW,R,25,FIN,9,false,false,false,pace,finishing

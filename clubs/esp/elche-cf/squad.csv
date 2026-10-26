@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Adrià Pedrosa,FB,L,28,ESP,5,false,false,false,stamina,pace
+André Silva,FW,L,30,POR,6,false,false,false,heading,passing
+Federico Redondo,MF,R,23,ARG,7,true,false,false,stamina,pace
+Aleix Febas,MF,R,30,ESP,8,true,false,false,stamina,playmaking
+Josan,FW,R,36,ESP,6,false,false,false,pace,dribbling
+Martim Neto,MF,R,23,POR,6,true,false,false,pace,dribbling
+Rafa Mir,FW,R,29,ESP,7,false,false,false,heading,pace
+Bigas,CB,L,35,ESP,5,false,false,false,marking,passing
+Álvaro Núñez,FB,R,26,ESP,6,true,false,false,stamina,pace
+Marc Aguado,MF,L,26,ESP,6,true,false,false,playmaking,passing
+David Affengruber,CB,R,25,AUT,7,true,false,false,stamina,marking
+Rodri Mendoza,MF,L,21,ESP,5,false,false,false,passing,pace
+Grady Diangana,MF,L,28,COD,6,false,false,false,pace,dribbling
+Valera,FW,L,24,ESP,6,true,false,false,pace,dribbling
+John Donald,CB,R,25,ESP,7,false,false,false,tackling,marking
+Leo Petrot,FB,L,29,FRA,5,false,false,false,stamina,tackling
+Héctor Fort,FB,R,20,ESP,6,true,false,false,pace,crossing
+Yago Santiago,FW,L,23,ESP,6,false,false,false,pace,dribbling
+Bambo Diaby,CB,R,28,SEN,7,false,false,false,pace,tackling
+Álvaro Rodríguez,FW,L,22,URU,5,true,false,false,heading,dribbling
+Antonio Martínez,MF,R,20,ESP,7,false,false,false,passing,pace
+Luis Roldán,MF,R,23,ESP,1,false,false,false,passing,tackling
+Ali Houary,MF,R,21,ESP,5,false,false,false,dribbling,passing
+Víctor Chust,CB,R,26,ESP,6,true,false,false,passing,marking
+Nico González,FB,R,20,ESP,7,false,false,false,pace,dribbling
+Albert,FB,L,18,ROU,2,false,false,false,pace,passing
+Adam Boayar,FW,R,20,MAR,6,false,false,false,heading,pace
+Matias Dituro,GK,R,39,ARG,6,false,false,false,reflexes,positioning
+Iñaki Peña,GK,R,27,ESP,7,true,false,false,reflexes,positioning
+Iturbe,GK,R,23,ESP,4,false,false,false,reflexes,penalty-saving

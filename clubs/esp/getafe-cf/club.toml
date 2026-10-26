@@ -1,0 +1,13 @@
+name = "Getafe CF"
+country = "ESP"
+level = 17
+reputation = 3
+colors = ["#005090", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Borja Arambarri"
+country = "BRA"

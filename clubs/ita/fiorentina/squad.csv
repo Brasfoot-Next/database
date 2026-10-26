@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Robin Gosens,FW,L,32,GER,5,false,false,false,stamina,heading
+Nicolo Fagioli,MF,L,25,ITA,6,true,false,false,passing,dribbling
+Dodô,FW,R,27,BRA,7,true,false,false,pace,stamina
+Hans Nicolussi Caviglia,MF,R,26,ITA,9,false,false,false,passing,stamina
+Rolando Mandragora,MF,L,29,ITA,5,true,false,false,passing,stamina
+Fabiano Parisi,FB,L,25,ITA,6,true,false,false,dribbling,crossing
+Simon Sohm,MF,R,25,SUI,7,false,false,false,stamina,passing
+Albert Gudhmundsson,MF,R,29,ISL,10,false,false,false,pace,dribbling
+Moise Kean,FW,L,26,ITA,4,true,false,false,finishing,pace
+Abdelhamid Sabiri,MF,R,29,MAR,6,false,false,false,dribbling,passing
+Edin Dzeko,FW,R,40,BIH,2,false,false,false,heading,finishing
+Jacopo Fazzini,MF,R,23,ITA,6,true,false,false,passing,dribbling
+Amir Richardson,MF,L,24,MAR,6,false,false,false,pace,passing
+Christian Kouame,FW,R,28,CIV,8,false,false,false,pace,dribbling
+Tariq Lamptey,FB,R,25,GHA,4,true,false,false,pace,dribbling
+Cher Ndour,MF,R,22,ITA,6,true,false,false,passing,playmaking
+Luca Ranieri,CB,L,27,ITA,7,false,false,false,marking,heading
+Roberto Piccoli,FW,R,25,ITA,8,false,false,false,pace,finishing
+Gino Infantino,FW,L,23,ARG,4,false,false,false,dribbling,pace
+Niccolo Fortini,FW,L,20,ITA,5,false,false,false,stamina,crossing
+Mattia Viti,CB,L,24,ITA,9,false,false,false,heading,tackling
+Marin Pongracic,CB,R,28,CRO,5,true,false,false,tackling,heading
+Pablo Marí,CB,L,33,ESP,6,false,false,false,heading,tackling
+Pietro Comuzzo,CB,R,21,ITA,7,true,false,false,marking,tackling
+Eddy Kouadio,CB,R,20,ITA,10,false,false,false,pace,tackling
+Eman Kospo,CB,R,19,BIH,5,false,false,false,pace,tackling
+Riccardo Braschi,FW,R,20,ITA,6,false,false,false,pace,finishing
+De Gea,GK,R,35,ESP,7,true,true,false,reflexes,penalty-saving
+Luca Lezzerini,GK,R,31,ITA,1,false,false,false,reflexes,positioning
+Tommaso Martinelli,GK,R,20,ITA,6,false,false,false,reflexes,positioning

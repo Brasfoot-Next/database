@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ivan Perisic,FW,R,37,CRO,6,false,false,false,crossing,passing
+Mauro Júnior,FB,L,27,BRA,6,true,false,false,stamina,pace
+Sergino Dest,FB,R,25,USA,7,true,false,false,pace,dribbling
+Guus Til,MF,R,28,NED,2,false,false,false,pace,heading
+Ismael Saibari,MF,R,25,MAR,6,true,false,false,dribbling,stamina
+Alassane Plea,FW,R,33,FRA,6,false,false,false,playmaking,dribbling
+Joey Veerman,MF,L,27,NED,7,true,false,false,playmaking,passing
+Ryan Flamingo,CB,R,23,NED,8,true,false,false,tackling,stamina
+Dennis Man,FW,L,28,ROU,5,true,false,false,pace,dribbling
+Jerdy Schouten,MF,R,29,NED,6,true,false,false,marking,passing
+Ricardo Pepi,FW,R,23,USA,6,true,false,false,finishing,stamina
+Myron Boadu,FW,R,25,NED,7,false,false,false,dribbling,finishing
+Anass Salah Eddine,FB,L,24,NED,9,false,false,false,pace,dribbling
+Yarek,CB,L,21,ESP,5,false,false,false,heading,tackling
+Paul Wanner,MF,L,20,GER,6,true,false,false,passing,dribbling
+Armando Obispo,CB,L,27,NED,7,true,false,false,passing,heading
+Ruben Van Bommel,FW,L,22,NED,9,false,false,false,pace,dribbling
+Kiliann Sildillia,FB,R,24,FRA,5,false,false,false,tackling,heading
+Couhaib Driouech,FW,L,24,MAR,6,false,false,false,pace,stamina
+Esmir Bajraktarevic,FW,L,21,BIH,7,false,false,false,dribbling,pace
+Joel Van Den Berg,MF,R,19,NED,6,false,false,false,pace,passing
+Noah Fernandez,MF,L,18,BEL,6,false,false,false,pace,dribbling
+Adamo Nagalo,CB,R,23,BFA,8,false,false,false,tackling,stamina
+Eus Waayers,FB,R,20,NED,5,false,false,false,pace,crossing
+Nick Olij,GK,R,31,NED,6,false,false,false,penalty-saving,reflexes
+Matej Kovar,GK,R,26,CZE,6,true,false,false,positioning,rushing-out
+Niek Schiks,GK,L,22,NED,8,false,false,false,positioning,penalty-saving

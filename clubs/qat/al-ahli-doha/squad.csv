@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Marwan Badreldin,GK,R,27,QAT,6,true,false,false,positioning,penalty-saving
+Yazan Naim,GK,R,29,QAT,7,false,false,false,positioning,reflexes
+Mohamed Lingliz,GK,R,21,QAT,7,false,false,false,positioning,rushing-out
+William Troost-Ekong,CB,L,33,NGA,4,true,false,false,heading,tackling
+Robin Tihi,CB,L,24,FIN,5,false,false,false,tackling,stamina
+Zinedine Sassi,CB,R,22,TUN,6,false,false,false,marking,stamina
+Talal Bahzad,CB,R,26,QAT,8,true,false,false,marking,passing
+Khalid Radwan,CB,R,35,QAT,4,false,false,false,marking,tackling
+Yousef Marei,CB,L,19,QAT,5,false,false,false,heading,passing
+Ali Shahabi,CB,R,20,QAT,6,false,false,false,tackling,stamina
+Ayoub Amraoui,FB,R,22,MAR,6,false,false,false,marking,pace
+Islam Yassine,FB,R,32,EGY,7,false,false,false,tackling,marking
+Ahmed Reyad,FB,L,22,QAT,2,false,false,false,tackling,pace
+Jassem Mohammed,FB,L,31,QAT,5,true,false,false,crossing,pace
+Mohammed Al-Ishaq,FB,R,23,QAT,6,true,false,false,tackling,stamina
+Luiz Ceara,MF,R,37,QAT,7,false,false,false,dribbling,pace
+Tilal Ali Ali,MF,R,34,QAT,3,false,false,false,tackling,passing
+Driss Fettouhi,MF,R,36,MAR,5,false,false,false,dribbling,passing
+Hamad Mansour,MF,L,31,QAT,6,true,false,false,dribbling,passing
+Michel Vlap,MF,L,29,NED,7,true,false,false,playmaking,finishing
+Yanis Fetheddine,MF,R,23,MAR,6,true,false,false,passing,playmaking
+Eslam Abdelkader,MF,R,23,EGY,7,true,false,false,tackling,marking
+Julian Draxler,FW,L,32,GER,10,false,false,false,pace,finishing
+Suhaib Gannan,FW,R,22,QAT,5,false,false,false,dribbling,playmaking
+Nasser Ibrahim Al-Nasr,FW,R,31,QAT,6,false,false,false,pace,crossing
+Navid Dorzadeh,FW,R,26,QAT,7,true,false,false,crossing,pace
+Younes Abdelrahman,FW,R,20,BEL,1,false,false,false,finishing,stamina
+Othman Al-Yahri,FW,R,33,QAT,5,false,false,false,crossing,pace
+Erik Expósito,FW,R,30,ESP,6,true,false,false,dribbling,playmaking
+Sekou Yansané,FW,R,23,FRA,7,false,false,false,pace,finishing

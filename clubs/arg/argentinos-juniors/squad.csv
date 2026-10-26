@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nicolas Oroz,MF,L,32,ARG,5,true,false,false,passing,playmaking
+Alan Lescano,FW,L,24,ARG,6,true,false,false,dribbling,playmaking
+Cristian Ferreira,MF,R,26,ARG,7,false,false,false,pace,playmaking
+Federico Fattori,MF,L,34,ARG,2,true,false,false,stamina,passing
+Leandro Lozano,FB,R,27,URU,4,true,false,false,pace,crossing
+Luciano Sanchez,FB,L,32,ARG,5,false,false,false,pace,dribbling
+Gabriel Florentin,MF,R,27,ARG,6,true,false,false,dribbling,pace
+Ismael Sosa,MF,R,39,ARG,7,false,false,false,dribbling,pace
+Hernan Lopez Munoz,MF,L,26,ARG,4,true,false,false,dribbling,pace
+Matias Gimenez,FW,R,27,ARG,5,false,false,false,passing,finishing
+Sebastian Prieto,FB,L,33,ARG,5,false,false,false,stamina,pace
+Claudio Bravo,FB,L,29,ARG,6,true,false,false,stamina,pace
+Ruben Bentancourt,FW,R,33,URU,7,false,false,false,heading,finishing
+Emiliano Viveros,FW,L,23,ARG,3,false,false,false,pace,crossing
+Joaquin Gho,FW,L,23,ARG,5,false,false,false,dribbling,pace
+Tomas Molina,FW,R,31,ARG,6,true,false,false,pace,stamina
+Juan Cardozo,MF,R,22,PAR,7,false,false,false,pace,playmaking
+Tobias Ramirez,CB,R,19,ARG,3,true,false,false,pace,stamina
+Lucas Gomez,FW,L,22,ARG,5,false,false,false,pace,dribbling
+Lautaro Giaccone,FW,L,25,ARG,6,false,false,false,dribbling,passing
+Kevin Coronel,FB,R,22,ARG,4,false,false,false,pace,passing
+Francisco Alvarez,CB,R,26,ARG,5,true,false,false,stamina,tackling
+Mateo Antoni,CB,L,23,URU,7,false,false,false,tackling,marking
+Erik Godoy,CB,L,33,ARG,1,false,false,false,marking,stamina
+Manuel Brondo,FW,R,24,ARG,5,false,false,false,pace,heading
+Lautaro Ovando,FW,R,23,ARG,6,false,false,false,pace,finishing
+Gaston Bouhier,MF,L,18,ARG,7,false,false,false,pace,stamina
+Ryoga Kida,FW,R,21,JPN,2,false,false,false,pace,dribbling
+Diego Rodriguez,GK,L,37,ARG,5,false,false,false,reflexes,positioning
+Diego Porcel,FW,R,21,ARG,6,false,false,false,stamina,pace
+Gonzalo Siri,GK,R,23,ARG,4,true,false,false,penalty-saving,reflexes
+Agustin Mangiaut,GK,R,22,ARG,5,false,false,false,reflexes,positioning

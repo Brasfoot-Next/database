@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Seung-hwan Lee,GK,L,23,KOR,4,true,false,false,positioning,penalty-saving
+Dong-geon No,GK,R,34,KOR,5,false,false,false,rushing-out,reflexes
+Sung-hoon Cho,GK,R,28,KOR,6,false,false,false,reflexes,positioning
+Seong-been Cho,GK,R,25,KOR,7,false,false,false,reflexes,positioning
+Tae-yoon Gong,GK,R,18,KOR,4,false,false,false,reflexes,positioning
+Yun-seong Jo,CB,R,27,KOR,5,true,false,false,marking,heading
+Eui-bin Kang,CB,R,28,KOR,6,true,false,false,stamina,heading
+Ju-yeong Jo,CB,L,32,KOR,8,false,false,false,marking,stamina
+Chang-hoon Lee,CB,R,30,KOR,4,false,false,false,heading,marking
+Gang-han Lee,FB,R,26,KOR,5,true,false,false,pace,crossing
+Seok-yeong Yun,FB,R,36,KOR,7,false,false,false,pace,crossing
+Jun-young Lim,FB,R,20,KOR,10,false,false,false,passing,pace
+Bandeira,FB,L,25,POR,5,true,false,false,marking,crossing
+Keon-woo Bak,FB,L,24,KOR,6,false,false,false,marking,crossing
+Seon-min Kim,MF,R,34,KOR,8,false,false,false,playmaking,finishing
+Seung-chan Heo,MF,R,23,KOR,4,true,false,false,marking,passing
+Jin-woo Jeong,MF,R,21,KOR,5,true,false,false,stamina,pace
+Dong-won Lee,MF,R,23,KOR,6,true,false,false,tackling,marking
+Ji-hoon Min,MF,R,21,KOR,9,true,false,false,pace,passing
+Jong-eon Lee,FW,R,25,KOR,4,false,false,false,pace,crossing
+Seok-jun Hong,FW,L,22,KOR,6,false,false,false,finishing,stamina
+Young-been Yang,FW,R,20,KOR,7,false,false,false,finishing,pace
+Jae-won Seo,FW,L,23,KOR,4,false,false,false,dribbling,finishing
+Yoon-hwan Lee,FW,R,19,KOR,5,false,false,false,heading,pace
+Mender García,FW,R,27,COL,7,true,false,false,heading,stamina
+Enzo Monteiro,FW,L,22,BOL,3,true,false,false,dribbling,finishing
+Chang-seok Song,FW,R,26,KOR,5,false,false,false,heading,stamina

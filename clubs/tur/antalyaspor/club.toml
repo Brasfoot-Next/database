@@ -1,0 +1,13 @@
+name = "Antalyaspor"
+country = "TUR"
+level = 13
+reputation = 3
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Corendon Airlines Park Antalya Stadı"
+capacity = 29307
+
+[coach]
+name = "Samuel Streek"
+country = "BRA"

@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Niilo Maenpaa,FW,L,28,FIN,3,false,false,false,pace,stamina
+Andre Boman,FB,R,24,SWE,5,true,false,false,pace,stamina
+Rami Kaib,FB,L,29,TUN,6,true,false,false,stamina,pace
+Villiam Granath,FW,R,27,SWE,7,true,false,false,stamina,pace
+Rocco Ascone,MF,L,22,FRA,3,true,false,false,playmaking,passing
+Blair Turgott,FW,R,32,JAM,5,true,false,false,pace,stamina
+Emmanuel Yeboah,FW,R,23,GHA,6,false,false,false,pace,stamina
+Marcus Olsson,CB,L,38,SWE,7,false,false,false,tackling,crossing
+Gisli Eyjolfsson,MF,R,32,ISL,3,true,false,false,passing,stamina
+Joel Allansson,MF,R,33,SWE,4,true,false,false,stamina,passing
+Aleksander Damnjanovic Nilsson,MF,L,24,SWE,5,true,false,false,stamina,pace
+Naeem Mohammed,FW,L,29,GHA,6,false,false,false,pace,stamina
+Pascal Gregor,CB,R,32,DEN,8,false,false,false,tackling,stamina
+Albin Ahlstrand,MF,R,22,SWE,4,false,false,false,pace,passing
+Mans Andersson,MF,R,21,SWE,6,false,false,false,pace,stamina
+Iddrisu Moro,MF,R,20,GHA,7,false,false,false,pace,stamina
+Vincent Johansson,MF,R,20,SWE,10,false,false,false,pace,stamina
+Gustav Friberg,FB,L,23,SWE,5,false,false,false,stamina,pace
+Bleon Kurtulus,CB,L,19,SWE,5,true,false,false,stamina,pace
+Ludvig Arvidsson,FW,L,18,SWE,6,false,false,false,pace,dribbling
+Marvin Illary,FW,R,19,CIV,6,false,false,false,pace,stamina
+Malte Persson,FW,R,20,SWE,7,false,false,false,pace,finishing
+Gabriel Wallentin,CB,R,25,SWE,3,false,false,false,tackling,marking
+Oliver Kapsimalis,FW,R,19,SWE,5,false,false,false,pace,dribbling
+Filip Schyberg,CB,R,27,SWE,6,true,false,false,tackling,heading
+Tim Erlandsson,GK,R,29,SWE,7,true,false,false,penalty-saving,rushing-out
+Tim Ronning,GK,R,27,SWE,4,false,false,false,reflexes,rushing-out

@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Craig Goodwin,FW,L,34,AUS,6,true,false,false,stamina,pace
+Anselmo,MF,R,37,BRA,7,false,false,false,stamina,tackling
+Ryan Kitto,FB,L,32,AUS,2,true,false,false,stamina,pace
+Ethan Alagich,MF,L,22,AUS,5,true,false,false,stamina,passing
+Dylan Pierias,FB,R,26,AUS,6,true,false,false,pace,stamina
+Jonny Yull,MF,R,21,AUS,7,true,false,false,stamina,pace
+Panashe Madanha,FB,R,22,AUS,2,false,false,false,pace,stamina
+Luka Jovanovic,FW,R,21,AUS,5,true,false,false,pace,stamina
+Austin Ayoubi,FW,L,25,AUS,6,false,false,false,pace,dribbling
+Jay Barnett,MF,R,25,AUS,7,true,false,false,stamina,passing
+Luke Duzel,MF,R,24,AUS,7,false,false,false,pace,passing
+Ben Folami,FW,L,27,AUS,2,false,false,false,pace,stamina
+Julian Kwaaitaal,FW,R,21,NED,5,false,false,false,pace,dribbling
+Yaya Dukuly,FW,L,23,AUS,6,false,false,false,pace,dribbling
+Bart Vriends,CB,R,35,NED,7,true,false,false,stamina,tackling
+Ryan White,MF,R,22,AUS,2,true,false,false,stamina,pace
+Harry Crawford,FW,R,19,AUS,4,false,false,false,pace,dribbling
+Panagiotis Kikianis,CB,L,21,AUS,5,true,false,false,stamina,marking
+Fabian Talladira,MF,L,20,AUS,6,false,false,false,passing,stamina
+Amlani Tatu,FW,L,18,AUS,7,false,false,false,pace,finishing
+Malual Nichola,CB,R,18,AUS,6,false,false,false,pace,stamina
+Bailey Oneil,FB,L,20,AUS,8,false,false,false,pace,stamina
+Feyzo Kasumovic,CB,R,18,AUS,4,false,false,false,stamina,pace
+Joshua Smits,GK,R,33,NED,6,true,false,false,reflexes,penalty-saving
+Max Vartuli,GK,L,21,AUS,7,false,false,false,penalty-saving,rushing-out
+Ethan Cox,GK,R,22,AUS,10,false,false,false,penalty-saving,reflexes

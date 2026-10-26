@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Vincenzo Grifo,FW,L,33,ITA,10,false,false,false,crossing,dribbling
+Christian Gunter,FB,L,33,GER,5,false,false,false,pace,stamina
+Jan Niklas Beste,FW,L,27,GER,6,false,false,false,crossing,stamina
+Maximilian Eggestein,MF,R,29,GER,7,true,false,false,stamina,passing
+Matthias Ginter,CB,R,32,GER,1,false,false,false,tackling,marking
+Patrick Osterhage,MF,L,26,GER,5,true,false,false,stamina,pace
+Anthony Jung,CB,L,34,GER,6,false,false,false,tackling,marking
+Lukas Kubler,FB,R,34,GER,7,false,false,false,pace,tackling
+Yuito Suzuki,MF,R,24,JPN,2,true,false,false,pace,stamina
+Eren Dinkci,FW,R,24,TUR,5,false,false,false,pace,stamina
+Philipp Treu,FB,L,25,GER,5,true,false,false,stamina,pace
+Lucas Holer,FW,R,32,GER,6,false,false,false,stamina,heading
+Maximilian Philipp,FW,R,32,GER,7,false,false,false,dribbling,finishing
+Nicolas Hofler,MF,R,36,GER,5,false,false,false,tackling,marking
+Johan Manzambi,MF,L,20,SUI,6,true,false,false,dribbling,pace
+Jordy Makengo,FB,L,25,FRA,7,true,false,false,pace,tackling
+Junior Adamu,FW,R,25,AUT,9,false,false,false,pace,stamina
+Philipp Lienhart,CB,L,30,AUT,5,true,false,false,heading,marking
+Cyriaque Irie,FW,L,21,BFA,6,true,false,false,pace,stamina
+Derry Scherhant,FW,R,23,GER,7,false,false,false,pace,dribbling
+Max Rosenfelder,CB,R,23,GER,5,false,false,false,pace,tackling
+Daniel Kofi Kyereh,MF,R,30,GHA,6,false,false,false,dribbling,passing
+Igor Matanovic,FW,R,23,CRO,7,true,false,false,finishing,heading
+Bruno Ogbus,CB,R,20,SUI,9,true,false,false,pace,tackling
+Jannik Huth,GK,R,32,GER,6,false,false,false,reflexes,penalty-saving
+Noah Atubolu,GK,R,24,GER,7,true,false,false,reflexes,penalty-saving
+Florian Muller,GK,L,28,GER,7,false,false,false,reflexes,penalty-saving

@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Henri Saivet,MF,L,35,SEN,7,false,false,false,stamina,crossing
+Adrien Hunou,MF,R,32,FRA,1,true,false,false,playmaking,passing
+Johan Gastien,MF,R,38,FRA,4,false,false,false,marking,stamina
+Kenji Van Boto,FB,L,30,FRA,5,true,false,false,stamina,pace
+Abdoul Kader Bamba,FW,L,32,FRA,7,false,false,false,pace,dribbling
+Maidine Douane,FW,L,24,ALG,1,false,false,false,dribbling,playmaking
+Axel Camblan,FW,R,23,FRA,5,true,false,false,pace,passing
+Famara Diedhiou,FW,R,33,SEN,6,false,false,false,heading,pace
+Allan Ackra,MF,R,22,FRA,7,true,false,false,stamina,pace
+Yoann Salmier,CB,L,33,FRA,2,true,false,false,heading,marking
+Cheick Oumar Konate,FB,R,22,MLI,6,true,false,false,stamina,tackling
+Maximiliano Caufriez,CB,R,29,BEL,1,true,false,false,tackling,heading
+Stan Berkani,MF,R,23,ALG,5,true,false,false,passing,pace
+Ibrahim Coulibaly,FB,R,20,FRA,6,false,false,false,pace,stamina
+Abdellah Baallal,FW,L,21,MAR,7,false,false,false,pace,dribbling
+Loic Socka,FW,R,28,FRA,2,true,false,false,stamina,pace
+Ousmane Diop,FW,R,21,SEN,5,false,false,false,pace,dribbling
+Enzo Cantero,FW,R,21,FRA,6,false,false,false,pace,passing
+Julien Astic,MF,R,21,FRA,7,false,false,false,passing,tackling
+Amine Said,FW,R,23,ALG,2,false,false,false,pace,finishing
+Ivan Mbahia,CB,R,21,CIV,5,false,false,false,tackling,pace
+Yuliwes Bellache,MF,R,23,ALG,7,true,false,false,pace,dribbling
+Sumaila Awudu,FB,L,21,GHA,4,false,false,false,tackling,stamina
+Josue Mwimba Isala,CB,R,23,CGO,5,false,false,false,tackling,stamina
+Matys Donavin,CB,L,19,FRA,6,false,false,false,tackling,pace
+Ilhan Fakili,FW,L,20,FRA,8,false,false,false,pace,dribbling
+Theo Guivarch,GK,R,30,FRA,4,true,false,false,positioning,reflexes
+Massamba Ndiaye,GK,L,24,SEN,5,false,false,false,reflexes,penalty-saving

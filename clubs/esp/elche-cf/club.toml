@@ -1,0 +1,13 @@
+name = "Elche CF"
+country = "ESP"
+level = 15
+reputation = 3
+colors = ["#E0C070", "#C01020"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Yago González"
+country = "BRA"

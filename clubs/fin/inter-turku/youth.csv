@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Otto Viitakangas,GK,L,18,FIN,5,true,false,false,rushing-out,penalty-saving
+Kalle Knuttila,GK,R,16,FIN,4,true,false,false,penalty-saving,reflexes
+Rei Hoda,FB,L,16,FIN,6,true,false,false,crossing,pace
+Almin Cero,FB,R,18,FIN,2,true,false,false,marking,crossing
+Tegra Mukuna,FB,L,17,FIN,9,true,false,false,crossing,pace
+Valentin Purosalo,CB,R,16,FIN,8,true,false,false,heading,tackling
+Ryan Mahuta,CB,L,18,CGO,3,true,false,false,heading,tackling
+Bodgan Slavgorodskij,CB,R,18,FIN,7,true,false,false,tackling,heading
+Bamo Ahmadi,MF,L,19,FIN,9,true,false,false,passing,pace
+Mohammed Al Bermanei,MF,R,19,FIN,10,true,false,false,passing,finishing
+Roope Kantola,MF,L,18,FIN,2,true,false,false,marking,tackling
+Joona Hämäläinen,MF,R,17,FIN,2,true,false,false,tackling,passing
+Jasper Yrjas,FW,L,17,FIN,7,true,false,false,finishing,dribbling
+Abdiwaasa Huseen,FW,R,19,FIN,9,true,false,false,finishing,heading
+Linus Rönnberg,FW,L,17,FIN,2,true,false,false,finishing,pace

@@ -1,0 +1,13 @@
+name = "Stade Malien"
+country = "MLI"
+level = 14
+reputation = 3
+colors = ["#005782", "#ffffff"]
+
+[stadium]
+name = "Stade 26 mars"
+capacity = 50000
+
+[coach]
+name = "Rigo Gervais"
+country = "CIV"

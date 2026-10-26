@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mikael Ishak,FW,R,33,SWE,7,false,false,false,stamina,finishing
+Radoslaw Murawski,MF,R,32,POL,3,false,false,false,stamina,pace
+Joel Pereira,FB,R,29,POR,5,true,false,false,stamina,crossing
+Filip Jagiello,MF,R,29,POL,6,true,false,false,stamina,pace
+Antoni Kozubal,MF,L,22,POL,7,true,false,false,stamina,passing
+Luis Palma,FW,L,26,POL,3,true,false,false,pace,playmaking
+Ali Gholizadeh,FW,L,30,POL,5,false,false,false,stamina,dribbling
+João Moutinho,FB,L,28,POR,6,false,false,false,stamina,pace
+Patrik Walemark,FW,L,24,SWE,7,true,false,false,pace,stamina
+Pablo Rodríguez,MF,R,25,ESP,4,true,false,false,pace,stamina
+Robert Gumny,FB,R,28,POL,5,true,false,false,stamina,pace
+Timothy Noor Ouma,MF,R,22,KEN,6,false,false,false,pace,stamina
+Antonio Milic,CB,L,32,CRO,10,false,false,false,stamina,heading
+Mateusz Skrzypczak,CB,R,26,POL,5,false,false,false,stamina,tackling
+Michal Gurgul,FB,L,20,POL,5,false,false,false,stamina,pace
+Leo Bengtsson,FW,L,28,SWE,6,false,false,false,pace,stamina
+Daniel Hakans,FW,L,25,FIN,7,false,false,false,pace,stamina
+Gisli Thordharson,MF,R,21,ISL,3,false,false,false,pace,stamina
+Alex Douglas,CB,L,25,SWE,5,true,false,false,pace,stamina
+Yannick Agnero,FW,L,23,CIV,6,false,false,false,pace,stamina
+Bryan Fiabema,FW,R,23,NOR,5,false,false,false,pace,dribbling
+Taofeek Ismaheel,FW,R,26,NGA,6,false,false,false,pace,stamina
+Kornel Lisman,FW,L,20,POL,7,false,false,false,pace,dribbling
+Sammy Dudek,MF,R,18,GER,4,true,false,false,pace,passing
+Bartlomiej Baranski,MF,R,19,POL,5,false,false,false,pace,dribbling
+Wojciech Monka,CB,R,19,POL,6,true,false,false,pace,stamina
+Bartosz Mrozek,GK,R,26,POL,7,true,false,false,positioning,reflexes
+Mateusz Pruchniewski,GK,R,19,POL,1,false,false,false,positioning,penalty-saving
+Krzysztof Bakowski,GK,R,23,POL,5,false,false,false,reflexes,penalty-saving

@@ -1,0 +1,13 @@
+name = "Al Riyadh"
+country = "KSA"
+level = 12
+reputation = 2
+colors = ["#102020", "#F02010"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Saud Sahlouli"
+country = "BRA"

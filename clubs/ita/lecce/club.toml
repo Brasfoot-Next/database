@@ -1,0 +1,13 @@
+name = "Lecce"
+country = "ITA"
+level = 15
+reputation = 3
+colors = ["#002050", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Lameck Jean"
+country = "BRA"

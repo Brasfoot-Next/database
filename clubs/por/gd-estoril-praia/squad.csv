@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Pizzi,MF,R,36,POR,5,false,false,false,playmaking,passing
+Jordan Holsgrove,MF,L,26,SCO,6,true,false,false,passing,stamina
+Ricard,FB,R,26,ESP,7,true,false,false,pace,stamina
+Xeka,MF,R,31,POR,2,true,false,false,playmaking,passing
+Patrick de Paula,MF,L,27,BRA,5,true,false,false,stamina,passing
+João Carvalho,FW,L,29,POR,6,false,false,false,dribbling,passing
+Pedro Amaral,CB,L,29,POR,10,false,false,false,pace,stamina
+Yanis Begraoui,FW,R,25,MAR,5,true,false,false,stamina,dribbling
+Rafik Guitane,FW,L,27,ALG,5,true,false,false,pace,dribbling
+Alejandro Marques,FW,R,26,VEN,6,false,false,false,heading,finishing
+Jandro Orellana,MF,R,26,ESP,5,true,false,false,passing,tackling
+Gonçalo Costa,FB,L,26,POR,6,true,false,false,pace,dribbling
+Nodar Lominadze,MF,R,24,GEO,7,false,false,false,dribbling,stamina
+Bernardo Lourenço,MF,R,24,POR,4,false,false,false,pace,dribbling
+Ferro,CB,R,29,POR,5,false,false,false,heading,tackling
+Pedro Carvalho,FW,R,23,POR,6,false,false,false,stamina,pace
+Fabrício Garcia,FW,L,25,CPV,7,false,false,false,finishing,pace
+André Lacximicant,FW,L,25,POR,4,false,false,false,heading,finishing
+Peixinho,FW,L,22,POR,5,false,false,false,pace,dribbling
+Tiago Brito,MF,R,22,POR,6,false,false,false,pace,tackling
+Tiago Parente,FW,L,22,POR,7,false,false,false,tackling,pace
+Felix Bacher,CB,R,26,AUT,4,true,false,false,stamina,tackling
+Antef Tsoungui,CB,R,23,BEL,5,false,false,false,pace,tackling
+Kelian Baruti,FW,L,20,FRA,6,false,false,false,pace,passing
+Kevin Boma,CB,R,23,POR,8,true,false,false,tackling,marking
+Khayon Edwards,FW,R,22,JAM,4,false,false,false,pace,finishing
+Luís Gomes,MF,R,22,POR,5,false,false,false,dribbling,pace
+Or Israelov,CB,L,22,POR,6,false,false,false,tackling,marking
+Longin Bimai,CB,L,20,FRA,9,false,false,false,tackling,heading
+Joel Robles,GK,R,36,ESP,4,true,false,false,reflexes,penalty-saving
+Martin Turk,GK,L,23,SVN,7,false,false,false,reflexes,penalty-saving
+Diogo Dias,GK,R,23,POR,3,false,false,false,rushing-out,reflexes

@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Thomas Lemar,MF,L,30,FRA,5,false,false,false,dribbling,passing
+Portu,FW,R,34,ESP,6,false,false,false,pace,stamina
+Daley Blind,CB,L,36,NED,7,false,false,false,playmaking,passing
+Donny Van De Beek,MF,R,29,NED,9,true,false,false,playmaking,passing
+Iván Martín,MF,L,27,ESP,5,true,false,false,crossing,dribbling
+Álex Moreno,FB,L,33,ESP,6,false,false,false,crossing,tackling
+Viktor Tsygankov,FW,L,28,UKR,7,true,false,false,pace,crossing
+Arnau Martínez,FB,R,23,ESP,10,true,false,false,crossing,passing
+Cristhian Stuani,FW,R,39,URU,6,false,false,false,heading,finishing
+Axel Witsel,CB,R,37,BEL,6,false,false,false,marking,passing
+Azzedine Ounahi,MF,R,26,MAR,7,true,false,false,stamina,passing
+Yaser Asprilla,FW,L,22,COL,9,false,false,false,pace,dribbling
+Hugo Rincón,FB,R,23,ESP,5,true,false,false,stamina,pace
+Francés,CB,R,24,ESP,6,true,false,false,stamina,tackling
+Abel Ruiz,FW,R,26,ESP,6,false,false,false,stamina,pace
+David López,CB,R,36,ESP,8,false,false,false,passing,heading
+Bryan Gil,FW,L,25,ESP,2,false,false,false,pace,dribbling
+Jhon Solis,MF,R,21,COL,6,true,false,false,stamina,passing
+Vladyslav Vanat,FW,L,24,UKR,6,true,false,false,finishing,pace
+Joel Roca,FW,R,21,ESP,8,false,false,false,pace,dribbling
+Vitor Reis,CB,R,20,BRA,7,true,false,false,tackling,marking
+Papa Dame Ba,FW,L,22,SEN,8,false,false,false,pace,dribbling
+Gibi,FB,R,19,ESP,5,false,false,false,pace,crossing
+Paulo Gazzaniga,GK,R,34,ARG,6,false,false,false,penalty-saving,positioning
+Dominik Livakovic,GK,R,31,CRO,7,true,false,false,reflexes,positioning
+Juan Carlos,GK,R,38,ESP,7,false,false,false,rushing-out,reflexes
+Vladyslav Krapyvtsov,GK,R,21,UKR,10,false,false,false,positioning,rushing-out

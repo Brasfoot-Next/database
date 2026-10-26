@@ -1,0 +1,13 @@
+name = "AFC Bournemouth"
+country = "ENG"
+level = 19
+reputation = 4
+colors = ["#F0F0F0", "#000000"]
+
+[stadium]
+name = "Vitality Stadium"
+capacity = 11307
+
+[coach]
+name = "Justin Milosavljevic"
+country = "BRA"

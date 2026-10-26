@@ -1,0 +1,13 @@
+name = "St. Louis CITY SC"
+country = "USA"
+level = 13
+reputation = 3
+colors = ["#001030", "#D00040"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Fallou Joyner"
+country = "BRA"

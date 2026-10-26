@@ -1,0 +1,13 @@
+name = "Floriana"
+country = "MLT"
+level = 14
+reputation = 2
+colors = ["#336600", "#ffffff"]
+
+[stadium]
+name = "Independence"
+capacity = 3000
+
+[coach]
+name = "Gianluca Atzori"
+country = "ITA"

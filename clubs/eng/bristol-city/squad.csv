@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jason Knight,MF,R,25,IRL,4,true,false,false,stamina,passing
+Adam Randell,MF,L,25,ENG,5,true,false,false,stamina,passing
+Scott Twine,MF,L,27,ENG,6,true,false,false,stamina,pace
+Anis Mehmeti,MF,R,25,ALB,8,true,false,false,dribbling,pace
+Max Bird,MF,L,25,ENG,4,false,false,false,stamina,passing
+Neto Borges,FB,L,29,BRA,5,false,false,false,stamina,dribbling
+Mark Sykes,FW,R,29,IRL,6,true,false,false,stamina,pace
+Ross Mccrorie,FW,R,28,SCO,7,false,false,false,stamina,pace
+Joe Williams,MF,R,29,ENG,2,false,false,false,passing,tackling
+Haydon Roberts,FB,L,24,ENG,5,false,false,false,stamina,pace
+Cameron Pring,FB,L,28,ENG,5,true,false,false,pace,stamina
+George Tanner,FB,R,26,ENG,6,true,false,false,stamina,tackling
+Emil Riis,FW,R,28,DEN,7,false,false,false,pace,finishing
+Harry Cornick,FW,R,31,ENG,3,false,false,false,pace,dribbling
+Sinclair Armstrong,FW,R,23,IRL,5,true,false,false,pace,finishing
+Yu Hirakawa,FW,L,25,JPN,6,false,false,false,pace,dribbling
+Josh Stokes,MF,R,22,ENG,7,false,false,false,pace,dribbling
+Rob Dickie,CB,R,30,ENG,4,false,false,false,stamina,marking
+Fally Mayulu,FW,R,24,FRA,5,false,false,false,pace,finishing
+Zak Vyner,CB,R,29,KEN,6,false,false,false,stamina,tackling
+Luke Mcnally,CB,R,26,IRL,5,true,false,false,heading,tackling
+Rob Atkinson,CB,L,28,ENG,6,true,false,false,heading,tackling
+Elijah Morrison,FW,L,20,ENG,7,false,false,false,pace,dribbling
+Ephraim Yeboah,FW,R,20,ITA,1,false,false,false,pace,dribbling
+Josh Campbell Slowey,CB,R,20,ENG,5,false,false,false,pace,tackling
+Joe Lumley,GK,R,31,ENG,6,true,false,false,reflexes,penalty-saving
+Max Oleary,GK,R,29,IRL,7,false,false,false,reflexes,penalty-saving
+Radek Vitek,GK,R,22,CZE,2,false,false,false,reflexes,penalty-saving
+Lewis Thomas,GK,R,28,WAL,5,false,false,false,reflexes,penalty-saving

@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Santiago Lopez Garcia,MF,R,28,ARG,6,true,false,false,pace,playmaking
+Julio Furch,FW,R,37,ARG,7,false,false,false,heading,finishing
+Frank Castaneda,FW,R,32,COL,2,false,false,false,pace,playmaking
+Sergio Vittor,CB,R,37,ARG,5,false,false,false,stamina,heading
+Martin Rio,MF,R,25,ARG,6,true,false,false,passing,dribbling
+Tomas Nasif,FW,L,22,ARG,7,false,false,false,finishing,pace
+Juan Luis Alfaro,FB,R,26,ARG,3,true,false,false,pace,dribbling
+Mauro Mendez,FW,R,27,URU,6,true,false,false,heading,passing
+Lautaro Rios,MF,L,25,ARG,7,true,false,false,stamina,pace
+Agustin Obando,FW,L,26,ARG,1,false,false,false,stamina,pace
+Agustin Alaniz,FW,R,24,URU,6,false,false,false,pace,finishing
+Juan Iribarren,FB,L,23,ARG,7,false,false,false,pace,stamina
+Gonzalo Rios,FW,L,27,ARG,1,false,false,false,dribbling,pace
+Santiago Esquivel,MF,R,22,ARG,5,true,false,false,passing,pace
+Tiziano Perrotta,FW,L,19,ARG,6,false,false,false,pace,finishing
+Rodrigo Auzmendi,FW,R,25,ARG,7,true,false,false,pace,finishing
+Gabriel Vega,MF,R,24,ARG,2,false,false,false,pace,playmaking
+Bruno Sepulveda,FW,R,33,ARG,5,false,false,false,stamina,finishing
+Marcos Arturia,FW,R,28,ARG,6,false,false,false,heading,passing
+Ignacio Abraham,FB,L,28,ARG,7,true,false,false,dribbling,tackling
+Lucas Palavecino,MF,R,22,ARG,5,false,false,false,pace,stamina
+Matias Gonzalez,FW,L,24,ARG,6,false,false,false,dribbling,passing
+Nicolas Meriano,CB,L,25,ARG,7,true,false,false,tackling,stamina
+Danilo Arboleda,CB,R,31,COL,4,true,false,false,pace,stamina
+Tomas Adoryan,FW,L,24,ARG,5,false,false,false,dribbling,passing
+Brandon Oviedo,CB,L,21,ARG,6,false,false,false,marking,tackling
+Santiago Daniele,CB,R,20,ARG,8,false,false,false,pace,heading
+Joaquin Pombo,CB,L,25,ARG,4,false,false,false,stamina,heading
+Lisandro Pinero,FW,R,19,ARG,5,false,false,false,pace,dribbling
+Facundo Sanguinetti,GK,R,25,ARG,6,true,false,false,reflexes,penalty-saving
+Diego Romero,GK,R,25,PER,5,false,false,false,positioning,rushing-out

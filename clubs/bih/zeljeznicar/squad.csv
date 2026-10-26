@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Josip Bender,GK,L,27,CRO,1,false,false,false,reflexes,positioning
+Vedad Muftic,GK,L,20,BIH,7,true,false,false,rushing-out,penalty-saving
+Nikola Milicevic,GK,R,20,BIH,5,false,false,false,reflexes,positioning
+Luka Malic,FB,L,22,BIH,4,false,false,false,marking,finishing
+Marin Galic,FB,R,26,BIH,3,true,false,false,marking,finishing
+Stjepan Vego,FB,L,25,BIH,6,true,false,false,finishing,passing
+Aleksandar Kosoric,CB,R,35,BIH,5,true,false,false,tackling,stamina
+Amar Drina,CB,L,20,BIH,5,false,false,false,heading,stamina
+Edin Cocalic,CB,L,34,BIH,9,true,false,false,marking,pace
+Semir Stilic,MF,L,34,BIH,2,true,false,false,finishing,passing
+Sedad Subasic,MF,R,21,BIH,9,true,false,false,finishing,passing
+Samir Bekric,MF,R,37,BIH,10,false,false,false,passing,finishing
+Nedim Mekic,MF,L,27,BIH,3,true,false,false,tackling,marking
+Omar Beca,MF,R,20,BIH,7,false,false,false,tackling,heading
+Haris Hajdarevic,MF,L,23,BIH,7,false,false,false,tackling,heading
+Armin Hodzic,MF,R,22,BIH,1,true,false,false,marking,finishing
+Ardonis Mucaj,MF,R,18,BIH,4,false,false,false,dribbling,playmaking
+Hamza Gasal,FW,R,19,BIH,10,false,false,false,pace,finishing
+Clarismario,FW,R,20,BRA,4,true,false,false,finishing,stamina
+Dzenis Beganovic,FW,R,26,BIH,8,true,false,false,finishing,dribbling
+Benjamin Sehic,FW,L,23,BIH,9,false,false,false,heading,pace

@@ -1,0 +1,39 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Hong Chul,FB,L,35,KOR,5,false,false,false,stamina,pace
+Lee Gi Hyeok,MF,L,26,KOR,6,true,false,false,pace,stamina
+Lee Sang Heon,FW,L,28,KOR,7,false,false,false,pace,stamina
+Kim Dae Won,FW,L,29,KOR,3,false,false,false,pace,stamina
+Seo Min Woo,MF,R,28,KOR,5,true,false,false,stamina,playmaking
+Kim Kang Guk,MF,R,29,KOR,6,true,false,false,stamina,playmaking
+Yun Il Lok,FB,R,34,KOR,7,false,false,false,pace,dribbling
+Kim Dong Hyun,MF,R,29,KOR,3,false,false,false,stamina,passing
+Lee You Hyeon,FB,R,29,KOR,5,true,false,false,stamina,pace
+Goo Bon Cheol,MF,R,26,KOR,6,true,false,false,pace,stamina
+Kim Shin Jin,FW,R,25,KOR,6,false,false,false,stamina,pace
+Kim Dae Woo,MF,R,25,KOR,6,false,false,false,stamina,passing
+Mo Jae Hyeon,FW,R,29,KOR,10,false,false,false,pace,stamina
+Kim Gun Hee,FW,R,31,KOR,4,false,false,false,pace,dribbling
+Choi Byeong Chan,FB,R,30,KOR,5,false,false,false,stamina,pace
+Kim Min Jun,FW,L,26,KOR,7,false,false,false,pace,stamina
+Marko Tuci,CB,L,27,MNE,1,true,false,false,stamina,pace
+Song Jun Seok,FB,L,25,KOR,5,false,false,false,pace,stamina
+Vitor Gabriel,FW,R,26,BRA,6,true,false,false,pace,heading
+Kang Yoon Gu,FW,L,24,KOR,7,false,false,false,pace,dribbling
+Kang Joon Hyuck,FB,R,26,KOR,6,true,false,false,stamina,pace
+Bruno Oliveira,CB,L,30,BRA,7,false,false,false,pace,stamina
+Choi Jeong Hoon,FW,R,27,KOR,1,true,false,false,pace,dribbling
+Lee Ji Ho,FW,L,24,KOR,5,false,false,false,pace,stamina
+Kim Do Hyun,FW,R,22,KOR,6,false,false,false,pace,dribbling
+Shin Min Ha,CB,R,20,KOR,7,false,false,false,heading,pace
+Kim Tae Hwan,MF,R,20,KOR,2,false,false,false,pace,stamina
+Cho Jin Hyuk,FW,R,26,KOR,5,false,false,false,pace,dribbling
+Kim Hyeong Jin,FW,L,19,KOR,6,false,false,false,pace,finishing
+Jin Jun Seo,FW,R,21,KOR,7,false,false,false,pace,heading
+Sung Ki Wan,FW,L,22,KOR,6,false,false,false,pace,finishing
+Park Ho Young,CB,R,27,KOR,7,true,false,false,stamina,tackling
+Park Chung Hyo,GK,R,36,KOR,3,false,false,false,rushing-out,positioning
+Jo Hyun Tae,CB,R,21,KOR,4,false,false,false,stamina,tackling
+Jung Seung Bin,CB,R,20,KOR,5,false,false,false,tackling,marking
+Lee Gwang Yeon,GK,R,26,KOR,6,true,false,false,reflexes,penalty-saving
+Cho Min Kyu,GK,R,23,KOR,8,false,false,false,penalty-saving,reflexes
+Hong Jin Hyuk,GK,R,22,KOR,4,false,false,false,rushing-out,positioning

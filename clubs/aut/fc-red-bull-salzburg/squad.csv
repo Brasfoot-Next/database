@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Maurits Kjaergaard,MF,L,23,DEN,7,false,false,false,pace,stamina
+Mads Bidstrup,MF,L,25,DEN,2,true,false,false,stamina,passing
+Stefan Lainer,FB,R,34,AUT,5,false,false,false,tackling,marking
+Karim Onisiwo,FW,R,34,AUT,6,false,false,false,stamina,pace
+Yorbe Vertessen,FW,L,25,BEL,7,false,false,false,pace,dribbling
+Lucas Gourna Douath,MF,R,23,FRA,3,true,false,false,stamina,pace
+Frans Kratzig,FB,L,23,GER,5,true,false,false,crossing,tackling
+Karim Konate,FW,R,22,CIV,7,true,false,false,pace,dribbling
+Aleksa Terzic,FB,L,27,SRB,2,true,false,false,pace,stamina
+Moussa Yeo,FW,L,22,MLI,5,false,false,false,pace,dribbling
+Clement Bischoff,FW,L,20,DEN,5,false,false,false,pace,stamina
+Soumaila Diabate,MF,R,21,MLI,6,true,false,false,stamina,passing
+Justin Omoregie,MF,L,22,AUT,7,false,false,false,pace,dribbling
+Mamady Diambou,MF,R,23,MLI,3,false,false,false,stamina,passing
+Takumu Kawamura,MF,L,27,JPN,5,false,false,false,passing,playmaking
+Valentin Sulzbacher,MF,R,21,AUT,6,false,false,false,stamina,playmaking
+Jacob Rasmussen,CB,L,29,DEN,7,false,false,false,stamina,heading
+Tim Trummer,FB,R,20,AUT,3,false,false,false,pace,stamina
+Kerim Alajbegovic,MF,R,18,BIH,5,true,false,false,pace,dribbling
+Petar Ratkov,FW,R,23,SRB,6,true,false,false,heading,pace
+Sota Kitano,MF,R,22,JPN,4,false,false,false,dribbling,finishing
+Enrique Aguilar,FW,R,19,SUI,5,false,false,false,pace,dribbling
+Edmund Baidoo,FW,R,20,GHA,6,false,false,false,pace,dribbling
+Anrie Chase,CB,R,22,JPN,1,false,false,false,heading,tackling
+Joane Gadou,CB,L,19,FRA,5,true,false,false,pace,heading
+Jannik Schuster,CB,R,20,AUT,6,true,false,false,heading,tackling
+John Mellberg,CB,L,20,SWE,7,false,false,false,stamina,pace
+Alexander Schlager,GK,R,30,AUT,1,true,false,false,reflexes,positioning
+Christian Zawieschitzky,GK,R,19,AUT,5,false,false,false,reflexes,positioning
+Salko Hamzic,GK,L,19,AUT,6,false,false,false,reflexes,rushing-out

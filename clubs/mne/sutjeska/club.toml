@@ -1,0 +1,13 @@
+name = "Sutjeska"
+country = "MNE"
+level = 14
+reputation = 3
+colors = ["#003366", "#ffffff"]
+
+[stadium]
+name = "Kraj Bistrice"
+capacity = 6214
+
+[coach]
+name = "Milija Savovic"
+country = "MNE"

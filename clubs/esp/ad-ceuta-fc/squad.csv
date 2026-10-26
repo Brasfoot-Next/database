@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Anuar,FW,L,31,MAR,2,true,false,false,stamina,pace
+Cristian,MF,R,30,ESP,6,true,false,false,pace,playmaking
+Rubén Díez,FW,R,33,ESP,7,false,false,false,pace,dribbling
+Yann Bodiger,MF,L,31,FRA,1,false,false,false,stamina,playmaking
+José Matos,FB,L,31,ESP,5,false,false,false,stamina,pace
+Aisar,FB,R,25,MAR,6,true,false,false,pace,stamina
+Kuki Zalazar,MF,L,28,ESP,7,false,false,false,dribbling,playmaking
+Aboubacar Bassinga,MF,L,21,CIV,1,true,false,false,pace,dribbling
+Youness Lachhab,MF,L,27,MAR,5,true,false,false,heading,passing
+Salvi Sánchez,FW,R,35,ESP,6,false,false,false,pace,crossing
+Kialy Abdoul Kone,FW,L,29,CIV,3,false,false,false,pace,dribbling
+Manu Sánchez,FB,R,30,ESP,5,true,false,false,passing,tackling
+Manu Vallejo,FW,R,29,ESP,6,false,false,false,playmaking,finishing
+Samuel Obeng,FW,L,29,GHA,7,false,false,false,pace,stamina
+Juanto Ortuño,FW,R,34,ESP,3,false,false,false,finishing,stamina
+Josema,MF,L,23,ESP,5,true,false,false,pace,passing
+Marcos Fernández,FW,R,23,ESP,6,false,false,false,pace,finishing
+Andy Escudero,FW,R,27,ESP,7,false,false,false,pace,stamina
+Konrad De La Fuente,FW,L,25,USA,4,true,false,false,pace,dribbling
+Diego González,CB,L,27,ESP,5,true,false,false,heading,marking
+Redru,FB,L,29,ESP,4,false,false,false,stamina,pace
+Yago Cantero,CB,L,26,ESP,5,false,false,false,stamina,pace
+Almenara,FB,R,29,ESP,6,false,false,false,crossing,tackling
+Carlos Hernández,CB,R,35,ESP,7,false,false,false,heading,stamina
+Albert Caparrós,CB,R,27,ESP,1,true,false,false,tackling,marking
+Pedro López,GK,R,31,ESP,5,true,false,false,positioning,rushing-out
+Guille Vallejo,GK,R,31,ESP,6,false,false,false,penalty-saving,rushing-out

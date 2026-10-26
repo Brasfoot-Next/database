@@ -1,0 +1,13 @@
+name = "Trabzonspor"
+country = "TUR"
+level = 17
+reputation = 3
+colors = ["#500020", "#70B0E0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Felipe Baniya"
+country = "BRA"

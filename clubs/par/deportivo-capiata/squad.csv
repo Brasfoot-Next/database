@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Aldo Bareiro,GK,R,30,PAR,7,true,false,false,penalty-saving,reflexes
+Máximo Núñez,GK,L,20,PAR,2,false,false,false,positioning,penalty-saving
+Alejandro Ibarra,GK,L,22,PAR,5,false,false,false,reflexes,positioning
+Cayetano Fernández,GK,R,21,PAR,6,false,false,false,rushing-out,reflexes
+Ángel Lezcano,CB,L,23,PAR,7,false,false,false,heading,tackling
+Guido Verdún,CB,R,30,PAR,3,true,false,false,tackling,marking
+Juan Ojeda,CB,R,28,PAR,5,true,false,false,marking,stamina
+Joaquín Paredes,CB,R,23,PAR,6,false,false,false,stamina,pace
+Alex Aguilar,FB,L,25,PAR,7,true,false,false,tackling,pace
+Marcelo Benítez,FB,R,26,PAR,3,true,false,false,pace,crossing
+Damián Cabrera,FB,L,22,ARG,7,false,false,false,tackling,pace
+Cristian García,FB,L,24,PAR,3,false,false,false,stamina,crossing
+Juaquin Ojeda,FB,R,20,PAR,5,false,false,false,crossing,passing
+Jhonatan Benítez,MF,L,19,PAR,6,false,false,false,pace,dribbling
+Justo Figueredo,MF,R,31,PAR,7,true,false,false,passing,tackling
+Juan José Garay,MF,R,23,PAR,7,true,false,false,passing,playmaking
+Alex Candia,MF,R,20,PAR,3,false,false,false,marking,passing
+Alder Zarate,MF,L,22,PAR,5,false,false,false,passing,finishing
+Lucio De Pascale,MF,R,22,ARG,6,false,false,false,tackling,passing
+Francisco Di Franco,MF,R,31,ARG,7,true,false,false,playmaking,dribbling
+Henry Ojeda,MF,R,24,PAR,5,true,false,false,finishing,passing
+José Escurra,FW,L,25,ARG,6,true,false,false,finishing,pace
+Walter Gaona,FW,R,24,PAR,7,false,false,false,finishing,stamina
+Santiago Santacruz,FW,R,29,PAR,3,true,false,false,playmaking,finishing
+Antonio Bareiro,FW,R,37,PAR,5,false,false,false,heading,stamina
+Alejandro Franco,FW,R,22,PAR,6,false,false,false,finishing,pace
+Eduardo Estigarribia,FW,L,23,PAR,2,false,false,false,heading,stamina
+Gustavo Peralta,FW,R,25,PAR,5,false,false,false,finishing,dribbling
+Samuel Portillo,FW,R,32,PAR,6,false,false,false,dribbling,finishing
+Jorge Benítez,FW,R,33,PAR,7,false,false,false,finishing,heading
+Orlando Bogado,FW,R,25,PAR,5,false,false,false,finishing,pace
+Alexis Acuña,FW,R,22,PAR,5,false,false,false,pace,dribbling

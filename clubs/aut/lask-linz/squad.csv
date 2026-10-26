@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sascha Horvath,MF,R,30,AUT,7,true,false,false,stamina,dribbling
+Valon Berisha,FW,L,33,AUT,2,false,false,false,playmaking,stamina
+Lukas Kacavenda,MF,R,23,CRO,5,true,false,false,stamina,dribbling
+Ismaila Coulibaly,MF,L,25,MLI,6,true,false,false,stamina,pace
+Bryan Teixeira,FW,R,26,CPV,7,false,false,false,pace,stamina
+Moses Usor,FW,L,24,NGA,3,true,false,false,pace,stamina
+Florian Flecker,FW,R,30,AUT,5,false,false,false,stamina,pace
+Andres Andrade,CB,L,27,PAN,6,false,false,false,stamina,pace
+Adetunji Rasaq Adeshina,MF,R,21,NGA,7,false,false,false,stamina,tackling
+Maximilian Entrup,FW,R,29,AUT,3,false,false,false,finishing,stamina
+George Bello,FB,L,24,USA,2,true,false,false,pace,stamina
+Sasa Kalajdzic,FW,R,29,AUT,5,true,false,false,heading,finishing
+Christoph Lang,FW,R,24,AUT,6,false,false,false,pace,dribbling
+Art Smakaj,MF,R,23,AUT,1,false,false,false,stamina,pace
+Kasper Jorgensen,FB,R,26,DEN,5,false,false,false,stamina,pace
+Mohamed Sanogo,MF,R,22,MLI,5,false,false,false,stamina,pace
+Krystof Danek,MF,L,23,CZE,7,true,false,false,dribbling,playmaking
+Lenny Pintor,FW,L,26,FRA,1,false,false,false,pace,dribbling
+Melayro Bogarde,FB,R,24,NED,5,true,false,false,stamina,tackling
+Modou Keba Cisse,CB,L,21,SEN,6,true,false,false,tackling,pace
+Alemão,CB,R,23,BRA,9,true,false,false,tackling,stamina
+Emmanuel Michael,FB,L,20,NGA,4,false,false,false,pace,stamina
+Queyrell Tchicamboud,FW,L,20,FRA,5,false,false,false,pace,dribbling
+Samuel Adeniran,FW,L,27,USA,6,false,false,false,heading,finishing
+Armin Haider,FW,L,21,AUT,4,false,false,false,pace,passing
+Kevin Lebersorger,FB,R,21,AUT,5,false,false,false,stamina,pace
+Lukas Jungwirth,GK,R,22,AUT,6,true,false,false,reflexes,penalty-saving
+Tobias Schutzenauer,GK,R,29,AUT,7,false,false,false,positioning,penalty-saving

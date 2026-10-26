@@ -1,0 +1,13 @@
+name = "HB Tórshavn"
+country = "FRO"
+level = 13
+reputation = 2
+colors = ["#cc0000", "#ffffff"]
+
+[stadium]
+name = "Gundadalur"
+capacity = 5000
+
+[coach]
+name = "Dalibor Savic"
+country = "SWE"

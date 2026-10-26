@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ronaldo,GK,L,29,BRA,9,true,false,false,rushing-out,positioning
+Guido Herrera,GK,L,34,ARG,5,false,false,false,reflexes,penalty-saving
+Léo Vieira,GK,R,35,BRA,6,false,false,false,penalty-saving,reflexes
+Victor,GK,R,20,BRA,7,false,false,false,positioning,penalty-saving
+Santiago Ramos Mingo,CB,R,24,ARG,10,true,false,false,tackling,pace
+Kanu,CB,R,29,BRA,2,true,false,false,heading,tackling
+David Duarte,CB,R,31,BRA,6,false,false,false,heading,passing
+Marco Moreno,CB,R,25,ESP,6,false,false,false,stamina,tackling
+Luiz Gustavo,CB,R,20,BRA,7,false,false,false,marking,stamina
+Marcos Victor,CB,R,24,BRA,4,false,false,false,heading,stamina
+Fredi Gomes,CB,R,20,BRA,6,false,false,false,marking,stamina
+Luciano Juba,FB,L,26,BRA,7,true,false,false,crossing,passing
+Iago,FB,R,29,BRA,1,true,false,false,stamina,pace
+Zé Guilherme,FB,R,21,BRA,6,false,false,false,passing,crossing
+Román Gómez,FB,R,22,ARG,6,false,false,false,pace,stamina
+Caio Alexandre,MF,R,27,BRA,7,true,false,false,pace,dribbling
+Nicolás Acevedo,MF,R,27,URU,2,true,false,false,dribbling,playmaking
+Erick,MF,R,28,BRA,6,false,false,false,dribbling,pace
+Jean Lucas,MF,R,28,BRA,6,true,false,false,pace,dribbling
+Rodrigo Nestor,MF,R,25,BRA,8,true,false,false,pace,dribbling
+Everton Ribeiro,MF,R,37,BRA,6,false,false,false,tackling,marking
+Roger Gabriel,MF,R,19,BRA,7,false,false,false,tackling,passing
+Erick Pulga,FW,R,25,BRA,9,true,false,false,finishing,pace
+Ruan Pablo,FW,R,17,BRA,5,true,false,false,crossing,pace
+Mateo Sanabria,FW,R,22,ARG,6,false,false,false,finishing,stamina
+Cristian Olivera,FW,R,24,URU,7,false,false,false,finishing,dribbling
+Michel Araújo,FW,R,29,URU,9,false,false,false,finishing,dribbling
+Ademir,FW,L,31,BRA,5,false,false,false,finishing,dribbling
+Alejo Veliz,FW,R,22,ARG,6,false,false,false,heading,pace
+Dell,FW,L,18,BRA,7,false,false,false,finishing,pace
+Willian José,FW,R,34,BRA,6,false,false,false,finishing,pace
+Everaldo,FW,R,35,BRA,6,false,false,false,dribbling,pace

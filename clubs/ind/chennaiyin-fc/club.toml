@@ -1,0 +1,13 @@
+name = "Chennaiyin FC"
+country = "IND"
+level = 3
+reputation = 1
+colors = ["#004090", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Jiteshwor Yadwad"
+country = "BRA"

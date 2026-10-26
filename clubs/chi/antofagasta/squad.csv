@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ignacio González,GK,R,32,CHI,10,true,false,false,reflexes,positioning
+Diego Sánchez,GK,R,35,CHI,9,false,false,false,positioning,rushing-out
+Cisternas,GK,L,19,CHI,1,false,false,false,reflexes,positioning
+Salvador Cordero,FB,L,26,CHI,3,true,false,false,marking,finishing
+Byron Nieto,FB,R,24,CHI,4,true,false,false,finishing,passing
+Juan Cornejo,FB,L,32,CHI,10,false,false,false,marking,finishing
+Camilo Rodríguez,FB,R,27,CHI,2,false,false,false,crossing,marking
+Simón González,CB,L,21,CHI,6,false,false,false,heading,stamina
+Eric Ahumada,CB,R,28,CHI,8,true,false,false,tackling,stamina
+Leandro Vega,CB,L,26,ARG,3,true,false,false,tackling,heading
+Marco Collao,MF,L,24,CHI,6,true,false,false,finishing,passing
+Ariel Uribe,MF,R,23,CHI,5,true,false,false,tackling,marking
+Andrés Robles,MF,L,28,CHI,2,true,false,false,marking,finishing
+Iván Ledezma,MF,L,27,CHI,1,false,false,false,marking,finishing
+Andrés Souper,MF,L,23,CHI,6,false,false,false,passing,finishing
+Federico Bravo,MF,L,28,ARG,3,true,false,false,tackling,marking
+Jason Flores,FW,L,25,CHI,2,false,false,false,pace,finishing
+Gary Tello,FW,R,29,CHI,8,false,false,false,finishing,pace
+Manuel López,FW,R,26,ARG,9,true,false,false,finishing,dribbling
+Brayan Hurtado,FW,L,23,VEN,4,true,false,false,heading,pace

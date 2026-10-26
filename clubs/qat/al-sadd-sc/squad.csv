@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Meshaal Barsham,GK,R,28,QAT,6,true,false,false,reflexes,positioning
+Saad Al-Sheeb,GK,R,36,QAT,7,false,false,false,positioning,reflexes
+Yousef Abdulla Baliadeh,GK,R,23,QAT,9,false,false,false,reflexes,rushing-out
+Tarek Salman,CB,R,28,QAT,5,true,false,false,heading,passing
+Abdessamed Bounacer,CB,R,21,ALG,6,false,false,false,heading,marking
+Ahmed Suhail,CB,R,27,QAT,7,true,false,false,marking,passing
+Boualem Khoukhi,CB,R,36,QAT,9,false,false,false,tackling,stamina
+Pedro Miguel,CB,R,35,QAT,5,false,false,false,stamina,heading
+Abdulrahman Bakri,CB,R,22,QAT,6,false,false,false,heading,passing
+Paulo Otávio,FB,R,31,BRA,7,false,false,false,tackling,pace
+Mohammed Waad,FB,L,26,QAT,5,true,false,false,marking,crossing
+Abdullah Badr Al-Yazidi,FB,L,24,QAT,7,true,false,false,marking,crossing
+Mohamed Camara,MF,R,26,MLI,9,true,false,false,stamina,tackling
+Pau Prim,MF,R,20,ESP,5,false,false,false,dribbling,passing
+Agustín Soria,MF,R,21,URU,6,true,false,false,stamina,tackling
+Mustafa Mashaal,MF,L,25,QAT,7,true,false,false,pace,dribbling
+Anas Abweny,MF,R,21,QAT,9,false,false,false,playmaking,passing
+Bassam Adel Eid,MF,L,19,QAT,5,false,false,false,playmaking,finishing
+Claudinho,MF,R,29,BRA,6,true,false,false,passing,playmaking
+Hassan Al-Haydos,MF,R,35,QAT,7,false,false,false,passing,playmaking
+Akram Afif,FW,R,29,QAT,5,true,false,false,crossing,pace
+Cristo,FW,R,28,ESP,6,false,false,false,heading,stamina
+Javairô Dilrosun,FW,R,28,NED,8,false,false,false,heading,finishing
+Moaz Al-Wadie,FW,R,21,QAT,5,false,false,false,dribbling,playmaking
+Yamaan Jarrar,FW,R,20,QAT,6,false,false,false,heading,stamina
+Giovani,FW,R,22,BRA,7,false,false,false,dribbling,playmaking
+Yusuf Abdurisag,FW,R,26,QAT,8,false,false,false,playmaking,finishing
+Hashim Ali,FW,L,25,QAT,5,false,false,false,finishing,dribbling
+Mahdi Al-Mejaba,FW,R,22,QAT,6,false,false,false,dribbling,pace
+Rafa Mujica,FW,R,27,ESP,7,false,false,false,playmaking,finishing
+Roberto Firmino,FW,R,34,BRA,5,true,false,false,finishing,heading

@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ronald Warisan,GK,R,32,PNG,2,true,false,false,rushing-out,penalty-saving
+Matheson Nasa,GK,L,36,PNG,7,false,false,false,rushing-out,penalty-saving
+Jordan Tobem,GK,L,24,PNG,8,false,false,false,positioning,rushing-out
+Philip Steven,FB,R,27,PNG,4,true,false,false,marking,finishing
+Nigel Malagian,FB,L,26,PNG,10,true,false,false,marking,finishing
+Maybon Pwesei,FB,R,27,PNG,1,false,false,false,finishing,pace
+Felix Komolong,CB,R,25,PNG,5,true,false,false,heading,stamina
+Alwin Komolong,CB,L,27,PNG,7,true,false,false,tackling,stamina
+Valentine Nelson,CB,R,35,PNG,3,false,false,false,tackling,marking
+Eddie Managu,CB,L,23,PNG,3,false,false,false,marking,pace
+Thomas Yagum,MF,L,25,PNG,2,true,false,false,marking,passing
+Emmanuel Simon,MF,R,29,PNG,9,true,false,false,passing,finishing
+Mosie Milubwa,MF,L,38,PNG,8,true,false,false,playmaking,passing
+Troy Gunemba,MF,R,32,PNG,7,true,false,false,playmaking,pace
+Emmanuel Airem,MF,R,27,PNG,10,false,false,false,marking,finishing
+Stahl Gubag,MF,R,23,PNG,7,false,false,false,passing,finishing
+Gustine Vergara,FW,R,21,ECU,1,true,false,false,pace,finishing
+Nigel Dabinyaba,FW,R,29,PNG,2,true,false,false,finishing,pace
+Joshua Oscar,FW,R,31,PNG,10,false,false,false,pace,finishing
+Albert Morgan,FW,L,26,PNG,2,false,false,false,dribbling,finishing

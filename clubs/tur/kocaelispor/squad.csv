@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ahmet Oguz,FB,R,33,TUR,3,false,false,false,stamina,pace
+Bruno Petkovic,FW,R,31,CRO,5,true,false,false,playmaking,passing
+Massadio Haidara,FB,L,33,MLI,6,true,false,false,stamina,pace
+Karol Linetty,MF,R,31,POL,7,true,false,false,passing,playmaking
+Habib Keita,MF,L,24,MLI,4,true,false,false,stamina,dribbling
+Darko Churlinov,FW,L,26,TUR,5,true,false,false,pace,dribbling
+Tayfur Bingol,MF,R,33,TUR,7,false,false,false,pace,stamina
+Tarkan Serbest,CB,R,32,TUR,3,false,false,false,stamina,passing
+Serdar Dursun,FW,R,34,TUR,5,false,false,false,heading,stamina
+Joseph Nonge,MF,L,21,BEL,6,true,false,false,playmaking,dribbling
+Dan Agyei,FW,L,29,ENG,6,false,false,false,pace,stamina
+Can Keles,FW,L,25,TUR,7,false,false,false,pace,dribbling
+Anfernee Dijksteel,FB,R,29,SUR,1,true,false,false,tackling,pace
+Show,MF,R,27,ANG,5,true,false,false,tackling,passing
+Rigoberto Rivas,FW,R,28,TUR,6,false,false,false,pace,dribbling
+Mateusz Wieteska,CB,R,29,POL,7,false,false,false,heading,tackling
+Hrvoje Smolcic,CB,L,26,CRO,2,true,false,false,tackling,heading
+Samet Yalcin,MF,R,32,TUR,5,false,false,false,stamina,pace
+Muharrem Cinan,FB,L,28,TUR,6,false,false,false,pace,stamina
+Oleksandr Syrota,CB,L,26,UKR,7,false,false,false,stamina,passing
+Botond Balogh,CB,R,24,HUN,5,true,false,false,tackling,heading
+Furkan Gedik,FW,L,24,TUR,6,false,false,false,pace,dribbling
+Ahmet Sagat,FW,R,30,TUR,8,false,false,false,pace,heading
+Gokhan Degirmenci,GK,R,37,TUR,4,false,false,false,positioning,rushing-out
+Aleksandar Jovanovic,GK,R,33,SRB,5,false,false,false,positioning,penalty-saving
+Serhat Oztasdelen,GK,R,21,TUR,6,true,false,false,reflexes,penalty-saving

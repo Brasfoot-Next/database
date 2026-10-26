@@ -1,0 +1,20 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Josip Cundekovic,GK,R,19,CRO,4,false,false,false,penalty-saving,reflexes
+Dario Maricevic,GK,R,23,CRO,6,true,false,false,reflexes,positioning
+Tin Ljubanovic,CB,R,25,CRO,7,true,false,false,tackling,marking
+Melvin Rémy,CB,R,22,FRA,1,false,false,false,tackling,pace
+Amet Korça,CB,L,25,USA,5,true,false,false,heading,marking
+Ivan Dominic,FB,L,23,CRO,6,true,false,false,marking,crossing
+Nikola Jakovljevic,FB,L,22,CRO,7,false,false,false,crossing,passing
+Josip Palic,FB,L,25,CRO,1,true,false,false,marking,crossing
+Martin Vrdoljak,MF,R,24,CRO,5,true,false,false,playmaking,dribbling
+Matija Tunjic,MF,R,20,CRO,6,false,false,false,tackling,marking
+Luka Pasaricek,MF,R,28,CRO,7,true,false,false,tackling,marking
+Marko Novak-Stanko,MF,R,23,CRO,2,true,false,false,passing,finishing
+Stipe Milicevic,MF,L,19,CRO,5,false,false,false,marking,passing
+Bruno Putica,MF,L,19,CRO,6,false,false,false,marking,passing
+Mirko Sugic,MF,R,32,CRO,1,false,false,false,playmaking,dribbling
+Shettima Ibrahim,MF,R,25,NGA,5,true,false,false,playmaking,finishing
+Borna Pernar,FW,R,20,CRO,6,false,false,false,dribbling,pace
+Filston Mawana,FW,L,26,SWE,7,true,false,false,playmaking,finishing
+Ante Matic,FW,R,22,CRO,2,true,false,false,finishing,heading

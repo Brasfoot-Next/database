@@ -1,0 +1,13 @@
+name = "Konyaspor"
+country = "TUR"
+level = 13
+reputation = 3
+colors = ["#F0F0F0", "#008050"]
+
+[stadium]
+name = "Medaş Konya Büyükşehir Stadyumu"
+capacity = 41600
+
+[coach]
+name = "Adil Bazoer"
+country = "BRA"

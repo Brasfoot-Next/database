@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Joaquín Silva,GK,R,28,URU,3,true,false,false,penalty-saving,reflexes
+Kevin Morgan,GK,R,22,URU,5,false,false,false,reflexes,penalty-saving
+Máximo Lorenzi,CB,R,25,URU,5,true,false,false,marking,tackling
+Juan Pablo Hernández,CB,R,18,URU,6,false,false,false,tackling,marking
+Haibrany Ruíz Díaz,CB,R,33,URU,7,false,false,false,marking,heading
+Pablo Adorno,CB,R,30,PAR,4,true,false,false,marking,tackling
+Matías Velázquez,CB,R,34,URU,5,false,false,false,marking,tackling
+Modibo Traoré,CB,L,22,URU,6,false,false,false,marking,heading
+Santiago Otegui,FB,L,23,URU,8,true,false,false,passing,pace
+Ezequías Redín,FB,L,31,URU,4,true,false,false,tackling,stamina
+Diego Ruiz Díaz,FB,L,22,URU,7,false,false,false,stamina,pace
+Carlos Segundo Pachame,MF,R,25,ARG,4,true,false,false,playmaking,dribbling
+Facundo Píriz,MF,R,36,URU,5,false,false,false,dribbling,passing
+Miqueas Redín,MF,R,23,URU,6,true,false,false,passing,tackling
+Diego Villalba,MF,R,27,URU,8,true,false,false,passing,playmaking
+Lucas Morgan,MF,R,20,URU,4,false,false,false,stamina,tackling
+Valentín Amoroso,MF,L,25,URU,5,true,false,false,pace,crossing
+Yacouba Meité,MF,L,21,URU,6,false,false,false,pace,crossing
+Pablo García,FW,R,27,URU,8,true,false,false,dribbling,pace
+Ignacio Pereira,FW,R,28,URU,4,false,false,false,heading,stamina
+Lucas Carrizo,FW,R,23,URU,7,true,false,false,heading,stamina
+Hebert Vergara,FW,L,24,URU,3,false,false,false,dribbling,finishing
+Nicolás González,FW,R,29,URU,5,false,false,false,heading,finishing
+Michael López,FW,R,28,ARG,6,false,false,false,finishing,heading
+Nahuel Bargas,FW,R,20,URU,7,false,false,false,dribbling,playmaking

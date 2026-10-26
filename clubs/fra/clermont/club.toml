@@ -1,0 +1,13 @@
+name = "Clermont"
+country = "FRA"
+level = 10
+reputation = 2
+colors = ["#C00030", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Axel Ndiaye"
+country = "BRA"

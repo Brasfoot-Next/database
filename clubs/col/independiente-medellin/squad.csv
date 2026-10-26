@@ -1,0 +1,42 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+José Luis Chunga,GK,L,32,COL,5,false,false,false,reflexes,rushing-out
+Washington Aguerre,GK,R,30,URU,6,false,false,false,rushing-out,positioning
+Eder Chaux,GK,R,32,COL,7,true,false,false,positioning,rushing-out
+Yimy Gómez,GK,R,24,COL,1,false,false,false,rushing-out,reflexes
+Iker Blanco,GK,R,17,COL,5,false,false,false,reflexes,positioning
+Simón Romero,GK,R,17,COL,6,false,false,false,reflexes,penalty-saving
+Kevin Mantilla,CB,R,20,COL,7,true,false,false,tackling,pace
+José Ortiz,CB,R,25,COL,2,true,false,false,heading,marking
+Joaquín Varela,CB,R,25,URU,5,false,false,false,tackling,pace
+Jhon Alex Palacios,CB,R,24,COL,6,false,false,false,tackling,pace
+Fáiner Torijano,CB,L,35,COL,4,false,false,false,marking,passing
+Luis Escorcia,CB,R,19,COL,5,false,false,false,passing,marking
+Yeferson Rodallega,FB,R,23,COL,6,false,false,false,stamina,pace
+Daniel Londoño,FB,L,28,COL,7,false,false,false,pace,crossing
+Jhan Mena,FB,R,17,COL,1,false,false,false,crossing,pace
+Jherson Mosquera,FB,R,26,COL,5,false,false,false,stamina,marking
+Esneyder Mena,FB,R,26,COL,6,true,false,false,tackling,pace
+Leyser Chaverra,FB,L,26,COL,7,true,false,false,stamina,pace
+Jaime Alvarado,MF,L,24,COL,2,false,false,false,finishing,playmaking
+Diego Moreno,MF,L,27,COL,5,false,false,false,pace,dribbling
+Homer Martínez,MF,L,26,COL,3,true,false,false,stamina,tackling
+David Loaiza,MF,R,30,COL,5,false,false,false,stamina,tackling
+Halam Loboa,MF,R,17,COL,5,true,false,false,passing,tackling
+Baldomero Perlaza,MF,R,31,COL,6,false,false,false,playmaking,passing
+Léider Berrío,MF,R,25,COL,7,true,false,false,stamina,passing
+Alexis Serna,MF,L,26,COL,4,false,false,false,marking,passing
+Juan Arizala,MF,L,18,COL,5,true,false,false,pace,crossing
+Jarlan Barrera,MF,L,28,COL,6,false,false,false,stamina,tackling
+Luis Maturana,MF,L,22,COL,8,false,false,false,stamina,tackling
+Marcus Vinicius,FW,R,26,BRA,4,false,false,false,heading,pace
+Francisco Chaverra,FW,R,23,COL,2,true,false,false,heading,stamina
+Davinson Estupiñán,FW,R,17,COL,5,false,false,false,heading,stamina
+Julián Angulo,FW,L,21,COL,6,false,false,false,crossing,pace
+Gerónimo Mancilla,FW,L,20,COL,6,false,false,false,heading,pace
+Mender García,FW,R,25,COL,7,false,false,false,heading,pace
+Francisco Fydriszewski,FW,R,30,ARG,3,false,false,false,finishing,stamina
+Luis Sandoval,FW,R,24,COL,5,true,false,false,dribbling,playmaking
+Brayan León,FW,R,23,COL,6,false,false,false,playmaking,finishing
+Jader Valencia,FW,R,24,COL,7,false,false,false,finishing,heading
+Juan David Bonilla,FW,R,17,COL,3,false,false,false,finishing,heading
+Nezareth Segura,FW,L,34,COL,4,false,false,false,heading,pace

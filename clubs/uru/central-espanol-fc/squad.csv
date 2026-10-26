@@ -1,0 +1,39 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Emiliano Márquez,GK,R,23,URU,7,true,false,false,rushing-out,reflexes
+Rodolfo,GK,R,35,BRA,1,false,false,false,penalty-saving,reflexes
+Samuel Rodríguez,GK,R,20,URU,5,false,false,false,positioning,reflexes
+Matías González,CB,L,23,URU,6,true,false,false,stamina,heading
+Ignacio Rodríguez,CB,R,22,URU,7,true,false,false,heading,passing
+Logan Ponce,CB,R,24,URU,2,false,false,false,marking,passing
+Mateo Urrutia,CB,R,23,URU,5,false,false,false,passing,marking
+Alejandro Villoldo,CB,R,36,URU,6,false,false,false,tackling,marking
+Ernesto Aramburú,CB,R,27,URU,7,false,false,false,stamina,heading
+Juan Herrera,CB,R,21,URU,2,false,false,false,heading,stamina
+César Nunes,FB,R,26,BRA,3,true,false,false,crossing,pace
+Juan Ignacio Dupont,FB,L,21,URU,5,false,false,false,passing,pace
+Lautaro Gandulfo,FB,R,22,URU,6,false,false,false,passing,crossing
+Luciano Fernández,FB,L,24,URU,7,false,false,false,marking,crossing
+Sander Navarro,FB,L,22,COL,3,false,false,false,crossing,pace
+Mateo Cantera,FB,R,25,URU,5,true,false,false,passing,crossing
+Guillermo Gandolfo,MF,R,23,URU,5,false,false,false,finishing,passing
+Marcos Montiel,MF,L,31,URU,7,false,false,false,dribbling,passing
+Isaac Méndez,MF,L,25,URU,9,true,false,false,passing,playmaking
+Juber Pereira,MF,R,23,URU,4,false,false,false,dribbling,playmaking
+Franco Muñoz,MF,R,27,URU,2,true,false,false,finishing,passing
+Sebastián Sánchez,MF,L,24,ARG,5,true,false,false,dribbling,playmaking
+Lucas Wasilewsky,MF,R,23,URU,6,false,false,false,stamina,passing
+Lucas Pino,MF,R,20,URU,7,false,false,false,pace,dribbling
+Facundo Yocco,MF,L,25,URU,3,true,false,false,passing,stamina
+Máximo Alonso,FW,L,24,URU,5,false,false,false,pace,crossing
+Exequiel Mereles,FW,L,20,URU,6,false,false,false,dribbling,finishing
+Mariano Aguilera,FW,R,22,ARG,6,false,false,false,pace,crossing
+Fernando Camarda,FW,R,22,URU,7,false,false,false,dribbling,playmaking
+Rodrigo Muniz,FW,R,24,URU,4,true,false,false,finishing,dribbling
+Facundo Sosa,FW,L,23,URU,9,false,false,false,dribbling,playmaking
+Facundo Milán,FW,R,25,URU,4,true,false,false,crossing,pace
+Santiago Sequeira,FW,R,21,URU,5,false,false,false,finishing,heading
+Facundo Borges,FW,L,23,URU,6,false,false,false,dribbling,pace
+Nicolás Campos,FW,R,21,URU,1,false,false,false,heading,pace
+Ignacio Gonella,FW,R,21,URU,5,false,false,false,finishing,dribbling
+Matías Kusmanis,FW,R,22,URU,5,false,false,false,finishing,heading
+Raúl Tarragona,FW,R,34,URU,6,false,false,false,dribbling,playmaking

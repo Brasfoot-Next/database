@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Declan Rice,MF,L,27,ENG,4,true,true,false,stamina,crossing
+Bukayo Saka,FW,L,25,ENG,6,true,true,false,crossing,dribbling
+Mikel Merino,MF,L,30,ESP,6,false,false,false,heading,passing
+Martin Odegaard,MF,L,27,NOR,1,true,true,false,playmaking,passing
+Viktor Gyokeres,FW,R,28,SWE,6,true,true,false,stamina,pace
+Zubimendi,MF,R,27,ESP,6,true,false,false,stamina,playmaking
+Eberechi Eze,MF,R,28,ENG,7,true,false,false,dribbling,playmaking
+Gabriel Martinelli,FW,L,25,BRA,2,false,false,false,pace,dribbling
+Myles Lewis Skelly,FB,L,19,ENG,6,false,false,false,passing,tackling
+Riccardo Calafiori,FB,L,24,ITA,6,true,false,false,tackling,marking
+Kai Havertz,FW,L,27,GER,4,false,false,false,stamina,dribbling
+Gabriel Jesus,FW,R,29,BRA,6,false,false,false,dribbling,finishing
+Christian Norgaard,MF,R,32,DEN,6,false,false,false,stamina,tackling
+Noni Madueke,FW,L,24,ENG,8,false,false,false,pace,dribbling
+Leandro Trossard,FW,L,31,BEL,4,false,false,false,dribbling,finishing
+Jurrien Timber,FB,R,25,NED,6,true,false,false,tackling,marking
+Piero Hincapie,CB,L,24,ECU,7,false,false,false,pace,tackling
+William Saliba,CB,R,25,FRA,8,true,true,false,tackling,marking
+Ethan Nwaneri,FW,L,19,ENG,5,false,false,false,pace,dribbling
+Benjamin White,FB,R,28,ENG,6,false,false,false,tackling,marking
+Gabriel,CB,L,28,BRA,1,true,true,false,heading,marking
+Mosquera,CB,R,22,ESP,5,false,false,false,tackling,stamina
+David Raya,GK,R,30,ESP,6,true,true,false,reflexes,penalty-saving
+Kepa,GK,R,31,ESP,7,false,false,false,reflexes,rushing-out

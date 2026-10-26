@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Braulio Uraezaña,GK,R,31,BOL,4,true,false,false,reflexes,positioning
+Gustavo Almada,GK,L,32,BOL,5,false,false,false,rushing-out,reflexes
+Julio Vila,CB,R,30,ARG,6,false,false,false,heading,tackling
+Diago Giménez,CB,L,29,ARG,8,true,false,false,marking,tackling
+José María Carrasco,CB,R,28,BOL,4,true,false,false,marking,stamina
+Eduardo Álvarez,CB,R,23,BOL,5,false,false,false,heading,passing
+Marc Enoumba,CB,R,33,BOL,6,false,false,false,tackling,marking
+Saúl Severiche,CB,R,24,BOL,7,false,false,false,tackling,heading
+Eduardo Justiniano,CB,R,21,BOL,2,false,false,false,tackling,stamina
+Gabriel Valverde,CB,L,36,BOL,5,false,false,false,marking,heading
+Denilson Duran,FB,R,23,BOL,4,true,false,false,passing,pace
+Esdras Mendoza,FB,L,22,BOL,5,false,false,false,crossing,pace
+Mauricio Cabral,FB,L,25,BOL,6,true,false,false,passing,crossing
+Juan Gonzales,FB,R,20,BOL,8,false,false,false,marking,crossing
+Juan Mercado,MF,R,29,BOL,4,true,false,false,tackling,passing
+Danny Bejarano,MF,R,32,BOL,5,false,false,false,pace,dribbling
+Moisés Villarroel,MF,R,27,BOL,6,true,false,false,tackling,marking
+Richard Spenhay,MF,R,28,BOL,8,true,false,false,playmaking,finishing
+Roberto Hinojoza,MF,R,27,COL,4,true,false,false,stamina,tackling
+Jeyson Chura,MF,R,24,BOL,5,false,false,false,playmaking,passing
+Auli Oliveros,MF,R,24,COL,6,false,false,false,tackling,marking
+Matías Abisab,MF,R,32,URU,8,false,false,false,dribbling,passing
+Cesar Menacho,FW,L,26,BOL,4,true,false,false,pace,crossing
+Guilmar Centella,FW,L,21,BOL,5,false,false,false,playmaking,finishing
+Miguel Villarroel,FW,R,23,BOL,6,false,false,false,finishing,stamina
+Percy Loza,FW,L,28,BOL,8,false,false,false,crossing,pace
+Bayron Garcés,FW,R,33,COL,4,false,false,false,pace,finishing
+Luis Chávez,FW,L,19,BOL,5,true,false,false,heading,pace

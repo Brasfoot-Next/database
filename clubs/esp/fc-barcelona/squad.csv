@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Marc Andre Ter Stegen,GK,R,34,GER,6,true,true,false,reflexes,positioning
+Wojciech Szczesny,GK,R,36,POL,7,false,false,false,positioning,reflexes
+Joan García,GK,R,25,ESP,9,false,false,false,reflexes,positioning
+Diego Kochen,GK,R,20,USA,5,false,false,false,rushing-out,reflexes
+Jules Kounde,FB,R,27,FRA,6,true,true,false,marking,stamina
+Balde,FB,L,22,ESP,7,true,false,false,pace,crossing
+Gerard Martín,FB,L,24,ESP,10,false,false,false,tackling,pace
+Jofre Torrents,FB,L,19,ESP,5,false,false,false,pace,stamina
+Ronald Araujo,CB,R,27,URU,6,false,false,false,pace,heading
+Pau Cubarsí,CB,L,19,ESP,7,true,false,false,passing,tackling
+Eric García,CB,R,25,ESP,7,true,false,false,tackling,passing
+Andreas Christensen,CB,R,30,DEN,8,false,false,false,tackling,marking
+Frenkie De Jong,MF,R,29,NED,5,true,true,false,passing,playmaking
+Pedri,MF,L,23,ESP,6,true,true,false,playmaking,dribbling
+Dani Olmo,MF,R,28,ESP,7,true,true,false,dribbling,passing
+Gavi,MF,R,22,ESP,8,true,false,false,dribbling,passing
+Fermín,MF,R,23,ESP,5,false,false,false,dribbling,playmaking
+Marc Casadó,MF,R,22,ESP,6,false,false,false,passing,tackling
+Marc Bernal,MF,L,19,ESP,7,false,false,false,passing,tackling
+Guille Fernández,MF,R,18,ESP,9,false,false,false,stamina,pace
+Dro,MF,R,18,ESP,7,false,false,false,pace,playmaking
+Raphinha,FW,L,29,BRA,9,true,true,false,stamina,pace
+Robert Lewandowski,FW,R,38,POL,2,false,true,false,finishing,heading
+Ferran Torres,FW,L,26,ESP,6,false,false,false,dribbling,finishing
+Marcus Rashford,FW,L,28,ENG,6,false,false,false,pace,dribbling
+Lamine Yamal,FW,L,19,ESP,7,true,true,true,dribbling,crossing
+Roony Bardghji,FW,L,20,SWE,4,false,false,false,dribbling,pace
+Toni Fernández,FW,L,18,ESP,6,false,false,false,pace,dribbling

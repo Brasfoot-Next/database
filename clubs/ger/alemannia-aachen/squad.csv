@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Bentley Baxter Bahn,MF,R,34,GER,6,false,false,false,stamina,pace
+Lukas Scepanik,FW,L,32,GER,7,false,false,false,stamina,pace
+Sasa Strujic,FW,L,34,BIH,4,false,false,false,pace,stamina
+Florian Heister,FW,R,29,GER,5,true,false,false,pace,stamina
+Nils Winter,FB,R,32,GER,6,true,false,false,stamina,pace
+Marc Richter,MF,R,24,GER,8,true,false,false,pace,passing
+Lars Gindorf,MF,L,25,GER,4,true,false,false,finishing,passing
+Jeremias Lorch,CB,R,30,GER,5,false,false,false,stamina,heading
+Kwasi Okyere Wriedt,FW,L,32,GHA,6,false,false,false,pace,heading
+Danilo Wiebe,MF,L,32,GER,7,true,false,false,stamina,marking
+Mika Schroers,FW,L,24,GER,7,true,false,false,pace,finishing
+Gianluca Gaudino,MF,R,29,GER,4,true,false,false,passing,playmaking
+Valmir Sulejmani,FW,R,30,GER,5,false,false,false,playmaking,heading
+Pierre Nadjombe,FB,R,23,GER,6,true,false,false,pace,dribbling
+Felix Meyer,CB,L,24,GER,7,false,false,false,pace,stamina
+Fabio Torsiello,FW,R,21,GER,4,false,false,false,pace,dribbling
+Faton Ademi,MF,R,20,GER,5,false,false,false,passing,pace
+Niklas Castelle,FW,R,24,GER,6,false,false,false,pace,dribbling
+Mika Pobric,MF,R,19,GER,8,false,false,false,pace,stamina
+Emmanuel Elekwa,FW,R,21,GER,2,false,false,false,pace,heading
+Lamar Yarbrough,CB,L,30,GER,7,false,false,false,stamina,pace
+Joel da Silva Kiala,CB,R,22,GER,3,false,false,false,pace,heading
+Matti Wagner,FB,L,21,GER,5,false,false,false,pace,tackling
+Mika Hanraths,CB,R,27,GER,6,true,false,false,stamina,tackling
+Marius Wegmann,CB,R,28,GER,7,true,false,false,heading,tackling
+Jan Olschowsky,GK,R,24,GER,3,true,false,false,penalty-saving,positioning
+Tom Hendriks,GK,R,24,NED,5,false,false,false,rushing-out,penalty-saving

@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Marvin Wanitzek,MF,L,33,GER,1,false,false,false,stamina,passing
+Philipp Forster,MF,L,31,GER,5,true,false,false,stamina,passing
+Andreas Muller,MF,R,26,GER,6,true,false,false,stamina,passing
+Dzenis Burnic,MF,L,28,BIH,7,true,false,false,stamina,pace
+Sebastian Jung,FB,R,36,GER,1,false,false,false,crossing,marking
+Fabian Schleusener,FW,R,34,GER,3,false,false,false,pace,stamina
+Marcel Beifus,CB,R,23,GER,5,false,false,false,tackling,marking
+Roko Simic,FW,L,22,CRO,6,false,false,false,playmaking,dribbling
+Lilian Egloff,MF,R,24,GER,7,true,false,false,dribbling,playmaking
+Louey Ben Farhat,FW,R,20,TUN,4,false,false,false,pace,dribbling
+Nicolai Rapp,CB,L,29,GER,7,true,false,false,stamina,tackling
+David Herold,FB,L,23,GER,1,true,false,false,stamina,tackling
+Ali Eren Ersungur,MF,R,20,TUR,5,false,false,false,pace,dribbling
+Meiko Waschenbach,MF,R,22,GER,6,false,false,false,pace,passing
+Leon Opitz,FW,L,21,GER,7,true,false,false,pace,dribbling
+Efe Kaan Sihlaroglu,MF,R,21,GER,2,false,false,false,passing,pace
+Shio Fukuda,FW,R,22,JPN,5,true,false,false,dribbling,finishing
+Rafael Pinto Pedrosa,FB,R,18,GER,6,false,false,false,pace,dribbling
+Christoph Kobald,CB,R,29,AUT,7,true,false,false,tackling,heading
+Marcel Franke,CB,R,33,GER,2,false,false,false,tackling,marking
+Marc Niclas Duhring,FB,L,22,GER,6,true,false,false,pace,stamina
+Mateo Kritzer,MF,R,20,GER,7,false,false,false,pace,passing
+Robert Geller,FW,L,22,SRB,4,false,false,false,pace,dribbling
+Paul Scholl,CB,R,20,GER,5,false,false,false,tackling,heading
+Hans Christian Bernat,GK,R,25,DEN,6,true,false,false,reflexes,penalty-saving
+Robin Himmelmann,GK,R,37,GER,8,false,false,false,reflexes,penalty-saving
+Aki Koch,GK,R,22,GER,4,false,false,false,reflexes,penalty-saving

@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ben Lhassine Kone,MF,L,26,CIV,5,true,false,false,stamina,pace
+Giacomo Calo,MF,R,29,ITA,6,true,false,false,stamina,passing
+Edoardo Masciangelo,FB,L,30,ITA,7,false,false,false,pace,crossing
+Niccolo Corrado,FB,L,26,ITA,3,true,false,false,tackling,passing
+Ilias Koutsoupias,MF,L,25,GRE,5,true,false,false,stamina,passing
+Davide Biraschi,CB,R,32,ITA,6,true,false,false,marking,tackling
+Francesco Gelli,MF,R,29,ITA,7,true,false,false,stamina,passing
+Antonio Raimondo,FW,L,22,ITA,3,true,false,false,finishing,dribbling
+Riccardo Marchizza,FB,L,28,ITA,5,true,false,false,crossing,tackling
+Massimo Zilli,FW,R,24,ITA,6,false,false,false,pace,heading
+Anthony Oyono,FB,R,25,ITA,10,false,false,false,stamina,pace
+Jeremy Oyono,FB,R,25,ITA,6,false,false,false,stamina,pace
+Matteo Cichella,MF,R,20,ITA,7,false,false,false,stamina,passing
+Giorgi Kvernadze,FW,L,23,GEO,4,true,false,false,pace,dribbling
+Kevin Barcella,MF,R,20,ITA,5,false,false,false,pace,passing
+Fares Ghedjemis,FW,L,24,FRA,6,false,false,false,pace,dribbling
+Adrian Raychev,FW,R,20,BUL,7,false,false,false,pace,passing
+Edoardo Vergani,FW,R,25,ITA,4,false,false,false,dribbling,finishing
+Jacopo Gelli,CB,R,25,ITA,5,false,false,false,heading,tackling
+Ilario Monterisi,CB,L,24,ITA,6,false,false,false,heading,tackling
+Gabriele Calvani,CB,R,22,ITA,3,false,false,false,tackling,stamina
+Gabriele Bracaglia,CB,L,23,ITA,5,false,false,false,heading,stamina
+Giorgio Cittadini,CB,R,24,ITA,7,false,false,false,tackling,heading
+Sergio Kalaj,CB,R,26,ALB,3,true,false,false,stamina,tackling
+Alejandro Cichero,FW,R,20,VEN,5,false,false,false,heading,dribbling
+Alen Sherri,GK,R,28,ALB,6,true,false,false,penalty-saving,reflexes
+Matteo Pisseri,GK,R,34,ITA,7,false,false,false,rushing-out,reflexes
+Lorenzo Palmisani,GK,R,22,ITA,3,false,false,false,reflexes,penalty-saving
+Eldin Lolic,GK,R,22,BIH,5,false,false,false,penalty-saving,positioning

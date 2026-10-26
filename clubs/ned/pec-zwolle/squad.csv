@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jamiro Monteiro,MF,L,32,CPV,5,true,false,false,stamina,pace
+Zico Buurmeester,MF,R,24,NED,6,true,false,false,stamina,passing
+Thijs Oosting,MF,L,26,NED,7,true,false,false,stamina,finishing
+Ryan Thomas,MF,R,31,NZL,1,true,false,false,playmaking,stamina
+Odysseus Velanas,FW,L,28,NED,3,false,false,false,stamina,pace
+Braydon Manu,FW,R,29,GHA,5,false,false,false,pace,stamina
+Sherel Floranus,FB,L,28,CUW,6,true,false,false,pace,stamina
+Thomas Buitink,FW,R,26,NED,7,false,false,false,finishing,stamina
+Nick Fichtinger,MF,R,22,NED,3,false,false,false,stamina,tackling
+Koen Kostons,FW,R,26,NED,5,true,false,false,pace,stamina
+Simon Graves,CB,R,27,DEN,6,true,false,false,marking,tackling
+Shola Shoretire,FW,L,22,ENG,7,true,false,false,pace,dribbling
+Dylan Mbayo,FW,L,24,BEL,3,false,false,false,pace,dribbling
+Anselmo Garcia Macnulty,CB,L,23,IRL,5,true,false,false,stamina,heading
+Tristan Gooijer,FB,R,22,NED,6,true,false,false,pace,dribbling
+Samir Lagsir,FW,L,23,NED,7,false,false,false,pace,dribbling
+Givaro Rahajaan,MF,R,18,NED,3,false,false,false,pace,dribbling
+Olivier Aertssen,FB,R,22,NED,5,false,false,false,pace,tackling
+Gabriel Reiziger,MF,R,20,NED,6,false,false,false,pace,dribbling
+Damian Van Der Haar,FB,L,22,NED,7,false,false,false,stamina,tackling
+Kaj De Rooij,FW,L,25,NED,6,false,false,false,pace,crossing
+David Voute,FB,R,20,USA,7,false,false,false,dribbling,stamina
+Jan Faberski,FW,L,20,POL,2,false,false,false,pace,dribbling
+Dylan Ruward,CB,R,21,NED,5,false,false,false,tackling,marking
+Jasper Schendelaar,GK,R,26,NED,6,true,false,false,reflexes,penalty-saving
+Tom De Graaff,GK,L,21,NED,7,false,false,false,reflexes,penalty-saving
+Len Bakker,GK,R,20,NED,2,false,false,false,rushing-out,reflexes
+Duke Verduin,GK,R,22,NED,5,false,false,false,positioning,reflexes
+Nick Dobben,GK,R,18,NED,6,false,false,false,reflexes,rushing-out

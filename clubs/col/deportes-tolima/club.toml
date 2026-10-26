@@ -1,0 +1,13 @@
+name = "Deportes Tolima"
+country = "COL"
+level = 12
+reputation = 2
+colors = ["#C0C000", "#800000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Junior Rovira"
+country = "BRA"

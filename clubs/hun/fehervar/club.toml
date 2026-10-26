@@ -1,0 +1,13 @@
+name = "Fehérvár"
+country = "HUN"
+level = 15
+reputation = 2
+colors = ["#cc0000", "#ffffff"]
+
+[stadium]
+name = "Aréna Sóstó"
+capacity = 14201
+
+[coach]
+name = "Michael Boris"
+country = "GER"

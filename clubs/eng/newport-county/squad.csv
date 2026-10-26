@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Matt Smith,MF,R,26,WAL,8,true,false,false,stamina,pace
+Anthony Glennon,FB,L,26,ENG,5,true,false,false,stamina,pace
+Liam Shephard,FB,R,31,WAL,6,false,false,false,pace,crossing
+Sammy Braybrooke,MF,R,22,ENG,7,true,false,false,passing,playmaking
+Cameron Antwi,MF,R,24,ENG,3,false,false,false,stamina,pace
+Bobby Kamwa,FW,L,26,CMR,5,true,false,false,pace,stamina
+Nathan Opoku,FW,R,25,GHA,6,false,false,false,pace,finishing
+Tom Davies,FB,L,22,WAL,7,false,false,false,pace,crossing
+Kai Whitmore,MF,R,25,WAL,4,true,false,false,stamina,pace
+Ged Garner,FW,L,27,ENG,5,true,false,false,pace,stamina
+Keenan Patten,MF,R,25,WAL,3,true,false,false,pace,stamina
+Courtney Baker Richardson,FW,R,30,ENG,5,false,false,false,pace,stamina
+Joe Thomas,FB,R,24,WAL,6,false,false,false,pace,stamina
+James Clarke,CB,R,36,ENG,7,false,false,false,stamina,heading
+Habeeb Ogunneye,FB,R,20,ENG,3,true,false,false,pace,dribbling
+Michael Spellman,FW,L,23,ENG,5,false,false,false,pace,dribbling
+Michael Reindorf,FW,R,21,ENG,6,false,false,false,pace,playmaking
+Corey Evans,MF,R,19,ENG,7,false,false,false,pace,stamina
+Ben Lloyd,MF,L,21,WAL,4,false,false,false,pace,dribbling
+Ciaran Brennan,CB,R,26,IRL,5,true,false,false,stamina,pace
+Matt Baker,CB,L,23,WAL,4,false,false,false,stamina,tackling
+Jaden Warner,CB,R,23,ENG,5,false,false,false,pace,tackling
+Lee Jenkins,CB,R,25,WAL,6,true,false,false,pace,stamina
+Cameron Evans,CB,R,25,WAL,7,false,false,false,stamina,pace
+Moses Alexander Walker,FW,R,19,ENG,1,false,false,false,pace,stamina
+Nik Tzanev,GK,R,29,NZL,5,true,false,false,reflexes,penalty-saving
+Jordan Wright,GK,R,27,ENG,6,false,false,false,reflexes,penalty-saving

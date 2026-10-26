@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ivan Kovacic,GK,R,19,CRO,6,false,false,false,positioning,reflexes
+Josip Dizdar,GK,R,24,CRO,7,true,false,false,penalty-saving,reflexes
+Kresimir Vrbanac,CB,R,21,CRO,2,true,false,false,stamina,heading
+Zarko Dominik Jakovljevic,CB,R,20,CRO,5,false,false,false,tackling,stamina
+Chigozie Ihejiofor,CB,R,19,NGA,6,false,false,false,tackling,pace
+Luka Cubel,CB,L,27,CRO,7,true,false,false,tackling,pace
+Guilherme,CB,R,22,BRA,3,false,false,false,heading,passing
+Rino Grubisic,CB,R,21,CRO,5,false,false,false,marking,tackling
+Hussaini Mubarak,FB,R,18,NGA,6,true,false,false,marking,crossing
+Adam Benic,FB,L,26,CRO,6,true,false,false,tackling,stamina
+Fran Svraka,MF,L,20,CRO,6,true,false,false,pace,dribbling
+Domagoj Stranput,MF,R,25,CRO,8,true,false,false,passing,finishing
+Mladen Blazevic,MF,L,21,CRO,4,true,false,false,dribbling,playmaking
+Ivano Matas,MF,R,19,CRO,5,false,false,false,passing,stamina
+Aleksa Raca,MF,R,20,CRO,6,false,false,false,passing,tackling
+Fran Pecek,MF,R,19,CRO,1,false,false,false,dribbling,passing
+Filip Hrs,MF,R,22,CRO,4,true,false,false,tackling,passing
+Róbert Rétyi,FW,R,25,HUN,5,true,false,false,finishing,pace
+Petar Korov,FW,R,21,CRO,6,false,false,false,pace,crossing
+Dominik Resetar,FW,R,26,CRO,7,true,false,false,dribbling,playmaking
+Ivan Lozic,FW,R,25,CRO,6,false,false,false,pace,dribbling
+Samid Akanni,FW,L,22,USA,7,false,false,false,finishing,stamina

@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tsubasa Shibuya,GK,R,31,JPN,6,true,false,false,rushing-out,positioning
+Ko Hasegawa,GK,L,31,JPN,8,false,false,false,reflexes,rushing-out
+Taisei Kanbayashi,GK,R,20,JPN,4,false,false,false,positioning,penalty-saving
+Ryusei Sato,GK,L,22,JPN,5,false,false,false,positioning,rushing-out
+Keisuke Nishimura,CB,R,28,JPN,6,false,false,false,heading,stamina
+Hayate Shirowa,CB,R,27,JPN,8,true,false,false,tackling,stamina
+Dong-hee Lee,CB,R,26,JPN,4,false,false,false,tackling,stamina
+Kiriya Sakamoto,CB,R,23,JPN,5,false,false,false,heading,passing
+Yuta Kumamoto,CB,R,30,JPN,6,false,false,false,marking,tackling
+Riku Morioka,CB,R,27,JPN,10,true,false,false,heading,stamina
+Hayate Sugii,FB,L,26,JPN,5,true,false,false,crossing,pace
+Kazuma Okamoto,FB,R,22,JPN,6,false,false,false,tackling,pace
+Ayumu Kawai,FB,L,26,JPN,7,true,false,false,stamina,crossing
+Takumi Yamada,FB,L,36,JPN,3,false,false,false,tackling,pace
+Ryotaro Nakamura,MF,R,28,JPN,5,true,false,false,finishing,passing
+Hiroya Nodake,MF,R,25,JPN,7,false,false,false,dribbling,passing
+Yuga Subedi Takenoya,MF,R,18,JPN,2,false,false,false,passing,finishing
+Shintaro Kokubu,MF,R,31,JPN,5,false,false,false,passing,finishing
+Tsubasa Terayama,MF,R,26,JPN,6,true,false,false,passing,stamina
+Thalisson,MF,R,27,BRA,7,true,false,false,tackling,marking
+Rui Yokoyama,MF,R,26,JPN,4,true,false,false,pace,crossing
+Keigo Enomoto,MF,L,26,JPN,5,false,false,false,pace,crossing
+Shido Tanaka,MF,L,23,JPN,7,false,false,false,pace,crossing
+Rennosuke Kawana,MF,L,24,JPN,1,false,false,false,pace,crossing
+Shoma Doi,MF,R,34,JPN,5,false,false,false,dribbling,passing
+Kaiyo Yanagimachi,MF,R,24,JPN,6,false,false,false,dribbling,playmaking
+Ryoma Kida,FW,R,28,JPN,6,true,false,false,finishing,pace
+Kaina Yoshio,FW,L,28,JPN,7,true,false,false,heading,pace
+Junya Takahashi,FW,L,29,JPN,4,false,false,false,finishing,dribbling
+Akira Silvano Disaro,FW,R,30,JPN,5,false,false,false,crossing,pace
+Shunmei Horikane,FW,R,23,JPN,7,false,false,false,finishing,stamina
+Kaito Mori,FW,R,26,JPN,3,false,false,false,pace,crossing

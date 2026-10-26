@@ -1,0 +1,13 @@
+name = "Damac FC"
+country = "KSA"
+level = 11
+reputation = 2
+colors = ["#A00000", "#FFFFFF"]
+
+[stadium]
+name = "Damac Club Stadium"
+capacity = 5000
+
+[coach]
+name = "Noor Ceesay"
+country = "BRA"

@@ -1,0 +1,13 @@
+name = "Molde FK"
+country = "NOR"
+level = 13
+reputation = 3
+colors = ["#1060C0", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Sean Gulbrandsen"
+country = "BRA"

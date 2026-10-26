@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jovanovic,GK,R,29,SRB,9,true,false,false,positioning,penalty-saving
+Dimitris Dimitriou,GK,L,23,CYP,1,false,false,false,positioning,penalty-saving
+Carlos Peixoto,GK,R,22,ANG,7,false,false,false,reflexes,positioning
+Amine Khammas,FB,L,23,MAR,2,true,false,false,finishing,pace
+Haitam Aleesami,FB,R,30,NOR,5,true,false,false,marking,passing
+Giorgos Malekkidis,FB,L,25,CYP,3,false,false,false,crossing,marking
+Euclides Cabral,FB,R,23,POR,4,false,false,false,marking,passing
+Mathieu Peybernes,CB,R,31,FRA,6,true,false,false,tackling,stamina
+Vukasin Jovanovic,CB,L,26,SRB,1,true,false,false,heading,stamina
+Valentin Roberge,CB,R,35,FRA,8,false,false,false,tackling,heading
+Artymatas,CB,L,23,CYP,3,false,false,false,heading,stamina
+Robinson,MF,L,17,ENG,8,true,false,false,finishing,passing
+Hervin Ongenda,MF,R,27,FRA,1,true,false,false,playmaking,pace
+Ilian Iliev,MF,R,22,BUL,4,true,false,false,passing,finishing
+Bassel Jradi,MF,R,29,LBN,5,true,false,false,finishing,passing
+Kyriakou,MF,R,27,CYP,9,false,false,false,marking,finishing
+Oleksandr Noyok,MF,L,30,UKR,8,false,false,false,marking,finishing
+El-Hadji Ba,MF,R,29,MTN,9,false,false,false,tackling,pace
+Danilo Spoljaric,MF,L,23,CYP,10,false,false,false,tackling,pace
+Ioannis Pittas,FW,R,26,CYP,10,true,false,false,finishing,pace
+Vá,FW,R,23,ANG,10,true,false,false,pace,finishing
+Petros Psichas,FW,R,23,CYP,10,false,false,false,dribbling,finishing
+Revaz Injgia,FW,L,21,GEO,1,false,false,false,finishing,pace

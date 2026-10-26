@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+John Bjorkengren,MF,L,27,SWE,5,true,false,false,stamina,pace
+Mathias Greve,FW,L,31,DEN,6,true,false,false,stamina,playmaking
+Wessel Dammers,CB,L,31,NED,7,true,false,false,stamina,heading
+Andre Romer,MF,R,33,DEN,4,false,false,false,stamina,passing
+Nikolas Dyhr,FB,L,25,DEN,5,true,false,false,pace,stamina
+Elias Andersson,FB,L,30,SWE,6,false,false,false,crossing,playmaking
+Frederik Lauenborg,MF,L,29,DEN,8,true,false,false,passing,playmaking
+Mohamed Toure,FW,R,22,AUS,4,false,false,false,pace,finishing
+Oliver Olsen,FB,R,26,DEN,5,true,false,false,stamina,pace
+Stephen Odey,FW,R,28,NGA,6,false,false,false,pace,stamina
+Elies Mahmoud,FW,L,25,FRA,5,false,false,false,pace,stamina
+Norman Campbell,MF,R,26,JAM,6,true,false,false,pace,dribbling
+Mike Themsen,FW,L,20,DEN,7,true,false,false,dribbling,pace
+Florian Thomas Danho,FW,R,26,FRA,1,false,false,false,pace,heading
+Laurits Raun Pedersen,MF,R,20,DEN,3,false,false,false,pace,passing
+Musa Toure,FW,R,20,AUS,5,false,false,false,pace,dribbling
+Max Albaek,MF,R,20,DEN,6,false,false,false,pace,stamina
+Sabil Hansen,FB,R,20,DEN,7,false,false,false,tackling,marking
+Daniel Hoegh,CB,R,35,DEN,3,false,false,false,stamina,tackling
+Lucas Lissens,CB,R,25,BEL,5,true,false,false,tackling,pace
+Oliver Jones,CB,L,22,AUS,7,false,false,false,pace,stamina
+Amin Al Hamawi,FW,R,22,IRQ,1,false,false,false,pace,finishing
+Ousseynou Fall Seck,MF,L,19,SEN,5,true,false,false,pace,passing
+Paul Izzo,GK,R,31,AUS,6,true,false,false,reflexes,penalty-saving
+Jannich Storch,GK,R,33,DEN,7,false,false,false,reflexes,penalty-saving
+Mert Demirci,GK,L,22,NED,7,false,false,false,reflexes,penalty-saving

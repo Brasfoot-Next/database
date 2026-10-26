@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Felix Horn Myhre,MF,L,27,NOR,7,true,false,false,stamina,passing
+Emil Kornvig,MF,R,26,DEN,1,true,false,false,stamina,playmaking
+Sakarias Opsahl,MF,R,27,NOR,5,true,false,false,stamina,passing
+Vetle Dragsnes,FB,L,32,NOR,6,false,false,false,stamina,pace
+Jacob Sorensen,MF,R,28,DEN,7,false,false,false,stamina,passing
+Niklas Castro,FW,L,30,CHI,2,true,false,false,stamina,pace
+Joachim Soltvedt,FB,L,30,NOR,5,true,false,false,stamina,pace
+Bard Finne,FW,R,31,NOR,6,false,false,false,stamina,pace
+Mads Hansen,FW,L,24,DEN,7,false,false,false,pace,dribbling
+Niklas Jensen Wassberg,MF,L,22,NOR,2,true,false,false,stamina,pace
+Japhet Sery Larsen,CB,L,26,DEN,5,true,false,false,pace,stamina
+Thore Pedersen,FB,R,30,NOR,6,false,false,false,stamina,pace
+Saevar Atli Magnusson,FW,R,26,ISL,7,false,false,false,pace,stamina
+Ulrik Mathisen,FW,R,27,NOR,5,false,false,false,pace,dribbling
+Mads Sande,FW,R,28,NOR,6,false,false,false,stamina,pace
+Noah Jean Holm,FW,R,25,NOR,7,false,false,false,pace,dribbling
+Eggert Aron Gudhmundsson,MF,R,22,ISL,1,false,false,false,stamina,pace
+Eivind Helland,CB,R,21,NOR,5,true,false,false,pace,crossing
+Markus Haaland,FW,L,21,NOR,6,true,false,false,stamina,pace
+Denzel De Roeve,FB,R,22,BEL,7,true,false,false,pace,tackling
+Lars Remmem,MF,R,20,NOR,4,false,false,false,stamina,pace
+Jesper Eikrem,MF,L,19,NOR,6,false,false,false,pace,passing
+Fredrik Knudsen,CB,R,30,NOR,6,false,false,false,stamina,heading
+Jonas Torsvik,FB,L,21,NOR,10,false,false,false,pace,tackling
+Rasmus Holten,CB,R,21,NOR,5,false,false,false,tackling,passing
+Mathias Dyngeland,GK,R,30,NOR,6,true,false,false,positioning,penalty-saving
+Mathias Engevik Klausen,GK,R,18,NOR,7,false,false,false,penalty-saving,rushing-out

@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kristian Tomov,GK,R,23,BUL,8,true,false,false,positioning,rushing-out
+Antoan Manasiev,GK,R,19,BUL,4,false,false,false,reflexes,penalty-saving
+Ventsislav Kerchev,CB,L,29,BUL,6,true,false,false,tackling,pace
+Luciano Squadrone,CB,R,26,ARG,7,true,false,false,tackling,heading
+Zhivko Atanasov,CB,R,35,BUL,4,false,false,false,heading,marking
+Georgi Ventsislavov,CB,R,20,BUL,5,false,false,false,heading,stamina
+Emanuil Nyagolov,FB,L,17,BUL,6,false,false,false,passing,crossing
+Bandaró,FB,R,22,BRA,7,false,false,false,tackling,stamina
+Asen Donchev,FB,L,24,BUL,4,true,false,false,pace,crossing
+Ertan Tombak,FB,R,27,BUL,5,true,false,false,tackling,marking
+Dimitar Kichukov,FB,L,18,BUL,5,false,false,false,tackling,stamina
+Berk Beyhan,MF,R,21,BUL,6,false,false,false,passing,finishing
+Vasil Panayotov,MF,R,36,BUL,7,true,false,false,playmaking,finishing
+Idris Bounaas,MF,R,23,ALG,4,false,false,false,playmaking,passing
+Aleksandar Todorov,MF,R,25,BUL,5,true,false,false,pace,dribbling
+Mohamed Achi,MF,L,24,FRA,6,true,false,false,dribbling,passing
+Martin Banev,MF,L,20,BUL,8,false,false,false,dribbling,playmaking
+Petar Marinov,MF,R,20,BUL,4,false,false,false,dribbling,passing
+David Teles,MF,R,28,POR,5,true,false,false,dribbling,playmaking
+Petar Andreev,MF,R,22,BUL,6,false,false,false,dribbling,passing
+Nikolay Kostadinov,MF,R,20,BUL,8,false,false,false,playmaking,finishing
+Kristian Mihaylov,MF,L,18,BUL,4,false,false,false,finishing,passing
+Nikolay Zlatev,FW,R,21,BUL,5,false,false,false,finishing,dribbling
+Barandas,FW,R,26,POR,6,true,false,false,dribbling,pace
+Georgi Lazarov,FW,L,21,BUL,9,false,false,false,pace,finishing
+Aleksandar Kolev,FW,R,33,BUL,4,true,false,false,crossing,pace
+Celso Sidney,FW,R,25,POR,5,false,false,false,playmaking,finishing
+Jorge Padilla,FW,R,25,ESP,6,false,false,false,playmaking,finishing

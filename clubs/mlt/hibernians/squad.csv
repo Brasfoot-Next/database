@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Cremona,GK,R,27,MLT,7,false,false,false,positioning,penalty-saving
+Ibrahim Koné,GK,R,32,GUI,4,true,false,false,reflexes,positioning
+Nicholas Vella,GK,L,32,MLT,8,false,false,false,positioning,penalty-saving
+Gabri Izquier,FB,L,29,ESP,1,true,false,false,finishing,pace
+Zachary Grech,FB,R,21,MLT,7,true,false,false,crossing,pace
+Ferdinando Apap,FB,R,29,MLT,5,false,false,false,marking,passing
+Joseph Zerafa,FB,L,34,MLT,4,false,false,false,marking,finishing
+Andrei Agius,CB,R,35,MLT,8,true,false,false,tackling,stamina
+Sergio Raphael,CB,R,29,BRA,5,false,false,false,tackling,heading
+Matthew Ellul,CB,L,20,MLT,3,false,false,false,tackling,stamina
+Jake Grech,MF,R,24,MLT,10,true,false,false,tackling,marking
+Bjorn Kristensen,MF,L,29,MLT,10,false,false,false,tackling,finishing
+Dunstan Vella,MF,L,26,MLT,2,true,false,false,tackling,marking
+Ayrton Attard,MF,R,21,MLT,5,true,false,false,passing,finishing
+Ali Diakité,MF,L,29,CIV,5,true,false,false,tackling,marking
+Jurgen Degabriele,FW,L,25,MLT,3,true,false,false,dribbling,finishing
+Thaylor,FW,R,28,ANG,6,false,false,false,finishing,pace
+Gonzalo Llerena,CB,L,32,ESP,9,true,false,false,heading,stamina
+Ryan Vella,MF,R,21,MLT,7,false,false,false,finishing,passing
+Kane Bonello,MF,L,21,MLT,7,false,false,false,finishing,passing
+Matthew Farrugia,MF,L,21,MLT,4,false,false,false,playmaking,passing
+Terence Groothusen,FW,R,25,ARU,2,true,false,false,finishing,dribbling
+Gabriel Mensah,FW,L,26,GHA,10,false,false,false,pace,finishing

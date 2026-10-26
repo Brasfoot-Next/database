@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Michael Folorunsho,MF,L,28,ITA,6,true,false,false,passing,playmaking
+Marko Rog,MF,R,31,CRO,7,false,false,false,dribbling,passing
+Matteo Prati,MF,R,22,ITA,8,true,false,false,passing,playmaking
+Michel Ndary Adopo,MF,R,26,FRA,5,false,false,false,stamina,passing
+Sebastiano Esposito,FW,L,24,ITA,6,true,false,false,dribbling,finishing
+Gianluca Gaetano,MF,R,26,ITA,7,true,false,false,dribbling,playmaking
+Gabriele Zappa,FB,R,26,ITA,8,false,false,false,stamina,pace
+Alessandro Deiola,MF,R,31,ITA,5,true,false,false,tackling,stamina
+Andrea Belotti,FW,R,32,ITA,6,false,false,false,heading,finishing
+Zito Luvumbo,FW,L,24,ANG,7,false,false,false,pace,dribbling
+Zé Pedro,CB,R,29,POR,6,false,false,false,tackling,marking
+Mattia Felici,FW,L,25,ITA,7,false,false,false,pace,dribbling
+Luca Mazzitelli,MF,R,30,ITA,10,false,false,false,passing,playmaking
+Alessandro Di Pardo,FW,R,27,ITA,5,false,false,false,pace,stamina
+Sebastiano Luperto,CB,L,30,ITA,6,true,false,false,marking,tackling
+Semih Kilicsoy,FW,R,21,TUR,6,false,false,false,pace,dribbling
+Adam Obert,FB,L,24,SVK,7,true,false,false,tackling,crossing
+Riyad Idrissi,FB,L,21,ITA,4,true,false,false,pace,stamina
+Marco Palestra,FW,R,21,ITA,6,true,false,false,passing,pace
+Yerry Mina,CB,R,31,COL,6,false,false,false,heading,tackling
+Nicolo Cavuoti,MF,L,23,ITA,6,false,false,false,dribbling,passing
+Leonardo Pavoletti,FW,R,37,ITA,7,false,false,false,heading,finishing
+Juan Rodriguez,CB,L,21,URU,8,true,false,false,tackling,stamina
+Gennaro Borrelli,FW,R,26,ITA,5,false,false,false,heading,finishing
+Nicola Pintus,CB,R,21,ITA,6,false,false,false,tackling,marking
+Elia Caprile,GK,R,25,ITA,6,true,false,false,reflexes,penalty-saving
+Boris Radunovic,GK,R,30,SRB,7,false,false,false,reflexes,penalty-saving
+Giuseppe Ciocci,GK,R,24,ITA,1,false,false,false,reflexes,penalty-saving

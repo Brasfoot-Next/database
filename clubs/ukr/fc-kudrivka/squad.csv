@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Anton Yashkov,GK,R,34,UKR,5,false,false,false,rushing-out,reflexes
+llya Karavashchenko,GK,R,25,UKR,6,true,false,false,rushing-out,positioning
+Kyrylo Lavuta,GK,L,23,UKR,7,false,false,false,rushing-out,reflexes
+Mykhaylo Kulyk,GK,R,20,UKR,3,false,false,false,penalty-saving,reflexes
+Myroslav Serdyuk,CB,L,26,UKR,5,true,false,false,heading,tackling
+Bogdan Veklyak,CB,R,26,UKR,6,true,false,false,heading,tackling
+Jair Collahuazo,CB,L,20,ECU,7,false,false,false,passing,marking
+Yuriy Potimkov,CB,R,23,UKR,3,false,false,false,tackling,marking
+Maksym Melnychuk,FB,R,26,UKR,5,true,false,false,stamina,crossing
+Mykola Ogarkov,FB,R,21,UKR,6,false,false,false,pace,crossing
+Artem Machelyuk,FB,R,26,UKR,7,true,false,false,pace,crossing
+Yevgeniy Morozko,FB,R,33,UKR,5,false,false,false,dribbling,pace
+Yevgeniy Pasich,FB,R,33,UKR,6,false,false,false,tackling,stamina
+Artur Dumanyuk,MF,R,29,UKR,7,true,false,false,pace,dribbling
+Kaya Makosso,MF,L,27,CGO,3,true,false,false,finishing,playmaking
+Victor Adeoye,MF,R,20,NGA,5,false,false,false,dribbling,passing
+Yevgeniy Smyrnyi,MF,R,27,UKR,6,true,false,false,playmaking,passing
+Ivan Melnychenko,MF,L,22,UKR,7,false,false,false,finishing,passing
+Oleksandr Belyaev,MF,L,26,UKR,4,true,false,false,pace,crossing
+Rodion Plaksa,MF,L,24,UKR,5,false,false,false,passing,finishing
+Sergiy Sten,FW,L,24,UKR,7,true,false,false,heading,stamina
+Denys Svityukha,FW,R,24,UKR,3,true,false,false,heading,finishing
+Reynaldiño Verley,FW,R,23,PAN,4,false,false,false,dribbling,finishing
+Anton Demchenko,FW,L,21,UKR,5,false,false,false,pace,finishing
+Roman Solodarenko,FW,L,22,UKR,6,false,false,false,crossing,pace

@@ -1,0 +1,36 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Melendo,MF,L,29,ESP,5,true,false,false,passing,dribbling
+Wu Lei,FW,R,34,CHN,6,false,false,false,pace,stamina
+Leonardo,FW,R,29,BRA,7,false,false,false,pace,finishing
+Matheus Jussa,MF,L,30,BRA,3,true,false,false,stamina,tackling
+Li Ang,CB,L,32,CHN,5,false,false,false,stamina,heading
+Xu Xin,MF,R,32,CHN,6,false,false,false,stamina,pace
+Mateus Vital,MF,R,28,BRA,7,true,false,false,dribbling,pace
+Gabrielzinho,FW,L,30,BRA,3,true,false,false,pace,dribbling
+Feng Jin,FW,R,33,CHN,5,false,false,false,pace,stamina
+Gustavo,FW,R,32,BRA,6,false,false,false,finishing,pace
+Li Shuai,FB,L,31,CHN,4,false,false,false,pace,stamina
+Jiang Guangtai,CB,R,32,CHN,5,false,false,false,stamina,pace
+Zhang Linpeng,CB,R,37,CHN,6,false,false,false,stamina,heading
+Li Shenglong,FW,R,34,CHN,8,false,false,false,pace,stamina
+Lü Wenjun,FB,L,37,CHN,4,false,false,false,heading,dribbling
+Ming Tian,FB,R,31,CHN,5,false,false,false,stamina,pace
+Liu Ruofan,FW,R,27,CHN,7,true,false,false,pace,stamina
+Wang Zhen'ao,FB,R,27,CHN,4,true,false,false,pace,stamina
+Yang Shiyuan,MF,R,32,CHN,5,false,false,false,pace,stamina
+Wang Shenchao,FB,R,37,CHN,6,false,false,false,stamina,pace
+Wei Zhen,CB,L,29,CHN,3,true,false,false,tackling,stamina
+Ablahan Haliq,MF,R,25,CHN,5,true,false,false,pace,stamina
+Fu Huan,FB,R,33,CHN,6,false,false,false,dribbling,tackling
+Kuai Jiwen,MF,R,20,CHN,7,false,false,false,pace,stamina
+Li Xinxiang,FW,L,20,CHN,3,false,false,false,pace,stamina
+Meng Jingchao,MF,R,22,CHN,5,false,false,false,stamina,pace
+Umidjan Yusup,CB,R,22,CHN,6,true,false,false,pace,stamina
+Alex Jojo,FB,R,27,CHN,2,true,false,false,pace,tackling
+Wang Yiwei,FB,R,22,CHN,5,false,false,false,pace,stamina
+Wang Jinglei,FB,L,19,CHN,6,false,false,false,stamina,pace
+Yan Junling,GK,R,35,CHN,1,false,false,false,positioning,rushing-out
+Liu Tiecheng,CB,R,20,CHN,5,false,false,false,pace,stamina
+Du Jia,GK,R,33,CHN,6,false,false,false,reflexes,positioning
+Chen Wei,GK,R,28,CHN,7,true,false,false,reflexes,penalty-saving
+Li Zhiliang,GK,R,19,CHN,2,false,false,false,rushing-out,penalty-saving

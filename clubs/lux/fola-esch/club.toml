@@ -1,0 +1,13 @@
+name = "Fola Esch"
+country = "LUX"
+level = 14
+reputation = 2
+colors = ["#ff0033", "#ffffff"]
+
+[stadium]
+name = "Émile Mayrisch"
+capacity = 3080
+
+[coach]
+name = "Miguel Correia"
+country = "POR"

@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gustavo Sauer,FW,L,33,BRA,6,false,false,false,stamina,pace
+Darlan,MF,L,28,BRA,7,true,false,false,stamina,passing
+Deng Hanwen,FB,R,31,CHN,7,true,false,false,stamina,pace
+Manuel Palacios,FW,R,33,COL,3,false,false,false,pace,stamina
+Park Ji Soo,CB,L,32,KOR,5,true,false,false,heading,tackling
+Wang Jinxian,FW,L,30,CHN,6,false,false,false,pace,stamina
+Zhong Jinbao,FW,L,31,CHN,7,false,false,false,stamina,playmaking
+Alexandru Tudorie,FW,L,30,ROU,3,true,false,false,stamina,heading
+Zheng Kaimu,CB,R,34,CHN,5,false,false,false,stamina,heading
+Ren Hang,CB,R,37,CHN,6,false,false,false,heading,tackling
+Liao Chengjian,MF,R,32,CHN,6,true,false,false,stamina,pace
+Chen Zhechao,FB,L,31,CHN,7,false,false,false,stamina,pace
+Shen Zigui,FW,L,25,CHN,3,false,false,false,pace,dribbling
+He Guan,CB,R,33,CHN,5,false,false,false,pace,heading
+Wang Yi,FB,L,28,CHN,6,true,false,false,pace,stamina
+Long Wei,MF,R,31,CHN,7,true,false,false,stamina,pace
+Zhang Tao,FW,R,23,CHN,4,false,false,false,stamina,pace
+Liu Yiming,CB,R,31,CHN,5,true,false,false,stamina,heading
+Xia Xiaoxi,FW,L,21,CHN,6,false,false,false,stamina,pace
+Zhu Wenchuan,MF,R,21,CHN,7,false,false,false,pace,stamina
+Zheng Haoqian,FW,R,27,CHN,6,true,false,false,stamina,finishing
+Zou Zhenxiang,MF,R,23,CHN,7,true,false,false,pace,stamina
+Min Zixi,MF,R,21,CHN,2,false,false,false,stamina,pace
+Zhang Zhenyang,CB,R,22,CHN,5,false,false,false,heading,pace
+Yu Tianxiang,FB,R,21,CHN,6,false,false,false,stamina,pace
+Wang Kang,FB,L,20,CHN,7,false,false,false,pace,stamina
+Memetimin Zikrulla,FB,R,22,CHN,3,false,false,false,stamina,pace
+Ruan Jingwei,CB,R,21,CHN,5,false,false,false,pace,stamina
+Shao Puliang,GK,R,37,CHN,6,false,false,false,positioning,rushing-out
+Wei Minzhe,GK,R,27,CHN,7,true,false,false,positioning,reflexes
+Chen Xing,GK,R,22,CHN,5,false,false,false,rushing-out,reflexes
+Guo Jiayu,GK,R,22,CHN,7,false,false,false,positioning,reflexes

@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kastriot Imeri,MF,R,26,SUI,5,true,false,false,finishing,dribbling
+Leonardo Bertone,MF,L,32,SUI,6,false,false,false,stamina,passing
+Mattias Kait,MF,R,28,SUI,7,true,false,false,stamina,pace
+Fabio Fehr,FB,L,26,SUI,7,true,false,false,stamina,crossing
+Brighton Labeau,FW,R,30,FRA,3,false,false,false,stamina,pace
+Vasilije Janjicic,MF,R,27,SUI,5,false,false,false,stamina,passing
+Valmir Matoshi,MF,R,23,SUI,6,true,false,false,finishing,pace
+Nils Reichmuth,FW,L,24,SUI,7,true,false,false,passing,pace
+Michael Heule,FB,L,25,SUI,3,true,false,false,stamina,pace
+Genís,CB,R,30,ESP,5,false,false,false,passing,tackling
+Layton Stewart,FW,R,24,ENG,5,false,false,false,pace,finishing
+Dominik Franke,FB,L,27,GER,6,false,false,false,pace,stamina
+Ethan Meichtry,FW,L,21,SUI,1,false,false,false,dribbling,pace
+Justin Roth,MF,R,25,SUI,5,true,false,false,stamina,tackling
+Christopher Ibayi,FW,R,31,CGO,6,false,false,false,finishing,heading
+Marco Burki,CB,L,33,SUI,7,true,false,false,stamina,tackling
+Noah Rupp,MF,L,23,SUI,1,false,false,false,passing,playmaking
+Jan Bamert,CB,L,28,SUI,5,true,false,false,marking,tackling
+Lucien Dahler,FB,R,25,SUI,6,false,false,false,pace,marking
+Marc Gutbub,FW,L,23,SUI,7,false,false,false,finishing,pace
+Ashvin Balaruban,FB,L,25,SUI,5,false,false,false,pace,stamina
+Asani Enis,MF,R,22,ALB,6,false,false,false,passing,pace
+Elmin Rastoder,FW,R,24,SUI,7,true,false,false,finishing,pace
+Niklas Steffen,GK,R,25,SUI,4,true,false,false,penalty-saving,reflexes
+Nino Ziswiler,GK,R,26,SUI,5,false,false,false,rushing-out,positioning
+Jan Eicher,GK,R,22,SUI,6,false,false,false,reflexes,positioning

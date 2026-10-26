@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Harvey Knibbs,MF,R,27,ENG,7,true,false,false,stamina,pace
+Greg Docherty,MF,R,29,SCO,3,true,false,false,stamina,pace
+Luke Berry,MF,R,34,ENG,5,false,false,false,stamina,playmaking
+Joe Rankin Costello,FB,R,27,ENG,6,true,false,false,pace,tackling
+Conor Coventry,MF,L,26,IRL,7,true,false,false,stamina,passing
+Amarii Bell,CB,L,32,JAM,3,false,false,false,stamina,pace
+Kayne Ramsay,FB,R,25,ENG,5,false,false,false,pace,stamina
+James Bree,FB,R,28,ENG,6,true,false,false,tackling,crossing
+Sonny Carey,MF,R,25,ENG,7,false,false,false,passing,stamina
+Karoy Anderson,MF,R,21,JAM,5,true,false,false,stamina,pace
+Josh Edwards,FB,L,26,SCO,1,false,false,false,stamina,pace
+Charlie Kelman,FW,R,24,USA,5,false,false,false,stamina,pace
+Matt Godden,FW,R,35,ENG,6,false,false,false,stamina,finishing
+Macaulay Gillesphey,CB,L,30,ENG,7,true,false,false,stamina,heading
+Tyreece Campbell,FW,L,22,JAM,1,true,false,false,pace,stamina
+Rob Apter,FW,L,23,SCO,5,false,false,false,pace,stamina
+Isaac Olaofe,FW,R,26,ENG,6,true,false,false,pace,stamina
+Reece Burke,CB,R,30,ENG,7,true,false,false,tackling,marking
+Miles Leaburn,FW,R,22,ENG,5,false,false,false,pace,stamina
+Lloyd Jones,CB,R,30,ENG,6,false,false,false,stamina,heading
+Ibrahim Fullah,MF,R,19,ENG,1,false,false,false,pace,passing
+Thomas Kaminski,GK,R,33,BEL,5,false,false,false,reflexes,rushing-out
+Ashley Maynard Brewer,GK,R,27,AUS,6,true,false,false,reflexes,penalty-saving
+Will Mannion,GK,R,28,ENG,7,false,false,false,rushing-out,positioning

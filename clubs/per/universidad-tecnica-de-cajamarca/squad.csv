@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ángelo Campos,GK,R,33,PER,7,false,false,false,reflexes,positioning
+Ignacio Barrios,GK,R,33,URU,4,false,false,false,positioning,rushing-out
+Ricardo Bettocchi,GK,R,24,PER,5,true,false,false,positioning,reflexes
+Manuel Ganoza,CB,R,27,PER,6,true,false,false,marking,passing
+Piero Serra,CB,R,29,PER,7,false,false,false,tackling,stamina
+Bruno Duarte,CB,R,31,ARG,4,true,false,false,stamina,heading
+Francesco Cavagna,CB,R,25,PER,5,false,false,false,tackling,marking
+Dylan Caro,FB,L,27,PER,6,true,false,false,marking,pace
+Junior Huerto,FB,L,27,PER,8,true,false,false,crossing,passing
+Luis Garro,FB,L,29,PER,4,false,false,false,marking,pace
+Gilmar Paredes,FB,L,23,PER,6,false,false,false,pace,tackling
+David Dioses,MF,R,30,PER,7,true,false,false,passing,finishing
+Luis Arce,MF,R,32,ECU,2,true,false,false,passing,pace
+Joshua Cantt,MF,R,23,PER,5,true,false,false,stamina,tackling
+Arquímedes Figuera,MF,R,36,VEN,6,false,false,false,passing,stamina
+Marcos Lliuya,MF,R,34,PER,7,true,false,false,tackling,marking
+Adolfo Muñoz,FW,L,28,ECU,2,true,false,false,dribbling,finishing
+Jhosep Núñez,FW,R,22,PER,6,false,false,false,heading,finishing
+David Camacho,FW,R,29,COL,7,false,false,false,finishing,dribbling
+Michel Rasmussen,FW,R,26,PER,1,true,false,false,heading,finishing
+Santiago Gálvez,FW,L,22,PER,5,false,false,false,heading,stamina
+Marlon de Jesús,FW,R,34,ECU,6,false,false,false,pace,dribbling
+Abdiel Arroyo,FW,R,32,PAN,8,false,false,false,finishing,heading

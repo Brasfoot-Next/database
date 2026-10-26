@@ -1,0 +1,13 @@
+name = "BATE Borisov"
+country = "BLR"
+level = 15
+reputation = 3
+colors = ["#edca3f", "#05317a"]
+
+[stadium]
+name = " Haradzki"
+capacity = 5500
+
+[coach]
+name = "Aleksandr Mikhailov"
+country = "BLR"

@@ -1,0 +1,13 @@
+name = "RAAL La Louvière"
+country = "BEL"
+level = 10
+reputation = 2
+colors = ["#F0F0F0", "#000000"]
+
+[stadium]
+name = "Easi Arena"
+capacity = 8050
+
+[coach]
+name = "Lucas Afriyie"
+country = "BRA"

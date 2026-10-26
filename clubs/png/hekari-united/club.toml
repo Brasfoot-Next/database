@@ -1,0 +1,13 @@
+name = "Hekari United"
+country = "PNG"
+level = 12
+reputation = 2
+colors = ["#cc0000", "#ffffff"]
+
+[stadium]
+name = "Lloyd Robinson"
+capacity = 12000
+
+[coach]
+name = "Jerry Allen"
+country = "SOL"

@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ahmed Mayhoub,GK,R,30,EGY,2,false,false,false,positioning,rushing-out
+Hussein Taimour,GK,L,26,EGY,5,true,false,false,reflexes,penalty-saving
+Mohamed Haidar,GK,L,21,EGY,6,false,false,false,positioning,rushing-out
+Mohamed Ragab,CB,L,27,EGY,7,true,false,false,tackling,heading
+Ahmed Abdelrasoul,CB,R,30,EGY,2,true,false,false,marking,heading
+Hazem Said,CB,R,21,EGY,5,false,false,false,marking,passing
+Omar Mohsen,CB,R,20,EGY,6,false,false,false,heading,stamina
+Mohamed Desouki,FB,L,28,EGY,7,true,false,false,stamina,crossing
+Abdelrahman Amer,FB,L,34,EGY,3,false,false,false,stamina,pace
+Hesham Hafez,FB,R,25,EGY,5,true,false,false,tackling,marking
+Attidjikou Samadou,MF,R,22,EGY,4,false,false,false,stamina,passing
+Adham Hamada,MF,R,29,EGY,5,true,false,false,passing,playmaking
+Samir Fekri,MF,R,31,EGY,6,false,false,false,dribbling,playmaking
+Khaled El Ghandour,MF,R,32,EGY,7,false,false,false,pace,dribbling
+Abdelghani Mohamed,MF,R,24,EGY,4,true,false,false,passing,tackling
+Ahmed El Nadry,MF,L,27,EGY,5,true,false,false,marking,passing
+Amr El Sisi,MF,L,32,EGY,6,false,false,false,finishing,playmaking
+Mohamed Abdelsamia,MF,R,26,EGY,7,true,false,false,tackling,passing
+Kone Mohamed,MF,R,20,EGY,1,false,false,false,passing,tackling
+Ahmed Ali Amin,MF,R,22,EGY,5,false,false,false,playmaking,finishing
+Ahmed Ehab,MF,R,20,EGY,3,false,false,false,tackling,passing
+El Mami Tetah,FW,R,24,EGY,5,false,false,false,pace,dribbling
+Ashraf Magdy,FW,R,28,EGY,6,false,false,false,dribbling,pace
+Juhayna,FW,R,26,EGY,7,false,false,false,pace,crossing
+Hesham Balaha,FW,R,30,EGY,3,false,false,false,finishing,stamina
+Stephen Amankona,FW,R,26,GHA,5,false,false,false,finishing,heading
+Hady Amer,FW,R,21,EGY,5,false,false,false,finishing,pace
+Mohamed Farouk,FW,R,27,EGY,6,true,false,false,dribbling,finishing
+Makarona,FW,L,23,EGY,8,false,false,false,dribbling,finishing
+Pape Badji,FW,R,27,SEN,4,true,false,false,pace,finishing
+Gabriel Chukwudi,FW,R,23,NGA,5,false,false,false,pace,dribbling
+Ali Amr,FW,R,23,EGY,6,false,false,false,pace,dribbling
+Emmanuel Nweke,FW,R,19,NGA,7,false,false,false,playmaking,finishing

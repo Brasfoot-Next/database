@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Romain Faivre,FW,L,28,FRA,5,true,false,false,dribbling,playmaking
+Angelo Fulgini,MF,L,30,FRA,6,true,false,false,dribbling,crossing
+Aschraf El Mahdioui,MF,R,30,NED,8,true,false,false,stamina,passing
+Andrei Girotto,CB,R,34,BRA,4,true,false,false,tackling,heading
+Roger Martinez,FW,R,32,COL,6,false,false,false,dribbling,stamina
+Flavio,MF,R,30,BRA,6,true,false,false,stamina,passing
+Musa Barrow,FW,L,27,GAM,9,true,false,false,pace,dribbling
+Mohammed Al Kuwaykibi,FW,L,31,KSA,3,false,false,false,pace,dribbling
+Abdulellah Hawsawi,MF,L,25,KSA,5,false,false,false,dribbling,pace
+Sultan Mandash,FW,L,31,KSA,6,false,false,false,pace,stamina
+Ahmed Bahusayn,MF,R,25,KSA,6,false,false,false,passing,stamina
+Ibrahim Al Shuayl,FB,L,31,KSA,8,false,false,false,pace,crossing
+Abdulfatah Adam,FW,R,31,KSA,5,false,false,false,pace,finishing
+Mohammed Mahzari,FB,R,24,KSA,6,true,false,false,pace,stamina
+Victor Hugo,MF,R,21,BRA,6,true,false,false,pace,dribbling
+Cristhoper Zambrano,FW,R,22,ECU,1,false,false,false,stamina,pace
+Meshal Al Alaeli,FB,L,22,KSA,5,false,false,false,pace,stamina
+Mohammed Al Aqel,FW,R,26,KSA,6,false,false,false,pace,stamina
+Waleed Al Ahmed,CB,L,27,KSA,7,false,false,false,heading,tackling
+Basim Al Orayni,FW,R,22,KSA,1,false,false,false,pace,finishing
+Abdulmalek Al Marwani,FW,L,21,KSA,6,false,false,false,pace,dribbling
+Muteb Al Mufarrij,FB,L,30,KSA,7,true,false,false,heading,tackling
+Bassam Al Hamad,FW,L,22,KSA,4,false,false,false,pace,dribbling
+Mohammed Al Dawsari,CB,R,25,KSA,5,false,false,false,stamina,tackling
+Moustapha Sembene,CB,R,28,SEN,6,true,false,false,stamina,tackling
+Mailson,GK,R,30,BRA,7,true,false,false,rushing-out,positioning
+Abdulquddus Attiah,GK,R,29,KSA,4,false,false,false,reflexes,penalty-saving
+Abdulrahman Al Senaidi,GK,R,20,KSA,5,false,false,false,penalty-saving,reflexes
+Abdulrahman Al Ghamdi,GK,R,20,KSA,6,false,false,false,reflexes,penalty-saving

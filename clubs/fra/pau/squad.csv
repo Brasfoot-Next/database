@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Antonin Bobichon,MF,R,30,FRA,5,true,false,false,playmaking,stamina
+Steeve Beusnard,MF,L,34,FRA,6,false,false,false,passing,pace
+Rayan Touzghar,MF,L,22,MAR,7,false,false,false,pace,passing
+Jean Ruiz,CB,L,28,FRA,2,false,false,false,pace,stamina
+Tom Pouilly,FB,R,23,FRA,5,true,false,false,passing,dribbling
+Daylam Meddah,MF,R,23,FRA,6,true,false,false,pace,tackling
+Anthony Briancon,CB,R,31,FRA,7,true,false,false,heading,tackling
+Joseph Kalulu,FB,L,21,FRA,2,true,false,false,pace,stamina
+Kyllian Gasnier,MF,R,24,FRA,5,true,false,false,playmaking,dribbling
+Edhy Zuliani,MF,L,22,ALG,6,true,false,false,pace,dribbling
+Omar Sadik,FW,L,22,MAR,6,false,false,false,pace,heading
+Kyliane Dong,FW,R,21,FRA,7,false,false,false,dribbling,pace
+Salif Lebouath,FW,R,24,FRA,3,true,false,false,pace,heading
+Cheikh Fall,MF,R,22,SEN,4,false,false,false,dribbling,passing
+Giovani Versini,FW,L,22,FRA,5,false,false,false,pace,dribbling
+Rayane Messi,FW,L,19,FRA,6,true,false,false,dribbling,pace
+Enzo Derouin,FB,L,18,FRA,8,false,false,false,pace,stamina
+Ousmane Kante,CB,R,36,GUI,4,false,false,false,stamina,tackling
+Neil Glossoa,CB,R,21,FRA,5,true,false,false,stamina,pace
+Omar Sissoko,FW,R,20,FRA,6,false,false,false,dribbling,finishing
+Setigui Karamoko,CB,L,26,FRA,6,false,false,false,tackling,pace
+Tao Paradowski,GK,R,21,FRA,7,false,false,false,reflexes,rushing-out
+Esteban Salles,GK,R,32,FRA,1,false,false,false,penalty-saving,positioning
+Noah Raveyre,GK,R,21,FRA,5,true,false,false,reflexes,positioning

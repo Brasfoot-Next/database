@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kévin Rodrigues,FB,L,32,POR,5,true,false,false,crossing,passing
+Badou Ndiaye,MF,R,35,SEN,5,false,false,false,pace,stamina
+Juninho Bacuna,MF,R,29,CUW,6,true,false,false,stamina,dribbling
+Deian Sorescu,FW,R,29,ROU,7,false,false,false,stamina,pace
+Emmanuel Boateng,FW,R,30,GHA,2,false,false,false,pace,stamina
+Alexandru Maxim,MF,L,36,ROU,5,false,false,false,dribbling,passing
+Kacper Kozlowski,MF,R,22,POL,6,true,false,false,stamina,dribbling
+Ogun Ozcicek,MF,R,27,TUR,7,true,false,false,passing,dribbling
+Melih Kabasakal,MF,R,30,TUR,2,true,false,false,stamina,passing
+Luis Pérez,FB,R,31,ESP,5,true,false,false,stamina,pace
+Nazim Sangare,FB,R,32,TUR,6,false,false,false,pace,dribbling
+Rob Nizet,FB,L,24,BEL,7,false,false,false,pace,stamina
+Mohamed Bayo,FW,R,28,GUI,10,true,false,false,finishing,dribbling
+Christopher Lungoyi,FW,L,26,SUI,4,false,false,false,pace,dribbling
+Drissa Camara,FW,R,24,CIV,6,true,false,false,dribbling,passing
+Myenty Abena,CB,R,31,SUR,7,false,false,false,stamina,pace
+Salem Mbakata,FB,R,28,FRA,1,false,false,false,pace,stamina
+Semih Guler,CB,L,31,TUR,5,true,false,false,stamina,pace
+Yusuf Kabadayi,FW,R,22,GER,6,false,false,false,pace,dribbling
+Arda Kizildag,CB,R,27,TUR,7,false,false,false,heading,tackling
+Tayyip Talha Sanuc,CB,R,26,TUR,6,true,false,false,heading,stamina
+Enver Kulasin,FW,R,22,BIH,6,false,false,false,pace,dribbling
+Eren Cakir,MF,R,22,TUR,7,false,false,false,passing,dribbling
+Mehmet Kuzucu,FW,L,22,TUR,4,false,false,false,pace,dribbling
+Ali Osman Kalin,FW,R,18,TUR,5,false,false,false,finishing,stamina
+Halil Bagci,GK,R,23,TUR,6,false,false,false,rushing-out,penalty-saving
+Zafer Gorgen,GK,R,26,TUR,8,true,false,false,reflexes,penalty-saving
+Mustafa Burak Bozan,GK,R,26,TUR,4,false,false,false,reflexes,positioning

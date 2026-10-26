@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Federico Di Francesco,FW,L,32,ITA,4,false,false,false,stamina,dribbling
+Simone Pontisso,MF,L,29,ITA,5,true,false,false,passing,playmaking
+Gianluca Di Chiara,FB,L,32,ITA,7,true,false,false,crossing,pace
+Marco Pompetti,MF,L,26,ITA,1,true,false,false,stamina,playmaking
+Marco Dalessandro,FW,L,35,ITA,4,false,false,false,pace,dribbling
+Remi Oudin,FW,L,29,FRA,5,true,false,false,stamina,dribbling
+Davide Buglio,MF,R,28,ITA,7,true,false,false,stamina,tackling
+Patrick Nuamah,FW,L,20,ITA,1,false,false,false,pace,passing
+Filippo Pittarello,FW,R,29,ITA,5,false,false,false,heading,stamina
+Jacopo Petriccione,MF,R,31,ITA,6,false,false,false,playmaking,passing
+Costantino Favasuli,FW,R,22,ITA,5,false,false,false,passing,playmaking
+Pietro Iemmello,FW,L,34,ITA,6,false,false,false,stamina,pace
+Matias Antonini,CB,L,28,BRA,8,true,false,false,heading,stamina
+Fabio Rispoli,MF,R,19,ITA,5,false,false,false,pace,passing
+Mattia Liberali,FW,L,19,ITA,6,false,false,false,stamina,passing
+Luca Pandolfi,FW,R,28,ITA,6,true,false,false,pace,finishing
+Tommaso Cassandro,FB,R,26,ITA,10,true,false,false,stamina,crossing
+Alphadjo Cisse,MF,R,19,ITA,3,true,false,false,pace,dribbling
+Nicolo Buso,FW,L,26,ITA,5,false,false,false,pace,playmaking
+Nicolo Brighenti,CB,R,37,ITA,6,false,false,false,stamina,pace
+Ervin Bashi,CB,R,21,ALB,5,false,false,false,heading,tackling
+Davide Bettella,CB,R,26,ITA,6,true,false,false,tackling,heading
+Ruggero Frosinini,FB,R,25,ITA,7,false,false,false,tackling,stamina
+Mirko Pigliacelli,GK,R,33,ITA,4,false,false,false,reflexes,penalty-saving
+Bruno Verrengia,CB,L,22,ITA,5,false,false,false,pace,stamina
+Gabriele Alesi,FW,R,22,ITA,6,false,false,false,pace,dribbling
+Christian Marietta,GK,R,24,ITA,7,true,false,false,positioning,rushing-out
+Edoardo Borrelli,GK,R,22,ITA,4,false,false,false,rushing-out,reflexes

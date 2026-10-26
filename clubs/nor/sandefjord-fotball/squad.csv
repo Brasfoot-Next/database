@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Loris Mettler,MF,R,27,SUI,4,true,false,false,playmaking,passing
+Filip Ottosson,MF,R,29,SWE,5,true,false,false,stamina,playmaking
+Christopher Cheng,FB,L,24,NOR,6,true,false,false,pace,stamina
+Sander Risan Mork,MF,L,25,NOR,6,false,false,false,passing,tackling
+Vetle Walle Egeli,FB,L,22,NOR,1,true,false,false,stamina,marking
+Jakob Maslo Dunsby,FW,L,26,NOR,5,false,false,false,stamina,pace
+Robin Dzabic,MF,L,25,SWE,6,true,false,false,pace,passing
+Stian Kristiansen,CB,L,27,NOR,7,false,false,false,stamina,heading
+Marcus Melchior,MF,R,25,NOR,1,true,false,false,stamina,passing
+Filip Loftesnes Bjune,FB,R,21,NOR,5,false,false,false,pace,stamina
+Fredrik Carson Pedersen,FB,R,23,NOR,6,false,false,false,pace,stamina
+Evangelos Patoulidis,FW,L,24,BEL,7,true,false,false,pace,dribbling
+Zinedin Smajlovic,CB,R,22,SWE,10,true,false,false,pace,marking
+Stefan Ingi Sigurdharson,FW,R,25,ISL,4,false,false,false,heading,finishing
+Jacob Hanstad,FW,L,23,NOR,6,false,false,false,pace,playmaking
+Edvard Sundbo Pettersen,MF,R,20,NOR,7,false,false,false,pace,stamina
+Jakob Swift,MF,R,19,NOR,1,false,false,false,pace,stamina
+Theodor Martin Agelin,FB,R,23,NOR,5,false,false,false,pace,crossing
+Kristoffer Halvorsen,MF,R,18,NOR,6,false,false,false,pace,stamina
+Martin Gjone,CB,R,21,NOR,7,true,false,false,tackling,marking
+Bendik Berntsen,FW,R,19,NOR,4,true,false,false,pace,dribbling
+Sebastian Holm Mathisen,FW,L,21,NOR,6,false,false,false,pace,crossing
+Storm Bugge Pettersen,FW,R,20,NOR,7,false,false,false,pace,dribbling
+Aleksander Van Der Spa,CB,R,21,NOR,4,false,false,false,stamina,heading
+Henrik Skretteberg,CB,R,18,NOR,5,false,false,false,stamina,tackling
+Carljohan Eriksson,GK,R,31,FIN,6,false,false,false,rushing-out,reflexes
+Elias Hadaya,GK,R,28,SWE,8,true,false,false,positioning,rushing-out
+Alem Omerinovic,GK,R,19,BIH,4,false,false,false,rushing-out,positioning
+Alf Lukas Gronneberg,GK,R,22,NOR,5,false,false,false,reflexes,penalty-saving

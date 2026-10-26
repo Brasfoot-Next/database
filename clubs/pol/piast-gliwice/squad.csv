@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Grzegorz Tomasiewicz,MF,L,30,POL,7,true,false,false,stamina,pace
+Michal Chrapek,MF,R,34,POL,3,false,false,false,stamina,passing
+Quentin Boisgard,MF,R,29,FRA,5,true,false,false,passing,dribbling
+Patryk Dziczek,MF,R,28,POL,6,true,false,false,passing,playmaking
+Erik Jirka,FW,R,28,SVK,7,true,false,false,pace,stamina
+Ema Twumasi,FB,R,29,GHA,3,false,false,false,pace,dribbling
+Dalmau,FW,R,32,ESP,4,false,false,false,stamina,heading
+Hugo Vallejo,FW,L,26,ESP,6,false,false,false,dribbling,crossing
+Jorge Félix,FW,L,35,ESP,6,false,false,false,playmaking,passing
+Jason Lokilo,FW,L,27,COD,10,false,false,false,pace,dribbling
+Igor Drapinski,FB,L,22,POL,7,true,false,false,stamina,marking
+Leandro Sanca,FW,L,26,GNB,2,true,false,false,pace,dribbling
+Filip Borowski,FB,R,22,POL,5,false,false,false,pace,stamina
+German Barkovskiy,FW,L,24,POL,6,false,false,false,finishing,heading
+Tomasz Mokwa,FB,R,33,POL,7,false,false,false,stamina,passing
+Juande Rivas,CB,L,27,ESP,3,true,false,false,tackling,pace
+Andreas Katsantonis,FW,R,26,CYP,5,false,false,false,passing,dribbling
+Jakub Czerwinski,CB,R,35,POL,6,false,false,false,stamina,tackling
+Jakub Lewicki,FB,L,20,POL,7,true,false,false,pace,stamina
+Oskar Lesniak,MF,R,21,POL,3,true,false,false,pace,dribbling
+Mateusz Kopczynski,FW,R,18,POL,7,false,false,false,pace,finishing
+Szczepan Mucha,FW,R,22,POL,1,false,false,false,pace,dribbling
+Levis Pitan,CB,R,21,POL,5,true,false,false,pace,tackling
+Frantisek Plach,GK,L,34,SVK,6,true,false,false,positioning,rushing-out
+Karol Szymanski,GK,R,33,POL,7,false,false,false,penalty-saving,rushing-out
+Dawid Rychta,GK,R,20,POL,2,false,false,false,reflexes,positioning

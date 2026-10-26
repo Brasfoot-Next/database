@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Franko Andrijasevic,FW,R,35,CRO,5,false,false,false,stamina,heading
+Alexandru Mitrita,MF,R,31,ROU,6,true,false,false,pace,dribbling
+Qian Jiegei,MF,L,34,CHN,7,false,false,false,stamina,pace
+Li Tixiang,MF,R,37,CHN,1,false,false,false,stamina,pace
+Cheng Jin,MF,R,31,CHN,5,true,false,false,stamina,pace
+Yao Junsheng,FW,L,30,CHN,6,false,false,false,pace,marking
+Deabeas Owusu Sekyere,FW,R,26,NED,7,true,false,false,pace,stamina
+Yago Cariello,FW,L,27,BRA,2,true,false,false,stamina,heading
+Tong Lei,FB,R,28,CHN,6,true,false,false,stamina,pace
+Sun Guowen,FW,L,32,CHN,7,false,false,false,stamina,pace
+Dong Yu,FB,R,32,CHN,7,false,false,false,stamina,dribbling
+Zhang Jiaqi,MF,R,34,CHN,2,false,false,false,heading,stamina
+Lucas Possignolo,CB,R,32,BRA,5,false,false,false,stamina,heading
+Wang Yudong,MF,L,19,CHN,6,false,false,false,pace,stamina
+Tao Qianglong,FW,R,24,CHN,7,false,false,false,pace,stamina
+Wu Wei,MF,R,29,CHN,3,true,false,false,stamina,pace
+Bao Shengxin,MF,R,23,CHN,5,true,false,false,stamina,pace
+Yue Xin,FB,L,30,CHN,6,true,false,false,pace,stamina
+Liang Nuoheng,CB,R,31,CHN,7,true,false,false,heading,tackling
+Liu Haofan,CB,L,22,CHN,5,false,false,false,stamina,pace
+Wang Junjie,MF,R,21,CHN,6,false,false,false,pace,stamina
+Wang Shiqin,CB,L,23,CHN,8,true,false,false,stamina,pace
+Wang Yang,CB,R,33,CHN,4,false,false,false,stamina,tackling
+Zhang Aihui,CB,R,21,CHN,6,false,false,false,stamina,pace
+Ma Haoqi,FW,R,21,CHN,6,false,false,false,dribbling,finishing
+Dong Chunyu,GK,L,35,CHN,10,false,false,false,positioning,rushing-out
+Zhao Bo,GK,R,32,CHN,5,true,false,false,reflexes,penalty-saving
+Xu Zhenyao,GK,R,21,CHN,6,false,false,false,reflexes,penalty-saving
+Huo Shenping,GK,R,22,CHN,7,false,false,false,positioning,penalty-saving

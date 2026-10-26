@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ibrahim Essa Ali,GK,R,31,UAE,6,false,false,false,reflexes,rushing-out
+Saeed Khameis,GK,R,30,UAE,8,true,false,false,reflexes,rushing-out
+Marzooq Rashed,GK,R,22,UAE,4,false,false,false,reflexes,rushing-out
+Saeed Suleiman,CB,R,27,UAE,5,true,false,false,marking,heading
+Abdulla Jasem Ali,CB,R,29,UAE,7,true,false,false,heading,tackling
+Abdul Rahman Adel,CB,R,24,UAE,9,false,false,false,marking,tackling
+Kaua Bastian,CB,L,21,BRA,4,false,false,false,heading,tackling
+Hamed Juma Al-Balushi,CB,L,20,UAE,5,false,false,false,marking,stamina
+Khaled Ali Al-Baloushi,FB,R,24,UAE,6,false,false,false,dribbling,pace
+Adham Khalid,FB,L,24,UAE,7,false,false,false,stamina,crossing
+Mohamed Ismail,FB,L,34,UAE,6,true,false,false,tackling,stamina
+Adel Subeel,FB,R,28,UAE,7,false,false,false,tackling,stamina
+Omar Saeed,FB,R,27,UAE,3,true,false,false,passing,crossing
+Yousef Hazam,MF,R,31,UAE,5,true,false,false,passing,stamina
+Khalid Salem,MF,L,26,UAE,6,true,false,false,tackling,marking
+Mohamed Abdulrahman,MF,R,37,UAE,7,false,false,false,passing,finishing
+Hassan Ibrahim,MF,R,35,UAE,4,false,false,false,playmaking,finishing
+Anass Taouil,MF,R,23,MAR,5,true,false,false,marking,passing
+Jassim Yaqoob Salman,MF,R,29,UAE,6,true,false,false,tackling,passing
+Rashid Mubarak,FW,R,27,UAE,7,true,false,false,dribbling,playmaking
+Ayman Rchoq,FW,R,25,MAR,6,false,false,false,pace,dribbling
+Drissa Coulibaly,FW,R,20,MLI,7,false,false,false,heading,stamina
+Shefit Shefiti,FW,L,28,ALB,2,true,false,false,heading,pace
+Abdulla Kazim,FW,R,29,UAE,5,false,false,false,dribbling,finishing
+Doro Dabo,FW,R,23,SEN,6,false,false,false,dribbling,playmaking
+Goodnews Igbokwe,FW,L,23,NGA,7,false,false,false,dribbling,playmaking
+Mohammed Al-Marbuii,FW,R,31,UAE,2,false,false,false,dribbling,finishing

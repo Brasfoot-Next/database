@@ -1,0 +1,42 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Juan Montoya,GK,R,25,COL,5,false,false,false,reflexes,rushing-out
+Rubén Escobar,GK,L,32,PAR,6,false,false,false,positioning,penalty-saving
+Andrés Tovar,GK,R,17,COL,7,true,false,false,penalty-saving,reflexes
+Matías Villa,GK,R,33,COL,4,false,false,false,penalty-saving,reflexes
+Jorman Mendoza,GK,R,34,COL,5,false,false,false,rushing-out,reflexes
+Bleiner Agrón,CB,R,22,COL,6,false,false,false,tackling,marking
+Santiago Noreña,CB,R,25,COL,8,false,false,false,tackling,marking
+Jhon Gamboa,CB,R,22,COL,4,true,false,false,marking,heading
+Carlos Ramírez,CB,R,35,COL,5,false,false,false,marking,passing
+Heiler Mosquera,CB,L,20,COL,6,false,false,false,marking,stamina
+Deiro Ochoa,CB,R,28,COL,5,false,false,false,tackling,heading
+Juan Manuel Quejada,CB,R,17,COL,6,false,false,false,heading,tackling
+Didier Palacios,CB,R,19,COL,7,true,false,false,tackling,heading
+Brayan Murillo,FB,R,19,COL,8,false,false,false,stamina,pace
+Juan Holguín,FB,R,18,COL,4,false,false,false,passing,crossing
+Gendry Cuervo,FB,L,22,COL,5,true,false,false,crossing,passing
+Neymar Uribe,FB,R,19,COL,6,true,false,false,marking,crossing
+Julián Palacios,MF,L,20,COL,10,true,false,false,dribbling,playmaking
+Leandro Angulo,MF,L,22,COL,4,false,false,false,dribbling,playmaking
+Johan Hinestroza,MF,R,21,COL,5,false,false,false,playmaking,dribbling
+William Hurtado,MF,R,19,COL,7,false,false,false,tackling,marking
+Daniel Zapata,MF,L,20,COL,4,false,false,false,finishing,passing
+Edison López,MF,L,24,COL,5,true,false,false,playmaking,finishing
+Luis Gómez,MF,R,19,COL,6,true,false,false,passing,playmaking
+Juan Aristizábal,MF,R,18,COL,3,false,false,false,stamina,tackling
+Juan José Cataño,MF,L,24,COL,5,false,false,false,passing,stamina
+Andrés Vargas,MF,R,19,COL,6,false,false,false,tackling,marking
+Daniel Arcila,MF,R,21,COL,7,true,false,false,tackling,passing
+Nilzo Ramírez,MF,L,18,COL,4,false,false,false,stamina,passing
+Rubio España,FW,L,19,COL,5,false,false,false,pace,crossing
+Dairon Valencia,FW,L,24,COL,7,false,false,false,crossing,pace
+Luis Díaz,FW,R,19,COL,3,true,false,false,dribbling,pace
+Dorlan Pabón,FW,R,35,COL,5,true,false,false,pace,dribbling
+John Deiby Araujo,FW,R,21,COL,6,false,false,false,dribbling,pace
+Didier Dawson,FW,R,18,PAN,7,false,false,false,heading,stamina
+Frey Berrío,FW,R,16,COL,5,false,false,false,finishing,dribbling
+Carlos Torres,FW,R,21,COL,6,false,false,false,heading,stamina
+Bayron Garcés,FW,R,30,COL,7,false,false,false,pace,dribbling
+Sebastián Chacón,FW,R,34,COL,2,false,false,false,finishing,pace
+Miguel Marulanda,FW,R,33,COL,5,false,false,false,pace,finishing
+Santiago Londoño,FW,R,29,COL,7,false,false,false,finishing,dribbling

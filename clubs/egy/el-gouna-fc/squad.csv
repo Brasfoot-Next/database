@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ahmed Masoud,GK,R,34,EGY,6,false,false,false,reflexes,rushing-out
+Badreldin Walid,GK,L,20,EGY,7,false,false,false,positioning,penalty-saving
+Ziad Askar,GK,R,24,EGY,1,true,false,false,rushing-out,reflexes
+Saber El Shimi,CB,L,33,EGY,5,true,false,false,marking,stamina
+Hesham Wael,CB,R,20,EGY,6,true,false,false,tackling,stamina
+Abdelgawad Taalab,FB,R,24,EGY,7,true,false,false,stamina,pace
+Ahmed Belia,FB,L,26,EGY,2,true,false,false,marking,crossing
+Mahmoud Hassouna,MF,R,29,EGY,5,true,false,false,dribbling,playmaking
+Nour El Sayed,MF,R,31,EGY,6,false,false,false,tackling,passing
+Zizo,MF,R,25,EGY,7,true,false,false,dribbling,passing
+Belal El Sayed,MF,L,25,EGY,6,false,false,false,playmaking,dribbling
+Reda Salah,MF,R,28,EGY,2,true,false,false,dribbling,pace
+Mohamed Mahmoud,MF,R,28,EGY,5,true,false,false,stamina,passing
+Abdallah El Said,MF,L,24,EGY,6,false,false,false,stamina,tackling
+Adham Refai,FW,R,18,EGY,7,false,false,false,finishing,heading
+Seif Shika,FW,L,25,EGY,3,true,false,false,pace,dribbling
+Alaa Shaaban,FW,L,26,EGY,5,true,false,false,finishing,heading
+Ali El Zahdi,FW,R,30,EGY,6,false,false,false,dribbling,pace
+Ahmed Gamal,FW,R,24,EGY,7,false,false,false,pace,dribbling
+Ahmed Zaki,FW,R,23,EGY,3,false,false,false,pace,finishing
+Marwan Mohsen,FW,R,37,EGY,6,false,false,false,finishing,dribbling

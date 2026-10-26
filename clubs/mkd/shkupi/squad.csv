@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kristijan Naumovski,GK,R,33,MKD,8,true,false,false,reflexes,positioning
+Artan Iljazi,GK,R,23,MKD,4,false,false,false,positioning,penalty-saving
+Amar Meljichi,GK,L,20,MKD,6,false,false,false,rushing-out,penalty-saving
+Faustin Senghor,FB,R,28,SEN,2,true,false,false,marking,finishing
+Blerton Sheji,FB,L,21,MKD,1,false,false,false,crossing,marking
+Vladica Brdarovski,FB,L,32,MKD,8,true,false,false,marking,passing
+Freddy Álvarez,MF,L,27,CRC,8,true,false,false,marking,passing
+Trapanovski,MF,L,22,MKD,8,true,false,false,playmaking,passing
+Queven,MF,R,23,BRA,1,true,false,false,marking,pace
+Besnik Ferati,MF,R,22,MKD,1,false,false,false,marking,passing
+Sunday Adetunji,FW,R,24,NGA,5,true,false,false,heading,stamina
+Walid Hamidi,FW,R,25,ALG,4,false,false,false,finishing,pace
+Angelce Timovski,FB,R,27,MKD,3,false,false,false,crossing,pace
+Xhelil Abdulla,CB,L,30,MKD,5,true,false,false,tackling,heading
+Gagi Margvelashvili,CB,R,25,GEO,8,true,false,false,tackling,marking
+Melos Bajrami,CB,R,20,KVX,4,false,false,false,tackling,stamina
+Mamadou Danfa,FW,R,21,SEN,4,true,false,false,dribbling,finishing
+Renaldo Cephas,FW,R,22,JAM,4,false,false,false,crossing,pace
+Aleks Zlatkov,MF,L,20,MKD,9,true,false,false,tackling,finishing
+Antonio Kalanoski,MF,L,28,MKD,2,true,false,false,passing,finishing
+Pepi Gjorgiev,MF,R,27,MKD,7,true,false,false,passing,finishing
+Rejjan Abazi,MF,R,20,CAN,9,true,false,false,passing,finishing
+Azer Omeragikj,MF,L,20,MKD,1,false,false,false,playmaking,finishing

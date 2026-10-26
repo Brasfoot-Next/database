@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+David Raum,FB,L,28,GER,5,true,false,false,stamina,crossing
+Ridle Baku,FB,R,28,GER,6,true,false,false,dribbling,pace
+Xaver Schlager,MF,L,28,AUT,6,false,false,false,passing,playmaking
+Benjamin Henrichs,FB,R,29,GER,8,false,false,false,tackling,passing
+Amadou Haidara,MF,R,28,MLI,4,false,false,false,dribbling,passing
+Nicolas Seiwald,MF,R,25,AUT,6,true,false,false,stamina,tackling
+Kevin Kampl,MF,R,35,SVN,6,false,false,false,passing,dribbling
+Christoph Baumgartner,MF,L,27,AUT,8,true,false,false,dribbling,playmaking
+Timo Werner,FW,L,30,GER,4,false,false,false,pace,dribbling
+Antonio Nusa,FW,L,21,NOR,6,true,false,false,pace,dribbling
+Rômulo,FW,R,24,BRA,6,false,false,false,pace,heading
+Castello Lukeba,CB,L,23,FRA,7,true,false,false,tackling,heading
+Lukas Klostermann,CB,R,30,GER,9,false,false,false,pace,marking
+Johan Bakayoko,FW,L,23,BEL,5,false,false,false,dribbling,pace
+Conrad Harder,FW,L,21,DEN,6,false,false,false,finishing,heading
+Kosta Nedeljkovic,FB,R,20,SRB,7,false,false,false,pace,stamina
+Ezechiel Banzuzi,MF,R,21,NED,9,true,false,false,passing,stamina
+Andrija Maksimovic,FW,L,19,SRB,5,false,false,false,passing,crossing
+Max Finkgrafe,FB,L,22,GER,6,false,false,false,dribbling,pace
+Willi Orban,CB,R,33,HUN,7,false,false,false,tackling,marking
+Assan Ouedraogo,MF,R,20,GER,6,true,false,false,dribbling,pace
+El Chadaille Bitshiabu,CB,L,21,FRA,6,true,false,false,pace,heading
+Viggo Gebel,MF,R,18,GER,8,false,false,false,pace,dribbling
+Joyeux Masanka Bungi,FW,L,19,BEL,4,false,false,false,passing,pace
+Tidiam Gomis,FW,L,20,FRA,6,false,false,false,pace,dribbling
+Yan Diomande,FW,L,19,CIV,7,true,false,false,pace,dribbling
+Peter Gulacsi,GK,R,36,HUN,8,true,true,false,positioning,reflexes
+Maarten Vandevoordt,GK,R,24,BEL,5,false,false,false,penalty-saving,reflexes
+Leopold Zingerle,GK,R,32,GER,6,false,false,false,reflexes,penalty-saving

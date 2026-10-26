@@ -1,0 +1,37 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Pedro Fulco,GK,R,21,VEN,4,false,false,false,rushing-out,positioning
+Angel Manjarres,GK,R,25,VEN,5,true,false,false,positioning,penalty-saving
+Samuel Blanco,GK,R,25,VEN,6,false,false,false,penalty-saving,reflexes
+Piero Mollica,CB,R,21,VEN,7,true,false,false,tackling,pace
+Gabriel Molina,CB,R,21,VEN,4,false,false,false,tackling,heading
+Willians Galeno,CB,L,22,VEN,5,true,false,false,tackling,marking
+Isaac Venecia,CB,R,19,COL,6,false,false,false,tackling,marking
+Alejandro Delgado,CB,L,21,VEN,7,false,false,false,tackling,marking
+Keidervin Urbina,CB,R,20,VEN,4,false,false,false,passing,marking
+Maike Villero,FB,R,25,VEN,5,true,false,false,passing,pace
+Santiago Fernández,FB,L,26,VEN,3,true,false,false,passing,crossing
+Denny Reina,FB,R,18,VEN,4,false,false,false,marking,crossing
+Luis Ruíz,MF,R,28,VEN,5,true,false,false,tackling,passing
+Diego Márquez,MF,R,21,VEN,6,false,false,false,stamina,tackling
+Diego Ramunno,MF,R,27,VEN,8,true,false,false,tackling,passing
+Brayan Matamoros,MF,L,21,VEN,4,false,false,false,dribbling,playmaking
+Diego Reyes,MF,R,21,VEN,5,true,false,false,dribbling,playmaking
+Diego Reina,MF,R,25,VEN,6,true,false,false,finishing,playmaking
+Daniel Padilla,MF,R,21,VEN,9,false,false,false,dribbling,pace
+Yonaikert Linarez,MF,R,25,VEN,5,false,false,false,stamina,tackling
+Javier Roldan,MF,R,25,VEN,1,false,false,false,playmaking,dribbling
+Edmundo Larez,MF,R,25,VEN,5,false,false,false,marking,passing
+Gabriele Di Nardo,MF,R,25,VEN,5,false,false,false,marking,passing
+Jean Polo,MF,R,20,VEN,6,false,false,false,pace,dribbling
+Diego Pichardo,MF,R,25,VEN,7,false,false,false,dribbling,playmaking
+Víctor Saya,FW,R,18,VEN,3,false,false,false,pace,finishing
+Gabriel Vargas,FW,R,25,VEN,5,true,false,false,pace,dribbling
+Fran Jimenez,FW,R,25,VEN,6,true,false,false,playmaking,finishing
+Jean Monsalve,FW,R,25,VEN,7,false,false,false,heading,pace
+Yaniel Mejias,FW,R,20,VEN,4,false,false,false,dribbling,finishing
+Leonardo Torrealba,FW,R,21,VEN,4,false,false,false,finishing,dribbling
+Víctor Arellana,FW,R,20,VEN,5,false,false,false,finishing,dribbling
+Noel Sanvicente,FW,R,22,VEN,6,false,false,false,finishing,dribbling
+Romer Revilla,FW,R,19,VEN,7,false,false,false,pace,finishing
+David Barreto,FW,R,30,VEN,2,false,false,false,finishing,pace
+Mario Granado,FW,R,21,VEN,5,false,false,false,finishing,heading

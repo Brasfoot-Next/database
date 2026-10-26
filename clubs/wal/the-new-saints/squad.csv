@@ -1,0 +1,20 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Connor Roberts,GK,R,29,WAL,1,true,false,false,penalty-saving,reflexes
+Chris Marriott,FB,L,32,ENG,10,true,false,false,marking,pace
+Danny Davies,FB,R,27,WAL,1,true,false,false,marking,pace
+Ash Baker,FB,R,25,WAL,7,false,false,false,finishing,passing
+Ryan Astles,CB,R,28,ENG,2,true,false,false,heading,stamina
+Blaine Hudson,CB,L,30,ENG,9,false,false,false,heading,stamina
+Keston Davies,CB,R,25,WAL,6,false,false,false,tackling,stamina
+Ryan Brobbel,MF,L,29,NIR,4,true,false,false,finishing,passing
+Jon Routledge,MF,R,32,ENG,5,true,false,false,marking,finishing
+Leo Smith,MF,L,24,WAL,7,true,false,false,tackling,heading
+Daniel Redmond,MF,L,31,ENG,5,true,false,false,tackling,heading
+Ben Clark,MF,R,21,WAL,7,false,false,false,finishing,passing
+Jake Canavan,MF,R,18,ENG,1,false,false,false,stamina,passing
+Adrian Cieslewicz,FW,R,31,POL,3,false,false,false,heading,finishing
+Declan McManus,FW,L,27,SCO,7,true,false,false,finishing,pace
+Jordan Williams,FW,R,26,ENG,8,true,false,false,pace,stamina
+Daniel Atherton,GK,R,22,ENG,8,false,false,false,penalty-saving,reflexes
+Josh Pask,CB,L,24,ENG,7,true,false,false,tackling,heading
+Joshua Daniels,FW,L,26,NIR,2,false,false,false,finishing,pace

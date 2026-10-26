@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jan Grzesik,FB,R,31,POL,3,true,false,false,stamina,pace
+Romário Baró,MF,R,26,POR,5,true,false,false,stamina,dribbling
+Christos Donis,MF,R,31,GRE,6,true,false,false,stamina,pace
+Roberto Alves,MF,L,29,SUI,7,true,false,false,stamina,pace
+Zie Ouattara,FB,R,26,CIV,3,true,false,false,pace,stamina
+Rafal Wolski,MF,R,33,POL,5,false,false,false,passing,playmaking
+Joshua Wilson Esbrand,FB,L,23,ENG,6,false,false,false,pace,dribbling
+Ibrahima Camara,MF,R,27,GUI,7,true,false,false,passing,tackling
+Elves Baldé,FW,R,26,GNB,3,true,false,false,pace,dribbling
+Jeremy Blasco,CB,R,27,FRA,5,false,false,false,stamina,tackling
+Vasco Lopes,FW,L,27,CPV,7,false,false,false,pace,dribbling
+Michal Kaput,MF,R,28,POL,7,false,false,false,stamina,passing
+Leândro,FW,L,37,BRA,4,false,false,false,dribbling,passing
+Capita,FW,L,24,ANG,5,true,false,false,pace,dribbling
+Maurides,FW,L,32,BRA,6,false,false,false,heading,finishing
+Adrián Diéguez,CB,L,30,ESP,8,true,false,false,tackling,marking
+Abdoul Fessal Tapsoba,FW,R,25,BFA,4,false,false,false,pace,dribbling
+Guilherme Zimovski,FW,R,21,BRA,5,false,false,false,pace,dribbling
+Mateusz Cichocki,CB,R,34,POL,6,false,false,false,stamina,heading
+João Pedro,FB,L,23,BRA,10,false,false,false,heading,pace
+Depú,FW,R,26,ANG,7,false,false,false,heading,finishing
+Steve Kingue,CB,R,26,CMR,1,true,false,false,tackling,marking
+Filip Majchrowicz,GK,R,26,POL,3,true,false,false,penalty-saving,positioning
+Michal Jerke,GK,R,20,POL,5,false,false,false,rushing-out,reflexes
+Wiktor Koptas,GK,R,21,POL,6,false,false,false,reflexes,penalty-saving

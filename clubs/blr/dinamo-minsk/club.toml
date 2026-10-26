@@ -1,0 +1,13 @@
+name = "Dinamo Minsk"
+country = "BLR"
+level = 14
+reputation = 2
+colors = ["#0066cc", "#ffffff"]
+
+[stadium]
+name = "Dínamo"
+capacity = 22246
+
+[coach]
+name = "Artem Chelyadinskiy"
+country = "BLR"

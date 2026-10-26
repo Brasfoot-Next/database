@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Edu Expósito,MF,R,30,ESP,7,true,false,false,dribbling,playmaking
+Puado,FW,L,28,ESP,5,true,false,false,stamina,pace
+Carlos Romero,FB,L,24,ESP,6,true,false,false,stamina,pace
+Terrats,MF,L,25,ESP,7,true,false,false,passing,playmaking
+Charles Pickel,MF,R,29,COD,8,true,false,false,stamina,passing
+Pere Milla,MF,L,33,ESP,5,false,false,false,stamina,pace
+Pol Lozano,MF,L,26,ESP,6,true,false,false,stamina,playmaking
+Omar El Hilali,FB,R,22,MAR,7,true,false,false,pace,stamina
+Jofre,FW,R,25,ESP,8,false,false,false,pace,dribbling
+Roberto,FW,R,24,ESP,5,false,false,false,finishing,stamina
+Salinas,FB,L,25,ESP,1,false,false,false,stamina,pace
+Rubén Sánchez,FB,R,25,ESP,5,false,false,false,stamina,pace
+Kike García,FW,R,36,ESP,6,false,false,false,finishing,heading
+Antoniu Roca,FW,R,24,ESP,7,false,false,false,pace,dribbling
+Calero,CB,R,30,ESP,2,true,false,false,heading,tackling
+Tyrhys Dolan,FW,R,24,ENG,5,true,false,false,pace,dribbling
+Leandro Cabrera,CB,L,35,URU,6,false,false,false,heading,tackling
+Luca Koleosho,FW,L,21,ITA,6,false,false,false,pace,dribbling
+Urko González,MF,R,25,ESP,7,false,false,false,passing,marking
+Javi Hernández,FW,L,22,ESP,5,false,false,false,pace,passing
+Clemens Riedel,CB,R,23,GER,8,true,false,false,tackling,marking
+Miguel Rubio,CB,R,28,ESP,5,false,false,false,passing,heading
+Marko Dmitrovic,GK,L,34,SRB,6,true,false,false,positioning,reflexes
+Fortuño,GK,R,24,ESP,7,false,false,false,positioning,reflexes
+Tristán,GK,R,24,ESP,9,false,false,false,reflexes,rushing-out

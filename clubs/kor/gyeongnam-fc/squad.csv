@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Bum-soo Lee,GK,R,35,KOR,6,false,false,false,positioning,rushing-out
+Ki-hyun Lee,GK,R,32,KOR,8,false,false,false,reflexes,positioning
+Jun-seo Shin,GK,R,18,KOR,5,false,false,false,positioning,reflexes
+Ho-jin An,GK,L,23,KOR,6,true,false,false,penalty-saving,reflexes
+Lucão,CB,R,24,BRA,7,true,false,false,tackling,marking
+Eun-su Lim,CB,R,30,KOR,4,true,false,false,tackling,pace
+Jung-won Choi,CB,L,30,KOR,5,false,false,false,tackling,stamina
+Seong-jin Choi,CB,R,24,KOR,6,false,false,false,tackling,marking
+Gyu-baeg Lee,CB,R,22,KOR,7,false,false,false,marking,passing
+Woo-young Cho,CB,R,21,KOR,4,false,false,false,heading,stamina
+Hyeon-wook Jeong,CB,R,22,KOR,7,false,false,false,marking,heading
+Aleksa Karadzić,CB,R,20,MNE,10,false,false,false,heading,passing
+Seon-ho Kim,FB,L,25,KOR,5,true,false,false,tackling,pace
+Hyun-seo Bae,FB,L,21,KOR,6,false,false,false,pace,stamina
+Min-su Jeon,FB,L,20,KOR,7,false,false,false,passing,crossing
+Ho-jun Son,FB,L,24,KOR,1,false,false,false,stamina,pace
+Gi-pyo Kwon,FB,R,29,KOR,5,true,false,false,passing,crossing
+Chan-dong Lee,MF,R,33,KOR,6,false,false,false,tackling,marking
+Hyeong-won Kim,MF,R,27,KOR,7,true,false,false,marking,passing
+Ha-min Kim,MF,R,22,KOR,2,true,false,false,finishing,passing
+Hyun-sub Lim,MF,L,20,KOR,6,false,false,false,playmaking,dribbling
+Jun-ho Kim,MF,R,23,KOR,7,true,false,false,pace,tackling
+Jeong-hyun Kim,MF,R,26,KOR,4,true,false,false,stamina,pace
+Rúben Macedo,FW,R,30,POR,5,true,false,false,heading,pace
+Il-lok Yun,FW,R,34,KOR,6,true,false,false,pace,dribbling
+Chigozie Mbah,FW,R,28,NGA,8,false,false,false,finishing,dribbling
+Jin-hyuk Cho,FW,R,26,KOR,4,false,false,false,pace,dribbling
+Chung-geun Jeong,FW,R,31,KOR,5,false,false,false,finishing,heading
+Sang-jun Cho,FW,R,27,KOR,6,false,false,false,pace,dribbling
+Felipe Fonseca,FW,R,23,BRA,9,false,false,false,pace,crossing
+Ki-jong Won,FW,R,30,KOR,7,false,false,false,pace,finishing
+Hyeon-oh Kim,FW,R,18,KOR,7,false,false,false,stamina,pace
+Jung-min Lee,FW,L,26,KOR,3,false,false,false,pace,crossing
+Marcus Uberaba,FW,R,26,BRA,5,false,false,false,pace,dribbling

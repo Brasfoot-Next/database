@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Niklas Dorsch,MF,L,28,GER,6,true,false,false,passing,dribbling
+Adrian Beck,MF,R,29,GER,7,true,false,false,stamina,crossing
+Mathias Honsak,FW,L,29,AUT,1,false,false,false,pace,dribbling
+Leart Pacarada,FB,L,31,GER,5,false,false,false,stamina,crossing
+Marnon Busch,FB,R,31,GER,6,true,false,false,pace,crossing
+Luca Kerber,MF,R,24,GER,7,true,false,false,stamina,marking
+Omar Haktab Traore,FB,R,28,GER,2,false,false,false,stamina,pace
+Jan Schoppner,MF,R,27,GER,5,true,false,false,stamina,heading
+Marvin Pieringer,FW,R,26,GER,6,true,false,false,heading,stamina
+Sirlord Conteh,FW,R,30,GER,7,false,false,false,pace,stamina
+Julian Niehues,MF,R,25,GER,5,false,false,false,stamina,tackling
+Budu Zivzivadze,FW,R,32,GEO,6,false,false,false,finishing,heading
+Jonas Fohrenbach,FB,L,30,GER,7,true,false,false,stamina,pace
+Benedikt Gimber,CB,L,29,GER,9,false,false,false,stamina,marking
+Patrick Mainka,CB,R,31,GER,6,true,false,false,heading,stamina
+Mikkel Kaufmann,FW,R,25,DEN,7,false,false,false,pace,finishing
+Stefan Schimmer,FW,R,32,GER,8,false,false,false,finishing,heading
+Thomas Keller,CB,R,27,GER,5,false,false,false,tackling,heading
+Tim Siersleben,CB,L,26,GER,6,true,false,false,tackling,marking
+Nick Rothweiler,MF,R,20,GER,7,false,false,false,passing,pace
+Arijon Ibrahimovic,FW,R,20,GER,5,true,false,false,dribbling,finishing
+Yannik Wagner,FW,L,19,GER,6,false,false,false,pace,dribbling
+Adam Kolle,CB,R,20,GER,6,false,false,false,tackling,pace
+Diant Ramaj,GK,R,24,GER,7,true,false,false,reflexes,penalty-saving
+Kevin Muller,GK,R,35,GER,5,false,false,false,reflexes,positioning
+Frank Feller,GK,R,22,GER,6,false,false,false,penalty-saving,positioning
+Paul Tschernuth,GK,R,24,AUT,7,false,false,false,rushing-out,reflexes

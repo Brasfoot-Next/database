@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Wylan Cyprien,MF,R,31,FRA,2,true,false,false,passing,stamina
+Peng Xinli,MF,L,35,CHN,5,false,false,false,stamina,pace
+Tan Long,FW,L,38,CHN,6,false,false,false,pace,stamina
+Ohi Omoijuanfo,FW,R,32,NOR,7,true,false,false,stamina,pace
+Zhang Huachen,MF,L,28,CHN,7,true,false,false,stamina,pace
+Zhao Yingjie,MF,R,34,CHN,3,false,false,false,stamina,pace
+Stoppila Sunzu,CB,R,37,ZAM,5,false,false,false,stamina,heading
+Abduhamit Abdugheni,FB,R,28,CHN,6,true,false,false,stamina,pace
+Piao Taoyu,MF,R,33,CHN,7,false,false,false,stamina,pace
+Juan Camilo Salazar,FW,R,29,COL,4,true,false,false,pace,dribbling
+Lazar Rosic,CB,L,33,SRB,3,true,false,false,heading,tackling
+Xu Yue,MF,R,26,CHN,5,true,false,false,pace,passing
+Asqer Afrden,FW,L,22,CHN,6,false,false,false,pace,stamina
+Wang Yu,MF,R,24,CHN,7,true,false,false,stamina,pace
+Li Shenyuan,CB,R,28,CHN,4,true,false,false,pace,stamina
+Zhou Junchen,FW,L,26,CHN,5,false,false,false,pace,dribbling
+Xu Haofeng,FB,R,27,CHN,6,true,false,false,pace,stamina
+Sun Qinhan,FB,L,26,CHN,7,false,false,false,pace,dribbling
+Wu Zhicheng,MF,R,18,CHN,4,false,false,false,pace,stamina
+He Yiran,FB,L,21,CHN,5,false,false,false,marking,stamina
+Wang Yaopeng,CB,R,31,CHN,2,false,false,false,stamina,marking
+Xuan Zhijian,FW,R,20,CHN,5,false,false,false,stamina,pace
+Liu Guobao,FW,R,23,CHN,6,false,false,false,pace,stamina
+Yan Zhiyu,FB,L,33,CHN,7,false,false,false,pace,marking
+Tian Yuda,FW,R,24,CHN,2,false,false,false,finishing,dribbling
+Jing Boxi,CB,R,20,CHN,5,false,false,false,stamina,pace
+Wu Yake,GK,R,35,CHN,6,false,false,false,positioning,penalty-saving
+Sun Guoliang,CB,R,35,CHN,7,false,false,false,tackling,stamina
+Zou Dehai,GK,R,33,CHN,3,false,false,false,rushing-out,reflexes
+Wang Zhifeng,GK,R,29,CHN,5,true,false,false,rushing-out,positioning
+An Zhicheng,GK,R,19,CHN,6,false,false,false,rushing-out,penalty-saving

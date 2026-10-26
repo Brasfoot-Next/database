@@ -1,0 +1,13 @@
+name = "Newcastle United"
+country = "ENG"
+level = 22
+reputation = 4
+colors = ["#201020", "#FFFFFF"]
+
+[stadium]
+name = "St James' Park"
+capacity = 52258
+
+[coach]
+name = "Fabian Gillespie"
+country = "BRA"

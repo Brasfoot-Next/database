@@ -1,0 +1,20 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rihards Matrevics,GK,R,23,LVA,6,true,false,false,positioning,rushing-out
+Pape Fall,FB,L,21,SEN,5,false,false,false,finishing,passing
+Emils Birka,FB,L,22,LVA,1,true,false,false,marking,pace
+Maksims Tonisevs,FB,R,22,LVA,3,true,false,false,crossing,pace
+Daniels Balodis,CB,R,24,LVA,6,true,false,false,heading,stamina
+Roman Yakuba,CB,L,21,UKR,5,true,false,false,tackling,stamina
+Roberts Veips,CB,R,22,LVA,1,false,false,false,marking,pace
+Alvis Jaunzems,MF,R,23,LVA,2,true,false,false,passing,finishing
+Luka Silagadze,MF,L,23,GEO,5,false,false,false,finishing,passing
+Daisuke Yokota,MF,R,22,JPN,9,true,false,false,tackling,passing
+Ivan Zhelizko,MF,R,21,UKR,9,true,false,false,tackling,finishing
+Masaki Murata,MF,L,22,JPN,2,true,false,false,finishing,passing
+Kristers Cudars,MF,L,22,LVA,10,false,false,false,tackling,marking
+Djibril Gueye,FW,R,25,SEN,6,false,false,false,heading,stamina
+Raimonds Krollis,FW,R,20,LVA,10,true,false,false,heading,pace
+Camilo Mena,FW,L,19,COL,2,true,false,false,finishing,dribbling
+Alioune Ndoye,FW,R,20,SEN,4,false,false,false,finishing,pace
+Klavs Lauva,GK,R,18,LVA,6,false,false,false,positioning,rushing-out
+Meissa Diop,MF,R,19,SEN,9,false,false,false,tackling,marking

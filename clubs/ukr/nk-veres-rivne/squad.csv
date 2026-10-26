@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Valentyn Gorokh,GK,R,25,UKR,5,true,false,false,rushing-out,reflexes
+Andrey Kozhukhar,GK,R,26,UKR,6,false,false,false,rushing-out,positioning
+Pavlo Stefanyuk,GK,L,21,UKR,7,false,false,false,reflexes,rushing-out
+Kai Cipot,CB,L,25,SVN,3,true,false,false,heading,stamina
+Semen Vovchenko,CB,R,27,UKR,5,true,false,false,stamina,heading
+Danyil Checher,CB,L,21,UKR,6,false,false,false,heading,stamina
+Maksym Smiyan,FB,R,24,UKR,7,true,false,false,tackling,pace
+Konstantinos Stamoulis,FB,L,25,GRE,3,true,false,false,stamina,pace
+Mykhaylo Protasevych,FB,L,21,UKR,5,false,false,false,crossing,passing
+Igor Kharatin,MF,R,31,UKR,6,true,false,false,dribbling,passing
+Vitaliy Boyko,MF,R,28,UKR,5,true,false,false,passing,finishing
+David Niyo,MF,R,19,UKR,6,false,false,false,playmaking,finishing
+Rostyslav Baran,MF,R,21,UKR,10,false,false,false,dribbling,passing
+Fabrício Yan,MF,L,22,BRA,5,true,false,false,passing,tackling
+Dmytro Godya,MF,R,21,UKR,5,true,false,false,passing,playmaking
+Wesley Pomba,FW,R,24,BRA,6,true,false,false,finishing,stamina
+André Gonçalves,FW,R,23,POR,4,false,false,false,pace,crossing
+Vladyslav Sharay,FW,R,29,UKR,5,true,false,false,pace,dribbling
+Guilherme Bahia,FW,R,20,BRA,6,false,false,false,pace,dribbling
+Nathanael Blair,FW,R,22,AUS,7,false,false,false,pace,stamina
+Alagie Wally,FW,R,20,UKR,5,false,false,false,pace,crossing

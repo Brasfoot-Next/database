@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Suraj Ayeleso,GK,L,31,NGA,5,true,false,false,penalty-saving,reflexes
+Anozie Chinedu,GK,R,27,NGA,7,false,false,false,penalty-saving,reflexes
+Zulkifilu Rabiu,FB,R,20,NGA,8,true,false,false,marking,passing
+Daniel Itodo,FB,L,25,NGA,6,true,false,false,finishing,pace
+Reuben Nicodemus,FB,L,20,NGA,4,false,false,false,finishing,pace
+Austine Opara,CB,R,26,NGA,5,true,false,false,tackling,stamina
+Ibrahim Buhari,CB,L,20,NGA,10,true,false,false,marking,pace
+Andrew Ikefe,CB,L,23,NGA,5,false,false,false,heading,stamina
+Sunday Anthony,MF,R,22,NGA,5,true,false,false,passing,finishing
+Silas Nenrot,MF,L,20,NGA,1,true,false,false,finishing,passing
+Charles Henlong,MF,L,29,NGA,3,true,false,false,passing,finishing
+Samuel Mathias,MF,L,25,NGA,2,true,false,false,playmaking,pace
+Jimmy Ambrose,MF,L,25,NGA,2,false,false,false,playmaking,finishing
+Haggai Katoh,MF,R,23,NGA,2,false,false,false,tackling,marking
+Aghahowa,MF,R,30,NGA,1,false,false,false,tackling,marking
+Arikpo Eteng,MF,L,23,NGA,7,false,false,false,tackling,pace
+Jesse Akila,FW,R,20,NGA,4,true,false,false,finishing,pace
+Reuben Bala,FW,L,22,NGA,3,true,false,false,finishing,pace
+Chimezie,FW,R,21,NGA,3,false,false,false,dribbling,pace
+Aliko Bala,FW,L,25,NGA,1,false,false,false,finishing,pace
+Abiodun Akande,GK,R,28,NGA,10,false,false,false,rushing-out,penalty-saving
+Ibrahim Abubakar,FB,R,22,NGA,6,false,false,false,finishing,passing
+Bitrus Wash,CB,R,28,NGA,6,false,false,false,tackling,marking

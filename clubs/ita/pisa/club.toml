@@ -1,0 +1,13 @@
+name = "Pisa"
+country = "ITA"
+level = 15
+reputation = 3
+colors = ["#000000", "#0060A0"]
+
+[stadium]
+name = "Cetilar® Arena"
+capacity = 12508
+
+[coach]
+name = "Arturo Denoon"
+country = "BRA"

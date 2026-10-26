@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Douglas Luiz,MF,R,28,BRA,5,false,false,false,playmaking,crossing
+Elliot Anderson,MF,L,23,ENG,6,true,false,false,stamina,dribbling
+Morgan Gibbs White,MF,R,26,ENG,8,true,false,false,playmaking,passing
+Oleksandr Zinchenko,FB,L,29,UKR,5,false,false,false,crossing,passing
+Ola Aina,FB,R,29,NGA,6,true,false,false,pace,tackling
+Dan Ndoye,FW,R,25,SUI,7,true,false,false,pace,dribbling
+Nicolas Dominguez,MF,R,28,ARG,9,false,false,false,stamina,tackling
+Callum Hudson Odoi,FW,L,25,ENG,5,true,false,false,dribbling,pace
+Murillo,CB,L,24,BRA,6,true,false,false,tackling,marking
+Ibrahim Sangare,MF,R,28,CIV,7,true,false,false,tackling,marking
+Neco Williams,FB,L,25,WAL,7,true,false,false,tackling,crossing
+Omari Hutchinson,MF,L,22,ENG,8,true,false,false,dribbling,pace
+Chris Wood,FW,R,34,NZL,5,false,false,false,heading,finishing
+Ryan Yates,MF,R,28,ENG,6,false,false,false,stamina,tackling
+Arnaud Kalimuendo,FW,R,24,FRA,7,false,false,false,finishing,dribbling
+Dilane Bakwa,FW,L,24,FRA,8,false,false,false,pace,dribbling
+Igor Jesus,FW,R,25,BRA,5,false,false,false,heading,finishing
+Nikola Milenkovic,CB,R,28,SRB,6,true,false,false,tackling,heading
+James Mcatee,FW,L,23,ENG,7,false,false,false,dribbling,passing
+Taiwo Awoniyi,FW,R,29,NGA,9,false,false,false,finishing,heading
+Jair Cunha,CB,R,21,BRA,5,false,false,false,heading,tackling
+Nicolo Savona,FB,R,23,ITA,6,false,false,false,marking,tackling
+Morato,CB,L,25,BRA,7,false,false,false,tackling,heading
+Willy Boly,CB,R,35,CIV,8,false,false,false,heading,marking
+Zach Abbott,CB,R,20,ENG,5,false,false,false,tackling,marking
+Matz Sels,GK,R,34,BEL,6,false,false,false,positioning,reflexes
+Angus Gunn,GK,R,30,SCO,7,false,false,false,reflexes,penalty-saving
+John Victor,GK,R,30,BRA,9,true,false,false,reflexes,penalty-saving

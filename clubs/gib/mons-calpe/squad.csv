@@ -1,0 +1,19 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Adam Stevens,GK,L,30,ENG,5,true,false,false,positioning,penalty-saving
+Álex Caro,GK,R,32,ESP,4,false,false,false,reflexes,positioning
+Christian Fraiz,GK,L,34,ARG,6,false,false,false,reflexes,positioning
+Dos Santos,FB,R,30,BRA,8,true,false,false,finishing,pace
+Mauricio Reygadas,FB,L,16,MEX,2,true,false,false,marking,passing
+Ayman Boulaich,FB,R,28,GIB,8,false,false,false,crossing,marking
+Ethan Santos,CB,R,23,GIB,10,true,false,false,tackling,heading
+James Parkinson,CB,L,22,GIB,8,true,false,false,tackling,stamina
+Álex Trujillo,CB,R,24,ESP,3,false,false,false,marking,pace
+Emanuel Ojeda,CB,L,31,ARG,2,false,false,false,tackling,stamina
+Javi Moreno,MF,R,26,ESP,2,true,false,false,pace,tackling
+Ashley Rodriguez,MF,L,32,GIB,1,true,false,false,tackling,pace
+Julio Bado,MF,R,39,GIB,2,true,false,false,tackling,finishing
+Nando Cózar,MF,L,31,ESP,4,true,false,false,tackling,marking
+Bilal Douah,MF,R,19,GIB,6,false,false,false,marking,passing
+Nathan Santos,FW,R,33,GIB,6,true,false,false,pace,finishing
+John-Paul Duarte,FW,R,35,GIB,10,true,false,false,dribbling,playmaking
+Robert Montovio,FW,R,37,GIB,4,false,false,false,heading,pace

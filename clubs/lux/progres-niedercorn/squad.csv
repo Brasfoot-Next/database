@@ -1,0 +1,20 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sebastien Flauss,GK,L,32,FRA,1,true,false,false,rushing-out,penalty-saving
+Eldin Latik,GK,R,19,LUX,8,false,false,false,reflexes,positioning
+Tom Boussong,GK,L,23,LUX,9,false,false,false,reflexes,positioning
+Yannick Bastos,FB,R,29,LUX,1,true,false,false,finishing,passing
+Florian Bohnert,FB,L,24,LUX,8,true,false,false,finishing,passing
+Alexandre Sacras,FB,L,21,LUX,8,false,false,false,finishing,pace
+Jader Soares,FB,R,25,LUX,1,false,false,false,finishing,passing
+Metin Karayer,CB,L,30,FRA,3,true,false,false,tackling,stamina
+Sofiane Ikene,CB,R,17,LUX,9,true,false,false,tackling,heading
+Vincent Peugnet,CB,R,24,FRA,7,false,false,false,heading,stamina
+Ben Vogel,MF,L,27,LUX,10,true,false,false,tackling,marking
+Brian Amofa,MF,R,29,FRA,7,true,false,false,marking,finishing
+Emir Bijelic,MF,R,24,BIH,9,true,false,false,marking,finishing
+Kevin Holtz,MF,R,29,LUX,2,true,false,false,playmaking,finishing
+Belmin Muratovic,MF,L,24,LUX,10,false,false,false,stamina,passing
+Antonio Luisi,FW,L,27,LUX,5,true,false,false,pace,finishing
+Bilal Hend,FW,R,22,FRA,8,true,false,false,finishing,stamina
+Mayron Almeida,FW,R,26,BEL,6,false,false,false,finishing,pace
+Antoine Mazure,FW,R,23,FRA,2,false,false,false,heading,pace

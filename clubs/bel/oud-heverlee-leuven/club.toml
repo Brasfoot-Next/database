@@ -1,0 +1,13 @@
+name = "Oud-Heverlee Leuven"
+country = "BEL"
+level = 13
+reputation = 3
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "King Power at Den Dreef Stadion"
+capacity = 9809
+
+[coach]
+name = "Nachon Teklab"
+country = "BRA"

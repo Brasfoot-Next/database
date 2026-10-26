@@ -1,0 +1,13 @@
+name = "Lyon"
+country = "FRA"
+level = 18
+reputation = 4
+colors = ["#F0F0F0", "#000050"]
+
+[stadium]
+name = "Groupama Stadium"
+capacity = 59186
+
+[coach]
+name = "Tyler Vinícius"
+country = "BRA"

@@ -1,0 +1,13 @@
+name = "Al Fayha"
+country = "KSA"
+level = 12
+reputation = 2
+colors = ["#F0F0F0", "#203070"]
+
+[stadium]
+name = "Al-Majma'ah Sports City"
+capacity = 7000
+
+[coach]
+name = "Mikel Bishi"
+country = "BRA"

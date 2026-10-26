@@ -1,0 +1,13 @@
+name = "Servette FC"
+country = "SUI"
+level = 13
+reputation = 3
+colors = ["#602030", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Loun Rouiller"
+country = "BRA"

@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Agus Medina,FW,R,32,ESP,6,false,false,false,stamina,marking
+Morci,FW,L,27,ESP,7,true,false,false,pace,stamina
+Riki,MF,L,28,ESP,1,true,false,false,stamina,playmaking
+Puertas,FW,L,34,ESP,5,false,false,false,playmaking,dribbling
+Carlos Neva,FB,L,30,ESP,6,true,false,false,stamina,pace
+Jefté,FW,R,33,ESP,8,true,false,false,heading,finishing
+Fran Gámez,FB,R,35,ESP,4,false,false,false,stamina,pace
+Pepe Sánchez,CB,L,26,ESP,5,true,false,false,heading,tackling
+Javi Villar,MF,R,23,ESP,6,false,false,false,passing,tackling
+Pacheco,MF,R,24,ESP,10,true,false,false,playmaking,passing
+Lazo,FW,L,30,ESP,5,false,false,false,pace,passing
+Higinio,FW,R,32,ESP,6,false,false,false,heading,finishing
+Capi,MF,R,20,ESP,7,false,false,false,pace,passing
+Meléndez,MF,R,27,ESP,3,true,false,false,playmaking,passing
+Vallejo,CB,R,29,ESP,5,false,false,false,marking,tackling
+Dani Escriche,MF,R,28,ESP,6,true,false,false,heading,finishing
+Jon García,CB,R,35,ESP,7,true,false,false,marking,stamina
+Javi Moreno,CB,R,26,ESP,3,false,false,false,pace,tackling
+Víctor Valverde,FW,R,24,ESP,5,false,false,false,pace,dribbling
+Dani Bernabéu,FB,L,19,ESP,6,false,false,false,pace,dribbling
+Jonathan German Gomez,FB,L,23,MEX,5,true,false,false,pace,stamina
+Jota,FB,R,20,ESP,6,false,false,false,pace,stamina
+Lorenzo,FB,R,23,ESP,7,false,false,false,passing,crossing
+Diego Mariño,GK,R,36,ESP,2,false,false,false,positioning,rushing-out
+Raúl Lizoain,GK,L,35,ESP,5,false,false,false,positioning,rushing-out
+Mario Ramos,GK,R,22,ESP,6,true,false,false,positioning,rushing-out

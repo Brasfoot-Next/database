@@ -1,0 +1,13 @@
+name = "Charlton Athletic"
+country = "ENG"
+level = 12
+reputation = 2
+colors = ["#000000", "#D00010"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Harvey Bell"
+country = "BRA"

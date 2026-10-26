@@ -1,0 +1,13 @@
+name = "NSÍ Runavík"
+country = "FRO"
+level = 12
+reputation = 1
+colors = ["#ffcc00", "#000000"]
+
+[stadium]
+name = "Við Løkin"
+capacity = 2000
+
+[coach]
+name = "Helgi Jacobsen"
+country = "FRO"

@@ -1,0 +1,13 @@
+name = "Sandefjord Fotball"
+country = "NOR"
+level = 9
+reputation = 2
+colors = ["#005090", "#FFFFFF"]
+
+[stadium]
+name = "Jotun Arena"
+capacity = 8000
+
+[coach]
+name = "Kristoffer Sigurdharson"
+country = "BRA"

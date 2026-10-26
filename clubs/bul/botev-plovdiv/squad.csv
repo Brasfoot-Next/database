@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Daniel Naumov,GK,L,28,BUL,6,true,false,false,positioning,reflexes
+Hristiyan Slavkov,GK,R,23,BUL,7,false,false,false,penalty-saving,reflexes
+Nikolay Prandzhev,GK,R,20,BUL,3,false,false,false,positioning,penalty-saving
+Nikola Soldo,CB,R,25,CRO,5,false,false,false,heading,passing
+Simeon Petrov,CB,L,26,BUL,6,true,false,false,heading,marking
+Ivaylo Videv,CB,L,20,BUL,2,false,false,false,marking,stamina
+Timothy Awany,CB,R,29,UGA,5,true,false,false,tackling,stamina
+Bryan Hein,FB,R,24,GER,6,true,false,false,tackling,pace
+Vladimir Mendes,FB,R,21,GNB,7,false,false,false,stamina,pace
+Bogdan Kostov,FB,R,24,BUL,2,true,false,false,tackling,stamina
+Gabriel Zlatanov,FB,L,21,BUL,6,false,false,false,passing,pace
+Henrique Jocú,MF,L,24,POR,8,false,false,false,tackling,passing
+Lucas Araújo,MF,R,27,BRA,4,true,false,false,finishing,passing
+Edson Silva,MF,R,25,GNB,5,false,false,false,tackling,marking
+John Emmanuel,MF,R,20,NGA,6,false,false,false,pace,dribbling
+Asen Chandarov,MF,R,27,BUL,10,true,false,false,stamina,passing
+Carlos Algarra,MF,R,26,ESP,4,true,false,false,pace,dribbling
+Nikola Iliev,MF,R,22,BUL,5,false,false,false,dribbling,passing
+Georgi Milanov,MF,L,34,BUL,7,true,false,false,stamina,passing
+Dimitar Tonev,MF,L,24,BUL,1,false,false,false,dribbling,playmaking
+Todor Nedelev,MF,R,33,BUL,7,false,false,false,stamina,tackling
+Samuil Tsonov,MF,R,18,BUL,3,false,false,false,playmaking,dribbling
+Veliyan Vidolov,MF,L,20,BUL,5,false,false,false,finishing,playmaking
+Pedro Igor,FW,L,24,BRA,6,false,false,false,pace,finishing
+Samuel Kalu,FW,L,28,NGA,7,true,false,false,heading,pace
+Williams Chimezie,FW,L,20,NGA,3,false,false,false,heading,pace
+Carlos Meotti,FW,R,21,POR,5,false,false,false,heading,pace
+Chidera Okoh,FW,R,23,NGA,6,true,false,false,playmaking,finishing
+Mascote,FW,R,29,BRA,7,false,false,false,pace,finishing

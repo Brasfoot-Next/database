@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Abdoulaye Diakhaté,GK,L,29,SEN,7,false,false,false,reflexes,rushing-out
+Papa Ndiaye,GK,R,26,SEN,4,false,false,false,reflexes,positioning
+Bassirou Ndao,GK,L,23,SEN,6,false,false,false,reflexes,positioning
+Boubacar Fall,GK,R,25,SEN,7,true,false,false,rushing-out,reflexes
+Adama Wade,CB,L,29,SEN,3,false,false,false,marking,passing
+Malick Sembène,CB,R,24,SEN,5,true,false,false,heading,stamina
+Nouha Coly,CB,R,21,SEN,6,false,false,false,tackling,marking
+Mamadou Diatta,CB,R,20,SEN,7,false,false,false,tackling,pace
+Balla Guissé,CB,R,25,SEN,3,false,false,false,heading,stamina
+Kabinet Kouyaté,CB,R,23,GUI,5,false,false,false,heading,stamina
+Madieng Ndiaye,CB,R,28,SEN,5,true,false,false,marking,passing
+Falilou Fall,FB,R,23,SEN,6,true,false,false,tackling,marking
+Papa Gaye,FB,R,22,SEN,7,false,false,false,crossing,pace
+Adama Barry,FB,R,23,SEN,2,true,false,false,marking,crossing
+Youssoupha Camara,MF,R,20,SEN,5,false,false,false,tackling,passing
+Makha Ben Ahmad Ba,MF,L,27,SEN,6,true,false,false,dribbling,playmaking
+Pape Preira,MF,R,25,SEN,7,true,false,false,playmaking,dribbling
+Babacar Cissé,MF,R,20,SEN,3,false,false,false,tackling,marking
+Alphousseyni Diambang,MF,L,20,SEN,5,false,false,false,finishing,playmaking
+Pape Ibrahima Ba,MF,R,26,SEN,6,true,false,false,pace,dribbling
+Issaga Kane,MF,L,23,SEN,4,false,false,false,finishing,passing
+Mor Faye,MF,L,20,SEN,5,false,false,false,finishing,passing
+Naby Soumah,MF,L,24,GUI,6,true,false,false,stamina,tackling
+Ameth Niang,MF,R,19,SEN,8,false,false,false,passing,tackling
+Maheri Touré,MF,L,19,SEN,4,false,false,false,passing,stamina
+Abdoulaye Oualy,FW,R,28,SEN,6,true,false,false,playmaking,finishing
+Malick Ndoye,FW,R,22,SEN,6,false,false,false,pace,crossing
+Abdoulaye Faty,FW,R,21,SEN,9,false,false,false,finishing,heading
+Saliou Guèye,FW,R,24,SEN,5,false,false,false,dribbling,playmaking
+Souleymane Coly,FW,R,25,SEN,6,true,false,false,finishing,stamina
+Sadraque Monteiro,FW,R,20,GNB,7,false,false,false,heading,finishing
+Almamy Fall,FW,R,23,SEN,10,false,false,false,pace,finishing
+Mamadou Soumaré,FW,L,20,SEN,4,false,false,false,finishing,dribbling
+Mandione Mbaye,FW,R,23,SEN,5,false,false,false,pace,dribbling

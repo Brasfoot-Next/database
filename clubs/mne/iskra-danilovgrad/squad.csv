@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Marko Kordic,GK,R,27,MNE,6,true,false,false,penalty-saving,reflexes
+Radusinovic,GK,L,24,MNE,6,false,false,false,rushing-out,penalty-saving
+Djordje Saletic,FB,L,20,MNE,3,true,false,false,marking,pace
+Ognjen Obradovic,CB,L,22,MNE,10,true,false,false,tackling,stamina
+Nikola Kumburovic,CB,R,22,MNE,2,true,false,false,tackling,marking
+Nikola Vukotic,CB,L,19,MNE,4,false,false,false,tackling,stamina
+Petar Pavlicevic,MF,L,22,MNE,7,true,false,false,passing,finishing
+Damir Kojasevic,MF,L,35,MNE,10,false,false,false,finishing,passing
+Ivan Zlajic,GK,L,19,MNE,6,false,false,false,reflexes,positioning
+Andrej Pupovic,FB,R,21,MNE,3,true,false,false,marking,pace
+Petar Vukcevic,FB,R,21,MNE,3,false,false,false,finishing,passing
+Filip Mitrovic,CB,R,28,MNE,10,false,false,false,marking,pace
+Zarko Popovic,MF,R,22,MNE,6,true,false,false,playmaking,pace
+Ivan Markovic,MF,R,28,SRB,6,false,false,false,playmaking,finishing
+Darko Nikac,FW,L,31,MNE,7,true,false,false,heading,pace
+Halil Muharemovic,FW,R,24,MNE,5,true,false,false,dribbling,finishing
+Alonzo Peart,FW,L,20,USA,5,false,false,false,playmaking,finishing
+Leo Jaukovic,FW,R,19,ENG,7,false,false,false,finishing,pace
+Vladimir Boljevic,MF,R,34,MNE,6,true,false,false,tackling,pace
+Danilo Markovic,MF,L,24,MNE,6,true,false,false,tackling,marking
+Bogdan Obradović,MF,R,20,MNE,5,false,false,false,marking,finishing
+Vladislav Rogosic,MF,L,27,MNE,5,false,false,false,tackling,pace

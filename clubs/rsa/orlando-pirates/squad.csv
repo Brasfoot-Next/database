@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Richard Ofori,GK,L,28,GHA,10,true,false,false,positioning,penalty-saving
+Mpontshane,GK,L,36,RSA,9,false,false,false,rushing-out,penalty-saving
+Innocent Maela,FB,L,29,RSA,3,true,false,false,marking,passing
+Wayde Jooste,FB,R,30,RSA,9,true,false,false,marking,pace
+Paseka Mako,FB,L,28,RSA,5,false,false,false,marking,pace
+Thabiso Sesane,CB,L,21,RSA,10,true,false,false,tackling,stamina
+Fortune Makaringe,MF,L,29,RSA,9,true,false,false,playmaking,passing
+Azola Tshobeni,MF,R,20,RSA,8,true,false,false,finishing,passing
+Ben Motshwari,MF,R,31,RSA,3,true,false,false,marking,finishing
+Siphesihle Ndlovu,MF,L,25,RSA,3,true,false,false,tackling,finishing
+Deon Hotto,FW,R,31,NAM,2,true,false,false,finishing,pace
+Pule,FW,R,30,RSA,8,true,false,false,pace,finishing
+Thembinkosi Lorch,FW,L,29,RSA,10,false,false,false,finishing,pace
+Dzvukamanja,FW,R,28,ZIM,9,false,false,false,finishing,dribbling
+Kopano Thuntsane,GK,L,22,RSA,2,false,false,false,rushing-out,penalty-saving
+Thabiso Monyane,FB,R,22,RSA,6,false,false,false,crossing,pace
+Nkosinathi Sibisi,CB,R,26,RSA,8,true,false,false,tackling,heading
+(Nyongo),CB,R,27,RSA,7,false,false,false,marking,pace
+Sandile Mthethwa,CB,L,25,RSA,10,false,false,false,marking,pace
+Collins Makgaka,MF,L,26,RSA,4,false,false,false,finishing,passing
+Bandile Shandu,MF,R,27,RSA,10,false,false,false,finishing,passing
+Miguel Timm,MF,L,30,RSA,4,false,false,false,tackling,pace
+Goodman Mosele,MF,R,22,RSA,9,false,false,false,marking,finishing

@@ -1,0 +1,13 @@
+name = "CS Constantine"
+country = "ALG"
+level = 11
+reputation = 2
+colors = ["#000000", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Ouadjih Zeghad"
+country = "BRA"

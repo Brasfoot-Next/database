@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Syazwan Buhari,GK,R,28,SGP,10,true,false,false,rushing-out,penalty-saving
+Zulfairuuz Rudy,GK,L,26,SGP,7,false,false,false,reflexes,positioning
+Danial Ilya,GK,R,18,SGP,10,false,false,false,penalty-saving,reflexes
+Irwan Shah,FB,L,32,SGP,4,true,false,false,marking,finishing
+Amirul Haikal,FB,R,21,SGP,5,true,false,false,marking,pace
+Ryaan Sanizal,FB,R,18,SGP,2,false,false,false,finishing,pace
+Irfan Najeeb,FB,L,21,SGP,3,false,false,false,marking,finishing
+Baihakki Khaizan,CB,L,37,SGP,7,true,false,false,tackling,stamina
+Madhu Mohana,CB,R,30,SGP,5,true,false,false,heading,stamina
+Daniel Bennett,CB,L,43,SGP,5,false,false,false,tackling,heading
+Mehmedovic,MF,L,23,SRB,3,true,false,false,stamina,passing
+Yasir Hanapi,MF,R,31,SGP,6,true,false,false,finishing,playmaking
+Iman Hakim,MF,R,19,SGP,4,true,false,false,finishing,passing
+Kyoga Nakamura,MF,L,24,JPN,7,true,false,false,marking,finishing
+Shah Shahiran,MF,R,21,SGP,9,false,false,false,marking,pace
+Hamizan Hisham,MF,L,20,SGP,3,false,false,false,tackling,pace
+Armin Bosnjak,FW,L,26,MNE,2,true,false,false,finishing,pace
+Danish Siregar,FW,R,18,SGP,10,true,false,false,finishing,pace
+Taufik Suparno,FW,L,25,SGP,1,false,false,false,dribbling,pace
+Ryan Tan,FW,L,19,SGP,5,false,false,false,pace,finishing

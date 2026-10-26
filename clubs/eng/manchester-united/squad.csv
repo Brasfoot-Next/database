@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Bruno Fernandes,MF,L,32,POR,5,true,true,false,stamina,playmaking
+Bryan Mbeumo,FW,L,27,CMR,6,true,true,false,finishing,pace
+Matheus Cunha,FW,L,27,BRA,7,true,false,false,dribbling,finishing
+Lisandro Martinez,CB,L,28,ARG,10,true,false,false,tackling,marking
+Diogo Dalot,FB,R,27,POR,5,true,false,false,pace,stamina
+Noussair Mazraoui,FB,R,28,MAR,6,false,false,false,dribbling,passing
+Kobbie Mainoo,MF,R,21,ENG,7,true,false,false,dribbling,passing
+Luke Shaw,CB,L,31,ENG,1,false,false,false,crossing,tackling
+Mason Mount,MF,R,27,ENG,6,true,false,false,crossing,dribbling
+Casemiro,MF,R,34,BRA,6,false,false,false,tackling,heading
+Manuel Ugarte,MF,R,25,URU,6,true,false,false,tackling,dribbling
+Amad,MF,L,24,CIV,8,false,false,false,dribbling,pace
+Benjamin Sesko,FW,R,23,SVN,4,false,false,false,pace,stamina
+Joshua Zirkzee,FW,R,25,NED,6,false,false,false,dribbling,playmaking
+Patrick Dorgu,FB,L,21,DEN,6,true,false,false,pace,dribbling
+Matthijs De Ligt,CB,R,27,NED,7,false,false,false,heading,marking
+Tyrell Malacia,FB,L,27,NED,9,false,false,false,tackling,dribbling
+Harry Maguire,CB,R,33,ENG,5,false,false,false,heading,tackling
+Leny Yoro,CB,R,20,FRA,6,true,false,false,tackling,marking
+Diego Leon,FB,L,19,PAR,7,false,false,false,pace,stamina
+Chido Obi,FW,R,18,DEN,6,false,false,false,pace,finishing
+Ayden Heaven,CB,L,19,ENG,7,false,false,false,tackling,marking
+Tyler Fredricson,CB,R,21,ENG,2,false,false,false,tackling,marking
+Tom Heaton,GK,R,40,ENG,6,false,false,false,positioning,penalty-saving
+Altay Bayindir,GK,R,28,TUR,6,false,false,false,reflexes,penalty-saving
+Senne Lammens,GK,R,24,BEL,7,true,false,false,positioning,penalty-saving

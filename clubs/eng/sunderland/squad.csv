@@ -1,0 +1,37 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Granit Xhaka,MF,L,33,SUI,6,true,true,false,passing,playmaking
+Arthur Masuaku,FB,L,32,COD,6,false,false,false,stamina,dribbling
+Reinildo,FB,L,32,MOZ,8,false,false,false,stamina,pace
+Habib Diarra,MF,R,22,SEN,4,true,false,false,dribbling,passing
+Luke Onien,CB,R,31,ENG,6,false,false,false,stamina,marking
+Lutsharel Geertruida,CB,R,26,NED,6,true,false,false,tackling,heading
+Noah Sadiki,MF,L,21,COD,8,true,false,false,stamina,passing
+Dan Neil,MF,R,24,ENG,6,false,false,false,stamina,passing
+Bertrand Traore,FW,L,31,BFA,6,false,false,false,dribbling,passing
+Nordi Mukiele,CB,R,28,FRA,7,true,false,false,tackling,marking
+Omar Alderete,CB,L,29,PAR,2,false,false,false,marking,heading
+Enzo Le Fee,MF,R,26,FRA,6,true,false,false,dribbling,passing
+Dennis Cirkin,FB,L,24,ENG,6,true,false,false,pace,stamina
+Chris Rigg,MF,L,19,ENG,8,false,false,false,passing,stamina
+Brian Brobbey,FW,R,24,NED,4,true,false,false,pace,finishing
+Jay Matete,MF,R,25,ENG,6,false,false,false,stamina,pace
+Trai Hume,FB,R,24,NIR,6,true,false,false,stamina,pace
+Wilson Isidor,FW,R,26,FRA,8,false,false,false,pace,finishing
+Simon Adingra,FW,L,24,CIV,4,false,false,false,pace,dribbling
+Eliezer Mayenda,FW,L,21,ESP,6,false,false,false,pace,stamina
+Timothee Pembele,FB,R,23,FRA,9,false,false,false,pace,dribbling
+Chemsdine Talbi,FW,R,21,MAR,5,true,false,false,pace,dribbling
+Abdoullah Ba,FW,R,23,FRA,6,false,false,false,stamina,pace
+Romaine Mundle,FW,L,23,ENG,7,false,false,false,pace,dribbling
+Ian Poveda,FW,L,26,COL,10,false,false,false,dribbling,pace
+Daniel Ballard,CB,R,26,NIR,5,false,false,false,tackling,heading
+Ajibola Alese,FB,L,25,ENG,6,false,false,false,pace,tackling
+Leo Hjelde,FB,L,23,NOR,7,false,false,false,pace,tackling
+Harrison Jones,MF,L,21,ENG,1,false,false,false,pace,playmaking
+Joe Anderson,CB,L,25,ENG,6,false,false,false,tackling,marking
+Ahmed Abdullahi,FW,R,22,NGA,6,false,false,false,pace,dribbling
+Zak Johnson,CB,R,22,ENG,8,false,false,false,stamina,heading
+Simon Moore,GK,R,36,ENG,4,false,false,false,reflexes,penalty-saving
+Anthony Patterson,GK,R,26,ENG,6,false,false,false,reflexes,penalty-saving
+Robin Roefs,GK,L,23,NED,7,true,false,false,reflexes,penalty-saving
+Blondy Nna Noukeu,GK,R,25,CMR,8,false,false,false,reflexes,penalty-saving

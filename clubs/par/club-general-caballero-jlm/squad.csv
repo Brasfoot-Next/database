@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Luis Guillén,GK,R,25,PAR,5,true,false,false,rushing-out,reflexes
+Carlos Urán,GK,L,23,PAR,6,false,false,false,reflexes,rushing-out
+Pablo Vargas,GK,R,22,PAR,7,false,false,false,penalty-saving,reflexes
+Tobías Castellano,CB,R,26,PAR,7,true,false,false,heading,tackling
+Junior Cantero,CB,L,19,PAR,4,true,false,false,marking,passing
+Gabriel Molinas,FB,R,22,PAR,5,true,false,false,marking,crossing
+Jesús Barrios,FB,L,22,PAR,6,true,false,false,marking,crossing
+Miller Mareco,FB,L,32,PAR,7,false,false,false,dribbling,pace
+Erik Mareco,FB,R,22,PAR,4,false,false,false,pace,tackling
+Enzo Alegre,MF,R,21,ARG,5,true,false,false,tackling,marking
+José Vera,MF,R,35,PAR,7,false,false,false,passing,stamina
+Marcelo Paredes,MF,R,33,PAR,4,true,false,false,tackling,passing
+Valentino Massi,MF,L,20,ARG,5,false,false,false,dribbling,playmaking
+Alexis Verdun,MF,R,28,PAR,6,true,false,false,dribbling,passing
+Gabriel Espinola,MF,L,20,PAR,8,false,false,false,pace,dribbling
+Diego Ocampo,MF,R,21,PAR,4,true,false,false,finishing,playmaking
+Iván Duarte,FW,L,21,PAR,5,false,false,false,pace,finishing
+Alexis Araujo,FW,R,22,ARG,7,false,false,false,pace,finishing
+Néstor Gomez,FW,R,19,PAR,9,false,false,false,heading,stamina
+Juan Martínez,FW,R,30,PAR,4,true,false,false,heading,finishing
+Richard Salinas,FW,R,31,PAR,7,false,false,false,crossing,pace
+Matías Schabus,FW,L,22,PAR,3,false,false,false,playmaking,finishing
+Jorge Colmán,FW,R,28,PAR,5,true,false,false,finishing,dribbling
+Hernán Ramírez,FW,R,26,PAR,6,false,false,false,pace,dribbling
+Guillermo Gill Bernal,FW,R,22,PAR,7,false,false,false,heading,stamina
+César Salinas,FW,L,23,PAR,3,false,false,false,dribbling,finishing
+Mathias González,FW,R,28,PAR,5,false,false,false,crossing,pace
+Leonardo Baigorria,FW,R,21,ARG,6,false,false,false,crossing,pace

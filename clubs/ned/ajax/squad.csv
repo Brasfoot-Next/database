@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kenneth Taylor,MF,L,24,NED,5,true,false,false,stamina,passing
+Davy Klaassen,MF,R,33,NED,6,false,false,false,stamina,finishing
+Steven Berghuis,FW,L,34,NED,7,false,false,false,playmaking,crossing
+Oliver Edvardsen,FW,L,27,NOR,9,false,false,false,pace,stamina
+Branco Van Den Boomen,MF,R,31,NED,5,false,false,false,crossing,passing
+Youri Regeer,MF,R,23,NED,6,false,false,false,passing,stamina
+Ko Itakura,CB,R,29,JPN,6,false,false,false,passing,tackling
+Kian Fitz Jim,MF,R,23,NED,7,false,false,false,stamina,dribbling
+Wout Weghorst,FW,R,34,NED,10,false,false,false,heading,finishing
+Owen Wijndal,FB,L,26,NED,5,false,false,false,pace,passing
+Anton Gaaei,FB,R,23,DEN,5,true,false,false,stamina,pace
+Kasper Dolberg,FW,R,28,DEN,6,true,false,false,finishing,pace
+Youri Baas,CB,L,23,NED,6,true,false,false,marking,passing
+Mika Godts,FW,L,21,BEL,7,true,false,false,dribbling,pace
+Oscar Gloukh,MF,R,22,NED,5,true,false,false,dribbling,pace
+James Mcconnell,MF,R,21,ENG,6,false,false,false,passing,playmaking
+Josip Sutalo,CB,R,26,CRO,6,true,false,false,pace,tackling
+Lucas Rosa,FB,R,26,BRA,8,true,false,false,stamina,pace
+Raúl Moro,FW,L,23,ESP,5,false,false,false,dribbling,pace
+Jorthy Mokio,MF,L,18,BEL,6,true,false,false,dribbling,tackling
+Sean Steur,MF,R,18,NED,2,true,false,false,pace,playmaking
+Aaron Bouwman,CB,R,19,NED,5,false,false,false,heading,tackling
+Lucas Jetten,FB,L,19,NED,6,false,false,false,pace,stamina
+Gerald Alders,FB,R,21,NED,7,false,false,false,pace,dribbling
+Rayane Bounida,FW,L,20,BEL,4,false,false,false,pace,playmaking
+Don Angelo Konadu,FW,R,20,NED,6,false,false,false,pace,finishing
+Remko Pasveer,GK,R,42,NED,6,false,false,false,positioning,rushing-out
+Vitezslav Jaros,GK,R,25,CZE,7,true,false,false,penalty-saving,rushing-out
+Joeri Heerkens,GK,R,20,NED,4,false,false,false,reflexes,positioning
+Paul Reverson,GK,R,21,GHA,6,false,false,false,reflexes,penalty-saving

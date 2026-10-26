@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Santiago Montiel,FW,L,25,ARG,7,true,false,false,pace,stamina
+Ivan Marcone,MF,L,36,ARG,5,false,false,false,stamina,passing
+Gabriel Avalos,FW,R,35,PAR,6,false,false,false,stamina,heading
+Leonardo Godoy,FB,R,31,ARG,7,true,false,false,pace,stamina
+Federico Mancuello,MF,L,37,ARG,8,false,false,false,crossing,playmaking
+Pablo Galdames,MF,R,29,CHI,5,true,false,false,stamina,passing
+Milton Valenzuela,FB,L,28,ARG,6,false,false,false,stamina,pace
+Felipe Loyola,MF,R,25,CHI,7,true,false,false,stamina,passing
+Federico Vera,FB,R,28,ARG,8,false,false,false,pace,stamina
+Rodrigo Fernandez,MF,R,30,URU,5,false,false,false,passing,playmaking
+Franco Paredes,CB,R,27,ARG,7,false,false,false,passing,pace
+Luciano Cabral,MF,R,31,CHI,2,true,false,false,pace,passing
+Matias Abaldo,FW,L,22,URU,6,true,false,false,pace,dribbling
+Walter Mazzantti,FW,R,30,ARG,7,false,false,false,pace,stamina
+Facundo Zabala,FB,L,27,ARG,10,true,false,false,pace,stamina
+Tomas Parmo,MF,R,18,ARG,5,false,false,false,pace,dribbling
+Ignacio Pussetto,FW,R,30,ARG,6,false,false,false,dribbling,finishing
+Lautaro Millan,MF,R,21,ARG,7,true,false,false,passing,playmaking
+Diego Tarzia,FW,L,23,ARG,1,false,false,false,pace,finishing
+Kevin Lomonaco,CB,R,24,ARG,5,true,false,false,heading,tackling
+Nicolas Freire,CB,L,32,ARG,7,false,false,false,heading,tackling
+Enzo Taborda,FW,L,21,ARG,9,false,false,false,pace,dribbling
+Jonathan De Irastorza,FB,L,21,ARG,5,false,false,false,stamina,pace
+Sebastian Valdez,CB,R,30,ARG,7,true,false,false,tackling,marking
+Fernando Closter,CB,R,18,ARG,8,false,false,false,stamina,tackling
+Rodrigo Rey,GK,R,35,ARG,5,true,false,false,reflexes,positioning
+Lucas Lavagnino,GK,R,22,ARG,6,false,false,false,reflexes,penalty-saving
+Mateo Morro,GK,L,21,ARG,7,false,false,false,positioning,rushing-out
+Joaquin Blazquez,GK,R,25,ARG,9,false,false,false,positioning,reflexes

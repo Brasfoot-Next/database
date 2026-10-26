@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Diego Gonzalez,MF,R,38,ARG,5,true,false,false,passing,tackling
+Jonathan Menendez,FW,R,32,ARG,6,false,false,false,pace,passing
+Juan Ignacio Cavallaro,MF,R,32,ARG,10,false,false,false,pace,dribbling
+Tomas Escalante,MF,R,27,ARG,4,true,false,false,pace,passing
+Marco Iacobellis,FW,L,26,ARG,5,false,false,false,pace,passing
+Santiago Salle,FB,R,22,ARG,6,true,false,false,pace,dribbling
+Horacio Tijanovich,FW,L,30,ARG,1,false,false,false,pace,finishing
+Sebastian Jaurena,MF,R,27,ARG,5,false,false,false,pace,dribbling
+Ayrton Portillo,FW,R,26,ARG,6,true,false,false,pace,stamina
+Tomas Fernandez,FW,R,28,ARG,7,false,false,false,dribbling,stamina
+Nicolas Watson,MF,L,28,ARG,6,true,false,false,marking,passing
+Ignacio Maestro Puch,FW,R,23,ARG,6,false,false,false,pace,heading
+Lucas Diarte,FB,L,33,ARG,10,false,false,false,stamina,marking
+Pablo Garcia,FW,R,27,URU,6,true,false,false,dribbling,pace
+Esteban Burgos,CB,R,34,ARG,7,true,false,false,stamina,marking
+Sebastian Gonzalez,FW,R,34,ARG,3,false,false,false,passing,crossing
+Franco Toloza,FW,R,32,ARG,5,false,false,false,heading,pace
+Tomas Lecanda,CB,R,24,ARG,6,false,false,false,pace,tackling
+Nicolas Pelaitay,MF,R,33,ARG,7,false,false,false,stamina,tackling
+Alejandro Molina,FB,R,29,ARG,3,true,false,false,stamina,pace
+Julian Marchio,CB,R,25,ARG,5,true,false,false,marking,tackling
+Gonzalo Matias Lucero,FB,L,22,ARG,6,false,false,false,pace,tackling
+Federico Anselmo,FW,R,32,ARG,7,false,false,false,heading,finishing
+Leonel Dante Alvarez,FB,L,30,ARG,4,false,false,false,tackling,marking
+Lucas Acosta,MF,L,21,ARG,5,true,false,false,pace,dribbling
+Luciano Recalde,CB,L,31,ARG,6,false,false,false,stamina,tackling
+Rodrigo Caseres,CB,R,29,ARG,7,false,false,false,stamina,heading
+Federico Bonansea,GK,R,28,ARG,1,false,false,false,penalty-saving,reflexes
+Matias Borgogno,GK,R,28,ARG,5,true,false,false,positioning,rushing-out
+Maximiliano Velazco,GK,R,31,ARG,6,false,false,false,positioning,penalty-saving

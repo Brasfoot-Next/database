@@ -1,0 +1,13 @@
+name = "25 Abril"
+country = "PRK"
+level = 15
+reputation = 3
+colors = ["#ff0000", "#ffffff"]
+
+[stadium]
+name = "Dia de Maio"
+capacity = 114000
+
+[coach]
+name = "Yun-son Oh"
+country = "PRK"

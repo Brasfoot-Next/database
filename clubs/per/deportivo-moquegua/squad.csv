@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Carlos Grados,GK,R,31,PER,3,false,false,false,positioning,penalty-saving
+Renzo Figueroa,GK,R,27,PER,5,true,false,false,penalty-saving,reflexes
+Thiago Bedoya,GK,R,17,PER,6,false,false,false,rushing-out,reflexes
+Cristian Enciso,CB,R,35,PAR,7,true,false,false,tackling,stamina
+José Luis Granda,CB,R,34,PER,4,true,false,false,heading,marking
+Juan Diego Lojas,CB,R,37,PER,5,false,false,false,tackling,pace
+Mathias Panizo,CB,R,18,PER,6,false,false,false,heading,marking
+Nicolás Amasifuén,FB,L,21,PER,6,false,false,false,tackling,marking
+Jimmy Jiménez,FB,L,23,PER,1,true,false,false,tackling,pace
+Aldair Perleche,FB,L,31,PER,5,false,false,false,crossing,pace
+Eros Montenegro,FB,R,24,PER,1,true,false,false,dribbling,pace
+Ricardo Chipao,MF,R,29,PER,5,true,false,false,finishing,playmaking
+Claudio Ramírez,MF,R,26,PER,6,true,false,false,playmaking,finishing
+Juan Agreda,MF,R,19,PER,7,false,false,false,passing,finishing
+Diego Ramírez,MF,R,31,PER,1,true,false,false,pace,dribbling
+Cristian Mejía,MF,R,33,PER,5,false,false,false,playmaking,dribbling
+Nicolás Chávez,MF,L,32,PAR,6,true,false,false,finishing,passing
+Róger Torres,MF,R,35,COL,7,false,false,false,finishing,playmaking
+Yorman Zapata,FW,R,25,COL,2,false,false,false,pace,dribbling
+Allonso Dávila,FW,R,24,PER,5,false,false,false,pace,crossing
+Alexander Lecaros,FW,R,26,PER,6,true,false,false,dribbling,finishing
+Kevin Ferreyra,FW,R,27,PER,7,true,false,false,finishing,dribbling
+Edgar Lastre,FW,R,26,ECU,1,false,false,false,crossing,pace
+Kevin Ruiz,FW,R,31,PER,5,false,false,false,finishing,dribbling
+Juan Vilela,FW,R,19,PER,6,false,false,false,crossing,pace
+Marcello Negrón,FW,R,20,PER,7,false,false,false,finishing,heading
+Bryan Angulo,FW,L,30,ECU,2,false,false,false,heading,pace
+Jeferson Collazos,FW,L,35,COL,5,false,false,false,crossing,pace

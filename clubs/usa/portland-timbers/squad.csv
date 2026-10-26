@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Matias Rojas,FW,L,30,PAR,4,false,false,false,dribbling,pace
+Jonathan Rodriguez,FW,L,33,URU,6,false,false,false,pace,stamina
+Joao Ortiz,MF,R,30,ECU,7,true,false,false,stamina,pace
+Felipe Carballo,MF,R,29,URU,3,false,false,false,stamina,passing
+Cristhian Paredes,MF,R,28,PAR,5,false,false,false,stamina,playmaking
+Diego Chara,MF,R,40,COL,6,false,false,false,stamina,tackling
+Kristoffer Velde,FW,L,26,NOR,7,true,false,false,pace,stamina
+David da Costa,MF,R,25,POR,3,true,false,false,dribbling,crossing
+Kamal Miller,CB,L,29,CAN,5,true,false,false,stamina,pace
+Jimer Fory,FB,L,24,COL,6,true,false,false,stamina,pace
+David Ayala,MF,L,24,ARG,3,true,false,false,passing,stamina
+Juan David Mosquera,FB,R,24,COL,5,false,false,false,stamina,pace
+Antony,FW,L,25,BRA,6,true,false,false,pace,dribbling
+Ariel Lassiter,FW,L,31,USA,7,false,false,false,pace,stamina
+Felipe Mora,FW,R,33,CHI,3,false,false,false,finishing,pace
+Omir Fernandez,MF,R,27,USA,5,true,false,false,pace,dribbling
+Kevin Kelsy,FW,L,22,VEN,6,false,false,false,pace,heading
+Eric Miller,FB,L,33,USA,7,true,false,false,stamina,pace
+Finn Surman,CB,R,22,NZL,3,true,false,false,stamina,tackling
+Zac Mcgraw,CB,R,29,CAN,5,false,false,false,heading,stamina
+Dario Zuparic,CB,R,34,CRO,4,false,false,false,heading,tackling
+Ian Smith,CB,L,24,USA,5,false,false,false,tackling,stamina
+Gage Guerra,FW,R,23,USA,6,false,false,false,pace,finishing
+Maxime Crepeau,GK,R,32,CAN,7,true,false,false,reflexes,penalty-saving
+James Pantemis,GK,L,29,CAN,1,false,false,false,reflexes,positioning
+Trey Muse,GK,R,27,USA,5,false,false,false,reflexes,positioning

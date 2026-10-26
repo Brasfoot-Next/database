@@ -1,0 +1,13 @@
+name = "Universitatea Cluj"
+country = "ROU"
+level = 11
+reputation = 2
+colors = ["#000000", "#D0D0D0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Andrei Tosca"
+country = "BRA"

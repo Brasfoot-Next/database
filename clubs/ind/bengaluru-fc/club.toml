@@ -1,0 +1,13 @@
+name = "Bengaluru FC"
+country = "IND"
+level = 6
+reputation = 1
+colors = ["#A0A0A0", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Sivasakthi Singh"
+country = "BRA"

@@ -1,0 +1,46 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Muhammed Şengezer,GK,R,29,TUR,8,true,false,false,reflexes,penalty-saving
+Deniz Dilmen,GK,R,21,TUR,5,false,false,false,positioning,penalty-saving
+Volkan Babacan,GK,R,38,TUR,6,false,false,false,positioning,penalty-saving
+Yusuf Yılmaz,GK,R,20,TUR,7,false,false,false,rushing-out,positioning
+Luca Stancic,GK,R,19,TUR,9,false,false,false,reflexes,positioning
+Jerome Opoku,CB,L,27,GHA,4,true,false,false,tackling,marking
+Emin Bayram,CB,R,23,TUR,6,true,false,false,stamina,tackling
+Hamza Güreler,CB,R,20,TUR,6,false,false,false,tackling,marking
+Francis Nzaba,CB,R,23,CGO,7,false,false,false,tackling,heading
+Ousseynou Ba,CB,R,30,SEN,4,false,false,false,tackling,heading
+Yağız Dilek,CB,L,21,TUR,6,false,false,false,heading,tackling
+Efe Arda Koyuncu,CB,R,21,TUR,7,false,false,false,marking,tackling
+Halit Emre Acun,CB,L,20,TUR,4,false,false,false,tackling,pace
+Christopher Operi,FB,R,29,TUR,6,true,false,false,marking,crossing
+Saba Kharebashvili,FB,R,17,GEO,6,false,false,false,stamina,pace
+Michal Karbownik,FB,L,25,POL,7,false,false,false,pace,stamina
+Emre Kaplan,FB,L,25,TUR,4,false,false,false,tackling,pace
+Doğukan Tuzcu,FB,R,20,TUR,6,false,false,false,stamina,pace
+Eren Karaağaç,FB,L,22,TUR,6,false,false,false,tackling,marking
+Festy Ebosele,FB,L,23,TUR,7,true,false,false,marking,pace
+Onur Bulut,FB,R,32,TUR,6,false,false,false,pace,crossing
+Ömer Ali Şahiner,FB,R,34,TUR,7,false,false,false,stamina,pace
+Ayberk Kaygısız,FB,R,21,TUR,1,false,false,false,stamina,crossing
+Berat Özdemir,MF,R,28,TUR,5,true,false,false,stamina,passing
+Jakub Kaluzinski,MF,R,23,POL,6,true,false,false,passing,stamina
+Onur Ergün,MF,R,33,TUR,7,false,false,false,stamina,heading
+Umut Güneş,MF,L,26,TUR,2,true,false,false,passing,stamina
+Olivier Kemen,MF,R,30,CMR,5,true,false,false,stamina,pace
+Miguel Crespo,MF,R,29,POR,6,false,false,false,stamina,dribbling
+Berkay Özcan,MF,L,28,TUR,7,false,false,false,stamina,dribbling
+Abdoulaye Yoro,MF,R,19,TUR,6,false,false,false,tackling,marking
+Ömer Beyaz,MF,L,23,TUR,7,false,false,false,dribbling,passing
+Matchoi Djaló,MF,R,23,POR,8,false,false,false,pace,dribbling
+Berkay Aydoğmuş,MF,R,22,TUR,5,false,false,false,pace,dribbling
+Onur İnan,MF,L,21,TUR,6,false,false,false,pace,dribbling
+Ivan Brnic,FW,L,25,CRO,7,false,false,false,dribbling,pace
+Berkay Aslan,FW,L,19,TUR,9,false,false,false,playmaking,finishing
+Abbosbek Fayzullaev,FW,R,22,UZB,5,false,false,false,passing,dribbling
+Yusuf Sarı,FW,L,27,TUR,6,false,false,false,dribbling,pace
+Edin Visca,FW,R,36,TUR,7,false,false,false,heading,finishing
+Eldor Shomurodov,FW,R,31,UZB,6,true,false,false,pace,dribbling
+Bertuğ Yıldırım,FW,R,24,TUR,6,true,false,false,playmaking,finishing
+Davie Selke,FW,R,31,GER,7,false,false,false,heading,finishing
+Batuhan Çelik,FW,R,21,TUR,5,false,false,false,finishing,pace
+Nuno da Costa,FW,R,35,TUR,6,false,false,false,pace,dribbling

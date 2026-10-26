@@ -1,0 +1,39 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lukas Hornicek,GK,R,24,POR,7,true,false,false,positioning,penalty-saving
+Bernardo,GK,R,23,BRA,8,false,false,false,reflexes,rushing-out
+João Carvalho,GK,R,22,POR,5,false,false,false,penalty-saving,reflexes
+Tiago Sá,GK,R,31,POR,6,false,false,false,positioning,rushing-out
+Gustaf Lagerbielke,CB,L,26,SWE,7,true,false,false,heading,tackling
+Bright Arrey-Mbi,CB,L,23,GER,8,true,false,false,pace,stamina
+Sikou Niakaté,CB,L,27,MLI,5,false,false,false,stamina,heading
+Adrian Barisic,CB,R,24,POR,6,false,false,false,heading,passing
+Adrian Bajrami,CB,R,24,SUI,7,false,false,false,tackling,pace
+Sergio Barcia,CB,L,25,ESP,9,false,false,false,marking,heading
+Jonatás Noro,CB,L,21,POR,6,false,false,false,marking,passing
+Paulo Oliveira,CB,R,34,POR,6,false,false,false,tackling,marking
+Leonardo Lelo,FB,L,26,POR,8,true,false,false,stamina,pace
+Chissumba,FB,L,21,POR,9,false,false,false,pace,stamina
+Bartlomiej Wdowik,FB,L,25,POL,5,false,false,false,stamina,crossing
+Víctor Gómez,FB,R,26,ESP,6,true,false,false,stamina,pace
+Diogo Travassos,FB,R,22,POR,7,false,false,false,pace,stamina
+Demir Ege Tıknaz,MF,R,22,TUR,9,true,false,false,stamina,playmaking
+Thiago Helguera,MF,R,20,URU,5,false,false,false,pace,stamina
+Vítor Carvalho,MF,R,29,BRA,6,false,false,false,stamina,marking
+Yanis da Rocha,MF,R,22,POR,6,false,false,false,heading,tackling
+Gorby,MF,R,23,FRA,6,true,false,false,marking,passing
+Diego Rodrigues,MF,R,21,POR,7,true,false,false,passing,dribbling
+Denis Huseinbasic,MF,R,25,POR,1,false,false,false,passing,finishing
+João Moutinho,MF,L,40,POR,5,false,false,false,passing,crossing
+Mario Dorgeles,MF,R,21,POR,6,true,false,false,pace,crossing
+Luisinho,MF,R,19,POR,7,false,false,false,dribbling,passing
+Ricardo Horta,FW,R,31,POR,8,true,false,false,playmaking,stamina
+Gabriel Silva,FW,L,24,BRA,5,false,false,false,pace,dribbling
+Gabri Martínez,FW,R,23,ESP,6,false,false,false,pace,stamina
+Ismaël Gharbi,FW,L,22,TUN,7,false,false,false,dribbling,pace
+João Marques,FW,L,24,POR,2,false,false,false,dribbling,playmaking
+Sandro Vidigal,FW,L,19,POR,6,false,false,false,pace,dribbling
+João Aragão,FW,R,18,POR,6,false,false,false,playmaking,finishing
+Pau Víctor,FW,R,24,ESP,7,true,false,false,finishing,pace
+Jonas Wind,FW,R,27,DEN,8,false,false,false,finishing,heading
+Fran Navarro,FW,R,28,ESP,5,false,false,false,stamina,pace
+Amine El Ouazzani,FW,L,25,MAR,6,false,false,false,stamina,finishing

@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mamadou Fofana,MF,R,25,FRA,3,true,false,false,pace,stamina
+Anderson,FW,R,28,BRA,5,false,false,false,stamina,pace
+Christopher Cvetko,MF,L,29,AUT,6,true,false,false,stamina,passing
+Shon Weissman,FW,R,30,AUT,7,true,false,false,stamina,pace
+Alexander Briedl,MF,L,24,AUT,4,true,false,false,stamina,passing
+Thomas Goiginger,FW,L,33,AUT,5,false,false,false,pace,playmaking
+Simon Seidl,FW,R,24,AUT,6,true,false,false,stamina,pace
+Ronivaldo,FW,R,37,BRA,7,false,false,false,stamina,heading
+Oliver Wahling,MF,R,27,GER,4,false,false,false,passing,playmaking
+Simon Pirkl,FW,L,29,AUT,5,false,false,false,stamina,crossing
+David Bumberger,FB,L,27,AUT,6,true,false,false,stamina,pace
+Felix Gerstmayer,MF,R,22,AUT,7,false,false,false,pace,stamina
+Dominik Reiter,FW,R,28,AUT,3,false,false,false,pace,dribbling
+Marcel Schantl,FB,R,26,AUT,5,true,false,false,passing,stamina
+Muharem Huskovic,FW,R,23,AUT,7,false,false,false,pace,dribbling
+Martin Moormann,CB,L,25,AUT,2,false,false,false,stamina,pace
+Nico Maier,MF,L,26,SUI,5,true,false,false,pace,playmaking
+Jakob Knollmuller,FW,R,23,AUT,6,false,false,false,pace,dribbling
+Paul Mensah,FW,R,26,GHA,7,false,false,false,pace,dribbling
+Manuel Maranda,CB,R,29,AUT,3,true,false,false,stamina,heading
+Alem Pasic,CB,R,29,AUT,6,true,false,false,heading,tackling
+João Luiz,FW,L,27,BRA,7,false,false,false,dribbling,pace
+Elias Bakatukanda,CB,L,22,GER,2,false,false,false,heading,tackling
+Fabio Varesi Strauss,CB,R,32,AUT,5,false,false,false,stamina,heading
+Matthias Wetschka,CB,R,21,AUT,6,false,false,false,tackling,stamina
+Thomas Turner,GK,L,28,AUT,9,false,false,false,reflexes,positioning
+Viktor Baier,GK,R,21,CZE,4,true,false,false,reflexes,positioning
+Valentin Oelz,GK,R,21,AUT,5,false,false,false,reflexes,penalty-saving
+Kevin Radulovic,GK,R,24,AUT,6,false,false,false,reflexes,penalty-saving

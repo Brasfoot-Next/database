@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jasem Al-Hail,GK,R,34,QAT,6,false,false,false,reflexes,rushing-out
+Yousef Hassan,GK,L,30,QAT,7,false,false,false,positioning,rushing-out
+Mohamed Saeed,GK,R,28,QAT,2,true,false,false,penalty-saving,reflexes
+Alexis Pérez,CB,L,32,COL,6,false,false,false,tackling,heading
+Simo Keddari,CB,R,21,ESP,6,false,false,false,tackling,stamina
+Al-Hashmi Al-Hussain,CB,R,22,QAT,7,true,false,false,marking,heading
+Issa Laye,CB,R,28,QAT,4,true,false,false,passing,marking
+Marwan Sherif,FB,R,20,QAT,6,false,false,false,passing,crossing
+Khatab Bauobida,FB,R,23,QAT,6,true,false,false,stamina,crossing
+Abdullah Maarafiya,FB,L,34,QAT,7,false,false,false,passing,crossing
+Abdulla Al-Salati,FB,L,23,QAT,7,false,false,false,marking,crossing
+Mousa Farawi,FB,L,28,QAT,5,true,false,false,marking,pace
+Yousuf Muftah,FB,R,38,QAT,6,false,false,false,stamina,crossing
+Gerard Hernández,MF,R,21,ESP,7,false,false,false,dribbling,passing
+Ahmed Fathi,MF,L,33,QAT,8,true,false,false,passing,stamina
+Salem Al-Hajri,MF,R,30,QAT,5,false,false,false,passing,stamina
+Jordan Veretout,MF,L,33,FRA,6,true,false,false,dribbling,playmaking
+Salem Reda,MF,R,19,QAT,7,false,false,false,marking,passing
+João Pedro Darros,MF,R,20,QAT,5,false,false,false,finishing,playmaking
+Pablo Sarabia,MF,L,34,ESP,6,true,false,false,tackling,marking
+Oussama Tannane,MF,R,32,MAR,7,true,false,false,finishing,passing
+Mohamed Khaled Gouda,FW,R,21,QAT,4,true,false,false,finishing,stamina
+Lotfi Madjer,FW,R,24,QAT,6,false,false,false,dribbling,finishing
+Shadi Ramzi Bouri,FW,R,23,USA,6,false,false,false,pace,dribbling
+Rodri Sánchez,FW,R,26,ESP,7,true,false,false,finishing,stamina
+Isaac Lihadji,FW,R,24,FRA,4,false,false,false,dribbling,playmaking
+Michael Olunga,FW,R,32,KEN,6,false,false,false,heading,finishing
+Youssef Snana,FW,R,22,TUN,6,false,false,false,finishing,pace

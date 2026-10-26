@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Zenonas Yla,GK,L,18,LTU,5,false,false,false,reflexes,positioning
+Sebastijonas Miseikis,GK,R,16,LTU,5,false,false,false,penalty-saving,rushing-out
+Zigmas Kasparavicius,FB,L,19,LTU,2,false,false,false,tackling,crossing
+Valdas Sakocius,FB,R,17,LTU,2,false,false,false,crossing,marking
+Baltramiejus Petrosiunas,FB,L,17,LTU,5,false,false,false,pace,crossing
+Teofilis Kulbys,CB,R,18,LTU,6,false,false,false,tackling,stamina
+Eligijus Didrikas,CB,L,16,LTU,5,false,false,false,marking,heading
+Leonardas Ivanauskas,CB,R,19,LTU,9,false,false,false,heading,tackling
+Baltramiejus Norbutas,MF,L,19,LTU,5,false,false,false,passing,finishing
+Eimantas Pakenas,MF,R,17,LTU,4,false,false,false,playmaking,pace
+Mikas Landzius,MF,L,16,LTU,5,false,false,false,tackling,finishing
+Švitrigaila Paldauskas,MF,R,19,LTU,7,false,false,false,marking,passing
+Mikas Orentas,FW,L,18,LTU,4,false,false,false,dribbling,pace
+Vilius Lydekaitis,FW,R,17,LTU,7,false,false,false,finishing,stamina
+Dionizas Martinkevicius,FW,L,19,LTU,6,false,false,false,finishing,dribbling

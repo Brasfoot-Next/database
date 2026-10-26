@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rói Hentze,GK,L,19,FRO,5,true,false,false,reflexes,positioning
+Jarleivur Schrøter,GK,R,16,FRO,5,false,false,false,penalty-saving,rushing-out
+Rókur Holdremyr,FB,L,19,FRO,2,false,false,false,tackling,crossing
+Arnold Sørensen,FB,R,17,FRO,2,false,false,false,crossing,marking
+Øssur Vágadal,FB,L,17,FRO,5,false,false,false,pace,crossing
+Berint Thomsen,CB,R,18,FRO,6,false,false,false,tackling,stamina
+Óla Reinert,CB,L,16,FRO,5,false,false,false,marking,heading
+Jónas Johansen,CB,R,19,FRO,9,false,false,false,heading,tackling
+Hørður Gulbranson,MF,L,19,FRO,5,false,false,false,passing,finishing
+Grímolvur Ganting,MF,R,17,FRO,4,false,false,false,playmaking,pace
+Eyðvarður Hanusardóttir,MF,L,16,FRO,5,false,false,false,tackling,finishing
+Torstein Poulsen,MF,R,19,FRO,7,false,false,false,marking,passing
+Ábram Sørensen,FW,L,18,FRO,4,false,false,false,dribbling,pace
+Sigfríður Rønne,FW,R,17,FRO,7,false,false,false,finishing,stamina
+Torgestur Lamhauge,FW,L,19,FRO,6,false,false,false,finishing,dribbling

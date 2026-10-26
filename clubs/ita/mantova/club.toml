@@ -1,0 +1,13 @@
+name = "Mantova"
+country = "ITA"
+level = 11
+reputation = 2
+colors = ["#F0F0F0", "#F03030"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Valerio Majer"
+country = "BRA"

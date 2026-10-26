@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Djalal Eddine Rahal,GK,R,25,ALG,5,true,false,false,reflexes,positioning
+Redouane Maachou,GK,R,25,ALG,5,false,false,false,positioning,penalty-saving
+Abdeldjabar Beklal,GK,R,21,ALG,7,false,false,false,positioning,rushing-out
+Hamidu Abdul Fatawu,CB,R,27,GHA,1,true,false,false,tackling,heading
+Khaled Bouhakak,CB,R,32,ALG,5,true,false,false,marking,tackling
+Hamza Rebiai,CB,R,32,ALG,6,false,false,false,tackling,marking
+Mohamed Faiz Belgourai,FB,R,21,ALG,7,true,false,false,pace,crossing
+Djigo Saïkou,FB,L,21,CGO,2,false,false,false,crossing,passing
+Adda Derder,FB,R,28,ALG,5,true,false,false,tackling,marking
+Mohamed Abdelouahab Tlili,MF,R,23,ALG,6,true,false,false,passing,playmaking
+Ammar El Orfi,MF,R,27,ALG,6,true,false,false,passing,finishing
+Badr Eddine Touki,MF,R,26,ALG,7,true,false,false,playmaking,passing
+Faik Amrane,MF,R,28,ALG,7,true,false,false,dribbling,passing
+Messaoud Midoune,MF,L,31,ALG,4,false,false,false,tackling,marking
+Rezki Hamroune,FW,L,30,ALG,5,false,false,false,heading,finishing
+Nadji Ben Kheira,FW,R,30,ALG,6,false,false,false,pace,dribbling
+Oussama Khiari,FW,R,20,ALG,8,false,false,false,heading,stamina
+Naoufel Merdja,FW,R,20,ALG,4,false,false,false,crossing,pace
+Kheiredine Merzougui,FW,R,33,ALG,5,false,false,false,dribbling,finishing
+Mohamed Ridha Djahdou,FW,R,28,ALG,6,true,false,false,crossing,pace
+Destaing Sikoula,FW,R,21,CGO,3,false,false,false,pace,finishing
+Mamadou Sy,FW,R,25,ALG,5,true,false,false,playmaking,finishing

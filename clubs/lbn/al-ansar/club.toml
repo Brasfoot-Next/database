@@ -1,0 +1,13 @@
+name = "Al-Ansar"
+country = "LBN"
+level = 14
+reputation = 3
+colors = ["#006600", "#ffffff"]
+
+[stadium]
+name = "Ansar"
+capacity = 10000
+
+[coach]
+name = "Abu Al-Hail"
+country = "LBN"

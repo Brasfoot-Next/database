@@ -1,0 +1,13 @@
+name = "Oțelul Galați"
+country = "ROU"
+level = 9
+reputation = 2
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Oţelul"
+capacity = 13500
+
+[coach]
+name = "Ș. Ciobanu"
+country = "BRA"

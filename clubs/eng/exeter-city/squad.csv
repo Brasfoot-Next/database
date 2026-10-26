@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Reece Cole,MF,L,28,ENG,5,true,false,false,stamina,pace
+Ilmari Niskanen,FW,L,28,FIN,6,true,false,false,pace,stamina
+Edward Francis,MF,L,26,ENG,7,true,false,false,stamina,pace
+Jake Doyle Hayes,MF,L,27,IRL,4,true,false,false,passing,pace
+Danny Andrew,FB,L,35,ENG,5,true,false,false,stamina,crossing
+Jayden Wareham,FW,R,23,ENG,6,false,false,false,stamina,pace
+Ryan Rydel,FB,L,25,ENG,7,true,false,false,pace,stamina
+Jack Mcmillan,FW,R,28,SCO,4,false,false,false,stamina,pace
+Josh Magennis,FW,R,36,NIR,5,true,false,false,heading,stamina
+Pierce Sweeney,CB,R,31,IRL,6,false,false,false,stamina,heading
+Carlos Mendes Gomes,FW,L,27,GNB,7,false,false,false,pace,stamina
+Pedro Borges,MF,R,21,POR,5,false,false,false,pace,stamina
+Jack Aitchison,MF,R,26,SCO,6,true,false,false,pace,dribbling
+Ethan Brierley,MF,R,22,ENG,7,false,false,false,pace,stamina
+Kevin Mcdonald,MF,R,37,SCO,3,false,false,false,passing,playmaking
+Jack Fitzwater,CB,R,28,ENG,5,false,false,false,stamina,tackling
+Luca Woodhouse,CB,L,22,ENG,6,false,false,false,pace,stamina
+Sonny Cox,FW,L,21,ENG,7,false,false,false,pace,stamina
+Tom Dean,FW,R,20,ENG,3,false,false,false,pace,stamina
+Johnly Yfeko,CB,L,23,ENG,5,false,false,false,pace,tackling
+Andrew Oluwabori,FW,R,24,NGA,7,false,false,false,pace,finishing
+Charlie Cummins,MF,R,21,IRL,3,false,false,false,pace,passing
+Ed Turns,CB,L,23,WAL,6,true,false,false,stamina,tackling
+Akeel Higgins,FW,L,21,ENG,7,false,false,false,pace,stamina
+Sil Swinkels,CB,L,22,NED,2,true,false,false,tackling,marking
+Liam Oakes,MF,R,19,ENG,5,false,false,false,pace,passing
+George Birch,MF,R,19,ENG,6,false,false,false,pace,passing
+Kieran Wilson,FW,L,19,SCO,7,false,false,false,pace,heading
+Ed James,CB,R,21,WAL,2,false,false,false,tackling,heading
+Joe Whitworth,GK,R,22,ENG,5,true,false,false,rushing-out,reflexes
+Jack Bycroft,GK,R,24,ENG,7,false,false,false,penalty-saving,reflexes
+Frankie Phillips,GK,R,19,ENG,1,false,false,false,reflexes,penalty-saving

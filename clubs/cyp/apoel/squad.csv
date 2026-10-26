@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tsilingiris,GK,R,21,GRE,7,true,false,false,positioning,penalty-saving
+Vid Belec,GK,R,36,SVN,6,false,false,false,reflexes,positioning
+Christodoulou,GK,R,29,CYP,3,false,false,false,penalty-saving,reflexes
+Christos Wheeler,FB,L,25,CYP,6,true,false,false,finishing,pace
+Issam Chebake,FB,R,32,MAR,2,true,false,false,marking,finishing
+Franco Ferrari,FB,L,30,ARG,5,false,false,false,marking,finishing
+David Djamas,FB,R,18,CYP,1,false,false,false,crossing,pace
+Andreas Karo,CB,R,25,CYP,6,true,false,false,marking,pace
+José Crespo,CB,L,35,ESP,8,true,false,false,heading,stamina
+Bert Esselink,CB,R,22,NED,9,false,false,false,marking,pace
+Daniel Dumbravanu,CB,L,21,MDA,9,false,false,false,heading,stamina
+Efrem,MF,R,33,CYP,6,true,false,false,finishing,passing
+Giannis Satsias,MF,R,23,CYP,3,true,false,false,stamina,pace
+Stavros Gavriel,MF,L,20,CYP,4,true,false,false,passing,finishing
+Lucas Souza,MF,L,32,BRA,1,true,false,false,tackling,marking
+Murtaz Daushvili,MF,L,33,GEO,10,false,false,false,tackling,marking
+Lucas Villafañez,MF,L,30,ARG,4,false,false,false,finishing,passing
+Georgi Kostadinov,MF,R,31,BUL,7,false,false,false,marking,finishing
+Dieumerci Ndongala,FW,R,31,COD,7,false,false,false,pace,finishing
+Giorgi Kvilitaia,FW,L,28,GEO,5,false,false,false,dribbling,finishing
+Dimitris Theodorou,FW,R,24,CYP,3,true,false,false,heading,stamina
+Marquinhos,FW,L,29,BRA,3,true,false,false,pace,dribbling

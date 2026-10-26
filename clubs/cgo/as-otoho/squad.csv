@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ngobo,GK,L,32,CGO,2,true,false,false,positioning,penalty-saving
+Ombandza,GK,R,24,CGO,7,false,false,false,positioning,penalty-saving
+Perrauld Ndinga,GK,R,23,CGO,1,false,false,false,positioning,penalty-saving
+Dimitri Bissiki,FB,L,31,CGO,7,true,false,false,marking,passing
+Dorvel Dibekou,FB,R,23,CGO,3,true,false,false,marking,passing
+Karl Ekaya,FB,R,27,CGO,7,false,false,false,marking,passing
+Boris Moubhio,CB,L,33,CGO,4,true,false,false,tackling,marking
+Landry Bakima,CB,R,30,CGO,9,true,false,false,tackling,marking
+Jobel Ondongo,CB,L,26,CGO,8,false,false,false,tackling,stamina
+Souleymane Sakandé,CB,R,26,BFA,9,false,false,false,tackling,stamina
+Alou Bagayoko,MF,R,37,MLI,7,true,false,false,finishing,passing
+Garcia Nkouka,MF,R,28,CGO,6,true,false,false,dribbling,pace
+Cervelie Epoyo,MF,L,36,CGO,5,true,false,false,marking,passing
+Richy Ondongo,MF,L,25,CGO,9,true,false,false,marking,finishing
+Adama Zerbo,MF,R,34,BFA,1,false,false,false,passing,finishing
+Mandala Konté,MF,R,27,MLI,1,false,false,false,marking,finishing
+Biassadila,FW,L,27,CGO,8,true,false,false,finishing,dribbling
+Franchel Ibara,FW,R,32,CGO,2,true,false,false,finishing,pace
+Matheus Botamba,FW,R,29,CGO,2,false,false,false,pace,dribbling
+Mahamane Cissé,FW,R,28,NIG,5,false,false,false,pace,finishing

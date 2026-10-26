@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ahmed Basil,GK,L,25,IRQ,7,true,false,false,rushing-out,penalty-saving
+Yasin Karim,GK,L,32,IRQ,10,false,false,false,positioning,penalty-saving
+Khudhor Ali,FB,R,23,IRQ,6,true,false,false,finishing,passing
+Mustafa Maan,FB,L,25,IRQ,9,true,false,false,crossing,marking
+Hasan Ashour,FB,L,23,IRQ,1,false,false,false,marking,pace
+Haider Ali,FB,R,18,IRQ,3,false,false,false,marking,passing
+Natiq Naji,CB,L,32,IRQ,2,true,false,false,tackling,stamina
+Karrar Amer,CB,R,27,SYR,8,true,false,false,heading,stamina
+Niaz Mohammed,CB,L,29,IRQ,9,false,false,false,heading,stamina
+Mohammed Qasim,MF,L,25,IRQ,4,true,false,false,finishing,passing
+Hussein Younis,MF,R,26,IRQ,7,true,false,false,playmaking,pace
+Fahd Youssef,MF,R,34,SYR,4,true,false,false,playmaking,dribbling
+Alaa Abdulzahra,MF,L,34,IRQ,3,true,false,false,playmaking,finishing
+Boubacar Moumouni,MF,L,27,NIG,9,false,false,false,marking,finishing
+Ali Mahdi,MF,R,26,IRQ,5,false,false,false,tackling,marking
+Mohammad Mezher,MF,L,24,IRQ,5,false,false,false,marking,finishing
+Sadeq Zamil,MF,R,22,IRQ,6,false,false,false,marking,finishing
+Ali Husni,FW,R,27,IRQ,2,true,false,false,dribbling,pace
+Yaseen,FW,L,24,IRQ,8,true,false,false,finishing,pace
+Ahmed Zero,FW,L,19,IRQ,9,false,false,false,finishing,pace
+Mahmoud Al-Mawas,FW,R,29,SYR,4,false,false,false,dribbling,finishing

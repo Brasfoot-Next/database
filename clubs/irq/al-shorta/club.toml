@@ -1,0 +1,13 @@
+name = "Al Shorta"
+country = "IRQ"
+level = 13
+reputation = 3
+colors = ["#66a476", "#ffffff"]
+
+[stadium]
+name = "Al-Shaab"
+capacity = 34200
+
+[coach]
+name = "Momen Soliman"
+country = "EGY"

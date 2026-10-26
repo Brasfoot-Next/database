@@ -1,0 +1,13 @@
+name = "MSV Duisburg"
+country = "GER"
+level = 8
+reputation = 2
+colors = ["#F0F0F0", "#7080B0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Tobias Borkowski"
+country = "BRA"

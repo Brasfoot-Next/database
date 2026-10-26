@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Valentin Vada,FW,L,30,ARG,4,true,false,false,stamina,playmaking
+Morlaye Sylla,MF,R,28,GUI,5,true,false,false,stamina,pace
+Yakou Meite,FW,L,30,CIV,6,false,false,false,pace,heading
+Jesus Medina,FW,L,29,PAR,1,true,false,false,playmaking,stamina
+Abdulrahman Al Obaid,FB,L,33,KSA,4,true,false,false,pace,crossing
+Assan Ceesay,FW,L,32,GAM,5,true,false,false,pace,heading
+Nabil Alioui,FW,L,27,FRA,7,false,false,false,dribbling,pace
+Khaled Al Samiri,MF,R,29,KSA,1,true,false,false,stamina,dribbling
+Riyadh Sharahili,MF,L,33,KSA,5,true,false,false,stamina,tackling
+Abdelkader Bedrane,CB,L,34,ALG,6,true,false,false,stamina,heading
+Dhari Al Enazi,FB,L,26,KSA,7,true,false,false,stamina,pace
+Sanousi Hawsawi,FB,R,28,KSA,2,false,false,false,pace,stamina
+Yahya Al Najai,FW,R,27,KSA,5,false,false,false,pace,dribbling
+Hazzaa Al Ghamdi,FW,R,25,KSA,6,false,false,false,pace,stamina
+Abdullah Al Qahtani,FW,L,27,KSA,7,false,false,false,pace,stamina
+Noor Al Rashidi,CB,R,31,KSA,3,false,false,false,stamina,tackling
+Jawad Al Hassan,FW,R,22,KSA,5,false,false,false,dribbling,stamina
+Jamal Harkass,CB,R,30,MAR,5,true,false,false,heading,stamina
+David Kaiki,FW,R,22,BRA,6,false,false,false,pace,dribbling
+Abdulrahman Al Khaibari,FB,R,26,KSA,7,false,false,false,tackling,stamina
+Hassan Ali Rabea,CB,R,23,KSA,5,false,false,false,stamina,pace
+Kewin,GK,R,31,BRA,6,true,false,false,reflexes,penalty-saving
+Moataz Al Baqawi,GK,L,28,KSA,8,false,false,false,reflexes,penalty-saving
+Yahya Abu Dahi,GK,R,20,KSA,4,false,false,false,reflexes,positioning
+Nasser Al Ghamdi,GK,R,25,KSA,5,false,false,false,penalty-saving,positioning

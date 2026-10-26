@@ -1,0 +1,13 @@
+name = "Ñublense "
+country = "CHI"
+level = 15
+reputation = 2
+colors = ["#ff3300", "#000000"]
+
+[stadium]
+name = "Nelson Oyarzún"
+capacity = 12000
+
+[coach]
+name = "Jaime García"
+country = "CHI"

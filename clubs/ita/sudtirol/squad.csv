@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Daniele Casiraghi,MF,L,33,ITA,6,false,false,false,stamina,playmaking
+Salvatore Molina,FB,R,34,ITA,7,false,false,false,stamina,pace
+Mamadou Coulibaly,MF,R,27,SEN,3,true,false,false,pace,passing
+Fabian Tait,MF,R,33,ITA,5,false,false,false,stamina,passing
+Karim Zedadka,FB,L,26,FRA,6,true,false,false,dribbling,pace
+Simone Davi,FB,L,26,ITA,7,true,false,false,pace,stamina
+Alessandro Mallamo,MF,R,27,ITA,3,true,false,false,stamina,passing
+Simone Tronchin,MF,R,23,ITA,4,true,false,false,passing,stamina
+Jacopo Martini,MF,R,22,ITA,5,true,false,false,passing,dribbling
+Frederic Veseli,CB,R,33,ALB,6,false,false,false,marking,pace
+Silvio Merkaj,FW,R,28,ALB,4,true,false,false,stamina,heading
+Raphael Kofler,CB,R,21,ITA,5,false,false,false,stamina,tackling
+Andrea Masiello,CB,L,40,ITA,6,false,false,false,marking,heading
+Hamza El Kaouakibi,FB,R,28,MAR,7,false,false,false,pace,stamina
+Raphael Odogwu,FW,L,35,ITA,4,false,false,false,pace,finishing
+Nicola Pietrangeli,CB,R,26,ITA,5,true,false,false,heading,marking
+Jonathan Italeng,FW,R,25,CMR,6,true,false,false,finishing,pace
+Emanuele Pecorino,FW,L,25,ITA,8,false,false,false,heading,passing
+Dhirar Brik,MF,R,18,ITA,4,false,false,false,passing,stamina
+Filipe Bordon,CB,R,21,BRA,5,true,false,false,tackling,heading
+Federico Davi,FB,L,24,ITA,3,false,false,false,marking,tackling
+Davide Mancini,CB,R,21,ITA,5,false,false,false,tackling,marking
+Marius Adamonis,GK,R,29,LTU,6,true,false,false,reflexes,penalty-saving
+Giacomo Poluzzi,GK,R,38,ITA,7,false,false,false,positioning,rushing-out
+Daniel Theiner,GK,R,22,ITA,3,false,false,false,reflexes,penalty-saving

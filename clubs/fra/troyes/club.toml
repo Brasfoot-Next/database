@@ -1,0 +1,13 @@
+name = "Troyes"
+country = "FRA"
+level = 11
+reputation = 2
+colors = ["#0060A0", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Aly Lemaitre"
+country = "BRA"

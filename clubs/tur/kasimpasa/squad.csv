@@ -1,0 +1,40 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Andreas Gianniotis,GK,R,33,GRE,7,true,false,false,reflexes,penalty-saving
+Ali Emre Yanar,GK,R,28,TUR,10,false,false,false,penalty-saving,positioning
+Ramazan Özkanlı,GK,R,23,TUR,5,false,false,false,positioning,penalty-saving
+Ege Albayrak,GK,R,18,TUR,6,false,false,false,positioning,rushing-out
+Şant Kazancı,GK,R,17,TUR,7,false,false,false,rushing-out,reflexes
+Adem Arous,CB,R,22,TUN,1,true,false,false,tackling,pace
+Matei Ilie,CB,L,23,ROU,6,true,false,false,stamina,tackling
+Taylan Aydın,CB,L,20,TUR,7,false,false,false,marking,tackling
+Berkay Muratoğlu,CB,R,18,TUR,9,false,false,false,heading,stamina
+Ahmet Taha Dağbaşı,CB,R,21,TUR,5,false,false,false,marking,heading
+Godfried Frimpong,FB,L,27,NED,4,true,false,false,pace,marking
+Jakob Jessen,FB,L,22,DEN,6,false,false,false,pace,stamina
+Adnan Aktaş,FB,R,19,TUR,6,false,false,false,marking,crossing
+Ayberk Karapo,FB,L,21,TUR,7,true,false,false,stamina,pace
+Cláudio Winck,FB,R,32,BRA,4,false,false,false,stamina,crossing
+Kamil Ahmet Çörekçi,FB,L,34,TUR,6,false,false,false,tackling,marking
+Andri Fannar Baldursson,MF,R,24,ISL,6,true,false,false,passing,tackling
+Elson Mendes,MF,R,20,TUR,7,false,false,false,passing,playmaking
+Atakan Müjde,MF,R,22,TUR,5,false,false,false,passing,playmaking
+Emirhan Boz,MF,L,20,TUR,6,false,false,false,passing,playmaking
+Burak Gültekin,MF,R,19,TUR,10,true,false,false,playmaking,finishing
+Oğuzhan Yılmaz,MF,R,23,TUR,5,false,false,false,dribbling,passing
+Kerem Demirbay,MF,L,33,GER,6,true,false,false,playmaking,passing
+Haris Hajradinovic,MF,R,32,TUR,7,true,false,false,stamina,passing
+Mortadha Ben Ouanes,FW,L,32,TUN,2,true,false,false,pace,playmaking
+Marcus Rafferty,FW,L,21,SWE,5,false,false,false,pace,stamina
+Ali Yavuz Kol,FW,L,25,TUR,6,false,false,false,pace,stamina
+Sercan Deniz,FW,R,19,TUR,7,false,false,false,finishing,heading
+Erdem Çetinkaya,FW,L,25,TUR,2,false,false,false,dribbling,pace
+Stann Élysée Dalo,FW,L,18,TUR,5,false,false,false,finishing,pace
+Thiemoko Diarra,FW,L,23,MLI,7,false,false,false,pace,finishing
+Fousseni Diabaté,FW,L,30,MLI,5,false,false,false,pace,dribbling
+Mamadou Fall,FW,R,34,SEN,6,false,false,false,pace,stamina
+Yasin Eratilla,FW,L,22,TUR,7,false,false,false,pace,finishing
+Pape Habib Guèye,FW,R,26,SEN,8,true,false,false,pace,stamina
+Yusuf Barası,FW,R,23,TUR,5,false,false,false,pace,stamina
+Kubilay Kanatsızkuş,FW,L,29,TUR,6,false,false,false,heading,stamina
+Berk Can Yıldızlı,FW,R,21,TUR,7,false,false,false,playmaking,finishing
+Sarp Yavrucu,FW,R,21,TUR,8,false,false,false,dribbling,playmaking

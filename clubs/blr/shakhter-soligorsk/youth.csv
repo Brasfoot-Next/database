@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ignatiy Dostanko ,GK,R,17,BLR,5,true,false,false,penalty-saving,rushing-out
+Pavel Scherbachenya,GK,L,19,BLR,7,true,false,false,positioning,reflexes
+Alexey Klemyatich,FB,R,17,BLR,5,true,false,false,crossing,tackling
+Oleg Garapchuk,FB,L,16,BLR,2,true,false,false,pace,crossing
+Nikita Dolmatovich,FB,R,18,BLR,7,true,false,false,crossing,passing
+Vadim Antonyuk,CB,L,19,BLR,9,true,false,false,stamina,marking
+Nikolay Zolotov,CB,R,17,BLR,10,true,false,false,heading,tackling
+Konstantin Naumenko,CB,L,18,BLR,6,true,false,false,marking,heading
+Artem Rapeyko,MF,R,18,BLR,3,true,false,false,dribbling,passing
+Egor Chernookiy,MF,L,16,BLR,9,true,false,false,playmaking,dribbling
+Vyacheslav Danilevich,MF,R,17,BLR,2,true,false,false,marking,finishing
+Vladislav Sivets,MF,L,16,BLR,2,true,false,false,tackling,pace
+Pavel Demidchik,FW,R,19,BLR,5,true,false,false,pace,dribbling
+Vitaliy Vysotskiy,FW,L,18,BLR,10,true,false,false,finishing,heading
+Viktor Sochilovich,FW,R,17,BLR,3,true,false,false,finishing,passing

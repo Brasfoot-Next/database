@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Dan Nistor,MF,R,38,ROU,1,false,false,false,stamina,playmaking
+Alexandru Chipciu,FB,L,37,ROU,5,false,false,false,stamina,pace
+Andrei Artean,MF,R,33,ROU,6,false,false,false,stamina,passing
+Alessandro Murgia,MF,R,30,ITA,7,true,false,false,stamina,passing
+Razvan Oaida,MF,R,28,ROU,2,false,false,false,stamina,tackling
+Ovidiu Bic,MF,L,32,ROU,5,true,false,false,stamina,pace
+Andrej Fabry,MF,L,29,SVK,6,false,false,false,pace,stamina
+Gabriel Simion,MF,R,28,ROU,7,true,false,false,stamina,pace
+Alin Tosca,CB,L,34,ROU,2,false,false,false,pace,heading
+Andrei Gheorghita,FW,R,24,ROU,5,false,false,false,pace,dribbling
+Dino Mikanovic,FB,R,32,CRO,6,true,false,false,pace,stamina
+Omar El Sawy,FW,R,22,ROU,6,false,false,false,pace,dribbling
+Miguel Silva,FB,L,30,POR,1,true,false,false,stamina,pace
+Mouhamadou Drammeh,MF,L,27,FRA,4,true,false,false,stamina,marking
+Virgiliu Postolachi,FW,R,26,ROU,5,false,false,false,pace,stamina
+Dorin Codrea,CB,R,29,ROU,7,true,false,false,stamina,marking
+Iulian Cristea,CB,L,32,ROU,1,true,false,false,stamina,pace
+Elio Capradossi,CB,R,30,UGA,5,false,false,false,tackling,heading
+Issouf Macalou,FW,L,27,CIV,6,true,false,false,pace,finishing
+Alin Chintes,FB,R,20,ROU,7,false,false,false,stamina,pace
+Jovo Lukic,FW,L,27,BIH,6,true,false,false,heading,stamina
+Jonathan Cisse,CB,R,29,CIV,7,false,false,false,stamina,heading
+Jasper Van Der Werff,CB,R,27,SUI,7,false,false,false,marking,heading
+Alexandru Bota,FW,L,18,ROU,4,false,false,false,pace,passing
+Atanas Trica,FW,R,22,ROU,5,false,false,false,heading,pace
+Edvinas Gertmonas,GK,R,30,LTU,6,true,false,false,reflexes,penalty-saving
+Ș. Lefter,GK,R,21,ROU,7,false,false,false,penalty-saving,reflexes
+Iustin Chirila,GK,R,20,ROU,4,false,false,false,reflexes,penalty-saving

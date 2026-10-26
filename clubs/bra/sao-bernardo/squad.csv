@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Matheus Nogueira,GK,R,28,BRA,6,true,false,false,reflexes,penalty-saving
+Alex Alves,GK,R,20,BRA,7,false,false,false,rushing-out,reflexes
+Júnior Oliveira,GK,L,36,BRA,3,false,false,false,positioning,reflexes
+Jemerson,CB,R,33,BRA,4,true,false,false,marking,stamina
+Augusto,CB,R,29,BRA,5,false,false,false,marking,heading
+Luizão,CB,L,24,BRA,6,true,false,false,tackling,marking
+Hélder Maciel,CB,R,36,BRA,7,false,false,false,tackling,stamina
+Matheus Salustiano,CB,L,33,BRA,4,false,false,false,tackling,stamina
+Wellington,CB,R,25,BRA,5,false,false,false,heading,stamina
+Pará,FB,L,30,BRA,6,true,false,false,stamina,crossing
+Mário Sérgio,FB,R,32,BRA,7,false,false,false,tackling,marking
+Jota,FB,R,21,BRA,4,false,false,false,pace,crossing
+Rodrigo Ferreira,FB,R,31,BRA,5,true,false,false,passing,pace
+Hugo Sanches,FB,L,32,BRA,6,false,false,false,passing,crossing
+Lucas Lima,MF,R,26,BRA,7,true,false,false,stamina,passing
+Romisson,MF,R,29,BRA,4,true,false,false,stamina,tackling
+Rodrigo Andrade,MF,R,29,BRA,5,false,false,false,pace,dribbling
+Foguinho,MF,R,34,BRA,6,false,false,false,finishing,passing
+Marcão,MF,L,32,BRA,7,false,false,false,heading,finishing
+Dudu Miraíma,MF,R,26,BRA,4,true,false,false,passing,playmaking
+Lucas Fernandes,MF,R,28,BRA,5,true,false,false,finishing,playmaking
+Hyoran,MF,L,33,BRA,6,false,false,false,passing,playmaking
+Pedrinho,FW,R,26,BRA,7,true,false,false,dribbling,playmaking
+Pedro Vitor,FW,R,28,BRA,4,true,false,false,dribbling,pace
+Echaporã,FW,R,26,BRA,5,false,false,false,heading,finishing
+Fabrício Daniel,FW,L,28,BRA,6,false,false,false,finishing,heading
+Felipe Garcia,FW,R,35,BRA,8,false,false,false,heading,finishing
+Lucas Rian,FW,R,26,BRA,4,false,false,false,finishing,dribbling
+Neto Costa,FW,R,29,BRA,5,false,false,false,heading,stamina
+Daniel Amorim,FW,R,36,BRA,6,false,false,false,pace,crossing
+Daniel Davi,FW,L,21,BRA,5,false,false,false,dribbling,finishing
+Lucas Reis,FW,R,25,BRA,6,false,false,false,heading,stamina

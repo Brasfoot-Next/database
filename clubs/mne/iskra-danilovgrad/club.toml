@@ -1,0 +1,13 @@
+name = "Iskra Danilovgrad"
+country = "MNE"
+level = 13
+reputation = 2
+colors = ["#cc0000", "#ffffff"]
+
+[stadium]
+name = "Braće Velašević "
+capacity = 2000
+
+[coach]
+name = "Milivoje Novovic"
+country = "MNE"

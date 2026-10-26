@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Manfred Fischer,MF,R,31,AUT,1,false,false,false,stamina,passing
+Reinhold Ranftl,FW,R,34,AUT,5,false,false,false,stamina,pace
+Manprit Sarkaria,MF,L,30,AUT,6,false,false,false,stamina,pace
+Abubakr Barry,MF,L,26,GAM,7,true,false,false,stamina,tackling
+Aleksandar Dragovic,CB,R,35,AUT,2,false,false,false,marking,tackling
+Johannes Eggestein,MF,R,28,GER,5,true,false,false,passing,playmaking
+Lee Tae Seok,FW,L,24,KOR,6,false,false,false,stamina,pace
+Hakim Guenouche,FB,L,26,FRA,7,false,false,false,pace,stamina
+Lee Kang Hee,MF,R,25,KOR,2,false,false,false,stamina,pace
+Philipp Wiesinger,CB,L,32,AUT,5,false,false,false,tackling,marking
+Noah Botic,FW,R,24,AUS,5,false,false,false,stamina,finishing
+Philipp Maybach,MF,R,18,AUT,7,true,false,false,passing,pace
+Luca Pazourek,FB,R,21,AUT,1,true,false,false,pace,tackling
+Marko Raguz,FW,R,28,AUT,5,false,false,false,dribbling,heading
+Kelvin Boateng,FW,R,26,GHA,6,true,false,false,pace,heading
+Florian Wustinger,MF,R,23,AUT,6,false,false,false,tackling,passing
+Romeo Vucic,FW,R,23,AUT,7,false,false,false,finishing,pace
+Ziad El Sheiwi,FB,L,22,AUT,3,false,false,false,pace,dribbling
+Sanel Saljic,MF,L,20,AUT,5,true,false,false,dribbling,pace
+Matteo Schablas,FB,L,21,AUT,6,true,false,false,pace,tackling
+Konstantin Aleksa,FW,R,19,AUT,5,true,false,false,pace,finishing
+Tin Plavotic,CB,L,29,CRO,6,true,false,false,heading,passing
+Johannes Handl,CB,R,28,AUT,7,false,false,false,heading,stamina
+Dejan Radonjic,CB,R,20,AUT,4,false,false,false,tackling,pace
+Ifeanyi Ndukwe,CB,R,18,AUT,5,true,false,false,pace,tackling
+Samuel Sahin Radlinger,GK,R,33,AUT,6,true,false,false,rushing-out,reflexes
+Lukas Wedl,GK,R,30,AUT,7,false,false,false,reflexes,penalty-saving
+Mirko Kos,GK,R,29,AUT,2,false,false,false,reflexes,penalty-saving

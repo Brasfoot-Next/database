@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gaya Merbah,GK,L,31,ALG,7,false,false,false,reflexes,penalty-saving
+Mohamed Idir Hadid,GK,R,24,ALG,4,true,false,false,rushing-out,positioning
+Seif Benrabah,GK,R,23,ALG,5,false,false,false,positioning,reflexes
+Imad Kesraoui,GK,L,19,ALG,6,false,false,false,positioning,penalty-saving
+Zineddine Belaid,CB,R,27,ALG,7,true,false,false,tackling,stamina
+Toufik Cherifi,CB,R,24,ALG,4,false,false,false,tackling,heading
+Reda Benchaa,CB,L,24,ALG,5,true,false,false,heading,stamina
+Idir Mokeddem,CB,R,32,ALG,6,false,false,false,marking,heading
+Mohamed Amine Madani,CB,R,33,ALG,8,false,false,false,heading,passing
+Chouaib Boulkaboul,FB,L,25,ALG,4,true,false,false,passing,crossing
+Abdellah Bendouma,FB,R,24,ALG,6,false,false,false,crossing,pace
+Abdelhak Cherir,FB,R,21,ALG,7,false,false,false,stamina,pace
+Mohamed Réda Hamidi,FB,R,25,ALG,2,true,false,false,crossing,pace
+Oussama Benattia,FB,R,20,ALG,4,false,false,false,dribbling,pace
+Messala Merbah,MF,R,31,ALG,5,true,false,false,tackling,passing
+Mostapha Rezkallah Bott,MF,R,21,ALG,6,true,false,false,passing,finishing
+Arthur Bada,MF,L,23,ALG,7,true,false,false,dribbling,playmaking
+Youcef Izem,MF,R,19,ALG,4,false,false,false,dribbling,passing
+Badis Bouamama,MF,R,22,ALG,5,true,false,false,pace,dribbling
+Billal Messaoudi,FW,R,28,ALG,6,true,false,false,playmaking,finishing
+Lahlou Akhrib,FW,R,21,ALG,2,false,false,false,pace,finishing
+Mustapha Djabril Soukkou,FW,R,23,ALG,5,false,false,false,finishing,dribbling
+Jaredi Teixeira,FW,R,27,ANG,6,true,false,false,finishing,pace
+Islam Eddine Slimane Tichtich,FW,R,19,ALG,7,false,false,false,finishing,pace
+Aimen Mahious,FW,R,28,ALG,7,false,false,false,finishing,dribbling
+Oualid Malki,FW,R,21,ALG,4,false,false,false,finishing,dribbling
+Massinissa Nezla,FW,R,27,ALG,5,false,false,false,finishing,stamina

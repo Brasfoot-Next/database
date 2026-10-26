@@ -1,0 +1,13 @@
+name = "Alanyaspor"
+country = "TUR"
+level = 13
+reputation = 3
+colors = ["#F0F0F0", "#000000"]
+
+[stadium]
+name = "Alanya Oba Stadyumu"
+capacity = 9727
+
+[coach]
+name = "Steve Maestro"
+country = "BRA"

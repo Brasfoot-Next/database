@@ -1,0 +1,13 @@
+name = "Östers IF"
+country = "SWE"
+level = 8
+reputation = 2
+colors = ["#F0F0F0", "#207090"]
+
+[stadium]
+name = "Spiris Arena"
+capacity = 12000
+
+[coach]
+name = "Mattis Suhonen"
+country = "BRA"

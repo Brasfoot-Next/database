@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Walter,GK,R,38,BRA,10,false,false,false,rushing-out,positioning
+Alex Muralha,GK,R,36,BRA,5,false,false,false,rushing-out,positioning
+Georgemy,GK,R,30,BRA,7,false,false,false,reflexes,penalty-saving
+Thomazella,GK,R,35,BRA,9,true,false,false,rushing-out,reflexes
+Willian Machado,CB,R,29,BRA,5,true,false,false,heading,tackling
+João Victor,CB,R,27,BRA,6,false,false,false,pace,dribbling
+Lucas Oliveira,CB,L,30,BRA,7,true,false,false,tackling,marking
+Gabriel,CB,L,22,BRA,10,false,false,false,passing,marking
+Reinaldo,FB,L,36,BRA,5,true,false,false,tackling,pace
+Victor Luís,FB,L,33,BRA,6,false,false,false,pace,tackling
+Igor Formiga,FB,L,27,BRA,4,true,false,false,passing,pace
+Elias,FB,L,27,BRA,6,false,false,false,pace,tackling
+Daniel Borges,FB,R,33,BRA,6,false,false,false,crossing,passing
+Wesley Santos,FB,L,22,BRA,7,false,false,false,marking,pace
+Neto Moura,MF,L,29,BRA,5,true,false,false,passing,stamina
+Gabriel Pires,MF,R,32,BRA,6,false,false,false,dribbling,passing
+Denilson,MF,L,26,BRA,6,true,false,false,pace,dribbling
+José Aldo,MF,R,27,BRA,7,true,false,false,pace,dribbling
+Japa,MF,R,22,BRA,5,false,false,false,passing,finishing
+Shaylon,MF,R,29,BRA,6,true,false,false,stamina,passing
+Eduardo,MF,L,36,BRA,1,false,false,false,playmaking,passing
+Chico Kim,MF,R,35,BRA,5,false,false,false,stamina,tackling
+Alesson,FW,R,27,BRA,6,false,false,false,dribbling,playmaking
+Fernandinho,FW,R,28,BRA,7,false,false,false,finishing,heading
+Antonio Galeano,FW,R,26,PAR,2,true,false,false,pace,crossing
+Negueba,FW,R,26,BRA,5,true,false,false,playmaking,finishing
+Everton Galdino,FW,R,29,BRA,6,false,false,false,finishing,stamina
+Carlos Eduardo,FW,R,29,BRA,7,false,false,false,dribbling,pace
+Luiz Filipe,FW,R,25,BRA,4,false,false,false,finishing,stamina
+Edson Carioca,FW,R,29,BRA,6,false,false,false,finishing,heading
+Nathan Fogaça,FW,R,27,BRA,4,false,false,false,dribbling,finishing
+André Luis,FW,R,32,BRA,5,false,false,false,pace,finishing
+Tiquinho Soares,FW,R,35,BRA,6,false,false,false,heading,stamina
+Bruno Santos,FW,R,29,BRA,7,false,false,false,heading,stamina

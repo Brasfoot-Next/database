@@ -1,0 +1,13 @@
+name = "APOEL"
+country = "CYP"
+level = 15
+reputation = 3
+colors = ["#d2d200", "#00507e"]
+
+[stadium]
+name = "GSP"
+capacity = 22859
+
+[coach]
+name = "Sofronis Avgousti"
+country = "CYP"

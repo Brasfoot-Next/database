@@ -1,0 +1,13 @@
+name = "Galaxy"
+country = "VAN"
+level = 12
+reputation = 2
+colors = ["#003399", "#ffffff"]
+
+[stadium]
+name = "Luganville Soccer Stadium"
+capacity = 6000
+
+[coach]
+name = "Moise Poida"
+country = "VAN"

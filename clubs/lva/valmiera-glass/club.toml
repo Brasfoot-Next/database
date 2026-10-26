@@ -1,0 +1,13 @@
+name = "Valmiera Glass"
+country = "LVA"
+level = 14
+reputation = 2
+colors = ["#000000", "#ffffff"]
+
+[stadium]
+name = "Olimpiskais"
+capacity = 1000
+
+[coach]
+name = "Jurgis Kalns"
+country = "LVA"

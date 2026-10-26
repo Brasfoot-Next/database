@@ -1,0 +1,13 @@
+name = "Sydney FC"
+country = "AUS"
+level = 8
+reputation = 2
+colors = ["#A0A0A0", "#FFFFFF"]
+
+[stadium]
+name = "Allianz Stadium Sydney"
+capacity = 45500
+
+[coach]
+name = "Corey Macallister"
+country = "BRA"

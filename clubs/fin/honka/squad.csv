@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Maksim Rudakov,GK,R,26,RUS,7,true,false,false,penalty-saving,reflexes
+Roope Paunio,GK,L,19,FIN,10,false,false,false,reflexes,positioning
+Mathias Ahlblad,GK,L,19,FIN,3,false,false,false,rushing-out,penalty-saving
+Jonas Levänen,FB,L,28,FIN,3,false,false,false,marking,passing
+Rui Modesto,FB,R,22,POR,2,true,false,false,finishing,pace
+Nasiru Banahene,FB,R,22,GHA,10,false,false,false,crossing,pace
+Arko-Mensah,FB,L,20,GHA,5,true,false,false,crossing,marking
+Konsta Rasimus,CB,L,31,FIN,1,false,false,false,marking,pace
+Matias Rale,CB,R,21,FIN,2,false,false,false,tackling,marking
+Ville Koski,CB,R,20,FIN,9,true,false,false,marking,pace
+Aldayr Hernández,CB,L,26,COL,2,true,false,false,tackling,marking
+Lucas Kaufmann,MF,R,31,BRA,7,true,false,false,finishing,passing
+Otso Koskinen,MF,L,19,FIN,1,false,false,false,playmaking,pace
+Duarte Tammilehto,MF,L,32,FIN,10,true,false,false,tackling,heading
+Jerry Voutilainen,MF,R,27,FIN,10,true,false,false,marking,pace
+Florian Krebs,MF,R,23,GER,10,false,false,false,marking,finishing
+Kevin Jansen,MF,L,30,NED,9,true,false,false,marking,passing
+Niilo Saarikivi,FW,R,19,FIN,9,true,false,false,dribbling,playmaking
+Agon Sadiku,FW,R,19,FIN,7,true,false,false,finishing,pace
+Pauli Katajamäki,FW,L,20,FIN,3,false,false,false,dribbling,finishing
+Drazen Bagaric,FW,R,29,CRO,8,false,false,false,finishing,pace

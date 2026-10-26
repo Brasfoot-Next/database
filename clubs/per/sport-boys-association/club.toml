@@ -1,0 +1,13 @@
+name = "Sport Boys Association"
+country = "PER"
+level = 10
+reputation = 2
+colors = ["#F0B0D0", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Sebastian Valencia"
+country = "BRA"

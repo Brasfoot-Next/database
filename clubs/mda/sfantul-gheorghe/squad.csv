@@ -1,0 +1,20 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nicolae Calancea,GK,R,35,MDA,7,true,false,false,rushing-out,penalty-saving
+Petru Ojog,FB,R,32,MDA,10,true,false,false,finishing,passing
+Serghei Svinarenco,FB,L,25,MDA,4,true,false,false,marking,passing
+Mihail Stefan,FB,L,20,MDA,2,false,false,false,crossing,marking
+Ion Bors,FB,R,20,MDA,7,false,false,false,marking,passing
+Artem Litviakov,CB,L,25,MDA,2,false,false,false,tackling,stamina
+Cedric Ngah,CB,R,23,CMR,7,true,false,false,tackling,heading
+Yevgen Smirnov,CB,L,29,UKR,9,true,false,false,tackling,marking
+Teodor Lungu,MF,R,27,MDA,10,true,false,false,tackling,marking
+Maxmillian İhekuna,MF,R,20,NGA,6,false,false,false,playmaking,pace
+Daniel Lisu,MF,R,20,MDA,7,true,false,false,finishing,passing
+Calin Calaidjoglu,MF,L,21,MDA,6,true,false,false,playmaking,finishing
+Alexandru Suvorov,FW,L,35,MDA,10,true,false,false,pace,finishing
+Alexandru Osipov,FW,R,21,MDA,2,false,false,false,finishing,dribbling
+Ilie Damascan,FW,L,26,MDA,3,false,false,false,pace,finishing
+Valeriu Butucel,GK,L,16,MDA,1,false,false,false,penalty-saving,reflexes
+Maxim Bardis,GK,R,25,MDA,10,false,false,false,positioning,penalty-saving
+Vadim Paireli,FW,R,26,MDA,6,true,false,false,dribbling,finishing
+Andrei Cojocari,MF,L,35,MDA,9,true,false,false,marking,finishing

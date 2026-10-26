@@ -1,0 +1,20 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Marcos Ondo,GK,L,21,EQG,5,true,false,false,rushing-out,penalty-saving
+Fidel Sipi,GK,R,21,EQG,9,false,false,false,penalty-saving,reflexes
+Dallian Allogho,GK,L,26,GAB,7,false,false,false,positioning,penalty-saving
+Alexandru Calin,FB,R,17,MDA,3,true,false,false,crossing,pace
+Stane Essono,FB,L,24,GAB,2,true,false,false,crossing,marking
+Kalu,FB,R,19,NGA,10,false,false,false,crossing,marking
+Maxim Manastirli,CB,L,18,MDA,1,true,false,false,tackling,heading
+Mekhrubon Karimov,CB,R,18,TJK,9,true,false,false,tackling,heading
+Omar Fofana,CB,L,23,CIV,3,false,false,false,marking,pace
+Mum Boho,CB,R,21,EQG,3,false,false,false,tackling,stamina
+Kabir Salimshoev,MF,L,17,TJK,3,true,false,false,playmaking,pace
+Federico Nsue,MF,L,25,EQG,6,true,false,false,marking,passing
+Vadim Sleahtitchi,MF,R,17,MDA,9,true,false,false,tackling,marking
+Nathanael Mbourou,MF,R,25,GAB,5,true,false,false,tackling,marking
+Ondo,MF,L,19,GAB,6,false,false,false,marking,passing
+Denis Yakovlev,MF,R,19,MDA,7,false,false,false,playmaking,finishing
+Biyoghe,FW,R,22,GAB,4,true,false,false,finishing,dribbling
+Vlad Imboden,FW,L,29,MDA,3,true,false,false,finishing,dribbling
+Alecu Milman,FW,R,23,MDA,3,false,false,false,heading,pace

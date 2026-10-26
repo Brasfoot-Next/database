@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Noud Aipassa,GK,R,18,IDN,5,false,false,false,positioning,penalty-saving
+Djaja Adi Budiono,GK,L,17,IDN,2,false,false,false,rushing-out,reflexes
+Angkadiredja Yunxu,FB,R,18,IDN,2,false,false,false,passing,crossing
+Setio Heng,FB,L,18,IDN,4,false,false,false,crossing,tackling
+Djaja Raja Darmadi,FB,R,16,IDN,5,false,false,false,pace,crossing
+Mordecai Sihotang,CB,L,17,IDN,8,false,false,false,stamina,marking
+Justus Silali,CB,R,18,IDN,9,false,false,false,marking,heading
+Claudius Sinamo,CB,L,19,IDN,2,false,false,false,heading,tackling
+Bunyamin Minsheng,MF,R,18,IDN,8,false,false,false,marking,tackling
+Liyono Cheung,MF,L,18,IDN,9,false,false,false,tackling,finishing
+Usaama Tuhumena,MF,R,17,IDN,3,false,false,false,playmaking,pace
+Benny Suryadi Oesman,MF,L,18,IDN,10,false,false,false,passing,finishing
+Suharto Djaja Hadiman,FW,R,16,IDN,3,false,false,false,pace,finishing
+Hanis Saghara Putra,FW,L,19,IDN,5,true,false,false,finishing,dribbling
+Feby Eka Putra,FW,R,19,IDN,7,true,false,false,finishing,passing

@@ -1,0 +1,13 @@
+name = "CA Boston River"
+country = "URU"
+level = 11
+reputation = 2
+colors = ["#B01020", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Agustín O'Neil"
+country = "BRA"

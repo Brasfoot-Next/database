@@ -1,0 +1,13 @@
+name = "La Habana"
+country = "CUB"
+level = 14
+reputation = 3
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "La Polar"
+capacity = 2000
+
+[coach]
+name = "Jesus Tosca"
+country = "CUB"

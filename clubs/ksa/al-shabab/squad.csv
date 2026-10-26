@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Yannick Carrasco,FW,L,33,BEL,5,true,false,false,dribbling,pace
+Yacine Adli,MF,L,26,FRA,6,true,false,false,playmaking,passing
+Josh Brownhill,MF,R,30,ENG,7,true,false,false,stamina,passing
+Vincent Sierro,MF,R,30,SUI,9,true,false,false,stamina,playmaking
+Carlos Júnior,FW,R,31,BRA,5,true,false,false,stamina,pace
+Abderrazak Hamdallah,FW,R,35,MAR,7,false,false,false,finishing,heading
+Wesley Hoedt,CB,L,32,NED,8,true,false,false,tackling,heading
+Unai Hernández,MF,R,21,ESP,5,true,false,false,pace,dribbling
+Saad Balobaid,FB,L,26,KSA,6,true,false,false,pace,stamina
+Abdulaziz Al Othman,FW,R,22,KSA,7,false,false,false,pace,heading
+Mohammed Al Shuwayrikh,CB,R,28,KSA,4,false,false,false,heading,tackling
+Hammam Al Hammami,FW,R,22,KSA,6,false,false,false,pace,dribbling
+Nawaf Al Saadi,FW,L,25,KSA,6,false,false,false,pace,dribbling
+Hussain Al Sibyani,FB,L,25,KSA,7,true,false,false,pace,stamina
+Hamad Al Khorayef,FW,R,20,KSA,5,false,false,false,finishing,pace
+Mohammed Harboush,FB,R,23,KSA,6,false,false,false,pace,stamina
+Faisal Al Sibyani,MF,R,23,KSA,6,false,false,false,pace,tackling
+Emad Qaysi,FW,L,19,KSA,7,false,false,false,pace,dribbling
+Abdullah Matuq,FW,R,23,KSA,5,false,false,false,pace,dribbling
+Ali Makki,CB,R,27,KSA,6,true,false,false,stamina,tackling
+Mubarak Al Rajih,FB,R,23,KSA,6,false,false,false,pace,stamina
+Majed Abdullah,FW,R,20,KSA,7,false,false,false,stamina,finishing
+Sultan Al Anzi,FB,L,23,KSA,5,false,false,false,pace,tackling
+Adel Al Mutairi,CB,L,21,KSA,6,false,false,false,stamina,pace
+Nawaf Al Ghulaimish,FB,R,21,KSA,6,false,false,false,stamina,pace
+Amjad Haraj,CB,R,19,KSA,7,false,false,false,pace,stamina
+Marcelo Grohe,GK,R,39,BRA,5,true,false,false,reflexes,positioning
+Mohammed Al Mahasna,GK,R,29,KSA,6,false,false,false,reflexes,positioning
+Abdulaziz Al Ouwiradi,GK,L,24,KSA,6,false,false,false,reflexes,penalty-saving
+Mishal Saad,GK,R,20,KSA,8,false,false,false,penalty-saving,rushing-out

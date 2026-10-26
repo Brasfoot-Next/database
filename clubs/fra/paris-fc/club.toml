@@ -1,0 +1,13 @@
+name = "Paris FC"
+country = "FRA"
+level = 17
+reputation = 3
+colors = ["#001030", "#FFFFFF"]
+
+[stadium]
+name = "Stade Jean Bouin"
+capacity = 19904
+
+[coach]
+name = "Mathieu Nkambadio"
+country = "BRA"

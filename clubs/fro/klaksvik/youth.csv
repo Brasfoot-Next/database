@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Júst Mortensen,GK,R,17,FRO,5,false,false,false,penalty-saving,rushing-out
+Sniolvur Kruse,GK,L,19,FRO,7,false,false,false,positioning,reflexes
+Eli Kielberg,FB,R,17,FRO,5,false,false,false,crossing,tackling
+Bjørgfinnur Smith,FB,L,16,FRO,2,false,false,false,pace,crossing
+Arnfríður Rønne,FB,R,18,FRO,7,false,false,false,crossing,passing
+Ebbi Heinesen,CB,L,19,FRO,9,false,false,false,stamina,marking
+Lýður Finsen,CB,R,17,FRO,10,false,false,false,heading,tackling
+Ingimar Nólsoy,CB,L,18,FRO,6,false,false,false,marking,heading
+Jóel Mikkelsen,MF,R,18,FRO,3,false,false,false,dribbling,passing
+Sunnleivur Anderssen,MF,L,16,FRO,9,false,false,false,playmaking,dribbling
+Jonn Johannesen,MF,R,17,FRO,2,false,false,false,marking,finishing
+Leon Bogason,MF,L,16,FRO,2,false,false,false,tackling,pace
+Ásvaldur Jóhansen,FW,R,19,FRO,5,false,false,false,pace,dribbling
+Frans Ólavsson,FW,L,18,FRO,10,false,false,false,finishing,heading
+Reinar Bogason,FW,R,17,FRO,3,false,false,false,finishing,passing

@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Bobby Burns,FB,L,26,NIR,5,true,false,false,stamina,pace
+Jimmy Keohane,MF,R,35,IRL,5,false,false,false,stamina,pace
+Conor Mccormack,MF,R,36,IRL,6,false,false,false,passing,tackling
+Axel Piesold,MF,L,21,ENG,7,false,false,false,pace,tackling
+David Hurley,MF,L,27,IRL,3,true,false,false,stamina,playmaking
+Garry Buckley,CB,R,33,IRL,5,false,false,false,passing,heading
+Greg Cunningham,CB,L,35,IRL,6,false,false,false,heading,passing
+Aaron Bolger,MF,R,26,IRL,7,true,false,false,passing,tackling
+Jeannot Esua,FB,R,30,CMR,4,true,false,false,pace,stamina
+Ed Mccarthy,MF,L,25,IRL,5,true,false,false,stamina,pace
+Robert Slevin,CB,L,28,IRL,6,true,false,false,pace,heading
+Patrick Hickey,FW,R,28,USA,7,true,false,false,heading,stamina
+Regan Donelon,FB,L,30,IRL,2,false,false,false,pace,crossing
+Stephen Walsh,FW,L,36,IRL,5,false,false,false,heading,finishing
+Max Wilson,MF,R,19,NIR,6,false,false,false,pace,passing
+Malcolm Shaw,FW,L,31,TRI,7,false,false,false,pace,finishing
+Colm Horgan,FB,R,32,IRL,3,false,false,false,pace,crossing
+Vincent Borden,MF,R,27,USA,5,true,false,false,stamina,passing
+Jeremy Sivi,FW,L,24,ENG,6,true,false,false,pace,finishing
+Dara Mcguinness,FW,R,22,IRL,7,false,false,false,pace,finishing
+Killian Brouder,CB,R,28,IRL,6,true,false,false,stamina,heading
+Cillian Tollett,FW,R,18,IRL,7,false,false,false,pace,stamina
+Brendan Clarke,GK,R,40,IRL,1,false,false,false,positioning,rushing-out
+Evan Watts,GK,R,21,WAL,4,true,false,false,penalty-saving,reflexes

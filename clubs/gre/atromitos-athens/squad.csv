@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lefteris Choutesiotis,GK,R,31,GRE,1,true,false,false,positioning,penalty-saving
+Vasilios Athanasiou,GK,R,26,GRE,5,false,false,false,reflexes,rushing-out
+Dimitrios Stavropoulos,CB,R,29,GRE,6,true,false,false,marking,stamina
+Gerasimos Mitoglou,CB,R,26,GRE,7,true,false,false,stamina,marking
+Hördur Magnússon,CB,L,33,ISL,1,false,false,false,heading,stamina
+Dimitrios Tsakmakis,CB,L,26,GRE,5,false,false,false,marking,passing
+Jere Uronen,FB,L,32,FIN,6,true,false,false,stamina,crossing
+Georgios Papadopoulos,FB,R,23,GRE,7,false,false,false,tackling,stamina
+Mattheos Mountes,FB,L,22,GRE,2,true,false,false,pace,tackling
+Samuel Moutoussamy,MF,L,29,GRE,5,true,false,false,marking,passing
+Theocharis Tsingaras,MF,R,25,GRE,3,true,false,false,marking,passing
+Athanasios Karamanis,MF,R,22,GRE,5,true,false,false,pace,dribbling
+Leonardos Kopanidis,MF,L,20,GRE,6,false,false,false,dribbling,pace
+Stavros Pnevmonidis,MF,R,20,GRE,7,true,false,false,pace,stamina
+Spyros Abartzidis,MF,R,21,GRE,8,false,false,false,passing,tackling
+Elton Hoxha,MF,R,20,ALB,4,false,false,false,playmaking,finishing
+Steven Zuber,FW,R,35,SUI,5,true,false,false,dribbling,passing
+Georgios Tzovaras,FW,R,26,GRE,6,false,false,false,dribbling,pace
+Konstantinos Batos,FW,L,20,GRE,10,false,false,false,finishing,heading
+Sotiris Tsiloulis,FW,R,31,GRE,5,false,false,false,finishing,heading
+Panagiotis Tsantilas,FW,L,22,GRE,6,true,false,false,heading,pace
+Vangelis Paliouras,FW,R,17,GRE,7,false,false,false,dribbling,pace

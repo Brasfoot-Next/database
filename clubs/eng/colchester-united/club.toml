@@ -1,0 +1,13 @@
+name = "Colchester United"
+country = "ENG"
+level = 7
+reputation = 1
+colors = ["#0090C0", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Samson Macey"
+country = "BRA"

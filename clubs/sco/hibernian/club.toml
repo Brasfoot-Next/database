@@ -1,0 +1,13 @@
+name = "Hibernian"
+country = "SCO"
+level = 12
+reputation = 2
+colors = ["#F0F0F0", "#007030"]
+
+[stadium]
+name = "Easter Road Stadium"
+capacity = 20250
+
+[coach]
+name = "Jordan Hanley"
+country = "BRA"

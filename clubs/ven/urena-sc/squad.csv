@@ -1,0 +1,44 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Yilber García,GK,R,20,VEN,8,false,false,false,penalty-saving,reflexes
+Jeison Beltran,GK,R,24,VEN,4,true,false,false,rushing-out,reflexes
+Santiago Bracho,GK,L,17,VEN,5,false,false,false,reflexes,positioning
+Jhon Valverde,CB,R,19,COL,6,false,false,false,heading,stamina
+Marcos Gomez,CB,L,25,VEN,8,true,false,false,heading,tackling
+David Sanchez,CB,R,20,VEN,4,false,false,false,tackling,marking
+Hendry Vasquez,CB,R,25,VEN,5,true,false,false,tackling,pace
+Cristhian Contreras,FB,L,26,VEN,6,true,false,false,crossing,passing
+Juan Angulo,FB,R,20,COL,7,false,false,false,pace,tackling
+Marcos Gafaro,FB,R,22,VEN,3,false,false,false,dribbling,pace
+José Mendoza,FB,L,19,VEN,7,false,false,false,tackling,pace
+Christian Soler,FB,R,22,VEN,4,false,false,false,tackling,marking
+Jose Silva,FB,R,22,VEN,5,true,false,false,tackling,marking
+Cristian Mendoza,MF,R,24,VEN,6,false,false,false,pace,dribbling
+Joseph Moreno,MF,R,25,VEN,8,true,false,false,dribbling,playmaking
+Farid Cardenas,MF,R,19,COL,4,false,false,false,stamina,tackling
+Gustavo Sequera,MF,R,19,VEN,5,false,false,false,passing,finishing
+Miguel Amaya,MF,R,21,VEN,6,false,false,false,tackling,passing
+Juan Mora,MF,L,18,VEN,8,false,false,false,dribbling,playmaking
+Brandon Cruz,MF,R,17,VEN,4,false,false,false,playmaking,dribbling
+Carlos Perez,MF,L,18,VEN,7,false,false,false,dribbling,passing
+Gabriel Silva,MF,R,18,VEN,3,false,false,false,playmaking,passing
+Kleiver Andrei Rivera Huenaller,MF,L,25,COL,5,true,false,false,dribbling,passing
+Marcos Antonio Chacon Bermudez,MF,L,25,VEN,6,true,false,false,dribbling,playmaking
+Joynner Emilio Luna Martinez,MF,R,25,VEN,7,true,false,false,stamina,passing
+Nestor Alejandro Zambrano,MF,L,25,VEN,3,false,false,false,playmaking,passing
+Juan Diego Vivas Diaz,MF,R,25,VEN,5,false,false,false,finishing,playmaking
+Yosneiker Alejandro Mendiza Corredor,MF,R,25,VEN,6,false,false,false,passing,finishing
+Ronny Urier Sanchez Becerra,MF,R,25,VEN,7,false,false,false,pace,dribbling
+Daniel Alejandro Contreras Rodriguez,MF,R,25,VEN,3,false,false,false,finishing,playmaking
+Ricardo Ramirez,MF,L,25,VEN,1,false,false,false,finishing,passing
+Carlos Pedraza,MF,R,25,VEN,5,false,false,false,dribbling,playmaking
+Edinson Peniche,MF,R,21,VEN,6,false,false,false,marking,passing
+Euiser Sanabria,MF,L,22,COL,7,false,false,false,finishing,passing
+Luis Fuentes,MF,L,17,VEN,2,false,false,false,dribbling,pace
+Angel Belmonte,FW,R,23,VEN,5,false,false,false,heading,stamina
+Leonel Medina,FW,L,25,VEN,6,true,false,false,crossing,pace
+Eifer Lupi,FW,R,23,VEN,7,false,false,false,finishing,heading
+Cristian Gaviola,FW,L,25,VEN,2,true,false,false,dribbling,pace
+Jesus Colina,FW,R,19,VEN,5,false,false,false,dribbling,finishing
+Carlos Navarro,FW,L,18,VEN,7,false,false,false,crossing,pace
+Ruybert Henríquez,FW,R,21,VEN,4,false,false,false,pace,finishing
+Ray Montaño,FW,R,34,VEN,5,false,false,false,finishing,pace

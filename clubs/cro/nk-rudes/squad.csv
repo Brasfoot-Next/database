@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lovre Rogic,GK,R,30,CRO,6,false,false,false,positioning,rushing-out
+Frane Barbic,GK,R,25,CRO,7,true,false,false,positioning,rushing-out
+Karlo Kralj,GK,L,24,CRO,4,false,false,false,rushing-out,reflexes
+Filip Holjevac,GK,R,18,CRO,5,false,false,false,positioning,rushing-out
+Marko Stolnik,CB,R,30,CRO,6,true,false,false,tackling,stamina
+Diego Zivulic,CB,R,34,CRO,7,true,false,false,stamina,heading
+Mario Ljevar,CB,R,24,CRO,4,false,false,false,tackling,heading
+Vilim Kruslin,FB,R,22,CRO,5,false,false,false,tackling,stamina
+Dominik Ceko,FB,L,22,CRO,6,false,false,false,stamina,crossing
+Vedran Celjak,FB,L,34,CRO,7,false,false,false,pace,crossing
+Ivan Tomecak,FB,L,36,CRO,5,false,false,false,pace,crossing
+Ivan Zutic,FB,R,25,CRO,6,true,false,false,passing,crossing
+Ivor Ribar,FB,R,23,CRO,7,true,false,false,stamina,crossing
+Nikica Peranovic,FB,L,19,CRO,4,false,false,false,marking,pace
+Domagoj Djurkovic,MF,L,23,CRO,5,true,false,false,playmaking,passing
+Ivan Djoric,MF,R,31,SRB,6,true,false,false,playmaking,passing
+Karlo Kamenar,MF,R,32,CRO,7,false,false,false,playmaking,passing
+Xavi,MF,R,28,POR,2,true,false,false,marking,passing
+Bartol Kunert,MF,R,20,CRO,5,false,false,false,playmaking,passing
+Jurica Poldrugac,MF,R,28,CRO,6,true,false,false,playmaking,passing
+Riad Masala,MF,R,22,CRO,5,false,false,false,marking,passing
+Kristijan Lovric,FW,L,30,CRO,6,false,false,false,playmaking,finishing
+Merlin Hadzi,FW,R,27,SUI,7,true,false,false,finishing,stamina
+Allyson,FW,R,25,BRA,3,true,false,false,heading,finishing
+Lenny Ilecic,FW,R,22,CRO,5,false,false,false,crossing,pace
+Duje Korac,FW,L,21,CRO,6,false,false,false,dribbling,finishing
+Vito Oreskovic,FW,R,19,CRO,7,false,false,false,heading,stamina
+Kresimir Kovacevic,FW,R,31,CRO,3,false,false,false,pace,crossing

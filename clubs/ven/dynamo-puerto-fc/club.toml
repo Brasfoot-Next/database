@@ -1,0 +1,13 @@
+name = "Dynamo Puerto FC"
+country = "VEN"
+level = 7
+reputation = 1
+colors = ["#F0F0F0", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Danglar Villegas"
+country = "BRA"

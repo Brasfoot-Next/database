@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kwame Baah,GK,R,24,GHA,5,true,false,false,penalty-saving,reflexes
+Ibrahim Danlad,GK,L,19,GHA,7,false,false,false,reflexes,positioning
+Fatau Dauda,GK,L,37,GHA,6,false,false,false,reflexes,positioning
+Ibrahim Imoro,FB,R,22,GHA,1,true,false,false,finishing,pace
+Christopher Nettey,FB,L,24,GHA,8,true,false,false,marking,passing
+Patrick Asmah,FB,R,26,GHA,5,false,false,false,crossing,pace
+Charles Owusu,FB,L,25,GHA,7,false,false,false,finishing,pace
+Ismail Ganiyu,CB,L,26,GHA,7,true,false,false,tackling,stamina
+Yussif Mubarik,CB,R,26,GHA,10,true,false,false,marking,pace
+Sherif Mohammed,CB,R,20,GHA,2,false,false,false,marking,pace
+Appau,CB,L,20,GHA,2,false,false,false,tackling,heading
+Abdul Latif Anabila,MF,R,25,GHA,4,true,false,false,tackling,marking
+Emmanuel Keyekeh,MF,L,24,GHA,3,true,false,false,marking,finishing
+Sarkodie,MF,R,26,GHA,3,true,false,false,passing,finishing
+Stephen Amankona,MF,L,22,GHA,1,true,false,false,finishing,passing
+Clinton Opoku,MF,R,19,GHA,9,false,false,false,finishing,passing
+Justice Blay,MF,L,30,GHA,3,false,false,false,tackling,heading
+Richard Boadu,MF,R,24,GHA,2,false,false,false,passing,tackling
+Ibrahim Osman,FW,L,21,GHA,5,true,false,false,pace,dribbling
+Evans Adomako,FW,R,24,GHA,5,true,false,false,heading,pace
+Isaac Oppong,FW,L,19,GHA,10,false,false,false,dribbling,finishing
+Dickson Afoakwa,FW,R,24,GHA,6,false,false,false,pace,dribbling

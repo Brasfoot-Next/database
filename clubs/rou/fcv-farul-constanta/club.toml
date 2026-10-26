@@ -1,0 +1,13 @@
+name = "FCV Farul Constanța"
+country = "ROU"
+level = 10
+reputation = 2
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Central - Complex Gheorghe Hagi"
+capacity = 4554
+
+[coach]
+name = "Cristian Doicaru"
+country = "BRA"

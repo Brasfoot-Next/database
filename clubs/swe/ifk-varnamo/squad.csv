@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kent Are Antonsen,MF,L,31,NOR,6,false,false,false,stamina,pace
+Simon Thern,MF,R,33,SWE,7,true,false,false,stamina,pace
+Ishaq Abdulrazak,MF,R,24,NGA,1,true,false,false,pace,stamina
+Marcus Antonsson,FW,R,35,SWE,5,false,false,false,stamina,pace
+Pawel Cibicki,FW,R,32,SWE,6,true,false,false,pace,playmaking
+Ajdin Zeljkovic,FW,L,28,SWE,7,false,false,false,pace,stamina
+Otso Liimatta,MF,L,22,FIN,2,true,false,false,passing,pace
+Axel Bjornstrom,FB,L,30,SWE,5,true,false,false,stamina,pace
+Victor Larsson,FB,R,26,SWE,6,true,false,false,stamina,pace
+Carl Johansson,MF,R,28,SWE,6,true,false,false,stamina,pace
+Noah Shamoun,FW,L,23,SWE,4,true,false,false,pace,dribbling
+Freddy Winsth,FB,R,36,SWE,5,false,false,false,stamina,tackling
+Emin Grozdanic,CB,L,27,SWE,6,false,false,false,stamina,tackling
+Kai Meriluoto,FW,R,23,FIN,7,false,false,false,pace,finishing
+Mohammad Alsalkhadi,FW,L,25,SWE,4,false,false,false,pace,dribbling
+Antonio Kujundzic,MF,R,20,SWE,5,false,false,false,pace,playmaking
+Souleymane Coulibaly,CB,R,24,CIV,6,false,false,false,pace,heading
+Rufai Mohammed,CB,R,20,GHA,8,true,false,false,pace,tackling
+Johan Rapp,FB,R,25,SWE,2,false,false,false,stamina,heading
+Hugo Andersson,CB,R,27,SWE,5,true,false,false,tackling,heading
+Erik Freij,FB,R,20,SWE,3,false,false,false,pace,stamina
+Hugo Keto,GK,R,28,FIN,5,false,false,false,penalty-saving,reflexes
+Viktor Andersson,GK,R,22,SWE,6,true,false,false,reflexes,positioning

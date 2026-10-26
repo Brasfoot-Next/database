@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jorrit Hendrix,MF,L,31,NED,7,false,false,false,stamina,tackling
+Marvin Schulz,MF,R,31,GER,3,true,false,false,tackling,dribbling
+Mikkel Kirkeskov,FB,L,35,DEN,5,false,false,false,crossing,passing
+Charalambos Makridis,FB,L,30,GER,6,true,false,false,pace,dribbling
+Marcel Benger,MF,R,28,GER,3,true,false,false,stamina,marking
+Rico Preissinger,MF,L,30,GER,5,false,false,false,stamina,tackling
+Zidan Sertdemir,MF,L,21,DEN,6,true,false,false,passing,playmaking
+Etienne Amenyido,FW,R,28,GER,7,true,false,false,pace,dribbling
+Oliver Batista Meier,MF,R,25,GER,3,true,false,false,dribbling,stamina
+Joshua Mees,FW,L,30,GER,5,false,false,false,playmaking,dribbling
+Yassine Bouchama,FW,R,29,GER,6,false,false,false,dribbling,passing
+Jannis Heuer,CB,R,27,GER,1,false,false,false,pace,heading
+Malik Batmaz,FW,R,26,TUR,5,true,false,false,dribbling,stamina
+Marco Meyerhofer,FB,R,30,GER,6,true,false,false,stamina,crossing
+Lars Lokotsch,FW,R,30,GER,7,false,false,false,stamina,pace
+Jano Ter Horst,FB,R,24,GER,2,false,false,false,pace,stamina
+Paul Jaeckel,CB,R,28,GER,5,true,false,false,heading,tackling
+Oscar Vilhelmsson,FW,L,22,SWE,6,false,false,false,finishing,pace
+Luca Bolay,FB,L,24,GER,7,false,false,false,pace,crossing
+Tidiane Gueye,MF,R,24,SEN,2,false,false,false,pace,passing
+Jakob Korte,MF,R,23,GER,6,false,false,false,stamina,pace
+Leon Tasov,FW,R,21,GER,7,false,false,false,pace,playmaking
+Torge Paetow,CB,R,31,GER,4,false,false,false,tackling,stamina
+Simon Scherder,CB,R,33,GER,5,false,false,false,pace,marking
+Niko Koulis,CB,L,27,GER,6,false,false,false,tackling,marking
+Marvin Benjamins,FW,L,23,GER,7,false,false,false,pace,dribbling
+Antonio Tikvic,CB,L,22,CRO,4,true,false,false,heading,tackling
+Johannes Schenk,GK,R,23,GER,5,false,false,false,reflexes,penalty-saving
+Morten Behrens,GK,R,29,GER,6,true,false,false,rushing-out,reflexes
+Marian Kirsch,GK,R,22,GER,8,false,false,false,penalty-saving,reflexes

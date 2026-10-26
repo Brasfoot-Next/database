@@ -1,0 +1,13 @@
+name = "Ittihad Alexandria SC"
+country = "EGY"
+level = 9
+reputation = 2
+colors = ["#005000", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Mostafa Mostafa"
+country = "BRA"

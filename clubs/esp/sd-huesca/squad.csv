@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Óscar Sielva,MF,R,35,ESP,5,false,false,false,stamina,playmaking
+Javi Mier,MF,R,27,ESP,6,true,false,false,stamina,pace
+Portillo,FW,L,36,ESP,7,false,false,false,playmaking,dribbling
+Kortajarena,MF,L,26,ESP,3,true,false,false,passing,tackling
+Sergi Enrich,FW,R,36,ESP,5,false,false,false,heading,stamina
+Dani Ojeda,FW,R,31,ESP,6,false,false,false,pace,stamina
+Gustavo Albarracin,MF,R,20,ARG,7,true,false,false,passing,playmaking
+Toni Abad,FB,R,29,ESP,4,false,false,false,stamina,pace
+Julio Alonso,FB,L,27,ESP,5,false,false,false,pace,stamina
+Jesús Alvarez,MF,L,26,ESP,6,true,false,false,stamina,passing
+Manu Rico,FW,L,23,ESP,5,false,false,false,dribbling,pace
+Liberto Beltrán,FW,L,29,ESP,5,true,false,false,pace,stamina
+Carrillo,CB,R,24,ESP,6,true,false,false,stamina,tackling
+Pulido,CB,R,35,ESP,8,false,false,false,stamina,heading
+Enol Rodríguez,FW,R,25,ESP,4,false,false,false,heading,finishing
+Ángel Pérez,FB,R,24,ESP,5,true,false,false,pace,stamina
+Jordi Martín,FW,L,25,ESP,7,false,false,false,pace,crossing
+Samuel Ntamack,FW,R,25,FRA,9,false,false,false,pace,finishing
+Sergio Arribas,CB,L,23,ESP,4,true,false,false,pace,tackling
+Daniel Luna,FW,L,23,COL,6,true,false,false,playmaking,pace
+Hugo Pérez,CB,R,23,ESP,7,false,false,false,heading,stamina
+Willy Tomas Chatiliez,MF,L,21,CHI,3,false,false,false,pace,dribbling
+Diego Aznar,FW,R,23,ESP,4,false,false,false,heading,finishing
+Iñigo Piña,CB,R,31,ESP,5,false,false,false,tackling,heading
+Ro Abajas,FB,L,23,ESP,6,true,false,false,pace,marking
+Dani Jiménez,GK,R,36,ESP,9,false,false,false,positioning,penalty-saving
+Juan Pérez,GK,R,30,ESP,5,true,false,false,reflexes,penalty-saving
+Dani Martín,GK,R,20,ESP,6,false,false,false,reflexes,positioning

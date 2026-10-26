@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Steven Zuber,FW,R,35,SUI,4,false,false,false,dribbling,passing
+Bledian Krasniqi,MF,R,25,SUI,5,true,false,false,stamina,pace
+Nelson Palacio,MF,L,25,COL,6,true,false,false,stamina,pace
+Nemanja Tosic,FB,L,29,SRB,8,false,false,false,stamina,crossing
+Lisandru Tramoni,FW,L,23,FRA,4,false,false,false,pace,crossing
+Calixte Paul Ligue,FB,L,21,SUI,5,false,false,false,pace,passing
+Matthias Phaeton,FW,L,26,FRA,7,true,false,false,pace,stamina
+Milan Rodic,FB,L,35,SRB,9,false,false,false,stamina,tackling
+Juan Jose Perea,FW,R,26,COL,4,false,false,false,pace,stamina
+Lindrit Kamberi,FB,R,26,SUI,7,true,false,false,stamina,heading
+Cheveyo Tsawa,MF,R,19,SUI,6,true,false,false,passing,stamina
+Philippe Paulin Keny,FW,R,27,SEN,7,false,false,false,pace,heading
+Livano Comenencia,FB,R,22,CUW,1,true,false,false,pace,stamina
+Jahnoah Markelo,FW,L,23,NED,5,false,false,false,pace,dribbling
+Nevio Di Giusto,MF,L,21,SUI,6,false,false,false,pace,dribbling
+Umeh Emmanuel,FW,L,22,NGA,7,true,false,false,pace,dribbling
+Selmin Hodza,FB,R,23,SUI,2,false,false,false,pace,passing
+Miguel Reichmuth,MF,R,22,SUI,5,true,false,false,dribbling,passing
+Cosimo Fiorini,MF,L,20,ITA,7,false,false,false,pace,passing
+Damienus Reverson,FW,R,22,NED,1,false,false,false,pace,dribbling
+Ilan Sauter,CB,L,25,SUI,5,true,false,false,pace,stamina
+Mohamed Bangoura,MF,R,20,GUI,6,false,false,false,pace,tackling
+Mariano Gomez,CB,L,27,ARG,8,false,false,false,stamina,heading
+Jorge Segura,CB,L,29,COL,4,false,false,false,stamina,tackling
+Vincent Nvendo,FW,R,23,SUI,5,false,false,false,heading,finishing
+Neil Volken,FB,L,19,SUI,6,false,false,false,pace,dribbling
+Gian Stork,MF,R,19,SUI,9,false,false,false,pace,passing
+Daniel Ihendu,CB,R,20,GER,4,false,false,false,pace,heading
+David Vujevic,CB,R,19,SUI,5,true,false,false,marking,pace
+Yanick Brecher,GK,R,33,SUI,7,false,false,false,positioning,reflexes
+Silas Huber,GK,R,21,SUI,5,true,false,false,reflexes,penalty-saving
+Yevhen Morozov,GK,R,19,UKR,6,false,false,false,rushing-out,penalty-saving

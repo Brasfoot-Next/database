@@ -1,0 +1,13 @@
+name = "PAOK Thessaloniki"
+country = "GRE"
+level = 18
+reputation = 4
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Taison Mythou"
+country = "BRA"

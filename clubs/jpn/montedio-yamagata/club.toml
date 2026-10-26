@@ -1,0 +1,13 @@
+name = "Montedio Yamagata"
+country = "JPN"
+level = 11
+reputation = 2
+colors = ["#D0D0D0", "#000070"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Tsubasa Kawai"
+country = "BRA"

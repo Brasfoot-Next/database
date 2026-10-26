@@ -1,0 +1,19 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Teitur Gestsson,GK,L,29,FRO,6,true,false,false,reflexes,positioning
+Bjarti Mörk,GK,L,21,FRO,2,false,false,false,reflexes,positioning
+Daniel Johansen,FB,L,24,FRO,3,true,false,false,finishing,passing
+Heri Mohr,FB,R,25,FRO,4,true,false,false,marking,passing
+Mohr Jónsson,FB,L,28,FRO,2,false,false,false,finishing,pace
+Bartal Wardum,CB,R,25,FRO,5,true,false,false,marking,pace
+Hördur Askham,CB,L,27,FRO,10,true,false,false,marking,pace
+Gustav Kjeldsen,CB,L,23,DEN,3,false,false,false,tackling,marking
+Samuel Chukwudi,CB,R,19,FRO,8,false,false,false,heading,stamina
+Dan Soylu,MF,L,26,FRO,8,true,false,false,finishing,passing
+Radosavljevic,MF,R,21,FRO,10,true,false,false,finishing,passing
+Ási Dam,MF,L,19,FRO,9,true,false,false,dribbling,playmaking
+Hedin Hansen,MF,L,28,FRO,5,true,false,false,tackling,heading
+Tróndur Jensen,MF,R,29,FRO,7,false,false,false,tackling,marking
+Jakobsen,FW,R,24,FRO,9,false,false,false,finishing,pace
+Adrian Justinussen,FW,R,24,FRO,6,true,false,false,pace,finishing
+Paetur Petersen,FW,R,24,FRO,10,true,false,false,heading,pace
+Jákup Thomsen,FW,L,24,FRO,3,false,false,false,finishing,pace

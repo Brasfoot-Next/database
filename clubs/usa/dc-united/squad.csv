@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+David Schnegg,FB,L,27,AUT,6,true,false,false,stamina,pace
+Aaron Herrera,FB,R,29,GUA,7,true,false,false,stamina,dribbling
+Randall Leal,FW,R,29,USA,4,true,false,false,dribbling,stamina
+Christian Benteke,FW,R,35,BEL,6,true,false,false,heading,finishing
+Jared Stroud,FW,R,30,USA,7,false,false,false,stamina,playmaking
+Caden Clark,MF,R,23,USA,3,true,false,false,pace,playmaking
+Brandon Servania,MF,R,27,USA,5,true,false,false,stamina,passing
+Boris Enow,MF,L,26,CMR,6,false,false,false,stamina,pace
+Gabriel Pirani,MF,R,24,BRA,7,true,false,false,passing,playmaking
+Dominique Badji,FW,R,33,SEN,3,false,false,false,pace,stamina
+Hosei Kijima,MF,R,24,JPN,7,false,false,false,pace,passing
+Rida Zouhir,MF,R,22,CAN,1,false,false,false,pace,dribbling
+Matti Peltola,CB,R,24,FIN,5,false,false,false,marking,tackling
+Derek Dodson,FB,R,27,USA,6,false,false,false,pace,stamina
+João Peglow,FW,L,24,BRA,7,false,false,false,pace,finishing
+Kye Rowles,CB,L,28,AUS,1,true,false,false,stamina,tackling
+Jackson Hopkins,MF,R,22,USA,5,true,false,false,passing,stamina
+Kristian Fletcher,FW,L,21,USA,6,false,false,false,pace,finishing
+Lukas Macnaughton,CB,R,31,CAN,7,false,false,false,pace,heading
+Lucas Bartlett,CB,R,29,USA,2,true,false,false,heading,tackling
+Jacob Murrell,FW,R,22,USA,6,false,false,false,heading,finishing
+Conner Antley,FB,L,31,USA,7,false,false,false,tackling,pace
+Garrison Tubbs,CB,R,24,USA,4,false,false,false,tackling,heading
+Kim Joon Hong,GK,R,23,KOR,5,false,false,false,reflexes,penalty-saving
+Luis Barraza,GK,R,29,USA,6,true,false,false,positioning,penalty-saving
+Jordan Farr,GK,R,31,USA,8,false,false,false,positioning,penalty-saving

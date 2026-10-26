@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+John Higashi,GK,R,24,JPN,5,false,false,false,rushing-out,positioning
+Kohei Kawata,GK,R,38,JPN,6,false,false,false,rushing-out,reflexes
+Kodai Yamauchi,GK,R,26,JPN,8,false,false,false,positioning,reflexes
+Min-ki Lee,GK,L,23,JPN,4,true,false,false,positioning,reflexes
+Miki Inoue,CB,R,25,JPN,6,true,false,false,tackling,pace
+Keita Fukui,CB,L,24,JPN,7,false,false,false,marking,heading
+Yuta Koide,CB,L,31,JPN,3,false,false,false,tackling,pace
+Riku Nozawa,CB,R,27,JPN,5,true,false,false,marking,stamina
+Taiju Ichinose,CB,L,23,JPN,6,false,false,false,marking,tackling
+Hideomi Yamamoto,CB,R,32,JPN,7,false,false,false,tackling,stamina
+Mendes,CB,R,31,BRA,5,false,false,false,marking,stamina
+Shun Fukumoto,CB,R,22,JPN,6,false,false,false,heading,tackling
+Keisuke Sato,FB,R,24,JPN,7,true,false,false,marking,pace
+Hikaru Endo,MF,R,26,JPN,2,true,false,false,passing,tackling
+Seigo Takei,MF,L,28,JPN,5,true,false,false,passing,tackling
+Hiroya Sueki,MF,R,29,JPN,6,true,false,false,dribbling,playmaking
+Yuto Hiratsuka,MF,R,30,JPN,7,false,false,false,finishing,passing
+Takuya Wada,MF,R,35,JPN,2,false,false,false,marking,passing
+Kazuhiro Sato,MF,L,35,JPN,5,false,false,false,passing,tackling
+Kojiro Yasuda,MF,R,22,JPN,6,false,false,false,playmaking,passing
+Sho Araki,MF,L,30,JPN,4,false,false,false,pace,crossing
+Iwana Kobayashi,MF,L,29,JPN,5,true,false,false,pace,crossing
+Kotatsu Kumakura,MF,R,24,JPN,6,false,false,false,pace,dribbling
+Hayata Mizuno,FW,R,26,JPN,9,true,false,false,finishing,stamina
+Kazushi Fujii,FW,L,24,JPN,4,false,false,false,heading,stamina
+Yamato Naito,FW,R,22,JPN,5,false,false,false,finishing,dribbling
+Koki Oshima,FW,L,30,JPN,7,false,false,false,pace,crossing
+Atsushi Kurokawa,FW,L,28,JPN,1,true,false,false,playmaking,finishing
+Yukito Murakami,FW,R,25,JPN,4,true,false,false,playmaking,finishing
+Kazushi Mitsuhira,FW,R,38,JPN,5,false,false,false,playmaking,finishing

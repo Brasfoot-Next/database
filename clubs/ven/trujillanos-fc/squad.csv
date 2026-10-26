@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Osnel García,GK,R,21,VEN,6,false,false,false,penalty-saving,reflexes
+Gabriel Atamañuk,GK,R,30,ARG,7,false,false,false,positioning,rushing-out
+Víctor López,GK,R,34,VEN,4,true,false,false,positioning,reflexes
+Brayan Morales,CB,R,23,VEN,5,false,false,false,stamina,heading
+Néstor Trejo,CB,R,22,VEN,6,false,false,false,marking,tackling
+Darvis Rodríguez,CB,R,32,VEN,7,false,false,false,marking,heading
+Steven Pabón,CB,L,24,VEN,2,true,false,false,tackling,heading
+Ezequiel Gnemmi,CB,R,26,ARG,5,true,false,false,heading,marking
+Julio da Silva,FB,R,25,VEN,6,true,false,false,tackling,pace
+Mayker González,FB,L,38,VEN,7,false,false,false,pace,crossing
+Josué Vivas,FB,L,22,VEN,7,true,false,false,dribbling,pace
+Manuel Granados,FB,L,37,VEN,3,false,false,false,crossing,passing
+Kevin González,MF,R,27,VEN,5,true,false,false,passing,stamina
+Leomar Mosquera,MF,R,25,VEN,6,true,false,false,passing,tackling
+Nicolás Femia,MF,R,29,ARG,7,true,false,false,dribbling,playmaking
+Gerson Valecillos,MF,R,25,VEN,3,false,false,false,tackling,passing
+Enderson Abreu,MF,R,25,VEN,5,false,false,false,dribbling,pace
+Jorge Echeverría,MF,R,26,VEN,6,true,false,false,passing,playmaking
+Joantony Carmona,FW,R,25,VEN,7,false,false,false,dribbling,pace
+Albaro Polo,FW,R,21,VEN,3,false,false,false,dribbling,finishing
+Agustín Araujo,FW,R,27,ARG,8,true,false,false,finishing,pace
+Franklin González,FW,R,29,VEN,4,false,false,false,heading,pace
+José Rivas Gamboa,FW,R,27,VEN,6,true,false,false,finishing,pace
+Christian Santos,FW,R,38,VEN,6,false,false,false,heading,finishing

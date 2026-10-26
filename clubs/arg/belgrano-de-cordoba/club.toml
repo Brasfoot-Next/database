@@ -1,0 +1,13 @@
+name = "Belgrano de Córdoba"
+country = "ARG"
+level = 15
+reputation = 3
+colors = ["#F0F0F0", "#2090D0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Gabriel Bernabeu"
+country = "BRA"

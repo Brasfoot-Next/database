@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lewis Ferguson,MF,R,27,SCO,6,true,false,false,passing,dribbling
+Tommaso Pobega,MF,R,27,ITA,7,true,false,false,tackling,heading
+Riccardo Orsolini,FW,L,29,ITA,9,false,false,false,crossing,dribbling
+Remo Freuler,MF,R,34,SUI,5,false,false,false,stamina,tackling
+Federico Bernardeschi,FW,L,32,ITA,6,false,false,false,dribbling,crossing
+Nikola Moro,MF,L,28,CRO,7,false,false,false,passing,playmaking
+Nadir Zortea,FB,R,27,ITA,9,false,false,false,stamina,pace
+Juan Miranda,FB,L,26,ESP,2,true,false,false,pace,crossing
+Charalampos Lykogiannis,FB,L,32,GRE,6,false,false,false,pace,crossing
+Giovanni Fabbian,MF,R,23,ITA,6,true,false,false,passing,playmaking
+Jens Odgaard,MF,L,27,DEN,6,true,false,false,stamina,finishing
+Lorenzo De Silvestri,FB,R,38,ITA,7,false,false,false,heading,crossing
+Emil Holm,FB,R,26,SWE,1,true,false,false,pace,stamina
+Ciro Immobile,FW,R,36,ITA,6,false,false,false,finishing,heading
+Ibrahim Sulemana,MF,R,23,GHA,6,false,false,false,tackling,passing
+Santiago Castro,FW,R,21,ARG,7,true,false,false,heading,pace
+Nicolo Casale,CB,R,28,ITA,2,false,false,false,heading,tackling
+Jonathan Rowe,FW,L,23,ENG,6,true,false,false,pace,dribbling
+Nicolo Cambiaghi,FW,L,25,ITA,6,false,false,false,dribbling,pace
+Torbjorn Heggem,CB,L,27,NOR,7,false,false,false,stamina,pace
+Benjamin Dominguez,FW,L,22,ARG,6,false,false,false,pace,dribbling
+Thijs Dallinga,FW,R,26,NED,7,false,false,false,heading,finishing
+Jhon Lucumi,CB,L,28,COL,9,true,false,false,tackling,marking
+Martin Vitik,CB,R,23,CZE,5,true,false,false,heading,tackling
+Ł. Skorupski,GK,R,35,POL,6,false,false,false,reflexes,penalty-saving
+Federico Ravaglia,GK,R,26,ITA,7,false,false,false,reflexes,penalty-saving
+Massimo Pessina,GK,R,18,ITA,9,true,false,false,reflexes,positioning

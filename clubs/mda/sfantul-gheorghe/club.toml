@@ -1,0 +1,13 @@
+name = "Sfântul Gheorghe"
+country = "MDA"
+level = 13
+reputation = 2
+colors = ["#cc0000", "#ffffff"]
+
+[stadium]
+name = "Stadionul Sătesc"
+capacity = 2500
+
+[coach]
+name = "Stanislav Luca"
+country = "MDA"

@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Víctor Ayala,GK,R,33,GUA,5,true,false,false,reflexes,positioning
+Braulio Linares,GK,R,26,GUA,4,false,false,false,positioning,penalty-saving
+Diego Navas,GK,R,20,GUA,3,false,false,false,penalty-saving,reflexes
+Cristian Jiménez,FB,R,27,GUA,10,true,false,false,crossing,pace
+José Ardón,FB,L,22,GUA,4,true,false,false,crossing,pace
+Juan Yax,FB,L,34,GUA,8,false,false,false,crossing,pace
+Kevin Ávila,FB,R,28,GUA,10,false,false,false,crossing,pace
+José Mena,CB,R,33,CRC,10,true,false,false,tackling,marking
+Óscar Castellanos,CB,L,22,GUA,10,true,false,false,tackling,marking
+Alexander Robinson,CB,L,33,CRC,8,false,false,false,heading,stamina
+Manuel Moreno,CB,R,30,GUA,9,false,false,false,marking,pace
+Domínguez-Ramírez,MF,L,26,GUA,8,true,false,false,marking,passing
+Vidal Paz,MF,R,20,GUA,8,true,false,false,tackling,heading
+Óscar Mejía,MF,R,23,GUA,7,true,false,false,playmaking,finishing
+Carlos Mejía,MF,L,30,GUA,9,true,false,false,passing,finishing
+De León,MF,R,27,GUA,3,false,false,false,playmaking,finishing
+Dennis Ramírez,MF,L,20,USA,8,false,false,false,finishing,passing
+Dayán Gutiérrez,MF,R,21,MEX,6,false,false,false,tackling,marking
+Pablo Grajeda,MF,R,21,GUA,4,false,false,false,playmaking,passing
+Cristian Hernández,FW,R,26,ARG,3,true,false,false,finishing,dribbling
+Bruno Giménez,FW,L,30,URU,4,true,false,false,finishing,pace
+Lucas Gómez,FW,R,34,ARG,7,false,false,false,pace,dribbling
+Romario,FW,L,32,BRA,10,false,false,false,dribbling,finishing

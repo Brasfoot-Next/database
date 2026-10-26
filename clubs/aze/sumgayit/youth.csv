@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tarlan Ähmädli,GK,R,17,AZE,5,false,false,false,penalty-saving,rushing-out
+Elchin Sadiqov,GK,L,19,AZE,7,false,false,false,positioning,reflexes
+Slavik Alxasov,FB,R,17,AZE,5,false,false,false,crossing,tackling
+Vurgun Hüseynov,FB,L,16,AZE,2,false,false,false,pace,crossing
+Baxtiyar Häsän-Alizadä,FB,R,18,AZE,7,false,false,false,crossing,passing
+Samir Abasov,CB,L,19,AZE,9,false,false,false,stamina,marking
+Dzhavidan Abbaszada,CB,R,17,AZE,10,true,false,false,heading,tackling
+Adil Ibragimov,CB,L,18,RUS,6,false,false,false,marking,heading
+Sabuhi Abdullazada,MF,R,18,AZE,3,true,false,false,dribbling,passing
+Magomed Mirzabekov,MF,L,16,AZE,9,false,false,false,playmaking,dribbling
+Aleksandr Çertoqanov,MF,R,17,AZE,2,false,false,false,marking,finishing
+Aqim Muxtaroglu,MF,L,16,AZE,2,false,false,false,tackling,pace
+Pardis Fardjad-Azad,FW,R,19,AZE,5,false,false,false,pace,dribbling
+Asaf Aliyev,FW,L,18,AZE,10,true,false,false,finishing,heading
+Nurlan Novruzov,FW,R,17,AZE,3,false,false,false,finishing,passing

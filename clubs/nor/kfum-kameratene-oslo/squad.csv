@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Simen Hestnes,MF,R,30,NOR,7,true,false,false,stamina,pace
+Robin Rasch,MF,L,32,NOR,3,true,false,false,stamina,passing
+David Hickson,FW,L,29,NOR,5,false,false,false,pace,stamina
+Amin Nouri,FB,R,36,NOR,6,false,false,false,stamina,crossing
+Sverre Hakami Sandal,MF,R,23,NOR,7,true,false,false,stamina,pace
+Hakon Helland Hoseth,FB,R,27,NOR,8,true,false,false,stamina,pace
+Mansour Sinyan,MF,R,27,NOR,4,true,false,false,pace,stamina
+Jonas Lange Hjorth,FB,L,25,NOR,5,true,false,false,stamina,pace
+Bjorn Martin Kristensen,FW,R,24,NOR,6,false,false,false,pace,stamina
+Moussa Njie,FW,L,30,NOR,1,false,false,false,pace,dribbling
+Bilal Njie,FW,L,28,NOR,5,false,false,false,pace,dribbling
+Henrik Udahl,FW,R,29,NOR,6,true,false,false,pace,stamina
+Teodor Berg Haltvik,FW,R,26,NOR,7,true,false,false,pace,stamina
+Niclas Schjoth Semmen,FW,R,23,NOR,4,false,false,false,pace,stamina
+Fredrik Berglie,CB,R,29,NOR,5,false,false,false,stamina,heading
+Mame Mor Ndiaye,FW,R,29,SEN,6,false,false,false,pace,heading
+Ayoub Aleesami,CB,R,30,NOR,7,false,false,false,pace,marking
+Daniel Schneider,CB,R,24,NOR,4,true,false,false,tackling,heading
+Sondre Halvorsen,FW,R,22,NOR,5,false,false,false,pace,dribbling
+Mathias Tonnessen,CB,L,22,NOR,6,false,false,false,pace,tackling
+Brage Skaret,CB,R,24,NOR,5,true,false,false,tackling,heading
+Andreas Hegdahl Gundersen,FW,R,26,NOR,6,false,false,false,pace,finishing
+Emil Odegaard,GK,R,27,NOR,7,true,false,false,reflexes,penalty-saving
+Henri Sorlie,GK,R,19,NOR,2,false,false,false,reflexes,positioning
+William Da Rocha,GK,R,24,NOR,5,false,false,false,reflexes,penalty-saving

@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Adrián Bernabé,MF,L,25,ESP,6,true,false,false,stamina,dribbling
+Emanuele Valeri,FW,L,27,ITA,6,false,false,false,stamina,crossing
+Hernani,MF,R,32,BRA,7,false,false,false,passing,tackling
+Nahuel Estevez,MF,R,30,ARG,5,false,false,false,passing,crossing
+Gaetano Oristanio,MF,L,23,ITA,6,true,false,false,pace,dribbling
+Oliver Sorensen,MF,L,24,DEN,6,false,false,false,stamina,pace
+Mandela Keita,MF,L,24,BEL,7,true,false,false,stamina,dribbling
+Jacob Ondrejka,FW,L,24,SWE,5,false,false,false,pace,dribbling
+Enrico Delprato,CB,R,26,ITA,6,true,false,false,stamina,pace
+Christian Ordonez,MF,R,22,ARG,7,true,false,false,stamina,pace
+Matija Frigan,FW,L,23,CRO,7,true,false,false,pace,stamina
+Patrick Cutrone,FW,R,28,ITA,4,false,false,false,dribbling,finishing
+Adrian Benedyczak,FW,L,25,POL,6,false,false,false,pace,finishing
+Benjamin Cremaschi,MF,R,21,USA,6,false,false,false,dribbling,pace
+Pontus Almqvist,MF,L,27,SWE,7,false,false,false,pace,dribbling
+Lautaro Valenti,CB,L,27,ARG,7,false,false,false,stamina,pace
+Tjas Begic,MF,R,23,SVN,5,false,false,false,pace,dribbling
+Mathias Lovik,FW,L,22,NOR,6,false,false,false,pace,stamina
+Milan Duric,FW,R,36,BIH,6,false,false,false,heading,finishing
+Alessandro Circati,CB,R,22,AUS,7,true,false,false,stamina,tackling
+Abdoulaye Ndiaye,CB,L,24,SEN,6,false,false,false,heading,tackling
+Mateo Pellegrino,FW,L,24,ARG,6,true,false,false,heading,finishing
+Elia Plicco,MF,R,19,ITA,7,false,false,false,pace,playmaking
+Mariano Troilo,CB,R,23,ARG,5,true,false,false,heading,tackling
+Sascha Britschgi,FB,R,20,SUI,6,true,false,false,pace,stamina
+Nicolas Trabucchi,CB,R,19,ITA,6,false,false,false,pace,tackling
+Zion Suzuki,GK,R,24,JPN,4,true,false,false,reflexes,positioning
+Edoardo Corvi,GK,R,25,ITA,6,false,false,false,reflexes,penalty-saving
+Filippo Rinaldi,GK,R,23,ITA,6,false,false,false,reflexes,rushing-out
+Gianluca Astaldi,GK,R,20,ITA,7,false,false,false,reflexes,positioning

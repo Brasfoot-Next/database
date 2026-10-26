@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sokrat Hovhannisyan,GK,R,26,ARM,9,true,false,false,positioning,penalty-saving
+Lyova Karapetyan,GK,R,21,ARM,9,false,false,false,positioning,rushing-out
+Poghos Ayvazyan,GK,L,27,ARM,1,false,false,false,positioning,rushing-out
+Seryozha Urushanyan,FB,R,24,ARM,3,true,false,false,crossing,marking
+Arsen Sadoyan,FB,L,23,ARM,7,true,false,false,crossing,pace
+Vardges Harutyunyan,FB,R,21,ARM,1,false,false,false,finishing,pace
+Obinna Awara,FB,L,20,NGA,2,false,false,false,finishing,passing
+Artyom Mikaelyan,CB,R,31,ARM,1,true,false,false,tackling,marking
+Mnatsakanyan,CB,L,19,ARM,2,true,false,false,tackling,heading
+Aleksa Vidic,CB,R,27,SRB,3,false,false,false,tackling,stamina
+Arman Aslanyan,MF,L,28,ARM,4,true,false,false,passing,finishing
+Erik Vardanyan,MF,R,23,ARM,8,true,false,false,tackling,marking
+Rafik Misakyan,MF,L,22,ARM,5,true,false,false,marking,pace
+Arman Kishmishyan,MF,R,21,ARM,6,true,false,false,passing,finishing
+Zhora Atoyan,MF,L,18,ARM,2,false,false,false,playmaking,finishing
+Hovakim Tahmazyan,MF,R,19,ARM,3,false,false,false,playmaking,passing
+Levon Darbinyan,MF,L,20,ARM,6,false,false,false,tackling,heading
+Samvel Ghukasyan,MF,R,20,ARM,3,false,false,false,tackling,finishing
+Artem Gevorkyan,FW,R,29,RUS,8,true,false,false,finishing,dribbling
+David Ghandilyan,FW,R,29,ARM,1,true,false,false,finishing,dribbling
+Lyova Mryan,FW,L,22,ARM,9,false,false,false,heading,pace
+Vrezh Torosyan,FW,R,20,ARM,5,false,false,false,dribbling,finishing

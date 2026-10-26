@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Dánial Danielsen,GK,R,17,FRO,5,true,false,false,penalty-saving,rushing-out
+Kristian Bærentsen,GK,L,19,FRO,7,false,false,false,positioning,reflexes
+Hildar Jónsson,FB,R,17,FRO,5,false,false,false,crossing,tackling
+Svenningur Long,FB,L,16,FRO,2,false,false,false,pace,crossing
+Hjálmar Taalle,FB,R,18,FRO,7,false,false,false,crossing,passing
+Eyðolvur Vatnhamar,CB,L,19,FRO,9,false,false,false,stamina,marking
+Selmar Lassen,CB,R,17,FRO,10,false,false,false,heading,tackling
+Torgestur Ottarsdóttir,CB,L,18,FRO,6,false,false,false,marking,heading
+Sámuel Bóndi,MF,R,18,FRO,3,false,false,false,dribbling,passing
+Djóni Heinesen,MF,L,16,FRO,9,false,false,false,playmaking,dribbling
+Jafet Mortensen,MF,R,17,FRO,2,false,false,false,marking,finishing
+Tóri Mortensen,MF,L,16,FRO,2,false,false,false,tackling,pace
+Broddur Kielberg,FW,R,19,FRO,5,false,false,false,pace,dribbling
+Aron Kampmann,FW,L,18,FRO,10,false,false,false,finishing,heading
+Fríðmundur Broberg,FW,R,17,FRO,3,false,false,false,finishing,passing

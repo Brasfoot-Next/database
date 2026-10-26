@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ayoub Lakred,GK,L,31,MAR,5,false,false,false,rushing-out,positioning
+Rachid Ghanimi,GK,R,25,MAR,6,true,false,false,positioning,penalty-saving
+Taha Benrhozil,GK,R,20,MAR,7,false,false,false,positioning,rushing-out
+Salaheddine Cofi,CB,R,22,MAR,4,false,false,false,heading,tackling
+Yassine Amhih,CB,R,23,MAR,5,false,false,false,tackling,pace
+Fernando Chamboco,CB,R,28,MOZ,6,true,false,false,heading,stamina
+Amine Farhane,CB,R,28,MAR,7,true,false,false,tackling,heading
+Oussama Soukhane,FB,L,27,MAR,4,true,false,false,tackling,pace
+Moncef Amri,FB,R,32,MAR,5,false,false,false,pace,crossing
+Oussama Raoui,FB,L,23,MAR,6,true,false,false,tackling,pace
+Anas Serrhat,MF,R,29,MAR,6,true,false,false,pace,dribbling
+Amine El Msane,MF,R,31,MAR,7,true,false,false,tackling,marking
+Anas El Makkaoui,MF,R,21,MAR,3,false,false,false,stamina,tackling
+Abdessamad Mahir,MF,R,29,MAR,5,true,false,false,passing,finishing
+Soufiane Tazi,MF,R,22,MAR,6,false,false,false,finishing,passing
+Hamza Moujahid,MF,L,31,MAR,6,false,false,false,dribbling,passing
+Ismail Moutaraji,MF,R,26,MAR,10,true,false,false,tackling,marking
+Lamine Diakité,FW,R,35,MAR,4,false,false,false,heading,pace
+Chouaib Faidi,FW,R,26,MAR,5,true,false,false,dribbling,pace
+Amine Souane,FW,R,24,MAR,7,true,false,false,dribbling,pace
+Salaheddine Benyachou,FW,L,26,MAR,6,false,false,false,finishing,pace
+Déo Bassinga,FW,R,20,CGO,7,false,false,false,pace,dribbling
+Ali El Harrak,FW,R,28,MAR,2,false,false,false,heading,pace
+Arthur Gitego,FW,R,24,MAR,5,false,false,false,heading,finishing
+Moctar Diallo,FW,R,21,SEN,6,false,false,false,finishing,pace

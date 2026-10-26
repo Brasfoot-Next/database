@@ -1,0 +1,39 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Wanderson,FB,L,37,BRA,5,true,false,false,stamina,pace
+Oberdan,MF,L,31,BRA,6,true,false,false,stamina,pace
+Ki Sung Yueng,MF,R,37,KOR,6,false,false,false,playmaking,stamina
+Shin Kwang Hoon,FB,R,39,KOR,10,false,false,false,stamina,tackling
+Kim Jong Woo,MF,R,32,KOR,4,false,false,false,stamina,pace
+Park Seung Wook,CB,R,29,KOR,5,true,false,false,stamina,pace
+Jeon Min Gwang,CB,L,33,KOR,7,false,false,false,stamina,pace
+Juninho Rocha,FW,L,28,BRA,1,true,false,false,pace,dribbling
+Paik Sung Dong,FW,L,35,KOR,5,false,false,false,pace,stamina
+Eo Jeong Won,FB,L,27,KOR,6,true,false,false,stamina,pace
+Hong Yun Sang,FW,L,24,KOR,7,false,false,false,pace,stamina
+Kim In Sung,FW,L,36,KOR,10,false,false,false,pace,dribbling
+Jorge Teixeira,FW,R,27,BRA,5,true,false,false,pace,stamina
+Lee Ho Jae,FW,L,25,KOR,6,false,false,false,heading,finishing
+An Jae Jun,FW,R,25,KOR,7,false,false,false,pace,heading
+Kim Dong Jin,MF,R,23,KOR,1,true,false,false,stamina,tackling
+Lee Dong Hee,CB,R,26,KOR,5,true,false,false,pace,heading
+Jonathan Aspropotamitis,CB,R,30,AUS,6,false,false,false,stamina,pace
+Cho Jae Hun,FW,L,23,KOR,7,false,false,false,pace,playmaking
+Kang Min Jun,FB,R,23,KOR,1,false,false,false,pace,stamina
+Hong Ji Woo,MF,R,23,KOR,5,true,false,false,pace,passing
+Han Hyeon Seo,CB,L,22,KOR,6,false,false,false,pace,passing
+Kang Hyun Je,MF,R,24,KOR,7,true,false,false,dribbling,passing
+Cho Sang Hyeok,FW,R,22,KOR,1,false,false,false,heading,finishing
+Hwang Seo Ung,MF,R,21,KOR,5,false,false,false,dribbling,pace
+Kim Dong Min,MF,R,21,KOR,6,false,false,false,passing,pace
+Lee Heon Jae,FW,R,20,KOR,7,false,false,false,pace,dribbling
+Lee Gyu Min,FW,L,20,KOR,2,false,false,false,pace,dribbling
+Lee Chang Woo,FB,R,20,KOR,5,false,false,false,stamina,pace
+Park Su Bin,FW,R,21,KOR,6,false,false,false,pace,dribbling
+Jo Sung Wook,CB,R,31,KOR,10,false,false,false,heading,marking
+Baek Seung Won,FW,R,20,KOR,5,false,false,false,pace,dribbling
+Lee Dong Hyeop,FB,L,23,KOR,6,false,false,false,pace,tackling
+Cha Jun Young,CB,R,22,KOR,7,false,false,false,tackling,stamina
+Yoon Pyung Gook,GK,L,34,KOR,4,false,false,false,reflexes,penalty-saving
+Hwang In Jae,GK,R,32,KOR,5,true,false,false,penalty-saving,reflexes
+Hong Sung Min,GK,R,19,KOR,6,false,false,false,penalty-saving,rushing-out
+Kwon Neung,GK,R,20,KOR,8,false,false,false,rushing-out,penalty-saving

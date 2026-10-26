@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Engoue,GK,L,34,CMR,10,true,false,false,positioning,penalty-saving
+Nlend,GK,R,30,CMR,6,false,false,false,penalty-saving,reflexes
+Anye Derick Fru,GK,R,27,CMR,8,false,false,false,rushing-out,penalty-saving
+Li,FB,L,22,CMR,6,true,false,false,crossing,pace
+Afuanjih,FB,R,21,CMR,7,true,false,false,marking,passing
+Mamoudou Hassana,FB,R,22,CMR,7,false,false,false,marking,pace
+Boubkari Dairou,FB,L,22,CMR,9,false,false,false,marking,pace
+Abdoulaye Alingar,CB,L,32,CMR,4,true,false,false,tackling,marking
+Fabril Kaou,CB,R,28,CMR,3,true,false,false,tackling,stamina
+Ulrich Yampili,CB,L,24,CMR,6,false,false,false,heading,stamina
+Sanda Meteke,CB,R,29,CMR,3,false,false,false,tackling,stamina
+Maikano,MF,R,31,CMR,6,true,false,false,finishing,passing
+Zimbori-Auzingoni,MF,R,33,CTA,4,true,false,false,finishing,passing
+Yaya Ahmadou,MF,R,29,CMR,7,true,false,false,tackling,marking
+Bouhari,MF,R,26,CMR,9,true,false,false,finishing,passing
+Moussa Kalamou,MF,L,27,CMR,4,false,false,false,tackling,heading
+Sibiri Sanou,MF,L,23,BFA,4,false,false,false,finishing,passing
+Koudeka,MF,R,30,TOG,9,false,false,false,marking,pace
+Félix Oukiné,MF,R,22,CMR,7,false,false,false,tackling,marking
+Kamilou Daouda,FW,R,34,NIG,4,true,false,false,finishing,pace
+Wassou,FW,L,18,CMR,8,true,false,false,finishing,dribbling
+Alemi,FW,L,30,CMR,7,false,false,false,finishing,pace
+Souaibou Marou,FW,L,21,CMR,1,false,false,false,crossing,pace

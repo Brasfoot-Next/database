@@ -1,0 +1,13 @@
+name = "Dinamo-Auto"
+country = "MDA"
+level = 13
+reputation = 1
+colors = ["#0033cc", "#ffffff"]
+
+[stadium]
+name = "Dinamo-Auto"
+capacity = 1300
+
+[coach]
+name = "Oleg Bejenari"
+country = "MDA"

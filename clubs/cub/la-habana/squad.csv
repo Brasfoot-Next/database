@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Humberto Sánchez,GK,R,27,CUB,5,true,false,false,positioning,rushing-out
+Oreste Puig,GK,L,19,CUB,5,false,false,false,positioning,rushing-out
+Raúl Sánchez,GK,R,23,CUB,3,false,false,false,positioning,penalty-saving
+Yolexis Collado,FB,L,28,CUB,1,true,false,false,finishing,pace
+Guillermo Reyes,FB,R,18,CUB,8,true,false,false,marking,pace
+Juan Guerra,FB,R,26,CUB,1,false,false,false,marking,finishing
+Silvio Alfonso,FB,L,19,CUB,2,false,false,false,finishing,pace
+Daniel Alarcó,CB,L,27,CUB,9,true,false,false,marking,pace
+Carlos Perez,CB,R,22,CUB,7,true,false,false,tackling,stamina
+José Gutiérrez,CB,R,26,CUB,1,false,false,false,tackling,marking
+Jorge Luis,CB,L,29,CUB,3,false,false,false,heading,stamina
+José Pérez,MF,R,22,CUB,6,true,false,false,playmaking,passing
+Mario Ruiz,MF,L,36,CUB,7,true,false,false,finishing,passing
+Ariel Casanova,MF,R,28,CUB,3,true,false,false,tackling,finishing
+José Oliva,MF,L,21,CUB,1,true,false,false,marking,passing
+Tomás González,MF,R,23,CUB,7,false,false,false,finishing,passing
+Víctor Delgado,MF,L,28,CUB,2,false,false,false,playmaking,finishing
+Félix Pérez,FW,L,27,CUB,5,true,false,false,pace,crossing
+Silvio Prieto,FW,R,28,CUB,7,true,false,false,finishing,dribbling
+Fernando Vega,FW,R,25,CUB,4,false,false,false,pace,finishing
+José Rojas,FW,L,23,CUB,10,false,false,false,finishing,pace

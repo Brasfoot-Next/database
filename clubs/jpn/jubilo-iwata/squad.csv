@@ -1,0 +1,39 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ayumi Niekawa,GK,R,32,JPN,4,true,false,false,rushing-out,positioning
+Ryuki Miura,GK,L,34,JPN,5,false,false,false,penalty-saving,reflexes
+Eiji Kawashima,GK,R,25,JPN,7,false,false,false,positioning,penalty-saving
+Keitaro Nakajima,GK,R,25,JPN,9,false,false,false,positioning,rushing-out
+Jan Van den Bergh,CB,L,31,BEL,4,true,false,false,passing,marking
+Kosuke Yamazaki,CB,L,30,JPN,6,false,false,false,marking,heading
+Takuro Ezaki,CB,L,26,JPN,7,false,false,false,stamina,heading
+Danilo,CB,R,29,BRA,1,false,false,false,marking,stamina
+Hasan Hilu,CB,R,26,JPN,5,false,false,false,tackling,pace
+Katsunori Ueebisu,CB,R,30,JPN,5,false,false,false,passing,marking
+Daisuke Kato,CB,R,27,JPN,5,true,false,false,tackling,marking
+Yua Kai,CB,L,19,JPN,6,false,false,false,heading,stamina
+Ko Matsubara,FB,R,29,JPN,7,true,false,false,stamina,pace
+Ryusei Yoshimura,FB,L,23,JPN,3,false,false,false,tackling,marking
+Sora Masuda,FB,R,18,JPN,5,false,false,false,tackling,pace
+Hiroto Uemura,FB,R,24,JPN,6,true,false,false,pace,crossing
+Shunsuke Nishikubo,FB,L,22,JPN,7,false,false,false,stamina,crossing
+Kota Kuwabara,FB,R,21,JPN,4,false,false,false,passing,crossing
+Daiki Kaneko,MF,R,27,JPN,5,true,false,false,tackling,passing
+Yuri Lara,MF,R,32,BRA,6,true,false,false,dribbling,pace
+Kensuke Fujiwara,MF,R,22,JPN,5,false,false,false,finishing,passing
+Yuki Aida,MF,R,27,JPN,6,true,false,false,dribbling,playmaking
+Rikiya Uehara,MF,R,29,JPN,7,false,false,false,tackling,passing
+Shion Inoue,MF,R,28,JPN,2,false,false,false,finishing,playmaking
+Tokumo Kawai,MF,R,19,JPN,5,false,false,false,playmaking,passing
+Ikki Kawasaki,MF,R,28,JPN,6,false,false,false,pace,crossing
+Daiki Sato,MF,L,27,JPN,7,false,false,false,pace,crossing
+Hirotaka Tameda,MF,L,32,JPN,2,false,false,false,pace,crossing
+Motoki Ohara,MF,R,26,JPN,5,true,false,false,stamina,passing
+Rea Ishizuka,MF,R,18,JPN,5,false,false,false,playmaking,passing
+Iago Teles,FW,L,26,BRA,4,false,false,false,pace,dribbling
+Takashi Inui,FW,R,38,JPN,5,true,false,false,heading,stamina
+Koshiro Sumi,FW,L,23,JPN,6,false,false,false,pace,finishing
+Matheus Peixoto,FW,R,30,BRA,10,false,false,false,finishing,pace
+Ryoga Sato,FW,R,27,JPN,4,false,false,false,heading,stamina
+Ryo Watanabe,FW,R,29,JPN,5,false,false,false,heading,finishing
+Leon Nozawa,FW,R,22,JPN,7,true,false,false,crossing,pace
+Ryunosuke Ota,FW,R,24,JPN,1,false,false,false,heading,finishing

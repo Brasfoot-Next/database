@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mohamed Mostafa,GK,R,33,EGY,5,false,false,false,reflexes,positioning
+Amgad Youssef,GK,R,26,EGY,5,true,false,false,reflexes,penalty-saving
+Abdelaziz Ahmed,GK,R,26,EGY,6,false,false,false,penalty-saving,reflexes
+Amr El Basha,CB,R,23,EGY,1,true,false,false,marking,passing
+Mahmoud Alaa,CB,R,29,EGY,5,true,false,false,marking,stamina
+Ahmed Shokry,CB,R,31,EGY,6,false,false,false,passing,marking
+Mahmoud Okal,CB,R,32,EGY,7,false,false,false,passing,marking
+Khaled Abdelaal,CB,R,23,EGY,4,false,false,false,heading,stamina
+Ahmed Refo,FB,L,27,EGY,5,true,false,false,tackling,marking
+Moamen Eid,MF,R,24,EGY,6,false,false,false,playmaking,finishing
+Abdo Keshkesh,MF,L,26,EGY,7,true,false,false,tackling,marking
+Bakr Fawzi,MF,L,27,EGY,1,true,false,false,marking,passing
+Abdelrahman El Khamisi,MF,L,26,EGY,5,false,false,false,dribbling,passing
+Ibrahim Abbas,MF,R,27,EGY,6,true,false,false,playmaking,finishing
+Mohamed Treka,MF,L,28,EGY,7,false,false,false,dribbling,playmaking
+Mohamed Hesha,MF,R,27,EGY,2,true,false,false,stamina,passing
+Ahmed Fathi,MF,R,23,EGY,5,true,false,false,dribbling,playmaking
+Mohamed Eid,FW,R,29,EGY,6,true,false,false,pace,dribbling
+Mostafa Sadafa,FW,R,28,EGY,7,true,false,false,dribbling,playmaking
+Mahmoud Kamal,FW,L,29,EGY,2,false,false,false,dribbling,finishing
+Ahmed Younes,FW,R,24,EGY,6,false,false,false,finishing,stamina
+Mohamed Homos,FW,R,25,EGY,7,false,false,false,heading,stamina
+Ahmed Arabi,FW,R,24,EGY,4,false,false,false,dribbling,finishing
+Abdo Abdallah,FW,R,22,EGY,5,false,false,false,heading,finishing
+Joshua Egaji,FW,R,25,NGA,6,false,false,false,dribbling,finishing

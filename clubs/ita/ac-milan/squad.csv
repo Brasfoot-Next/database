@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Adrien Rabiot,MF,L,31,FRA,7,false,false,false,stamina,pace
+Luka Modric,MF,L,40,CRO,2,false,false,false,playmaking,passing
+Ruben Loftus Cheek,MF,L,30,ENG,6,false,false,false,heading,passing
+Christian Pulisic,MF,R,27,USA,6,true,false,false,dribbling,pace
+Ardon Jashari,MF,L,24,SUI,7,true,false,false,stamina,passing
+Youssouf Fofana,MF,R,27,FRA,4,true,false,false,stamina,tackling
+Pervis Estupinan,FW,L,28,ECU,6,false,false,false,stamina,dribbling
+Rafael Leão,FW,L,27,POR,6,true,false,false,pace,dribbling
+Samuele Ricci,MF,R,25,ITA,8,false,false,false,stamina,passing
+Alexis Saelemaekers,FW,R,27,BEL,4,true,false,false,dribbling,crossing
+Christopher Nkunku,MF,R,28,FRA,6,true,false,false,dribbling,passing
+Santiago Gimenez,FW,L,25,MEX,7,false,false,false,finishing,heading
+Fikayo Tomori,CB,R,28,ENG,9,false,false,false,tackling,pace
+Koni De Winter,CB,R,24,BEL,5,true,false,false,tackling,heading
+Strahinja Pavlovic,CB,L,25,SRB,6,true,false,false,stamina,heading
+Matteo Gabbia,CB,R,26,ITA,6,false,false,false,heading,tackling
+Cheveyo Balentien,FW,R,19,NED,7,false,false,false,dribbling,stamina
+Davide Bartesaghi,FB,L,20,ITA,2,true,false,false,tackling,heading
+Mike Maignan,GK,R,31,FRA,6,true,true,false,reflexes,positioning
+Zachary Athekame,FB,R,21,SUI,6,true,false,false,pace,stamina
+David Odogu,CB,R,20,GER,6,false,false,false,pace,tackling
+Pietro Terracciano,GK,R,36,ITA,7,false,false,false,reflexes,penalty-saving
+Lorenzo Torriani,GK,R,21,ITA,8,false,false,false,reflexes,positioning

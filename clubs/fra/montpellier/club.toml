@@ -1,0 +1,13 @@
+name = "Montpellier"
+country = "FRA"
+level = 13
+reputation = 3
+colors = ["#F0F0F0", "#E06000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Nathanael Luce"
+country = "BRA"

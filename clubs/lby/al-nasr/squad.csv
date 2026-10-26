@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Fathi Al-Talhy,GK,R,33,LBY,2,true,false,false,positioning,rushing-out
+Islam Alharam,GK,L,23,LBY,8,false,false,false,positioning,rushing-out
+Sadam Warfali,FB,L,26,LBY,7,true,false,false,marking,passing
+Salah Fakroun,CB,L,23,LBY,2,true,false,false,tackling,heading
+Fayiz Alshaykhi,CB,R,23,LBY,7,true,false,false,heading,stamina
+Muad Alamami,CB,L,24,LBY,6,false,false,false,tackling,marking
+Ellafi,MF,R,31,LBY,3,true,false,false,finishing,passing
+Ziad Elwani,MF,L,22,LBY,1,true,false,false,marking,finishing
+Ahmed Al-Haasy,MF,R,27,LBY,7,true,false,false,marking,pace
+Mahmoud Benwali,MF,L,27,LBY,3,true,false,false,finishing,passing
+Khaled Magdi,FW,L,26,LBY,9,true,false,false,dribbling,finishing
+Junior Figongang,FW,R,24,CMR,7,true,false,false,heading,stamina
+Talla N'Diaye,FW,R,29,SEN,6,false,false,false,dribbling,finishing
+Jawad Rizg,GK,L,26,LBY,8,false,false,false,positioning,rushing-out
+Malek Miladi,CB,R,25,TUN,4,false,false,false,marking,pace
+Mohammed Al Tuhami,MF,L,30,LBY,3,false,false,false,finishing,passing
+Ibrahim Elajail,MF,R,31,LBY,10,false,false,false,passing,finishing
+Junior Ajayi,FW,R,26,NGA,1,false,false,false,finishing,heading
+Essien Ededem,MF,R,24,NGA,3,false,false,false,tackling,marking
+Omar Shahat,MF,L,25,LBY,2,false,false,false,tackling,pace
+Abdulhadi Ali,FB,L,31,LBY,10,true,false,false,finishing,pace
+Muhannad Buagelh,FB,R,28,LBY,10,true,false,false,marking,pace
+Luciano Naninho,FB,L,30,BRA,9,false,false,false,crossing,marking

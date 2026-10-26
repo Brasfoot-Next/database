@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gustav Lundgren,FW,L,31,SWE,5,true,false,false,stamina,pace
+Amin Boudri,MF,L,21,SWE,6,true,false,false,dribbling,pace
+William Milovanovic,MF,R,24,SWE,1,true,false,false,stamina,passing
+Jonas Lindberg,FW,R,37,SWE,5,false,false,false,stamina,playmaking
+Kevin Holmen,MF,L,24,SWE,5,true,false,false,playmaking,passing
+Matteo De Brienne,FB,L,24,CAN,6,true,false,false,pace,stamina
+Joackim Fagerjord,MF,L,28,SWE,7,true,false,false,passing,stamina
+August Wangberg,FB,R,32,SWE,3,false,false,false,stamina,tackling
+Ibrahim Diabate,FW,R,26,CIV,5,false,false,false,pace,finishing
+Lucas Hedlund,FW,R,28,SWE,6,false,false,false,pace,finishing
+Robin Wendin Thomasson,FB,L,27,SWE,5,true,false,false,stamina,pace
+Rasmus Niklasson Petrovic,FW,L,23,SWE,6,true,false,false,pace,playmaking
+Edvin Becirovic,FW,L,26,SWE,7,false,false,false,pace,playmaking
+Anton Kurochkin,FW,L,23,SWE,3,false,false,false,pace,playmaking
+Robert Frosti Thorkelsson,MF,R,21,ISL,5,false,false,false,pace,stamina
+Oskar Agren,CB,L,27,SWE,6,true,false,false,passing,heading
+Filip Gustafsson,MF,R,24,SWE,7,false,false,false,passing,tackling
+Shalom Ekong,FW,R,22,ITA,3,false,false,false,pace,finishing
+Robin Frej,CB,R,28,SWE,5,false,false,false,stamina,heading
+Anes Cardaklija,CB,R,21,SWE,6,false,false,false,stamina,tackling
+Filip Beckman,CB,L,23,SWE,5,true,false,false,heading,tackling
+Simon Sjoholm,FW,R,20,SWE,6,false,false,false,pace,dribbling
+Daniel Bengtsson,FW,R,18,SWE,7,false,false,false,pace,finishing
+Mergim Krasniqi,GK,R,34,SWE,1,false,false,false,penalty-saving,rushing-out
+Kees Sims,GK,R,23,NZL,5,true,false,false,rushing-out,penalty-saving

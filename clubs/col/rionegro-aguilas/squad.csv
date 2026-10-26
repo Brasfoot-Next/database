@@ -1,0 +1,42 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Wuilker Fariñez,GK,R,25,VEN,6,true,false,false,rushing-out,positioning
+Geovanni Banguera,GK,R,28,COL,9,false,false,false,positioning,reflexes
+Sebastián Guerra,GK,R,22,COL,4,false,false,false,rushing-out,reflexes
+Felipe Aguilar,CB,R,30,COL,5,true,false,false,passing,marking
+Diego Hernández,CB,R,23,COL,6,true,false,false,tackling,heading
+Sebastián Rodríguez,CB,R,23,COL,1,false,false,false,marking,passing
+Andrés Cadavid,CB,R,38,COL,5,false,false,false,heading,stamina
+Hernán Lópes,CB,R,32,ARG,5,false,false,false,tackling,pace
+Nicolás Lara,CB,L,20,COL,7,false,false,false,stamina,heading
+Juan José Aguilar,CB,R,23,COL,1,false,false,false,tackling,pace
+Ismael López,CB,R,27,COL,2,false,false,false,marking,heading
+Cristian Blanco,FB,R,24,COL,5,false,false,false,marking,pace
+Jhojan Escobar,FB,R,23,COL,6,false,false,false,crossing,passing
+Javier Mena,FB,L,19,COL,7,true,false,false,dribbling,pace
+Mateo Puerta,FB,R,26,COL,5,false,false,false,dribbling,pace
+Delvin Alfonzo,FB,R,23,VEN,6,false,false,false,marking,pace
+Dylan Lozano,FB,L,21,COL,7,true,false,false,stamina,crossing
+Jesús Rivas,MF,R,26,COL,1,false,false,false,playmaking,finishing
+Frank Lozano,MF,R,30,COL,5,true,false,false,playmaking,passing
+Guillermo Celis,MF,R,30,COL,6,true,false,false,pace,dribbling
+Harrinson Mancilla,MF,R,32,COL,8,false,false,false,tackling,passing
+Jaen Pineda,MF,R,26,COL,4,true,false,false,finishing,playmaking
+Tomás Salazar,MF,L,23,COL,5,false,false,false,dribbling,pace
+Auli Oliveros,MF,R,22,COL,6,false,false,false,finishing,playmaking
+Royner Benítez,MF,L,18,COL,9,true,false,false,dribbling,pace
+Johan Caballero,FW,R,25,COL,6,false,false,false,heading,pace
+David Lemos,FW,R,28,COL,7,false,false,false,heading,pace
+Bryan Urueña,FW,R,31,COL,4,false,false,false,finishing,heading
+Matías Ramírez,FW,R,24,ARG,5,false,false,false,pace,crossing
+Jhon Fredy Salazar,FW,R,28,COL,6,false,false,false,playmaking,finishing
+Yony González,FW,R,29,COL,3,false,false,false,heading,pace
+Ánderson Plata,FW,R,33,COL,5,false,false,false,pace,finishing
+Fabián Charales,FW,L,19,COL,6,false,false,false,pace,finishing
+Juan Palacio,FW,L,20,COL,7,false,false,false,dribbling,pace
+Jorge Obregón,FW,R,26,COL,3,false,false,false,finishing,pace
+Cristian Martínez,FW,R,35,COL,5,true,false,false,dribbling,finishing
+Wilson Morelo,FW,R,36,COL,7,false,false,false,dribbling,finishing
+Antony Vásquez,FW,R,24,COL,3,false,false,false,finishing,heading
+Carlos Rojas,FW,R,25,COL,5,false,false,false,finishing,pace
+Benigno Palacio,FW,R,22,COL,6,false,false,false,heading,finishing
+Jorge Rivaldo,FW,R,20,COL,2,true,false,false,pace,crossing

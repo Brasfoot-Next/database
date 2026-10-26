@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+José Contreras,GK,R,31,VEN,6,true,false,false,reflexes,positioning
+José Gabriel Cevallos,GK,R,28,ECU,9,false,false,false,reflexes,rushing-out
+José Angulo,GK,R,28,ECU,4,false,false,false,reflexes,penalty-saving
+Kleber Pinargote,GK,R,23,ECU,5,false,false,false,penalty-saving,reflexes
+Álex Rangel,CB,R,24,ECU,6,false,false,false,stamina,pace
+Gustavo Vallecilla,CB,L,27,ECU,1,true,false,false,stamina,tackling
+Javier Báez,CB,L,36,PAR,5,false,false,false,heading,marking
+Jhonnier Chalá,CB,R,26,ECU,5,true,false,false,tackling,stamina
+Jonnathan Mina,FB,R,31,ECU,6,false,false,false,pace,crossing
+Jonathan Perlaza,FB,L,28,ECU,7,true,false,false,passing,pace
+Bryan Carabalí,FB,R,28,ECU,6,false,false,false,pace,stamina
+Byron Castillo,FB,R,27,ECU,9,true,false,false,stamina,crossing
+Willian Vargas,FB,R,29,ECU,4,false,false,false,pace,crossing
+Jefferson Intriago,MF,R,30,ECU,5,true,false,false,marking,passing
+Matías Lugo,MF,R,25,ARG,7,true,false,false,passing,playmaking
+Jhonny Quiñónez,MF,R,28,ECU,1,true,false,false,pace,stamina
+Jordan Medina,MF,L,26,ECU,4,true,false,false,stamina,tackling
+Jandry Gómez,MF,L,20,ECU,5,false,false,false,pace,dribbling
+Tomás Martínez,MF,L,31,ARG,8,false,false,false,passing,stamina
+Johan García,MF,R,18,ECU,4,false,false,false,playmaking,finishing
+Luis Cano,FW,R,26,ECU,6,false,false,false,playmaking,finishing
+Joao Rojas,FW,L,29,ECU,7,false,false,false,pace,dribbling
+Erick Mendoza,FW,R,24,ECU,4,false,false,false,playmaking,finishing
+Ronald Perlaza,FW,R,21,ECU,5,false,false,false,heading,finishing
+Héctor Villalba,FW,L,32,PAR,6,false,false,false,pace,dribbling
+Marcos Mejía,FW,L,28,ECU,7,false,false,false,dribbling,playmaking
+Sergio Díaz,FW,R,28,PAR,4,false,false,false,finishing,dribbling
+Tomás Rodríguez,FW,R,27,PAN,5,true,false,false,pace,finishing
+Allen Obando,FW,R,20,ECU,6,false,false,false,heading,stamina
+Sergio Núñez,FW,R,26,URU,3,false,false,false,pace,dribbling
+Jefferson Wila,FW,R,19,ECU,6,false,false,false,finishing,heading
+Darío Benedetto,FW,R,36,ARG,7,true,false,false,heading,playmaking
+Richard Borja,FW,L,22,ECU,3,false,false,false,pace,dribbling

@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ahmad Gohari,GK,R,26,IRN,8,true,false,false,rushing-out,penalty-saving
+Ali Joudaki,FB,L,21,IRN,1,true,false,false,finishing,passing
+Farshad Faraji,CB,L,28,IRN,3,true,false,false,heading,stamina
+Ali Nemati,CB,R,26,IRN,9,true,false,false,tackling,stamina
+Vakhdat Khanonov,CB,L,22,TJK,10,false,false,false,tackling,heading
+Kamyabinia,MF,R,33,IRN,3,true,false,false,marking,finishing
+Vahid Amiri,MF,R,34,IRN,4,true,false,false,finishing,passing
+Milad Sarlak,MF,L,27,IRN,9,true,false,false,tackling,pace
+Omid Alishah,FW,L,30,IRN,4,true,false,false,finishing,dribbling
+Siamak Nemati,FW,R,28,IRN,4,true,false,false,dribbling,finishing
+Abdi Qara,FW,R,23,IRN,7,false,false,false,dribbling,finishing
+Alireza Beiranvand,GK,L,29,IRN,2,false,false,false,reflexes,positioning
+Mehrshad Asadi,GK,R,20,IRN,4,false,false,false,reflexes,positioning
+Ahmadi,FB,R,21,IRN,10,true,false,false,crossing,marking
+Danial Esmaeilifar,FB,R,29,IRN,4,false,false,false,marking,pace
+Alireza Khodaei,FB,L,20,IRN,1,false,false,false,marking,passing
+Pouraliganji,CB,R,30,IRN,9,false,false,false,tackling,heading
+Soroosh Rafiei,MF,L,32,IRN,4,true,false,false,passing,finishing
+Mohammad Omri,MF,R,22,IRN,5,false,false,false,playmaking,pace
+Mehdi Torabi,FW,R,27,IRN,2,false,false,false,dribbling,pace

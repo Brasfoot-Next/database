@@ -1,0 +1,13 @@
+name = "Rubin Kazan"
+country = "RUS"
+level = 17
+reputation = 3
+colors = ["#F0F0F0", "#801030"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Ugochukwu Samoshnikov"
+country = "BRA"

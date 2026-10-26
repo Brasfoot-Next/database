@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mikael Anderson,FW,R,28,ISL,8,true,false,false,stamina,pace
+Adam Stahl,FB,R,31,FIN,4,true,false,false,stamina,pace
+Tokmac Nguen,MF,R,32,NOR,5,false,false,false,pace,dribbling
+Hampus Finndell,MF,R,26,SWE,6,false,false,false,stamina,heading
+Albin Ekdal,MF,R,37,SWE,9,true,false,false,passing,playmaking
+Daniel Stensson,MF,L,29,SWE,4,false,false,false,stamina,passing
+Rasmus Schuller,MF,L,35,FIN,5,false,false,false,stamina,marking
+Piotr Johansson,FB,R,31,SWE,7,false,false,false,stamina,pace
+Patric Aslund,MF,R,24,SWE,1,true,false,false,passing,playmaking
+Jeppe Okkels,FW,L,27,DEN,4,true,false,false,pace,stamina
+Nino Zugelj,FW,L,26,SVN,5,false,false,false,pace,stamina
+Keita Kosugi,FB,L,20,JPN,6,true,false,false,stamina,pace
+Matias Siltanen,MF,L,19,FIN,7,true,false,false,stamina,tackling
+Theo Bergvall,FB,R,21,SWE,2,false,false,false,pace,stamina
+August Priske,FW,R,22,DEN,5,false,false,false,pace,heading
+Jacob Une,CB,R,32,SWE,6,true,false,false,stamina,heading
+Zakaria Sawo,FW,R,26,GAM,10,false,false,false,pace,finishing
+Bo Hegland,MF,R,22,NOR,4,true,false,false,stamina,pace
+Oskar Fallenius,FW,L,24,SWE,5,false,false,false,pace,dribbling
+Marcus Danielson,CB,L,37,SWE,6,false,false,false,heading,tackling
+Mikael Marques,CB,R,25,SWE,4,false,false,false,pace,tackling
+Miro Tenho,CB,R,31,FIN,5,true,false,false,tackling,stamina
+Ahmed Saeed,FW,L,18,SWE,6,false,false,false,pace,dribbling
+Alieu Atlee Manneh,CB,L,20,SWE,8,false,false,false,pace,stamina
+Jacob Rinne,GK,L,33,SWE,4,false,false,false,reflexes,penalty-saving
+Malkolm Nilsson Safqvist,GK,R,33,SWE,5,false,false,false,positioning,reflexes
+Filip Manojlovic,GK,R,30,SRB,6,true,false,false,penalty-saving,reflexes

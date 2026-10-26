@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Zakaria Saidi,GK,L,29,ALG,5,true,false,false,positioning,rushing-out
+Ala Eddine Bouaoune,GK,R,23,ALG,6,false,false,false,reflexes,positioning
+Imadeddine Boubekeur,CB,R,31,ALG,7,false,false,false,tackling,stamina
+Slimane Bouteldja,CB,R,31,ALG,4,false,false,false,stamina,heading
+Issam Abdelhamid Naim,CB,L,20,ALG,5,false,false,false,marking,heading
+Youcef Douar,CB,R,28,ALG,6,true,false,false,marking,stamina
+Mick Omfia,CB,R,25,ALG,7,true,false,false,tackling,heading
+Ibrahim Bekakchi,CB,R,34,ALG,1,false,false,false,heading,marking
+Anis Khemaissia,FB,L,27,ALG,5,true,false,false,crossing,passing
+Aïssa Boudechicha,FB,L,26,ALG,6,true,false,false,marking,crossing
+Kamel Hamidi,FB,R,30,ALG,7,false,false,false,stamina,pace
+Mudasiru Salifu,MF,L,29,GHA,1,true,false,false,passing,finishing
+Oussama Daibeche,MF,L,27,ALG,5,true,false,false,dribbling,passing
+Abderraouf Arib,MF,R,21,ALG,6,false,false,false,playmaking,dribbling
+Mohamed Hamek,MF,R,28,ALG,7,true,false,false,dribbling,passing
+Dalil Hassen-Khodja,MF,R,27,ALG,2,true,false,false,tackling,passing
+Réda Boumechra,MF,R,29,ALG,5,false,false,false,passing,stamina
+Kheir Eddine Toual,MF,R,24,ALG,6,false,false,false,marking,passing
+Larbi Tabti,MF,R,33,ALG,7,false,false,false,dribbling,playmaking
+Akram Djahnit,MF,R,35,ALG,2,false,false,false,finishing,passing
+Hachemi Benslimane,MF,R,20,ALG,5,false,false,false,pace,dribbling
+Mohamed Islam Belkhir,FW,R,25,ALG,6,true,false,false,finishing,heading
+Imad Eddine Bouchagoura,FW,R,19,ALG,7,false,false,false,finishing,pace
+Mohamed Boukerma,FW,R,24,ALG,1,false,false,false,finishing,stamina
+Wilfrid Nkaya,FW,R,26,CGO,5,true,false,false,dribbling,finishing
+Merouane Zerrouki,FW,R,25,ALG,6,false,false,false,crossing,pace
+Mohamed Chemseddine Benlebna,FW,R,21,ALG,7,false,false,false,playmaking,finishing
+Oussama Bouguerri,FW,L,20,ALG,2,false,false,false,heading,stamina
+Zakaria Benchaâ,FW,L,29,ALG,5,false,false,false,finishing,pace

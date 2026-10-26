@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kai Wagner,FB,L,29,GER,6,false,false,false,stamina,crossing
+Alejandro Bedoya,MF,R,39,USA,1,false,false,false,passing,playmaking
+Indiana Vassilev,FW,L,25,USA,5,false,false,false,stamina,pace
+Danley Jean Jacques,MF,L,26,HAI,5,true,false,false,stamina,passing
+Quinn Sullivan,FW,L,22,USA,7,true,false,false,dribbling,pace
+Jovan Lukic,MF,L,24,SRB,4,true,false,false,pace,passing
+Mikael Uhre,FW,L,31,DEN,5,false,false,false,pace,stamina
+Jakob Glesnes,CB,R,32,NOR,6,true,false,false,stamina,tackling
+Jesús Bueno,MF,R,27,VEN,8,true,false,false,passing,tackling
+Tai Baribo,FW,R,28,USA,4,true,false,false,finishing,stamina
+Bruno Damiani,FW,L,24,URU,5,false,false,false,finishing,heading
+Olivier Mbaizo,FB,R,29,CMR,6,false,false,false,pace,stamina
+Ben Bender,MF,L,25,USA,7,true,false,false,playmaking,passing
+Frankie Westfield,FB,R,20,USA,2,true,false,false,pace,tackling
+Nathan Harriel,FB,R,25,USA,5,true,false,false,pace,stamina
+Ian Glavinovich,CB,R,24,ARG,6,false,false,false,heading,marking
+Milan Iloski,FW,R,27,USA,7,false,false,false,pace,finishing
+Chris Donovan,FW,R,26,USA,3,false,false,false,pace,finishing
+Jeremy Rafanello,MF,R,26,USA,5,false,false,false,pace,passing
+Nick Pariano,MF,R,23,USA,6,false,false,false,passing,dribbling
+Olwethu Makhanya,CB,L,22,USA,4,true,false,false,pace,tackling
+Markus Anderson,FW,L,22,USA,5,false,false,false,pace,dribbling
+Andre Blake,GK,R,35,JAM,7,false,false,false,positioning,reflexes
+George Marks,GK,R,26,USA,9,false,false,false,rushing-out,positioning
+Andrew Rick,GK,R,20,USA,4,true,false,false,reflexes,penalty-saving

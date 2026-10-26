@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Yuba-Rayane Yesli,GK,R,26,ALG,5,true,false,false,reflexes,positioning
+Hatem Bencheikh El Fegoun,GK,R,26,ALG,6,false,false,false,penalty-saving,reflexes
+Benaouda Klileche,GK,R,26,ALG,7,false,false,false,penalty-saving,reflexes
+Ahmed Alili,GK,R,21,ALG,7,false,false,false,rushing-out,reflexes
+Nassim Mekidèche,CB,R,26,ALG,4,true,false,false,heading,passing
+Louanes Zidi,CB,L,24,ALG,5,true,false,false,tackling,pace
+Nasreddine Zaalani,CB,R,33,ALG,6,false,false,false,heading,stamina
+Hamza Mouali,FB,R,28,ALG,7,true,false,false,passing,pace
+Khadim Diaw,FB,L,28,ALG,4,true,false,false,marking,crossing
+Mohamed Walid Benchrifa,FB,L,37,ALG,5,false,false,false,tackling,stamina
+Ahmed Alla,FB,R,21,ALG,2,false,false,false,dribbling,pace
+Abdelkader Belharrane,FB,R,25,ALG,5,false,false,false,crossing,passing
+Abdelkader Boutiche,MF,R,29,ALG,6,true,false,false,stamina,tackling
+Ali Amriche,MF,R,27,ALG,7,true,false,false,finishing,playmaking
+Aly Dessé Sissoko,MF,R,28,MLI,2,true,false,false,pace,dribbling
+Ibrahim Ben Halima Farhi,MF,R,29,ALG,5,false,false,false,dribbling,pace
+Toufik Addadi,MF,L,35,ALG,6,false,false,false,passing,finishing
+Hicham Messiad,MF,R,27,ALG,7,true,false,false,passing,playmaking
+Imame Abdelmounaïm Fridhar,MF,L,21,ALG,3,false,false,false,playmaking,passing
+Walid Zamoum,FW,L,29,ALG,5,true,false,false,pace,dribbling
+Khaled Bousseliou,FW,R,28,ALG,10,true,false,false,playmaking,finishing
+M'hend Sediri,FW,R,30,ALG,4,false,false,false,finishing,pace
+Hamdi Labidi,FW,L,24,TUN,5,false,false,false,dribbling,pace
+Ramdane Hitala,FW,R,31,ALG,7,false,false,false,pace,finishing
+Mohamed Amine Gherbi,FW,R,22,ALG,1,false,false,false,playmaking,finishing
+Ghilas Belgacem,FW,R,21,ALG,4,false,false,false,crossing,pace
+Amor Seyf Eddine Bitam,FW,R,25,ALG,6,false,false,false,heading,finishing

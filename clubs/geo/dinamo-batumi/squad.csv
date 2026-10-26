@@ -1,0 +1,20 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mikheil Alavidze,GK,L,34,GEO,7,true,false,false,reflexes,positioning
+Grigol Chabradze,FB,R,26,GEO,6,true,false,false,finishing,pace
+Irakli Azarovi,FB,L,20,GEO,9,true,false,false,marking,passing
+Giorgi Navalovski,FB,R,36,GEO,3,false,false,false,marking,finishing
+Mamuka Kobakhidze,CB,R,29,GEO,7,true,false,false,tackling,stamina
+Oleksandr Azatskyi,CB,L,28,UKR,2,true,false,false,tackling,stamina
+Luka Kapianidze,CB,R,23,GEO,10,false,false,false,tackling,marking
+Benjamin Teidi,MF,L,28,NGA,9,true,false,false,marking,pace
+Mamuchashvili,MF,R,24,GEO,6,true,false,false,marking,finishing
+Sandro Altunashvili,MF,R,25,GEO,1,true,false,false,tackling,finishing
+Bidzinashvili,MF,L,25,GEO,2,false,false,false,passing,finishing
+Zuriko Davitashvili,MF,R,21,GEO,10,true,false,false,finishing,passing
+Giorgi Zaria,MF,L,25,GEO,9,false,false,false,tackling,marking
+Jaba Jigauri,FW,R,30,GEO,5,true,false,false,heading,pace
+Giorgi Pantsulaia,FW,L,28,GEO,7,false,false,false,playmaking,finishing
+Flamarion,FW,L,25,BRA,5,true,false,false,pace,finishing
+Giorgi Begashvili,GK,L,31,GEO,10,false,false,false,rushing-out,penalty-saving
+Rekhviashvili,CB,L,34,GEO,2,false,false,false,tackling,stamina
+Mate Vatsadze,FW,L,33,GEO,7,false,false,false,finishing,dribbling

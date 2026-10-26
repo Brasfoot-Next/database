@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Otávio,MF,R,31,POR,6,true,false,false,dribbling,stamina
+Nahitan Nandez,FW,R,30,URU,7,false,false,false,stamina,passing
+Julian Quinones,FW,L,29,MEX,9,true,false,false,pace,stamina
+Julian Weigl,MF,R,31,GER,6,true,false,false,passing,stamina
+Musab Al Juwair,MF,L,23,KSA,7,false,false,false,playmaking,crossing
+Mateo Retegui,FW,R,27,ITA,8,true,false,false,finishing,heading
+Nacho Fernández,CB,R,36,ESP,5,true,false,false,tackling,marking
+Abdullah Al Salem,FW,R,33,KSA,6,false,false,false,stamina,finishing
+Yasser Al Shahrani,FB,L,34,KSA,7,false,false,false,stamina,pace
+Christopher Bonsu Baah,FW,L,21,GHA,9,false,false,false,pace,dribbling
+Turki Al Ammar,FB,L,26,KSA,7,true,false,false,pace,tackling
+Hussain Al Qahtani,MF,R,31,KSA,4,false,false,false,stamina,passing
+Ali Hazazi,MF,L,32,KSA,6,true,false,false,stamina,passing
+Mohammed Qasem,FB,L,31,KSA,6,false,false,false,pace,stamina
+Mohammed Abu Al Shamat,FB,R,24,KSA,8,true,false,false,stamina,pace
+Gaston Alvarez,CB,L,26,URU,4,true,false,false,pace,marking
+Mohammad Al Thani,FB,L,29,KSA,6,false,false,false,pace,stamina
+Ibrahim Mahnashi,MF,R,26,KSA,7,true,false,false,pace,tackling
+Jehad Thekri,CB,R,25,KSA,8,false,false,false,stamina,pace
+Khalid Hazazi,MF,R,21,KSA,4,false,false,false,heading,pace
+Qasem Lajami,CB,R,30,KSA,7,false,false,false,stamina,pace
+Haitham Asiri,FW,R,25,KSA,9,false,false,false,pace,dribbling
+Mohammed Al Shanqeeti,FB,L,27,KSA,5,false,false,false,pace,stamina
+Saif Rajab,FW,L,21,KSA,6,false,false,false,pace,dribbling
+Alejandro Vergaz,CB,L,20,ESP,7,false,false,false,heading,tackling
+Koen Casteels,GK,L,34,BEL,10,true,false,false,reflexes,positioning
+Gabriel Carvalho,FW,R,19,BRA,6,false,false,false,pace,dribbling
+Mohammed Al Shammari,FB,L,20,KSA,6,false,false,false,pace,stamina
+Ahmed Kaabi,CB,L,21,KSA,7,false,false,false,pace,stamina
+Ahmed Al Kassar,GK,R,35,KSA,1,false,false,false,reflexes,rushing-out
+Meshari Sanyour,GK,R,24,KSA,8,false,false,false,reflexes,penalty-saving

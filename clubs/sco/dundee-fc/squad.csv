@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ethan Hamilton,MF,L,27,SCO,4,true,false,false,stamina,passing
+Drey Wright,FB,R,31,ENG,5,false,false,false,pace,stamina
+Yan Dhanda,MF,R,27,ENG,6,true,false,false,dribbling,pace
+Callum Jones,MF,R,25,WAL,7,false,false,false,dribbling,passing
+Cameron Congreve,FW,L,22,WAL,4,true,false,false,pace,crossing
+Paul Digby,MF,R,31,ENG,5,false,false,false,stamina,heading
+Simon Murray,FW,R,34,SCO,6,false,false,false,pace,stamina
+Finlay Robertson,MF,L,23,SCO,7,true,false,false,pace,passing
+Aaron Donnelly,CB,L,23,NIR,2,false,false,false,stamina,heading
+Cesar Garza,MF,R,21,MEX,5,true,false,false,stamina,tackling
+Charlie Reilly,FW,L,24,SCO,3,false,false,false,pace,finishing
+Plamen Galabov,CB,R,30,BUL,5,false,false,false,stamina,heading
+Clark Robertson,CB,L,33,SCO,6,false,false,false,heading,tackling
+Ethan Ingram,FB,R,23,ENG,7,true,false,false,pace,stamina
+Emile Acquah,FW,R,26,ENG,4,false,false,false,pace,stamina
+Ryan Astley,CB,R,24,WAL,5,true,false,false,heading,tackling
+Joe Westley,FW,R,21,ENG,6,false,false,false,pace,stamina
+Ashley Hay,FW,L,23,ENG,7,false,false,false,pace,stamina
+Tony Yogane,FW,L,20,ENG,4,true,false,false,pace,dribbling
+Billy Koumetio,CB,L,23,FRA,5,false,false,false,heading,tackling
+Luke Graham,CB,L,22,SCO,1,true,false,false,stamina,heading
+Imari Samuels,FB,L,23,ENG,5,true,false,false,pace,dribbling
+Trevor Carson,GK,R,38,NIR,6,false,false,false,positioning,penalty-saving
+Jon Mccracken,GK,R,26,SCO,7,true,false,false,reflexes,penalty-saving
+Harrison Sharp,GK,R,25,SCO,2,false,false,false,penalty-saving,positioning

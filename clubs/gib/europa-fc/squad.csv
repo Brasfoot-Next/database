@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Christian Lopez,GK,L,21,GIB,5,false,false,false,reflexes,positioning
+Bradley Banda,GK,L,24,GIB,7,true,false,false,positioning,penalty-saving
+Owen Bosano,GK,L,16,GIB,3,false,false,false,positioning,penalty-saving
+Jayce Olivero,FB,L,24,GIB,10,true,false,false,marking,finishing
+Daniel Moreno,FB,R,20,ESP,1,false,false,false,finishing,pace
+Luis McCoy,FB,L,27,GIB,5,false,false,false,crossing,marking
+Ethan Jolley,CB,R,25,GIB,2,true,false,false,tackling,stamina
+Sergio Sánchez,CB,L,34,ESP,8,true,false,false,heading,stamina
+Emmanuel Edet,CB,R,32,NGA,3,false,false,false,tackling,marking
+Javi Paul,CB,L,23,ESP,2,false,false,false,heading,stamina
+Mohamed Badr,MF,R,32,GIB,5,true,false,false,finishing,passing
+Anthony Hernandez,MF,L,27,GIB,6,true,false,false,finishing,passing
+Jaron Vinet,MF,R,24,GIB,6,false,false,false,tackling,marking
+El Hmidi,MF,L,21,GIB,2,false,false,false,passing,finishing
+Luke Bautista,MF,L,20,GIB,2,false,false,false,passing,finishing
+Manuel Sánchez,MF,L,33,ESP,5,true,false,false,tackling,pace
+Jocelyn Kola,MF,R,28,CTA,4,true,false,false,marking,passing
+Cristian Orihuela,MF,L,25,ESP,6,false,false,false,tackling,heading
+Willy,FW,R,32,ESP,10,false,false,false,heading,pace
+Manu Heredia,FW,R,27,ESP,2,true,false,false,playmaking,finishing
+Manuel Román,FW,R,26,ESP,1,true,false,false,finishing,pace
+Ibrahima Ndiaye,FW,L,29,SEN,5,false,false,false,dribbling,finishing

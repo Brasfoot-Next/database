@@ -1,0 +1,13 @@
+name = "Persepolis"
+country = "IRN"
+level = 16
+reputation = 3
+colors = ["#ffffff", "#990000"]
+
+[stadium]
+name = "Azadi Stadium"
+capacity = 78116
+
+[coach]
+name = "Yahya Golmohammadi"
+country = "IRN"

@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Omar Salah,GK,R,28,EGY,6,true,false,false,reflexes,rushing-out
+Abdelkafi Ragab,GK,R,31,EGY,7,false,false,false,reflexes,penalty-saving
+Mohamed Khalifa,GK,R,23,EGY,3,false,false,false,positioning,penalty-saving
+Hamza Khaled,GK,L,21,EGY,4,false,false,false,rushing-out,reflexes
+Youssef Limouri,CB,L,27,MAR,5,true,false,false,marking,stamina
+Barakat Haggag,CB,R,28,EGY,6,true,false,false,heading,passing
+Ahmed Bahbah,CB,R,33,EGY,7,false,false,false,marking,heading
+Ahmed Yassin,CB,R,28,EGY,4,true,false,false,marking,tackling
+Tawfik Mohamed,FB,L,26,EGY,5,true,false,false,stamina,crossing
+Qobolwakhe Sibande,FB,L,26,EGY,6,false,false,false,stamina,crossing
+Islam Abdallah,FB,L,23,EGY,2,false,false,false,tackling,pace
+Ahmed Ghoneim,FB,L,27,EGY,5,true,false,false,crossing,pace
+Mahmoud Shedid Kenawi,FB,L,35,EGY,6,false,false,false,tackling,marking
+Mohamed Ali Okasha,MF,R,28,EGY,7,true,false,false,stamina,passing
+Amadou Djoulde Bah,MF,L,22,GUI,2,true,false,false,tackling,marking
+Adham Hamed,MF,L,26,EGY,5,true,false,false,passing,playmaking
+Badr Mousa,FW,R,27,EGY,6,true,false,false,finishing,pace
+Mostafa El Badry,FW,R,29,EGY,7,true,false,false,finishing,stamina
+Mahmoud Morsi,FW,L,23,EGY,3,false,false,false,pace,dribbling
+Ahmed Helmy,FW,R,21,EGY,5,false,false,false,finishing,dribbling
+Mostafa El Gamal,FW,R,29,EGY,6,false,false,false,finishing,stamina
+Mohamed Dodo,FW,R,23,EGY,7,false,false,false,heading,pace
+Omar Reda,FW,L,23,EGY,2,false,false,false,heading,finishing
+Sekou Sonko,FW,R,20,SEN,5,false,false,false,finishing,stamina
+Adel Ali,FW,L,21,EGY,6,false,false,false,pace,finishing

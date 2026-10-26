@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kai Chidi Kitamura,GK,R,25,JPN,6,true,false,false,rushing-out,reflexes
+Daiki Mitsui,GK,R,25,JPN,7,false,false,false,penalty-saving,reflexes
+Toru Hasegawa,GK,R,37,JPN,8,false,false,false,reflexes,positioning
+Naoki Goto,GK,R,24,JPN,4,false,false,false,positioning,penalty-saving
+Young-kwang Kang,GK,R,18,JPN,5,false,false,false,positioning,penalty-saving
+Hayato Tanaka,CB,L,22,JPN,6,true,false,false,passing,marking
+Nao Yamada,CB,R,23,JPN,10,false,false,false,passing,marking
+Hayato Aoki,CB,L,25,JPN,4,true,false,false,marking,heading
+Kaique,CB,L,25,BRA,5,false,false,false,tackling,stamina
+Kohei Yamakoshi,CB,R,33,JPN,6,false,false,false,marking,heading
+Yuya Takagi,FB,R,28,JPN,2,true,false,false,marking,pace
+Tatsuya Yamaguchi,FB,R,26,JPN,5,true,false,false,crossing,pace
+Ko Yanagisawa,FB,R,30,JPN,6,false,false,false,crossing,passing
+Malcolm Tsuyoshi Moyo,FB,L,25,JPN,7,false,false,false,passing,pace
+Naoki Kanuma,MF,R,28,JPN,3,true,false,false,passing,finishing
+Tetsuyuki Inami,MF,R,27,JPN,5,true,false,false,tackling,passing
+Takuya Shigehiro,MF,R,31,JPN,6,false,false,false,stamina,tackling
+Ken Iwao,MF,R,38,JPN,7,false,false,false,finishing,passing
+Yu Takada,MF,R,20,JPN,3,false,false,false,passing,stamina
+Towa Nishisaka,MF,R,22,JPN,5,false,false,false,pace,crossing
+Shunto Kodama,MF,R,27,JPN,9,true,false,false,marking,passing
+Thonny Anderson,MF,L,28,BRA,4,true,false,false,passing,tackling
+Taro Sugimoto,MF,L,30,JPN,5,false,false,false,passing,finishing
+Jumma Miyazaki,FW,R,26,JPN,6,true,false,false,heading,stamina
+Soya Takada,FW,R,24,JPN,1,false,false,false,dribbling,finishing
+Lucas Barcelos,FW,R,27,BRA,5,true,false,false,crossing,pace
+Yukihito Kajiya,FW,R,26,JPN,5,false,false,false,finishing,stamina
+Daiki Watari,FW,R,33,JPN,6,false,false,false,finishing,stamina
+Lawrence Izuchukwu,FW,L,20,NGA,1,false,false,false,pace,crossing

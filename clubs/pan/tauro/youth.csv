@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gabriel Rodriguez ,GK,L,18,PAN,5,false,false,false,rushing-out,penalty-saving
+Mario Côrtes,GK,R,16,PAN,4,false,false,false,penalty-saving,reflexes
+Kantiano Harthuro,FB,L,16,PAN,6,false,false,false,crossing,passing
+Jefferson Peraçoli Aiello ,FB,R,18,PAN,2,false,false,false,marking,crossing
+Leonardo Pinto,FB,L,17,PAN,9,false,false,false,crossing,pace
+Denis Vega,CB,R,16,PAN,8,false,false,false,heading,marking
+Joaquin Soto,CB,L,18,PAN,3,false,false,false,stamina,tackling
+Lucas Omar Cruz,CB,R,19,PAN,7,false,false,false,tackling,heading
+Rogério Santos,MF,L,17,PAN,9,false,false,false,passing,pace
+Jayden Reyes,MF,R,18,PAN,10,false,false,false,playmaking,finishing
+Vitu Bandeira ,MF,L,18,PAN,2,false,false,false,marking,tackling
+Milton Sánchez,MF,R,17,PAN,2,false,false,false,tackling,passing
+Joshua Gordon,FW,L,16,PAN,7,false,false,false,finishing,passing
+Mateus Villareal,FW,R,19,PAN,9,false,false,false,stamina,finishing
+Diego Valanta,FW,L,18,PAN,2,false,false,false,finishing,pace

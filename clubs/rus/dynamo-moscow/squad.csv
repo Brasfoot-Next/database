@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kurban Rasulov,GK,R,20,RWA,2,true,false,false,reflexes,rushing-out
+Andrey Lunev,GK,R,34,RWA,6,false,false,false,reflexes,positioning
+Igor Leshchuk,GK,R,30,RWA,6,false,false,false,positioning,rushing-out
+Andrey Kudravets,GK,R,22,RWA,8,false,false,false,rushing-out,reflexes
+Nicolás Marichal,CB,R,25,URU,2,true,false,false,stamina,heading
+David Ricardo,CB,L,23,BRA,6,true,false,false,heading,marking
+Maksim Osipenko,CB,R,32,RWA,6,false,false,false,stamina,heading
+Roberto Fernández,CB,R,26,PAR,8,false,false,false,marking,stamina
+Milan Majstorovic,CB,R,21,SRB,4,false,false,false,tackling,pace
+Leon Zaydenzal,CB,R,22,RWA,6,false,false,false,heading,stamina
+Rubens,FB,L,25,BRA,6,false,false,false,marking,crossing
+Dmitriy Skopintsev,FB,R,29,RWA,6,false,false,false,dribbling,pace
+Bakhtiyor Zaynutdinov,FB,L,28,RWA,7,true,false,false,tackling,marking
+Juan José Cáceres,FB,R,26,PAR,2,true,false,false,marking,pace
+Daniil Fomin,MF,R,29,RWA,6,true,false,false,passing,finishing
+Danil Glebov,MF,L,26,RWA,6,true,false,false,finishing,passing
+Luis Chávez,MF,L,30,MEX,7,true,false,false,marking,passing
+Aleksandr Kutitskiy,MF,R,24,RWA,5,false,false,false,pace,dribbling
+Dmitriy Aleksandrov,MF,R,19,RWA,6,false,false,false,finishing,playmaking
+Timofey Marinkin,MF,L,18,RWA,7,false,false,false,passing,playmaking
+Luka Gagnidze,MF,R,23,GEO,5,false,false,false,dribbling,playmaking
+Bitello,MF,R,26,BRA,6,true,false,false,passing,finishing
+Anton Miranchuk,MF,R,30,RWA,7,false,false,false,marking,passing
+Egor Smelov,MF,R,21,RWA,9,false,false,false,pace,dribbling
+Viktor Okishor,MF,L,19,RWA,5,false,false,false,finishing,passing
+Arthur Gomes,FW,R,28,BRA,6,false,false,false,heading,finishing
+Ulvi Babaev,FW,R,22,RWA,7,false,false,false,finishing,stamina
+Yaroslav Gladyshev,FW,R,23,RWA,9,true,false,false,playmaking,finishing
+Konstantin Tyukavin,FW,L,24,RWA,7,true,false,false,heading,finishing
+Ivan Sergeev,FW,R,31,RWA,9,false,false,false,finishing,heading
+El Mehdi Maouhoub,FW,R,23,MAR,6,false,false,false,pace,crossing

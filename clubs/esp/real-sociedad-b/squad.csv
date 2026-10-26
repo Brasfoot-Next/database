@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mikel Rodríguez,MF,R,24,ESP,5,true,false,false,pace,playmaking
+Jon Balda,FB,L,24,ESP,6,true,false,false,pace,crossing
+Rupérez,FB,R,23,ESP,7,true,false,false,crossing,pace
+Gorka Gorosabel,MF,R,20,ESP,1,false,false,false,dribbling,passing
+Mariezkurrena,FW,L,21,ESP,5,true,false,false,pace,dribbling
+Tomy Carbonell,MF,R,21,ESP,6,true,false,false,stamina,passing
+Jon Eceizabarrena,MF,R,21,ESP,7,true,false,false,passing,tackling
+Dadie,FB,R,24,ESP,2,false,false,false,pace,crossing
+Zac Shuaib,MF,L,19,ENG,5,false,false,false,passing,tackling
+Peru Rodríguez,CB,R,24,ESP,6,true,false,false,pace,tackling
+Alex Lebarbier,MF,R,22,FRA,5,true,false,false,stamina,passing
+Astiazarán,MF,R,20,ESP,6,false,false,false,playmaking,dribbling
+Job Nguono Ochieng,FW,R,23,KEN,7,false,false,false,pace,dribbling
+Darío Ramírez,FW,R,21,ESP,1,false,false,false,pace,dribbling
+Jon Garro,FB,R,21,ESP,3,false,false,false,pace,passing
+Sydney Osazuwa,FW,R,19,ESP,5,false,false,false,pace,heading
+Jakes Gorosabel,FW,R,22,ESP,6,false,false,false,finishing,heading
+Dani Díaz,FW,R,20,ESP,7,false,false,false,pace,dribbling
+Orobengoa,FW,R,22,ESP,3,false,false,false,heading,pace
+Unax Agote,FB,L,23,ESP,5,false,false,false,dribbling,tackling
+Gorka Carrera,FW,R,21,ESP,7,false,false,false,finishing,pace
+Alex Marchal,FW,L,19,ESP,2,true,false,false,pace,dribbling
+Kazunari Kita,CB,R,21,JPN,5,false,false,false,tackling,pace
+Luken Beitia,CB,L,22,ESP,6,true,false,false,marking,tackling
+Astigarraga,CB,R,22,ESP,7,false,false,false,tackling,marking
+Fraga,GK,R,23,ESP,5,true,false,false,positioning,reflexes
+Arana,GK,R,24,ESP,6,false,false,false,rushing-out,positioning

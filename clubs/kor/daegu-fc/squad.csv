@@ -1,0 +1,39 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Cesinha,MF,L,36,BRA,6,false,false,false,pace,playmaking
+Bruno Lamas,MF,L,32,BRA,8,true,false,false,stamina,pace
+Hwang Jae Won,FB,R,24,KOR,4,true,false,false,stamina,pace
+Kim Ju Kong,MF,R,30,KOR,5,true,false,false,pace,stamina
+Kim Jin Hyuk,CB,R,33,KOR,6,false,false,false,heading,stamina
+Jeong Woo Jae,FB,L,34,KOR,7,false,false,false,stamina,dribbling
+Edgar,FW,R,39,BRA,2,false,false,false,heading,playmaking
+Lee Jin Yong,MF,R,25,KOR,5,true,false,false,stamina,passing
+Woo Joo Seong,CB,R,33,KOR,6,false,false,false,stamina,pace
+Lee Yong Rae,MF,L,40,KOR,7,false,false,false,stamina,playmaking
+Jang Seong Won,FB,R,29,KOR,3,true,false,false,stamina,pace
+Carlos Jatobá,MF,L,30,BRA,5,false,false,false,stamina,passing
+Jeong Chi In,FW,L,29,KOR,6,false,false,false,pace,stamina
+Jeong Hyun Cheol,MF,R,33,KOR,7,false,false,false,stamina,passing
+Hong Jung Un,CB,R,31,KOR,3,false,false,false,heading,stamina
+Han Jong Mu,MF,R,23,KOR,5,false,false,false,stamina,pace
+Geovani,FW,L,25,BRA,6,true,false,false,pace,dribbling
+Caio Marcelo,CB,L,28,BRA,7,true,false,false,pace,heading
+Kim Jeong Hyun,MF,R,26,KOR,4,true,false,false,stamina,pace
+Park Dae Hoon,FW,R,30,KOR,5,false,false,false,pace,dribbling
+Jo Jin Woo,CB,R,26,KOR,2,true,false,false,heading,tackling
+Park Jae Hyun,FW,L,22,KOR,5,false,false,false,stamina,pace
+Park Jin Young,CB,R,24,KOR,6,false,false,false,heading,passing
+Lee Won Woo,CB,R,23,KOR,7,false,false,false,pace,heading
+Jung Jae Sang,FW,R,22,KOR,3,false,false,false,stamina,dribbling
+Yoo Ji Un,FB,R,22,KOR,5,false,false,false,pace,stamina
+Kim Min Jun,FW,R,20,KOR,6,false,false,false,dribbling,pace
+Kwon Tae Young,FW,R,24,KOR,7,false,false,false,pace,crossing
+Kim Min Young,FW,R,26,KOR,3,true,false,false,pace,finishing
+Lee Rim,FB,L,23,KOR,5,false,false,false,pace,stamina
+Jung Heon Taek,FB,R,24,KOR,9,false,false,false,pace,stamina
+Jeon Yong Jun,FW,R,23,KOR,4,false,false,false,pace,dribbling
+Kim Hyeon Jun,CB,R,24,KOR,5,false,false,false,tackling,marking
+Jung Yoon Seo,CB,R,21,KOR,6,false,false,false,heading,tackling
+Han Tae Hui,GK,R,22,KOR,1,false,false,false,reflexes,positioning
+Oh Seung Hoon,GK,R,38,KOR,5,false,false,false,reflexes,penalty-saving
+Choi Young Eun,GK,R,30,KOR,5,true,false,false,reflexes,penalty-saving
+Park Man Ho,GK,R,22,KOR,6,false,false,false,reflexes,rushing-out

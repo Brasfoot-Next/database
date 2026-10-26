@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Aldo Pérez,GK,R,25,PAR,6,true,false,false,rushing-out,reflexes
+Gaspar Servio,GK,R,34,ARG,7,false,false,false,reflexes,penalty-saving
+Antonino Martínez,GK,R,23,PAR,3,false,false,false,reflexes,rushing-out
+Thiago Servín,CB,L,23,PAR,5,false,false,false,tackling,heading
+Alcides Barbotte,CB,R,24,PAR,5,false,false,false,passing,stamina
+Paul Riveros,CB,R,29,PAR,6,true,false,false,stamina,heading
+Imanol Segovia,CB,R,25,ARG,8,true,false,false,stamina,heading
+Felipe Salomoni,FB,L,23,ARG,4,false,false,false,pace,stamina
+Patricio Coronel,FB,L,19,PAR,5,false,false,false,marking,crossing
+Jonathan Espínola,FB,R,24,PAR,6,true,false,false,marking,pace
+Mariano Ramos,FB,L,22,ARG,10,false,false,false,tackling,marking
+Daniel Pérez,FB,R,32,PAR,5,false,false,false,stamina,pace
+René Rodríguez,FB,R,24,PAR,6,true,false,false,pace,tackling
+Luis Martínez,MF,R,26,PAR,7,true,false,false,passing,pace
+Patricio Tanda,MF,R,24,ARG,1,true,false,false,tackling,passing
+Matías López,MF,L,22,PAR,5,false,false,false,dribbling,pace
+Giovanni Gómez,MF,L,18,PAR,6,false,false,false,playmaking,passing
+Jesús Llano,MF,L,25,PAR,7,true,false,false,dribbling,pace
+Bruno Díaz,MF,L,21,PAR,2,false,false,false,tackling,marking
+Ricardo Quiñónez,MF,R,25,PAR,5,true,false,false,passing,stamina
+Diego Fernández,FW,L,24,PAR,7,false,false,false,passing,pace
+Maximiliano Añasco,FW,L,25,URU,4,false,false,false,pace,passing
+César Miño,FW,L,19,PAR,5,false,false,false,pace,dribbling
+Víctor Céspedes,FW,L,23,PAR,6,false,false,false,pace,dribbling
+Fernando Fernández,FW,R,34,PAR,7,false,false,false,finishing,heading
+Iván Ramírez,FW,R,22,PAR,4,false,false,false,finishing,pace
+Richard Torales,FW,R,25,PAR,5,false,false,false,finishing,dribbling
+Nelson Romero,FW,R,18,PAR,6,false,false,false,pace,crossing
+Juan Manuel García,FW,R,33,ARG,8,true,false,false,pace,heading
+Alan Pereira,FW,R,26,PAR,4,true,false,false,finishing,dribbling
+Thiago Romero,FW,R,20,ARG,5,false,false,false,heading,stamina

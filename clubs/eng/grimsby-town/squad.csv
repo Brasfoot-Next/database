@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jamie Walker,MF,R,33,SCO,6,false,false,false,pace,stamina
+Danny Rose,FW,R,32,ENG,7,false,false,false,stamina,pace
+Jason Dadhi Svanthorsson,FW,R,26,ISL,1,true,false,false,pace,stamina
+Evan Khouri,MF,L,23,ENG,3,false,false,false,stamina,pace
+George Mceachran,MF,L,26,ENG,5,true,false,false,stamina,passing
+Clarke Oduor,MF,L,27,KEN,6,true,false,false,pace,dribbling
+Kieran Green,MF,R,29,ENG,7,true,false,false,stamina,passing
+Darragh Burns,FW,L,24,IRL,3,false,false,false,pace,stamina
+Justin Amaluzor,FW,L,29,ENG,5,false,false,false,pace,stamina
+Charles Vernam,FW,L,29,ENG,6,false,false,false,pace,stamina
+Jaze Kabia,FW,R,26,IRL,5,false,false,false,pace,stamina
+Jayden Sweeney,FB,L,24,ENG,6,true,false,false,pace,tackling
+Jude Soonsup Bell,FW,R,22,ENG,7,true,false,false,pace,finishing
+Neo Eccleston,FB,R,22,ENG,3,false,false,false,pace,stamina
+Harvey Rodgers,FB,R,29,ENG,5,true,false,false,stamina,pace
+Cameron Mcjannet,CB,L,28,ENG,6,false,false,false,stamina,tackling
+Geza David Turi,MF,R,24,FRO,7,true,false,false,stamina,pace
+Zak Gilsenan,FW,L,23,IRL,4,false,false,false,pace,dribbling
+Tyrell Warren,CB,R,27,ENG,5,true,false,false,stamina,pace
+Reece Staunton,FB,L,24,IRL,6,false,false,false,pace,stamina
+Henry Brown,MF,R,19,ENG,5,false,false,false,pace,stamina
+Cameron Gardner,FW,L,20,ENG,6,false,false,false,pace,stamina
+Sam Lavelle,CB,R,29,SCO,7,false,false,false,stamina,tackling
+Doug Tharme,CB,R,27,ENG,2,true,false,false,stamina,tackling
+Christy Pym,GK,R,31,NIR,5,true,false,false,reflexes,rushing-out
+Sebastian Auton,GK,R,19,ENG,6,false,false,false,reflexes,penalty-saving
+Charlie Casper,GK,R,21,ENG,7,false,false,false,reflexes,penalty-saving

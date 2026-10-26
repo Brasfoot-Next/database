@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mauro Pitton,MF,R,32,ARG,3,true,false,false,stamina,pace
+Bruno Pitton,FB,L,33,ARG,5,false,false,false,stamina,crossing
+Augusto Solari,FW,R,34,ARG,6,false,false,false,pace,dribbling
+Mateo Del Blanco,FB,L,22,ARG,7,true,false,false,stamina,pace
+Claudio Corvalan,CB,L,37,ARG,3,false,false,false,stamina,passing
+Mauricio Martinez,MF,L,33,ARG,5,true,false,false,passing,dribbling
+Ezequiel Canete,MF,R,27,ARG,6,true,false,false,stamina,playmaking
+Cristian Tarragona,FW,R,35,ARG,7,false,false,false,pace,stamina
+Lucas Gamba,FW,L,39,ARG,4,false,false,false,playmaking,stamina
+Franco Fragapane,FW,L,33,ARG,5,false,false,false,pace,dribbling
+Julian Palacios,FW,R,27,ARG,5,true,false,false,pace,stamina
+Jeronimo Domina,FW,R,20,ARG,6,false,false,false,pace,finishing
+Lautaro Vargas,FB,R,21,ARG,10,true,false,false,stamina,pace
+Francisco Gerometta,FB,R,27,ARG,5,false,false,false,stamina,pace
+Nicolas Paz,CB,R,23,ARG,5,false,false,false,stamina,pace
+Nicolas Palavecino,FW,L,23,ARG,6,false,false,false,passing,dribbling
+Marcelo Estigarribia,FW,R,31,ARG,7,true,false,false,stamina,finishing
+Diego Diaz,FW,R,24,ARG,3,false,false,false,heading,finishing
+Rafael Profini,MF,R,22,ARG,5,true,false,false,stamina,pace
+Agustin Colazo,FW,R,25,ARG,6,false,false,false,heading,finishing
+Valentin Fascendini,CB,L,23,ARG,5,true,false,false,tackling,heading
+Maizon Rodriguez,CB,R,23,URU,6,true,false,false,tackling,pace
+Juan Luduena,CB,R,23,ARG,7,false,false,false,heading,tackling
+Emiliano Alvarez,FB,R,25,URU,4,false,false,false,tackling,stamina
+Fernando Diaz,FB,L,25,PAR,5,false,false,false,pace,stamina
+Matias Tagliamonte,GK,L,28,ARG,6,true,false,false,positioning,reflexes
+Lucas Meuli,GK,L,25,ARG,7,false,false,false,penalty-saving,reflexes
+Tomas Durso,GK,R,27,ARG,1,false,false,false,positioning,reflexes

@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rodrigo Frutos,GK,R,23,PAR,2,false,false,false,reflexes,penalty-saving
+Luis Jara,GK,L,20,PAR,5,false,false,false,rushing-out,reflexes
+Matías Quiñónez,GK,L,25,PAR,6,true,false,false,penalty-saving,reflexes
+Carlos Rolón,CB,L,34,PAR,7,false,false,false,marking,passing
+Hernán Portillo,CB,R,21,PAR,3,false,false,false,passing,marking
+Adrián Portillo,CB,L,27,PAR,5,true,false,false,marking,heading
+Rony Frank,CB,R,24,PAR,6,true,false,false,tackling,pace
+Luis Rolón,CB,R,23,PAR,7,false,false,false,heading,tackling
+Luis Vargas,FB,L,26,PAR,3,true,false,false,passing,pace
+Sebastián Da Silva,FB,R,24,PAR,5,false,false,false,passing,crossing
+Rogelio Espinola,FB,L,22,PAR,8,false,false,false,pace,crossing
+Crispín Oviedo,FB,R,28,PAR,4,true,false,false,stamina,pace
+Rafael Román,FB,L,23,PAR,5,false,false,false,passing,crossing
+Diego Aguada,FB,L,32,PAR,6,false,false,false,passing,pace
+Aldo Vera,MF,L,38,PAR,10,false,false,false,playmaking,passing
+Edgar Zaracho,MF,R,36,PAR,4,false,false,false,pace,dribbling
+Nicolás Rojas,MF,R,27,PAR,5,true,false,false,stamina,tackling
+Carlos Gavilán,MF,R,22,PAR,6,true,false,false,dribbling,playmaking
+Claudio Burgos,MF,R,23,ARG,7,true,false,false,pace,dribbling
+Víctor Rivarola,MF,R,24,PAR,1,true,false,false,passing,finishing
+Diego Giménez,MF,L,21,PAR,5,false,false,false,passing,stamina
+Carlos Romero,FW,R,25,PAR,6,true,false,false,heading,pace
+Dramané Diarra,FW,L,22,MLI,8,false,false,false,dribbling,pace
+Kevin Lezcano,FW,R,22,PAR,4,false,false,false,finishing,dribbling
+Denis Zárate,FW,R,20,PAR,6,false,false,false,heading,finishing
+Lucas Di Maio,FW,R,21,ARG,7,false,false,false,pace,crossing
+Daniel Dietze,FW,R,29,PAR,1,false,false,false,pace,dribbling
+Ronald Roa,FW,R,26,PAR,5,true,false,false,dribbling,playmaking
+Francisco Morel,FW,R,22,PAR,6,false,false,false,pace,finishing

@@ -1,0 +1,13 @@
+name = "Hanoi FC"
+country = "VIE"
+level = 14
+reputation = 3
+colors = ["#ffc70a", "#000099"]
+
+[stadium]
+name = "Hang Day"
+capacity = 22500
+
+[coach]
+name = "Jae-ho Chun"
+country = "KOR"

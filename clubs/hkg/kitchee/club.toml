@@ -1,0 +1,13 @@
+name = "Kitchee"
+country = "HKG"
+level = 14
+reputation = 3
+colors = ["#0099ff", "#000000"]
+
+[stadium]
+name = "Mong Kok"
+capacity = 6769
+
+[coach]
+name = "Chi-Kwong Alex Chu"
+country = "HKG"

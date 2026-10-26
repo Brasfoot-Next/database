@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+John Mcginn,FW,L,31,SCO,6,false,false,false,stamina,tackling
+Youri Tielemans,MF,R,29,BEL,8,true,true,false,playmaking,passing
+Lucas Digne,FB,L,33,FRA,4,false,false,false,crossing,stamina
+Morgan Rogers,FW,L,24,ENG,6,true,false,false,dribbling,playmaking
+Ollie Watkins,FW,R,30,ENG,6,false,false,false,stamina,heading
+Emiliano Buendia,MF,R,29,ARG,8,false,false,false,dribbling,passing
+Ian Maatsen,FB,L,24,NED,4,true,false,false,pace,dribbling
+Matty Cash,FB,R,29,POL,5,true,false,false,stamina,tackling
+Ross Barkley,MF,R,32,ENG,6,false,false,false,passing,playmaking
+Ezri Konsa,CB,R,28,ENG,7,true,false,false,tackling,marking
+Amadou Onana,MF,L,25,BEL,6,true,false,false,pace,tackling
+Boubacar Kamara,MF,R,26,FRA,7,true,false,false,tackling,marking
+Donyell Malen,FW,R,27,NED,9,true,false,false,pace,dribbling
+Pau Torres,CB,L,29,ESP,5,true,false,false,heading,marking
+Harvey Elliott,MF,L,23,ENG,6,true,false,false,dribbling,playmaking
+Jadon Sancho,FW,L,26,ENG,7,false,false,false,dribbling,playmaking
+Andrés García,FB,R,23,ESP,9,false,false,false,pace,dribbling
+Evann Guessand,FW,R,25,CIV,5,false,false,false,pace,dribbling
+Victor Lindelof,CB,R,32,SWE,6,false,false,false,marking,passing
+Lamare Bogarde,MF,R,22,NED,7,false,false,false,passing,tackling
+Tyrone Mings,CB,L,33,ENG,6,false,false,false,tackling,marking
+Bradley Burrowes,FW,R,18,ENG,6,false,false,false,pace,dribbling
+Emiliano Martinez,GK,R,34,ARG,8,true,true,false,positioning,reflexes
+Marco Bizot,GK,R,35,NED,5,false,false,false,positioning,reflexes

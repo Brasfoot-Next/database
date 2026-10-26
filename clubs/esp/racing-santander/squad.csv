@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Aldasoro,MF,R,27,ESP,6,true,false,false,stamina,tackling
+Iñigo Vicente,MF,R,28,ESP,7,true,false,false,pace,crossing
+Andrés Martín,FW,L,27,ESP,3,true,false,false,pace,playmaking
+Gustavo Puerta,MF,R,23,COL,5,true,false,false,stamina,dribbling
+Clement Michelin,FB,R,29,FRA,6,true,false,false,stamina,pace
+Marco Sangalli,FW,L,34,ESP,7,false,false,false,stamina,pace
+Villalibre,FW,L,28,ESP,3,true,false,false,heading,finishing
+Peio Canales,MF,R,21,ESP,5,false,false,false,passing,playmaking
+Arana,FW,R,26,ESP,6,false,false,false,finishing,pace
+Íñigo Sainz-Maza,MF,L,28,ESP,7,false,false,false,stamina,tackling
+Suleiman Camara,FW,L,25,ESP,7,false,false,false,pace,stamina
+Manu Hernando,CB,L,28,ESP,10,true,false,false,stamina,marking
+Mario García,FB,L,22,ESP,4,false,false,false,pace,marking
+Maguette Gueye,MF,L,23,SEN,6,false,false,false,passing,marking
+Sergio Martínez,MF,R,19,ESP,7,false,false,false,tackling,stamina
+Javi Castro,CB,R,25,ESP,1,false,false,false,stamina,tackling
+Yeray,FW,L,23,ESP,5,false,false,false,pace,crossing
+Pablo Ramón,CB,R,25,ESP,6,true,false,false,tackling,marking
+Santi Franco,FW,L,22,ESP,8,false,false,false,pace,stamina
+Jorge Salinas,FB,L,19,ESP,4,false,false,false,pace,dribbling
+Aitor Crespo,CB,R,20,ESP,6,false,false,false,pace,stamina
+Izan,FW,R,23,ESP,7,false,false,false,pace,stamina
+Jeremy,FW,R,21,ESP,4,false,false,false,pace,heading
+Mantilla,FB,R,26,ESP,5,true,false,false,stamina,heading
+Diego Díaz,MF,R,21,ESP,6,true,false,false,pace,dribbling
+Facundo Gonzalez,CB,L,23,URU,8,false,false,false,tackling,heading
+Ezkieta,GK,R,30,ESP,4,false,false,false,reflexes,penalty-saving
+Plamen Andreev,GK,R,21,BUL,5,true,false,false,reflexes,penalty-saving
+Laro Gómez,GK,R,19,ESP,7,false,false,false,positioning,reflexes

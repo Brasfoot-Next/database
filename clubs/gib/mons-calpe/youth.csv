@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+David Valle,GK,L,18,ESP,5,true,false,false,rushing-out,penalty-saving
+Albert Chichon,GK,R,16,GIB,4,true,false,false,penalty-saving,reflexes
+Aaron Wightman,FB,L,16,GIB,6,true,false,false,crossing,passing
+Christian Olivares,FB,R,18,GIB,2,true,false,false,marking,crossing
+Aaron Edwards,FB,L,17,ENG,9,true,false,false,crossing,pace
+James Danino,CB,R,16,GIB,8,true,false,false,heading,marking
+John Guzman,CB,L,18,GIB,3,true,false,false,stamina,tackling
+Isaac Cereto,CB,R,19,ESP,7,true,false,false,tackling,heading
+Liam Victor,MF,L,17,GIB,9,true,false,false,passing,pace
+Jack Smith,MF,R,18,GIB,10,true,false,false,playmaking,finishing
+Ashton McDermott,MF,L,18,ENG,2,true,false,false,marking,tackling
+Jack Ferguson,MF,R,17,GIB,2,true,false,false,tackling,passing
+Phil Reyes,FW,L,16,GIB,7,true,false,false,finishing,dribbling
+José Del Rio,FW,R,19,ESP,9,true,false,false,stamina,finishing
+Ekrem Yavuz,FW,L,18,IRL,2,true,false,false,finishing,pace

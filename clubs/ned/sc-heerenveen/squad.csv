@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Joris Van Overeem,MF,L,32,NED,7,false,false,false,passing,dribbling
+Luuk Brouwers,MF,R,28,NED,4,true,false,false,stamina,passing
+Ringo Meerveld,MF,R,23,NED,6,true,false,false,pace,dribbling
+Oliver Braude,FB,R,22,NOR,7,true,false,false,stamina,pace
+Jacob Trenskow,FW,L,25,DEN,3,true,false,false,dribbling,stamina
+Marcus Linday,MF,R,23,SWE,5,true,false,false,stamina,passing
+Maxence Rivera,FW,L,24,FRA,6,true,false,false,pace,dribbling
+Levi Smans,MF,R,23,NED,7,true,false,false,stamina,pace
+Vasilios Zagaritis,FB,L,25,GRE,3,true,false,false,pace,stamina
+Nikolai Hopland,CB,L,22,NOR,5,false,false,false,tackling,marking
+Dylan Vente,FW,R,27,SUR,5,false,false,false,finishing,pace
+Amourricho Van Axel Dongen,FW,L,21,NED,6,false,false,false,pace,dribbling
+Vaclav Sejk,FW,R,24,CZE,8,false,false,false,pace,heading
+Sam Kersten,CB,R,28,NED,4,true,false,false,pace,passing
+Isaiah Ahmed,MF,R,20,CUW,6,false,false,false,stamina,heading
+Kai Jansen,MF,R,19,NED,6,false,false,false,pace,passing
+Hristiyan Petrov,CB,L,24,BUL,10,false,false,false,marking,heading
+Mats Egbring,FB,R,19,NED,5,false,false,false,stamina,tackling
+Nolhan Courtens,MF,R,19,COD,6,false,false,false,pace,dribbling
+Jermaine Rijssel,FW,R,21,SUR,7,false,false,false,pace,dribbling
+Maas Willemsen,CB,L,23,NED,5,true,false,false,marking,tackling
+Eser Gurbuz,FW,L,19,NED,6,false,false,false,pace,dribbling
+Pawel Bochniewicz,CB,L,30,POL,7,false,false,false,stamina,heading
+Robin Bouw,FB,L,20,NED,3,false,false,false,stamina,tackling
+Andries Noppert,GK,L,32,NED,5,false,false,false,penalty-saving,positioning
+Nordin Bakker,GK,R,28,NED,6,false,false,false,positioning,rushing-out
+Bernt Klaverboer,GK,R,20,NED,7,true,false,false,penalty-saving,reflexes

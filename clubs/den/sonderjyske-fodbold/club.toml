@@ -1,0 +1,13 @@
+name = "Sønderjyske Fodbold"
+country = "DEN"
+level = 9
+reputation = 2
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "AL Sydbank Park"
+capacity = 10021
+
+[coach]
+name = "Mads Gretarsson"
+country = "BRA"

@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kwang-yeon Lee,GK,R,26,KOR,6,false,false,false,reflexes,penalty-saving
+Myung-jae Joung,GK,R,24,KOR,7,false,false,false,reflexes,positioning
+Jae-min Ahn,GK,R,21,KOR,2,true,false,false,reflexes,positioning
+Venício,CB,R,32,BRA,5,false,false,false,tackling,stamina
+Sun Yu,CB,R,22,KOR,7,false,false,false,heading,marking
+Min-jae Kim,CB,R,22,KOR,9,true,false,false,pace,stamina
+Shun Kudo,CB,L,24,JPN,4,true,false,false,heading,marking
+Min-jun You,CB,L,20,KOR,6,false,false,false,marking,stamina
+Young-han Kim,CB,R,19,KOR,7,false,false,false,tackling,marking
+Seung-yong Jung,FB,R,35,KOR,1,false,false,false,passing,pace
+Seok-ki Hwang,FB,R,21,KOR,7,false,false,false,crossing,pace
+Tae-yang Yang,FB,R,22,KOR,1,true,false,false,marking,pace
+Byeong-jun Kwon,FB,L,22,KOR,5,false,false,false,pace,crossing
+Ju-an You,FB,R,27,KOR,6,true,false,false,tackling,stamina
+Ji-hoon Lee,FB,L,32,KOR,7,false,false,false,marking,pace
+Elionay,MF,L,29,BRA,2,false,false,false,stamina,passing
+Sang-min Lee,MF,R,28,KOR,5,true,false,false,pace,heading
+Su-bin Park,MF,R,26,KOR,6,true,false,false,playmaking,passing
+Chang-beom Hong,MF,R,27,KOR,7,true,false,false,playmaking,dribbling
+Jae-wook Lee,MF,R,25,KOR,2,false,false,false,passing,finishing
+Ryoji Fujimori,MF,R,29,JPN,6,false,false,false,pace,crossing
+Jeong-bin Lee,MF,R,31,KOR,8,false,false,false,dribbling,passing
+Jun-sun Ryu,MF,L,22,KOR,4,false,false,false,playmaking,passing
+Sang-hyeok Park,MF,R,28,KOR,5,true,false,false,stamina,tackling
+Seok-hyun Hong,MF,R,20,KOR,6,false,false,false,finishing,passing
+Jun-sang Lee,FW,R,22,KOR,8,false,false,false,crossing,pace
+Paul Villero,FW,R,27,COL,4,true,false,false,pace,dribbling
+Min-ho Yun,FW,R,30,KOR,6,false,false,false,dribbling,finishing
+Rodrigo Angelotti,FW,R,28,BRA,7,true,false,false,heading,finishing
+Byeong-gyu Park,FW,R,21,KOR,10,false,false,false,pace,crossing

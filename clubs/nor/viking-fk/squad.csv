@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Zlatko Tripic,FW,R,33,NOR,1,true,false,false,stamina,pace
+Joe Bell,MF,R,27,NZL,5,true,false,false,stamina,playmaking
+Kristoffer Haugen,FB,L,32,NOR,6,true,false,false,stamina,pace
+Nick Dagostino,FW,R,28,AUS,7,false,false,false,stamina,pace
+Yann Erik De Lanlay,MF,R,34,NOR,2,false,false,false,pace,stamina
+Simen Kvia Egeskog,MF,R,23,NOR,5,true,false,false,pace,stamina
+Veton Berisha,FW,R,32,NOR,6,true,false,false,stamina,pace
+Sander Svendsen,MF,L,29,NOR,7,false,false,false,pace,stamina
+Viljar Helland Vevatne,CB,R,31,NOR,2,false,false,false,stamina,pace
+Kristoffer Askildsen,MF,R,25,NOR,5,true,false,false,stamina,passing
+Ruben Alte,MF,R,26,NOR,1,false,false,false,stamina,pace
+Peter Buch Christiansen,FW,R,26,DEN,4,false,false,false,pace,stamina
+Henrik Heggheim,FB,R,25,NOR,5,true,false,false,pace,stamina
+Sondre Flem Bjorshol,FB,R,32,NOR,6,false,false,false,stamina,pace
+Edvin Austbo,FW,L,21,NOR,7,false,false,false,pace,stamina
+Jakob Segadal Hansen,MF,R,21,NOR,3,true,false,false,pace,passing
+Gianni Stensness,CB,R,27,AUS,5,true,false,false,stamina,heading
+Herman Haugen,FB,R,26,NOR,6,false,false,false,stamina,pace
+Henrik Falchener,CB,L,23,NOR,7,true,false,false,stamina,pace
+Kasper Saetherbo,MF,R,21,NOR,3,false,false,false,pace,stamina
+Anders Baertelsen,CB,R,26,DEN,7,false,false,false,stamina,pace
+Vetle Auklend,FB,L,21,NOR,4,false,false,false,pace,stamina
+Tobias Sene Moi,FB,R,20,NOR,5,false,false,false,pace,stamina
+Martin Ove Roseth,CB,L,28,NOR,6,false,false,false,pace,tackling
+Hilmir Rafn Mikaelsson,FW,R,22,ISL,7,false,false,false,pace,heading
+Kristoffer Klaesson,GK,L,25,NOR,1,true,false,false,reflexes,positioning
+Arild Ostbo,GK,R,35,NOR,5,false,false,false,reflexes,positioning
+Magnus Rugland Ree,GK,R,22,NOR,6,false,false,false,penalty-saving,reflexes

@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Álex Calatrava,MF,L,26,ESP,7,true,false,false,stamina,crossing
+Kenneth Mamah,FW,R,28,NGA,4,false,false,false,stamina,pace
+Douglas Aurélio,FW,L,27,BRA,4,true,false,false,pace,stamina
+Israel Suero,FW,L,32,ESP,6,false,false,false,finishing,stamina
+Awer Mabil,FW,R,30,AUS,6,false,false,false,pace,dribbling
+Gerenabarrena,MF,L,23,ESP,10,false,false,false,playmaking,tackling
+Jeremy Mellot,FB,R,32,FRA,5,false,false,false,stamina,pace
+Alberto Jiménez,CB,R,33,ESP,6,false,false,false,stamina,passing
+Adam Jakobsen,MF,R,27,DEN,7,true,false,false,pace,playmaking
+Michal Willmann,FB,R,22,POL,1,false,false,false,pace,stamina
+Serpeta,FW,L,26,ESP,4,false,false,false,pace,dribbling
+Óscar Gil,CB,R,31,ESP,5,true,false,false,stamina,heading
+Brian Cipenga,FW,L,28,COD,6,false,false,false,pace,stamina
+Marc Olivier Doue,MF,R,25,FRA,7,true,false,false,playmaking,tackling
+Agustin Sienra,CB,L,27,ARG,4,true,false,false,pace,stamina
+Lucas Alcázar,FB,L,24,ESP,5,true,false,false,pace,crossing
+Diego Barri,MF,R,30,ESP,6,true,false,false,stamina,tackling
+Salva Ruíz,FB,L,31,ESP,7,true,false,false,crossing,tackling
+Charbel Wehbe,FB,R,21,ESP,4,false,false,false,pace,stamina
+Fabrizio Brignani,CB,R,28,ITA,5,false,false,false,stamina,heading
+Pablo Santiago,FW,L,25,ESP,2,false,false,false,pace,dribbling
+Tincho,FB,L,23,ESP,5,false,false,false,pace,stamina
+Ousmane Camara,FW,L,24,GUI,6,true,false,false,dribbling,pace
+Nicholas Markanich,FW,R,26,USA,7,false,false,false,finishing,stamina
+Tommaso De Nipoti,MF,L,23,ITA,3,false,false,false,dribbling,pace
+Amir Abedzadeh,GK,R,33,ESP,5,false,false,false,penalty-saving,positioning
+Romain Matthys,GK,R,28,BEL,6,true,false,false,positioning,reflexes
+Sergi Torner,GK,L,22,ESP,7,false,false,false,positioning,reflexes

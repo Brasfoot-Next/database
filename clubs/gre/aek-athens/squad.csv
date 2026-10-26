@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Thomas Strakosha,GK,R,31,ALB,5,true,false,false,reflexes,penalty-saving
+Alberto Brignoli,GK,L,35,ITA,6,false,false,false,positioning,reflexes
+Angelos Angelopoulos,GK,R,23,GRE,7,false,false,false,reflexes,positioning
+Marios Balamotis,GK,L,21,GRE,9,false,false,false,positioning,rushing-out
+Harold Moukoudi,CB,L,28,CMR,5,true,false,false,tackling,stamina
+Filipe Relvas,CB,L,26,POR,6,true,false,false,stamina,marking
+Martin Georgiev,CB,R,20,BUL,7,false,false,false,tackling,stamina
+Christos Alexiou,CB,R,21,GRE,9,false,false,false,passing,marking
+Domagoj Vida,CB,R,37,CRO,2,false,false,false,heading,marking
+James Penrice,FB,L,27,SCO,6,true,false,false,pace,crossing
+Stavro Pilo,FB,L,25,ALB,8,false,false,false,passing,crossing
+Lazaros Rota,FB,R,29,GRE,4,true,false,false,stamina,pace
+Hakim Sahabo,MF,R,21,GRE,6,false,false,false,tackling,passing
+Orbelín Pineda,MF,R,30,MEX,6,true,false,false,stamina,dribbling
+Kaan Kairinen,MF,L,27,FIN,8,true,false,false,stamina,playmaking
+Răzvan Marin,MF,R,30,ROU,5,true,false,false,crossing,passing
+Robert Ljubicic,MF,L,27,CRO,6,true,false,false,stamina,pace
+Niclas Eliasson,MF,L,30,SWE,7,false,false,false,pace,crossing
+Dimitrios Kaloskamis,MF,R,21,GRE,8,false,false,false,pace,dribbling
+Mijat Gacinovic,MF,L,31,SRB,9,false,false,false,pace,dribbling
+Petros Mantalos,MF,R,35,GRE,1,false,false,false,playmaking,passing
+Aboubakary Koita,FW,L,27,GRE,6,false,false,false,pace,dribbling
+Dereck Kutesa,FW,L,28,SUI,6,false,false,false,pace,dribbling
+Oleksandr Zubkov,FW,L,30,UKR,8,true,false,false,pace,dribbling
+Paolo Fernandes,FW,L,28,ESP,2,false,false,false,dribbling,pace
+Luka Jović,FW,R,28,SRB,6,true,false,false,heading,finishing
+Barnabás Varga,FW,R,31,HUN,6,false,false,false,heading,finishing
+Zini,FW,R,24,ANG,8,false,false,false,finishing,pace
+Frantzdy Pierrot,FW,R,31,HAI,4,false,false,false,heading,finishing

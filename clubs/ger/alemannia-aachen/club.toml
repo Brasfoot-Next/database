@@ -1,0 +1,13 @@
+name = "Alemannia Aachen"
+country = "GER"
+level = 9
+reputation = 2
+colors = ["#000000", "#706000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Tom Torsiello"
+country = "BRA"

@@ -1,0 +1,13 @@
+name = "SV Wehen Wiesbaden"
+country = "GER"
+level = 10
+reputation = 2
+colors = ["#F0F0F0", "#C01010"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "David Janitzek"
+country = "BRA"

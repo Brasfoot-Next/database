@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Andrea Franzoni,MF,R,29,ITA,7,true,false,false,passing,stamina
+Ahmad Benali,MF,R,34,ITA,4,false,false,false,stamina,passing
+Tommaso Fumagalli,FW,R,26,ITA,6,true,false,false,pace,finishing
+Nermin Karic,MF,R,27,SWE,7,true,false,false,stamina,passing
+Davide Bariti,FW,L,35,ITA,3,false,false,false,playmaking,crossing
+Stefano Di Mario,FW,L,21,ITA,5,false,false,false,stamina,pace
+Antonio Boccadamo,FB,R,27,ITA,6,true,false,false,stamina,pace
+Bernat Guiu,MF,L,25,ESP,7,true,false,false,dribbling,stamina
+Marco Dalla Vecchia,MF,R,21,ITA,4,true,false,false,passing,stamina
+Luca Parodi,CB,R,31,ITA,5,false,false,false,pace,tackling
+Iacopo Lipani,MF,R,25,ITA,5,false,false,false,stamina,passing
+Marco Nichetti,MF,L,29,ITA,6,false,false,false,passing,tackling
+Alessandro Debenedetti,FW,R,22,ITA,7,false,false,false,heading,finishing
+Ivan Marconi,CB,L,36,ITA,2,false,false,false,heading,tackling
+Andrea Tiritiello,CB,R,31,ITA,5,false,false,false,heading,tackling
+Francesco Mezzoni,FW,R,26,ITA,6,true,false,false,tackling,marking
+Ernesto Matteazzi,MF,R,21,ITA,7,false,false,false,pace,dribbling
+David Ankeye,FW,R,24,NGA,2,true,false,false,pace,passing
+Flavio Russo,FW,R,22,ITA,5,false,false,false,finishing,dribbling
+Tommaso Del Lungo,CB,R,22,ITA,6,true,false,false,tackling,marking
+Denis Portanova,CB,R,25,ITA,4,true,false,false,tackling,marking
+Luigi Palomba,CB,R,23,ITA,5,false,false,false,pace,tackling
+Lorenzo Moretti,CB,R,24,ITA,6,false,false,false,tackling,pace
+Andrea Nabi Bottaro,CB,R,19,ITA,8,false,false,false,pace,marking
+Simone Colombi,GK,R,35,ITA,4,false,false,false,reflexes,penalty-saving
+Ovidijus Siaulys,GK,R,27,LTU,5,true,false,false,reflexes,positioning
+Federico Del Frate,GK,L,30,ITA,6,false,false,false,positioning,reflexes

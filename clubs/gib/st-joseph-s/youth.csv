@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kaylan Borda,GK,R,17,GIB,5,true,false,false,penalty-saving,rushing-out
+Victor Ayala,GK,L,19,ESP,7,true,false,false,positioning,reflexes
+Luke Bianco,FB,R,17,GIB,5,true,false,false,crossing,tackling
+Alfred Agius,FB,L,16,GIB,2,true,false,false,pace,crossing
+Pedro Rivas,FB,R,18,ESP,7,true,false,false,crossing,passing
+Peter Sardeña,CB,L,19,GIB,9,true,false,false,stamina,marking
+Francis Picardo Jr,CB,R,17,GIB,10,true,false,false,heading,tackling
+Juanjo Ruesca,CB,L,18,ESP,6,true,false,false,marking,heading
+Antonio Fuster,MF,R,18,ESP,3,true,false,false,dribbling,passing
+Aydan Colton,MF,L,16,GIB,9,true,false,false,playmaking,dribbling
+Christian Mason,MF,R,17,GIB,2,true,false,false,marking,finishing
+Louie Panzavechia,MF,L,16,GIB,2,true,false,false,tackling,pace
+Kayron Smullen,FW,R,19,GIB,5,true,false,false,pace,finishing
+Iván Lozano,FW,L,18,ESP,10,true,false,false,finishing,stamina
+John Charles Gaivizo,FW,R,17,GIB,3,true,false,false,dribbling,pace

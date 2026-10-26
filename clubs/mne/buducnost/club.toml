@@ -1,0 +1,13 @@
+name = "Buducnost"
+country = "MNE"
+level = 15
+reputation = 3
+colors = ["#003399", "#ffffff"]
+
+[stadium]
+name = "Pod Goricom"
+capacity = 17000
+
+[coach]
+name = "Aleksandar Nedovic"
+country = "MNE"

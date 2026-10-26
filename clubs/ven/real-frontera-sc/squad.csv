@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sergio Avellaneda,GK,R,23,COL,5,true,false,false,rushing-out,positioning
+Rafael Marquez,GK,R,21,VEN,6,false,false,false,positioning,penalty-saving
+Jesús Moreno,CB,R,20,VEN,7,true,false,false,tackling,marking
+Andriu Leal,CB,L,20,COL,3,false,false,false,marking,passing
+Jhoandri Duran,CB,R,18,VEN,5,false,false,false,heading,marking
+Andryu Romero,CB,R,22,VEN,5,true,false,false,passing,marking
+Adriano Sanabria,FB,L,17,VEN,6,false,false,false,pace,crossing
+Jhohiner Alviarez,FB,L,25,VEN,8,true,false,false,stamina,pace
+Cristofer Mosquera,FB,L,17,VEN,4,false,false,false,passing,pace
+Abyair Torres,FB,L,20,VEN,6,true,false,false,marking,pace
+Wilkeson Martinez,MF,R,18,VEN,7,false,false,false,tackling,marking
+Diego Guillén,MF,R,25,VEN,4,true,false,false,passing,finishing
+Wilker Martinez,MF,L,25,VEN,5,true,false,false,finishing,playmaking
+Andrés Aldana,MF,R,21,COL,6,false,false,false,pace,dribbling
+Juan Martínez,MF,R,21,VEN,7,true,false,false,passing,finishing
+Victor Vega,MF,R,28,VEN,4,true,false,false,dribbling,passing
+Josmar Zambrano,MF,R,34,VEN,5,false,false,false,pace,crossing
+Sleyder Flores,FW,R,20,VEN,6,false,false,false,finishing,stamina
+Paul Duran,FW,R,21,VEN,8,false,false,false,heading,pace
+Osmar Morales,FW,R,26,VEN,4,true,false,false,dribbling,pace
+Franyer Contreras,FW,R,17,VEN,7,false,false,false,pace,crossing
+Juan Villasmil,FW,R,22,VEN,3,true,false,false,pace,dribbling
+Diego Alarcon,FW,R,18,VEN,5,false,false,false,dribbling,playmaking

@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Yuya Oki,GK,L,26,JPN,1,true,false,false,positioning,rushing-out
+Togo Umeda,GK,R,25,JPN,5,false,false,false,penalty-saving,reflexes
+Kei Ishikawa,GK,L,33,JPN,5,false,false,false,rushing-out,reflexes
+Tomotaro Sasaki,GK,R,19,JPN,6,false,false,false,positioning,rushing-out
+Seung-wook Park,CB,R,29,JPN,7,true,false,false,tackling,heading
+Jelani Reshaun Sumiyoshi,CB,R,28,JPN,3,true,false,false,marking,stamina
+Mateus Brunetti,CB,R,26,BRA,5,false,false,false,marking,passing
+Sen Takagi,CB,L,24,JPN,6,false,false,false,heading,marking
+Sodai Hasukawa,CB,R,28,JPN,7,false,false,false,marking,tackling
+Yuji Takahashi,CB,R,33,JPN,4,false,false,false,heading,stamina
+Joo-young Eom,CB,L,19,JPN,6,false,false,false,marking,passing
+Yuki Honda,FB,L,35,JPN,7,false,false,false,tackling,marking
+Yutaka Yoshida,FB,L,36,JPN,4,false,false,false,tackling,stamina
+Hidehiro Sugai,FB,R,27,JPN,5,true,false,false,pace,tackling
+Haruto Hidaka,FB,R,22,JPN,6,true,false,false,passing,crossing
+Kengo Kitazume,FB,L,34,JPN,7,false,false,false,pace,crossing
+Dieguinho,MF,L,31,BRA,4,true,false,false,marking,passing
+Du-jae Won,MF,L,28,JPN,5,true,false,false,tackling,passing
+Kei Koizumi,MF,R,31,JPN,6,true,false,false,tackling,marking
+Masaki Yumiba,MF,R,24,JPN,8,false,false,false,passing,finishing
+Keigo Suzuki,MF,R,23,JPN,6,false,false,false,tackling,marking
+Yudai Shimamoto,MF,L,19,JPN,7,false,false,false,pace,dribbling
+Kai Matsuzaki,MF,R,28,JPN,3,true,false,false,pace,crossing
+Tomoya Fujii,MF,R,27,JPN,5,false,false,false,pace,crossing
+Kenta Inoue,MF,R,27,JPN,6,false,false,false,pace,crossing
+Ryota Hariu,MF,L,18,JPN,7,false,false,false,pace,crossing
+Kazuki Kozuka,MF,R,31,JPN,3,false,false,false,finishing,passing
+Capixaba,FW,R,29,BRA,5,false,false,false,pace,dribbling
+Vini Peixoto,FW,R,25,BRA,6,false,false,false,pace,dribbling
+Se-hun Oh,FW,R,27,JPN,7,true,false,false,finishing,dribbling
+Koya Kitagawa,FW,R,29,JPN,5,true,false,false,finishing,stamina
+Ryo Germain,FW,L,31,JPN,7,false,false,false,finishing,dribbling
+Kosuke Kinoshita,FW,R,31,JPN,1,false,false,false,finishing,pace
+Kanta Chiba,FW,R,23,JPN,5,false,false,false,finishing,pace

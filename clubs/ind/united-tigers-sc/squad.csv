@@ -1,0 +1,19 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Chapal Palan,MF,L,35,IND,8,true,false,false,stamina,pace
+Taranjot Agarwal,FW,L,40,IND,4,false,false,false,pace,stamina
+Hantidev Bhandari,FW,R,37,IND,5,false,false,false,pace,dribbling
+Adit Ginti,FB,L,33,IND,6,true,false,false,pace,stamina
+Prakul Bhatt,FW,L,41,IND,9,false,false,false,stamina,pace
+Randhir Jayaraman,FW,R,41,IND,5,false,false,false,heading,pace
+Remil Nadkarni,MF,R,40,IND,6,true,false,false,stamina,pace
+Attana Deshpande,FW,L,45,IND,6,false,false,false,dribbling,playmaking
+Dinkerrai Bajwa,MF,R,45,IND,1,true,false,false,tackling,heading
+Tapish Atwal,CB,L,42,IND,3,true,false,false,heading,marking
+Madanapal Chada,FW,R,34,IND,7,true,false,false,stamina,pace
+Abhimoda Chakraborty,CB,L,40,IND,4,true,false,false,stamina,heading
+Abhaya Grewal,FW,L,33,IND,5,true,false,false,pace,heading
+Anuvinda Khurana,FB,R,33,IND,6,true,false,false,stamina,tackling
+Jagatjiva Mangat,FW,L,32,IND,8,true,false,false,pace,dribbling
+Gajodara Chatterjee,GK,R,41,IND,4,false,false,false,rushing-out,penalty-saving
+Palkesh Nagarajan,GK,R,36,IND,5,true,false,false,rushing-out,penalty-saving
+Vihaan Boral,GK,L,37,IND,6,false,false,false,reflexes,rushing-out

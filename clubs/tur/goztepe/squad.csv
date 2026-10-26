@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Arda Özçimen,GK,R,24,TUR,2,true,false,false,reflexes,penalty-saving
+Şamil Öztürk,GK,R,21,TUR,6,false,false,false,penalty-saving,rushing-out
+Nevzat Üzel,GK,R,19,TUR,6,false,false,false,rushing-out,positioning
+Malcom Bokele,CB,L,26,CMR,8,true,false,false,pace,tackling
+Taha Altıkardeş,CB,R,23,TUR,2,true,false,false,tackling,stamina
+Furkan Bayır,CB,R,26,TUR,6,false,false,false,stamina,tackling
+Noah Sonko Sundberg,CB,R,30,TUR,6,false,false,false,stamina,heading
+Allan Godói,CB,R,33,BRA,8,false,false,false,heading,pace
+Ege Yıldırım,CB,L,19,TUR,4,false,false,false,tackling,pace
+Anthony Dennis,MF,L,22,NGA,6,true,false,false,stamina,pace
+Novatus Miroshi,MF,L,24,TAN,7,true,false,false,pace,stamina
+Musah Mohammed,MF,R,24,GHA,9,false,false,false,playmaking,dribbling
+Rhaldney,MF,R,27,BRA,5,false,false,false,tackling,stamina
+Alex Matos,MF,R,21,ENG,7,false,false,false,stamina,pace
+Furkan Malak,MF,R,21,TUR,9,false,false,false,stamina,tackling
+Arda Okan Kurtulan,MF,R,23,ALB,5,true,false,false,pace,heading
+Ogün Bayrak,MF,R,27,TUR,6,false,false,false,pace,stamina
+Amin Cherni,MF,L,25,TUN,7,true,false,false,stamina,pace
+Alexis Antunes,MF,R,26,SUI,9,false,false,false,stamina,dribbling
+Efkan Bekiroğlu,MF,R,30,TUR,5,false,false,false,passing,dribbling
+Juan,FW,R,24,BRA,7,true,false,false,pace,dribbling
+Janderson,FW,L,27,BRA,8,true,false,false,heading,finishing
+André Henrique,FW,R,24,BRA,5,true,false,false,heading,finishing
+Sinclair Armstrong,FW,R,23,TUR,6,true,false,false,heading,stamina
+Guilherme Luiz,FW,L,21,BRA,8,false,false,false,heading,stamina
+Ibrahim Sabra,FW,R,20,TUR,4,false,false,false,pace,finishing
+Tibet Durakçay,FW,R,20,TUR,6,false,false,false,pace,dribbling

@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ted Bishop,MF,R,30,ENG,1,true,false,false,stamina,passing
+Arthur Read,MF,L,26,ENG,5,true,false,false,stamina,pace
+Dominic Gape,MF,R,31,ENG,6,true,false,false,passing,pace
+Jack Payne,MF,L,31,ENG,7,false,false,false,stamina,passing
+Ellis Iandolo,FB,L,29,ENG,2,true,false,false,stamina,pace
+Samson Tovide,FW,L,22,ENG,5,false,false,false,pace,stamina
+Harry Anderson,FW,R,29,ENG,6,true,false,false,stamina,pace
+Kane Vincent Young,FB,R,30,GRN,6,true,false,false,pace,dribbling
+Ben Perry,MF,R,21,ENG,7,true,false,false,pace,passing
+Rob Hunt,FB,L,31,ENG,3,false,false,false,stamina,pace
+Owura Edwards,FW,L,25,ENG,3,true,false,false,pace,stamina
+Will Goodwin,FW,R,24,ENG,5,false,false,false,stamina,pace
+John Kymani Gordon,FW,L,23,ENG,6,false,false,false,pace,dribbling
+Jack Baldwin,CB,R,33,ENG,7,false,false,false,stamina,tackling
+Milton Oni,MF,R,20,ENG,4,false,false,false,pace,stamina
+Jaden Williams,FW,R,22,ENG,5,false,false,false,pace,finishing
+Tom Flanagan,CB,L,34,NIR,6,false,false,false,stamina,heading
+Kyreece Lisbie,FW,R,22,ENG,8,false,false,false,pace,finishing
+Adrian Akande,FW,L,22,NGA,4,false,false,false,pace,dribbling
+Josh Powell,FB,L,21,ENG,5,false,false,false,pace,stamina
+Ronnie Harvey,MF,R,18,ENG,6,false,false,false,pace,passing
+Micah Mbick,FW,R,19,ENG,7,false,false,false,pace,heading
+Jack Tucker,CB,R,26,ENG,4,true,false,false,stamina,tackling
+Harvey Araujo,CB,L,22,ENG,5,true,false,false,pace,heading
+Max Jolliffe,MF,R,20,ENG,6,false,false,false,stamina,pace
+Kurai Musanhi,FB,L,20,ZIM,7,false,false,false,pace,stamina
+Matt Macey,GK,R,31,ENG,4,false,false,false,penalty-saving,rushing-out
+Tom Smith,GK,L,24,ENG,5,true,false,false,reflexes,penalty-saving

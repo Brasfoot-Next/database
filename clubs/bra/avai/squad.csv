@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Igor Bohn,GK,R,30,BRA,8,true,false,false,positioning,reflexes
+Otávio,GK,R,33,BRA,4,false,false,false,positioning,rushing-out
+Guilherme Aquino,CB,L,22,BRA,5,false,false,false,heading,marking
+Jefferson,CB,L,23,BRA,6,false,false,false,marking,tackling
+Reynaldo,CB,L,29,BRA,8,true,false,false,marking,tackling
+Allyson,CB,R,35,BRA,5,false,false,false,marking,heading
+João Maistro,CB,L,25,BRA,6,true,false,false,heading,stamina
+Gabriel Simples,CB,L,21,BRA,6,false,false,false,heading,marking
+Quaresma,FB,L,29,BRA,10,true,false,false,pace,tackling
+Douglas Teixeira,FB,R,25,BRA,5,false,false,false,stamina,pace
+Wesley Gasolina,FB,L,26,BRA,6,true,false,false,dribbling,pace
+Wallison,FB,R,24,BRA,7,false,false,false,crossing,passing
+Paulo Vitor,MF,R,21,BRA,4,false,false,false,dribbling,passing
+Zé Ricardo,MF,R,30,BRA,5,false,false,false,dribbling,pace
+Jamerson,MF,R,19,BRA,7,true,false,false,playmaking,passing
+Vinicius Gugel,MF,R,19,BRA,3,false,false,false,tackling,passing
+Wenderson,MF,R,27,BRA,5,false,false,false,pace,stamina
+Romildo Del Piage,MF,R,26,BRA,6,false,false,false,passing,finishing
+Hyan,MF,R,22,BRA,7,false,false,false,pace,dribbling
+Pedro Cuiabá,MF,R,24,BRA,4,false,false,false,tackling,marking
+Daniel Penha,MF,L,27,BRA,6,true,false,false,playmaking,dribbling
+Luiz Henrique,MF,R,27,BRA,7,true,false,false,finishing,passing
+Jean Lucas,MF,R,31,BRA,3,true,false,false,dribbling,playmaking
+Sorriso,FW,R,21,BRA,5,true,false,false,heading,pace
+Juan Rocha,FW,R,21,BRA,6,false,false,false,dribbling,pace
+Isaías,FW,R,21,BRA,2,false,false,false,dribbling,playmaking
+Thayllon,FW,R,19,BRA,5,false,false,false,finishing,heading
+Renanzinho,FW,R,22,BRA,6,true,false,false,pace,finishing
+Léo Gamalho,FW,R,32,BRA,7,false,false,false,pace,finishing

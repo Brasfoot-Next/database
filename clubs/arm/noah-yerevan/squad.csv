@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Vardan Shahatuni,GK,L,24,ARM,8,true,false,false,reflexes,positioning
+Harutyun Melkonyan,GK,R,21,ARM,7,false,false,false,rushing-out,penalty-saving
+Saná,FB,L,22,GNB,10,true,false,false,finishing,pace
+Ebenezer,FB,R,21,NGA,2,true,false,false,marking,finishing
+Erik Avetisyan,FB,L,22,ARM,6,false,false,false,crossing,pace
+Ruben Hovsepyan,FB,R,22,ARM,7,false,false,false,marking,passing
+Grigoriy Trufanov,CB,R,25,RUS,10,true,false,false,tackling,stamina
+Aleksandr Nesterov,CB,L,22,RUS,5,true,false,false,tackling,heading
+Norayr Nikoghosyan,CB,L,20,ARM,6,false,false,false,tackling,marking
+Karen Muradyan,CB,R,21,ARM,9,false,false,false,heading,stamina
+Yaroslav Matvienko,MF,R,24,RUS,1,true,false,false,playmaking,pace
+Ashot Adamyan,MF,L,25,ARM,6,true,false,false,playmaking,passing
+Dramane Salou,MF,R,24,BFA,1,true,false,false,tackling,marking
+Haik Moussakhanian,MF,L,24,FRA,3,true,false,false,tackling,marking
+Armen Nahapetyan,MF,R,23,ARM,9,false,false,false,passing,finishing
+Yesayan,MF,L,20,ARM,2,false,false,false,finishing,passing
+Vahagn Hayrapetyan,MF,L,25,ARM,8,false,false,false,playmaking,dribbling
+Petros Afajanyan,MF,R,23,ARM,2,false,false,false,playmaking,dribbling
+Hayk Ghevondyan,FW,L,21,ARM,5,true,false,false,heading,pace
+Levon Vardanyan,FW,R,18,ARM,2,true,false,false,finishing,dribbling
+Ikechukwu,FW,R,25,NGA,2,false,false,false,finishing,pace

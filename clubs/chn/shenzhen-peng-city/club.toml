@@ -1,0 +1,13 @@
+name = "Shenzhen Peng City"
+country = "CHN"
+level = 8
+reputation = 2
+colors = ["#001020", "#A09060"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Wang Yiming"
+country = "BRA"

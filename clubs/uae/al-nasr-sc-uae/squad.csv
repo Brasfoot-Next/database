@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ahmed Mohammad Shambih,GK,L,32,UAE,1,true,false,false,penalty-saving,reflexes
+Adli Mohamed,GK,R,21,UAE,5,false,false,false,positioning,rushing-out
+Saeed Maqdami,GK,R,21,UAE,6,false,false,false,penalty-saving,reflexes
+Omar Ahmed Mohamed,GK,L,20,UAE,7,false,false,false,positioning,reflexes
+Glauber,CB,R,26,UAE,2,true,false,false,heading,tackling
+Marius Høibråten,CB,L,31,NOR,6,false,false,false,marking,stamina
+Gustavo,CB,L,26,UAE,6,true,false,false,marking,tackling
+Felipe Motta,CB,R,22,BRA,7,false,false,false,heading,stamina
+Saleem Sultan,CB,L,33,UAE,4,false,false,false,marking,stamina
+David Petrovic,FB,R,23,SRB,6,false,false,false,pace,tackling
+Abdulla Idrees,FB,R,26,UAE,4,true,false,false,marking,crossing
+Abdulla Al-Balooshi,FB,R,25,UAE,6,false,false,false,stamina,pace
+Zayed Sultan,FB,R,25,UAE,6,true,false,false,passing,pace
+Yousef Al-Magableh,FB,R,21,UAE,7,false,false,false,dribbling,pace
+Marius Marin,MF,R,28,ROU,7,true,false,false,stamina,passing
+Luka Milivojevic,MF,L,35,SRB,5,false,false,false,passing,tackling
+Hussain Mahdi,MF,L,25,UAE,6,true,false,false,finishing,passing
+Issam Faiz,MF,L,26,UAE,6,true,false,false,passing,playmaking
+Mohammad Abdulbasit,MF,R,30,UAE,8,false,false,false,dribbling,playmaking
+Kevin Agudelo,MF,R,27,COL,5,true,false,false,finishing,playmaking
+Mehdi Ghayedi,FW,R,27,UAE,8,true,false,false,pace,crossing
+Abdoulaye Toure,FW,L,22,UAE,5,true,false,false,pace,dribbling
+Nassim Chadli,FW,L,25,MAR,6,false,false,false,dribbling,pace
+Wesley Delgado,FW,R,22,UAE,7,false,false,false,pace,finishing
+Salem Al-Somhi,FW,R,23,UAE,9,false,false,false,heading,finishing
+Ramón Miérez,FW,R,29,ARG,4,false,false,false,pace,dribbling
+Leonel Wamba,FW,R,23,CMR,6,false,false,false,finishing,pace

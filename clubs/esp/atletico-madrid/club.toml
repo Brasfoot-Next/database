@@ -1,0 +1,13 @@
+name = "Atlético Madrid"
+country = "ESP"
+level = 23
+reputation = 5
+colors = ["#201050", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Álex Musso"
+country = "BRA"

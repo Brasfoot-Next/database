@@ -1,0 +1,13 @@
+name = "Antofagasta"
+country = "CHI"
+level = 15
+reputation = 2
+colors = ["#ffffff", "#006699"]
+
+[stadium]
+name = "Regional"
+capacity = 26339
+
+[coach]
+name = "Javier Torrente"
+country = "ARG"

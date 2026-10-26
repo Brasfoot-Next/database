@@ -1,0 +1,13 @@
+name = "Aston Villa"
+country = "ENG"
+level = 21
+reputation = 4
+colors = ["#90B0E0", "#FFFFFF"]
+
+[stadium]
+name = "Villa Park"
+capacity = 43205
+
+[coach]
+name = "Ross Mcginn"
+country = "BRA"

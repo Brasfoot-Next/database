@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Benjamin Pavard,CB,R,30,FRA,7,false,false,false,tackling,marking
+Matt Oriley,MF,L,25,DEN,9,false,false,false,playmaking,passing
+Angel Gomes,MF,R,26,ENG,5,true,false,false,passing,playmaking
+Timothy Weah,FW,R,26,USA,6,false,false,false,pace,dribbling
+Pierre Emile Hojbjerg,MF,L,31,DEN,7,false,false,false,passing,stamina
+Emerson,FB,L,32,ITA,10,true,false,false,crossing,dribbling
+Geoffrey Kondogbia,CB,L,33,FRA,4,false,false,false,marking,tackling
+Amine Gouiri,FW,R,26,ALG,6,false,false,false,finishing,dribbling
+Mason Greenwood,FW,L,24,ENG,6,true,false,false,dribbling,pace
+Igor Paixão,FW,L,26,BRA,8,true,false,false,pace,dribbling
+Amir Murillo,FB,R,30,PAN,2,false,false,false,pace,stamina
+Pierre Emerick Aubameyang,FW,R,37,FRA,6,false,false,false,pace,finishing
+Hamed Junior Traore,FW,L,26,CIV,6,false,false,false,dribbling,pace
+Arthur Vermeeren,MF,R,21,BEL,7,true,false,false,passing,playmaking
+Neal Maupay,FW,R,30,FRA,2,false,false,false,finishing,heading
+Facundo Medina,FB,L,27,ARG,6,true,false,false,tackling,passing
+Pol Lirola,FB,R,29,ESP,6,false,false,false,crossing,stamina
+Nayef Aguerd,CB,L,30,MAR,8,true,false,false,tackling,marking
+Leonardo Balerdi,CB,R,27,ARG,4,true,false,false,marking,pace
+Ulisses Garcia,FB,L,30,SUI,6,false,false,false,stamina,pace
+Bilal Nadir,MF,L,22,MAR,6,true,false,false,passing,playmaking
+Cj Egan Riley,CB,R,23,ENG,7,false,false,false,pace,stamina
+Darryl Bakola,MF,R,18,FRA,2,true,false,false,dribbling,passing
+Francois Mughe,FW,R,22,CMR,6,false,false,false,pace,stamina
+Robinio Vaz,FW,R,19,FRA,6,false,false,false,pace,dribbling
+Yanis Sellami,MF,R,19,ALG,8,false,false,false,passing,dribbling
+Keyliane Abdallah,FW,L,20,FRA,2,false,false,false,pace,dribbling
+Geronimo Rulli,GK,R,34,ARG,6,true,false,false,reflexes,penalty-saving
+Rubén Blanco,GK,R,31,ESP,6,false,false,false,penalty-saving,reflexes
+Jeffrey De Lange,GK,R,28,NED,8,false,false,false,positioning,reflexes
+Jelle Van Neck,GK,R,22,BEL,6,false,false,false,reflexes,penalty-saving
+Theo Vermot,GK,R,29,FRA,7,false,false,false,reflexes,penalty-saving

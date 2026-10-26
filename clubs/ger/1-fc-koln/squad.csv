@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Alessio Castro Montes,FW,R,29,BEL,5,false,false,false,stamina,playmaking
+Tom Krauss,MF,R,25,GER,6,false,false,false,stamina,tackling
+Isak Bergmann Johannesson,MF,L,23,ISL,7,false,false,false,stamina,passing
+Marius Bulter,FW,R,33,GER,1,false,false,false,pace,finishing
+Sebastian Sebulonsen,FB,R,26,NOR,5,true,false,false,pace,stamina
+Jan Thielmann,FW,R,24,GER,6,false,false,false,stamina,pace
+Florian Kainz,MF,R,33,AUT,7,true,false,false,crossing,dribbling
+Kristoffer Lund,FB,L,24,USA,2,true,false,false,pace,stamina
+Jakub Kaminski,FW,L,24,POL,5,true,false,false,pace,dribbling
+Jusuf Gazibegovic,FB,R,26,BIH,6,false,false,false,marking,pace
+Eric Martel,MF,R,24,GER,7,true,false,false,stamina,marking
+Denis Huseinbasic,MF,L,25,BIH,2,true,false,false,stamina,passing
+Luca Waldschmidt,MF,L,30,GER,5,true,false,false,dribbling,playmaking
+Sargis Adamyan,FW,R,33,GER,6,false,false,false,dribbling,passing
+Linton Maina,FW,L,27,GER,7,false,false,false,pace,stamina
+Timo Hubers,CB,R,30,GER,4,false,false,false,heading,stamina
+Said El Mala,FW,L,20,GER,5,true,false,false,pace,dribbling
+Ragnar Ache,FW,R,28,GER,6,false,false,false,pace,heading
+Dominique Heintz,CB,L,33,GER,10,false,false,false,marking,tackling
+Cenk Ozkacar,CB,L,25,TUR,5,true,false,false,heading,tackling
+Rav Van Den Berg,CB,R,22,NED,7,true,false,false,tackling,marking
+Emin Kujovic,MF,R,21,MNE,8,false,false,false,passing,dribbling
+Luca Kilian,CB,R,27,GER,5,false,false,false,heading,tackling
+Malek El Mala,FW,R,21,GER,6,false,false,false,pace,passing
+Fayssal Harchaoui,MF,R,20,GER,7,false,false,false,pace,passing
+Joel Schmied,CB,R,27,SUI,9,false,false,false,pace,heading
+Neo Telle,CB,R,21,GER,5,false,false,false,tackling,heading
+Marvin Schwabe,GK,R,31,GER,6,true,false,false,reflexes,penalty-saving
+Ron Robert Zieler,GK,R,37,GER,7,false,false,false,positioning,reflexes
+Matthias Kobbing,GK,R,29,GER,5,false,false,false,penalty-saving,rushing-out

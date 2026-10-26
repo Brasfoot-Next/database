@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Franco Saravia,GK,R,27,PER,7,true,false,false,reflexes,positioning
+Hairo Camacho,GK,R,32,PER,2,false,false,false,rushing-out,reflexes
+Luis Pretel,GK,R,24,PER,5,false,false,false,rushing-out,reflexes
+Gonzalo Rizzo,CB,R,30,URU,6,true,false,false,tackling,heading
+Michael Kaufman,CB,L,24,PER,6,true,false,false,heading,stamina
+Héctor González,CB,R,33,ARG,7,false,false,false,stamina,heading
+Carlos Pimienta,CB,R,34,URU,4,false,false,false,tackling,marking
+José Cárdenas,CB,R,20,PER,5,false,false,false,heading,tackling
+Ayrthon Quintana,FB,L,25,PER,6,false,false,false,stamina,pace
+Brayan Guevara,FB,L,28,PER,7,true,false,false,pace,tackling
+Axel Chávez,FB,L,28,PER,3,true,false,false,crossing,pace
+David Gonzáles,FB,R,29,PER,5,false,false,false,marking,pace
+Kelvin Sánchez,MF,L,27,PER,6,true,false,false,finishing,playmaking
+Jorge Palomino,MF,L,30,PER,7,true,false,false,marking,passing
+Christian Velarde,MF,R,28,PER,3,true,false,false,finishing,passing
+Abdiel Ayarza,MF,L,33,PAN,5,false,false,false,tackling,passing
+Sebastián Zarabia,MF,L,21,PER,6,false,false,false,pace,dribbling
+André Vasquez,MF,R,23,PER,7,false,false,false,playmaking,finishing
+Franco Torres,MF,R,27,ARG,3,true,false,false,pace,finishing
+Oshiro Takeuchi,FW,R,31,PER,5,false,false,false,heading,stamina
+Accel Campos,FW,L,28,PER,1,false,false,false,dribbling,playmaking
+Kenyi Barrios,FW,R,30,PER,5,false,false,false,crossing,pace
+Félix Espinoza,FW,R,27,PER,6,true,false,false,dribbling,playmaking
+Juan Diego Ospina,FW,R,25,COL,7,false,false,false,dribbling,pace
+Jarlín Quintero,FW,L,32,COL,1,false,false,false,dribbling,finishing
+Marlon Torres,FW,R,24,COL,5,true,false,false,dribbling,pace

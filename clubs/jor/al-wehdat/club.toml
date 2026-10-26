@@ -1,0 +1,13 @@
+name = "Al-Wehdat"
+country = "JOR"
+level = 13
+reputation = 3
+colors = ["#009933", "#ffffff"]
+
+[stadium]
+name = "Abdullah II"
+capacity = 13000
+
+[coach]
+name = "Abu Zema "
+country = "JOR"

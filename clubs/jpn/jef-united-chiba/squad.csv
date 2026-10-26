@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+José Aurelio Suárez,GK,R,30,ESP,7,true,false,false,positioning,rushing-out
+Ryota Suzuki,GK,R,32,JPN,4,false,false,false,positioning,rushing-out
+Haruto Usui,GK,R,27,JPN,5,false,false,false,penalty-saving,reflexes
+Michiya Okamoto,GK,R,31,JPN,6,false,false,false,positioning,penalty-saving
+Daniel Hall,CB,R,27,AUS,7,true,false,false,heading,marking
+Koji Toriumi,CB,L,31,JPN,4,true,false,false,heading,stamina
+Takashi Kawano,CB,R,30,JPN,6,false,false,false,tackling,heading
+Takayuki Mae,CB,R,32,JPN,7,false,false,false,tackling,stamina
+Ryota Kuboniwa,CB,L,24,JPN,3,false,false,false,heading,passing
+Daisuke Suzuki,CB,R,36,JPN,5,false,false,false,heading,stamina
+Rikuto Ishio,FB,L,24,JPN,6,true,false,false,crossing,passing
+Masaru Hidaka,FB,R,31,JPN,7,false,false,false,tackling,pace
+Yuta Ueda,FB,L,22,JPN,3,false,false,false,crossing,passing
+Issei Takahashi,FB,R,28,JPN,5,true,false,false,stamina,crossing
+Koki Yonekura,FB,L,38,JPN,6,false,false,false,tackling,pace
+Eduardo,MF,R,29,BRA,7,true,false,false,stamina,pace
+Manato Shinada,MF,R,26,JPN,4,true,false,false,passing,finishing
+Taiki Amagasa,MF,R,26,JPN,5,false,false,false,tackling,passing
+Yusuke Kobayashi,MF,R,31,JPN,6,false,false,false,passing,finishing
+Taishi Taguchi,MF,R,35,JPN,7,false,false,false,tackling,marking
+Takuya Yasui,MF,R,27,JPN,4,true,false,false,marking,passing
+Kazuki Tanaka,MF,R,26,JPN,5,true,false,false,pace,crossing
+Makoto Himeno,MF,L,17,JPN,6,false,false,false,pace,crossing
+Naoki Tsubaki,FW,R,26,JPN,7,false,false,false,finishing,pace
+Zain Issaka,FW,R,29,JPN,4,false,false,false,dribbling,playmaking
+Naohiro Sugiyama,FW,R,27,JPN,5,false,false,false,finishing,pace
+Takumi Tsukui,FW,R,24,JPN,6,false,false,false,finishing,dribbling
+Erison,FW,R,27,BRA,7,true,false,false,playmaking,finishing
+Leonardo Rocha,FW,R,29,POR,4,true,false,false,heading,finishing
+Daichi Ishikawa,FW,L,30,JPN,5,false,false,false,crossing,pace
+Hiroto Goya,FW,R,32,JPN,2,false,false,false,dribbling,pace
+Takumi Matsumura,FW,R,22,JPN,5,false,false,false,dribbling,playmaking

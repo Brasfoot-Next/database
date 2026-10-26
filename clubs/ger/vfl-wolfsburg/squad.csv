@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Maximilian Arnold,MF,L,32,GER,6,false,false,false,passing,playmaking
+Lovro Majer,MF,L,28,CRO,7,true,false,false,stamina,dribbling
+Mohamed Amoura,FW,L,26,ALG,8,true,false,false,pace,stamina
+Yannick Gerhardt,MF,L,32,GER,5,false,false,false,playmaking,dribbling
+Mattias Svanberg,MF,R,27,SWE,6,true,false,false,passing,playmaking
+Andreas Skov Olsen,FW,L,26,DEN,7,false,false,false,pace,dribbling
+Joakim Maehle,FB,L,29,DEN,8,true,false,false,stamina,passing
+Aaron Zehnter,FW,L,21,GER,5,false,false,false,stamina,crossing
+Patrick Wimmer,MF,R,25,AUT,6,true,false,false,pace,dribbling
+Denis Vavro,CB,R,30,SVK,7,false,false,false,tackling,heading
+Jonas Wind,FW,R,27,DEN,8,false,false,false,finishing,heading
+Vinicius Souza,MF,R,27,BRA,4,false,false,false,tackling,stamina
+Christian Eriksen,MF,R,34,DEN,6,false,false,false,crossing,passing
+Jesper Lindstrom,FW,R,26,DEN,7,false,false,false,pace,dribbling
+Rogério,FB,L,28,BRA,8,false,false,false,dribbling,crossing
+Konstantinos Koulierakis,CB,L,22,GRE,5,true,false,false,tackling,marking
+Kevin Paredes,FW,L,23,USA,5,false,false,false,pace,dribbling
+Adam Daghim,FW,L,20,DEN,6,false,false,false,pace,dribbling
+Kilian Fischer,FB,R,25,GER,7,false,false,false,stamina,pace
+Bence Dardai,MF,R,20,HUN,9,true,false,false,passing,dribbling
+Sael Kumbedi,FB,R,21,FRA,6,true,false,false,pace,dribbling
+Moritz Jenz,CB,R,27,GER,7,true,false,false,tackling,marking
+Dzenan Pejcinovic,FW,L,21,GER,8,true,false,false,finishing,pace
+Jenson Seelt,CB,R,23,NED,5,false,false,false,heading,tackling
+Mathys Angely,CB,L,19,FRA,6,false,false,false,tackling,passing
+Kamil Grabara,GK,R,27,POL,7,true,false,false,reflexes,penalty-saving
+Marius Muller,GK,R,33,GER,8,false,false,false,reflexes,positioning
+Pavao Pervan,GK,R,38,AUT,6,false,false,false,rushing-out,reflexes
+Jakub Zielinski,GK,R,18,POL,6,false,false,false,reflexes,penalty-saving

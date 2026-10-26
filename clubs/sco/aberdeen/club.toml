@@ -1,0 +1,13 @@
+name = "Aberdeen"
+country = "SCO"
+level = 12
+reputation = 2
+colors = ["#A00000", "#FFFFFF"]
+
+[stadium]
+name = "Pittodrie Stadium"
+capacity = 20866
+
+[coach]
+name = "Mitchel Devlin"
+country = "BRA"

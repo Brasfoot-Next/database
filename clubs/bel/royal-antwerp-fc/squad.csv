@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Vincent Janssen,FW,L,32,NED,8,true,false,false,stamina,finishing
+Thibo Somers,MF,R,27,BEL,5,true,false,false,stamina,pace
+Dennis Praet,MF,R,32,BEL,6,false,false,false,passing,dribbling
+Daam Foulon,FW,L,27,BEL,6,false,false,false,stamina,crossing
+Gyrano Kerk,FW,R,30,SUR,1,true,false,false,pace,finishing
+Geoffry Hairemans,MF,L,34,BEL,5,false,false,false,crossing,passing
+Glenn Bijl,FB,R,31,NED,6,false,false,false,stamina,passing
+Anthony Valencia,FW,L,23,ECU,7,false,false,false,pace,dribbling
+Mahamadou Diawara,MF,L,21,FRA,4,false,false,false,passing,playmaking
+Kobe Corbanie,FB,R,21,BEL,5,true,false,false,pace,passing
+Mauricio Benitez,MF,R,22,ARG,3,true,false,false,passing,stamina
+Marwan Al Sahafi,FW,R,22,KSA,5,false,false,false,pace,dribbling
+Mukhammadali Urinboev,FW,L,21,UZB,6,false,false,false,dribbling,finishing
+Isaac Babadi,MF,R,21,NED,7,false,false,false,stamina,dribbling
+Christopher Scott,MF,R,24,GER,4,true,false,false,pace,dribbling
+Boubakar Kouyate,CB,R,29,MLI,5,false,false,false,heading,tackling
+Zeno Van Den Bosch,CB,R,23,BEL,6,true,false,false,heading,passing
+Andreas Verstraeten,CB,L,20,BEL,7,false,false,false,pace,stamina
+Farouck Adekami,MF,L,20,CIV,4,true,false,false,pace,passing
+Semm Renders,FB,R,18,BEL,5,true,false,false,pace,dribbling
+Youssef Hamdaoui,MF,R,18,MAR,6,false,false,false,pace,dribbling
+Milo Horemans,MF,R,20,BEL,7,false,false,false,pace,passing
+Rosen Bozhinov,CB,L,21,BUL,4,true,false,false,pace,heading
+Orseer Achihi,FW,L,19,NGA,5,false,false,false,pace,dribbling
+Yuto Tsunashima,CB,R,26,JPN,6,false,false,false,marking,pace
+Bjorn Engels,CB,R,31,BEL,7,false,false,false,heading,tackling
+Gerard Vandeplas,FW,R,20,BEL,4,false,false,false,pace,finishing
+Gabriel Jesus David,FW,R,19,NGA,5,false,false,false,pace,heading
+Yannick Thoelen,GK,R,36,BEL,6,false,false,false,positioning,rushing-out
+Taishi Brandon Nozawa,GK,R,23,JPN,7,true,false,false,penalty-saving,rushing-out
+Niels Devalckeneer,GK,R,22,BEL,6,false,false,false,reflexes,penalty-saving

@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Eden Karzev,MF,R,26,CHN,7,true,false,false,stamina,pace
+Edu García,FW,L,36,ESP,1,false,false,false,finishing,stamina
+Liao Lisheng,MF,R,33,CHN,5,true,false,false,pace,tackling
+Jiang Zhipeng,FB,L,37,CHN,6,false,false,false,stamina,playmaking
+Wesley,FW,R,29,BRA,7,false,false,false,pace,heading
+Zhang Xiaobin,MF,R,32,CHN,2,true,false,false,stamina,marking
+Rade Dugalic,CB,R,33,SRB,5,false,false,false,heading,stamina
+Zhang Yudong,MF,L,33,CHN,6,false,false,false,stamina,pace
+Zhang Wei,FB,R,33,CHN,7,true,false,false,stamina,pace
+Nan Song,FW,R,29,CHN,2,false,false,false,stamina,passing
+Hu Ruibao,CB,L,29,CHN,2,true,false,false,pace,stamina
+Behram Abduweli,FW,R,23,CHN,6,true,false,false,pace,stamina
+Wang Qiao,CB,L,31,CHN,7,true,false,false,stamina,pace
+Yu Rui,CB,R,34,CHN,10,false,false,false,stamina,heading
+Yang Yiming,CB,R,31,CHN,5,false,false,false,stamina,heading
+Li Ning,FW,L,24,CHN,6,false,false,false,pace,dribbling
+Leonço,FW,R,33,BRA,7,false,false,false,heading,finishing
+Shahzat Ghojaehmet,FW,L,20,CHN,1,false,false,false,pace,stamina
+Matt Orr,FW,L,29,CHN,5,true,false,false,pace,stamina
+Li Zhi,FB,L,33,CHN,6,false,false,false,pace,stamina
+Jiang Weiyi,MF,R,22,CHN,8,true,false,false,pace,passing
+Zhang Yujie,FB,R,24,CHN,4,true,false,false,stamina,pace
+Shen Huanming,CB,R,22,CHN,5,false,false,false,stamina,pace
+Zhao Shi,GK,R,33,CHN,6,false,false,false,penalty-saving,reflexes
+Peng Peng,GK,R,25,CHN,7,true,false,false,reflexes,penalty-saving
+Ji Jiabao,GK,R,23,CHN,1,false,false,false,reflexes,penalty-saving
+Zhang Haonan,GK,R,21,CHN,5,false,false,false,positioning,penalty-saving

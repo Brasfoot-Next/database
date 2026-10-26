@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Fredy Pérez,GK,R,27,GUA,3,true,false,false,rushing-out,penalty-saving
+Kevin Moscoso,GK,R,29,GUA,8,false,false,false,positioning,rushing-out
+Rafael Morales,FB,L,34,GUA,1,true,false,false,marking,passing
+Carlos Castrillo,FB,R,37,GUA,5,true,false,false,marking,pace
+Allen Yanes,FB,R,25,GUA,9,false,false,false,crossing,marking
+Alexander Larín,FB,L,30,SLV,9,false,false,false,crossing,marking
+Nicolás Samayoa,CB,L,26,GUA,10,true,false,false,marking,pace
+Carlos Pinto,CB,R,29,GUA,6,true,false,false,tackling,marking
+José Corena,CB,R,29,COL,7,false,false,false,marking,pace
+Stheven Robles,MF,L,26,GUA,8,true,false,false,passing,finishing
+Óscar Santis,MF,R,23,GUA,10,true,false,false,playmaking,pace
+Jorge Aparicio,MF,L,29,GUA,4,true,false,false,tackling,marking
+Contreras,MF,R,36,GUA,10,true,false,false,marking,finishing
+Kevin López,MF,R,26,HON,2,false,false,false,playmaking,pace
+Lynner García,MF,L,22,GUA,8,false,false,false,playmaking,pace
+Karel Espino,MF,R,20,CUB,6,false,false,false,tackling,pace
+Paolo Molina,MF,L,21,GUA,10,false,false,false,marking,finishing
+Andrés Lezcano,FW,R,32,CRC,3,true,false,false,finishing,pace
+Eliser Quiñónes,FW,L,33,COL,9,true,false,false,dribbling,finishing
+Ángel Landín,FW,L,37,MEX,9,false,false,false,heading,pace
+Andy Palencia,FW,R,20,GUA,4,false,false,false,pace,finishing

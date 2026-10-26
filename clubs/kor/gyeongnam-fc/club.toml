@@ -1,0 +1,13 @@
+name = "Gyeongnam FC"
+country = "KOR"
+level = 9
+reputation = 2
+colors = ["#000000", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Seon-ho Choi"
+country = "BRA"

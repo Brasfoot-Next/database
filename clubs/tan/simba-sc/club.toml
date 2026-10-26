@@ -1,0 +1,13 @@
+name = "Simba SC"
+country = "TAN"
+level = 13
+reputation = 3
+colors = ["#cc0000", "#ffffff"]
+
+[stadium]
+name = "Dar es Salaam"
+capacity = 60000
+
+[coach]
+name = "Zoran Manojlovic"
+country = "SRB"

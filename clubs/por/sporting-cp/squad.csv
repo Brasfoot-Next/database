@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Pedro Gonçalves,FW,L,28,POR,6,true,false,false,passing,playmaking
+Nuno Santos,FW,L,31,POR,7,false,false,false,dribbling,crossing
+Morten Hjulmand,MF,R,27,DEN,10,true,false,false,stamina,playmaking
+Hidemasa Morita,MF,L,31,JPN,5,true,false,false,stamina,dribbling
+Giorgi Kochorashvili,MF,R,27,GEO,6,false,false,false,stamina,passing
+Trincão,MF,L,26,POR,7,false,false,false,dribbling,stamina
+Daniel Bragança,MF,L,27,POR,1,true,false,false,passing,pace
+Geny Catamo,FW,L,25,MOZ,6,false,false,false,pace,dribbling
+Zeno Debast,CB,R,22,BEL,6,false,false,false,stamina,tackling
+Matheus Reis,CB,L,31,BRA,7,false,false,false,stamina,marking
+Ricardo Mangas,FB,L,28,POR,5,true,false,false,stamina,pace
+Maximiliano Araujo,FW,L,26,URU,6,false,false,false,pace,dribbling
+Jeremiah St Juste,CB,R,29,NED,7,false,false,false,pace,marking
+Eduardo Quaresma,CB,R,24,POR,1,false,false,false,tackling,pace
+Luis Javier Suarez,FW,R,28,COL,6,false,false,false,pace,stamina
+Gonçalo Inácio,CB,L,25,POR,6,true,false,false,heading,tackling
+Georgios Vagiannidis,FB,R,24,GRE,8,true,false,false,stamina,pace
+Fotis Ioannidis,FW,R,26,GRE,2,false,false,false,finishing,dribbling
+Geovany Quenda,FW,L,19,POR,6,true,false,false,pace,dribbling
+João Simões,MF,L,19,POR,6,true,false,false,stamina,passing
+Fresneda,FB,R,21,ESP,5,false,false,false,stamina,pace
+Ousmane Diomande,CB,R,22,CIV,6,true,false,false,tackling,pace
+Alisson,FW,L,23,BRA,7,false,false,false,pace,dribbling
+Rodrigo Ribeiro,FW,R,21,POR,9,false,false,false,pace,dribbling
+Rui Silva,GK,L,32,POR,5,true,false,false,reflexes,penalty-saving
+Francisco Silva,GK,R,20,POR,6,false,false,false,positioning,reflexes
+João Virgínia,GK,L,26,POR,7,false,false,false,reflexes,penalty-saving
+Diego Calai,GK,R,22,BRA,9,false,false,false,positioning,reflexes

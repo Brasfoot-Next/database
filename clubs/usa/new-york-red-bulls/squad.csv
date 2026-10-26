@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lewis Morgan,MF,L,29,SCO,6,false,false,false,pace,stamina
+Emil Forsberg,MF,R,34,SWE,8,true,false,false,passing,playmaking
+Gustav Berggren,MF,R,29,SWE,4,true,false,false,stamina,passing
+Eric Maxim Choupo Moting,FW,R,37,CMR,5,false,false,false,heading,dribbling
+Raheem Edwards,FW,L,31,CAN,6,false,false,false,pace,stamina
+Daniel Edelman,MF,R,23,USA,10,true,false,false,stamina,pace
+Peter Stroud,MF,L,24,USA,5,false,false,false,stamina,pace
+Kyle Duncan,FB,R,29,USA,5,true,false,false,pace,stamina
+Cameron Harper,MF,R,24,USA,6,false,false,false,pace,dribbling
+Dylan Nealis,FB,R,28,USA,7,true,false,false,pace,marking
+Wikelman Carmona,FW,L,23,VEN,5,true,false,false,pace,dribbling
+Mohammed Sofo,FW,L,21,GHA,6,false,false,false,pace,dribbling
+Dennis Gjengaar,FW,R,22,NOR,7,false,false,false,pace,stamina
+Alexander Hack,CB,L,33,GER,1,true,false,false,heading,tackling
+Marcelo Morales,FB,L,23,CHI,5,false,false,false,stamina,pace
+Juan Jose Mina,FB,R,22,COL,6,false,false,false,pace,crossing
+Omar Valencia,FB,L,22,PAN,7,false,false,false,pace,passing
+Ronald Donkor,MF,L,21,GHA,2,true,false,false,dribbling,passing
+Sean Nealis,CB,R,29,USA,6,true,false,false,stamina,heading
+Serge Ngoma,FW,R,21,USA,7,false,false,false,pace,dribbling
+Noah Eile,CB,L,24,SWE,4,false,false,false,pace,passing
+Tim Parker,CB,R,33,USA,5,false,false,false,heading,stamina
+Rafael Mosquera,FW,L,21,PAN,6,false,false,false,pace,dribbling
+Curtis Ofori,FB,L,20,USA,8,false,false,false,pace,stamina
+Wiktor Bogacz,FW,R,22,POL,4,false,false,false,heading,stamina
+Julian Hall,FW,L,18,USA,5,true,false,false,pace,dribbling
+Carlos Miguel Coronel,GK,R,29,PAR,6,false,false,false,reflexes,positioning
+Roald Mitchell,FW,R,23,USA,9,false,false,false,pace,finishing
+John Mccarthy,GK,R,34,USA,4,true,false,false,reflexes,rushing-out
+AJ Marcucci,GK,R,27,USA,6,false,false,false,rushing-out,reflexes
+Aidan Stokes,GK,R,18,ENG,3,false,false,false,penalty-saving,reflexes

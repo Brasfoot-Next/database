@@ -1,0 +1,13 @@
+name = "Odense Boldklub"
+country = "DEN"
+level = 10
+reputation = 2
+colors = ["#F0F0F0", "#003070"]
+
+[stadium]
+name = "Nature Energy Park"
+capacity = 15761
+
+[coach]
+name = "Viljar Andersen"
+country = "BRA"

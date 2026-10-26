@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mukandi,GK,R,32,ZIM,0,true,false,false,rushing-out,penalty-saving
+Phillip Nhete,GK,L,31,ZIM,0,false,false,false,positioning,rushing-out
+Simbarashe Chinani,GK,L,26,ZIM,4,false,false,false,positioning,penalty-saving
+Godknows Murwira,FB,R,29,ZIM,2,true,false,false,finishing,pace
+Tinei Chitora,FB,L,28,ZIM,10,true,false,false,marking,finishing
+Albert Eonde,FB,L,24,CMR,8,false,false,false,finishing,passing
+Magorimbo,CB,R,36,ZIM,0,true,false,false,tackling,heading
+Zhokinyu,CB,L,37,ZIM,0,true,false,false,tackling,marking
+Frank Makarati,CB,R,28,ZIM,7,false,false,false,tackling,stamina
+Partson Jaure,CB,L,32,ZIM,7,false,false,false,heading,stamina
+Timire Mamvura,MF,L,33,ZIM,0,true,false,false,playmaking,passing
+Mukanga,MF,R,33,ZIM,0,true,false,false,passing,finishing
+Alimenda,MF,R,33,ZIM,0,true,false,false,tackling,heading
+Tichaona Mabvura,MF,L,32,ZIM,6,true,false,false,tackling,marking
+Tawanda Muparati,MF,L,38,ZIM,6,false,false,false,passing,finishing
+King Nadolo,MF,L,26,ZIM,5,false,false,false,finishing,passing
+Loyd Hlala,FW,L,21,ZIM,0,true,false,false,finishing,pace
+Mandiwanzira,FW,R,33,ZIM,0,true,false,false,finishing,dribbling
+Patrick Khumbula,FW,L,32,ZIM,2,false,false,false,dribbling,finishing
+Bill Antonio,FW,L,19,ZIM,9,false,false,false,crossing,pace

@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gennaro Tutino,FW,R,30,ITA,5,true,false,false,pace,finishing
+Luca Palmiero,MF,R,30,ITA,6,true,false,false,passing,playmaking
+Dimitrios Sounas,MF,L,32,GRE,7,false,false,false,dribbling,pace
+Roberto Insigne,MF,L,32,ITA,1,false,false,false,pace,dribbling
+Michele Besaggio,MF,R,24,ITA,5,false,false,false,dribbling,stamina
+Giuseppe Panico,MF,R,29,ITA,5,true,false,false,pace,dribbling
+Alessandro Fontanarosa,CB,L,23,ITA,6,true,false,false,pace,tackling
+Tommaso Biasci,FW,R,31,ITA,7,false,false,false,pace,stamina
+Tommaso Cancellotti,FB,R,34,ITA,3,false,false,false,pace,dribbling
+Antonio De Cristofaro,MF,R,26,ITA,5,true,false,false,stamina,pace
+Justin Kumi,MF,R,22,ITA,7,false,false,false,passing,dribbling
+Andrea Cagnano,FB,L,28,ITA,2,true,false,false,stamina,crossing
+Valerio Crespi,FW,L,22,ITA,5,false,false,false,pace,heading
+Emmanuel Gyabuaa,MF,R,24,ITA,6,false,false,false,pace,passing
+Marco Armellino,MF,R,37,ITA,7,false,false,false,passing,playmaking
+Raffaele Russo,MF,L,27,ITA,3,true,false,false,crossing,passing
+Luca Dandrea,FW,L,22,ITA,5,false,false,false,pace,dribbling
+Martin Palumbo,MF,L,24,NOR,6,false,false,false,passing,pace
+Facundo Lescano,FW,L,30,ARG,7,false,false,false,heading,finishing
+Cosimo Patierno,FW,R,35,ITA,3,false,false,false,heading,finishing
+Michele Rigione,CB,R,35,ITA,6,false,false,false,marking,heading
+Filippo Missori,FB,R,22,ITA,9,false,false,false,tackling,crossing
+Andrea Favilli,FW,R,29,ITA,4,true,false,false,heading,finishing
+Alessandro Milani,FB,L,21,VEN,5,true,false,false,pace,tackling
+Lorenco Simic,CB,R,30,CRO,6,false,false,false,heading,tackling
+Patrick Enrici,CB,L,25,ITA,1,false,false,false,marking,stamina
+Claudio Manzi,CB,L,26,ITA,5,true,false,false,tackling,marking
+Matteo Marchisano,FB,R,21,ITA,5,false,false,false,tackling,marking
+Alessandro Campanile,FW,R,21,ITA,7,false,false,false,finishing,heading
+Antony Iannarilli,GK,R,35,ITA,1,false,false,false,reflexes,positioning
+Leonardo Marson,GK,L,28,ITA,6,false,false,false,penalty-saving,reflexes
+Pasquale Pane,GK,R,36,ITA,7,false,false,false,rushing-out,reflexes
+Giovanni Daffara,GK,R,21,ITA,4,true,false,false,rushing-out,positioning

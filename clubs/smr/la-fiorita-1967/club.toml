@@ -1,0 +1,13 @@
+name = "La Fiorita 1967"
+country = "SMR"
+level = 12
+reputation = 2
+colors = ["#006699", "#ffff99"]
+
+[stadium]
+name = "Igor Crescentini"
+capacity = 4000
+
+[coach]
+name = "Oscar Lasagni"
+country = "ITA"

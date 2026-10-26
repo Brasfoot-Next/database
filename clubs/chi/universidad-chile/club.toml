@@ -1,0 +1,14 @@
+name = "Universidad Chile"
+country = "CHI"
+level = 17
+reputation = 3
+colors = ["#ffffff", "#0000a0"]
+rivals = ["chi/colo-colo"]
+
+[stadium]
+name = "Estádio Nacional"
+capacity = 47000
+
+[coach]
+name = "Diego López"
+country = "URU"

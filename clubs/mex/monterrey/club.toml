@@ -1,0 +1,13 @@
+name = "Monterrey"
+country = "MEX"
+level = 18
+reputation = 3
+colors = ["#003399", "#ffffff"]
+
+[stadium]
+name = "BBVA Bancomer"
+capacity = 51348
+
+[coach]
+name = "Víctor Vucetich"
+country = "MEX"

@@ -1,0 +1,13 @@
+name = "Atlético Tucumán"
+country = "ARG"
+level = 13
+reputation = 3
+colors = ["#F0F0F0", "#000000"]
+
+[stadium]
+name = "Monumental José Fierro"
+capacity = 35200
+
+[coach]
+name = "Lisandro Coronel"
+country = "BRA"

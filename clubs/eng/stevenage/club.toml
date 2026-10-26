@@ -1,0 +1,13 @@
+name = "Stevenage"
+country = "ENG"
+level = 9
+reputation = 2
+colors = ["#A01020", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Lewis Campbell"
+country = "BRA"

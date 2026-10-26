@@ -1,0 +1,13 @@
+name = "CD Nacional"
+country = "POR"
+level = 12
+reputation = 2
+colors = ["#F0C020", "#703090"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Lucas Santos"
+country = "BRA"

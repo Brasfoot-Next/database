@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Denilson Ojeda,GK,R,24,VEN,6,false,false,false,reflexes,penalty-saving
+Yosmel Gil,GK,R,25,VEN,7,true,false,false,positioning,rushing-out
+Carlos Hernández,GK,L,23,VEN,4,false,false,false,reflexes,rushing-out
+Mauricio Labranche,CB,R,20,VEN,5,false,false,false,tackling,heading
+Jader Córdoba,CB,R,19,COL,6,false,false,false,passing,marking
+Deibert Figueroa,CB,R,18,VEN,7,false,false,false,stamina,heading
+Gerson Freitez,CB,L,25,VEN,4,true,false,false,marking,heading
+Eliel Alejos,CB,R,24,VEN,5,true,false,false,stamina,heading
+Luis David Ibargüen,FB,R,21,COL,6,true,false,false,crossing,pace
+Samuel Machado,FB,R,22,VEN,7,true,false,false,passing,crossing
+Jesús Chacón,MF,R,25,VEN,6,true,false,false,stamina,tackling
+Abdiel Carvajal,MF,L,20,VEN,7,false,false,false,stamina,passing
+Sebastian Grueso,MF,R,23,COL,5,true,false,false,dribbling,playmaking
+Brayan Suárez,MF,R,22,VEN,6,true,false,false,pace,dribbling
+José Torres,MF,R,33,VEN,7,false,false,false,pace,dribbling
+Manuel Tapia,MF,R,19,VEN,3,false,false,false,dribbling,playmaking
+Santiago Garzón,MF,R,21,COL,5,false,false,false,tackling,marking
+Yonkeli Palmera,MF,R,25,VEN,6,true,false,false,stamina,tackling
+David Loreto,FW,R,24,VEN,7,false,false,false,finishing,stamina
+Álvaro Buitrago,FW,R,21,VEN,3,false,false,false,dribbling,pace
+Kevin González,FW,R,22,VEN,6,false,false,false,playmaking,finishing
+Cesar Abreu,FW,R,25,VEN,7,false,false,false,dribbling,playmaking
+Eli Ordóñez,FW,R,21,VEN,2,false,false,false,finishing,dribbling
+Edwuin Rodríguez,FW,R,21,COL,3,false,false,false,crossing,pace
+José Castillo,FW,R,22,VEN,5,true,false,false,finishing,dribbling
+Luis Alvarez,FW,R,19,VEN,6,false,false,false,pace,crossing
+Víctor Viez,FW,L,27,VEN,7,true,false,false,pace,finishing
+Jeremi Marquez,FW,L,18,VEN,3,false,false,false,pace,finishing

@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jhohan Gutiérrez,GK,R,29,BOL,5,true,false,false,positioning,rushing-out
+Jhunior Vera,GK,R,23,BOL,6,false,false,false,reflexes,penalty-saving
+Leonardo Montenegro,CB,R,21,BOL,7,false,false,false,tackling,stamina
+Luis Palma,CB,R,31,PAR,2,true,false,false,heading,tackling
+Rodrigo Zamora,CB,L,20,BOL,5,false,false,false,marking,passing
+Ronny Montero,CB,R,35,BOL,6,false,false,false,passing,marking
+Lázaro Crescencio,CB,L,23,BOL,7,false,false,false,passing,marking
+Moisés Román,CB,R,24,BOL,3,true,false,false,marking,tackling
+Daniel Aponte,FB,R,21,BOL,4,false,false,false,tackling,marking
+Francisco Rodríguez,FB,R,31,BOL,5,true,false,false,stamina,pace
+Stiven Vargas,FB,L,24,BOL,6,true,false,false,pace,crossing
+Saúl Torres,FB,R,36,BOL,7,false,false,false,stamina,pace
+David Morales,FB,R,21,BOL,4,false,false,false,pace,crossing
+Daniel Rojas,MF,L,26,BOL,5,true,false,false,passing,stamina
+Adelan,MF,R,24,BRA,6,true,false,false,marking,passing
+Diego Vargas,MF,R,23,BOL,7,true,false,false,pace,passing
+Marcelo Somoya,MF,R,22,BOL,4,false,false,false,dribbling,passing
+Alan Mercado,MF,R,32,BOL,5,false,false,false,playmaking,finishing
+Rudy Cardozo,MF,R,36,BOL,6,false,false,false,finishing,playmaking
+Diego Navarro,MF,L,33,BOL,7,false,false,false,tackling,marking
+Pablo Grass,MF,R,21,BOL,4,false,false,false,stamina,passing
+Cristian Urdininea,MF,R,33,BOL,5,false,false,false,marking,passing
+Kent Sánchez,MF,R,20,BOL,6,false,false,false,playmaking,dribbling
+Gustavo Mendoza,MF,L,22,BOL,7,false,false,false,pace,stamina
+Gustavo Cristaldo,MF,L,37,PAR,4,false,false,false,pace,crossing
+Willie,MF,L,33,BRA,5,false,false,false,tackling,marking
+Thomaz,MF,R,29,BRA,6,true,false,false,playmaking,finishing
+Wagner Pinote,FW,R,25,BRA,8,true,false,false,playmaking,finishing
+Deyvid Sejas,FW,R,21,BOL,4,false,false,false,pace,finishing
+Roberto Villavicencio,FW,R,19,BOL,5,false,false,false,finishing,stamina
+Rodrigo Rivas,FW,R,29,COL,3,false,false,false,heading,stamina
+Rafael Lutkowski,FW,R,26,BRA,5,true,false,false,dribbling,finishing
+Gean,FW,L,22,BRA,6,false,false,false,pace,dribbling

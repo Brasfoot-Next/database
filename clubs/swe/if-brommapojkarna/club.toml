@@ -1,0 +1,13 @@
+name = "IF Brommapojkarna"
+country = "SWE"
+level = 9
+reputation = 2
+colors = ["#000000", "#E02010"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Charlie Lohake"
+country = "BRA"

@@ -1,0 +1,13 @@
+name = "Frosinone"
+country = "ITA"
+level = 11
+reputation = 2
+colors = ["#004090", "#F0D000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Edoardo Calvani"
+country = "BRA"

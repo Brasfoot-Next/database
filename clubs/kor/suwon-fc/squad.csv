@@ -1,0 +1,39 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Yoon Bit Garam,MF,R,36,KOR,5,false,false,false,stamina,crossing
+Ahn Hyun Beom,FB,R,31,KOR,5,false,false,false,pace,stamina
+Lee Jae Won,MF,L,29,KOR,6,true,false,false,stamina,tackling
+Han Chan Hee,MF,R,29,KOR,7,true,false,false,stamina,playmaking
+Andrigo,FW,R,31,BRA,4,false,false,false,stamina,pace
+Lee Yong,FB,R,39,KOR,5,false,false,false,stamina,crossing
+Willyan,FW,L,32,BRA,6,false,false,false,pace,dribbling
+Jang Yun Ho,MF,R,30,KOR,7,true,false,false,playmaking,passing
+Roh Kyung Ho,MF,R,26,KOR,4,true,false,false,pace,stamina
+Pablo Sabbag,FW,L,29,KOR,5,true,false,false,heading,finishing
+Kim Jae Sung,FB,R,27,KOR,7,true,false,false,stamina,pace
+Lee Joon Suk,FW,L,26,KOR,2,true,false,false,pace,dribbling
+Seo Jae Min,FB,L,28,KOR,5,true,false,false,pace,stamina
+Lee Si Young,FB,R,29,KOR,6,false,false,false,stamina,pace
+Choi Kyu Baek,CB,L,32,KOR,7,false,false,false,stamina,pace
+Lee Ji Sol,CB,R,27,KOR,2,true,false,false,stamina,marking
+Jang Yeong Woo,FB,L,24,KOR,5,false,false,false,stamina,pace
+Park Yong Hui,FW,R,24,KOR,6,false,false,false,pace,dribbling
+Kim Gyeong Min,FW,R,29,KOR,7,false,false,false,pace,stamina
+Lee Taek Keun,FB,L,24,KOR,3,false,false,false,stamina,pace
+Choi San,MF,R,20,KOR,6,false,false,false,pace,stamina
+Jo Jun Hyeon,MF,R,22,KOR,8,false,false,false,pace,passing
+Hwang In Taek,CB,L,23,KOR,4,false,false,false,tackling,marking
+Jeong Seung Bae,FW,L,22,KOR,5,false,false,false,pace,dribbling
+Kim Tae Han,FB,R,30,KOR,6,false,false,false,stamina,tackling
+Kim Do Yun,FW,R,21,KOR,9,false,false,false,pace,finishing
+Sin Il Yeon,FB,R,21,KOR,4,false,false,false,stamina,tackling
+Lee Hyun Yong,CB,R,22,KOR,5,false,false,false,heading,tackling
+Lee Dae Gwang,FW,L,23,KOR,6,false,false,false,pace,stamina
+Choi Chi Ung,FW,R,25,KOR,1,false,false,false,heading,stamina
+Han Sang Gyu,CB,R,21,KOR,5,false,false,false,pace,stamina
+Gang Min Seong,FW,L,21,KOR,6,false,false,false,pace,dribbling
+Kim Eun Gyeom,FB,L,22,KOR,3,false,false,false,pace,tackling
+Kwon Do Yeong,CB,R,23,KOR,5,false,false,false,stamina,pace
+Kim Dae Hyeon,CB,R,24,KOR,6,true,false,false,heading,tackling
+Ahn Joon Soo,GK,R,28,KOR,7,true,false,false,reflexes,penalty-saving
+Hwang Jae Yun,GK,R,23,KOR,4,false,false,false,penalty-saving,rushing-out
+Joo Ho Yeon,GK,R,23,KOR,5,false,false,false,penalty-saving,rushing-out

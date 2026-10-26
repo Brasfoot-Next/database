@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nicolas Fernandez,FW,L,26,ARG,2,false,false,false,pace,stamina
+Aiden Oneill,MF,R,28,AUS,5,false,false,false,stamina,pace
+Hannes Wolf,FW,L,27,AUT,6,true,false,false,dribbling,pace
+Maxi Moralez,MF,R,39,ARG,7,false,false,false,dribbling,passing
+Keaton Parks,MF,L,29,USA,3,true,false,false,passing,stamina
+Andres Perea,MF,R,25,USA,5,true,false,false,stamina,pace
+Alonso Martinez,FW,R,27,USA,6,true,false,false,pace,finishing
+Agustin Ojeda,FW,L,22,ARG,7,false,false,false,pace,dribbling
+Julian Fernandez,FW,L,22,ARG,3,false,false,false,pace,dribbling
+Thiago,CB,R,31,BRA,5,false,false,false,pace,heading
+Kevin Otoole,FB,L,27,USA,7,false,false,false,pace,stamina
+Raul Gustavo,CB,L,27,BRA,4,true,false,false,tackling,marking
+Mitja Ilenic,FB,R,21,SVN,5,true,false,false,pace,dribbling
+Tayvon Gray,FB,R,24,JAM,5,true,false,false,pace,stamina
+Justin Haak,CB,L,24,USA,6,true,false,false,marking,passing
+Jonathan Shore,MF,R,19,USA,8,true,false,false,pace,passing
+Nico Cavallo,FB,L,24,USA,4,false,false,false,pace,stamina
+Malachi Jones,FW,L,22,SLE,5,false,false,false,pace,dribbling
+Strahinja Tanasijevic,CB,R,29,SRB,7,false,false,false,tackling,stamina
+Maximo Carrizo,MF,R,18,USA,9,true,false,false,pace,playmaking
+Zidane Yanez,FW,R,18,USA,5,false,false,false,finishing,stamina
+Seymour Reid,FW,R,18,JAM,6,false,false,false,pace,finishing
+Drew Baiera,FB,R,19,USA,7,false,false,false,stamina,pace
+Matt Freese,GK,R,28,USA,4,true,false,false,reflexes,penalty-saving
+Tomas Romero,GK,R,25,USA,6,false,false,false,penalty-saving,reflexes
+Greg Ranjitsingh,GK,R,33,TRI,7,false,false,false,reflexes,positioning
+Alex Rando,GK,R,26,USA,3,false,false,false,positioning,reflexes

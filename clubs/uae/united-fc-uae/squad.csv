@@ -1,0 +1,37 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Salam Khairi,GK,R,26,UAE,10,true,false,false,reflexes,rushing-out
+Mayamé Sissoko,GK,R,21,MLI,4,false,false,false,positioning,reflexes
+Willy Noa,GK,R,24,CMR,5,false,false,false,rushing-out,reflexes
+Inayat Noor,GK,R,29,UAE,7,false,false,false,reflexes,positioning
+Moosa Al-Balooshi,GK,L,22,UAE,1,false,false,false,rushing-out,reflexes
+Kouame Autonne Kouadio,CB,L,25,UAE,5,true,false,false,pace,stamina
+Gian Marco Ferrari,CB,R,34,ITA,6,false,false,false,heading,marking
+Sultan Abu Daken,CB,R,27,UAE,7,true,false,false,tackling,stamina
+Malick Atanda,CB,L,20,UAE,2,false,false,false,tackling,marking
+Marcos Moraes,CB,L,25,BRA,5,false,false,false,marking,passing
+Ahmed Rashid,FB,R,29,UAE,5,true,false,false,tackling,pace
+Hussain Abbas,FB,L,31,UAE,6,false,false,false,marking,crossing
+Nagoro Brahima Dao,FB,R,23,BFA,9,false,false,false,crossing,passing
+Ayaan Shabbir Yusuf,FB,R,21,UAE,4,false,false,false,marking,crossing
+Bandar Al-Ahbabi,FB,R,36,UAE,5,false,false,false,tackling,marking
+Hamid Yahya,FB,R,24,UAE,6,true,false,false,tackling,marking
+Aniss Karimi,MF,L,26,MAR,4,true,false,false,passing,finishing
+Wiredu Akwasi,MF,R,22,GHA,5,false,false,false,dribbling,playmaking
+Tareq Ahmed,MF,R,38,UAE,6,false,false,false,playmaking,passing
+Mohammed Yousuf,MF,R,26,UAE,7,true,false,false,dribbling,playmaking
+Moustapha Name,MF,R,31,SEN,5,false,false,false,playmaking,dribbling
+Imanuel Bonsu,MF,R,23,NED,6,false,false,false,passing,finishing
+Habib Al-Fardan,MF,R,35,UAE,7,false,false,false,playmaking,passing
+Baidi Diakite,MF,R,22,MLI,4,false,false,false,tackling,marking
+Konstantin Matveev,MF,R,21,UAE,5,false,false,false,pace,crossing
+Manea Aydh,MF,R,25,UAE,6,true,false,false,tackling,marking
+Abdalla Mahdi,MF,L,27,UAE,7,true,false,false,passing,stamina
+Saif Rashid,FW,R,31,UAE,7,false,false,false,playmaking,finishing
+Durma Maniongui,FW,R,21,CGO,4,false,false,false,finishing,pace
+Samuel Pedro,FW,R,25,POR,5,true,false,false,heading,finishing
+Khalil Ibrahim,FW,L,33,UAE,7,false,false,false,finishing,pace
+Alassane Diallo,FW,R,21,UAE,4,false,false,false,pace,finishing
+Makha Sissokho,FW,R,21,SEN,5,false,false,false,pace,crossing
+Haris Seferovic,FW,R,34,SUI,6,false,false,false,crossing,pace
+Brahima Ouattara,FW,R,23,UAE,7,false,false,false,pace,finishing
+Imade Osarenkhoe,FW,R,25,NGA,4,true,false,false,pace,dribbling

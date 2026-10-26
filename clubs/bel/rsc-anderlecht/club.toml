@@ -1,0 +1,13 @@
+name = "RSC Anderlecht"
+country = "BEL"
+level = 15
+reputation = 3
+colors = ["#401070", "#E0B060"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Mihajlo Stroeykens"
+country = "BRA"

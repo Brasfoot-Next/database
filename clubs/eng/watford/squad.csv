@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Edo Kayembe,MF,L,28,COD,7,true,false,false,stamina,passing
+Moussa Sissoko,MF,R,37,FRA,2,true,false,false,stamina,passing
+Nestory Irankunda,FW,R,20,AUS,5,true,false,false,pace,dribbling
+Imran Louza,MF,L,27,MAR,6,false,false,false,passing,playmaking
+Nampalys Mendy,MF,R,34,SEN,6,true,false,false,passing,tackling
+Giorgi Chakvetadze,FW,L,27,GEO,7,true,false,false,dribbling,pace
+Tom Ince,MF,L,34,ENG,3,false,false,false,passing,pace
+Pierre Dwomoh,MF,R,22,BEL,5,false,false,false,dribbling,passing
+Caleb Wiley,FB,L,21,USA,6,true,false,false,pace,dribbling
+Hector Kyprianou,MF,R,25,CYP,7,true,false,false,stamina,marking
+Marc Bola,FB,L,28,ENG,6,false,false,false,stamina,pace
+Jeremy Ngakia,FB,R,26,COD,8,true,false,false,tackling,dribbling
+Rocco Vata,FW,L,21,IRL,4,false,false,false,pace,dribbling
+Kwadwo Baah,FW,R,23,GER,5,false,false,false,pace,dribbling
+Formose Mendy,CB,R,25,SEN,6,false,false,false,pace,stamina
+Jack Grieves,FW,R,21,ENG,9,false,false,false,pace,stamina
+James Morris,FB,L,24,ENG,4,false,false,false,tackling,marking
+James Abankwah,CB,L,22,IRL,5,true,false,false,pace,tackling
+Othmane Maamma,FW,R,20,MAR,6,false,false,false,pace,dribbling
+Jeremy Petris,FB,R,28,FRA,1,false,false,false,stamina,pace
+Kevin Keben,CB,R,22,CMR,6,false,false,false,heading,tackling
+Vivaldo,FW,L,21,POR,7,false,false,false,pace,heading
+Luca Kjerrumgaard,FW,L,23,DEN,3,false,false,false,pace,heading
+Max Alleyne,CB,R,21,ENG,5,true,false,false,pace,tackling
+Mamadou Doumbia,FW,L,20,MLI,6,false,false,false,finishing,heading
+Mattie Pollock,CB,R,24,ENG,7,false,false,false,heading,marking
+Nathan Baxter,GK,R,27,ENG,4,false,false,false,reflexes,penalty-saving
+Egil Selvik,GK,L,29,NOR,5,true,false,false,reflexes,penalty-saving
+Alfie Marriott,GK,R,22,ENG,6,false,false,false,penalty-saving,rushing-out

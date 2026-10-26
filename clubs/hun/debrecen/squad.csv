@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Alex Hrabina,GK,L,27,HUN,3,true,false,false,positioning,rushing-out
+Dávid Gróf,GK,L,33,HUN,9,false,false,false,penalty-saving,reflexes
+Balázs Dzsudzsák,FB,R,35,HUN,4,true,false,false,marking,finishing
+Nimród Baranyai,FB,L,18,HUN,1,true,false,false,marking,finishing
+Patrik Poór,CB,L,28,HUN,6,true,false,false,heading,stamina
+Sylvain Deslandes,CB,R,25,FRA,4,true,false,false,tackling,marking
+János Ferenczi,MF,L,31,HUN,9,true,false,false,finishing,passing
+Ádám Bódi,MF,R,31,HUN,8,true,false,false,playmaking,pace
+Zsombor Bévárdi,MF,R,23,HUN,8,true,false,false,playmaking,finishing
+Erik Kusnyír,MF,L,22,HUN,6,true,false,false,tackling,marking
+Péter Baráth,MF,R,20,HUN,7,false,false,false,finishing,passing
+József Varga,MF,L,34,HUN,2,false,false,false,tackling,heading
+Márk Szécsi,FW,L,28,HUN,4,true,false,false,dribbling,playmaking
+Donát Bárány,FW,R,21,HUN,4,true,false,false,dribbling,pace
+Bence Sós,FW,R,28,HUN,5,false,false,false,heading,stamina
+Raul Balbarau,GK,L,21,ROU,2,false,false,false,reflexes,positioning
+Christian Manrique,FB,L,23,ESP,7,false,false,false,crossing,marking
+Sámuel Major,FB,R,20,HUN,4,false,false,false,finishing,passing
+Oleksandr Romanchuk,CB,L,22,UKR,1,false,false,false,heading,stamina
+Meldin Dreskovic,CB,R,24,MNE,1,false,false,false,tackling,heading
+Dorian Babunski,FW,R,25,MKD,9,false,false,false,finishing,pace
+Georgios Neofytidis,MF,R,21,GRE,9,false,false,false,tackling,marking
+David Babunski,MF,R,28,MKD,6,false,false,false,tackling,marking

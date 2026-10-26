@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Simon Handle,FW,R,33,GER,4,false,false,false,pace,stamina
+Frank Ronstadt,FB,R,29,GER,5,true,false,false,pace,crossing
+Florian Engelhardt,MF,L,23,GER,6,false,false,false,marking,passing
+Soichiro Kozuki,FW,R,25,JPN,1,true,false,false,pace,dribbling
+Tobias Eisenhuth,MF,R,24,GER,5,true,false,false,tackling,passing
+Leonhard Munst,MF,L,24,GER,6,true,false,false,passing,dribbling
+Meiko Sponsel,FB,R,24,GER,7,true,false,false,crossing,pace
+Lars Dietz,CB,R,29,GER,7,true,false,false,stamina,pace
+David Otto,FW,R,27,GER,2,true,false,false,stamina,pace
+Lex Tyger Lobinger,FW,R,27,GER,5,false,false,false,pace,heading
+Marco Pledl,FW,R,25,GER,6,false,false,false,pace,passing
+Lucas Wolf,MF,R,25,GER,7,true,false,false,pace,dribbling
+Tim Kloss,CB,L,22,GER,4,false,false,false,pace,stamina
+Samuele Carella,MF,R,20,GER,5,false,false,false,pace,tackling
+Robin Velasco,MF,L,24,GER,6,true,false,false,pace,dribbling
+Benjamin Zank,FW,R,22,GER,8,false,false,false,pace,heading
+Leander Popp,FW,L,21,GER,4,false,false,false,pace,dribbling
+Yannick Tonye,FW,L,21,GER,6,false,false,false,pace,stamina
+Raphael Ott,FW,R,20,GER,6,false,false,false,pace,dribbling
+Diego Perri,FW,R,18,GER,10,false,false,false,pace,dribbling
+Christoph Greger,CB,L,29,GER,6,true,false,false,heading,tackling
+Joel Agyekum,CB,L,21,GER,9,false,false,false,stamina,tackling
+Verthomy Schilo Boboy,CB,R,23,GER,4,false,false,false,pace,stamina
+Dudu,GK,R,27,GER,6,true,false,false,penalty-saving,reflexes
+Arne Schulz,GK,R,23,GER,7,false,false,false,reflexes,penalty-saving
+Kevin Rauhut,GK,L,36,GER,1,false,false,false,reflexes,penalty-saving

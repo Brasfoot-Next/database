@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Christ Afalna,FW,R,28,CMR,5,true,false,false,stamina,pace
+Eduard Florescu,FW,L,29,ROU,7,true,false,false,pace,stamina
+Ronaldo Deaconu,MF,L,29,ROU,2,false,false,false,passing,pace
+Florin Purece,MF,L,34,ROU,5,true,false,false,stamina,passing
+Vlad Pop,MF,L,26,ROU,6,true,false,false,pace,stamina
+Andrei Dorobantu,FB,R,22,ROU,7,true,false,false,pace,stamina
+Constantin Toma,FB,L,39,ROU,3,false,false,false,stamina,passing
+Ionut Coada,MF,R,28,ROU,5,true,false,false,stamina,passing
+Radu Negru,FB,R,27,ROU,6,false,false,false,pace,stamina
+Daniel Serbanica,FB,L,30,ROU,7,false,false,false,stamina,pace
+Valon Hamdiu,MF,R,28,ROU,7,false,false,false,stamina,passing
+Andrei Dragu,FB,L,26,ROU,2,true,false,false,pace,dribbling
+Cristian Barbut,FW,R,31,ROU,5,false,false,false,pace,dribbling
+Jekob Jeno,MF,L,26,ROU,6,false,false,false,tackling,passing
+Said Ahmed Said,FW,L,33,ITA,7,false,false,false,stamina,heading
+Florinel Ibrian,FB,L,32,ROU,3,false,false,false,pace,stamina
+Marius Antoche,CB,R,34,ROU,5,false,false,false,stamina,marking
+Ionut Dinu,CB,L,28,ROU,6,true,false,false,tackling,heading
+Raul Rotund,FW,R,20,ROU,7,false,false,false,pace,finishing
+Patrick Dulcea,FW,L,21,ROU,3,false,false,false,pace,dribbling
+Renato Espinosa,FW,R,28,PER,7,false,false,false,pace,finishing
+Rafael Garutti,CB,R,27,BRA,9,false,false,false,stamina,heading
+Oleksandr Safronov,CB,R,27,UKR,4,true,false,false,heading,pace
+Mihaita Lemnaru,MF,R,26,ROU,5,true,false,false,pace,stamina
+Denis Rusu,GK,R,36,ROU,6,false,false,false,positioning,rushing-out
+Robert Popa,GK,R,23,ROU,1,true,false,false,reflexes,penalty-saving
+Ionut Gurau,GK,R,27,ROU,5,false,false,false,penalty-saving,positioning
+Ș. Ciupercă,GK,R,21,ROU,5,false,false,false,rushing-out,penalty-saving

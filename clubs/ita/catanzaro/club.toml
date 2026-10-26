@@ -1,0 +1,13 @@
+name = "Catanzaro"
+country = "ITA"
+level = 12
+reputation = 2
+colors = ["#C00010", "#F0D040"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Filippo Rispoli"
+country = "BRA"

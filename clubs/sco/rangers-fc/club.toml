@@ -1,0 +1,13 @@
+name = "Rangers FC"
+country = "SCO"
+level = 16
+reputation = 3
+colors = ["#002090", "#D0D0D0"]
+
+[stadium]
+name = "Ibrox Stadium"
+capacity = 50987
+
+[coach]
+name = "Youssef Tavernier"
+country = "BRA"

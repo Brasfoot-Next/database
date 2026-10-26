@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Cameron Puertas,MF,R,28,ESP,7,true,false,false,playmaking,dribbling
+Jens Stage,MF,R,29,DEN,5,true,false,false,heading,stamina
+Mitchell Weiser,FB,R,32,GER,6,false,false,false,stamina,dribbling
+Leonardo Bittencourt,MF,R,32,GER,6,false,false,false,dribbling,passing
+Yukinari Sugawara,FB,R,26,JPN,7,true,false,false,crossing,stamina
+Senne Lynen,MF,L,27,BEL,5,true,false,false,stamina,pace
+Romano Schmid,MF,R,26,AUT,5,true,false,false,stamina,dribbling
+Felix Agu,FB,L,26,NGA,6,true,false,false,pace,stamina
+Victor Boniface,FW,R,25,NGA,7,true,false,false,dribbling,finishing
+Olivier Deman,FB,L,26,BEL,9,false,false,false,stamina,crossing
+Maximilian Wober,CB,L,28,AUT,7,false,false,false,heading,tackling
+Marco Grull,FW,L,28,AUT,1,false,false,false,dribbling,finishing
+Marco Friedl,CB,L,28,AUT,5,true,false,false,pace,marking
+Niklas Stark,CB,R,31,GER,6,false,false,false,pace,heading
+Isaac Schmidt,FB,L,26,SUI,7,false,false,false,pace,stamina
+Samuel Mbangula,FW,L,22,BEL,2,true,false,false,pace,dribbling
+Justin Njinmah,FW,R,25,GER,5,false,false,false,pace,dribbling
+Skelly Alvero,MF,R,24,FRA,6,false,false,false,dribbling,playmaking
+Julian Malatini,CB,R,25,ARG,7,false,false,false,pace,stamina
+Dikeni Salifou,MF,R,23,GER,2,false,false,false,tackling,passing
+Isak Hansen Aaroen,MF,R,22,NOR,7,false,false,false,dribbling,passing
+Amos Pieper,CB,R,28,GER,8,false,false,false,tackling,marking
+Wesley Adeh,MF,R,19,GER,5,false,false,false,pace,passing
+Keke Topp,FW,R,22,GER,6,false,false,false,finishing,heading
+Patrice Covic,MF,R,19,CRO,7,false,false,false,passing,pace
+Salim Musah,FW,R,20,GER,9,false,false,false,pace,heading
+Karim Coulibaly,CB,L,19,GER,5,true,false,false,tackling,pace
+Mick Schmetgens,CB,R,18,GER,6,false,false,false,tackling,heading
+Markus Kolke,GK,R,36,GER,7,false,false,false,positioning,reflexes
+Karl Hein,GK,R,24,GER,10,false,false,false,reflexes,positioning
+Mio Backhaus,GK,R,22,GER,7,true,false,false,reflexes,penalty-saving
+Stefan Smarkalev,GK,R,19,BUL,4,false,false,false,reflexes,penalty-saving

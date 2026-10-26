@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Felipe Ovono,GK,L,26,EQG,8,true,false,false,penalty-saving,reflexes
+Tsiyon Merede,GK,R,21,ETH,7,false,false,false,reflexes,positioning
+Bereket Amare,GK,R,21,ETH,4,false,false,false,positioning,rushing-out
+Asnake Moges,FB,L,27,ETH,6,true,false,false,finishing,pace
+Seyoum Tesfaye,FB,R,30,ETH,3,true,false,false,marking,passing
+Mohammed,FB,L,32,ETH,2,false,false,false,finishing,passing
+Tewodros Bekele,FB,R,25,ETH,4,false,false,false,finishing,pace
+Thok James,CB,L,25,ETH,5,true,false,false,tackling,marking
+Elias,CB,R,31,ETH,5,true,false,false,tackling,stamina
+Tesfaye Bekele,CB,L,28,ETH,2,false,false,false,tackling,stamina
+Kalusha Alhassan,MF,R,26,GHA,1,true,false,false,passing,finishing
+Endale Kebede,MF,L,22,ETH,6,true,false,false,finishing,passing
+Daniel Damisse,MF,R,24,ETH,4,true,false,false,tackling,finishing
+Michael Desta,MF,L,39,ETH,5,true,false,false,tackling,finishing
+Alelegn Azene,MF,R,27,ETH,2,false,false,false,playmaking,finishing
+Biruk Kalbore,MF,R,26,ETH,6,false,false,false,tackling,marking
+Addis Hintsa,MF,L,32,ETH,4,false,false,false,tackling,marking
+Henok Esayas,FW,R,26,ETH,6,true,false,false,finishing,pace
+Ephrem Ashamo,FW,L,25,ETH,9,true,false,false,finishing,dribbling
+Samuel Saliso,FW,R,25,ETH,1,false,false,false,finishing,pace
+Okiki Afolabi,FW,R,26,NGA,6,false,false,false,finishing,heading
+Gebremichael,FW,R,20,ETH,9,false,false,false,heading,pace

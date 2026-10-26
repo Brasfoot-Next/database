@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Brian Heras,GK,R,31,ECU,4,false,false,false,positioning,reflexes
+José Cárdenas,GK,L,31,ECU,5,false,false,false,rushing-out,positioning
+Benjamín Cárdenas,GK,R,26,ECU,6,true,false,false,penalty-saving,reflexes
+Juan José Ortíz,GK,R,33,ECU,3,false,false,false,reflexes,rushing-out
+Mateo Burdisso,CB,R,24,ARG,5,true,false,false,tackling,stamina
+Anthony Bedoya,CB,R,30,ECU,6,true,false,false,heading,stamina
+Edilson Cabeza,CB,R,24,ECU,7,false,false,false,marking,heading
+Darío Aimar,CB,R,31,ECU,4,false,false,false,heading,marking
+Ober Medina,CB,R,21,ECU,5,false,false,false,heading,marking
+Luis Castillo,FB,L,27,ECU,6,true,false,false,marking,pace
+Maikel Reyes,FB,L,23,ECU,5,false,false,false,crossing,pace
+Enzo Rubio,FB,R,23,ARG,6,false,false,false,stamina,pace
+Bryan Hernández,FB,L,27,ECU,7,true,false,false,marking,crossing
+Gerónimo Heredia,MF,R,21,ARG,4,false,false,false,stamina,pace
+Luis Castro,MF,R,30,ECU,5,false,false,false,playmaking,passing
+Jefferson Valverde,MF,L,27,ECU,6,true,false,false,dribbling,pace
+Thiago Ozaeta,MF,R,18,ECU,7,false,false,false,passing,stamina
+Jonathan Morocho,MF,R,24,ECU,4,false,false,false,tackling,passing
+Franco Perinciolo,MF,L,29,ARG,5,true,false,false,pace,crossing
+Iván Molinas,MF,R,29,ARG,6,true,false,false,tackling,marking
+Juan Cavallaro,MF,R,32,ARG,5,false,false,false,dribbling,playmaking
+Jefferson Arce,MF,R,26,ECU,6,true,false,false,dribbling,pace
+Kevin Ushiña,FW,L,29,ECU,7,true,false,false,finishing,heading
+Danny Luna,FW,R,35,ECU,3,false,false,false,playmaking,finishing
+Erick Zúñiga,FW,L,23,ECU,5,false,false,false,heading,stamina
+Anthony Álvarez,FW,R,24,ECU,6,true,false,false,crossing,pace
+Franco Ayunta,FW,L,23,ARG,7,false,false,false,finishing,pace
+Eber Caicedo,FW,R,35,ECU,3,false,false,false,heading,stamina
+Erik Yepez,FW,R,33,ECU,5,false,false,false,finishing,dribbling
+Leao Tenorio,FW,L,17,ECU,6,false,false,false,playmaking,finishing

@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jay Oshea,MF,L,38,IRL,5,false,false,false,stamina,dribbling
+James Mcgarry,FB,L,28,NZL,6,true,false,false,stamina,pace
+Henry Hore,FW,L,27,AUS,7,true,false,false,stamina,passing
+Antonee Burke Gilroy,FB,R,28,AUS,4,true,false,false,pace,stamina
+Georgios Vrakas,MF,R,25,GRE,5,true,false,false,pace,dribbling
+Ben Halloran,FW,R,34,AUS,6,false,false,false,pace,stamina
+Michael Ruhs,FW,R,24,AUS,7,false,false,false,pace,finishing
+Sam Klein,MF,R,22,AUS,4,true,false,false,stamina,pace
+Chris Long,FW,R,31,ENG,5,false,false,false,pace,stamina
+Jacob Brazete,FW,L,20,AUS,6,false,false,false,pace,dribbling
+Austin Ludwik,CB,R,29,AUS,5,false,false,false,stamina,heading
+Hosine Bility,CB,R,25,AUS,6,false,false,false,pace,stamina
+Pearson Kasawaya,FB,L,19,AUS,7,false,false,false,pace,stamina
+Nathan Amanatidis,MF,R,20,AUS,3,false,false,false,pace,dribbling
+Lucas Herrington,CB,L,19,AUS,6,true,false,false,pace,stamina
+Ben Warland,CB,L,30,AUS,7,false,false,false,stamina,marking
+Justin Vidic,FW,R,22,AUS,2,true,false,false,pace,finishing
+Ivan Ozzi,FW,L,22,AUS,5,false,false,false,pace,stamina
+Milorad Stajic,MF,R,24,BIH,6,true,false,false,passing,pace
+Marcus Ferkranus,CB,R,23,AUS,7,false,false,false,tackling,pace
+Quinn Macnicol,MF,R,18,AUS,5,true,false,false,pace,dribbling
+Dimitri Valkanis,CB,R,20,AUS,6,true,false,false,stamina,pace
+Dean Bouzanis,GK,R,35,AUS,7,false,false,false,reflexes,penalty-saving
+Macklin Freke,GK,R,27,AUS,1,true,false,false,reflexes,penalty-saving

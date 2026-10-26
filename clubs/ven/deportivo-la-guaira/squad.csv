@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Cristopher Varela,GK,R,26,VEN,4,false,false,false,rushing-out,positioning
+Jorge Sánchez,GK,L,19,VEN,5,true,false,false,positioning,rushing-out
+Carlos Rojas,CB,L,22,VEN,6,false,false,false,passing,marking
+Martín Gianoli,CB,L,25,URU,9,true,false,false,heading,tackling
+Diego Osio,CB,R,29,VEN,5,true,false,false,tackling,marking
+Carlos Rivero,CB,R,33,VEN,6,false,false,false,marking,heading
+Guillermo Ortiz,CB,R,33,ARG,7,false,false,false,tackling,pace
+Jorge Gutiérrez,FB,L,27,PAN,1,true,false,false,pace,crossing
+Genderson Ascanio,FB,L,22,VEN,5,false,false,false,tackling,stamina
+Luis Casimiro Peña,FB,L,24,VEN,6,true,false,false,dribbling,pace
+Nelson Hernández,FB,R,34,VEN,5,false,false,false,pace,crossing
+Rommell Ibarra,MF,R,26,VEN,6,true,false,false,stamina,passing
+José Correa,MF,L,20,VEN,7,false,false,false,passing,finishing
+Cesar Da Silva,MF,R,22,VEN,1,false,false,false,dribbling,playmaking
+Carlos Faya,MF,R,24,VEN,5,true,false,false,tackling,passing
+Juan Perdomo,MF,L,25,VEN,6,true,false,false,tackling,passing
+Franco Cáceres,MF,R,26,ARG,7,true,false,false,stamina,passing
+Juan Castellanos,MF,R,30,VEN,2,false,false,false,finishing,passing
+Miguel González,MF,R,22,VEN,5,false,false,false,passing,playmaking
+Jesús Vargas,FW,R,26,VEN,5,true,false,false,heading,pace
+Manuel Sulbarán,FW,L,23,VEN,7,false,false,false,finishing,pace
+Yackson Rivas,FW,R,24,VEN,2,false,false,false,finishing,dribbling
+Rafael Arace,FW,R,31,VEN,5,false,false,false,heading,finishing
+Flabián Londoño,FW,R,26,COL,6,true,false,false,pace,heading
+Junior Paredes,FW,R,25,VEN,7,false,false,false,finishing,heading
+José Alí Meza,FW,R,35,VEN,2,false,false,false,playmaking,finishing
+Anthony Uribe,FW,R,35,VEN,5,false,false,false,finishing,stamina

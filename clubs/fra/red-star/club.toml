@@ -1,0 +1,13 @@
+name = "Red Star"
+country = "FRA"
+level = 11
+reputation = 2
+colors = ["#006040", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Mohafidh Benali"
+country = "BRA"

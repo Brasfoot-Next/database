@@ -1,0 +1,13 @@
+name = "Austin FC"
+country = "USA"
+level = 13
+reputation = 3
+colors = ["#000000", "#00A030"]
+
+[stadium]
+name = "Q2 Stadium"
+capacity = 20738
+
+[coach]
+name = "Nicolas Taylor"
+country = "BRA"

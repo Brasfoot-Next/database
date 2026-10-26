@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+José Arbio,GK,R,23,URU,6,false,false,false,penalty-saving,reflexes
+Damián Frascarelli,GK,L,28,URU,10,true,false,false,positioning,penalty-saving
+Facundo Pérez,CB,L,22,URU,5,true,false,false,tackling,stamina
+Brian Ferrares,CB,R,26,URU,6,false,false,false,marking,tackling
+Emilio Crespo,CB,R,29,URU,7,false,false,false,marking,heading
+Lorenzo González,CB,L,21,URU,1,false,false,false,marking,passing
+Carlos Rodríguez,CB,R,36,URU,5,true,false,false,heading,marking
+Maximiliano Perg,CB,R,34,URU,6,false,false,false,marking,tackling
+Lucas Camejo,FB,L,19,URU,7,false,false,false,marking,pace
+Rodrigo Cabrera,FB,R,21,URU,2,true,false,false,passing,pace
+Mathías Rodríguez,FB,R,29,URU,4,true,false,false,tackling,marking
+Mauricio Gómez,FB,R,34,URU,5,false,false,false,pace,tackling
+Francisco Triver,MF,R,20,URU,6,false,false,false,tackling,passing
+Matías De Los Santos,MF,R,27,URU,1,true,false,false,dribbling,playmaking
+Tomás López,MF,L,21,URU,5,false,false,false,dribbling,passing
+Felipe Chiappini,MF,L,22,URU,5,true,false,false,stamina,passing
+Alejandro García,MF,R,25,URU,6,true,false,false,dribbling,playmaking
+Santiago Romero,MF,L,36,URU,7,false,false,false,playmaking,finishing
+Bruno Téliz,MF,R,34,URU,3,false,false,false,stamina,passing
+Iván Rodríguez,MF,R,25,URU,5,true,false,false,pace,crossing
+Matías Escobar,MF,L,19,URU,4,false,false,false,pace,crossing
+Diego Sánchez,FW,R,24,URU,5,true,false,false,heading,pace
+Cristian Techera,FW,R,34,URU,6,false,false,false,pace,dribbling
+Gabriel Costa,FW,R,36,PER,7,false,false,false,pace,dribbling
+Maximiliano Burruzo,FW,L,23,URU,4,false,false,false,finishing,stamina
+Inti López,FW,R,20,ITA,5,false,false,false,finishing,stamina
+Vitinho,FW,R,24,BRA,6,true,false,false,pace,finishing
+Rodrigo Hernández,FW,L,21,URU,7,false,false,false,playmaking,finishing
+Diego Vera,FW,R,23,URU,1,false,false,false,heading,finishing
+Tomás Benardoni,FW,R,20,ARG,5,false,false,false,playmaking,finishing

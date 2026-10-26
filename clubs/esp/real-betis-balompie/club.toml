@@ -1,0 +1,13 @@
+name = "Real Betis Balompié"
+country = "ESP"
+level = 20
+reputation = 4
+colors = ["#F0F0F0", "#000000"]
+
+[stadium]
+name = "La Cartuja"
+capacity = 71374
+
+[coach]
+name = "Pablo Pérez"
+country = "BRA"

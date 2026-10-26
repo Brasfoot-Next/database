@@ -1,0 +1,13 @@
+name = "SC Heerenveen"
+country = "NED"
+level = 11
+reputation = 2
+colors = ["#004090", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Bernt Smans"
+country = "BRA"

@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Oliwier Zych,GK,R,22,POL,7,true,false,false,positioning,rushing-out
+Juan Castillo,GK,R,23,COL,10,false,false,false,reflexes,penalty-saving
+Charles,GK,R,32,BRA,5,false,false,false,reflexes,penalty-saving
+Gui,GK,R,20,POR,6,false,false,false,rushing-out,positioning
+Jota,GK,R,23,POR,7,false,false,false,rushing-out,positioning
+Óscar Rivas,CB,R,26,ESP,1,true,false,false,tackling,marking
+Thiago Balieiro,CB,R,23,BRA,5,true,false,false,tackling,marking
+Miguel Nóbrega,CB,R,26,POR,6,false,false,false,stamina,heading
+Rodrigo Abascal,CB,L,32,URU,7,false,false,false,tackling,marking
+Yeimar Mosquera,CB,R,21,COL,2,false,false,false,heading,tackling
+João Mendes,FB,L,26,POR,6,true,false,false,stamina,pace
+Orest Lebedenko,FB,L,27,UKR,7,false,false,false,stamina,tackling
+Francisco Dias,FB,L,23,POR,5,false,false,false,stamina,pace
+Tony Strata,FB,R,22,ROU,6,true,false,false,tackling,stamina
+Maga,FB,L,23,POR,7,false,false,false,crossing,pace
+Lohann Doucet,MF,R,23,BFA,7,false,false,false,dribbling,playmaking
+Rica Rocha,MF,R,23,POR,5,false,false,false,tackling,pace
+Beni Mukendi,MF,R,24,ANG,6,true,false,false,passing,playmaking
+Gonçalo Nogueira,MF,R,22,POR,7,true,false,false,passing,stamina
+Matija Mitrović,MF,R,21,SRB,4,true,false,false,passing,dribbling
+Marco Cruz,MF,R,22,POR,6,false,false,false,tackling,passing
+Samu,MF,R,30,POR,7,true,false,false,stamina,passing
+Oumar Camara,FW,R,19,FRA,4,true,false,false,pace,dribbling
+Fabio Blanco,FW,R,22,ESP,6,false,false,false,pace,dribbling
+Vando Félix,FW,R,24,GNB,6,false,false,false,pace,dribbling
+Gustavo Silva,FW,L,27,BRA,7,true,false,false,pace,finishing
+Telmo Arcanjo,FW,L,25,POR,4,false,false,false,pace,finishing
+Miguel Nogueira,FW,L,21,POR,6,false,false,false,playmaking,finishing
+Alioune Ndoye,FW,R,24,SEN,6,false,false,false,heading,finishing
+Dieu-Merci Michel,FW,R,22,CAN,6,false,false,false,playmaking,finishing

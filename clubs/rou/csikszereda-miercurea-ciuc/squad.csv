@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lorand Paszka,MF,L,30,HUN,7,true,false,false,pace,playmaking
+Anderson Ceará,FW,L,27,BRA,3,true,false,false,pace,dribbling
+Bence Vegh,MF,R,29,HUN,4,true,false,false,passing,pace
+Norbert Kajan,FB,R,21,HUN,5,true,false,false,stamina,pace
+Jozef Dolny,FW,R,34,SVK,6,false,false,false,stamina,pace
+Balint Szabo,FW,L,25,HUN,7,false,false,false,pace,playmaking
+Peter Gal Andrezly,FW,R,36,SVK,4,false,false,false,stamina,pace
+Szabolcs Szilagyi,MF,R,22,ROU,5,false,false,false,pace,stamina
+Ervin Bakos,MF,R,22,ROU,6,false,false,false,pace,stamina
+Janos Ferenczi,FW,L,35,HUN,8,false,false,false,pace,crossing
+Efraim Bodo,MF,R,19,ROU,1,true,false,false,pace,stamina
+Szilard Veres,MF,R,30,ROU,5,true,false,false,pace,passing
+Marton Eppel,FW,R,34,HUN,6,false,false,false,heading,finishing
+Attila Csuros,MF,R,31,ROU,7,false,false,false,passing,stamina
+Szabolcs Szalay,FW,L,24,HUN,2,true,false,false,stamina,pace
+Benjamin Babati,FW,L,30,HUN,5,false,false,false,pace,stamina
+Szabolcs Dusinszki,MF,R,21,HUN,6,false,false,false,pace,passing
+Soufiane Jebari,MF,R,31,ESP,7,false,false,false,pace,dribbling
+Janos Nagy,FB,R,34,ROU,2,true,false,false,pace,crossing
+Janos Hegedus,CB,R,29,HUN,5,true,false,false,tackling,stamina
+Erwin Bloj,FW,R,29,ROU,7,false,false,false,pace,playmaking
+Ramon Erdei,MF,R,18,ROU,4,false,false,false,pace,stamina
+Raul Palmes,CB,R,30,ROU,5,true,false,false,stamina,pace
+David Kelemen,CB,L,34,HUN,6,false,false,false,stamina,passing
+Maks Celic,CB,R,30,CRO,8,false,false,false,heading,stamina
+Alpar Gergely,FW,R,18,ROU,4,false,false,false,pace,stamina
+Mate Simon,GK,R,20,ROU,5,false,false,false,reflexes,penalty-saving
+Eduard Pap,GK,R,32,ROU,6,true,false,false,penalty-saving,reflexes
+Mark Karacsony,GK,L,23,ROU,10,false,false,false,reflexes,positioning

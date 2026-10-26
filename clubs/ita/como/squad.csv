@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lucas Da Cunha,MF,L,25,FRA,7,true,false,false,dribbling,tackling
+Maxence Caqueret,MF,R,26,FRA,8,false,false,false,tackling,passing
+Sergi Roberto,MF,R,34,ESP,4,false,false,false,passing,playmaking
+Martin Baturina,MF,R,23,CRO,6,true,false,false,dribbling,passing
+Alberto Moreno,FB,L,34,ESP,6,false,false,false,passing,stamina
+Nicolas Kuhn,FW,L,26,GER,8,false,false,false,pace,stamina
+Morata,FW,R,33,ESP,5,false,false,false,heading,finishing
+Álex Valle,FB,L,22,ESP,6,true,false,false,pace,stamina
+Mergim Vojvoda,FW,R,31,ITA,6,false,false,false,crossing,dribbling
+Nico Paz,MF,L,22,ARG,8,true,false,false,dribbling,passing
+Stefan Posch,FB,R,29,AUT,5,true,false,false,tackling,heading
+Maximo Perrone,MF,L,23,ARG,6,true,false,false,passing,playmaking
+Simone Verdi,MF,L,34,ITA,7,false,false,false,dribbling,passing
+Ivan Smolcic,FB,R,26,CRO,8,false,false,false,tackling,marking
+Assane Diao,FW,L,21,SEN,5,true,false,false,pace,finishing
+Ignace Van Der Brempt,FB,R,24,BEL,6,false,false,false,stamina,pace
+Diego Carlos,CB,R,33,BRA,7,false,false,false,tackling,marking
+Tasos Douvikas,FW,R,27,GRE,8,false,false,false,pace,stamina
+Jesús Rodríguez,FW,L,20,ESP,5,true,false,false,dribbling,pace
+Marc Oliver Kempf,CB,L,31,GER,6,false,false,false,stamina,tackling
+Alberto Dossena,CB,R,27,ITA,5,true,false,false,tackling,marking
+Jayden Addai,FW,L,21,NED,6,false,false,false,pace,dribbling
+Edoardo Goldaniga,CB,R,32,ITA,6,false,false,false,marking,tackling
+Jacobo Ramón,CB,R,21,ESP,7,true,false,false,heading,tackling
+Jean Butez,GK,R,31,FRA,2,true,false,false,reflexes,positioning
+Mauro Vigorito,GK,R,36,ITA,6,false,false,false,positioning,reflexes
+Nikola Cavlina,GK,R,24,CRO,6,false,false,false,reflexes,penalty-saving
+Henrique Menke,GK,R,19,BRA,8,false,false,false,reflexes,positioning

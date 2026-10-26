@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Abdulkadir Omur,MF,L,27,TUR,6,true,false,false,dribbling,pace
+Georgiy Dzhikiya,CB,L,32,RUS,7,true,false,false,marking,pace
+Kenneth Paal,FB,L,29,SUR,3,true,false,false,pace,stamina
+Dario Saric,MF,R,29,BIH,5,true,false,false,stamina,pace
+Sander Van De Streek,FW,R,33,NED,6,false,false,false,stamina,heading
+Soner Dikmen,MF,R,33,TUR,7,false,false,false,heading,stamina
+Tomas Cvancara,FW,R,26,CZE,3,true,false,false,pace,heading
+Yohan Boli,FW,R,32,CIV,5,false,false,false,heading,pace
+Nikola Storm,FW,L,31,BEL,6,false,false,false,dribbling,crossing
+Erdogan Yesilyurt,FB,R,32,TUR,7,false,false,false,stamina,pace
+Ramzi Safuri,MF,R,30,TUR,4,true,false,false,crossing,playmaking
+Bunyamin Balci,FB,R,26,TUR,5,false,false,false,stamina,pace
+Jesper Ceesay,MF,L,24,GAM,6,true,false,false,stamina,pace
+Dogukan Sinik,FW,L,27,TUR,7,false,false,false,pace,dribbling
+Veysel Sari,CB,R,38,TUR,4,false,false,false,stamina,heading
+Samuel Ballet,FW,R,25,SUI,6,true,false,false,pace,dribbling
+Lautaro Giannetti,CB,R,32,ARG,7,true,false,false,tackling,marking
+Huseyin Turkmen,CB,R,28,TUR,3,false,false,false,pace,tackling
+Samet Karakoc,FB,L,23,TUR,5,true,false,false,pace,tackling
+Poyraz Yildirim,FW,L,21,TUR,6,false,false,false,pace,finishing
+Efecan Gulerce,FB,L,24,TUR,3,false,false,false,tackling,dribbling
+Kerem Kayaarasi,FW,R,20,TUR,5,false,false,false,pace,heading
+Bahadir Ozturk,CB,R,30,TUR,6,false,false,false,stamina,tackling
+Julián Cuesta,GK,R,35,ESP,7,false,false,false,positioning,reflexes
+Ataberk Dadakdeniz,GK,R,27,TUR,3,false,false,false,positioning,reflexes
+Abdullah Yigiter,GK,R,26,TUR,5,true,false,false,reflexes,penalty-saving
+Kagan Arican,GK,R,20,TUR,1,false,false,false,penalty-saving,reflexes

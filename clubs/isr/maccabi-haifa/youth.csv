@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sharif Kaiuf,GK,R,18,ISR,5,true,false,false,penalty-saving,rushing-out
+Gai Herman,GK,L,19,ISR,7,true,false,false,positioning,reflexes
+Tamir Arbel,FB,R,17,ISR,5,true,false,false,crossing,tackling
+Ikouwem Utin,FB,L,19,NGA,2,true,false,false,pace,crossing
+Shalev Desta,FB,R,18,ISR,7,true,false,false,crossing,passing
+Assaf Sela,CB,L,19,ISR,9,true,false,false,stamina,marking
+Hanan Biton,CB,R,18,ISR,10,true,false,false,heading,tackling
+Ronny Laufer,CB,L,18,ISR,6,true,false,false,marking,heading
+Ibrahim Goabara,MF,R,18,ISR,3,true,false,false,dribbling,passing
+Mohamad Ghadir,MF,L,18,ISR,9,true,false,false,playmaking,dribbling
+Nevo Shedo,MF,R,16,ISR,2,true,false,false,marking,finishing
+Adar Azrual,MF,L,17,ISR,2,true,false,false,tackling,pace
+Liroy Gabay,FW,R,17,ISR,5,true,false,false,pace,dribbling
+Stav Nachmani,FW,L,16,ISR,10,true,false,false,finishing,heading
+Suf Podgoreanu,FW,R,17,ISR,3,true,false,false,finishing,passing

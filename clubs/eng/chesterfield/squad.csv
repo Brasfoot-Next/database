@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+John Fleck,MF,L,35,SCO,5,false,false,false,crossing,passing
+Tom Naylor,MF,R,35,ENG,6,false,false,false,stamina,pace
+Ryan Stirk,MF,L,25,WAL,7,true,false,false,stamina,pace
+Liam Mandeville,FW,R,29,ENG,3,true,false,false,stamina,pace
+Armando Dobra,MF,R,25,ALB,5,true,false,false,pace,stamina
+Matt Dibley Dias,MF,R,22,NZL,6,true,false,false,pace,dribbling
+Ronan Darcy,MF,R,25,ENG,7,true,false,false,stamina,pace
+James Berry,FW,L,25,ENG,3,false,false,false,pace,stamina
+Adam Lewis,FB,L,26,ENG,5,true,false,false,stamina,pace
+Lewis Gordon,FB,L,25,SCO,6,true,false,false,pace,stamina
+Dilan Markanday,FW,L,25,ENG,5,false,false,false,pace,dribbling
+Dylan Duffy,FW,L,23,IRL,6,false,false,false,pace,stamina
+Will Grigg,FW,R,35,NIR,7,false,false,false,finishing,heading
+Luke Butterfield,MF,R,22,SCO,2,false,false,false,pace,passing
+Lee Bonis,FW,R,27,NIR,5,true,false,false,pace,stamina
+Devan Tanton,FB,R,22,COL,6,false,false,false,stamina,pace
+Vontae Daley Campbell,FB,R,25,ENG,6,false,false,false,stamina,pace
+Chey Dunkley,CB,R,34,ENG,7,true,false,false,stamina,heading
+Ryheem Sheckleford,FB,R,29,ENG,3,false,false,false,pace,stamina
+Connor Cook,MF,R,21,ENG,5,false,false,false,pace,stamina
+Will Dickson,FW,R,21,ENG,7,false,false,false,finishing,pace
+Jamie Grimes,CB,L,35,ENG,2,true,false,false,stamina,heading
+Kyle Mcfadzean,CB,L,39,ENG,5,false,false,false,heading,marking
+Gunner Elliott,FW,R,18,MLT,6,false,false,false,pace,stamina
+Ryan Boot,GK,R,31,ENG,7,false,false,false,penalty-saving,positioning
+Zach Hemming,GK,R,26,ENG,3,true,false,false,penalty-saving,positioning
+Ashton Rinaldo,GK,R,20,AUS,5,false,false,false,penalty-saving,reflexes

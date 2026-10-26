@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kostadin Zahov,GK,L,34,MKD,8,true,false,false,reflexes,positioning
+Ferat Ramani,GK,R,27,MKD,4,false,false,false,rushing-out,penalty-saving
+Astrit Amzai,GK,L,20,MKD,8,false,false,false,penalty-saving,reflexes
+Medzit Neziri,FB,R,31,MKD,6,true,false,false,marking,finishing
+Mihail Manevski,FB,L,23,MKD,6,false,false,false,marking,passing
+Mevlan Murati,FB,L,28,MKD,6,true,false,false,marking,pace
+Jan Vondra,FB,R,26,CZE,10,false,false,false,finishing,pace
+Egzon Bejtulai,CB,L,28,MKD,6,true,false,false,tackling,stamina
+Klisman Cake,CB,R,23,ALB,2,true,false,false,tackling,heading
+Leard Sadriu,CB,R,21,KVX,8,false,false,false,heading,stamina
+Reshat Ramadani,CB,L,19,MKD,4,false,false,false,tackling,marking
+Bruno Dita,MF,L,29,ALB,8,true,false,false,marking,finishing
+Florent Ramadani,MF,R,21,MKD,8,true,false,false,tackling,pace
+Ferhan Hasani,MF,L,32,MKD,2,true,false,false,playmaking,finishing
+Sabit Bilali,MF,R,24,MKD,4,true,false,false,tackling,marking
+Sidrit Guri,MF,L,28,ALB,2,true,false,false,tackling,passing
+Vlatko Stojanovski,MF,L,25,MKD,6,true,false,false,playmaking,finishing
+Vagner Gonçalves,MF,R,26,BRA,10,false,false,false,finishing,passing
+Zani Nazifi,MF,R,17,MKD,9,true,false,false,passing,finishing
+Ljupco Doriev,FW,L,26,MKD,8,true,false,false,pace,finishing
+Valmir Nafiu,FW,R,28,MKD,10,false,false,false,heading,pace
+Dashmir Elezi,FW,L,17,MKD,2,false,false,false,pace,finishing
+Adenis Shala,FW,R,23,KVX,3,true,false,false,crossing,pace

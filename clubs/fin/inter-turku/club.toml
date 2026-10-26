@@ -1,0 +1,13 @@
+name = "Inter Turku"
+country = "FIN"
+level = 15
+reputation = 2
+colors = ["#0099ff", "#000000"]
+
+[stadium]
+name = "Veritas Stadion"
+capacity = 9000
+
+[coach]
+name = "Miguel Grau"
+country = "ESP"

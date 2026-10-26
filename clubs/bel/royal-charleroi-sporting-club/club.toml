@@ -1,0 +1,13 @@
+name = "Royal Charleroi Sporting Club"
+country = "BEL"
+level = 12
+reputation = 2
+colors = ["#000000", "#F0F0F0"]
+
+[stadium]
+name = "Stade du Pays de Charleroi"
+capacity = 14968
+
+[coach]
+name = "Antoine Gaudin"
+country = "BRA"

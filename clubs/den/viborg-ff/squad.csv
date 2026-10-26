@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mees Hoedemakers,MF,L,28,NED,5,true,false,false,stamina,passing
+Jean Manuel Mbom,FB,R,26,GER,6,true,false,false,stamina,pace
+Daniel Anyembe,FB,L,28,KEN,6,true,false,false,pace,stamina
+Oliver Bundgaard,FB,L,25,DEN,7,false,false,false,pace,stamina
+Bilal Brahimi,MF,L,26,FRA,3,true,false,false,pace,dribbling
+Thomas Jorgensen,MF,L,20,DEN,5,false,false,false,stamina,passing
+Srdan Kuzmic,FB,R,22,SVN,6,false,false,false,pace,crossing
+Asker Beck,MF,L,23,DEN,7,true,false,false,passing,pace
+Sami Jalal Karchoud,FW,L,22,DEN,4,false,false,false,pace,stamina
+Jakob Vester,MF,R,21,DEN,5,true,false,false,pace,finishing
+Jeppe Gronning,MF,R,35,DEN,7,false,false,false,stamina,marking
+Mads Sondergaard,MF,R,23,DEN,3,false,false,false,passing,dribbling
+Hjalte Bidstrup,FB,R,20,DEN,5,false,false,false,pace,dribbling
+Frederik Damkjer,MF,R,19,DEN,6,false,false,false,passing,tackling
+Dorian Junior,FW,R,25,DEN,7,false,false,false,pace,heading
+Tim Freriks,FW,R,27,NED,3,true,false,false,pace,finishing
+Mikkel Londal,FB,R,20,DEN,5,false,false,false,pace,tackling
+Yonis Njoh,FW,R,22,FRA,6,false,false,false,pace,dribbling
+Stipe Radic,CB,R,26,CRO,7,true,false,false,heading,tackling
+Ž. Zaletel,CB,L,26,SVN,3,false,false,false,tackling,heading
+Charly Nouck,FW,R,22,DEN,5,true,false,false,pace,dribbling
+Lukas Kirkegaard,CB,R,21,DEN,6,true,false,false,tackling,marking
+Lucas Lund,GK,R,26,DEN,7,true,false,false,reflexes,positioning
+Filip Dukic,GK,R,27,MNE,3,false,false,false,reflexes,penalty-saving

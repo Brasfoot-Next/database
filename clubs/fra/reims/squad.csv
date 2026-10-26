@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Teddy Teuma,MF,L,32,MLT,6,true,false,false,crossing,passing
+Keito Nakamura,FW,L,26,JPN,8,true,false,false,stamina,dribbling
+Theo Leoni,MF,L,26,BEL,4,true,false,false,passing,stamina
+Yohan Demoncy,MF,R,30,FRA,5,false,false,false,stamina,passing
+Akieme,FB,L,28,ESP,6,true,false,false,pace,stamina
+Antoine Leautey,FW,R,30,FRA,8,false,false,false,stamina,pace
+Mohamed Daramy,FW,R,24,DEN,5,true,false,false,pace,dribbling
+Yaya Fofana,MF,R,22,CIV,6,false,false,false,dribbling,passing
+Joseph Okumu,CB,R,29,KEN,7,true,false,false,pace,heading
+Maxime Busi,FB,R,26,BEL,4,false,false,false,stamina,heading
+John Patrick,MF,R,22,IRL,7,true,false,false,stamina,pace
+Norman Bassette,FW,L,21,BEL,2,false,false,false,pace,stamina
+Nicolas Pallois,CB,L,38,FRA,5,true,false,false,marking,heading
+Mory Gbane,MF,L,25,CIV,6,true,false,false,stamina,tackling
+Hiroki Sekine,FB,R,24,JPN,7,false,false,false,stamina,tackling
+Amine Salama,FW,R,26,FRA,3,false,false,false,pace,dribbling
+Ange Martial Tia,MF,R,19,MLI,5,false,false,false,pace,passing
+Abdoul Kone,FB,R,21,FRA,6,true,false,false,tackling,heading
+Patrick Zabi,MF,R,19,CIV,7,false,false,false,pace,dribbling
+Vincent Burlet,FB,L,20,BEL,3,false,false,false,crossing,tackling
+Adama Bojang,FW,R,22,GAM,6,false,false,false,pace,heading
+Thiemoko Diarra,FW,L,23,MLI,1,false,false,false,pace,finishing
+Hafiz Umar Ibrahim,FW,L,20,NGA,4,false,false,false,pace,heading
+Elie Ntamon,CB,R,22,CIV,5,false,false,false,tackling,heading
+Ikechukwu Orazi,FW,L,19,IRL,7,false,false,false,pace,dribbling
+Alexandre Olliero,GK,R,30,FRA,1,true,false,false,reflexes,penalty-saving
+Ewen Jaouen,GK,R,20,FRA,5,false,false,false,penalty-saving,reflexes
+Soumaila Sylla,GK,R,22,FRA,6,false,false,false,penalty-saving,reflexes

@@ -1,0 +1,40 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Pape Dieng,GK,R,31,SEN,5,true,false,false,penalty-saving,reflexes
+Gorgui Diop,GK,R,20,SEN,6,false,false,false,positioning,rushing-out
+Ibrahima Fall Diakhaté,GK,R,31,SEN,7,false,false,false,penalty-saving,reflexes
+Alassane Ly,CB,R,22,SEN,2,true,false,false,marking,stamina
+Moustapha Guèye,CB,R,22,SEN,5,true,false,false,tackling,heading
+Mamadou Diouf,CB,R,20,SEN,6,false,false,false,marking,stamina
+Sydi Loum,CB,R,20,SEN,7,false,false,false,marking,passing
+Sidy Sow,CB,R,19,SEN,2,false,false,false,marking,stamina
+Pa Diouf,FB,L,21,SEN,5,true,false,false,tackling,pace
+Mbaye Ndiaye,FB,L,22,SEN,6,true,false,false,pace,stamina
+Balla Ba,FB,R,18,SEN,6,false,false,false,crossing,pace
+Alfred Gomis,FB,L,18,SEN,8,false,false,false,tackling,stamina
+Raphaël Ndong,MF,R,18,SEN,4,false,false,false,playmaking,finishing
+Souleymane Dieng,MF,R,22,SEN,5,true,false,false,tackling,passing
+Ousmane Ba,MF,R,25,SEN,6,true,false,false,passing,tackling
+Dame Diop,MF,R,19,SEN,4,false,false,false,playmaking,dribbling
+Pape Thiam,MF,R,20,SEN,5,false,false,false,finishing,passing
+Ousmane Thiombane,MF,R,22,SEN,6,false,false,false,dribbling,playmaking
+Elimane Cissé,MF,R,31,SEN,7,true,false,false,playmaking,passing
+Pape Seck,MF,R,19,SEN,4,false,false,false,playmaking,finishing
+Abdoulie Kah,MF,R,23,SEN,6,true,false,false,playmaking,finishing
+Mame Diaw,MF,L,20,SEN,7,false,false,false,tackling,passing
+Maguette Diop,FW,R,21,SEN,4,false,false,false,pace,finishing
+Khalifa Diop,FW,L,18,SEN,5,false,false,false,finishing,pace
+Pape Gaye,FW,R,21,SEN,6,false,false,false,playmaking,finishing
+Nfally Sagna,FW,L,25,SEN,7,false,false,false,finishing,heading
+Ebrima Seckan,FW,R,18,SEN,5,false,false,false,dribbling,pace
+Ousseynou Ndiaye,FW,L,33,SEN,6,false,false,false,heading,pace
+Kabiro Joof,FW,R,26,SEN,7,true,false,false,crossing,pace
+Mamadou Danfa,FW,R,25,SEN,3,false,false,false,crossing,pace
+Jean Gomis,FW,R,20,SEN,6,false,false,false,pace,finishing
+Mouhamed Diouf,FW,R,20,SEN,7,false,false,false,pace,dribbling
+Abdoul Aziz Cissé,FW,R,25,SEN,2,false,false,false,pace,dribbling
+Adama Diarra,FW,L,18,SEN,5,false,false,false,dribbling,finishing
+Mechini Gomis,FW,R,24,SEN,6,false,false,false,dribbling,playmaking
+Abdoulie Bah,FW,R,28,SEN,7,false,false,false,crossing,pace
+Ousmane Camara,FW,R,26,SEN,2,true,false,false,playmaking,finishing
+Sidy Ndiaye,FW,L,20,SEN,3,false,false,false,finishing,dribbling
+Djiby Niang,FW,L,21,SEN,5,false,false,false,heading,finishing

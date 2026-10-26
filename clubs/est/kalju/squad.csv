@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Marko Meerits,GK,R,30,EST,1,true,false,false,positioning,penalty-saving
+Sergei Lepmets,GK,L,35,EST,6,false,false,false,positioning,rushing-out
+Henri Perk,GK,R,22,EST,2,false,false,false,penalty-saving,reflexes
+Trevor Elhi,FB,L,29,EST,4,true,false,false,crossing,marking
+Henri Järvelaid,FB,R,23,EST,3,true,false,false,marking,finishing
+Vladimir Avilov,CB,L,27,EST,2,false,false,false,tackling,heading
+Yohan Mannone,CB,L,27,FRA,2,true,false,false,tackling,stamina
+Tsivelekidis,CB,R,23,GRE,1,true,false,false,marking,pace
+Artur Sarnin,CB,R,22,EST,2,false,false,false,heading,stamina
+Kristjan Rattasepp,MF,R,20,EST,3,false,false,false,stamina,tackling
+Tsombaljuk,MF,L,19,EST,10,false,false,false,playmaking,passing
+Igor Subbotin,MF,R,32,EST,9,true,false,false,marking,pace
+Dre Fortune,MF,R,26,TRI,5,false,false,false,finishing,passing
+Mikhail Babichev,MF,L,27,BLR,6,true,false,false,marking,pace
+German Slein,MF,L,26,EST,10,true,false,false,tackling,heading
+Nikita Komissarov,MF,R,22,EST,7,true,false,false,tackling,marking
+Kaspar Paur,FW,R,27,EST,2,true,false,false,pace,finishing
+Alex Tamm,FW,L,21,EST,10,true,false,false,dribbling,finishing
+Pavel Marin,FW,L,27,EST,5,false,false,false,finishing,pace
+Aleksandr Volkov,FW,R,27,EST,6,false,false,false,finishing,pace

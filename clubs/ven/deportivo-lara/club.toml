@@ -1,0 +1,13 @@
+name = "Deportivo Lara"
+country = "VEN"
+level = 7
+reputation = 1
+colors = ["#F00000", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Adriangel Lucena"
+country = "BRA"

@@ -1,0 +1,13 @@
+name = "Blackpool FC"
+country = "ENG"
+level = 11
+reputation = 2
+colors = ["#202020", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Danny Bloxham"
+country = "BRA"

@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Javier Bravo,GK,R,22,VEN,3,true,false,false,positioning,rushing-out
+Elijah Pacheco,CB,R,21,VEN,5,false,false,false,marking,heading
+Ricardo Morillo,CB,R,25,VEN,6,true,false,false,marking,passing
+Ángel Peñaranda,CB,R,20,VEN,7,false,false,false,marking,tackling
+Maiker Rivas,CB,L,27,VEN,4,true,false,false,heading,stamina
+Alberto Acevedo,CB,L,25,VEN,5,false,false,false,passing,marking
+Diosner Pacheco,FB,L,20,VEN,6,true,false,false,tackling,pace
+César González,FB,R,22,VEN,7,true,false,false,pace,tackling
+Santiago Lejarazo,FB,L,19,VEN,4,false,false,false,stamina,pace
+José Pinto,MF,R,29,VEN,5,true,false,false,dribbling,passing
+Carlos Barreto,MF,L,25,VEN,7,true,false,false,passing,tackling
+Gianfabrizio Gonzalez,MF,L,17,VEN,3,false,false,false,playmaking,finishing
+Emilxon Rodriguez,MF,L,19,VEN,5,false,false,false,finishing,passing
+José Useche,MF,R,22,VEN,6,false,false,false,playmaking,finishing
+Luis El Khuffash,MF,R,23,VEN,7,true,false,false,playmaking,passing
+Juan Palma,MF,R,17,VEN,5,false,false,false,tackling,passing
+Tomás Zamora,MF,L,26,VEN,6,true,false,false,pace,crossing
+Ronald González,MF,R,23,VEN,7,false,false,false,dribbling,passing
+Santiago Alegria,MF,L,17,VEN,2,false,false,false,playmaking,passing
+Maikel Guevara,MF,R,19,VEN,5,false,false,false,tackling,marking
+Diosmer Pacheco,FW,R,20,VEN,7,false,false,false,dribbling,pace
+Jesús Figueroa,FW,R,22,VEN,1,true,false,false,playmaking,finishing
+Carlos Espinoza,FW,L,24,VEN,5,false,false,false,dribbling,finishing
+Jeremi Machado,FW,L,21,VEN,6,false,false,false,dribbling,playmaking
+Juan Mendez,FW,R,19,VEN,7,false,false,false,finishing,dribbling
+Gabriel Monjes,FW,L,21,VEN,1,false,false,false,finishing,stamina
+Alí Haiek,FW,L,25,VEN,5,true,false,false,finishing,dribbling

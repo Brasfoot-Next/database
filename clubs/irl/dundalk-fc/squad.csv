@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Conor Kearns,GK,R,28,IRL,5,true,false,false,reflexes,positioning
+Enda Minogue,GK,R,24,IRL,6,false,false,false,positioning,penalty-saving
+Peter Cherrie,GK,R,33,SCO,7,false,false,false,rushing-out,positioning
+Leo Stritter,GK,R,23,GER,4,false,false,false,positioning,rushing-out
+Samuel Safaei,GK,L,21,IRL,5,false,false,false,reflexes,positioning
+Mayowa Animasahun,CB,L,22,IRL,6,true,false,false,tackling,stamina
+Harvey Warren,CB,R,22,IRL,7,false,false,false,marking,heading
+Rob Cornwall,CB,L,31,IRL,4,true,false,false,tackling,heading
+Egor Vassenin,CB,L,18,IRL,5,false,false,false,pace,stamina
+Tyreke Wilson,FB,L,26,IRL,6,true,false,false,pace,stamina
+Bobby Burns,FB,L,26,NIR,6,false,false,false,stamina,pace
+Trevor Clarke,FB,L,28,IRL,10,false,false,false,pace,crossing
+John Ross Wilson,FB,L,27,IRL,5,true,false,false,marking,pace
+Conor O'Keeffe,FB,L,32,IRL,6,false,false,false,crossing,pace
+Luke Mulligan,FB,L,18,IRL,7,false,false,false,passing,pace
+Ethan Hall,FB,L,20,IRL,1,false,false,false,tackling,pace
+Shay Casey,MF,L,18,IRL,5,false,false,false,pace,dribbling
+Aodh Dervin,MF,R,26,IRL,6,true,false,false,playmaking,dribbling
+Harry Groome,MF,R,24,IRL,8,true,false,false,tackling,passing
+Shane Tracey,MF,R,20,IRL,4,false,false,false,finishing,playmaking
+Keith Buckley,MF,R,34,IRL,6,false,false,false,tackling,playmaking
+Cian Spaight,MF,R,19,IRL,7,false,false,false,stamina,passing
+Aaron Keogh,MF,R,18,IRL,4,false,false,false,stamina,passing
+Declan McDaid,MF,L,30,SCO,5,true,false,false,pace,crossing
+Daryl Horgan,MF,L,33,IRL,6,false,false,false,pace,crossing
+Conall Alfred,MF,L,25,IRL,7,true,false,false,pace,crossing
+Ronan Teahan,MF,L,21,IRL,4,false,false,false,passing,stamina
+Norman Garbett,FW,R,22,NZL,4,false,false,false,heading,stamina
+TJ Molloy,FW,R,17,IRL,5,false,false,false,finishing,dribbling
+Gbemi Arubi,FW,R,22,IRL,6,false,false,false,pace,crossing
+Danny Mullen,FW,R,31,SCO,4,true,false,false,pace,dribbling
+Leo Gaxha,FW,R,23,ALB,5,true,false,false,playmaking,finishing
+Max Ferguson,FW,L,18,IRL,6,false,false,false,dribbling,pace
+Shaun Platt,FW,R,17,IRL,7,false,false,false,finishing,dribbling

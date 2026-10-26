@@ -1,0 +1,13 @@
+name = "Resistencia Sport Club"
+country = "PAR"
+level = 7
+reputation = 1
+colors = ["#0070C0", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Gonzalo Torales"
+country = "BRA"

@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Thomas Riveros,GK,R,24,VEN,2,true,false,false,positioning,reflexes
+Eduardo Lima,GK,R,33,VEN,5,false,false,false,reflexes,rushing-out
+Marcos Maitán,CB,R,18,VEN,6,true,false,false,heading,tackling
+Yulwuis Pérez,CB,R,20,VEN,7,true,false,false,tackling,marking
+Ricardo Rincones,FB,R,17,VEN,3,true,false,false,crossing,passing
+Dioner Fuentes,FB,L,18,VEN,5,true,false,false,tackling,stamina
+Elvis Perlaza,FB,R,37,COL,6,false,false,false,pace,crossing
+Felipe Jaramillo,MF,R,30,COL,7,true,false,false,passing,stamina
+Jeferson Caraballo,MF,L,24,VEN,3,true,false,false,passing,playmaking
+Santiago Natera,MF,R,20,VEN,5,false,false,false,dribbling,playmaking
+Jean Colorado,MF,R,25,COL,6,true,false,false,dribbling,pace
+John Mancilla,MF,L,17,VEN,7,false,false,false,passing,playmaking
+Jesús Paz,MF,L,25,VEN,10,true,false,false,pace,crossing
+Henrry Díaz,MF,R,18,VEN,5,false,false,false,stamina,tackling
+Saul Herrera,MF,R,18,VEN,5,false,false,false,passing,playmaking
+Saúl Asibe,MF,R,21,VEN,6,false,false,false,stamina,tackling
+Édgar Carrión,FW,R,25,VEN,1,true,false,false,crossing,pace
+Dhylan Castillo,FW,R,23,VEN,5,false,false,false,playmaking,finishing
+Cristian Ramírez,FW,R,22,VEN,6,true,false,false,playmaking,finishing
+Leandro Rodríguez,FW,R,21,VEN,7,false,false,false,pace,dribbling
+Ronald José Rodríguez,FW,R,21,VEN,6,false,false,false,crossing,pace
+Fernando Basante,FW,R,22,VEN,7,false,false,false,pace,finishing
+Antonio Romero,FW,L,29,VEN,2,false,false,false,pace,crossing
+Edder Farías,FW,R,38,VEN,4,false,false,false,dribbling,finishing

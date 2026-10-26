@@ -1,0 +1,13 @@
+name = "Al Taawoun FC"
+country = "KSA"
+level = 14
+reputation = 3
+colors = ["#003060", "#FFFFFF"]
+
+[stadium]
+name = "Al-Taawoun Club Stadium"
+capacity = 5961
+
+[coach]
+name = "Basim Attiah"
+country = "BRA"

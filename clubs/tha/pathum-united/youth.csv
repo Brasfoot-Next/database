@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Napat Thamrongsupakorn,GK,R,17,THA,5,true,false,false,penalty-saving,rushing-out
+Fahas Bilanglod,GK,L,20,THA,7,true,false,false,positioning,reflexes
+Tadpol Pongsanam,FB,R,17,THA,5,true,false,false,crossing,tackling
+Kamalakorn Srisati,FB,L,16,THA,2,true,false,false,pace,crossing
+Nonthawat Chinma,FB,R,18,THA,7,true,false,false,crossing,passing
+Athit Wisetsilp,CB,L,19,THA,9,true,false,false,stamina,marking
+Narong Willapana,CB,R,17,THA,10,true,false,false,heading,tackling
+Chalermchai Ratanarak,CB,L,18,THA,6,true,false,false,marking,heading
+Jakkapong Polmart,MF,R,19,THA,3,true,false,false,dribbling,passing
+Tulathorn Kunakorn,MF,L,16,THA,9,true,false,false,playmaking,dribbling
+Chanutr Phisitsak,MF,R,20,THA,2,true,false,false,marking,finishing
+Monyakul Hitapot,MF,L,16,THA,2,true,false,false,tackling,pace
+Kanasanan Pureesrisak,FW,R,19,THA,5,true,false,false,pace,dribbling
+Chompoo Leeyao,FW,L,18,THA,10,true,false,false,finishing,heading
+Pathanin Wi'lepana,FW,R,17,THA,3,true,false,false,finishing,passing

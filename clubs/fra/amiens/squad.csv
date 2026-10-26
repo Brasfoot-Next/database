@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kylian Kaiboue,CB,L,28,FRA,2,true,false,false,stamina,pace
+Victor Lobry,MF,L,31,FRA,6,true,false,false,stamina,pace
+Thomas Monconduit,MF,L,35,FRA,7,false,false,false,stamina,passing
+Nordine Kandil,FW,L,24,MAR,1,true,false,false,stamina,pace
+Jan Mlakar,FW,R,27,SVN,5,true,false,false,pace,stamina
+Joseph Nduquidi,MF,R,21,ANG,6,false,false,false,pace,dribbling
+Rayan Lutin,FW,L,23,FRA,7,false,false,false,dribbling,pace
+Ibrahim Fofana,MF,R,22,CIV,1,true,false,false,passing,stamina
+Arvin Appiah,FB,L,25,ENG,5,true,false,false,pace,stamina
+Ilyes Hamache,FW,L,23,FRA,6,false,false,false,pace,dribbling
+Mathis Touho,FW,L,21,FRA,6,false,false,false,pace,dribbling
+Josue Chibozo,MF,R,23,FRA,9,true,false,false,pace,dribbling
+Messy Manitu,FW,L,20,COD,4,false,false,false,pace,playmaking
+Yanis Rafii,FW,R,21,FRA,5,false,false,false,heading,passing
+Mactar Tine,MF,R,24,SEN,7,true,false,false,pace,dribbling
+Teddy Andami Averlant,FW,R,26,FRA,1,false,false,false,crossing,pace
+Coleen Louis,FB,L,21,FRA,4,true,false,false,marking,tackling
+Aboubacar Lo,CB,R,26,SEN,5,true,false,false,tackling,marking
+Yvan Ikia Dimi,FW,L,21,FRA,7,false,false,false,pace,dribbling
+Siaka Bakayoko,CB,R,21,FRA,1,false,false,false,tackling,marking
+Amine Chabane,FB,R,20,MAR,7,false,false,false,pace,tackling
+Carraro Injai,MF,R,20,FRA,7,false,false,false,pace,passing
+Nathan Talbot,FB,R,18,FRA,4,false,false,false,passing,pace
+Paul Bernardoni,GK,L,29,FRA,5,true,false,false,penalty-saving,positioning
+Alexis Sauvage,GK,R,34,FRA,6,false,false,false,penalty-saving,rushing-out
+Lou Alexandre,GK,R,20,FRA,7,false,false,false,positioning,penalty-saving

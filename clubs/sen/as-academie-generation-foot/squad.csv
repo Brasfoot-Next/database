@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Cheikh Gueye,GK,L,23,SEN,7,false,false,false,positioning,reflexes
+Macoura Mboup,GK,L,18,SEN,5,false,false,false,reflexes,penalty-saving
+Idrissa Ndiaye,GK,R,28,SEN,6,true,false,false,penalty-saving,reflexes
+Khalifa Ababacar Sarry,GK,L,25,SEN,7,false,false,false,reflexes,positioning
+Seydina Aliou Thiam,CB,R,21,SEN,3,true,false,false,marking,stamina
+Souley Gassama,CB,R,18,SEN,5,true,false,false,heading,stamina
+Mouhamed Faye,CB,R,17,SEN,6,false,false,false,heading,passing
+Mamadou Sané,FB,R,23,SEN,7,true,false,false,stamina,crossing
+Lamine Mbengue,FB,L,25,SEN,3,true,false,false,pace,crossing
+Isma Kouaté,FB,L,18,SEN,5,false,false,false,tackling,marking
+Alpha Mbengue,FB,L,18,SEN,6,false,false,false,crossing,passing
+Jorcilo Gomis,FB,R,20,SEN,7,false,false,false,tackling,pace
+Alassane Sy,MF,R,21,SEN,3,true,false,false,dribbling,playmaking
+Serigne Niane,MF,L,18,SEN,5,false,false,false,dribbling,playmaking
+Pape Badji,MF,R,22,SEN,6,true,false,false,dribbling,playmaking
+Sébastien Nogueira,MF,R,17,SEN,7,false,false,false,dribbling,pace
+Moussa Cissé,MF,L,17,SEN,4,true,false,false,stamina,tackling
+Mouhamed Ba,MF,R,25,SEN,5,true,false,false,passing,stamina
+Ibrahima Sow,MF,R,17,SEN,6,false,false,false,dribbling,passing
+Aly Sy,MF,R,19,SEN,7,false,false,false,passing,stamina
+Mouhamed Diao,MF,R,17,SEN,6,false,false,false,finishing,playmaking
+Pape Fall,FW,R,19,SEN,7,false,false,false,pace,crossing
+Urbain Boissy,FW,R,20,SEN,3,false,false,false,crossing,pace
+Mouhamed Dieng,FW,L,21,SEN,5,false,false,false,heading,stamina
+Sega Mbodji,FW,R,32,SEN,6,true,false,false,dribbling,finishing
+Kalfara Camara,FW,L,19,SEN,7,false,false,false,dribbling,playmaking
+Abdourahmane Mbodji,FW,L,18,SEN,3,false,false,false,dribbling,pace
+Amady Niamadio,FW,R,18,SEN,5,false,false,false,pace,crossing
+François Boubane,FW,R,25,SEN,6,true,false,false,heading,finishing
+Jean Gueye,FW,R,17,SEN,7,false,false,false,pace,crossing
+Dame Seck,FW,L,19,SEN,4,false,false,false,heading,stamina

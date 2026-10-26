@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Matheus Albino,GK,R,31,BRA,7,false,false,false,penalty-saving,reflexes
+Vitor Caetano,GK,L,27,BRA,1,true,false,false,positioning,reflexes
+Fábio Henrique,GK,R,23,BRA,5,false,false,false,rushing-out,positioning
+Henri,CB,R,24,BRA,5,false,false,false,heading,tackling
+Fábio Alemão,CB,R,29,BRA,6,true,false,false,heading,stamina
+Bressan,CB,R,33,BRA,7,true,false,false,marking,stamina
+Lyncon,CB,R,21,BRA,3,false,false,false,heading,tackling
+Lucas Lovat,FB,R,29,BRA,5,true,false,false,stamina,crossing
+Reverson,FB,R,29,BRA,6,false,false,false,crossing,pace
+Léo Campos,FB,R,34,BRA,7,false,false,false,pace,tackling
+Hereda,FB,L,27,BRA,6,false,false,false,passing,pace
+Kevin,FB,R,28,BRA,7,true,false,false,stamina,pace
+Patrick de Lucca,MF,R,26,BRA,4,true,false,false,stamina,passing
+Luizão,MF,R,28,BRA,5,true,false,false,playmaking,finishing
+Crystopher,MF,R,28,BRA,6,false,false,false,finishing,passing
+Geovane,MF,L,27,BRA,8,true,false,false,tackling,passing
+Pedro Castro,MF,L,33,BRA,4,false,false,false,stamina,passing
+Danielzinho,MF,L,30,BRA,5,true,false,false,passing,tackling
+Guilherme Estrella,MF,R,21,BRA,6,false,false,false,tackling,passing
+Guilherme Pato,FW,R,25,BRA,8,false,false,false,finishing,pace
+Thiaguinho,FW,R,25,BRA,6,false,false,false,finishing,heading
+Douglas Baggio,FW,R,31,BRA,7,false,false,false,heading,pace
+Dadá Belmonte,FW,R,29,BRA,3,false,false,false,finishing,dribbling
+Vinícius Barata,FW,L,27,BRA,5,true,false,false,crossing,pace
+Mikael,FW,R,27,BRA,6,false,false,false,heading,stamina
+Luiz Phellype,FW,R,32,BRA,7,true,false,false,pace,crossing
+João Neto,FW,R,23,BRA,3,false,false,false,pace,dribbling

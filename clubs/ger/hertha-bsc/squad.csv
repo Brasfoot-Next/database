@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Fabian Reese,FW,L,28,GER,6,false,false,false,stamina,pace
+Michael Cuisance,MF,L,27,FRA,7,true,false,false,stamina,dribbling
+Paul Seguin,MF,R,31,GER,2,false,false,false,stamina,playmaking
+Kevin Sessa,MF,R,26,GER,5,true,false,false,pace,stamina
+Bilal Hussein,MF,R,26,SWE,6,true,false,false,stamina,dribbling
+Dawid Kownacki,FW,R,29,POL,7,false,false,false,dribbling,finishing
+Diego Demme,MF,R,34,GER,2,false,false,false,passing,stamina
+Michal Karbownik,FB,L,25,POL,5,true,false,false,pace,stamina
+Jon Dagur Thorsteinsson,FW,L,27,ISL,6,true,false,false,pace,stamina
+Leon Jensen,MF,R,29,GER,7,false,false,false,stamina,passing
+Maurice Krattenmacher,MF,L,21,GER,6,true,false,false,stamina,dribbling
+Deyovaisio Zeefuik,FB,L,28,NED,6,true,false,false,pace,stamina
+Marton Dardai,CB,L,24,HUN,10,true,false,false,stamina,passing
+Julian Eitschberger,FB,R,22,GER,4,false,false,false,stamina,pace
+Sebastian Gronning,FW,R,29,DEN,5,false,false,false,heading,finishing
+Pascal Klemens,MF,R,21,GER,7,false,false,false,pace,stamina
+Marten Winkler,FW,L,23,GER,1,false,false,false,pace,dribbling
+Luca Schuler,FW,R,27,GER,4,true,false,false,pace,stamina
+Toni Leistner,CB,R,36,GER,6,false,false,false,tackling,heading
+Boris Mamuzah Lum,MF,R,18,GER,7,false,false,false,pace,dribbling
+John Brooks,CB,L,33,USA,4,false,false,false,heading,tackling
+Linus Gechter,CB,R,22,GER,5,false,false,false,heading,tackling
+Agustin Rogel,CB,R,28,URU,7,true,false,false,heading,tackling
+Dion Ajvazi,MF,R,22,ALB,4,false,false,false,passing,pace
+Niklas Kolbe,CB,L,29,GER,5,false,false,false,pace,stamina
+Tim Hoffmann,CB,L,21,GER,6,false,false,false,tackling,pace
+Marius Gersbeck,GK,L,31,GER,7,true,false,false,rushing-out,reflexes
+Konstantin Heide,GK,R,20,GER,4,false,false,false,reflexes,penalty-saving
+Tjark Ernst,GK,R,23,GER,5,false,false,false,penalty-saving,reflexes
+Tim Goller,GK,R,21,GER,6,false,false,false,positioning,penalty-saving

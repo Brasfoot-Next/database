@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Noam Baumann,GK,R,30,JPN,2,true,false,false,positioning,penalty-saving
+Daisuke Yoshimitsu,GK,R,33,JPN,5,false,false,false,rushing-out,positioning
+Shota Uchiyama,GK,L,19,JPN,6,false,false,false,positioning,penalty-saving
+Hiroto Matsuura,GK,R,17,JPN,7,false,false,false,reflexes,penalty-saving
+Yudai Fujiwara,CB,L,24,JPN,7,true,false,false,tackling,heading
+Fumiya Hayakawa,CB,R,32,JPN,4,false,false,false,tackling,pace
+Kodai Mori,CB,R,27,JPN,5,true,false,false,tackling,heading
+Michael James Fitzgerald,CB,L,37,JPN,6,false,false,false,tackling,heading
+Kakeru Funaki,FB,R,28,JPN,7,true,false,false,crossing,passing
+Tetsuya Kato,FB,R,30,JPN,4,false,false,false,stamina,crossing
+Mihiro Sato,FB,L,19,JPN,6,false,false,false,marking,crossing
+Soya Fujiwara,FB,R,30,JPN,7,false,false,false,passing,pace
+Jason Geria,FB,R,33,AUS,2,true,false,false,marking,pace
+Riita Mori,FB,R,24,JPN,5,false,false,false,marking,crossing
+Toshiya Matsuoka,FB,R,18,JPN,6,false,false,false,passing,crossing
+Yusuke Onishi,MF,R,25,JPN,7,true,false,false,dribbling,pace
+Eiji Shirai,MF,R,30,JPN,2,false,false,false,tackling,passing
+Taiki Arai,MF,L,29,JPN,5,false,false,false,playmaking,finishing
+Yuji Hoshi,MF,R,33,JPN,6,false,false,false,finishing,passing
+Ryosuke Maeda,MF,R,28,JPN,7,true,false,false,finishing,passing
+Keisuke Kasai,MF,R,23,JPN,5,false,false,false,finishing,passing
+Aozora Ishiyama,MF,L,20,JPN,6,false,false,false,dribbling,passing
+Kazuyoshi Shimabuku,MF,L,26,JPN,8,true,false,false,pace,crossing
+Jin Okumura,MF,L,25,JPN,4,false,false,false,dribbling,passing
+Riku Ochiai,MF,L,27,JPN,5,true,false,false,finishing,passing
+Yushin Otake,MF,L,21,JPN,6,false,false,false,dribbling,playmaking
+Chihiro Konagaya,FW,R,24,JPN,9,false,false,false,pace,dribbling
+Matheus Moraes,FW,R,26,BRA,4,false,false,false,pace,crossing
+Danilo Gomes,FW,R,27,BRA,5,false,false,false,pace,finishing
+Yamato Wakatsuki,FW,R,24,JPN,6,false,false,false,finishing,pace
+Kanji Kuwayama,FW,R,23,JPN,5,true,false,false,dribbling,finishing
+Yuji Ono,FW,R,33,JPN,6,true,false,false,pace,crossing

@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Matías Córdova,GK,L,24,PER,4,false,false,false,reflexes,positioning
+José Charún,GK,R,29,PER,5,true,false,false,penalty-saving,reflexes
+Juan Cubas,GK,R,17,PER,6,false,false,false,penalty-saving,reflexes
+Piero Guzmán,CB,R,26,PER,10,true,false,false,tackling,marking
+Flavio Alcedo,CB,R,23,PER,4,false,false,false,tackling,pace
+Juan Rodríguez,CB,R,29,URU,5,true,false,false,passing,marking
+Miguel Hilario,CB,R,20,PER,6,false,false,false,tackling,stamina
+Daniel Lino,FB,L,24,BOL,7,true,false,false,marking,pace
+Alexis Cossio,FB,R,31,PER,2,false,false,false,pace,crossing
+Fabio Rojas,FB,L,26,PER,5,true,false,false,crossing,passing
+Agustín Rodríguez,MF,R,26,URU,6,true,false,false,stamina,tackling
+José Parodi,MF,R,28,PER,7,true,false,false,dribbling,playmaking
+Alexis Arias,MF,R,30,PER,4,true,false,false,stamina,marking
+Carlos Correa,MF,R,31,PER,5,false,false,false,dribbling,pace
+Thiago Salinas,MF,R,20,PER,6,false,false,false,playmaking,dribbling
+Rodrigo Vilca,MF,R,27,PER,8,true,false,false,pace,dribbling
+Óscar Pinto,FW,R,24,PER,4,false,false,false,heading,stamina
+Josuee Herrera,FW,L,27,PER,5,true,false,false,heading,stamina
+Mathías Carpio,FW,R,23,PER,7,false,false,false,dribbling,finishing
+Carlos Saavedra,FW,R,18,PER,9,false,false,false,finishing,dribbling
+Marco Guevara,FW,R,19,PER,6,false,false,false,dribbling,finishing
+Wilter Ayoví,FW,R,29,ECU,7,true,false,false,finishing,dribbling
+Fabrizzio Cubas,FW,L,18,PER,3,false,false,false,finishing,pace
+Matías Sen,FW,L,34,ARG,5,false,false,false,pace,dribbling
+Maximiliano Pérez,FW,R,31,URU,6,false,false,false,pace,crossing
+Jean Carlo Olivares,FW,R,23,PER,7,false,false,false,dribbling,playmaking

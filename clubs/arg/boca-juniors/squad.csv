@@ -1,0 +1,36 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Luis Advincula,FB,R,36,PER,6,false,false,false,pace,stamina
+Leandro Paredes,MF,L,32,ARG,7,true,false,false,passing,playmaking
+Ander Herrera,MF,R,37,ESP,4,false,false,false,marking,playmaking
+Malcom Braida,FW,L,29,ARG,6,false,false,false,stamina,pace
+Kevin Zenon,FW,L,25,ARG,6,true,false,false,stamina,pace
+Frank Fabra,FB,L,35,COL,7,false,false,false,pace,crossing
+Tomas Belmonte,MF,R,28,ARG,4,true,false,false,heading,stamina
+Rodrigo Battaglia,MF,R,35,ARG,6,false,false,false,stamina,tackling
+Edinson Cavani,FW,L,39,URU,7,false,false,false,heading,finishing
+Alan Velasco,FW,L,24,ARG,2,false,false,false,dribbling,pace
+Williams Alarcon,MF,R,25,CHI,5,false,false,false,stamina,tackling
+Lautaro Blanco,FB,L,27,ARG,6,true,false,false,crossing,stamina
+Agustin Martegani,MF,L,26,ARG,7,false,false,false,stamina,passing
+Lucas Janson,FW,L,32,ARG,10,false,false,false,pace,stamina
+Lucas Blondel,FB,R,29,SUI,5,false,false,false,stamina,pace
+Carlos Palacios,MF,R,26,CHI,6,true,false,false,pace,dribbling
+Miguel Angel Merentiel,FW,R,30,URU,7,false,false,false,stamina,pace
+Ignacio Miramon,MF,R,23,ARG,1,false,false,false,stamina,tackling
+Juan Barinaga,FB,R,25,ARG,5,false,false,false,stamina,tackling
+Ayrton Costa,FB,L,27,ARG,6,true,false,false,tackling,marking
+Nicolas Figal,CB,R,32,ARG,5,false,false,false,stamina,tackling
+Exequiel Zeballos,FW,R,24,ARG,6,true,false,false,pace,dribbling
+Milton Gimenez,FW,R,30,ARG,6,false,false,false,finishing,heading
+Cristian Lema,CB,R,36,ARG,8,false,false,false,heading,tackling
+Brian Aguirre,FW,L,23,ARG,5,false,false,false,dribbling,pace
+Camilo Rey Domenech,MF,R,20,ARG,6,false,false,false,passing,stamina
+Marco Pellegrino,CB,L,24,ARG,7,true,false,false,tackling,heading
+Milton Delgado,MF,R,21,ARG,8,true,false,false,stamina,tackling
+Lautaro Di Lollo,CB,R,22,ARG,5,true,false,false,stamina,heading
+Dylan Gorosito,FB,R,20,ARG,6,false,false,false,tackling,dribbling
+Agustin Marchesin,GK,R,38,ARG,4,false,false,false,reflexes,penalty-saving
+Mateo Mendia,CB,R,22,ARG,6,false,false,false,tackling,stamina
+Sergio Romero,GK,R,39,ARG,6,false,false,false,reflexes,penalty-saving
+Javier Garcia,GK,R,39,ARG,7,false,false,false,penalty-saving,reflexes
+Leandro Brey,GK,R,23,ARG,4,true,false,false,positioning,reflexes

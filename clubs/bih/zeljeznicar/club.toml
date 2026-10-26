@@ -1,0 +1,13 @@
+name = "Zeljeznicar"
+country = "BIH"
+level = 15
+reputation = 3
+colors = ["#003366", "#ffffff"]
+
+[stadium]
+name = "Grbavica"
+capacity = 16100
+
+[coach]
+name = "Edis Mulalic"
+country = "BIH"

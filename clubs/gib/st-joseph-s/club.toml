@@ -1,0 +1,13 @@
+name = "St Joseph's"
+country = "GIB"
+level = 12
+reputation = 2
+colors = ["#3333ff", "#ffffff"]
+
+[stadium]
+name = "St Joseph"
+capacity = 5000
+
+[coach]
+name = "Abraham Paz"
+country = "ESP"

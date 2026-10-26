@@ -1,0 +1,13 @@
+name = "Newcastle Jets"
+country = "AUS"
+level = 8
+reputation = 2
+colors = ["#003070", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Jordan Adams"
+country = "BRA"

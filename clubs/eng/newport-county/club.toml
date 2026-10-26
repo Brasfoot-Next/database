@@ -1,0 +1,13 @@
+name = "Newport County"
+country = "ENG"
+level = 6
+reputation = 1
+colors = ["#000000", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Tom Wright"
+country = "BRA"

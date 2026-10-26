@@ -1,0 +1,13 @@
+name = "Zrinjski"
+country = "BIH"
+level = 16
+reputation = 3
+colors = ["#ffffff", "#ff0000"]
+
+[stadium]
+name = "Bijelim Brijegom"
+capacity = 9000
+
+[coach]
+name = "Sergej Jakirovic"
+country = "BIH"

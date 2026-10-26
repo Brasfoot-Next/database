@@ -1,0 +1,13 @@
+name = "Progrès Niedercorn"
+country = "LUX"
+level = 14
+reputation = 2
+colors = ["#000000", "#ffff33"]
+
+[stadium]
+name = "Jos Haupert"
+capacity = 2800
+
+[coach]
+name = "Jeff Strasser"
+country = "LUX"

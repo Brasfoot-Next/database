@@ -1,0 +1,13 @@
+name = "Al-Merrikh"
+country = "SDN"
+level = 15
+reputation = 3
+colors = ["#b00000", "#ffffff"]
+
+[stadium]
+name = "Al-Merrikh Stadium"
+capacity = 43645
+
+[coach]
+name = "Ghazi Ghrairi"
+country = "TUN"

@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Filipe Augusto,MF,L,33,BRA,6,true,false,false,stamina,dribbling
+Elvis Saric,MF,L,36,BIH,7,false,false,false,stamina,passing
+Didier Lamkel Ze,FW,R,29,CMR,4,true,false,false,pace,stamina
+Wellington Silva,FW,L,33,BRA,5,false,false,false,pace,stamina
+Lin Chuangyi,MF,R,33,CHN,6,true,false,false,stamina,pace
+Luo Senwen,MF,R,33,CHN,7,true,false,false,stamina,pace
+Liu Junshuai,CB,L,31,CHN,4,true,false,false,stamina,pace
+Che Shiwei,FW,L,29,CHN,5,true,false,false,pace,stamina
+Song Long,FB,L,37,CHN,6,false,false,false,stamina,heading
+Chen Chunxin,FB,R,28,CHN,7,true,false,false,pace,stamina
+Nikola Radmanovac,CB,R,29,SRB,3,true,false,false,stamina,heading
+Zheng Long,FW,L,38,CHN,5,false,false,false,playmaking,crossing
+Jin Yonghao,FW,L,23,CHN,6,false,false,false,pace,stamina
+Zhang Chi,FB,R,39,CHN,7,false,false,false,marking,passing
+Song Wenjie,FW,R,35,CHN,4,false,false,false,stamina,dribbling
+Jia Feifan,MF,R,25,CHN,5,true,false,false,pace,stamina
+Li Hailong,FB,R,30,CHN,6,true,false,false,pace,stamina
+Wong Ho Chun,FW,R,24,CHN,6,false,false,false,pace,stamina
+Xiao Kun,CB,R,31,CHN,10,false,false,false,stamina,passing
+Feng Boyuan,FW,R,31,CHN,4,false,false,false,heading,finishing
+Zheng Chuanhui,MF,R,19,CHN,2,false,false,false,stamina,pace
+Jin Yangyang,CB,R,33,CHN,5,false,false,false,stamina,heading
+Wei Suowei,FB,R,21,CHN,6,false,false,false,pace,stamina
+Mijit Mewlan,FW,R,22,CHN,7,false,false,false,pace,finishing
+Yang Cong,FW,R,21,CHN,2,false,false,false,pace,dribbling
+Sun Zheng'ao,CB,R,32,CHN,5,false,false,false,heading,tackling
+Liu Jiashen,CB,R,34,CHN,6,false,false,false,stamina,tackling
+Sha Yibo,CB,R,36,CHN,7,false,false,false,tackling,marking
+Qiao Junxi,CB,R,22,CHN,7,false,false,false,pace,stamina
+Han Rongze,GK,L,33,CHN,4,true,false,false,positioning,rushing-out
+Mu Pengfei,GK,R,37,CHN,7,false,false,false,reflexes,penalty-saving
+Liu Jun,GK,R,36,CHN,4,false,false,false,rushing-out,positioning
+Wang Kuan,GK,R,20,CHN,5,false,false,false,reflexes,penalty-saving

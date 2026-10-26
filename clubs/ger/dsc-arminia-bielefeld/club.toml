@@ -1,0 +1,13 @@
+name = "DSC Arminia Bielefeld"
+country = "GER"
+level = 11
+reputation = 2
+colors = ["#F0F0F0", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Christopher Hagmann"
+country = "BRA"

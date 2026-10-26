@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Casper Nielsen,MF,R,32,DEN,7,true,false,false,stamina,passing
+Mo El Hankouri,FW,L,29,MAR,4,false,false,false,dribbling,playmaking
+Tobias Mohr,FW,L,31,GER,5,false,false,false,pace,stamina
+Marco Ilaimaharitra,MF,L,31,BEL,6,false,false,false,stamina,marking
+Marlon Fossey,FB,R,27,USA,3,true,false,false,pace,stamina
+Boli Bolingoli,FB,L,31,BEL,5,false,false,false,pace,stamina
+Leandre Kuavita,MF,L,22,BEL,6,false,false,false,stamina,passing
+Thomas Henry,FW,R,31,FRA,7,false,false,false,heading,finishing
+Nayel Mehssatou,FB,R,24,CHI,3,true,false,false,stamina,pace
+Souleyman Doumbia,FB,L,29,CIV,5,false,false,false,pace,dribbling
+Henry Lawrence,CB,R,24,ENG,7,true,false,false,stamina,pace
+Rafiki Said,FW,L,26,BEL,4,true,false,false,stamina,pace
+Dennis Eckert Ayensa,MF,R,29,GER,5,true,false,false,stamina,finishing
+Timothe Nkada,FW,R,27,FRA,6,false,false,false,stamina,pace
+Grejohn Kyei,FW,R,31,FRA,7,false,false,false,heading,stamina
+Ibrahim Karamoko,MF,R,25,FRA,4,true,false,false,heading,stamina
+Hakim Sahabo,MF,R,21,BEL,5,true,false,false,pace,passing
+Ibe Hautekiet,CB,R,24,BEL,6,true,false,false,marking,stamina
+Rene Mitongo Muteba,FW,R,18,BEL,8,false,false,false,pace,heading
+Josue Homawoo,CB,L,28,BEL,4,false,false,false,stamina,pace
+Alexandro Calut,FB,L,23,BEL,7,false,false,false,pace,stamina
+Daan Dierckx,CB,R,23,BEL,3,false,false,false,tackling,marking
+David Bates,CB,R,29,SCO,5,false,false,false,tackling,stamina
+Bradley Nam James,MF,R,20,BEL,6,false,false,false,stamina,pace
+Adnane Abid,FW,R,23,BEL,7,true,false,false,dribbling,pace
+Abdramane Ouedraogo,FW,R,19,BFA,3,false,false,false,pace,dribbling
+Lucas Pirard,GK,R,31,BEL,5,false,false,false,reflexes,penalty-saving
+Matthieu Epolo,GK,R,21,BEL,6,true,false,false,penalty-saving,reflexes
+Matteo Godfroid,GK,R,22,BEL,7,false,false,false,positioning,reflexes

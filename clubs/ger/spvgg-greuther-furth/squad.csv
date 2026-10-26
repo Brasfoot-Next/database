@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Julian Green,MF,L,31,USA,6,false,false,false,stamina,passing
+Felix Klaus,FW,R,33,GER,7,false,false,false,pace,stamina
+Marco John,FW,L,24,GER,1,true,false,false,stamina,dribbling
+Luca Itter,CB,L,27,GER,3,true,false,false,stamina,tackling
+Branimir Hrgota,FW,L,33,SWE,5,false,false,false,stamina,dribbling
+Sacha Banse,MF,R,25,BFA,6,true,false,false,stamina,pace
+Jannik Dehm,FB,R,30,GER,7,true,false,false,pace,stamina
+Jomaine Consbruch,MF,R,24,GER,3,true,false,false,stamina,dribbling
+Mathias Olesen,MF,R,25,GER,5,true,false,false,passing,tackling
+Dennis Srbeny,FW,R,32,GER,6,false,false,false,heading,stamina
+Juan Cabrera,MF,R,23,URU,2,true,false,false,pace,dribbling
+Noel Futkeu,FW,R,23,GER,5,false,false,false,stamina,pace
+Omar Sillah,FW,R,23,GER,6,false,false,false,pace,heading
+Aaron Keller,FW,L,22,SUI,7,false,false,false,stamina,pace
+Reno Munz,FB,L,20,GER,3,false,false,false,pace,passing
+Philipp Ziereis,CB,R,33,GER,5,false,false,false,stamina,tackling
+Lukas Reich,FB,R,19,GER,6,false,false,false,pace,stamina
+Felix Higl,FW,L,29,GER,7,true,false,false,pace,stamina
+Jakob Engel,MF,R,20,GER,3,false,false,false,pace,stamina
+Maximilian Dietz,CB,R,24,USA,5,false,false,false,stamina,marking
+Brynjar Ingi Bjarnason,CB,L,26,ISL,6,false,false,false,stamina,pace
+Marlon Fries,FB,R,22,GER,7,true,false,false,stamina,pace
+Raul Marita,FB,L,19,ROU,3,false,false,false,pace,dribbling
+Noah Konig,CB,R,23,GER,5,true,false,false,tackling,heading
+Nils Korber,GK,R,29,GER,6,false,false,false,reflexes,penalty-saving
+Pelle Boevink,GK,R,28,NED,7,false,false,false,reflexes,positioning
+Sebastian Jung,GK,R,21,GER,3,false,false,false,reflexes,positioning
+Timo Schlieck,GK,R,20,GER,5,true,false,false,reflexes,penalty-saving

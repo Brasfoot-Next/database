@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Farizal Marlias,GK,L,36,MAS,7,true,false,false,positioning,rushing-out
+Tarmizi,GK,R,31,MAS,10,false,false,false,reflexes,positioning
+Haziq Nadzli,GK,L,24,MAS,9,false,false,false,penalty-saving,reflexes
+Corbin-Ong,FB,L,31,MAS,1,true,false,false,marking,passing
+Kunanlan,FB,R,35,MAS,3,false,false,false,finishing,pace
+Matthew Davies,FB,R,27,MAS,4,true,false,false,crossing,marking
+Syahmi Safari,FB,L,24,MAS,8,false,false,false,crossing,marking
+Nor Azlin,CB,L,26,MAS,1,false,false,false,tackling,heading
+Zafuan,CB,R,34,MAS,10,false,false,false,tackling,stamina
+Shahrul Saad,CB,R,29,MAS,9,true,false,false,tackling,marking
+Shane Lowry,CB,L,33,AUS,1,true,false,false,tackling,stamina
+Velázquez,MF,L,33,ARG,8,true,false,false,playmaking,pace
+Abba,MF,R,24,MAS,4,false,false,false,passing,finishing
+Afiq Fazail,MF,L,27,MAS,6,true,false,false,tackling,marking
+Natxo Insa,MF,R,36,MAS,8,true,false,false,marking,finishing
+Mansor,MF,R,27,MAS,3,true,false,false,finishing,passing
+Liridon Krasniqi,MF,L,30,MAS,9,false,false,false,finishing,passing
+Hong Wan,MF,L,21,MAS,8,false,false,false,marking,passing
+Safiq Rahim,MF,R,35,MAS,8,false,false,false,dribbling,pace
+Akhyar Rashid,FW,R,23,MAS,6,false,false,false,dribbling,finishing
+Safawi Rasid,FW,R,25,MAS,8,true,false,false,finishing,pace
+Syafiq Ahmad,FW,L,27,MAS,9,false,false,false,heading,pace
+Fernando Forestieri,FW,L,32,ITA,5,true,false,false,heading,pace

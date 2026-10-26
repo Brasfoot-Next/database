@@ -1,0 +1,13 @@
+name = "PEC Zwolle"
+country = "NED"
+level = 11
+reputation = 2
+colors = ["#60C0E0", "#1050A0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Jan Aertssen"
+country = "BRA"

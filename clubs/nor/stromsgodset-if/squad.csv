@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Herman Stengel,MF,R,31,NOR,9,true,false,false,stamina,passing
+Lars Vilsvik,FB,R,37,NOR,4,false,false,false,stamina,crossing
+Gustav Mendonca Wikheim,FW,L,33,NOR,6,false,false,false,pace,dribbling
+Kreshnik Krasniqi,MF,R,25,NOR,7,true,false,false,stamina,passing
+Bent Sormo,FB,R,29,NOR,1,false,false,false,pace,stamina
+Eirik Ulland Andersen,FW,L,33,NOR,5,false,false,false,playmaking,crossing
+Fredrik Dahl,FB,L,27,NOR,6,true,false,false,tackling,marking
+Marcus Johansen Mehnert,FW,L,28,NOR,8,false,false,false,pace,stamina
+Marko Farji,FW,R,22,IRQ,4,true,false,false,pace,dribbling
+Ole Enersen,FW,L,24,NOR,5,false,false,false,pace,stamina
+Elias Hoff Melkersen,FW,R,23,NOR,6,true,false,false,stamina,pace
+Samuel Silalahi,MF,R,21,NOR,7,true,false,false,pace,stamina
+Johan Bakke,MF,R,22,NOR,4,true,false,false,passing,stamina
+Jostein Ekeland,FW,L,29,NOR,5,false,false,false,stamina,pace
+Alie Conteh,FW,R,21,SLE,6,false,false,false,pace,finishing
+James Ampofo,FW,R,22,GHA,7,false,false,false,pace,finishing
+Gustav Valsvik,CB,L,33,NOR,4,true,false,false,stamina,heading
+Andreas Heredia Randen,MF,R,20,NOR,5,false,false,false,pace,passing
+Fredrik Ardraa,MF,L,19,NOR,6,false,false,false,pace,passing
+Sivert Westerlund,FB,L,27,NOR,8,true,false,false,pace,tackling
+Jesper Taaje,CB,R,28,NOR,6,true,false,false,stamina,heading
+Per Kristian Bratveit,GK,R,30,NOR,7,true,false,false,reflexes,positioning
+Eirik Holmen Johansen,GK,R,34,NOR,3,false,false,false,reflexes,penalty-saving
+Jasper Silva Torkildsen,GK,R,22,NOR,5,false,false,false,rushing-out,penalty-saving
+Simo Lampinen Skaug,GK,R,21,NOR,6,false,false,false,reflexes,positioning

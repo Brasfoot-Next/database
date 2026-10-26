@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ryan Christie,MF,L,31,SCO,8,false,false,false,stamina,passing
+Lewis Cook,MF,R,29,ENG,4,false,false,false,stamina,passing
+Tyler Adams,MF,L,27,USA,7,true,false,false,tackling,stamina
+Antoine Semenyo,FW,L,26,GHA,2,true,false,false,stamina,finishing
+Marcus Tavernier,MF,L,27,ENG,6,true,false,false,stamina,dribbling
+Justin Kluivert,MF,R,27,NED,6,true,false,false,pace,dribbling
+Amine Adli,FW,L,26,MAR,7,false,false,false,dribbling,pace
+Alex Scott,MF,R,23,ENG,4,true,false,false,dribbling,passing
+Adrien Truffert,FB,L,24,FRA,6,true,false,false,stamina,crossing
+Enes Unal,FW,R,29,TUR,6,false,false,false,heading,finishing
+Evanilson,FW,R,26,BRA,8,true,false,false,finishing,dribbling
+Eli Junior Kroupi,FW,R,20,FRA,2,false,false,false,dribbling,pace
+Adam Smith,FB,R,35,ENG,6,false,false,false,tackling,passing
+Bafode Diakite,CB,R,25,FRA,6,true,false,false,heading,tackling
+David Brooks,FW,L,29,WAL,8,false,false,false,dribbling,playmaking
+Marcos Senesi,CB,L,29,ARG,4,true,false,false,tackling,marking
+Julian Araujo,FB,R,25,MEX,6,false,false,false,pace,tackling
+Álex Jiménez,FB,R,21,ESP,6,true,false,false,pace,dribbling
+Ben Gannon Doak,FW,R,20,SCO,8,false,false,false,pace,dribbling
+Julio Soler,FB,L,21,ARG,4,false,false,false,pace,crossing
+James Hill,CB,R,24,ENG,7,false,false,false,tackling,marking
+Veljko Milosavljevic,CB,R,19,SRB,10,false,false,false,tackling,marking
+Owen Bevan,CB,R,22,WAL,5,false,false,false,tackling,marking
+Đ. Petrović,GK,R,26,SRB,6,true,false,false,reflexes,penalty-saving
+Matai Akinmboni,CB,L,19,USA,7,false,false,false,tackling,stamina
+Will Dennis,GK,R,26,ENG,1,false,false,false,penalty-saving,reflexes
+Callan Mckenna,GK,R,19,SCO,5,false,false,false,positioning,reflexes

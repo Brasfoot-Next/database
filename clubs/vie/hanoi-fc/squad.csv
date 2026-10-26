@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Cong Nguyen,GK,L,29,VIE,8,true,false,false,reflexes,positioning
+Truong Bui,GK,R,36,VIE,3,false,false,false,rushing-out,penalty-saving
+Ba Minh Hieu Nguyen,GK,R,25,VIE,4,false,false,false,positioning,rushing-out
+Toan Dau,FB,L,25,VIE,7,false,false,false,marking,passing
+Toi Dang,FB,R,23,VIE,4,true,false,false,crossing,pace
+Bui,FB,L,23,VIE,6,true,false,false,marking,passing
+Xuan Le,FB,R,23,VIE,5,false,false,false,finishing,passing
+Nguyen,CB,R,28,VIE,8,true,false,false,tackling,marking
+Tien Long Vu,CB,L,20,VIE,7,true,false,false,tackling,stamina
+Chung Nguyen,MF,L,24,VIE,7,true,false,false,playmaking,passing
+Manh Do,MF,R,25,VIE,5,false,false,false,finishing,passing
+Huy Pham,MF,L,27,VIE,10,true,false,false,marking,pace
+Dung Do,MF,R,28,VIE,5,true,false,false,finishing,passing
+Luong Pham,MF,R,33,VIE,9,false,false,false,finishing,playmaking
+Truong,MF,R,24,VIE,6,true,false,false,tackling,marking
+Hai Long Nguyen,MF,R,21,VIE,3,false,false,false,tackling,marking
+Tuan Anh Nguyen,MF,L,23,VIE,10,false,false,false,tackling,heading
+Quyet Nguyen,FW,L,31,VIE,8,true,false,false,heading,pace
+Kien Tran,FW,R,26,VIE,2,false,false,false,finishing,dribbling
+Tuan Hai Pham,FW,R,24,VIE,3,true,false,false,finishing,pace
+Vladimir Siladji,FW,R,29,SRB,6,false,false,false,heading,pace

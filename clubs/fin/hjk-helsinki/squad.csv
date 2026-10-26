@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jakob Tannander,GK,R,21,SWE,10,true,false,false,positioning,rushing-out
+Conor Hazard,GK,L,24,NIR,7,false,false,false,rushing-out,penalty-saving
+Matias Niemelä,GK,L,20,FIN,10,false,false,false,positioning,rushing-out
+Matti Peltola,FB,L,20,FIN,10,true,false,false,marking,finishing
+Janne Saksela,FB,R,29,FIN,1,false,false,false,crossing,marking
+Jukka Raitala,FB,R,33,FIN,8,true,false,false,finishing,passing
+Miska Ylitolva,FB,R,22,FIN,10,false,false,false,pace,stamina
+Valtteri Moren,CB,R,31,FIN,7,true,false,false,marking,pace
+Miro Tenho,CB,L,27,FIN,7,true,false,false,tackling,marking
+Joona Toivio,CB,R,34,FIN,3,false,false,false,heading,stamina
+Arttu Hoskonen,CB,L,25,FIN,4,false,false,false,marking,pace
+Atomu Tanaka,MF,R,34,JPN,2,true,false,false,passing,finishing
+Santeri Väänänen,MF,L,20,FIN,4,false,false,false,tackling,heading
+Johannes Yli-Kokko,MF,L,20,FIN,3,true,false,false,passing,finishing
+Manuel Martic,MF,L,26,AUT,3,true,false,false,marking,passing
+Riku Riski,FW,R,32,FIN,7,false,false,false,pace,finishing
+Roope Riski,FW,R,30,FIN,5,true,false,false,playmaking,finishing
+David Browne,FW,L,26,PNG,8,true,false,false,finishing,dribbling
+Anthony Olusanya,FW,R,22,FIN,8,false,false,false,finishing,dribbling
+Nassim Boujellab,MF,R,23,MAR,2,true,false,false,tackling,finishing
+Perparim Hetemaj,MF,R,35,FIN,9,false,false,false,marking,pace

@@ -1,0 +1,13 @@
+name = "Hamburger SV"
+country = "GER"
+level = 16
+reputation = 3
+colors = ["#1050B0", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Silvan Capaldo"
+country = "BRA"

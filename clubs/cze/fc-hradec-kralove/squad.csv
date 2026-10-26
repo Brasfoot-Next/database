@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Adam Zadrazil,GK,L,25,CZE,8,true,false,false,rushing-out,reflexes
+Matyas Vagner,GK,R,23,CZE,4,false,false,false,positioning,reflexes
+Patrik Vizek,GK,R,33,CZE,5,false,false,false,positioning,rushing-out
+Filip Cihak,CB,L,27,CZE,6,true,false,false,tackling,heading
+Jakub Uhrincat,CB,L,25,SVK,9,true,false,false,marking,passing
+Frantisek Cech,CB,R,28,CZE,4,false,false,false,marking,tackling
+Tomas Petrasek,CB,R,34,CZE,5,false,false,false,heading,stamina
+Daniel Horak,FB,R,26,CZE,7,true,false,false,crossing,pace
+David Ludvicek,FB,R,24,CZE,1,true,false,false,pace,crossing
+Lucas Kubr,FB,R,22,CZE,4,false,false,false,passing,crossing
+Juraj Chvatal,FB,L,30,SVK,6,false,false,false,pace,crossing
+Viktor Zentrich,MF,R,23,CZE,7,false,false,false,playmaking,finishing
+Jakub Kucera,MF,R,29,CZE,5,true,false,false,dribbling,pace
+Vladimír Darida,MF,R,35,CZE,6,true,false,false,finishing,passing
+Samuel Dancak,MF,L,28,SVK,7,false,false,false,passing,finishing
+Elione Fernandes Neto,MF,R,20,ANG,2,false,false,false,playmaking,finishing
+Petr Pudhorocky,MF,R,25,CZE,5,false,false,false,tackling,passing
+Tomas Wiesner,MF,R,29,CZE,6,false,false,false,pace,crossing
+Adam Binar,MF,L,20,CZE,7,false,false,false,pace,crossing
+Tom Sloncik,MF,R,21,CZE,2,true,false,false,stamina,tackling
+Daniel Trubac,MF,R,29,CZE,6,true,false,false,tackling,marking
+Adam Vlkanova,MF,R,31,CZE,7,false,false,false,stamina,tackling
+Ondrej Mihalik,FW,R,29,CZE,1,true,false,false,dribbling,playmaking
+Marko Regza,FW,R,27,CZE,5,true,false,false,pace,crossing
+Mick van Buren,FW,R,33,NED,6,false,false,false,crossing,pace
+Filip Firbacher,FW,R,24,CZE,8,false,false,false,playmaking,finishing
+Daniel Hais,FW,L,23,CZE,4,false,false,false,dribbling,finishing
+Jakub Hodek,FW,R,24,CZE,6,false,false,false,dribbling,pace

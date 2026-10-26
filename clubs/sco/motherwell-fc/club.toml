@@ -1,0 +1,13 @@
+name = "Motherwell FC"
+country = "SCO"
+level = 9
+reputation = 2
+colors = ["#E0B030", "#601040"]
+
+[stadium]
+name = "Fir Park"
+capacity = 13677
+
+[coach]
+name = "Andy Watt"
+country = "BRA"

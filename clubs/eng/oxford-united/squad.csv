@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Cameron Brannagan,MF,L,30,ENG,7,true,false,false,stamina,passing
+Brian De Keersmaecker,MF,R,26,BEL,1,true,false,false,pace,passing
+Will Vaulks,MF,R,32,WAL,5,true,false,false,stamina,marking
+Mark Harris,FW,R,27,WAL,6,false,false,false,pace,stamina
+Louie Sibley,MF,L,24,ENG,7,true,false,false,dribbling,passing
+Greg Leigh,FB,L,31,JAM,2,true,false,false,pace,heading
+Brodie Spencer,CB,R,22,NIR,5,true,false,false,pace,stamina
+Tyler Goodrham,FW,L,23,IRL,6,false,false,false,stamina,pace
+Matt Phillips,FW,L,35,SCO,7,false,false,false,crossing,dribbling
+Hidde Ter Avest,FB,R,29,NED,2,true,false,false,stamina,pace
+Sam Long,CB,L,31,ENG,6,false,false,false,stamina,heading
+Siriki Dembele,FW,L,30,SCO,7,false,false,false,pace,dribbling
+Przemyslaw Placheta,FW,L,28,POL,3,false,false,false,pace,stamina
+Ciaron Brown,CB,L,28,NIR,5,true,false,false,stamina,tackling
+Ben Davies,CB,L,31,ENG,7,false,false,false,marking,tackling
+Filip Krastev,FW,L,24,BUL,3,true,false,false,dribbling,pace
+Nik Prelec,FW,L,25,SVN,5,false,false,false,heading,pace
+Luke Harris,MF,R,21,WAL,6,false,false,false,dribbling,passing
+Jack Currie,FB,L,24,ENG,7,false,false,false,stamina,pace
+Michal Helik,CB,R,30,POL,3,false,false,false,heading,stamina
+Stanley Mills,FW,R,22,ENG,6,false,false,false,pace,dribbling
+Tom Bradshaw,FW,R,34,WAL,7,false,false,false,finishing,stamina
+Ole Romeny,FW,R,26,IDN,3,true,false,false,stamina,finishing
+Will Lankshear,FW,R,21,ENG,5,false,false,false,pace,stamina
+Gatlin Odonkor,FW,L,21,ENG,6,false,false,false,pace,dribbling
+Josh Johnson,MF,R,21,ENG,1,false,false,false,pace,stamina
+Jamie Cumming,GK,R,27,ENG,5,true,false,false,reflexes,penalty-saving
+Jacob Knightbridge,GK,L,22,ENG,6,false,false,false,rushing-out,reflexes
+Simon Eastwood,GK,R,37,ENG,7,false,false,false,positioning,rushing-out
+Matt Ingram,GK,L,32,ENG,2,false,false,false,reflexes,penalty-saving

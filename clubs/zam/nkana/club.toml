@@ -1,0 +1,13 @@
+name = "Nkana"
+country = "ZAM"
+level = 14
+reputation = 3
+colors = ["#cc0000", "#ffffff"]
+
+[stadium]
+name = "Nkana"
+capacity = 10000
+
+[coach]
+name = "Manfred Chabinga"
+country = "ZAM"

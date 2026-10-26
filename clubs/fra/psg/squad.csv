@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Achraf Hakimi,FB,R,27,MAR,4,true,true,false,stamina,pace
+Vitinha,MF,R,26,POR,6,true,true,false,dribbling,playmaking
+Ousmane Dembele,FW,L,29,FRA,6,true,true,true,dribbling,finishing
+João Neves,MF,R,21,POR,8,true,true,false,stamina,passing
+Khvicha Kvaratskhelia,FW,L,25,GEO,4,true,true,false,dribbling,passing
+Nuno Mendes,FB,L,24,POR,6,true,true,false,pace,tackling
+Fabián Ruiz,MF,L,30,ESP,7,true,true,false,passing,playmaking
+Desire Doue,FW,R,21,FRA,8,false,true,false,dribbling,pace
+Warren Zaire Emery,MF,R,20,FRA,5,true,false,false,stamina,passing
+Marquinhos,CB,R,32,BRA,6,true,true,false,marking,tackling
+Lee Kang In,FW,L,25,KOR,5,false,false,false,dribbling,crossing
+Bradley Barcola,FW,L,24,FRA,6,false,false,false,pace,dribbling
+Gonçalo Ramos,FW,R,25,POR,6,false,false,false,heading,finishing
+Lucas Hernandez,CB,L,30,FRA,7,false,false,false,tackling,marking
+Senny Mayulu,MF,L,20,FRA,9,false,false,false,dribbling,passing
+Willian Pacho,CB,L,24,ECU,5,true,true,false,tackling,marking
+Illia Zabarnyi,CB,R,24,UKR,6,false,false,false,pace,marking
+Lucas Beraldo,CB,L,22,BRA,7,false,false,false,tackling,marking
+Ibrahim Mbaye,FW,R,18,FRA,9,false,false,false,pace,dribbling
+Noham Kamara,CB,R,19,FRA,5,false,false,false,tackling,pace
+Matvey Safonov,GK,R,27,RUS,2,true,false,false,reflexes,penalty-saving
+Lucas Chevalier,GK,R,24,FRA,6,false,false,false,reflexes,penalty-saving
+Renato Marin,GK,L,20,ITA,6,false,false,false,penalty-saving,rushing-out

@@ -1,0 +1,13 @@
+name = "Al Kholood"
+country = "KSA"
+level = 11
+reputation = 2
+colors = ["#F0F0F0", "#000000"]
+
+[stadium]
+name = "Al-Hazem Club Stadium"
+capacity = 8000
+
+[coach]
+name = "Jassim Shehri"
+country = "BRA"

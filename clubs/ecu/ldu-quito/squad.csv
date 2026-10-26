@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gonzalo Valle,GK,R,30,ECU,5,true,false,false,reflexes,rushing-out
+Alexis Villa,GK,R,24,ECU,6,false,false,false,positioning,penalty-saving
+Alexander Domínguez,GK,R,39,ECU,7,false,false,false,positioning,rushing-out
+Luis Segovia,CB,R,28,ECU,3,true,false,false,passing,marking
+Richard Mina,CB,R,27,ECU,5,true,false,false,tackling,stamina
+Gian Franco Allala,CB,R,29,URU,6,false,false,false,heading,tackling
+Ricardo Adé,CB,R,36,HAI,7,false,false,false,stamina,marking
+Maikel Caicedo,CB,R,21,ECU,3,false,false,false,heading,stamina
+Patrick Ortíz,CB,R,21,ECU,5,false,false,false,marking,heading
+José Carabalí,FB,L,29,ECU,6,true,false,false,pace,stamina
+Leonel Quiñónez,FB,L,33,ECU,2,false,false,false,stamina,pace
+Josué Cuero,FB,L,25,ECU,3,true,false,false,tackling,marking
+José Quintero,FB,R,36,ECU,5,false,false,false,pace,crossing
+Juanse Rodríguez,MF,R,20,ECU,6,true,false,false,dribbling,pace
+Iván Zambrano,MF,R,29,ECU,7,false,false,false,passing,finishing
+Jesús Pretell,MF,R,27,PER,3,true,false,false,stamina,tackling
+Ederson Castillo,MF,R,17,ECU,5,false,false,false,passing,playmaking
+Gabriel Villamíl,MF,R,25,BOL,6,true,false,false,passing,pace
+Cristian Tobar,MF,R,26,ECU,7,true,false,false,marking,passing
+Fernando Cornejo,MF,R,30,CHI,3,false,false,false,stamina,passing
+Alexander Alvarado,FW,L,27,ECU,6,false,false,false,stamina,pace
+Yerlin Quiñónez,FW,L,25,ECU,7,false,false,false,pace,dribbling
+Kevin Velasco,FW,R,26,ECU,5,true,false,false,heading,finishing
+Rodney Redes,FW,R,26,PAR,6,false,false,false,pace,dribbling
+Janner Corozo,FW,L,31,ECU,7,false,false,false,pace,stamina
+Paúl Durán,FW,L,21,ECU,1,false,false,false,pace,dribbling
+Michael Estrada,FW,R,30,ECU,5,false,false,false,heading,pace
+Deyverson,FW,R,35,BRA,6,true,false,false,dribbling,finishing

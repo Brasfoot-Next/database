@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jandrei,GK,R,33,BRA,5,false,false,false,penalty-saving,reflexes
+Pedro Rocha,GK,R,28,BRA,6,true,false,false,rushing-out,positioning
+Ruan Carneiro,GK,R,36,BRA,7,false,false,false,rushing-out,reflexes
+Zé Henrique,GK,R,21,BRA,2,false,false,false,positioning,penalty-saving
+Messias,CB,R,31,BRA,5,false,false,false,marking,passing
+Rodrigo Sam,CB,R,30,BRA,6,false,false,false,tackling,marking
+Marcos Paulo,CB,L,23,BRA,7,true,false,false,marking,stamina
+Gabriel Pinheiro,CB,R,29,BRA,3,false,false,false,tackling,pace
+Titi,CB,L,38,BRA,5,true,false,false,tackling,stamina
+Patryck,FB,L,23,BRA,6,true,false,false,marking,pace
+Wadson,FB,R,25,BRA,5,false,false,false,pace,crossing
+Diogo Barbosa,FB,R,33,BRA,6,false,false,false,tackling,marking
+Alan Ruschel,FB,R,36,BRA,7,false,false,false,tackling,pace
+Nathan,FB,R,24,BRA,1,false,false,false,passing,pace
+Raí Ramos,FB,R,32,BRA,5,false,false,false,tackling,marking
+Aderlan,FB,L,35,BRA,6,true,false,false,tackling,marking
+Lucas Mineiro,MF,L,30,BRA,7,true,false,false,passing,tackling
+Luan Martins,MF,R,27,BRA,2,true,false,false,marking,passing
+Iba Ly,MF,L,23,SEN,5,false,false,false,finishing,playmaking
+Davi Góes,MF,R,21,BRA,6,false,false,false,passing,tackling
+Mandaca,MF,R,24,BRA,10,false,false,false,tackling,passing
+Pablo Roberto,MF,L,26,BRA,5,true,false,false,tackling,passing
+Raí,MF,R,24,BRA,6,false,false,false,pace,dribbling
+Luiz Henrique,MF,R,21,BRA,8,true,false,false,stamina,passing
+Ray Breno,MF,R,21,BRA,4,false,false,false,playmaking,passing
+Marcos Paulo,FW,R,25,POR,5,true,false,false,dribbling,finishing
+Allanzinho,FW,R,26,BRA,6,false,false,false,pace,finishing
+Fábio Lima,FW,L,29,BRA,9,false,false,false,pace,crossing
+Manuel Castro,FW,L,30,URU,4,false,false,false,finishing,dribbling
+Lucas Alves,FW,R,24,BRA,5,false,false,false,finishing,dribbling
+Alisson Safira,FW,R,31,BRA,7,true,false,false,heading,stamina
+Alan Kardec,FW,L,37,BRA,4,false,false,false,heading,stamina

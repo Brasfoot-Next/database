@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jamie Robba,GK,R,30,GIB,10,false,false,false,rushing-out,penalty-saving
+Ross Fitzsimons,GK,R,28,ENG,4,true,false,false,reflexes,positioning
+Jaime Serra,FB,R,23,GIB,2,false,false,false,finishing,passing
+Bauti,FB,R,30,ESP,3,true,false,false,marking,passing
+Lucas Olmos,FB,L,26,ARG,2,true,false,false,finishing,passing
+Erin Barnett,CB,R,25,GIB,5,false,false,false,tackling,stamina
+Aymen Mouelhi,CB,L,35,GIB,3,false,false,false,heading,stamina
+Villar,CB,R,36,ARG,5,true,false,false,heading,stamina
+Connor Peters,CB,L,19,ENG,3,true,false,false,heading,stamina
+Alain Pons,MF,R,26,GIB,8,true,false,false,marking,passing
+Juanma,MF,R,31,ESP,4,true,false,false,finishing,passing
+Domingo Ferrer,MF,R,33,ESP,3,true,false,false,finishing,passing
+Cristian Pecci,MF,L,34,ESP,5,false,false,false,tackling,marking
+Andrew Hernandez,MF,R,23,GIB,6,false,false,false,marking,finishing
+Julian Valarino,MF,R,22,GIB,7,true,false,false,playmaking,pace
+Pablo Tristán,MF,R,19,ESP,2,false,false,false,tackling,marking
+Boro,FW,R,31,ESP,2,true,false,false,finishing,pace
+Ezequiel Rojas,FW,R,32,ESP,5,false,false,false,finishing,dribbling
+Adi Yussuf,FW,L,29,TAN,6,true,false,false,finishing,dribbling
+Ishmael Kofi Antwi,FW,R,29,GHA,8,false,false,false,crossing,pace

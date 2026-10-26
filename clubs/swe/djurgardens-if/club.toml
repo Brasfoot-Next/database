@@ -1,0 +1,13 @@
+name = "Djurgårdens IF"
+country = "SWE"
+level = 11
+reputation = 2
+colors = ["#F0E000", "#1060A0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Rasmus Sawo"
+country = "BRA"

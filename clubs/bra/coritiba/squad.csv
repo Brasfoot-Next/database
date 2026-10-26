@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Pedro Morisco,GK,L,22,BRA,6,true,false,false,positioning,reflexes
+Pedro Rangel,GK,L,26,BRA,6,false,false,false,positioning,rushing-out
+Keiller,GK,R,29,BRA,7,false,false,false,penalty-saving,reflexes
+Benassi,GK,R,22,BRA,10,false,false,false,penalty-saving,reflexes
+Jacy,CB,R,29,BRA,5,true,false,false,marking,stamina
+Tiago Cóser,CB,R,22,BRA,6,true,false,false,tackling,heading
+Maicon,CB,R,37,BRA,7,false,false,false,tackling,stamina
+Rodrigo Moledo,CB,R,38,BRA,1,false,false,false,tackling,stamina
+Thiago Santos,CB,R,36,BRA,5,false,false,false,tackling,heading
+Felipe Jonatan,FB,R,28,BRA,6,true,false,false,tackling,marking
+João Almeida,FB,R,20,BRA,8,false,false,false,tackling,marking
+Bruno Melo,FB,L,33,BRA,5,false,false,false,passing,pace
+JP Chermont,FB,L,20,BRA,6,true,false,false,crossing,passing
+Tinga,FB,R,32,BRA,7,false,false,false,pace,tackling
+Vini Paulista,MF,R,25,BRA,9,true,false,false,passing,finishing
+Wallisson,MF,R,28,BRA,5,true,false,false,stamina,passing
+Willian Oliveira,MF,R,33,BRA,6,false,false,false,passing,playmaking
+Sebastián Gómez,MF,R,30,COL,7,true,false,false,dribbling,pace
+Fernando Sobral,MF,R,31,BRA,9,true,false,false,tackling,passing
+Geovane Meurer,MF,L,24,BRA,5,false,false,false,stamina,pace
+Gustavo,MF,L,23,BRA,7,false,false,false,tackling,passing
+Josué,MF,R,35,POR,5,false,false,false,playmaking,passing
+Joaquín Lavega,FW,R,21,URU,6,true,false,false,pace,crossing
+Breno Lopes,FW,L,30,BRA,6,false,false,false,dribbling,finishing
+Brian Ocampo,FW,L,27,URU,7,false,false,false,pace,crossing
+Keno,FW,R,36,BRA,5,false,false,false,pace,finishing
+Lucas Ronier,FW,R,21,BRA,6,true,false,false,heading,stamina
+Fabinho,FW,R,26,BRA,7,false,false,false,finishing,stamina
+Pedro Rocha,FW,R,31,BRA,8,false,false,false,heading,stamina
+Renato Marques,FW,R,22,BRA,5,false,false,false,playmaking,finishing
+Rodrigo Rodrigues,FW,R,30,BRA,7,false,false,false,dribbling,playmaking
+Éberth,FW,R,23,BRA,2,false,false,false,pace,dribbling

@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Diogo Silva,GK,L,31,BRA,7,true,false,false,reflexes,rushing-out
+Vinicius Ferrari,GK,R,23,BRA,2,false,false,false,positioning,penalty-saving
+Guilherme Viana,GK,R,22,BRA,5,false,false,false,positioning,rushing-out
+Lucas Cunha,CB,R,29,BRA,7,true,false,false,tackling,marking
+Sergio Palacios,CB,L,21,COL,1,false,false,false,marking,heading
+Márcio Silva,CB,R,25,BRA,5,true,false,false,heading,tackling
+Kevyson,FB,L,22,BRA,6,false,false,false,tackling,stamina
+Danilo Barcelos,FB,L,34,BRA,7,false,false,false,stamina,pace
+Diego Porfírio,FB,L,26,BRA,2,true,false,false,tackling,pace
+Thalys,FB,L,26,BRA,5,true,false,false,marking,pace
+Diego Tavares,FB,R,35,BRA,6,false,false,false,passing,crossing
+Guilherme Martins,FB,L,21,BRA,7,false,false,false,tackling,marking
+Kawann,FB,L,21,BRA,4,false,false,false,pace,crossing
+André Lima,MF,R,26,BRA,5,true,false,false,finishing,playmaking
+Murilo,MF,R,27,BRA,6,true,false,false,passing,playmaking
+Rodrigo Souza,MF,R,38,BRA,7,false,false,false,passing,stamina
+Léo Gomes,MF,R,29,BRA,4,true,false,false,dribbling,pace
+Élvis,MF,R,35,BRA,5,false,false,false,playmaking,finishing
+Diogo Mora,MF,R,24,BRA,6,true,false,false,passing,finishing
+David da Hora,FW,R,26,BRA,8,false,false,false,playmaking,finishing
+Daniel Baianinho,FW,R,26,BRA,6,false,false,false,pace,finishing
+Jonathan Cafu,FW,R,35,BRA,7,false,false,false,dribbling,finishing
+Rodriguinho,FW,R,25,BRA,3,true,false,false,finishing,dribbling
+Brandão,FW,R,22,BRA,5,false,false,false,heading,stamina
+Vitor Ribeiro,FW,L,27,BRA,6,true,false,false,crossing,pace

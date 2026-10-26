@@ -1,0 +1,13 @@
+name = "Livingston FC"
+country = "SCO"
+level = 9
+reputation = 2
+colors = ["#000000", "#F0F000"]
+
+[stadium]
+name = "Home of the Set Fare Arena"
+capacity = 9512
+
+[coach]
+name = "Jeremy Bokila"
+country = "BRA"

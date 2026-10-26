@@ -1,0 +1,13 @@
+name = "Mekelle 70"
+country = "ETH"
+level = 13
+reputation = 2
+colors = ["#c20808", "#ffffff"]
+
+[stadium]
+name = "Tigray"
+capacity = 60000
+
+[coach]
+name = "Gebremedhin Haile"
+country = "ETH"

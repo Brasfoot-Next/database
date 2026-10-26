@@ -1,0 +1,13 @@
+name = "Espérance Tunis"
+country = "TUN"
+level = 16
+reputation = 3
+colors = ["#f2da3f", "#b90000"]
+
+[stadium]
+name = "Municipal"
+capacity = 16000
+
+[coach]
+name = "Nabil Maaloul"
+country = "TUN"

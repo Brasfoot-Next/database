@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Xherdan Shaqiri,MF,L,34,SUI,6,true,false,false,playmaking,dribbling
+Dominik Schmid,FB,L,28,SUI,7,true,false,false,stamina,crossing
+Koba Lein Koindredi,MF,L,24,FRA,4,false,false,false,passing,dribbling
+Benie Traore,FW,R,23,CIV,5,true,false,false,pace,dribbling
+Philip Otele,FW,L,27,NGA,6,false,false,false,pace,dribbling
+Leo Leroy,MF,L,26,FRA,8,true,false,false,passing,playmaking
+Metinho,MF,R,23,BRA,4,true,false,false,stamina,passing
+Keigo Tsunemoto,FB,R,27,JPN,5,true,false,false,stamina,pace
+Kevin Ruegg,FB,R,28,SUI,6,false,false,false,pace,passing
+Moritz Broschinski,FW,R,25,GER,9,false,false,false,pace,stamina
+Ibrahim Salah,FW,L,25,MAR,10,false,false,false,pace,dribbling
+Albian Ajeti,FW,R,29,SUI,4,false,false,false,heading,pace
+Flavius Daniliuc,CB,R,25,AUT,5,true,false,false,heading,tackling
+Juan Carlos Gauto,FW,L,22,ARG,6,false,false,false,pace,stamina
+Jeremy Agbonifo,FW,L,20,SWE,7,true,false,false,pace,dribbling
+Dion Kacuri,MF,L,22,SUI,1,false,false,false,pace,passing
+Moussa Cisse,FB,L,23,FRA,5,false,false,false,pace,dribbling
+Nicolas Vouilloz,CB,R,25,SUI,6,false,false,false,stamina,pace
+Finn Van Breemen,CB,L,23,NED,7,false,false,false,stamina,passing
+Marin Soticek,FW,R,21,CRO,2,false,false,false,dribbling,pace
+Jonas Adjetey,CB,L,22,GHA,5,true,false,false,stamina,marking
+Adrian Barisic,CB,R,25,BIH,7,false,false,false,marking,heading
+Adriano Onyegbule,MF,R,20,GER,1,false,false,false,pace,dribbling
+Junior Arlet Ze,FW,L,20,SUI,4,false,false,false,pace,dribbling
+Kaio Eduardo,FW,R,21,BRA,6,false,false,false,pace,finishing
+Andrej Bacanin,MF,R,19,SRB,8,true,false,false,tackling,passing
+Marvin Akahomen,FB,L,19,SUI,4,false,false,false,pace,stamina
+Marwin Hitz,GK,R,38,SUI,5,false,false,false,positioning,rushing-out
+Mirko Salvi,GK,R,32,SUI,6,false,false,false,positioning,penalty-saving
+Tim Pfeiffer,GK,R,21,GER,8,false,false,false,rushing-out,penalty-saving
+Tim Spycher,GK,L,22,SUI,5,true,false,false,reflexes,penalty-saving

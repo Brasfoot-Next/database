@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Scott Arfield,MF,R,37,CAN,7,false,false,false,passing,playmaking
+Calvin Miller,FW,L,28,SCO,1,true,false,false,pace,playmaking
+Dylan Tait,MF,L,24,SCO,5,true,false,false,stamina,pace
+Sam Hart,FB,L,29,ENG,6,false,false,false,pace,stamina
+Sean Mackie,FB,L,27,SCO,7,false,false,false,pace,crossing
+Brian Graham,FW,R,38,SCO,2,false,false,false,stamina,heading
+Henry Cartwright,MF,R,21,ENG,5,true,false,false,pace,passing
+Ethan Ross,FW,L,25,SCO,6,false,false,false,pace,playmaking
+Ethan Williams,FW,L,20,ENG,7,false,false,false,pace,stamina
+Aidan Nesbitt,FW,L,29,SCO,2,false,false,false,stamina,pace
+Brad Spencer,MF,R,30,ENG,5,true,false,false,passing,pace
+Ross Maciver,FW,R,27,SCO,6,false,false,false,pace,dribbling
+Lewis Neilson,CB,R,23,SCO,7,true,false,false,pace,heading
+Filip Lissah,CB,R,21,ENG,1,true,false,false,pace,tackling
+Connor Allan,MF,R,22,SCO,5,true,false,false,pace,passing
+Coll Donaldson,CB,R,31,SCO,6,false,false,false,stamina,heading
+Kyrell Wilson,FW,R,21,ENG,7,false,false,false,pace,dribbling
+Alfredo Agyeman,FW,R,26,GHA,1,false,false,false,pace,dribbling
+Keelan Adams,FB,R,24,SCO,5,true,false,false,pace,tackling
+Trey Samuel Ogunsuyi,FW,R,19,BEL,6,false,false,false,pace,finishing
+Leon Mccann,FB,L,26,SCO,9,false,false,false,pace,tackling
+Gary Oliver,FW,R,31,SCO,4,false,false,false,pace,finishing
+Barney Stewart,FW,R,22,ENG,6,true,false,false,heading,pace
+Rhys Walker,FW,L,20,SCO,8,false,false,false,pace,crossing
+Finn Yeats,FB,R,22,SCO,4,true,false,false,stamina,tackling
+Liam Henderson,CB,L,30,SCO,5,false,false,false,heading,tackling
+Scott Bain,GK,R,34,SCO,6,false,false,false,reflexes,rushing-out
+Tom Lang,CB,R,29,SCO,8,false,false,false,tackling,stamina
+Jamie Sneddon,GK,L,29,SCO,4,true,false,false,reflexes,rushing-out
+Nicky Hogarth,GK,R,25,SCO,5,false,false,false,penalty-saving,rushing-out

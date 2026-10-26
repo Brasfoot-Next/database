@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ellis Harrison,FW,R,32,WAL,3,false,false,false,pace,stamina
+Josh Mceachran,MF,L,33,ENG,5,false,false,false,passing,playmaking
+Jack Sparkes,FB,L,25,ENG,6,true,false,false,stamina,pace
+Shaqai Forde,FW,L,22,ENG,7,false,false,false,pace,stamina
+Promise Omochere,FW,L,25,IRL,7,false,false,false,pace,stamina
+Alfie Chang,MF,L,24,ENG,4,true,false,false,passing,pace
+Macauley Southam Hales,FB,R,30,WAL,5,false,false,false,pace,crossing
+Clinton Mola,FB,L,25,ENG,6,false,false,false,pace,tackling
+Kamil Conteh,MF,R,23,SLE,8,true,false,false,stamina,pace
+Luke Thomas,FW,L,27,ENG,4,true,false,false,pace,dribbling
+Ruel Sotiriou,FW,R,26,CYP,7,true,false,false,stamina,pace
+Joel Cotterill,MF,R,21,WAL,2,true,false,false,stamina,pace
+Bryant Bilongo,FB,L,24,ENG,5,false,false,false,pace,stamina
+Ryan Howley,MF,R,22,WAL,6,true,false,false,passing,pace
+Taylor Moore,CB,R,29,ENG,7,true,false,false,stamina,passing
+Joel Senior,FB,R,27,ENG,3,true,false,false,stamina,pace
+Alfie Kilgour,CB,L,28,ENG,5,true,false,false,heading,stamina
+Freddie Issaka,FW,R,20,WAL,6,false,false,false,pace,dribbling
+Fabrizio Cavegn,FW,R,24,SUI,7,false,false,false,pace,dribbling
+Stephan Negru,CB,R,24,IRL,3,false,false,false,stamina,heading
+Micah Anthony,FW,L,22,ENG,6,false,false,false,pace,dribbling
+Kacper Lopata,CB,R,25,POL,8,false,false,false,heading,marking
+Ollie Dewsbury,FW,L,18,WAL,5,false,false,false,pace,dribbling
+Dan Ellison,CB,R,21,ENG,6,false,false,false,stamina,pace
+Luke Southwood,GK,R,28,NIR,6,true,false,false,penalty-saving,positioning
+Brad Young,GK,R,24,ENG,10,false,false,false,reflexes,penalty-saving

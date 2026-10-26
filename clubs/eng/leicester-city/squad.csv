@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ricardo Pereira,FB,R,32,POR,6,false,false,false,crossing,passing
+Jordan Ayew,FW,R,34,GHA,7,false,false,false,dribbling,crossing
+Abdul Fatawu,FW,L,22,GHA,1,true,false,false,pace,dribbling
+Boubakary Soumare,MF,L,27,FRA,5,true,false,false,passing,dribbling
+Bobby De Cordova Reid,FW,R,33,JAM,6,false,false,false,playmaking,dribbling
+Harry Winks,MF,R,30,ENG,7,true,false,false,passing,playmaking
+Victor Kristiansen,FB,L,23,DEN,2,true,false,false,stamina,crossing
+Stephy Mavididi,FW,L,28,ENG,6,false,false,false,pace,dribbling
+Hamza Choudhury,FB,R,28,BAN,6,false,false,false,passing,tackling
+Julian Carranza,FW,R,26,ARG,7,false,false,false,stamina,finishing
+Jordan James,MF,R,22,WAL,6,true,false,false,passing,playmaking
+Aaron Ramsey,FW,L,23,ENG,7,false,false,false,dribbling,playmaking
+Oliver Skipp,MF,R,25,ENG,7,true,false,false,passing,tackling
+Luke Thomas,FB,L,25,ENG,4,true,false,false,stamina,pace
+Patson Daka,FW,R,27,ZAM,5,true,false,false,pace,dribbling
+Michael Golding,MF,R,20,ENG,6,false,false,false,passing,pace
+Louis Page,MF,R,18,ENG,7,false,false,false,pace,dribbling
+Jannik Vestergaard,CB,L,34,DEN,4,false,false,false,heading,marking
+Wout Faes,CB,R,28,BEL,6,true,false,false,heading,tackling
+Wanya Marçal,FW,R,23,POR,6,false,false,false,pace,dribbling
+Silko Thomas,FW,L,22,ENG,6,false,false,false,pace,dribbling
+Ben Nelson,CB,R,22,ENG,6,false,false,false,stamina,pace
+Caleb Okoli,CB,R,25,ITA,7,true,false,false,tackling,marking
+Jake Evans,FW,L,18,ENG,9,false,false,false,pace,dribbling
+Harry Souttar,CB,R,27,AUS,5,false,false,false,heading,marking
+Olabade Aluko,FB,L,19,ENG,6,false,false,false,pace,stamina
+Asmir Begovic,GK,R,39,BIH,7,false,false,false,positioning,rushing-out
+Fran Vieites,GK,R,27,ESP,10,true,false,false,penalty-saving,reflexes
+Jakub Stolarczyk,GK,R,25,POL,5,false,false,false,reflexes,penalty-saving

@@ -1,0 +1,42 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Oufa Shobeir,GK,R,26,EGY,6,true,false,false,positioning,reflexes
+Mohamed El Shenawy,GK,R,37,EGY,7,false,false,false,reflexes,rushing-out
+Mostafa Makhlouf,GK,R,23,EGY,10,false,false,false,penalty-saving,reflexes
+Mohamed Seha,GK,R,25,EGY,5,false,false,false,rushing-out,reflexes
+Hamza Alaa,GK,R,25,EGY,6,false,false,false,positioning,penalty-saving
+Achraf Dari,CB,L,27,MAR,7,true,false,false,tackling,marking
+Yassin Marei,CB,R,24,EGY,1,false,false,false,marking,tackling
+Hady Reyad,CB,R,28,EGY,5,true,false,false,tackling,heading
+Mostafa El Aash,CB,R,25,EGY,6,false,false,false,stamina,heading
+Amr El Gazar,CB,R,26,EGY,7,false,false,false,heading,marking
+Yasser Ibrahim,CB,R,33,EGY,5,false,false,false,marking,passing
+Ahmed Abdin,CB,R,20,EGY,6,false,false,false,tackling,stamina
+Youssef Belammari,FB,R,27,MAR,7,true,false,false,passing,pace
+Mohamed Shokry,FB,R,27,EGY,1,false,false,false,stamina,pace
+Karim El Debes,FB,R,23,EGY,5,false,false,false,tackling,marking
+Karim Fouad,FB,R,26,EGY,6,false,false,false,stamina,crossing
+Mohamed Hany,FB,R,30,EGY,6,true,false,false,marking,pace
+Omar Kamal,FB,R,32,EGY,7,false,false,false,passing,crossing
+Ahmed Eid,FB,L,25,EGY,5,false,false,false,dribbling,pace
+Ibrahim El Asyuti,FB,R,21,EGY,6,false,false,false,passing,pace
+Marwan Ateya,MF,R,27,EGY,5,true,false,false,passing,stamina
+Ahmed Kouka,MF,R,25,EGY,6,true,false,false,tackling,marking
+Emam Ashour,MF,R,28,EGY,7,true,false,false,passing,stamina
+Mohamed Ali Ben Romdhane,MF,L,26,TUN,8,false,false,false,passing,tackling
+Ahmed Reda,MF,R,26,EGY,5,false,false,false,passing,stamina
+Omar El Saaiy,MF,R,23,EGY,6,false,false,false,passing,stamina
+Kabaka,MF,R,21,EGY,6,false,false,false,finishing,playmaking
+Afsha,MF,R,30,EGY,7,true,false,false,pace,dribbling
+Ali Mahmoud,MF,L,23,EGY,2,false,false,false,passing,stamina
+Achraf Bencharki,FW,L,31,MAR,5,false,false,false,finishing,heading
+Hussein El Shahat,FW,R,34,EGY,4,false,false,false,dribbling,finishing
+Zizo,FW,L,30,EGY,6,true,false,false,heading,finishing
+Reda Slim,FW,R,26,MAR,6,false,false,false,pace,finishing
+Cristo,FW,R,23,TUN,7,true,false,false,pace,dribbling
+Taher Mohamed,FW,L,29,EGY,5,false,false,false,playmaking,finishing
+Mohamed Abdallah,FW,R,20,EGY,6,false,false,false,dribbling,finishing
+Omar Moawad,FW,L,19,EGY,6,false,false,false,finishing,dribbling
+Nejc Gradisar,FW,L,23,SVN,7,false,false,false,dribbling,pace
+Mohamed Sherif,FW,R,30,EGY,9,false,false,false,finishing,dribbling
+Aqtay Abdallah,FW,R,23,EGY,5,false,false,false,dribbling,finishing
+Samir Mohamed,FW,L,22,EGY,6,false,false,false,finishing,heading

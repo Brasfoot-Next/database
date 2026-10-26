@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Onyango,GK,R,37,UGA,0,true,false,false,rushing-out,penalty-saving
+Mweene,GK,L,37,ZAM,0,false,false,false,reflexes,positioning
+Morena,FB,R,28,RSA,10,true,false,false,crossing,marking
+Mosa Lebusa,FB,L,29,RSA,4,true,false,false,finishing,pace
+Khuliso Mudau,FB,R,27,RSA,3,false,false,false,marking,finishing
+Rivaldo Coetzee,CB,L,25,RSA,5,true,false,false,tackling,marking
+Brian Onyango,CB,R,28,KEN,6,true,false,false,marking,pace
+Bangaly Soumahoro,CB,R,31,CIV,4,false,false,false,heading,stamina
+Themba Zwane,MF,R,32,RSA,5,true,false,false,playmaking,passing
+Andile Jali,MF,R,32,RSA,6,true,false,false,dribbling,passing
+Aubrey Modiba,MF,L,27,RSA,4,true,false,false,passing,finishing
+Mothobi Mvala,MF,R,28,RSA,6,true,false,false,tackling,finishing
+Lebohang Maboe,FW,L,27,RSA,4,true,false,false,pace,finishing
+Lyle Lakay,FW,R,30,RSA,10,true,false,false,finishing,dribbling
+Peter Shalulile,FW,R,28,NAM,5,false,false,false,heading,pace
+Kermit Erasmus,FW,L,32,RSA,9,false,false,false,finishing,pace
+Ronwen Williams,GK,L,30,RSA,5,false,false,false,positioning,rushing-out
+Sifiso Ngobeni,FB,L,25,RSA,8,false,false,false,finishing,pace
+Boutouil,CB,L,24,MAR,4,false,false,false,marking,pace
+Luvuyo Phewa,MF,R,22,RSA,3,false,false,false,finishing,passing
+Sphelele Mkhulise,MF,L,26,RSA,4,false,false,false,playmaking,finishing
+Siphesihle Mkhize,MF,R,23,RSA,8,false,false,false,tackling,pace
+Sipho Mbule,MF,L,24,RSA,2,false,false,false,marking,finishing

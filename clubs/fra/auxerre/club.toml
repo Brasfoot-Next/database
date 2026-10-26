@@ -1,0 +1,13 @@
+name = "Auxerre"
+country = "FRA"
+level = 15
+reputation = 3
+colors = ["#0040A0", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Marvin Leon"
+country = "BRA"

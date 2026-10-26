@@ -1,0 +1,13 @@
+name = "Auckland City"
+country = "NZL"
+level = 14
+reputation = 3
+colors = ["#0d0741", "#ffffff"]
+
+[stadium]
+name = "Vector Arena"
+capacity = 3500
+
+[coach]
+name = "Albert Riera"
+country = "ESP"

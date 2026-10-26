@@ -1,0 +1,13 @@
+name = "Real Estelí"
+country = "NCA"
+level = 14
+reputation = 3
+colors = ["#ffffff", "#cc0000"]
+
+[stadium]
+name = "Independencia"
+capacity = 5000
+
+[coach]
+name = "Otoniel Olivas"
+country = "NCA"

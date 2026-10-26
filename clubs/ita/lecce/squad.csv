@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lassana Coulibaly,MF,R,30,MLI,1,true,false,false,stamina,passing
+Àlex Sala,MF,R,25,ESP,5,false,false,false,tackling,passing
+Youssef Maleh,MF,L,28,MAR,6,false,false,false,passing,stamina
+Antonino Gallo,FB,L,26,ITA,7,true,false,false,stamina,pace
+Tete Morente,FW,L,29,ESP,2,false,false,false,pace,dribbling
+Frederic Guilbert,FB,R,31,FRA,5,false,false,false,stamina,crossing
+Santiago Pierotti,FW,R,25,ARG,6,true,false,false,dribbling,passing
+Danilo Veiga,FB,R,23,POR,6,true,false,false,tackling,pace
+Hamza Rafia,MF,R,27,TUN,7,false,false,false,dribbling,playmaking
+Konan Ndri,FW,L,25,CIV,5,false,false,false,pace,dribbling
+Þ. Helgason,MF,R,25,ISL,7,true,false,false,passing,stamina
+Riccardo Sottil,FW,L,27,ITA,5,false,false,false,pace,dribbling
+Ylber Ramadani,MF,R,30,ALB,6,false,false,false,stamina,tackling
+Medon Berisha,MF,L,22,ALB,6,true,false,false,passing,playmaking
+Balthazar Pierret,MF,R,26,FRA,7,false,false,false,stamina,marking
+Filip Marchwinski,MF,R,24,POL,5,false,false,false,passing,dribbling
+Lameck Banda,FW,L,25,ZAM,6,false,false,false,pace,dribbling
+Mohamed Kaba,MF,R,24,FRA,6,true,false,false,passing,stamina
+Nikola Stulic,FW,R,25,SRB,7,false,false,false,finishing,heading
+Owen Kouassi,FB,R,23,CIV,5,false,false,false,stamina,tackling
+Jamil Siebert,CB,R,24,GER,6,true,false,false,tackling,stamina
+Corrie Ndaba,FB,L,26,IRL,6,false,false,false,stamina,pace
+Francesco Camarda,FW,R,18,ITA,7,true,false,false,finishing,pace
+Kialonda Gaspar,CB,R,28,ANG,5,false,false,false,stamina,tackling
+Tiago Gabriel,CB,L,21,POR,6,true,false,false,tackling,marking
+Gaby Jean,CB,L,26,FRA,6,false,false,false,stamina,tackling
+Matias Ignacio Perez,CB,R,21,CHI,7,false,false,false,tackling,heading
+Wladimiro Falcone,GK,R,31,ITA,5,true,false,false,reflexes,penalty-saving
+Christian Fruchtl,GK,L,26,GER,6,false,false,false,penalty-saving,reflexes
+Jasper Samooja,GK,R,23,FIN,7,false,false,false,rushing-out,penalty-saving

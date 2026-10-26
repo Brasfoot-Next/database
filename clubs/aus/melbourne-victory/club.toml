@@ -1,0 +1,13 @@
+name = "Melbourne Victory"
+country = "AUS"
+level = 9
+reputation = 2
+colors = ["#F0F0F0", "#102040"]
+
+[stadium]
+name = "AAMI Park"
+capacity = 30050
+
+[coach]
+name = "Brendan Miranda"
+country = "BRA"

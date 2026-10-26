@@ -1,0 +1,13 @@
+name = "Philadelphia Union"
+country = "USA"
+level = 13
+reputation = 3
+colors = ["#000010", "#FFFFFF"]
+
+[stadium]
+name = "Subaru Park"
+capacity = 18500
+
+[coach]
+name = "Indiana Bedoya"
+country = "BRA"

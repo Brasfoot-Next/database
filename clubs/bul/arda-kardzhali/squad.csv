@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Anatoli Gospodinov,GK,L,32,BUL,5,true,false,false,rushing-out,reflexes
+Yanko Georgiev,GK,R,37,BUL,6,false,false,false,positioning,penalty-saving
+Mesut Yusuf,GK,R,34,BUL,7,false,false,false,rushing-out,reflexes
+Martin Paskalev,CB,R,24,BUL,3,true,false,false,marking,stamina
+Adama Ardile Traoré,CB,R,26,BUL,5,true,false,false,tackling,heading
+Viktor Lyubenov,CB,R,19,BUL,6,false,false,false,passing,marking
+Derick,CB,L,24,BRA,7,false,false,false,heading,stamina
+Dimitar Velkovski,FB,R,31,BUL,3,true,false,false,tackling,stamina
+Simeon Vasilev,FB,L,20,BUL,5,false,false,false,passing,pace
+Vyacheslav Velev,FB,L,26,UKR,5,false,false,false,marking,crossing
+Viktor Popov,FB,R,26,BUL,6,true,false,false,stamina,pace
+Lachezar Kotev,MF,R,28,BUL,7,true,false,false,passing,tackling
+David Idowu,MF,R,26,NGA,3,true,false,false,dribbling,pace
+Serkan Yusein,MF,R,30,BUL,5,true,false,false,playmaking,passing
+Antonio Vutov,MF,R,30,BUL,6,true,false,false,finishing,passing
+Svetoslav Kovachev,FW,R,28,BUL,7,true,false,false,dribbling,playmaking
+Atanas Kabov,FW,L,27,BUL,3,true,false,false,pace,dribbling
+Birsent Karagaren,FW,R,33,BUL,5,false,false,false,pace,crossing
+Georgi Nikolov,FW,L,24,BUL,7,false,false,false,heading,stamina
+Preslav Bachev,FW,L,20,BUL,3,false,false,false,finishing,dribbling

@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Khalid Eisa,GK,R,36,UAE,9,true,false,false,reflexes,penalty-saving
+Mohammed Bu Senda,GK,L,31,UAE,5,false,false,false,rushing-out,reflexes
+Hassan Muhammed,GK,R,19,NGA,6,false,false,false,reflexes,positioning
+Marcel Ratnik,CB,R,22,SVN,7,false,false,false,pace,marking
+Yahya Benkhaleq,CB,R,24,MAR,9,false,false,false,tackling,stamina
+Djordje Skoko,CB,L,23,SRB,5,true,false,false,heading,passing
+Amadou Niang,CB,R,21,SEN,6,false,false,false,pace,tackling
+Ramy Rabia,CB,R,33,EGY,7,true,false,false,tackling,heading
+Erik,FB,L,25,UAE,7,true,false,false,stamina,pace
+Rafa Rodrigues,FB,L,24,POR,4,true,false,false,stamina,dribbling
+Adis Jasic,FB,R,23,AUT,5,false,false,false,stamina,pace
+Adrian Șut,MF,L,27,ROU,6,true,false,false,stamina,passing
+Abdoul Karim Traore,MF,R,21,MLI,7,true,false,false,passing,stamina
+Khauan Schlickmann,MF,R,20,BRA,2,false,false,false,stamina,passing
+Valentino Lazaro,MF,R,30,AUT,6,true,false,false,crossing,passing
+Kaku,MF,L,31,PAR,6,false,false,false,playmaking,passing
+Matías Palacios,MF,R,24,UAE,7,true,false,false,passing,playmaking
+Mohammed Al-Baloushi,MF,R,23,UAE,4,false,false,false,passing,playmaking
+Jonatas Santos,FW,R,24,UAE,6,false,false,false,heading,stamina
+Hazem Mohammad,FW,L,21,UAE,6,false,false,false,pace,dribbling
+Sorin Ziane,FW,R,20,CAN,7,false,false,false,heading,stamina
+Georgios Giakoumakis,FW,R,31,GRE,4,true,false,false,heading,finishing
+Soufiane Rahimi,FW,L,30,MAR,6,true,false,false,pace,stamina
+Baba Bello Ilou,FW,R,21,CMR,6,false,false,false,dribbling,pace
+Houssine Rahimi,FW,R,24,MAR,7,false,false,false,finishing,pace
+Josna Loulendo,FW,L,22,CGO,4,false,false,false,heading,finishing

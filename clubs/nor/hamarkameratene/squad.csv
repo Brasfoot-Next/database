@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ylldren Ibrahimaj,FW,L,30,NOR,5,true,false,false,stamina,pace
+Vidhar Ari Jonsson,FW,R,32,ISL,6,false,false,false,pace,stamina
+Gard Simenstad,MF,R,27,NOR,7,true,false,false,stamina,pace
+Tore Andre Soras,MF,R,28,NOR,2,false,false,false,stamina,dribbling
+Pal Alexander Kirkevold,FW,L,35,NOR,5,true,false,false,stamina,finishing
+Luc Mares,CB,L,29,NED,6,true,false,false,stamina,tackling
+Alwande Roaldsoy,MF,L,22,NOR,7,false,false,false,passing,playmaking
+Moses Mawa,FW,L,30,NOR,2,false,false,false,pace,stamina
+Fredrik Sjolstad,CB,R,32,NOR,5,false,false,false,stamina,marking
+Markus Johnsgard,MF,L,27,NOR,6,true,false,false,passing,playmaking
+Mats Pedersen,MF,L,21,NOR,7,false,false,false,pace,stamina
+Snorre Strand Nilsen,FB,R,29,NOR,4,true,false,false,stamina,pace
+Aksel Baran Potur,MF,L,23,NOR,5,true,false,false,pace,passing
+Anton Ekeroth,FB,L,24,SWE,6,true,false,false,pace,stamina
+Arne Hopland Odegard,MF,R,22,NOR,8,false,false,false,stamina,passing
+William Osnes Ringen,MF,R,19,NOR,2,true,false,false,playmaking,passing
+Julian Bakkeli Gonstad,FW,R,20,NOR,5,false,false,false,dribbling,finishing
+Gustav Granath,CB,R,29,SWE,6,false,false,false,pace,heading
+Kristian Lien,FW,R,24,NOR,7,false,false,false,pace,heading
+Peter Sunday,FB,L,19,NGA,3,false,false,false,pace,stamina
+David De Ornelas,FW,R,18,NOR,3,false,false,false,pace,crossing
+Alan Cole,FW,R,18,NOR,5,false,false,false,pace,stamina
+Halvor Rodolen Opsahl,CB,R,23,NOR,6,false,false,false,tackling,marking
+Mads Orrhaug Larsen,CB,R,20,NOR,7,false,false,false,pace,stamina
+Ethan Amundsen Day,CB,L,21,NOR,3,true,false,false,pace,tackling
+Olav Dobloug Mengshoel,FW,R,18,NOR,5,false,false,false,pace,finishing
+Ola Nikolai Rye,FB,L,21,NOR,5,false,false,false,stamina,tackling
+Marcus Sandberg,GK,R,35,SWE,6,true,false,false,rushing-out,reflexes
+Alexander Nilsson,GK,R,29,SWE,8,false,false,false,reflexes,penalty-saving
+Sander Ostraat,GK,R,21,NOR,4,false,false,false,reflexes,positioning

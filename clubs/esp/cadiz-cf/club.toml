@@ -1,0 +1,13 @@
+name = "Cádiz CF"
+country = "ESP"
+level = 13
+reputation = 3
+colors = ["#0040A0", "#F0E000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Sergio Rosa"
+country = "BRA"

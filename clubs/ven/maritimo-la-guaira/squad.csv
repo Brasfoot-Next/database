@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Diego Gil,GK,R,24,VEN,3,false,false,false,reflexes,penalty-saving
+Manuel Sanhouse,GK,R,26,VEN,5,true,false,false,rushing-out,reflexes
+Mateo Chocó,CB,R,29,COL,6,true,false,false,tackling,heading
+Harold Cortés,CB,R,29,COL,7,true,false,false,tackling,marking
+Clyde García,CB,L,24,VEN,4,false,false,false,stamina,heading
+Lucas Trejo,CB,R,38,ARG,5,false,false,false,tackling,pace
+Anthony Graterol,FB,L,31,VEN,7,true,false,false,stamina,pace
+Brayan Sandoval,FB,L,19,VEN,3,false,false,false,marking,pace
+Mayer Vidal,FB,R,26,COL,5,true,false,false,pace,tackling
+Bryant Albizo,FB,L,23,VEN,6,false,false,false,pace,tackling
+Barnavi Cassiani,FB,R,19,VEN,1,false,false,false,pace,crossing
+Enderson Torrez,FB,L,17,VEN,5,false,false,false,dribbling,pace
+Ricardo Villanueva,FB,R,18,VEN,6,false,false,false,tackling,stamina
+Daniel Rangel,MF,R,24,VEN,7,true,false,false,pace,dribbling
+José Reyes,MF,R,24,VEN,2,true,false,false,stamina,passing
+Julio Ruíz,MF,L,30,VEN,5,true,false,false,pace,dribbling
+Robin Ramos,MF,R,27,VEN,6,true,false,false,finishing,playmaking
+Jaiser Altamar,FW,R,19,VEN,7,false,false,false,crossing,pace
+Rogger Martins,FW,R,18,VEN,2,false,false,false,dribbling,playmaking
+Víctor Navas,FW,R,25,VEN,5,true,false,false,finishing,pace
+Kelvin Pacheco,FW,R,19,VEN,7,false,false,false,dribbling,finishing
+Enmanuel Moreno,FW,R,26,VEN,4,true,false,false,playmaking,finishing
+Rodrigo Febres,FW,L,30,VEN,5,false,false,false,finishing,stamina
+Richard Blanco,FW,R,30,VEN,6,false,false,false,dribbling,pace

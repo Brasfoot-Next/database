@@ -1,0 +1,13 @@
+name = "Rivers United"
+country = "NGA"
+level = 16
+reputation = 3
+colors = ["#006699", "#ffffff"]
+
+[stadium]
+name = "Yakubu Gowon"
+capacity = 1000
+
+[coach]
+name = "Stanley Eguma"
+country = "NGA"

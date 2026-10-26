@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nicola Pérez,GK,R,32,URU,9,true,false,false,positioning,penalty-saving
+Hernán Muñoz,GK,R,33,CHI,10,false,false,false,positioning,rushing-out
+Guillermo Gajardo,GK,L,20,CHI,8,false,false,false,rushing-out,penalty-saving
+Bernardo Cerezo,FB,L,27,CHI,6,true,false,false,crossing,pace
+Fernando Cordero,FB,R,34,CHI,1,false,false,false,crossing,marking
+Nicolás Vargas,FB,L,28,CHI,9,false,false,false,crossing,marking
+Jovany Campusano,FB,R,29,CHI,9,true,false,false,marking,pace
+Nozomi Kimura,CB,R,25,CHI,9,true,false,false,tackling,marking
+Enzo Guerrero,CB,R,31,CHI,8,false,false,false,marking,pace
+Nicolás Mancilla,CB,L,28,CHI,6,true,false,false,tackling,stamina
+Jonathan Turra,CB,L,21,CHI,10,false,false,false,tackling,heading
+Rafael Caroca,MF,R,33,CHI,1,true,false,false,marking,pace
+Branco Provoste,MF,R,22,CHI,8,false,false,false,tackling,marking
+Manuel Rivera,MF,L,26,CHI,1,true,false,false,marking,pace
+Iván Rozas,MF,L,24,CHI,3,true,false,false,finishing,passing
+Federico Mateos,MF,R,29,ARG,7,true,false,false,tackling,marking
+Rodrigo Cisterna,MF,R,20,CHI,10,false,false,false,finishing,passing
+Mathias Pinto,FW,R,24,CHI,3,false,false,false,finishing,dribbling
+Alexander Aravena,FW,R,19,CHI,1,true,false,false,dribbling,finishing
+Patricio Rubio,FW,L,33,CHI,7,true,false,false,pace,finishing
+Matías Moya,FW,L,24,ARG,10,false,false,false,dribbling,finishing

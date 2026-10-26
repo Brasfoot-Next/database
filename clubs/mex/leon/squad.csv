@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rodolfo Cota,GK,L,35,MEX,9,true,false,false,reflexes,positioning
+Alfonso Blanco,GK,L,34,MEX,4,false,false,false,positioning,rushing-out
+Osvaldo Rodríguez,FB,L,25,MEX,1,false,false,false,finishing,pace
+Elías Hernández,FB,R,34,MEX,5,false,false,false,marking,finishing
+Byron Castillo,FB,R,23,ECU,9,true,false,false,crossing,marking
+Yairo Moreno,FB,L,27,COL,3,true,false,false,finishing,passing
+William Tesillo,CB,L,32,COL,2,false,false,false,marking,pace
+Stiven Barreiro,CB,R,28,COL,3,true,false,false,heading,stamina
+Paul Bellón,CB,L,25,MEX,10,true,false,false,tackling,heading
+Julien Célestine,CB,R,25,FRA,8,false,false,false,marking,pace
+Luis Montes,MF,L,36,MEX,5,true,false,false,marking,finishing
+José Rodríguez,MF,R,26,MEX,10,true,false,false,marking,finishing
+Ángel Mena,MF,R,34,ECU,5,true,false,false,finishing,passing
+Santiago Colombatto,MF,R,25,ARG,6,false,false,false,marking,finishing
+Fidel Ambríz,MF,R,19,MEX,2,true,false,false,marking,passing
+Federico Martínez,MF,L,26,URU,6,true,false,false,passing,finishing
+Alfonso Alvarado,MF,L,22,MEX,10,true,false,false,passing,finishing
+Juan Rangel,MF,R,22,MEX,2,true,false,false,finishing,passing
+David Ramírez,FW,R,26,MEX,9,false,false,false,finishing,dribbling
+Víctor Dávila,FW,R,24,CHI,5,false,false,false,heading,stamina
+Di Yorio,FW,R,25,ARG,7,true,false,false,finishing,dribbling
+Joel Campbell,FW,L,30,CRC,1,true,false,false,finishing,heading

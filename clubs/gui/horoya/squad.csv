@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Moussa Camara,GK,L,23,GUI,4,true,false,false,rushing-out,penalty-saving
+Khadim N'Diaye,GK,R,37,SEN,10,false,false,false,reflexes,positioning
+Mohamed Kamara,GK,R,23,SLE,4,false,false,false,positioning,rushing-out
+Khadim Diaw,FB,L,24,SEN,2,true,false,false,marking,pace
+Alsény Camara,FB,R,26,GUI,9,true,false,false,marking,pace
+Samuel Conte,FB,R,22,GUI,4,false,false,false,marking,finishing
+M'Bemba Camara,FB,L,21,GUI,5,false,false,false,crossing,marking
+Abou Mangué,CB,R,26,GUI,7,true,false,false,heading,stamina
+Samassekou,CB,L,32,MLI,5,true,false,false,marking,pace
+Ibrahima Condé,CB,L,24,GUI,7,false,false,false,heading,stamina
+Salif Coulibaly,CB,R,34,MLI,6,false,false,false,tackling,heading
+Dramane Nikièma,MF,L,33,BFA,8,true,false,false,passing,finishing
+Boubacar Diarra,MF,L,28,MLI,10,true,false,false,tackling,heading
+Sebe Baffour,MF,R,26,GHA,8,true,false,false,tackling,finishing
+Mohamed Coumbassa,MF,R,27,GUI,8,true,false,false,passing,finishing
+Ismaël Camara,MF,L,24,GUI,1,false,false,false,passing,finishing
+Camara,MF,R,26,GUI,8,false,false,false,tackling,finishing
+Mory Kanté,MF,L,25,GUI,2,false,false,false,tackling,marking
+Amadou Wonkoye,FW,L,28,NIG,7,true,false,false,finishing,pace
+Boniface Haba,FW,R,25,GUI,8,true,false,false,finishing,dribbling
+Alseny Soumah,FW,L,21,GUI,2,false,false,false,finishing,pace
+Ocansey Mandela,FW,R,32,BFA,2,false,false,false,finishing,pace

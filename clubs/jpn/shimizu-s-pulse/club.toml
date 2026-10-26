@@ -1,0 +1,13 @@
+name = "Shimizu S-Pulse"
+country = "JPN"
+level = 12
+reputation = 2
+colors = ["#F0F0F0", "#004090"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Kanta Capixaba"
+country = "BRA"

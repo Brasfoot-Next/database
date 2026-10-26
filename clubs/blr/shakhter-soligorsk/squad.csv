@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sergey Chernik,GK,L,34,BLR,9,true,false,false,reflexes,positioning
+Roman Stepanov,GK,L,30,BLR,6,false,false,false,reflexes,positioning
+Maksim Plotnikov,GK,R,24,BLR,4,false,false,false,penalty-saving,reflexes
+Nikola Antic,FB,L,28,SRB,6,true,false,false,finishing,passing
+Gleb Shevchenko,FB,R,23,BLR,3,true,false,false,crossing,pace
+Denis Gruzhevskiy,FB,L,22,BLR,3,false,false,false,marking,pace
+Roman Yuzepchuk,FB,R,25,BLR,9,false,false,false,marking,passing
+Egor Filipenko,CB,R,34,BLR,6,true,false,false,tackling,stamina
+Sergey Politevich,CB,L,32,BLR,2,true,false,false,tackling,heading
+Ruslan Khadarkevich,CB,R,29,BLR,3,false,false,false,tackling,stamina
+Milos Satara,CB,L,26,BIH,8,false,false,false,tackling,stamina
+Valon Ahmedi,MF,R,27,ALB,7,true,false,false,playmaking,pace
+Pavel Zabelin,MF,R,27,BLR,5,true,false,false,tackling,finishing
+Nikita Korzun,MF,L,27,BLR,3,true,false,false,tackling,marking
+Zaim Divanovic,MF,L,21,MNE,8,true,false,false,marking,pace
+Ardit Krymi,MF,L,26,ALB,4,false,false,false,tackling,marking
+Dembo Darboe,FW,L,23,GAM,8,true,false,false,heading,pace
+Dmitriy Podstrelov,FW,R,23,BLR,1,false,false,false,finishing,pace
+Maksim Skavysh,FW,R,32,BLR,3,true,false,false,pace,finishing
+Andrey Solovey,FW,L,27,BLR,10,false,false,false,pace,finishing

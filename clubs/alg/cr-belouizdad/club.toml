@@ -1,0 +1,13 @@
+name = "CR Belouizdad"
+country = "ALG"
+level = 12
+reputation = 2
+colors = ["#F0F0F0", "#D00010"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Oussama Benayada"
+country = "BRA"

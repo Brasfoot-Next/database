@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Maxim Mocanu,GK,L,18,MDA,5,false,false,false,reflexes,positioning
+Damir Cebotari,GK,R,16,MDA,5,false,false,false,penalty-saving,rushing-out
+Allan Cebanu,FB,L,19,MDA,2,false,false,false,tackling,crossing
+Nesto Russu,FB,R,17,MDA,2,false,false,false,crossing,marking
+Daniel Guzun,FB,L,17,MDA,5,false,false,false,pace,crossing
+Tyler Negru,CB,R,18,MDA,6,false,false,false,tackling,stamina
+Oleg Melnic,CB,L,16,MDA,5,false,false,false,marking,heading
+Caleb Cojocari,CB,R,19,MDA,9,false,false,false,heading,tackling
+Vitale Raileanu,MF,L,19,MDA,5,false,false,false,passing,finishing
+Nicolas Uzun,MF,R,17,MDA,4,false,false,false,playmaking,pace
+Mihai Doga,MF,L,16,MDA,5,false,false,false,tackling,finishing
+Nicanor Ivanova,MF,R,19,MDA,7,false,false,false,marking,passing
+Marcel Railean,FW,L,18,MDA,4,false,false,false,dribbling,pace
+Nicholas Gheorghita,FW,R,17,MDA,7,false,false,false,finishing,stamina
+Constantin Russu,FW,L,19,MDA,6,false,false,false,finishing,dribbling

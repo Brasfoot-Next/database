@@ -1,0 +1,13 @@
+name = "SD Eibar"
+country = "ESP"
+level = 12
+reputation = 2
+colors = ["#F0F0F0", "#0070B0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Olaetxea Ares"
+country = "BRA"

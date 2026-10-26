@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tomas Frühwald,GK,L,23,SVK,3,true,false,false,rushing-out,positioning
+Michal Reichl,GK,R,33,CZE,5,false,false,false,penalty-saving,reflexes
+Jakub Siman,GK,L,31,CZE,6,false,false,false,reflexes,rushing-out
+David Lischka,CB,R,28,CZE,7,true,false,false,tackling,heading
+Matej Kadlec,CB,L,24,CZE,8,true,false,false,heading,tackling
+Jan Vondra,CB,R,30,CZE,4,false,false,false,heading,stamina
+David Heidenreich,CB,R,26,CZE,5,false,false,false,stamina,heading
+Jakub Tichy,CB,R,19,CZE,6,false,false,false,tackling,stamina
+Petr Mirvald,FB,R,23,CZE,10,false,false,false,crossing,passing
+Peter Kareem,FB,R,22,NGA,5,true,false,false,passing,pace
+Milan Havel,FB,R,32,CZE,6,true,false,false,heading,crossing
+Mathews Banda,FB,R,20,ZAM,7,false,false,false,stamina,pace
+Denis Vala,FB,R,25,CZE,3,false,false,false,tackling,marking
+Benson Sakala,MF,R,29,ZAM,5,true,false,false,passing,playmaking
+Vojtech Smrz,MF,R,29,CZE,6,false,false,false,playmaking,dribbling
+Oliver Mikuda,MF,R,21,CZE,7,false,false,false,passing,tackling
+Dominik Plestil,MF,R,26,CZE,3,false,false,false,pace,crossing
+Vaclav Pilar,MF,L,37,CZE,5,false,false,false,pace,crossing
+Jan Kovarik,MF,L,38,CZE,6,false,false,false,pace,crossing
+Jan Matousek,MF,R,28,CZE,7,true,false,false,stamina,passing
+Vladimir Zeman,MF,L,25,CZE,6,true,false,false,stamina,passing
+Simon Cerny,MF,R,19,CZE,7,false,false,false,stamina,tackling
+Ales Cermak,MF,R,31,CZE,4,true,false,false,playmaking,passing
+Ladislav Krobot,FW,L,25,CZE,5,true,false,false,heading,stamina
+Ladislav Almasi,FW,R,27,SVK,6,true,false,false,pace,crossing

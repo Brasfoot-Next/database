@@ -1,0 +1,13 @@
+name = "Larne"
+country = "NIR"
+level = 14
+reputation = 1
+colors = ["#ffffff", "#ff0000"]
+
+[stadium]
+name = "Inver Park "
+capacity = 1000
+
+[coach]
+name = "Tiernan Lynch"
+country = "NIR"

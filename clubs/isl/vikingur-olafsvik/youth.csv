@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Baldur Olsen,GK,R,19,ISL,5,true,false,false,positioning,reflexes
+Edvard Thorbergsson,GK,L,17,ISL,4,false,false,false,rushing-out,penalty-saving
+Borgthor Sveinbergsson,FB,R,19,ISL,8,false,false,false,passing,crossing
+Arthur Hlidarsson,FB,L,16,ISL,8,false,false,false,crossing,tackling
+Eyvar Snaibjoernsson,FB,R,17,ISL,2,false,false,false,pace,crossing
+Bogi Fridlaugursson,CB,L,17,ISL,10,false,false,false,marking,stamina
+Solbjartur Evaldsson,CB,R,19,ISL,7,false,false,false,tackling,heading
+Muni Kolvidursson,CB,L,18,ISL,4,false,false,false,stamina,tackling
+Sumarlidi Kristmundsson,MF,R,16,ISL,7,true,false,false,playmaking,passing
+Valmundur Atlasson,MF,L,19,ISL,4,false,false,false,passing,dribbling
+Ragnar Smári Gudmundsson,MF,R,19,ISL,8,true,false,false,marking,passing
+Sigurjón Kristinsson,MF,L,18,ISL,3,true,false,false,tackling,marking
+Bjartur Bjarmi Barkarson,FW,R,17,ISL,6,true,false,false,pace,finishing
+Aldar Julisson,FW,L,16,ISL,5,false,false,false,finishing,dribbling
+Varmar Hagbertsson,FW,R,19,ISL,5,false,false,false,heading,finishing

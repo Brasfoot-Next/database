@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Francisco Peralta,GK,R,25,PAR,3,true,false,false,rushing-out,reflexes
+Javier Talavera,GK,R,22,PAR,5,false,false,false,rushing-out,positioning
+Eduardo Ortellado,GK,R,21,PAR,6,false,false,false,rushing-out,positioning
+Rolando García Guerreño,CB,R,36,PAR,7,false,false,false,tackling,heading
+Bruno Díaz,CB,R,24,PAR,3,true,false,false,passing,marking
+Anibal Gómez,CB,R,29,PAR,5,true,false,false,passing,marking
+Wildo Alonso,FB,L,35,PAR,6,true,false,false,passing,crossing
+Néstor Díaz,FB,R,19,PAR,3,false,false,false,tackling,pace
+Víctor Barrios,FB,R,29,PAR,5,true,false,false,crossing,pace
+Edgar Ferreira,MF,R,38,PAR,6,false,false,false,tackling,passing
+Cristhian Batte,MF,R,22,PAR,6,true,false,false,stamina,tackling
+Denis Colmán,MF,R,23,PAR,7,true,false,false,stamina,tackling
+Franco Aragón,MF,R,32,ARG,2,true,false,false,finishing,passing
+Rodrigo Vera,MF,R,30,PAR,5,true,false,false,playmaking,passing
+Cristian Mercado,MF,L,20,PAR,6,false,false,false,tackling,passing
+Duván Zarate,MF,R,18,PAR,7,false,false,false,passing,stamina
+Francisco Esteche,FW,R,24,ARG,2,false,false,false,heading,pace
+Jesús Cáceres,FW,R,22,PAR,5,false,false,false,pace,finishing
+Paulo Cáceres,FW,R,23,PAR,6,false,false,false,heading,stamina
+Ángel Cristaldo,FW,R,21,PAR,7,false,false,false,crossing,pace
+Matías Silvero,FW,L,25,PAR,5,true,false,false,heading,finishing
+Lucas Zalazar,FW,R,28,PAR,6,true,false,false,crossing,pace
+David Fleitas,FW,R,29,PAR,7,false,false,false,pace,crossing
+Diego Martínez,FW,R,30,PAR,4,false,false,false,dribbling,pace
+Leonardo Rolón,FW,L,23,PAR,5,false,false,false,pace,dribbling

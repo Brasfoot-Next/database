@@ -1,0 +1,13 @@
+name = "Kauno Zalgiris"
+country = "LTU"
+level = 13
+reputation = 2
+colors = ["#004811", "#ffffff"]
+
+[stadium]
+name = "NFA"
+capacity = 5067
+
+[coach]
+name = "Rokas Garastas"
+country = "LTU"

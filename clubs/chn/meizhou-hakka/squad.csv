@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Liu Yun,FW,L,31,CHN,5,false,false,false,stamina,pace
+Wang Jianan,FB,L,33,CHN,6,true,false,false,stamina,pace
+Elias Mar Omarsson,FW,R,31,ISL,7,true,false,false,stamina,dribbling
+Liao Junjian,CB,R,32,CHN,3,false,false,false,stamina,tackling
+Rodrigo Henrique,MF,R,33,BRA,5,false,false,false,pace,dribbling
+Yue Tze-Nam,FB,R,28,CHN,6,true,false,false,stamina,pace
+Yang Chaosheng,FW,R,33,CHN,7,false,false,false,pace,stamina
+Yang Yihu,FB,L,34,CHN,3,false,false,false,stamina,dribbling
+Branimir Jocic,MF,R,31,SRB,5,true,false,false,stamina,passing
+Darick Kobie Morris,CB,L,31,CRO,6,true,false,false,pace,tackling
+Jerome Ngom Mbekeli,FW,L,27,CMR,5,true,false,false,pace,stamina
+Rao Weihui,FB,L,37,CHN,5,false,false,false,passing,stamina
+Zhong Haoran,MF,L,32,CHN,6,false,false,false,stamina,passing
+Ji Shengpan,FW,L,26,CHN,4,false,false,false,pace,dribbling
+Deng Yubiao,MF,R,29,CHN,5,true,false,false,pace,passing
+Chen Xuhuang,MF,R,23,CHN,6,true,false,false,stamina,pace
+Wei Xiangxin,FW,R,18,CHN,7,false,false,false,pace,finishing
+Guo Quanbo,GK,R,29,CHN,4,false,false,false,reflexes,penalty-saving
+Zhang Jiajie,MF,R,23,CHN,5,true,false,false,passing,pace
+Yi Xianlong,FW,L,25,CHN,6,false,false,false,pace,dribbling
+Tian Ziyi,CB,R,25,CHN,4,true,false,false,pace,stamina
+Yang Ruiqi,CB,R,22,CHN,5,false,false,false,tackling,playmaking
+Wen Zhanlin,FB,L,18,CHN,6,false,false,false,stamina,pace
+Wei Minghe,CB,R,23,CHN,7,false,false,false,stamina,pace
+Mai Gaoling,GK,R,27,CHN,6,true,false,false,penalty-saving,reflexes
+Sun Jianxiang,GK,R,26,CHN,7,false,false,false,rushing-out,penalty-saving
+Deng Xiongtao,GK,R,24,CHN,3,false,false,false,positioning,rushing-out

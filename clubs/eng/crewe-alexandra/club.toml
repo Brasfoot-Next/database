@@ -1,0 +1,13 @@
+name = "Crewe Alexandra"
+country = "ENG"
+level = 7
+reputation = 1
+colors = ["#F0F0F0", "#000020"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Adrien Griffiths"
+country = "BRA"

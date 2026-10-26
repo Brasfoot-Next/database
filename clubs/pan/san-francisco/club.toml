@@ -1,0 +1,13 @@
+name = "San Francisco"
+country = "PAN"
+level = 15
+reputation = 3
+colors = ["#ff6666", "#000000"]
+
+[stadium]
+name = "Agustín Sánchez"
+capacity = 3040
+
+[coach]
+name = "Gonzalo Soto"
+country = "COL"

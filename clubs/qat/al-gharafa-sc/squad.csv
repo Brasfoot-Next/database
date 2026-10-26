@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ahmed Kone,GK,R,21,ENG,5,false,false,false,positioning,reflexes
+Khalifa N'Diaye,GK,R,37,QAT,6,false,false,false,reflexes,positioning
+Hamad Kahiout,GK,R,22,QAT,8,false,false,false,rushing-out,positioning
+Mahmood Gamal,GK,R,24,EGY,4,true,false,false,reflexes,positioning
+Mason Holgate,CB,L,29,JAM,5,true,false,false,tackling,heading
+Matías Nani,CB,R,28,ARG,6,true,false,false,tackling,marking
+Hyun-soo Jang,CB,R,34,QAT,9,false,false,false,heading,marking
+Dame Traoré,CB,R,31,QAT,4,false,false,false,marking,passing
+Mohammed Ali Jamin,CB,R,26,IDN,5,true,false,false,heading,marking
+Saifeldeen Fadlalla,FB,L,23,QAT,6,false,false,false,pace,tackling
+Rayyan Ahmed Al-Ali,FB,R,20,QAT,7,false,false,false,tackling,marking
+Mostafa Essam,FB,R,24,QAT,1,true,false,false,stamina,pace
+Ayoub Al-Oui,FB,L,21,QAT,5,true,false,false,pace,tackling
+Abdulrahman Al-Rashidi,FB,L,31,QAT,5,false,false,false,passing,pace
+Chalpan Abdulnasir,FB,R,23,QAT,6,false,false,false,passing,crossing
+Fabricio Díaz,MF,R,23,URU,7,true,false,false,dribbling,passing
+Yousef Al-Khalif,MF,R,23,QAT,3,true,false,false,tackling,marking
+Ibrahim Tamer,MF,R,20,EGY,5,true,false,false,tackling,marking
+Florinel Coman,FW,R,28,ROU,6,false,false,false,finishing,pace
+Jamal Hamed,FW,R,24,QAT,7,false,false,false,finishing,dribbling
+Hassan Aladin,FW,R,26,QAT,6,false,false,false,dribbling,playmaking
+Jassim Al-Zarra,FW,R,24,QAT,7,false,false,false,pace,finishing
+Amro Surag,FW,R,28,QAT,4,true,false,false,dribbling,pace
+Mohammed Muntari,FW,R,32,QAT,5,true,false,false,finishing,heading
+Yousef Saaed Ahmed,FW,R,23,QAT,6,false,false,false,finishing,pace

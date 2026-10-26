@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ismail Al-Tamimi,GK,R,33,UAE,7,true,false,false,positioning,rushing-out
+Ali Al-Hosani,GK,R,38,UAE,3,false,false,false,rushing-out,positioning
+Mohamed Yousef,GK,L,35,UAE,5,false,false,false,positioning,reflexes
+Yousuf Ahmed,GK,R,37,UAE,6,false,false,false,rushing-out,positioning
+Gjoko Zajkov,CB,L,31,UAE,7,true,false,false,tackling,pace
+Yuri Matias,CB,R,31,BRA,3,false,false,false,tackling,marking
+Abdulrahman Rakan,CB,L,26,UAE,5,true,false,false,heading,marking
+Aleksandar Vasiljevic,CB,R,24,SRB,6,false,false,false,heading,stamina
+Abdalla Al-Junaibi,CB,R,38,UAE,7,false,false,false,heading,stamina
+Ahmed Sulaiman,FB,R,30,UAE,4,true,false,false,marking,crossing
+Mohamed Souboul,FB,R,24,MAR,4,false,false,false,stamina,crossing
+Jay Baisley,FB,L,22,ENG,5,false,false,false,marking,pace
+Fradj Ben Njima,FB,R,22,TUN,6,false,false,false,marking,crossing
+Mohammad Nasser,FB,L,22,UAE,7,false,false,false,tackling,pace
+Salem Suliman,FB,R,29,UAE,1,true,false,false,crossing,pace
+Yahya Jabrane,MF,R,35,MAR,5,false,false,false,stamina,passing
+Bilal Yousif,MF,R,31,UAE,6,true,false,false,finishing,playmaking
+Jobson,MF,L,30,BRA,7,true,false,false,passing,stamina
+Ismail Moumen,MF,R,23,MAR,1,true,false,false,passing,finishing
+Victor Hugo,MF,R,21,BRA,5,false,false,false,pace,dribbling
+Anas Mittache,MF,R,24,MAR,3,true,false,false,passing,stamina
+Lourency,FW,L,30,BRA,5,false,false,false,heading,stamina
+Lithierry,FW,R,25,UAE,5,false,false,false,dribbling,playmaking
+Mohammed Jumaa,FW,R,29,UAE,6,false,false,false,pace,finishing
+Victor Henrique,FW,L,23,BRA,7,false,false,false,dribbling,finishing
+Sékou Gassama,FW,L,25,MLI,4,false,false,false,heading,stamina
+Mohamed Al-Junaibi,FW,R,28,UAE,5,true,false,false,finishing,heading
+Abdulla Abdelaziz,FW,R,24,UAE,6,false,false,false,pace,finishing
+Walid Azaro,FW,R,31,MAR,8,true,false,false,heading,pace
+Saad Hadani,FW,R,21,MAR,4,false,false,false,pace,dribbling

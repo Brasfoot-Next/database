@@ -1,0 +1,13 @@
+name = "CS Sfaxien"
+country = "TUN"
+level = 16
+reputation = 2
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Taïeb Mhiri"
+capacity = 12000
+
+[coach]
+name = "Karim Delhoum"
+country = "TUN"

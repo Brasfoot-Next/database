@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Marios Siabanis,GK,R,26,GRE,7,false,false,false,reflexes,rushing-out
+Alexei Koselev,GK,R,32,GRE,2,false,false,false,positioning,penalty-saving
+Nikolaos Grammatikakis,GK,R,23,GRE,5,true,false,false,rushing-out,reflexes
+Athanasios Papathanasiou-Gerofokas,GK,R,20,GRE,6,false,false,false,reflexes,rushing-out
+Vangelis Koutoukas,GK,R,20,GRE,7,false,false,false,rushing-out,positioning
+Hatim Es-Saoubi,CB,R,25,MAR,3,true,false,false,heading,tackling
+Derek Agyakwa,CB,R,24,NED,5,true,false,false,tackling,marking
+Giannis Kargas,CB,R,31,GRE,6,false,false,false,tackling,pace
+Hamza Mendyl,FB,L,28,MAR,6,true,false,false,tackling,marking
+Konstantinos Lykourinos,FB,L,19,GRE,7,false,false,false,tackling,stamina
+Stefanos Katsikas,FB,R,24,GRE,5,true,false,false,passing,crossing
+Georgios Mygas,FB,L,32,GRE,6,false,false,false,marking,pace
+Lefteris Tasiouras,FB,L,22,GRE,8,false,false,false,dribbling,pace
+Anastasios Tsokanis,MF,R,35,GRE,4,true,false,false,tackling,marking
+Vasilios Grosdis,MF,L,24,GRE,5,true,false,false,finishing,playmaking
+Klearchos Vainopoulos,MF,R,21,GRE,6,true,false,false,finishing,passing
+Matías González,MF,L,24,ARG,9,true,false,false,dribbling,passing
+Lazaros Labrou,FW,R,28,GRE,4,false,false,false,dribbling,finishing
+Diamanti Legisi,FW,R,19,GRE,5,false,false,false,dribbling,pace
+Joca,FW,R,30,POR,7,true,false,false,dribbling,pace
+Maximiliano Comba,FW,R,32,ARG,5,false,false,false,heading,finishing
+Jan Hurtado,FW,R,26,VEN,6,true,false,false,pace,stamina
+Nabil Makni,FW,L,24,TUN,7,false,false,false,dribbling,pace

@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Pedro Porro,FB,R,26,ESP,8,true,false,false,stamina,crossing
+Dejan Kulusevski,MF,L,26,SWE,4,false,false,false,stamina,dribbling
+James Maddison,MF,R,29,ENG,6,false,false,false,playmaking,dribbling
+Xavi Simons,MF,R,23,NED,7,true,false,false,dribbling,playmaking
+Destiny Udogie,FB,L,23,ITA,8,false,false,false,pace,crossing
+Rodrigo Bentancur,MF,R,29,URU,5,false,false,false,passing,dribbling
+Pape Matar Sarr,MF,R,23,SEN,6,true,false,false,stamina,passing
+Mohammed Kudus,FW,L,26,GHA,7,true,false,false,dribbling,pace
+Yves Bissouma,MF,R,30,MLI,8,false,false,false,dribbling,passing
+Richarlison,FW,R,29,BRA,5,false,false,false,heading,dribbling
+Palhinha,MF,R,31,POR,8,false,false,false,tackling,marking
+Lucas Bergvall,MF,L,20,SWE,4,true,false,false,passing,playmaking
+Randal Kolo Muani,FW,R,27,FRA,6,false,false,false,pace,finishing
+Dominic Solanke,FW,R,28,ENG,7,false,false,false,stamina,heading
+Archie Gray,MF,R,20,ENG,1,true,false,false,stamina,passing
+Micky Van De Ven,CB,L,25,NED,6,true,false,false,pace,tackling
+Brennan Johnson,FW,L,25,WAL,6,true,false,false,pace,finishing
+Djed Spence,FB,L,26,ENG,8,true,false,false,pace,dribbling
+Mathys Tel,FW,R,21,FRA,2,false,false,false,pace,dribbling
+Ben Davies,CB,L,33,WAL,6,false,false,false,tackling,marking
+Cristian Romero,CB,R,28,ARG,7,true,false,false,tackling,marking
+Wilson Odobert,FW,L,21,FRA,10,false,false,false,pace,dribbling
+Kevin Danso,CB,R,27,AUT,6,false,false,false,heading,tackling
+Radu Dragusin,CB,R,24,ROU,7,false,false,false,tackling,heading
+Kota Takai,CB,R,22,JPN,9,false,false,false,heading,tackling
+Dane Scarlett,FW,R,22,ENG,5,false,false,false,pace,heading
+Guglielmo Vicario,GK,R,29,ITA,6,true,false,false,reflexes,penalty-saving
+Antonin Kinsky,GK,R,23,CZE,7,false,false,false,rushing-out,penalty-saving
+Brandon Austin,GK,R,27,ENG,10,false,false,false,penalty-saving,reflexes

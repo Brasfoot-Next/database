@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tomoki Hayakawa,GK,R,27,JPN,10,true,false,false,reflexes,penalty-saving
+Taiki Yamada,GK,L,24,JPN,5,false,false,false,reflexes,rushing-out
+Yuji Kajikawa,GK,R,34,JPN,6,false,false,false,rushing-out,positioning
+Haruto Fujii,GK,R,23,JPN,7,false,false,false,reflexes,positioning
+Tae-hyeon Kim,CB,R,25,JPN,1,true,false,false,tackling,pace
+Naomichi Ueda,CB,R,31,JPN,5,true,false,false,tackling,pace
+Ikuma Sekigawa,CB,R,25,JPN,6,false,false,false,heading,passing
+Kaito Chida,CB,R,31,JPN,7,false,false,false,tackling,heading
+Keisuke Tsukui,CB,R,22,JPN,1,false,false,false,tackling,marking
+Yugo Okawa,CB,R,19,JPN,5,false,false,false,marking,tackling
+Anthony Motosuna,CB,L,17,JPN,7,false,false,false,tackling,heading
+Ryoya Ogawa,FB,L,29,JPN,4,true,false,false,passing,pace
+Koki Anzai,FB,L,31,JPN,5,false,false,false,dribbling,pace
+Kimito Nono,FB,L,24,JPN,6,true,false,false,passing,crossing
+Ryuta Koike,FB,R,30,JPN,8,false,false,false,stamina,crossing
+Kento Misao,MF,R,30,JPN,4,true,false,false,playmaking,dribbling
+Matheus Bueno,MF,R,27,BRA,5,true,false,false,dribbling,passing
+Yuta Higuchi,MF,R,29,JPN,6,true,false,false,passing,finishing
+Gaku Shibasaki,MF,R,34,JPN,7,false,false,false,dribbling,pace
+Yuta Matsumura,MF,R,25,JPN,1,false,false,false,pace,crossing
+Haruki Hayashi,MF,L,22,JPN,5,false,false,false,pace,crossing
+Ryotaro Araki,MF,R,24,JPN,6,true,false,false,finishing,playmaking
+Élber,FW,R,34,BRA,8,false,false,false,pace,crossing
+Aleksandar Cavric,FW,R,32,SVK,4,false,false,false,pace,dribbling
+Léo Ceará,FW,R,31,BRA,5,true,false,false,finishing,stamina
+Yuma Suzuki,FW,R,30,JPN,6,true,false,false,playmaking,finishing
+Kyosuke Tagawa,FW,R,27,JPN,9,false,false,false,dribbling,finishing
+Homare Tokuda,FW,R,19,JPN,4,false,false,false,dribbling,pace
+Minato Yoshida,FW,R,18,JPN,5,false,false,false,pace,dribbling

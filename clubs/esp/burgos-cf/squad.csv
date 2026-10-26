@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Iñigo Córdoba,FW,L,29,ESP,7,true,false,false,pace,stamina
+Kevin Appin,MF,R,28,FRA,7,true,false,false,passing,stamina
+Mollejo,FW,L,25,ESP,3,false,false,false,stamina,pace
+Curro Sánchez,MF,L,30,ESP,5,false,false,false,stamina,pace
+Florian Miguel,FB,L,30,FRA,6,true,false,false,stamina,marking
+Iván Morante,MF,L,25,ESP,7,true,false,false,stamina,marking
+Sergio González,CB,R,29,ESP,4,true,false,false,stamina,passing
+David González,MF,L,24,ESP,5,false,false,false,passing,dribbling
+Fer Niño,FW,R,25,ESP,6,false,false,false,heading,finishing
+Atienza,MF,L,27,ESP,7,true,false,false,tackling,passing
+Mario Cantero,MF,R,24,ESP,4,false,false,false,pace,passing
+Chapela,FW,R,27,ESP,5,true,false,false,pace,dribbling
+Aitor Buñuel,FB,R,28,ESP,6,true,false,false,stamina,pace
+Mario González,FW,R,30,ESP,7,false,false,false,heading,dribbling
+Marcelo,MF,R,23,ESP,4,true,false,false,passing,stamina
+Ethan,MF,R,22,ESP,5,false,false,false,pace,passing
+Brais Martínez,FB,L,24,ESP,6,false,false,false,pace,crossing
+del Cerro,MF,L,22,ESP,8,false,false,false,passing,stamina
+Aitor Córdoba,CB,R,31,ESP,4,true,false,false,stamina,tackling
+Gregorio Sierra,CB,L,33,ESP,6,false,false,false,tackling,stamina
+Alex Lizancos,FB,R,22,ESP,7,false,false,false,pace,tackling
+Mateo Mejía,FW,R,23,COL,5,false,false,false,pace,crossing
+Fermín García,FW,R,22,ESP,6,false,false,false,pace,dribbling
+Cantero,GK,L,31,ESP,7,false,false,false,reflexes,positioning
+Jesús Ruiz,GK,R,29,ESP,3,false,false,false,reflexes,penalty-saving
+Monedero,GK,R,21,ESP,5,false,false,false,reflexes,positioning
+Diego González,GK,R,20,ESP,6,true,false,false,reflexes,positioning

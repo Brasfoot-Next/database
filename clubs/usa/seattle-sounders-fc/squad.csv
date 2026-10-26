@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Cristian Roldan,MF,R,31,USA,3,true,false,false,stamina,pace
+Pedro De La Vega,FW,R,25,ARG,5,false,false,false,pace,stamina
+Albert Rusnak,MF,R,32,SVK,6,true,false,false,stamina,passing
+Ryan Kent,FW,L,29,ENG,7,true,false,false,pace,dribbling
+Paul Arriola,FW,R,31,USA,4,false,false,false,stamina,pace
+Jesus Ferreira,MF,L,25,USA,5,true,false,false,pace,stamina
+João Paulo,MF,R,35,BRA,7,false,false,false,crossing,marking
+Alex Roldan,FB,R,30,USA,3,true,false,false,stamina,pace
+Jordan Morris,FW,R,31,USA,5,true,false,false,pace,heading
+Obed Vargas,MF,L,21,MEX,6,true,false,false,stamina,pace
+Nouhou Tolo,CB,L,29,CMR,7,false,false,false,pace,stamina
+Kim Kee-Hee,CB,R,37,KOR,3,false,false,false,heading,marking
+Snyder Brunell,MF,R,19,USA,5,false,false,false,pace,tackling
+Danny Leyva,MF,R,23,USA,6,false,false,false,passing,stamina
+Kalani Kossa Rienzi,FB,R,24,USA,7,true,false,false,dribbling,stamina
+Yeimar Gomez Andrade,CB,R,34,COL,3,true,false,false,heading,stamina
+Paul Rothrock,FW,L,27,USA,5,false,false,false,pace,dribbling
+Reed Baker Whiting,FB,L,21,USA,6,false,false,false,pace,dribbling
+Danny Musovski,FW,R,30,USA,7,false,false,false,stamina,finishing
+Jackson Ragen,CB,R,27,USA,3,true,false,false,tackling,marking
+Jon Bell,CB,L,29,JAM,7,false,false,false,pace,stamina
+Georgi Minoungou,FW,R,24,CIV,2,false,false,false,pace,dribbling
+Cody Baker,FB,R,22,USA,5,false,false,false,pace,stamina
+Osaze De Rosario,FW,R,25,GUY,6,false,false,false,finishing,heading
+Travian Sousa,FB,L,24,USA,7,false,false,false,pace,stamina
+Stuart Hawkins,CB,R,19,USA,2,false,false,false,heading,passing
+Leo Burney,CB,R,24,USA,5,false,false,false,heading,tackling
+Stefan Frei,GK,R,40,USA,6,false,false,false,positioning,reflexes
+Andrew Thomas,GK,R,28,RUS,7,true,false,false,rushing-out,reflexes
+Jacob Castro,GK,R,26,USA,3,false,false,false,rushing-out,reflexes

@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Giovani Lo Celso,MF,L,30,ARG,4,true,false,false,dribbling,playmaking
+Nelson Deossa,MF,L,26,COL,6,true,false,false,stamina,passing
+Isco,MF,R,34,ESP,6,false,false,false,playmaking,dribbling
+Fornals,MF,R,30,ESP,7,false,false,false,playmaking,stamina
+Ricardo Rodriguez,FB,L,34,SUI,8,false,false,false,crossing,dribbling
+Sofyan Amrabat,MF,R,30,MAR,5,true,false,false,stamina,tackling
+Aitor Ruibal,FB,R,30,ESP,6,true,false,false,pace,dribbling
+Antony,FW,L,26,BRA,7,true,false,false,pace,dribbling
+Cucho,FW,R,27,COL,9,false,false,false,dribbling,passing
+Chimy Ávila,FW,R,32,ARG,5,false,false,false,pace,heading
+Marc Roca,MF,L,29,ESP,7,false,false,false,passing,playmaking
+Bartra,CB,L,35,ESP,8,false,false,false,marking,tackling
+Junior Firpo,FB,L,30,ESP,5,false,false,false,stamina,crossing
+Riquelme,FW,L,26,ESP,6,false,false,false,pace,dribbling
+Cedric Bakambu,FW,R,35,COD,7,false,false,false,heading,finishing
+Altimira,MF,L,25,ESP,9,true,false,false,passing,playmaking
+Héctor Bellerín,FB,R,31,ESP,5,false,false,false,pace,crossing
+Abde,FW,L,24,MAR,6,false,false,false,pace,dribbling
+Diego Llorente,CB,R,33,ESP,7,false,false,false,tackling,marking
+Valentin Gomez,CB,L,23,ARG,9,true,false,false,stamina,pace
+Pablo García,FW,L,20,ESP,6,true,false,false,pace,playmaking
+Ángel Ortiz,FB,R,22,ESP,8,true,false,false,pace,crossing
+Natan,CB,L,25,BRA,4,true,false,false,tackling,marking
+Mawuli Mensah,MF,R,22,GHA,6,false,false,false,dribbling,passing
+Dani Pérez,MF,R,21,ESP,6,false,false,false,passing,dribbling
+Aitor Gismera,MF,R,22,ESP,8,false,false,false,playmaking,passing
+Iván Corralejo,MF,R,19,ESP,4,false,false,false,dribbling,pace
+Pau López,GK,L,31,ESP,6,false,false,false,positioning,reflexes
+Adrián,GK,R,39,ESP,7,false,false,false,rushing-out,positioning
+Álvaro Valles,GK,R,29,ESP,8,true,false,false,positioning,reflexes
+Manu González,GK,R,19,ESP,4,false,false,false,rushing-out,reflexes
+Germán García,GK,R,22,ESP,6,false,false,false,penalty-saving,reflexes

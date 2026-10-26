@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sasa Lukic,MF,L,30,SRB,6,true,false,false,stamina,tackling
+Alex Iwobi,FW,L,30,NGA,7,false,false,false,stamina,dribbling
+Antonee Robinson,FB,L,29,USA,9,true,false,false,stamina,pace
+Ryan Sessegnon,FB,L,26,ENG,5,true,false,false,pace,dribbling
+Raul Jimenez,FW,R,35,MEX,6,false,false,false,finishing,heading
+Harry Wilson,FW,L,29,WAL,7,true,false,false,crossing,playmaking
+Sander Berge,MF,R,28,NOR,7,true,false,false,stamina,passing
+Tom Cairney,MF,L,35,SCO,9,false,false,false,passing,playmaking
+Emile Smith Rowe,MF,R,26,ENG,5,true,false,false,dribbling,passing
+Timothy Castagne,FB,R,30,BEL,6,false,false,false,stamina,crossing
+Kenny Tete,FB,R,30,NED,6,false,false,false,tackling,crossing
+Calvin Bassey,CB,L,26,NGA,7,true,false,false,stamina,pace
+Adama Traoré,FW,R,30,ESP,9,false,false,false,pace,dribbling
+Samuel Chukwueze,FW,L,27,NGA,5,false,false,false,dribbling,pace
+Joachim Andersen,CB,R,30,DEN,6,true,false,false,marking,tackling
+Rodrigo Muniz,FW,R,25,BRA,7,false,false,false,heading,finishing
+Harrison Reed,MF,R,31,ENG,10,false,false,false,tackling,passing
+Kevin,FW,L,23,BRA,6,true,false,false,dribbling,pace
+Josh King,MF,R,19,ENG,6,true,false,false,dribbling,passing
+Jorge Cuenca,CB,L,26,ESP,7,false,false,false,tackling,marking
+Issa Diop,CB,R,29,FRA,6,false,false,false,heading,marking
+Jonah Kusi Asare,FW,R,19,SWE,7,false,false,false,heading,pace
+Bernd Leno,GK,R,34,GER,8,true,false,false,reflexes,positioning
+Benjamin Lecomte,GK,L,35,FRA,5,false,false,false,reflexes,positioning

@@ -1,0 +1,22 @@
+country = "SRB"
+
+[[divisions]]
+division = 1
+name = "Superliga"
+teams = 16
+two_rounds = true
+round_count = 0
+groups = 0
+games_within_group = true
+knockout_teams = 0
+two_legged_knockout = [true, true, true, true, true, true, true]
+qualify_by_overall_table = false
+best_third_places = false
+tiebreak = 0
+relegated = 2
+relegated_directly = 2
+relegated_by_group = false
+relegation_playoff = 0
+two_legged_relegation_playoff = [false, false, false]
+promotion_places = 0
+two_legged_promotion_knockout = [false, false, false]

@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ondrej Lingr,FW,L,27,CZE,5,false,false,false,heading,stamina
+Amine Bassi,MF,R,28,MAR,6,true,false,false,playmaking,passing
+Duane Holmes,MF,R,31,USA,7,true,false,false,stamina,dribbling
+Ezequiel Ponce,FW,R,29,ARG,1,true,false,false,heading,finishing
+Griffin Dorsey,FB,R,27,USA,5,true,false,false,stamina,pace
+Júnior Urso,MF,R,37,BRA,6,false,false,false,heading,passing
+Jack Mcglynn,FW,L,23,USA,7,true,false,false,stamina,passing
+Erik Sviatchenko,CB,R,34,DEN,2,false,false,false,stamina,heading
+Artur,MF,L,30,BRA,5,true,false,false,stamina,tackling
+Sebastian Kowalczyk,FW,R,28,POL,6,false,false,false,pace,stamina
+Franco Escobar,FB,L,31,ARG,4,false,false,false,pace,tackling
+Sergio Santos,FW,R,32,BRA,5,false,false,false,pace,dribbling
+Felipe Andrade,FB,L,24,BRA,6,true,false,false,pace,stamina
+Lawrence Ennali,FW,L,24,GER,7,false,false,false,pace,dribbling
+Daniel Steres,FB,L,35,USA,4,false,false,false,heading,passing
+Antônio Carlos,CB,R,33,BRA,5,true,false,false,heading,tackling
+Brooklyn Raines,MF,R,21,USA,6,true,false,false,pace,passing
+Nelson Quinones,FW,L,24,COL,8,false,false,false,pace,dribbling
+Stephen Annor Gyamfi,FW,R,23,GHA,4,false,false,false,pace,heading
+Erik Duenas,MF,R,21,MEX,5,false,false,false,pace,dribbling
+Pablo Ortiz,CB,L,26,COL,3,false,false,false,pace,heading
+Michael Halliday,FB,R,23,USA,5,false,false,false,pace,stamina
+Gabriel Segal,FW,R,25,USA,6,false,false,false,finishing,pace
+Exon Arzú,FW,R,22,USA,7,false,false,false,pace,dribbling
+Femi Awodesu,CB,L,25,USA,3,false,false,false,pace,marking
+Ethan Bartlow,CB,R,26,USA,5,true,false,false,marking,stamina
+Jonathan Bond,GK,R,33,ENG,6,true,false,false,positioning,penalty-saving
+Jimmy Maurer,GK,L,37,USA,7,false,false,false,positioning,reflexes
+Andrew Tarbell,GK,R,32,USA,3,false,false,false,reflexes,penalty-saving
+Blake Gillingham,GK,R,23,USA,5,false,false,false,positioning,rushing-out

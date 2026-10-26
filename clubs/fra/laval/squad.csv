@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Malik Sellouki,FW,L,26,FRA,7,true,false,false,dribbling,pace
+Sam Sanna,MF,L,27,FRA,3,true,false,false,stamina,dribbling
+Julien Maggiotti,MF,R,30,FRA,5,true,false,false,stamina,playmaking
+Thibaut Vargas,FB,R,26,FRA,6,true,false,false,stamina,pace
+Cyril Mandouki,MF,R,35,FRA,7,false,false,false,stamina,heading
+Titouan Thomas,MF,R,24,FRA,3,true,false,false,stamina,playmaking
+Theo Pellenard,CB,L,32,FRA,4,true,false,false,crossing,tackling
+William Benard,MF,R,23,FRA,5,true,false,false,stamina,pace
+Malik Tchokounte,FW,R,37,FRA,6,false,false,false,heading,stamina
+Mamadou Camara,FW,L,25,MLI,9,false,false,false,stamina,pace
+Yohan Tavares,CB,R,38,POR,7,false,false,false,tackling,marking
+Ylies Aradj,FB,L,21,FRA,4,true,false,false,tackling,passing
+Eros Maddy,FW,R,25,NED,5,true,false,false,pace,dribbling
+Peter Ouaneh,CB,R,28,FRA,6,true,false,false,stamina,tackling
+Enzo Montet,MF,L,23,FRA,8,false,false,false,passing,stamina
+Aymeric Faurand Tournaire,FW,R,22,FRA,4,false,false,false,pace,finishing
+Ethan Clavreul,MF,R,20,FRA,5,false,false,false,passing,dribbling
+Noa Mupemba,FW,R,24,FRA,6,false,false,false,finishing,pace
+Moise Adilehou,CB,R,30,FRA,9,false,false,false,heading,tackling
+William Bianda,CB,L,26,FRA,4,false,false,false,tackling,heading
+Matteo Commaret,CB,R,24,FRA,5,false,false,false,tackling,pace
+Mamadou Samassa,GK,R,36,MLI,6,false,false,false,positioning,penalty-saving
+Maxime Hautbois,GK,R,35,FRA,7,true,false,false,rushing-out,reflexes
+Mathis Ntessa,GK,R,18,FRA,4,false,false,false,rushing-out,penalty-saving

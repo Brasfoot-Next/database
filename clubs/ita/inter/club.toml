@@ -1,0 +1,13 @@
+name = "Inter"
+country = "ITA"
+level = 24
+reputation = 5
+colors = ["#002090", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Josep Martínez"
+country = "BRA"

@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Juan Moreno,GK,R,27,COL,7,true,false,false,positioning,rushing-out
+Pedro González,GK,R,27,PAR,3,false,false,false,positioning,penalty-saving
+Lukas González,GK,R,24,URU,5,false,false,false,reflexes,penalty-saving
+Alexis Piegas,CB,R,24,URU,6,true,false,false,stamina,heading
+Lucas Correa,CB,R,30,URU,7,false,false,false,tackling,marking
+Matías Fracchia,CB,R,30,URU,4,false,false,false,heading,stamina
+Nicolás Ramos,CB,L,21,URU,5,false,false,false,marking,heading
+Gabriel Chocobar,CB,R,26,ARG,6,true,false,false,marking,tackling
+Axel Prado,CB,L,23,URU,7,false,false,false,heading,marking
+Santiago Franca,FB,L,23,URU,4,true,false,false,crossing,passing
+Mateo Monserrat,FB,L,21,ARG,4,false,false,false,tackling,marking
+Facundo Acosta,FB,L,20,URU,6,false,false,false,tackling,marking
+Alexander Hernández,FB,R,21,URU,7,false,false,false,crossing,passing
+Fernando Souza,FB,L,28,URU,10,true,false,false,passing,pace
+Julián Pou,FB,R,22,URU,4,false,false,false,crossing,pace
+Facundo Alvez,FB,L,19,URU,6,false,false,false,tackling,marking
+Sebastián Assís,MF,R,33,URU,8,false,false,false,passing,playmaking
+Emiliano Jourdan,MF,R,22,URU,4,false,false,false,stamina,passing
+Nicolás Bertocchi,MF,R,37,ARG,5,false,false,false,stamina,passing
+Santiago Marcel,MF,R,24,URU,6,true,false,false,playmaking,dribbling
+Mario García,MF,L,27,URU,3,true,false,false,dribbling,passing
+Ezequiel Cabral,MF,R,28,URU,5,true,false,false,tackling,marking
+Axel Pandiani,MF,R,25,URU,6,true,false,false,passing,stamina
+Andrés Córdoba,FW,R,28,COL,7,true,false,false,crossing,pace
+Bruno Hernández,FW,L,21,URU,4,false,false,false,pace,dribbling
+Lucas Píriz,FW,R,24,URU,5,false,false,false,heading,finishing
+Gustavo Viera,FW,R,25,URU,7,true,false,false,pace,stamina
+Federico Sellecchia,FW,R,32,ARG,3,false,false,false,dribbling,pace
+Diego Daguerre,FW,R,21,URU,5,false,false,false,crossing,pace
+Ihojan Pérez,FW,R,20,URU,6,false,false,false,dribbling,playmaking
+Borys Barone,FW,L,32,URU,3,false,false,false,pace,finishing
+Facundo Da Costa,FW,R,23,URU,5,false,false,false,playmaking,finishing
+Thomas González,FW,R,22,URU,6,false,false,false,tackling,pace

@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Dorukhan Tokoz,MF,R,30,TUR,7,false,false,false,marking,stamina
+Laszlo Benes,MF,L,28,SVK,1,true,false,false,crossing,passing
+Carlos Mané,FW,R,32,GNB,5,false,false,false,pace,dribbling
+João Mendes,MF,R,31,POR,6,true,false,false,playmaking,passing
+Youssef Ait Bennasser,MF,R,30,MAR,7,true,false,false,passing,dribbling
+Stefano Denswil,CB,L,33,SUR,2,false,false,false,tackling,heading
+Ramazan Civelek,FB,R,30,TUR,5,true,false,false,pace,marking
+Furkan Soyalp,MF,R,31,TUR,6,false,false,false,passing,dribbling
+Ali Karimi,MF,R,32,TUR,7,true,false,false,heading,passing
+Lionel Carole,FB,L,35,FRA,2,true,false,false,pace,marking
+Burak Kapacak,FW,R,26,TUR,7,false,false,false,pace,dribbling
+Miguel Cardoso,FW,L,32,POR,4,true,false,false,pace,dribbling
+Aaron Opoku,FW,R,27,GER,5,false,false,false,pace,dribbling
+Indrit Tuci,FW,R,25,ALB,6,false,false,false,heading,pace
+Gideon Jung,CB,R,31,GER,8,false,false,false,tackling,pace
+Yaw Ackah,MF,R,27,GHA,4,false,false,false,pace,tackling
+German Onugkha,FW,R,30,RUS,5,true,false,false,finishing,heading
+Majid Hosseini,CB,R,30,TUR,6,true,false,false,stamina,heading
+Eray Ozbek,MF,L,23,TUR,7,false,false,false,stamina,pace
+Yigit Emre Celtik,MF,L,23,TUR,1,false,false,false,pace,dribbling
+Abdulsamet Burak,CB,L,30,TUR,7,false,false,false,tackling,marking
+Talha Sariarslan,FW,R,22,TUR,3,false,false,false,heading,dribbling
+Kayra Cihan,CB,L,18,TUR,5,false,false,false,stamina,pace
+Arif Kocaman,CB,L,22,TUR,6,true,false,false,marking,tackling
+Nurettin Korkmaz,FW,L,24,TUR,7,false,false,false,pace,dribbling
+Enes Melih Gokcek,FB,R,19,TUR,3,false,false,false,tackling,dribbling
+Bilal Bayazit,GK,R,27,TUR,5,false,false,false,reflexes,positioning
+Onurcan Piri,GK,R,31,TUR,6,true,false,false,reflexes,penalty-saving
+Ş. Öztürk,GK,R,21,TUR,6,false,false,false,penalty-saving,rushing-out

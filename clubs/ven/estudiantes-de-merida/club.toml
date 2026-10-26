@@ -1,0 +1,13 @@
+name = "Estudiantes de Mérida"
+country = "VEN"
+level = 10
+reputation = 2
+colors = ["#F0F0F0", "#000020"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Ronaldo Montero"
+country = "BRA"

@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gianluca Busio,MF,R,24,USA,5,true,false,false,stamina,passing
+Alfred Duncan,MF,L,33,GHA,6,true,false,false,passing,tackling
+Emil Bohinen,MF,L,27,NOR,8,true,false,false,stamina,passing
+Cheick Conde,MF,R,26,GUI,4,false,false,false,tackling,playmaking
+Kike Pérez,MF,L,29,ESP,5,true,false,false,dribbling,passing
+Ridgeciano Haps,FB,L,33,SUR,6,true,false,false,pace,crossing
+Bartol Franjic,CB,L,26,CRO,7,true,false,false,stamina,heading
+Nunzio Lella,MF,R,26,ITA,2,false,false,false,stamina,pace
+Casas,FW,R,26,ESP,5,false,false,false,pace,finishing
+Issa Doumbia,MF,L,22,ITA,6,false,false,false,pace,passing
+Andrea Adorante,FW,L,26,ITA,3,false,false,false,finishing,heading
+John Yeboah,FW,L,26,ECU,5,false,false,false,pace,stamina
+Antoine Hainaut,FB,R,24,FRA,6,true,false,false,marking,passing
+Alessandro Pietrelli,FW,R,23,ITA,7,false,false,false,pace,dribbling
+Richie Sagrado,FW,R,22,BEL,4,true,false,false,pace,dribbling
+Daniel Fila,FW,L,24,CZE,5,true,false,false,finishing,pace
+Bjarki Steinn Bjarkason,FB,L,26,ISL,6,false,false,false,dribbling,passing
+Marin Sverko,CB,L,28,CRO,7,false,false,false,stamina,tackling
+Mattia Compagnon,FW,L,24,ITA,4,false,false,false,dribbling,finishing
+Michael Venturi,CB,R,27,ITA,5,false,false,false,marking,tackling
+Michael Svoboda,CB,R,27,AUT,6,false,false,false,stamina,tackling
+Joel Schingtienne,CB,R,24,BEL,7,true,false,false,stamina,tackling
+Ahmed Sidibe,CB,L,24,FRA,4,false,false,false,tackling,heading
+Seid Korac,CB,R,24,ITA,5,false,false,false,tackling,stamina
+Matteo Grandi,GK,R,33,ITA,6,false,false,false,positioning,rushing-out
+Filip Stankovic,GK,R,24,SRB,7,true,false,false,reflexes,penalty-saving
+Alessandro Plizzari,GK,R,26,ITA,4,false,false,false,reflexes,rushing-out

@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+José Camacaro,GK,L,24,VEN,7,false,false,false,rushing-out,positioning
+Rafael Ramírez,GK,R,23,VEN,3,false,false,false,reflexes,rushing-out
+Joel Torres,GK,R,20,VEN,5,false,false,false,rushing-out,reflexes
+Jeremías Medina,GK,R,25,VEN,6,true,false,false,rushing-out,positioning
+Samuel Orejuela,CB,R,25,COL,7,false,false,false,marking,heading
+Frank Chávez,CB,R,21,VEN,3,false,false,false,tackling,pace
+Fernando Díaz,CB,R,22,VEN,6,false,false,false,heading,stamina
+Paolo Chacón,CB,R,29,VEN,7,false,false,false,heading,passing
+Óscar Conde,CB,R,24,VEN,2,false,false,false,stamina,heading
+Jose Moran,CB,L,26,VEN,5,true,false,false,tackling,stamina
+Oscar García,CB,R,20,VEN,5,true,false,false,marking,stamina
+Jaider Julio,FB,R,25,VEN,6,true,false,false,dribbling,pace
+Andrés Kinsler,FB,R,21,VEN,8,false,false,false,marking,crossing
+Daniel Rivillo,FB,R,29,VEN,4,true,false,false,pace,crossing
+Angel Jimenez,FB,R,20,VEN,5,false,false,false,crossing,pace
+Jorge Luis Gómez,MF,R,29,VEN,6,true,false,false,pace,dribbling
+Jhan Velez,MF,R,20,VEN,9,false,false,false,dribbling,pace
+Joiser Arias,MF,R,27,VEN,5,true,false,false,tackling,marking
+Johao Martínez,MF,R,27,VEN,6,true,false,false,passing,stamina
+Edwin Castro,MF,R,28,VEN,7,true,false,false,tackling,marking
+Edwin Palma,MF,R,22,VEN,5,false,false,false,tackling,passing
+Gilmar Martínez,MF,R,19,VEN,6,false,false,false,marking,passing
+Daniel Franco,MF,L,21,VEN,7,false,false,false,stamina,passing
+Nicolas Morales,MF,R,25,VEN,3,false,false,false,playmaking,dribbling
+Deiber Vásquez,FW,R,21,VEN,5,false,false,false,dribbling,finishing
+Lewuis Peña,FW,R,22,VEN,6,false,false,false,dribbling,pace
+Maiken González,FW,R,20,VEN,7,false,false,false,dribbling,pace
+Cristian Romero,FW,R,21,VEN,4,true,false,false,heading,pace
+Luis Dugarte,FW,R,21,VEN,5,false,false,false,finishing,pace
+Luis Urbina,FW,R,24,VEN,6,false,false,false,dribbling,playmaking
+Junior Colina,FW,R,19,VEN,5,false,false,false,finishing,dribbling
+Jhon Mejía,FW,R,24,VEN,6,false,false,false,finishing,dribbling
+Luis Paz,FW,R,31,VEN,7,true,false,false,dribbling,finishing
+José Luis Ochoa,FW,L,27,VEN,2,false,false,false,crossing,pace

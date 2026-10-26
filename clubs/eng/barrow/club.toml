@@ -1,0 +1,13 @@
+name = "Barrow"
+country = "ENG"
+level = 7
+reputation = 1
+colors = ["#F0F0F0", "#205090"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Scott Smith"
+country = "BRA"

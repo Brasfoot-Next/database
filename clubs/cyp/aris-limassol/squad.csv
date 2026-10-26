@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Vaná Alves,GK,R,31,BRA,4,true,false,false,positioning,rushing-out
+Papastylianou,GK,L,24,CYP,10,false,false,false,reflexes,positioning
+Ellinas Sofroniou,GK,R,27,CYP,6,false,false,false,reflexes,positioning
+Caju,FB,L,27,BRA,4,true,false,false,marking,passing
+Kostas Pileas,FB,R,23,CYP,3,false,false,false,marking,passing
+Steeve Yago,FB,R,29,BFA,5,true,false,false,finishing,pace
+Franz Brorsson,CB,L,26,SWE,6,true,false,false,tackling,stamina
+Moucketou-Moussounda,CB,L,21,GAB,7,false,false,false,tackling,heading
+Gordon Schildenfeld,CB,R,37,CRO,7,false,false,false,heading,stamina
+Delmiro,CB,R,33,CPV,8,true,false,false,tackling,stamina
+Matija Spoljaric,MF,L,25,CYP,5,true,false,false,passing,finishing
+Morgan Brown,MF,L,22,ENG,2,true,false,false,tackling,pace
+Evgeniy Yablonskiy,MF,R,27,BLR,10,true,false,false,marking,finishing
+Julius Szöke,MF,R,26,SVK,4,true,false,false,tackling,heading
+Konan,MF,R,18,CIV,5,false,false,false,tackling,marking
+Kévin Monnet-Paquet,MF,L,33,FRA,3,false,false,false,playmaking,passing
+Martin Slogar,FW,R,21,CRO,6,true,false,false,pace,finishing
+Mihlali Mayambela,FW,L,25,RSA,9,true,false,false,finishing,dribbling
+Leo Bengtsson,FW,L,24,SWE,2,false,false,false,finishing,pace
+Daniel Sikorski,FW,R,34,AUT,3,false,false,false,finishing,dribbling

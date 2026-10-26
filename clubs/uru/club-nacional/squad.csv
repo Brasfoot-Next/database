@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ignacio Suárez,GK,R,24,URU,6,true,false,false,reflexes,rushing-out
+Alexis Martín Arias,GK,R,34,ARG,7,false,false,false,reflexes,penalty-saving
+Luis Mejía,GK,L,35,PAN,2,false,false,false,reflexes,positioning
+Francisco Calvo,CB,R,34,URU,5,true,false,false,marking,tackling
+Agustín Rogel,CB,R,28,URU,6,true,false,false,heading,tackling
+Paolo Calione,CB,R,20,URU,1,false,false,false,tackling,marking
+Tomás Viera,CB,R,20,URU,5,false,false,false,tackling,marking
+Sebastián Coates,CB,R,35,URU,6,false,false,false,tackling,marking
+Camilo Cándido,FB,L,31,URU,7,false,false,false,pace,crossing
+Benjamín Núñez,FB,R,23,URU,1,false,false,false,passing,pace
+Federico Bais,FB,R,18,URU,6,false,false,false,passing,pace
+Juan Pintado,FB,R,29,URU,7,false,false,false,stamina,pace
+Emiliano Ancheta,FB,R,27,URU,2,true,false,false,tackling,stamina
+Facundo González,FB,L,23,URU,5,false,false,false,tackling,heading
+Nicolás Rodríguez,FB,R,35,URU,6,true,false,false,crossing,passing
+Mauricio Vera,MF,L,28,ARG,7,true,false,false,tackling,stamina
+Bruno Zuculini,MF,R,33,ARG,3,true,false,false,stamina,passing
+Juan Ignacio García,MF,R,20,URU,5,false,false,false,stamina,passing
+Luciano Boggio,MF,L,27,URU,6,true,false,false,stamina,playmaking
+Baltasar Barcia,MF,R,25,URU,7,true,false,false,pace,stamina
+Agustín Dos Santos,MF,R,18,URU,5,false,false,false,marking,passing
+Lucas Rodríguez,MF,R,33,URU,7,false,false,false,passing,tackling
+Nicolás Lodeiro,MF,R,37,URU,1,false,false,false,pace,dribbling
+Juan Cruz de los Santos,FW,R,23,URU,4,false,false,false,finishing,pace
+Rodrigo Martínez,FW,R,18,URU,5,false,false,false,playmaking,finishing
+Tomás Verón Lupi,FW,R,26,ARG,7,true,false,false,dribbling,pace
+Maxi Gómez,FW,R,29,URU,1,true,false,false,dribbling,finishing
+Maximiliano Silvera,FW,R,29,URU,5,false,false,false,finishing,stamina
+Tiziano Correa,FW,R,21,URU,6,false,false,false,heading,stamina
+Gonzalo Carneiro,FW,L,30,URU,7,false,false,false,finishing,pace
+Pavel Núñez,FW,L,20,URU,5,false,false,false,dribbling,playmaking

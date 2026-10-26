@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Reis,FW,R,33,BRA,6,false,false,false,pace,stamina
+Choi Kyoung Rok,MF,L,31,KOR,8,true,false,false,stamina,passing
+Ju Se Jong,MF,R,35,KOR,2,false,false,false,stamina,crossing
+Moon Min Seo,FW,L,22,KOR,5,false,false,false,stamina,pace
+Sim Sang Min,FB,L,33,KOR,6,false,false,false,pace,stamina
+Lee Kang Hyeon,MF,R,28,KOR,7,true,false,false,stamina,pace
+Shin Chang Moo,FW,L,33,KOR,3,false,false,false,stamina,playmaking
+Lee Min Gi,FB,L,33,KOR,5,false,false,false,stamina,pace
+Kim Jin Ho,FB,R,26,KOR,6,true,false,false,stamina,pace
+Oh Hoo Sung,FW,L,27,KOR,7,true,false,false,pace,stamina
+Park Jung In,FW,R,25,KOR,1,false,false,false,pace,dribbling
+Holmbert Aron Fridhjonsson,FW,L,33,ISL,4,false,false,false,heading,finishing
+Byeon Jun Soo,CB,R,24,KOR,5,true,false,false,stamina,pace
+Kim Han Gil,FW,L,31,KOR,7,false,false,false,pace,stamina
+Yu Je Ho,MF,R,26,KOR,1,true,false,false,stamina,playmaking
+Min Sang Gi,CB,R,35,KOR,5,false,false,false,heading,marking
+Park In Hyeok,FW,R,30,KOR,6,false,false,false,pace,stamina
+Cho Sung Gwon,FB,R,25,KOR,7,true,false,false,stamina,pace
+Kwon Seong Yoon,FB,R,25,KOR,2,false,false,false,stamina,pace
+Ha Seung Un,FW,L,28,KOR,5,true,false,false,pace,stamina
+Ahn Young Kyu,CB,R,36,KOR,7,false,false,false,stamina,heading
+Kang Hui su,MF,R,23,KOR,4,true,false,false,pace,passing
+Jung Ji Hoon,FW,R,22,KOR,5,false,false,false,pace,dribbling
+Hong Yong Jun,MF,L,23,KOR,6,false,false,false,pace,passing
+Ahn Hyeok Ju,FW,L,22,KOR,8,false,false,false,pace,passing
+Jin Si Woo,CB,L,24,KOR,4,true,false,false,heading,tackling
+Kim Yun Ho,FW,R,19,KOR,5,false,false,false,heading,stamina
+Kim Gyeong Min,GK,R,34,KOR,6,false,false,false,positioning,reflexes
+Kwak Sung Hun,CB,R,20,KOR,8,false,false,false,pace,tackling
+Roh Hee Dong,GK,R,24,KOR,4,false,false,false,rushing-out,reflexes
+Kim Tae Jun,GK,R,25,KOR,6,true,false,false,penalty-saving,reflexes
+Kim Dong Hwa,GK,R,23,KOR,3,false,false,false,penalty-saving,reflexes

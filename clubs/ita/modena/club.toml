@@ -1,0 +1,13 @@
+name = "Modena"
+country = "ITA"
+level = 12
+reputation = 2
+colors = ["#000040", "#F0E000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Giuseppe Mendes"
+country = "BRA"

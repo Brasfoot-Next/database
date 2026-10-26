@@ -1,0 +1,13 @@
+name = "Leeds United"
+country = "ENG"
+level = 17
+reputation = 3
+colors = ["#F0D030", "#3050A0"]
+
+[stadium]
+name = "Elland Road"
+capacity = 37890
+
+[coach]
+name = "Joel James"
+country = "BRA"

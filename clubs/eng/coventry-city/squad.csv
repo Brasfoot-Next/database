@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jack Rudoni,MF,L,25,ENG,10,true,false,false,stamina,dribbling
+Milan Van Ewijk,FB,R,26,NED,5,true,false,false,pace,stamina
+Matt Grimes,MF,L,31,ENG,6,false,false,false,stamina,passing
+Victor Torp,MF,R,27,DEN,7,true,false,false,stamina,playmaking
+Tatsuhiro Sakamoto,FW,L,29,JPN,1,false,false,false,stamina,dribbling
+Jamie Allen,MF,R,31,ENG,5,false,false,false,stamina,pace
+Josh Eccles,MF,R,26,ENG,6,true,false,false,stamina,passing
+Kaine Kesler Hayden,FB,R,23,ENG,7,false,false,false,stamina,pace
+Ephron Mason Clark,FW,L,27,ENG,1,true,false,false,pace,dribbling
+Haji Wright,FW,R,28,USA,5,true,false,false,pace,finishing
+Brandon Thomas Asante,FW,R,27,GHA,1,false,false,false,pace,stamina
+Jake Bidwell,FB,L,33,ENG,5,false,false,false,stamina,crossing
+Jay Dasilva,FB,L,28,WAL,6,true,false,false,pace,dribbling
+Brau,FB,L,24,ESP,7,false,false,false,pace,stamina
+Ellis Simms,FW,R,25,ENG,2,false,false,false,pace,finishing
+Luke Woolfenden,CB,R,27,ENG,5,true,false,false,tackling,marking
+Kai Andrews,MF,R,20,WAL,6,true,false,false,pace,passing
+Bobby Thomas,CB,R,25,ENG,7,false,false,false,heading,stamina
+Joel Latibeaudiere,CB,R,26,JAM,5,true,false,false,tackling,stamina
+Liam Kitching,CB,L,26,ENG,6,false,false,false,heading,tackling
+Carl Rushworth,GK,L,25,ENG,7,true,false,false,reflexes,penalty-saving
+Ben Wilson,GK,R,34,ENG,4,false,false,false,reflexes,penalty-saving
+Oliver Dovin,GK,R,24,SWE,5,false,false,false,reflexes,penalty-saving

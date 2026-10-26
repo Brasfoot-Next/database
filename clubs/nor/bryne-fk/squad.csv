@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Magnus Retsius Grodem,MF,R,28,NOR,6,true,false,false,pace,dribbling
+Christian Landu Landu,MF,R,34,NOR,7,false,false,false,heading,marking
+Rasmus Thellufsen,MF,R,29,DEN,2,true,false,false,pace,passing
+Remi Andre Svindland,FW,R,28,NOR,5,true,false,false,stamina,pace
+Jon Helge Tveita,FW,L,33,NOR,6,false,false,false,stamina,pace
+Nicklas Strunck,MF,L,27,DEN,7,true,false,false,stamina,dribbling
+Lars Erik Sodal,MF,R,24,NOR,3,true,false,false,passing,tackling
+Dadi Dodou Gaye,FB,R,31,GAM,5,true,false,false,pace,stamina
+Jesper Gregersen,MF,R,22,NOR,5,false,false,false,pace,passing
+Duarte Moreira,FW,R,24,POR,6,false,false,false,pace,stamina
+Mats Thornes,FW,L,24,NOR,5,false,false,false,pace,passing
+Alfred Scriven,FW,R,28,NOR,6,false,false,false,pace,finishing
+Eirik Saunes,FB,L,27,NOR,1,true,false,false,pace,stamina
+Sanel Bojadzic,FW,L,27,GER,4,true,false,false,pace,finishing
+Martin Amot Lye,MF,R,18,NOR,5,false,false,false,stamina,pace
+Jaran Eike Ostrem,FW,R,18,NOR,7,false,false,false,pace,stamina
+Lasse Qvigstad,FB,R,23,NOR,1,false,false,false,stamina,crossing
+Sjur Jonassen,FW,R,21,NOR,5,false,false,false,pace,finishing
+Andreas Skovgaard,CB,L,29,DEN,6,true,false,false,stamina,heading
+Kristian Haland,FW,R,19,NOR,6,false,false,false,pace,dribbling
+Jacob Haahr,CB,R,24,DEN,5,true,false,false,pace,heading
+Patrick Wik,CB,L,21,NOR,6,false,false,false,pace,heading
+Anton Cajtoft,GK,R,32,SWE,7,false,false,false,positioning,reflexes
+Jan De Boer,GK,R,26,NED,4,true,false,false,positioning,penalty-saving
+Igor Spiridonov,GK,R,38,LTU,5,false,false,false,positioning,rushing-out

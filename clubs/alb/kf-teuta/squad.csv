@@ -1,0 +1,18 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Panajot Qirko,GK,L,23,ALB,5,true,false,false,reflexes,positioning
+Endri Dema,GK,R,18,ALB,4,false,false,false,rushing-out,penalty-saving
+Jackson,FB,L,31,BRA,3,true,false,false,finishing,pace
+Blerim Kotobelli,FB,R,29,ALB,3,true,false,false,marking,pace
+Hektor Idrizaj,FB,R,33,ALB,4,false,false,false,finishing,passing
+Reild Kurti,FB,L,19,ALB,10,false,false,false,crossing,pace
+Artan Jazxhi,CB,L,21,ALB,7,true,false,false,tackling,stamina
+Harallamb Qaqi,CB,R,28,ALB,10,true,false,false,marking,pace
+Danilo Gecaj,CB,R,22,ALB,3,false,false,false,marking,pace
+Emiljano Vila,MF,L,34,ALB,6,true,false,false,finishing,passing
+Uheid Hoxha,MF,R,21,ALB,5,true,false,false,playmaking,finishing
+Ledio Beqja,MF,L,21,ALB,3,true,false,false,tackling,pace
+Aldrit Oshafi,MF,R,22,ALB,1,true,false,false,finishing,passing
+Dejvid Kapllani,MF,R,21,ALB,7,false,false,false,playmaking,pace
+Lorenco Vila,FW,L,23,ALB,1,true,false,false,pace,crossing
+Ildi Gruda,FW,R,22,ALB,10,true,false,false,finishing,dribbling
+Rubin Hebaj,FW,L,23,ALB,6,false,false,false,pace,finishing

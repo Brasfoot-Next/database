@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mattia Migani,GK,R,30,ITA,9,false,false,false,positioning,penalty-saving
+Alfredo Chierighini,GK,L,56,SMR,3,false,false,false,reflexes,positioning
+Davide Cesarini,FB,R,27,SMR,3,false,false,false,crossing,marking
+Genestreti,CB,L,38,ITA,2,false,false,false,tackling,heading
+Nicolas Lombardi,CB,R,27,ITA,5,true,false,false,tackling,heading
+Enrico Casadei,CB,R,26,SMR,1,false,false,false,heading,stamina
+Nicola Gai,MF,R,34,ITA,1,false,false,false,finishing,passing
+Michael Battistini,MF,L,25,SMR,10,false,false,false,passing,finishing
+Enrico Cibelli,MF,L,35,SMR,2,true,false,false,finishing,passing
+Matteo Semprini,MF,L,27,ITA,5,false,false,false,marking,finishing
+Alessandro Chiurato,FW,L,39,ITA,9,false,false,false,finishing,dribbling
+Luca Ceccaroli,FW,R,27,SMR,6,true,false,false,pace,finishing
+Riccardo Pieri,FW,R,27,ITA,3,false,false,false,finishing,dribbling
+Matteo Forti,GK,L,21,ITA,6,true,false,false,penalty-saving,reflexes
+Paolo Vandi,FB,L,27,ITA,10,true,false,false,marking,pace
+Piero Cauterucci,FB,R,23,ITA,9,true,false,false,marking,finishing
+Francesco Sartori,FB,L,29,ITA,1,false,false,false,finishing,pace
+Riccardo Tisselli,CB,L,24,ITA,4,true,false,false,heading,stamina
+Giacomo Zafferani,MF,R,26,SMR,10,true,false,false,playmaking,finishing
+Imre Badalassi,FW,L,27,ITA,7,true,false,false,pace,finishing
+Luca Righini,MF,L,31,ITA,7,true,false,false,marking,finishing
+Kevin Zonzini,MF,R,24,SMR,5,true,false,false,marking,finishing

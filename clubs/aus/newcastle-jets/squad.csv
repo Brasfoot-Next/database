@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kosta Grozos,CB,R,26,AUS,6,true,false,false,stamina,pace
+Max Burgess,MF,L,31,AUS,1,true,false,false,pace,stamina
+Lachlan Rose,FW,R,27,AUS,5,true,false,false,pace,stamina
+Kota Mizunuma,FW,R,36,JPN,6,false,false,false,crossing,playmaking
+Thomas Aquilina,CB,R,25,AUS,7,false,false,false,stamina,pace
+Clayton Taylor,FW,L,22,AUS,1,true,false,false,pace,stamina
+Lachlan Bayliss,MF,L,24,NZL,5,true,false,false,pace,dribbling
+Eli Adams,MF,L,24,AUS,6,true,false,false,stamina,pace
+Daniel Wilmering,FW,L,25,AUS,7,false,false,false,stamina,pace
+Alex Badolato,FW,R,21,AUS,7,true,false,false,pace,dribbling
+Mark Natta,CB,L,23,AUS,5,true,false,false,stamina,pace
+Aleksandar Susnjar,CB,L,31,AUS,6,false,false,false,stamina,tackling
+Ben Gibson,FW,R,23,AUS,7,false,false,false,pace,finishing
+Joe Shaughnessy,CB,R,34,IRL,4,false,false,false,stamina,heading
+Joel Bertolissio,FB,R,23,AUS,5,true,false,false,stamina,passing
+Will Dobson,MF,R,19,AUS,6,true,false,false,pace,passing
+Oscar Fryer,FW,L,20,AUS,8,false,false,false,pace,dribbling
+Xavier Bertoncello,FW,L,20,AUS,4,false,false,false,pace,dribbling
+Alex Nunes,MF,R,19,AUS,6,false,false,false,pace,playmaking
+Ben Van Dorssen,CB,R,21,AUS,7,false,false,false,heading,stamina
+Max Cooper,CB,R,23,AUS,5,false,false,false,pace,stamina
+James Delianov,GK,R,26,AUS,6,true,false,false,reflexes,penalty-saving
+Jordan Baylis,GK,R,20,AUS,7,false,false,false,reflexes,positioning
+Noah James,GK,R,25,AUS,3,false,false,false,reflexes,positioning

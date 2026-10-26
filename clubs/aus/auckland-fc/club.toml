@@ -1,0 +1,13 @@
+name = "Auckland FC"
+country = "AUS"
+level = 10
+reputation = 2
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Mount Smart Stadium"
+capacity = 25000
+
+[coach]
+name = "Jesse Brook"
+country = "BRA"

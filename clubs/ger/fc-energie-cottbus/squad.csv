@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tolcay Cigerci,FW,L,31,TUR,7,false,false,false,stamina,playmaking
+Henry Rorig,FB,R,26,GER,4,true,false,false,pace,stamina
+Axel Borgmann,MF,L,32,GER,5,false,false,false,stamina,pace
+Erik Engelhardt,FW,L,28,GER,6,true,false,false,stamina,finishing
+Jonas Hofmann,MF,R,29,GER,7,true,false,false,stamina,pace
+Dominik Pelivan,MF,R,30,GER,4,true,false,false,stamina,tackling
+Anderson Lucoqui,FB,L,29,ANG,5,true,false,false,pace,dribbling
+Erik Tallig,MF,L,26,GER,6,true,false,false,passing,pace
+Janis Juckel,MF,R,22,GER,8,false,false,false,pace,dribbling
+Leon Guwara,FB,L,30,GAM,5,false,false,false,pace,dribbling
+Ted Tattermusch,FW,R,25,GER,4,false,false,false,pace,heading
+Timmy Thiele,FW,R,35,GER,5,false,false,false,stamina,pace
+Jannis Boziaris,MF,R,23,GER,6,true,false,false,pace,crossing
+Moritz Hannemann,FW,R,28,GER,8,true,false,false,pace,stamina
+Dennis Slamar,CB,R,32,GER,4,false,false,false,pace,tackling
+Justin Butler,FW,L,25,GER,5,false,false,false,pace,finishing
+Lukas Michelbrink,MF,R,21,GER,6,false,false,false,stamina,crossing
+Theo Ogbidi,FW,R,25,GER,9,false,false,false,pace,dribbling
+Dennis Duah,CB,R,23,GER,5,false,false,false,stamina,pace
+Can Moustfa,MF,R,21,GER,6,false,false,false,pace,dribbling
+Tim Campulka,CB,R,27,GER,3,true,false,false,heading,tackling
+Finn Heidrich,MF,R,19,GER,5,false,false,false,pace,stamina
+King Samuel Manu,CB,R,22,GER,6,false,false,false,stamina,tackling
+Nyamekye Awortwie Grant,CB,L,26,GER,7,true,false,false,pace,tackling
+Elias Bethke,GK,R,23,GER,3,false,false,false,reflexes,positioning
+Marius Funk,GK,R,30,GER,5,true,false,false,rushing-out,positioning
+Max Bohnke,GK,R,23,GER,6,false,false,false,reflexes,rushing-out
+Alexander Sebald,GK,R,30,GER,7,false,false,false,reflexes,rushing-out

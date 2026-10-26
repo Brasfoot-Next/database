@@ -1,0 +1,13 @@
+name = "Estudiantes de La Plata"
+country = "ARG"
+level = 16
+reputation = 3
+colors = ["#D00000", "#F0F0F0"]
+
+[stadium]
+name = "Jorge Luis Hirschi"
+capacity = 32530
+
+[coach]
+name = "Tiago Borzone"
+country = "BRA"

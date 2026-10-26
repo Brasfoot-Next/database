@@ -1,0 +1,13 @@
+name = "Sanfrecce Hiroshima"
+country = "JPN"
+level = 14
+reputation = 3
+colors = ["#503080", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Hayato Haller"
+country = "BRA"

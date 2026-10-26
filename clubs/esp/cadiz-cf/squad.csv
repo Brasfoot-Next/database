@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Álex Fernández,MF,R,33,ESP,6,false,false,false,passing,playmaking
+Iza Carcelén,FB,R,33,ESP,7,true,false,false,stamina,pace
+Brian Ocampo,FW,L,27,URU,7,false,false,false,pace,crossing
+Youssouf Diarra,MF,R,27,MLI,3,true,false,false,stamina,pace
+Suso,FW,L,32,ESP,5,true,false,false,dribbling,crossing
+Luís Hernández,CB,R,37,ESP,6,false,false,false,marking,passing
+Roger Martí,FW,R,35,ESP,7,false,false,false,pace,stamina
+Climent,FB,L,24,ESP,3,true,false,false,stamina,tackling
+Ontiveros,FW,L,28,ESP,5,false,false,false,crossing,dribbling
+Iuri Tabatadze,FW,L,26,GEO,6,true,false,false,pace,dribbling
+Sergio Ortuño,MF,R,27,ESP,6,true,false,false,stamina,dribbling
+Fali,CB,R,33,ESP,7,false,false,false,stamina,playmaking
+Joaquín González,MF,R,25,ESP,1,true,false,false,stamina,passing
+Moussa Diakite,MF,L,22,MLI,5,true,false,false,stamina,pace
+Dawda Camara,FW,R,23,ESP,6,false,false,false,heading,pace
+De la Rosa,FW,L,22,ESP,7,false,false,false,pace,dribbling
+Efe Aghama Ugiagbe,FW,L,22,NGA,1,false,false,false,pace,dribbling
+Iker Recio,CB,L,25,ESP,5,true,false,false,stamina,pace
+Bojan Kovacevic,CB,R,22,SRB,6,true,false,false,heading,tackling
+Jorge Moreno,CB,R,25,ESP,7,false,false,false,stamina,pace
+Pelayo,CB,R,23,ESP,5,false,false,false,tackling,stamina
+Alvaro Miguel Garcia Pascual,FW,L,24,ESP,6,false,false,false,heading,finishing
+Raúl Pereira,FB,L,21,ESP,7,false,false,false,pace,stamina
+Alfred Caicedo,FB,L,21,ECU,4,false,false,false,pace,stamina
+David Gil,GK,L,32,ESP,5,false,false,false,reflexes,penalty-saving
+Víctor Aznar,GK,R,23,BRA,6,true,false,false,reflexes,penalty-saving

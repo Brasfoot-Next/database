@@ -1,0 +1,36 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ryota Izumori,GK,R,27,JPN,7,true,false,false,reflexes,penalty-saving
+Sota Matsubara,GK,R,23,JPN,2,false,false,false,rushing-out,reflexes
+Arnau Riera,GK,R,28,ESP,5,false,false,false,rushing-out,positioning
+Eisuke Fujishima,GK,R,34,JPN,6,false,false,false,rushing-out,positioning
+Sora Ogawa,CB,R,26,JPN,7,false,false,false,heading,stamina
+Reiya Morishita,CB,R,27,JPN,2,true,false,false,tackling,marking
+Kaito Abe,CB,R,26,JPN,5,true,false,false,passing,marking
+Yuta Imazu,CB,R,31,JPN,6,false,false,false,tackling,stamina
+Shun Isotani,CB,R,23,JPN,7,false,false,false,tackling,marking
+Yuya Kuroki,CB,R,18,JPN,3,false,false,false,marking,stamina
+Toshiki Ando,FB,R,22,JPN,4,false,false,false,pace,tackling
+Manato Yoshida,FB,R,24,JPN,5,true,false,false,crossing,passing
+Shiva Tafari Nagasawa,FB,R,24,JPN,6,false,false,false,pace,crossing
+Kyosuke Kamiyama,FB,L,26,JPN,9,true,false,false,stamina,pace
+Tatsunori Sakurai,MF,R,23,JPN,3,false,false,false,passing,playmaking
+Tokia Ikeda,MF,R,18,JPN,5,false,false,false,dribbling,playmaking
+Nagi Matsumoto,MF,R,24,JPN,6,false,false,false,dribbling,playmaking
+Rio Hyon,MF,R,22,JPN,7,false,false,false,marking,passing
+Ayumu Toyoda,MF,L,25,JPN,3,false,false,false,passing,playmaking
+Kakeru Yamauchi,MF,R,24,JPN,5,true,false,false,passing,stamina
+Koki Sakamoto,MF,R,27,JPN,3,true,false,false,pace,crossing
+Hikaru Nakahara,MF,R,30,JPN,5,true,false,false,pace,crossing
+Keisuke Sakaiya,MF,R,21,JPN,6,false,false,false,pace,crossing
+Yoshiki Narahara,MF,R,22,JPN,7,false,false,false,pace,crossing
+Kenta Nishizawa,MF,L,29,JPN,4,false,false,false,pace,crossing
+Tokito Mizumaki,MF,L,19,JPN,5,false,false,false,pace,crossing
+Yudai Tanaka,MF,R,26,JPN,6,true,false,false,passing,stamina
+Riku Izawa,MF,L,31,JPN,7,false,false,false,playmaking,dribbling
+Ryo Shiohama,FW,L,26,JPN,1,false,false,false,finishing,pace
+Kanta Jojo,FW,R,25,JPN,5,false,false,false,finishing,dribbling
+Daichi Suzuki,FW,R,19,JPN,6,false,false,false,dribbling,pace
+Toshiki Takahashi,FW,L,28,JPN,7,true,false,false,dribbling,finishing
+Ho-min Park,FW,R,24,JPN,4,true,false,false,heading,stamina
+Noriyoshi Sakai,FW,L,33,JPN,5,false,false,false,dribbling,finishing
+Jô,FW,R,27,BRA,6,false,false,false,dribbling,pace

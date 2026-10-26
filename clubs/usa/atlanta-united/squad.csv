@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Miguel Almiron,MF,L,32,PAR,6,true,false,false,stamina,pace
+Saba Lobjanidze,FW,R,31,GEO,7,false,false,false,pace,dribbling
+Steven Alzate,MF,R,28,COL,3,true,false,false,passing,dribbling
+Brooks Lennon,FB,R,28,USA,5,false,false,false,stamina,crossing
+Aleksey Miranchuk,FW,L,30,RUS,6,true,false,false,dribbling,passing
+Bartosz Slisz,MF,R,27,POL,7,true,false,false,stamina,passing
+Emmanuel Latte Lath,FW,R,27,CIV,3,true,false,false,pace,stamina
+Pedro Amador,FB,L,27,POR,5,true,false,false,stamina,pace
+Tristan Muyumba,MF,L,29,FRA,6,true,false,false,stamina,dribbling
+Jamal Thiare,FW,R,33,SEN,7,false,false,false,pace,stamina
+Ronald Hernandez,CB,L,28,VEN,7,false,false,false,pace,stamina
+Stian Gregersen,CB,R,31,NOR,2,false,false,false,pace,stamina
+Berrocal,CB,R,26,ESP,3,true,false,false,tackling,marking
+Enea Mihaj,CB,R,28,ALB,5,true,false,false,tackling,heading
+Cayman Togashi,FW,R,33,JPN,6,false,false,false,pace,heading
+Ajani Fortune,MF,R,23,TRI,7,false,false,false,stamina,pace
+Will Reilly,MF,R,23,USA,4,false,false,false,pace,stamina
+Luke Brennan,FW,R,21,USA,5,false,false,false,dribbling,pace
+Leo Afonso,FW,L,25,BRA,6,false,false,false,finishing,dribbling
+Matthew Edwards,FB,R,23,USA,7,true,false,false,pace,stamina
+Ashton Gordon,FW,L,19,JAM,6,false,false,false,pace,stamina
+Dominik Chong Qui,FB,L,18,USA,8,false,false,false,stamina,pace
+Nyk Sessock,FB,R,26,USA,4,false,false,false,tackling,stamina
+Brad Guzan,GK,L,41,USA,5,false,false,false,reflexes,penalty-saving
+Josh Cohen,GK,L,34,USA,6,false,false,false,positioning,penalty-saving
+Jayden Hibbert,GK,R,22,JAM,7,true,false,false,rushing-out,reflexes

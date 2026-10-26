@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Max Besuschkow,MF,R,29,GER,3,true,false,false,stamina,playmaking
+Yannick Deichmann,FW,R,32,GER,5,false,false,false,stamina,pace
+Dennis Kaygin,MF,R,22,GER,6,true,false,false,crossing,pace
+Fredrik Carlsen,MF,L,24,DEN,7,true,false,false,pace,dribbling
+Marcel Costly,FW,R,30,GER,3,false,false,false,pace,stamina
+Linus Rosenlocher,FB,L,25,GER,5,true,false,false,pace,stamina
+Lukas Frode,MF,R,31,GER,6,true,false,false,stamina,heading
+Simon Lorenz,CB,R,29,GER,7,true,false,false,stamina,tackling
+Max Plath,MF,R,21,GER,4,false,false,false,passing,stamina
+Mattis Hoppe,FB,R,23,GER,5,true,false,false,stamina,pace
+Yann Sturm,FW,L,21,GER,6,true,false,false,pace,finishing
+Elias Decker,MF,R,20,GER,7,false,false,false,pace,passing
+Gustav Christensen,FW,L,22,DEN,3,false,false,false,pace,dribbling
+Emre Gul,MF,R,21,GER,5,false,false,false,pace,passing
+Julian Kugel,FW,R,29,GER,6,false,false,false,pace,heading
+Mads Borchers,FW,L,24,DEN,7,false,false,false,finishing,pace
+Berkay Ozturk,MF,R,21,TUR,10,false,false,false,pace,passing
+Frederik Christensen,FW,R,25,DEN,5,true,false,false,pace,heading
+Jasper Maljojoki,CB,R,24,USA,6,false,false,false,pace,heading
+Jonas Scholz,CB,L,27,GER,7,true,false,false,heading,tackling
+Donald Nduka,CB,R,23,NGA,6,false,false,false,heading,tackling
+Markus Ponath,GK,R,25,GER,7,true,false,false,reflexes,rushing-out
+Kai Eisele,GK,R,31,GER,3,false,false,false,penalty-saving,reflexes
+David Klein,GK,R,20,GER,5,false,false,false,penalty-saving,reflexes

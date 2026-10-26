@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sobhi Soliman,GK,R,29,EGY,6,true,false,false,reflexes,penalty-saving
+Ahmed El Arabi,GK,R,33,EGY,7,false,false,false,positioning,penalty-saving
+Amr Khalil,GK,R,33,EGY,3,false,false,false,reflexes,penalty-saving
+Ahmed Menshawi,GK,R,20,EGY,5,false,false,false,positioning,rushing-out
+Mostafa Ibrahim,CB,R,26,EGY,6,true,false,false,heading,stamina
+Mido Mostafa,CB,R,32,EGY,7,false,false,false,tackling,pace
+Moataz Mohamed,CB,R,21,EGY,9,false,false,false,tackling,heading
+Mahmoud Alaa,CB,R,35,EGY,4,false,false,false,stamina,heading
+Abdo Hesham,CB,R,27,EGY,5,true,false,false,marking,stamina
+Moamen Sherif,FB,R,20,EGY,6,false,false,false,stamina,pace
+Khaled Mosaad,FB,L,25,EGY,8,true,false,false,marking,crossing
+Momen Awad,FB,R,25,EGY,4,true,false,false,pace,tackling
+Ahmed El Shazly,FB,R,25,EGY,5,false,false,false,pace,tackling
+Mahmoud Dunga,MF,R,33,EGY,6,false,false,false,playmaking,passing
+Mohamed Fakhri,MF,L,27,EGY,8,true,false,false,playmaking,passing
+Saviour Isaac,MF,L,24,NGA,4,true,false,false,dribbling,pace
+Canaria,MF,R,27,EGY,5,true,false,false,passing,finishing
+Ahmed Hamdi,MF,R,28,EGY,6,true,false,false,finishing,playmaking
+Amr Saleh,MF,R,30,EGY,10,false,false,false,playmaking,finishing
+Ahmed Atef,MF,R,21,EGY,4,false,false,false,passing,tackling
+Ahmed Nagy,MF,R,20,EGY,5,false,false,false,pace,dribbling
+Ahmed El Sayed,MF,L,26,EGY,6,false,false,false,tackling,passing
+Ahmed Eid,FW,L,26,EGY,8,true,false,false,heading,pace
+Abubakar Liadi,FW,R,23,NGA,4,false,false,false,dribbling,finishing
+Islam Samir,FW,L,27,EGY,5,false,false,false,crossing,pace
+Fady Farid,FW,R,29,EGY,6,false,false,false,pace,dribbling
+Hossam Hassan,FW,R,32,EGY,8,true,false,false,heading,pace
+John Ebuka,FW,R,29,NGA,4,false,false,false,pace,dribbling
+Adham Alaa,FW,R,20,EGY,6,false,false,false,finishing,heading

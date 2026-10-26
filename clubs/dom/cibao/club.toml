@@ -1,0 +1,13 @@
+name = "Cibao"
+country = "DOM"
+level = 14
+reputation = 2
+colors = ["#ff9933", "#000000"]
+
+[stadium]
+name = "Cibao"
+capacity = 18077
+
+[coach]
+name = "Jorge Alfonso"
+country = "ARG"

@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Júnior Morais,MF,L,40,BRA,4,true,false,false,passing,playmaking
+Damià Sabater,MF,L,30,ESP,6,true,false,false,stamina,passing
+Desley Ubbink,MF,R,33,NED,6,false,false,false,playmaking,dribbling
+David Irimia,FW,R,20,ROU,10,true,false,false,pace,stamina
+Bruno Carvalho,MF,R,28,CPV,5,true,false,false,pace,stamina
+Yassine Zakir,FW,R,29,NED,6,true,false,false,pace,dribbling
+Alexandru Irimia,FW,L,20,ROU,7,false,false,false,pace,stamina
+Christ Kouadio,FB,R,25,CIV,1,true,false,false,pace,stamina
+Ely Fernandes,FW,L,35,CPV,5,false,false,false,passing,pace
+Omar Pasagic,CB,L,28,BIH,6,false,false,false,pace,heading
+Moses Abbey,MF,L,24,GHA,4,true,false,false,pace,dribbling
+Razvan Milea,MF,R,26,ROU,6,false,false,false,pace,dribbling
+Alexandru Gheorghe,FW,R,23,ROU,7,false,false,false,pace,playmaking
+Dragos Huiban,FW,R,36,ROU,3,false,false,false,finishing,stamina
+Gabriel Dumitru,CB,R,20,ROU,5,false,false,false,pace,stamina
+Robert Neacsu,FW,L,26,ROU,6,false,false,false,pace,crossing
+Benjamin Hadzic,FW,R,27,BIH,7,false,false,false,heading,finishing
+Andrei Sava,FB,L,35,ROU,4,true,false,false,stamina,pace
+Aboubacar Camara,CB,R,25,FRA,5,true,false,false,pace,stamina
+Cosmin Achim,CB,R,30,ROU,6,false,false,false,stamina,heading
+George Caramalau,CB,R,31,ROU,3,true,false,false,passing,marking
+Adrian Sirbu,FW,R,22,ROU,5,false,false,false,pace,heading
+Laurentiu Lis,FW,L,22,ROU,7,false,false,false,pace,dribbling
+Stefan Visic,FW,R,28,SRB,3,false,false,false,heading,finishing
+George Gavrilas,GK,R,35,ROU,5,true,false,false,penalty-saving,reflexes
+Cristian Nedelcovici,GK,R,33,ROU,6,false,false,false,positioning,penalty-saving

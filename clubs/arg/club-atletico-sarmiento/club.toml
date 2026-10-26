@@ -1,0 +1,13 @@
+name = "Club Atlético Sarmiento"
+country = "ARG"
+level = 12
+reputation = 2
+colors = ["#006030", "#F0F0F0"]
+
+[stadium]
+name = "Eva Perón"
+capacity = 23156
+
+[coach]
+name = "Juan Renteria"
+country = "BRA"

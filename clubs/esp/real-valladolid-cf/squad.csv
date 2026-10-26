@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mathis Lachuer,MF,L,26,FRA,3,false,false,false,pace,dribbling
+Sergi Canós,FW,L,29,ESP,5,true,false,false,crossing,dribbling
+Amath Ndiaye,FW,R,30,SEN,6,false,false,false,pace,dribbling
+Julien Ponceau,FW,L,25,FRA,7,false,false,false,stamina,dribbling
+Meseguer,MF,L,27,ESP,3,true,false,false,stamina,tackling
+Iván Alejo,FB,R,31,ESP,5,true,false,false,pace,dribbling
+Pablo Tomeo,CB,R,26,ESP,6,false,false,false,stamina,tackling
+Stanko Juric,MF,R,30,CRO,7,true,false,false,stamina,tackling
+Javi Sánchez,CB,R,29,ESP,3,true,false,false,tackling,marking
+Marcos André,FW,R,29,BRA,5,false,false,false,dribbling,pace
+Stipe Biuk,FW,L,23,CRO,5,true,false,false,pace,dribbling
+Guille Bueno,FB,L,23,ESP,5,false,false,false,pace,stamina
+Ibrahim Akintunde Alani,MF,R,20,NGA,6,false,false,false,pace,playmaking
+Peter,FW,L,24,ESP,7,false,false,false,dribbling,pace
+Latasa,FW,L,25,ESP,4,false,false,false,heading,pace
+Chuki,MF,L,22,ESP,5,true,false,false,dribbling,passing
+Jesús Martínez,MF,R,22,ESP,6,false,false,false,passing,dribbling
+Iván Garriel,FB,L,21,ESP,8,false,false,false,pace,dribbling
+Jorge Delgado,FW,R,23,ESP,4,false,false,false,playmaking,heading
+Hugo San,FB,L,20,ESP,5,false,false,false,pace,dribbling
+Mario Maroto,MF,R,22,ESP,7,true,false,false,passing,playmaking
+Arnu,FW,R,19,ESP,3,false,false,false,pace,finishing
+Koke,FB,R,21,ESP,4,true,false,false,tackling,dribbling
+David Torres,CB,L,23,ESP,5,true,false,false,passing,tackling
+Trilli,FB,R,23,ESP,6,false,false,false,stamina,pace
+Xavi Moreno,FW,L,21,ESP,8,false,false,false,pace,crossing
+Iago Parente,CB,R,20,ESP,4,false,false,false,tackling,passing
+Mohamed Jaouab,CB,R,24,MAR,5,false,false,false,tackling,heading
+Aranda,CB,R,20,ESP,6,false,false,false,pace,stamina
+Guilherme Fernandes,GK,R,25,POR,8,false,false,false,rushing-out,reflexes
+Aceves,GK,R,23,ESP,7,true,false,false,positioning,rushing-out

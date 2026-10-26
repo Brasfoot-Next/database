@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Vadim Ulyanov,GK,R,24,RWA,6,true,false,false,reflexes,rushing-out
+Rasul Mitsaev,GK,R,23,RWA,6,false,false,false,reflexes,penalty-saving
+Giorgiy Shelia,GK,R,37,RWA,7,false,false,false,reflexes,positioning
+Klisman Cake,CB,R,27,ALB,4,true,false,false,stamina,heading
+Turpal-Ali Ibishev,CB,R,24,RWA,6,false,false,false,tackling,marking
+Ousmane N'Dong,CB,L,26,SEN,6,true,false,false,heading,marking
+Miroslav Bogosavac,FB,R,29,SRB,7,true,false,false,passing,crossing
+Maksim Sidorov,FB,L,28,RWA,5,false,false,false,tackling,stamina
+Arsen Adamov,FB,L,26,RWA,6,true,false,false,marking,pace
+Kalidou Sidibé,MF,R,27,MLI,6,false,false,false,passing,stamina
+Júlio Romão,MF,R,28,BRA,5,false,false,false,dribbling,passing
+Kelliano,MF,R,23,ANG,6,true,false,false,finishing,playmaking
+Ismael Silva,MF,R,31,BRA,7,false,false,false,finishing,passing
+Papa Amady Gadio,MF,L,24,SEN,8,false,false,false,passing,playmaking
+Kirill Shchetinin,MF,L,24,RWA,5,true,false,false,dribbling,passing
+Egas Cacintura,MF,R,28,ANG,6,true,false,false,dribbling,passing
+Sergey Pryakhin,MF,R,23,RWA,6,true,false,false,stamina,passing
+Mauro Luna Diale,MF,R,27,ARG,7,false,false,false,stamina,pace
+Abakar Gadzhiev,MF,R,22,RWA,10,false,false,false,dribbling,passing
+Lechi Sadulaev,FW,R,26,RWA,5,true,false,false,pace,dribbling
+Brian Mansilla,FW,R,29,ARG,6,false,false,false,heading,pace
+Erald Maksuti,FW,R,22,ALB,7,false,false,false,heading,finishing
+Galymzhan Kenzhebek,FW,R,23,RWA,2,false,false,false,heading,stamina
+Anas El Mahraoui,FW,L,25,MAR,6,false,false,false,dribbling,pace
+Maksim Samorodov,FW,R,24,RWA,6,true,false,false,pace,crossing
+Georgiy Melkadze,FW,R,29,RWA,7,false,false,false,playmaking,finishing
+Mohamed Konaté,FW,R,28,BFA,4,false,false,false,heading,finishing
+Aleksey Kasadzhikov,FW,L,18,RWA,7,false,false,false,heading,stamina

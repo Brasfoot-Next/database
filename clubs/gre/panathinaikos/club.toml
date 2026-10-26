@@ -1,0 +1,13 @@
+name = "Panathinaikos"
+country = "GRE"
+level = 18
+reputation = 4
+colors = ["#F0F0F0", "#007030"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Iñaki Chirivella"
+country = "BRA"

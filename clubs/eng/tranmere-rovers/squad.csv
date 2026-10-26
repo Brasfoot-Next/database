@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Richard Smallwood,MF,R,35,ENG,6,false,false,false,stamina,passing
+Sam Finley,MF,R,34,ENG,7,true,false,false,stamina,tackling
+Connor Jennings,FW,R,34,ENG,2,false,false,false,stamina,finishing
+Lee Oconnor,CB,R,26,IRL,5,true,false,false,stamina,pace
+Patrick Brough,FB,L,30,ENG,6,true,false,false,pace,stamina
+Cameron Norman,FB,R,30,ENG,6,true,false,false,stamina,pace
+Nohan Kenneh,MF,L,23,LBR,7,true,false,false,stamina,dribbling
+Joe Ironside,FW,R,32,ENG,3,false,false,false,stamina,pace
+Omari Patrick,FW,L,30,ENG,5,false,false,false,pace,stamina
+Kristian Dennis,FW,L,36,ENG,6,false,false,false,stamina,finishing
+Ethan Bristow,FB,L,24,SKN,7,false,false,false,stamina,pace
+Jason Lowe,CB,R,35,ENG,3,false,false,false,passing,tackling
+Charlie Whitaker,MF,R,22,ENG,5,true,false,false,pace,passing
+Jayden Joseph,FB,R,20,ENG,6,false,false,false,pace,dribbling
+Josh Davison,FW,R,26,ENG,7,true,false,false,stamina,pace
+Josh Williams,MF,R,22,WAL,3,true,false,false,pace,stamina
+Jordan Turnbull,CB,L,31,ENG,5,false,false,false,stamina,heading
+Nathan Smith,CB,R,30,ENG,6,true,false,false,stamina,heading
+Sol Solomon,FW,R,25,ENG,7,true,false,false,pace,stamina
+Billy Blacker,FW,L,20,ENG,4,false,false,false,pace,dribbling
+Taylan Harris,FW,R,20,ENG,7,false,false,false,pace,finishing
+Luke Mcgee,GK,R,31,ENG,2,false,false,false,reflexes,positioning
+Joe Murphy,GK,L,45,IRL,5,false,false,false,positioning,rushing-out
+Jack Barrett,GK,R,24,ENG,6,true,false,false,penalty-saving,reflexes

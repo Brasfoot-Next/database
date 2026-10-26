@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gareth Deane,GK,L,28,NIR,1,true,false,false,reflexes,positioning
+Marty Gallagher,GK,R,31,NIR,5,false,false,false,positioning,penalty-saving
+Lyndon Kane,FB,R,25,NIR,7,true,false,false,crossing,pace
+Aaron Traynor,FB,L,32,NIR,9,true,false,false,crossing,pace
+Conor McKendry,FB,R,23,NIR,7,false,false,false,marking,finishing
+Stephen O'Donnell,CB,R,29,NIR,2,true,false,false,marking,pace
+Gareth McConaghie,CB,L,34,NIR,5,true,false,false,tackling,marking
+Rodney Brown,CB,L,26,NIR,4,false,false,false,marking,pace
+Adam Mullan,CB,R,26,NIR,5,false,false,false,marking,pace
+Jamie Glackin,MF,R,27,NIR,10,true,false,false,finishing,passing
+Ronan Wilson,MF,L,23,NIR,3,true,false,false,passing,finishing
+Stephen Lowry,MF,R,35,NIR,3,true,false,false,marking,pace
+Aaron Jarvis,MF,L,25,NIR,8,true,false,false,tackling,marking
+Josh Carson,FW,L,29,NIR,7,true,false,false,heading,pace
+James McLaughlin,FW,L,32,NIR,10,true,false,false,playmaking,finishing
+Matthew Shevlin,FW,R,23,NIR,10,false,false,false,pace,finishing
+Jay Riley,FB,L,17,NIR,5,false,false,false,finishing,pace
+Lee Lynch,MF,R,30,IRL,8,false,false,false,passing,finishing
+Jack O'Mahony,MF,R,22,NIR,8,false,false,false,passing,finishing
+Andrew Mitchell,FW,R,28,NIR,10,false,false,false,playmaking,finishing
+Dean Brown,MF,R,24,NIR,4,false,false,false,tackling,pace

@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Amer Amer,GK,R,24,EGY,4,false,false,false,reflexes,penalty-saving
+Mohamed Koko,GK,R,35,EGY,5,false,false,false,positioning,rushing-out
+Ahmed El Nafarawy,GK,L,28,EGY,6,true,false,false,rushing-out,positioning
+Ahmed El Aash,CB,R,28,EGY,7,true,false,false,heading,stamina
+Ahmed Shousha,CB,R,32,EGY,4,false,false,false,heading,marking
+Abdelfattah Sheta,CB,L,24,EGY,5,true,false,false,tackling,pace
+Mohamed Nabih,CB,R,20,EGY,6,false,false,false,heading,tackling
+Yehia Zakaria,FB,L,24,EGY,7,true,false,false,marking,crossing
+Mostafa Oufa,FB,R,21,EGY,3,false,false,false,stamina,crossing
+Ahmed Gamal,FB,L,32,EGY,5,true,false,false,passing,crossing
+Mory Touré,MF,R,23,EGY,4,false,false,false,playmaking,passing
+Mahmoud El Moghazi,MF,L,20,EGY,5,false,false,false,tackling,marking
+Ahmed Yasser,MF,R,19,EGY,7,false,false,false,dribbling,passing
+Youssef Hassan,MF,L,27,EGY,1,true,false,false,finishing,playmaking
+Rezk Basha,MF,R,22,EGY,4,false,false,false,tackling,passing
+Abdelrahman Shika,MF,R,26,EGY,6,true,false,false,marking,passing
+Rached Arfaoui,MF,R,30,TUN,7,false,false,false,dribbling,passing
+Moaz Abdelsalam,MF,R,20,EGY,1,false,false,false,playmaking,passing
+Abdelrahman Emad,MF,R,27,EGY,5,true,false,false,dribbling,playmaking
+Bassam Walid,MF,R,28,EGY,6,true,false,false,playmaking,dribbling
+Ahmed Etman,MF,R,23,EGY,7,false,false,false,finishing,playmaking
+Youssef El Azab,MF,R,23,EGY,10,false,false,false,dribbling,pace
+Armoosha,MF,L,26,EGY,4,false,false,false,stamina,tackling
+Mahmoud Salah,FW,R,18,EGY,6,false,false,false,pace,finishing
+Saïdi Kibou,FW,R,20,EGY,7,false,false,false,heading,stamina
+Abdo Yehia,FW,L,27,EGY,1,true,false,false,heading,pace
+Mohamed Ashraf,FW,L,28,EGY,5,false,false,false,finishing,pace
+Jimmy Mwanga,FW,R,27,EGY,6,true,false,false,crossing,pace
+Hazem El Askry,FW,R,23,EGY,7,false,false,false,playmaking,finishing
+Amr Gomaa,FW,L,26,EGY,1,false,false,false,dribbling,pace
+Atef El Hakim,FW,R,21,EGY,6,false,false,false,pace,finishing
+Mohamed Salem Ekbad,FW,R,28,EGY,7,false,false,false,playmaking,finishing
+Ahmed Wael,FW,R,22,EGY,4,false,false,false,crossing,pace

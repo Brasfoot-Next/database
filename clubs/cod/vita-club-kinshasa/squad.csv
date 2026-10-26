@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Simon Omossola,GK,L,24,CMR,6,true,false,false,rushing-out,penalty-saving
+Landú,GK,R,32,ANG,7,false,false,false,reflexes,positioning
+Nathan Mabruki,GK,R,33,COD,5,false,false,false,rushing-out,penalty-saving
+Ebunga Simbi,FB,R,38,COD,2,true,false,false,marking,passing
+Amede Masasi,FB,L,30,COD,6,true,false,false,marking,passing
+Kingu Yallet,FB,L,24,COD,9,false,false,false,finishing,pace
+Varel Rozan,FB,R,27,CGO,6,false,false,false,marking,passing
+Guy Magema,CB,L,26,COD,1,true,false,false,tackling,heading
+Jonathan Mambabua,CB,R,24,BEL,5,true,false,false,tackling,heading
+Ramazani Tshimanga,CB,L,20,COD,9,false,false,false,tackling,heading
+Arnaud Akakpo,CB,R,22,BEN,6,false,false,false,tackling,marking
+Wamba,MF,R,23,COD,9,true,false,false,passing,tackling
+Wangu Mbambu,MF,L,27,COD,9,true,false,false,tackling,marking
+Jeremie Kalenda,MF,R,25,COD,5,true,false,false,dribbling,pace
+Sidi Yacoub,MF,L,26,MTN,8,true,false,false,marking,finishing
+Marouf Tchakei,MF,R,26,TOG,9,false,false,false,stamina,passing
+Zilu Mutumosi,MF,L,24,COD,5,false,false,false,marking,passing
+Makabi Lilepo,FW,R,24,COD,1,true,false,false,dribbling,finishing
+Serbie Alongo,FW,R,26,COD,6,true,false,false,finishing,pace
+Jacques Thémopelé,FW,R,24,CGO,5,false,false,false,finishing,dribbling
+Denis Lumbala,FW,L,23,COD,7,false,false,false,finishing,pace

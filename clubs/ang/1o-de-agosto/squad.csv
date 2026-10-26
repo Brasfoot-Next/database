@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Neblú,GK,L,28,ANG,2,true,false,false,positioning,penalty-saving
+Tony,GK,R,36,ANG,7,false,false,false,positioning,rushing-out
+Nsesani,GK,L,21,ANG,8,false,false,false,penalty-saving,reflexes
+Natael,FB,R,28,ANG,3,true,false,false,crossing,pace
+Paízo,FB,L,30,ANG,10,true,false,false,finishing,passing
+Caetano,FB,L,28,ANG,7,false,false,false,marking,pace
+Isaac Correia,FB,R,31,ANG,4,false,false,false,crossing,marking
+Massunguna,CB,L,36,ANG,7,true,false,false,tackling,heading
+Bobó Ungenda,CB,R,32,COD,6,true,false,false,tackling,marking
+Jó,CB,L,27,ANG,3,false,false,false,tackling,heading
+Domingos,CB,R,18,ANG,5,false,false,false,tackling,stamina
+Buá,MF,R,33,ANG,7,true,false,false,passing,finishing
+José Macaia,MF,R,28,ANG,8,true,false,false,marking,finishing
+Yazid Atouba,MF,L,29,CMR,6,true,false,false,tackling,heading
+Herenilson,MF,R,25,ANG,5,true,false,false,tackling,marking
+Edmilson,MF,R,23,ANG,6,false,false,false,playmaking,passing
+Zinedine Catraio,MF,R,24,ANG,8,false,false,false,marking,passing
+Manico,FW,R,27,ANG,9,true,false,false,heading,pace
+Elvia Ipamy,FW,L,27,CGO,7,true,false,false,pace,finishing
+Bito,FW,R,22,ANG,1,false,false,false,finishing,pace
+Cirilo Silva,FW,R,24,ANG,2,false,false,false,heading,pace

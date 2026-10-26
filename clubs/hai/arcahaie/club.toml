@@ -1,0 +1,13 @@
+name = "Arcahaie"
+country = "HAI"
+level = 11
+reputation = 1
+colors = ["#cc0000", "#ffffff"]
+
+[stadium]
+name = "Parc Saint-Yves"
+capacity = 1000
+
+[coach]
+name = "David Thélémaque"
+country = "HAI"

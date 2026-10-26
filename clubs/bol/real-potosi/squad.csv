@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Christian Martínez,GK,R,28,ARG,3,true,false,false,positioning,rushing-out
+Daniel Sandy,GK,R,24,BOL,5,false,false,false,reflexes,positioning
+Juan Carvajal,GK,R,29,COL,6,false,false,false,reflexes,rushing-out
+Carlos Chore,CB,R,26,BOL,7,true,false,false,heading,passing
+Emerson Velasquez,CB,R,27,BOL,4,true,false,false,marking,tackling
+Juan Rioja,CB,L,38,BOL,5,false,false,false,tackling,heading
+Lucas Revuelta,CB,R,28,BOL,6,false,false,false,heading,marking
+Kevin Villegas,CB,R,28,COL,7,false,false,false,tackling,marking
+Cristian López,FB,R,21,BOL,4,false,false,false,marking,pace
+Gonzalo Añasgo,FB,R,29,ARG,5,true,false,false,passing,pace
+Luis Rodríguez,FB,L,23,BOL,5,false,false,false,crossing,passing
+Fran Supayabe,FB,R,30,BOL,6,true,false,false,stamina,pace
+Williams Fernandez,FB,L,20,BOL,7,false,false,false,pace,tackling
+Jairo Thomas,MF,R,26,BOL,2,true,false,false,dribbling,pace
+Imanol Cárdenas,MF,R,26,BOL,5,true,false,false,stamina,passing
+Renan Terrazas,MF,R,20,BOL,6,false,false,false,passing,tackling
+Anderson Brito,MF,R,21,BOL,7,false,false,false,playmaking,dribbling
+Jose Alipaz,MF,L,23,BOL,2,true,false,false,pace,crossing
+Boris Condori,MF,L,29,BOL,4,true,false,false,pace,crossing
+Igor Soares,MF,L,31,BRA,5,false,false,false,marking,passing
+Jorge Rojas,FW,L,32,BOL,4,true,false,false,finishing,stamina
+Vladimir Castellón,FW,R,36,BOL,5,false,false,false,heading,finishing
+Luis Alí,FW,R,32,BOL,6,false,false,false,finishing,pace
+Maximiliano Gómez,FW,R,38,ARG,8,false,false,false,crossing,pace
+Jeferson Rivas,FW,R,29,COL,4,true,false,false,dribbling,pace
+Fabricio Suárez,FW,L,22,BOL,6,false,false,false,crossing,pace

@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lubomir Belko,GK,L,20,SVK,6,true,false,false,positioning,rushing-out
+Benson Anang,FB,R,22,GHA,8,true,false,false,marking,finishing
+Dominik Javorcek,FB,L,19,SVK,10,false,false,false,crossing,pace
+Richmond Owusu,FB,L,19,GHA,1,true,false,false,marking,passing
+Samuel Kopasek,FB,R,19,SVK,5,false,false,false,finishing,pace
+Jan Minarik,CB,L,25,SVK,7,false,false,false,tackling,heading
+Adam Kopas,CB,R,22,SVK,10,true,false,false,tackling,heading
+Tomas Nemcik,CB,R,21,SVK,4,false,false,false,heading,stamina
+Patrik Leitner,CB,L,20,SVK,4,true,false,false,tackling,heading
+Matus Rusnak,MF,R,23,SVK,10,true,false,false,finishing,passing
+Patrik Myslovic,MF,L,21,SVK,9,true,false,false,playmaking,pace
+Miroslav Gono,MF,R,21,SVK,7,false,false,false,marking,passing
+Mario Sauer,MF,L,18,SVK,10,false,false,false,playmaking,passing
+David Duris,FW,R,23,SVK,3,false,false,false,playmaking,finishing
+Patrik Ilko,FW,L,21,SVK,10,false,false,false,finishing,pace
+Adrian Kapralik,FW,R,20,SVK,4,true,false,false,dribbling,playmaking
+Marek Teplan,GK,R,20,SVK,1,false,false,false,reflexes,positioning
+Kristian Bari,FW,R,21,SVK,5,true,false,false,finishing,pace
+Andrej Stojcevski,MF,R,19,MKD,6,true,false,false,marking,finishing
+Samuel Gidi,MF,R,18,GHA,10,true,false,false,dribbling,playmaking

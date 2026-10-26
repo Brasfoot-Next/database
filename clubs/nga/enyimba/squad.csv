@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+John Noble,GK,R,29,NGA,5,true,false,false,reflexes,positioning
+Olorunleke Ojo,GK,L,26,NGA,7,false,false,false,positioning,penalty-saving
+Sabirou Bassa-Djeri,GK,R,26,TOG,1,false,false,false,rushing-out,penalty-saving
+Daniel Darkwah,FB,L,30,GHA,10,true,false,false,marking,pace
+Imo Obot,FB,R,19,NGA,6,true,false,false,marking,passing
+Emmanuel Ampiah,FB,L,30,GHA,5,false,false,false,marking,finishing
+Chigozi Obasi,FB,R,24,NGA,2,false,false,false,marking,finishing
+Stephen Manyo,CB,R,21,NGA,5,true,false,false,tackling,stamina
+Nabil Yarou,CB,L,29,BEN,1,true,false,false,tackling,heading
+Oluwatosin Adegbite,CB,L,19,NGA,7,false,false,false,marking,pace
+Daniel Ijeh,CB,R,23,NGA,2,false,false,false,tackling,heading
+Augustine Oladapo,MF,R,26,NGA,6,true,false,false,finishing,passing
+Farouk Mohammed,MF,R,27,GHA,6,true,false,false,tackling,marking
+Cyril Olisemah,MF,L,27,NGA,2,true,false,false,passing,finishing
+Anthony Omaka,MF,L,26,NGA,5,true,false,false,passing,finishing
+Philip Ozor,MF,L,23,NGA,10,false,false,false,tackling,marking
+Christian Ekong,MF,R,20,NGA,6,false,false,false,playmaking,passing
+Fatai Abdullahi,MF,R,31,NGA,7,false,false,false,tackling,marking
+Adamu,FW,R,25,NGA,8,true,false,false,heading,pace
+Samuel Stone,FW,R,25,NGA,10,true,false,false,finishing,heading
+Chukwuemeka Obioma,FW,L,23,NGA,4,false,false,false,dribbling,finishing
+Samuel Lucio Kalu,FW,R,27,NGA,4,false,false,false,finishing,pace

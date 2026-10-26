@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Marin Orlinov,GK,R,31,BUL,5,false,false,false,positioning,reflexes
+Lyubomir Vasilev,GK,R,20,BUL,6,false,false,false,rushing-out,positioning
+Lyuboslav Stoyanov,GK,R,27,BUL,7,true,false,false,positioning,reflexes
+Milen Stoev,CB,R,26,BUL,3,true,false,false,tackling,marking
+Djordje Jovicic,CB,L,24,SRB,5,true,false,false,tackling,pace
+Lazar Boyanov,CB,R,23,BUL,6,false,false,false,tackling,stamina
+Sainey Sanyang,FB,L,23,BUL,7,true,false,false,passing,pace
+Martin Achkov,FB,R,27,BUL,3,true,false,false,tackling,stamina
+Ivan Goranov,FB,L,34,BUL,5,false,false,false,crossing,passing
+Iliya Yurukov,MF,R,26,BUL,6,true,false,false,playmaking,finishing
+Antoan Stoyanov,MF,R,21,BUL,7,false,false,false,passing,finishing
+Abdula Kichukov,MF,R,19,BUL,7,false,false,false,playmaking,dribbling
+Kassim Hadji,MF,R,26,BUL,4,true,false,false,pace,crossing
+José Gallegos,MF,R,24,USA,5,true,false,false,dribbling,playmaking
+Martin Smolenski,MF,R,23,BUL,6,true,false,false,dribbling,pace
+Vladislav Naydenov,FW,R,24,BUL,7,true,false,false,finishing,dribbling
+Samuil Mechev,FW,R,18,BUL,4,false,false,false,finishing,stamina
+Daniel Genov,FW,R,37,BUL,5,false,false,false,pace,dribbling
+Martin Petkov,FW,R,23,BUL,6,false,false,false,finishing,heading
+Preslav Borukov,FW,L,26,BUL,8,true,false,false,heading,stamina

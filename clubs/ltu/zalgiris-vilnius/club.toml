@@ -1,0 +1,13 @@
+name = "Zalgiris Vilnius"
+country = "LTU"
+level = 14
+reputation = 2
+colors = ["#067a2d", "#ffffff"]
+
+[stadium]
+name = "LFF stadionas"
+capacity = 5067
+
+[coach]
+name = "Vladimir Cheburin"
+country = "KAZ"

@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Luka Lijeskic,GK,R,21,SRB,5,true,false,false,rushing-out,reflexes
+Muhamed Sahinovic,GK,R,22,SRB,6,false,false,false,penalty-saving,reflexes
+Milos Mladenovic,GK,R,24,SRB,7,false,false,false,positioning,penalty-saving
+Bogdan Marinkovic,GK,R,22,SRB,3,false,false,false,positioning,reflexes
+Nikola Milicic,CB,R,22,SRB,5,true,false,false,tackling,pace
+Nikola Marjanovic,CB,R,28,SRB,6,true,false,false,tackling,pace
+Slobodan Simovic,CB,R,37,SRB,7,false,false,false,tackling,heading
+Viktor Zivadinovic,CB,R,20,SRB,3,false,false,false,tackling,stamina
+Thomas Viktor Ude,CB,R,19,NGA,5,false,false,false,marking,heading
+Petar Milutinovic,CB,R,19,SRB,6,false,false,false,marking,passing
+Bojan Kovacevic,FB,R,30,SRB,5,true,false,false,crossing,pace
+Mateja Dukic,FB,R,24,SRB,6,false,false,false,pace,crossing
+Nemanja Miletic,FB,R,34,SRB,3,false,false,false,passing,pace
+Dimitrije Nikolic,FB,L,19,SRB,5,true,false,false,dribbling,pace
+Semir Alic,MF,R,22,SRB,6,true,false,false,passing,stamina
+Nikola Bukumira,MF,R,20,SRB,7,true,false,false,dribbling,playmaking
+Jovan Ilic,MF,R,26,SRB,3,true,false,false,tackling,passing
+Milos Ristic,MF,R,31,SRB,5,false,false,false,finishing,passing
+Vanja Tomic,MF,R,21,SRB,6,false,false,false,tackling,passing
+Ibrahim Yusuf Omosanya,MF,R,20,NGA,7,false,false,false,dribbling,pace
+Wajdi Sahli,MF,R,29,TUN,5,true,false,false,stamina,passing
+Bojica Nikcevic,FW,R,26,MNE,6,true,false,false,heading,stamina
+Issa Bah,FW,L,24,SRB,7,false,false,false,pace,dribbling
+Evandro,FW,R,29,BRA,5,false,false,false,stamina,pace
+Asmir Suljic,FW,R,34,SRB,6,false,false,false,finishing,stamina
+Alfa Baldé,FW,R,21,POR,7,false,false,false,finishing,heading
+Mico Kuzmanovic,FW,R,30,SRB,1,false,false,false,heading,finishing
+Mohamed Cissé,FW,R,25,FRA,5,false,false,false,heading,pace
+António Gomes,FW,L,25,POR,6,false,false,false,pace,finishing
+Ester Sokler,FW,R,27,SVN,7,true,false,false,crossing,pace
+Uros Sremcevic,FW,R,20,SRB,4,false,false,false,heading,stamina
+Ilija Babic,FW,R,23,SRB,5,false,false,false,finishing,dribbling
+Aleksa Marusic,FW,R,27,MNE,6,false,false,false,pace,finishing
+Srdjan Borovina,FW,R,19,SRB,9,false,false,false,dribbling,finishing

@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Agustín Rossi,GK,R,30,ARG,6,true,false,false,positioning,reflexes
+Andrew,GK,R,25,BRA,7,false,false,false,reflexes,penalty-saving
+Dyogo Alves,GK,R,22,BRA,10,false,false,false,rushing-out,reflexes
+Léo Ortiz,CB,L,30,BRA,6,true,false,false,tackling,marking
+Léo Pereira,CB,L,30,BRA,6,true,false,false,tackling,heading
+Vitão,CB,R,26,BRA,7,false,false,false,marking,tackling
+Danilo,CB,R,35,BRA,1,false,false,false,tackling,heading
+João Souza,CB,R,19,BRA,6,false,false,false,heading,passing
+Ayrton Lucas,FB,R,29,BRA,7,true,false,false,marking,crossing
+Alex Sandro,FB,R,35,BRA,9,false,false,false,stamina,crossing
+Emerson Royal,FB,R,27,BRA,6,true,false,false,pace,tackling
+Guillermo Varela,FB,R,33,URU,7,false,false,false,pace,crossing
+Evertton Araújo,MF,R,23,BRA,9,true,false,false,passing,playmaking
+Erick Pulgar,MF,L,32,CHI,5,false,false,false,finishing,playmaking
+Jorginho,MF,L,34,ITA,6,false,false,false,finishing,playmaking
+Nicolás de la Cruz,MF,R,29,URU,7,false,false,false,dribbling,passing
+Saúl Ñíguez,MF,L,31,ESP,9,false,false,false,playmaking,dribbling
+Lucas Paquetá,MF,L,29,BRA,5,true,false,false,dribbling,playmaking
+Giorgian de Arrascaeta,MF,R,32,URU,6,true,false,false,stamina,passing
+Jorge Carrascal,MF,L,28,COL,7,true,false,false,finishing,playmaking
+Lorran,MF,L,20,BRA,6,false,false,false,dribbling,pace
+Samuel Lino,FW,R,26,BRA,6,true,false,false,pace,crossing
+Everton,FW,L,30,BRA,8,false,false,false,dribbling,playmaking
+Gonzalo Plata,FW,L,25,ECU,5,false,false,false,pace,finishing
+Luiz Araújo,FW,L,30,BRA,6,false,false,false,finishing,dribbling
+Pedro,FW,R,28,BRA,7,true,false,false,finishing,heading
+Wallace Yan,FW,R,21,BRA,8,false,false,false,finishing,pace
+Bruno Henrique,FW,R,35,BRA,5,false,false,false,heading,finishing

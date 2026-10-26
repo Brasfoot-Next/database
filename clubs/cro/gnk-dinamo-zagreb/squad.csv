@@ -1,0 +1,37 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ivan Nevistic,GK,R,28,CRO,6,true,false,false,reflexes,penalty-saving
+Ivan Filipovic,GK,R,31,CRO,7,false,false,false,reflexes,penalty-saving
+Antonio Rajic,GK,R,19,CRO,2,false,false,false,rushing-out,positioning
+Danijel Zagorac,GK,R,39,CRO,6,false,false,false,reflexes,rushing-out
+Sergi Domínguez,CB,R,21,ESP,6,true,false,false,tackling,heading
+Scott McKenna,CB,L,29,SCO,7,true,false,false,heading,tackling
+Niko Galesic,CB,R,25,CRO,4,false,false,false,stamina,heading
+Stjepan Radeljic,CB,L,28,CRO,6,false,false,false,heading,tackling
+Raúl Torrente,CB,R,24,ESP,6,false,false,false,marking,stamina
+Marko Zebic,CB,R,19,CRO,8,false,false,false,heading,passing
+Moreno Zivkovic,CB,R,22,CRO,8,false,false,false,marking,stamina
+Borna Orlic,CB,L,19,CRO,4,false,false,false,marking,tackling
+Kévin Théophile-Catherine,CB,R,36,CRO,6,false,false,false,heading,marking
+Matteo Pérez Vinlöf,FB,L,20,SWE,6,true,false,false,tackling,pace
+Bruno Goda,FB,L,28,CRO,7,false,false,false,tackling,stamina
+Moris Valincic,FB,R,23,CRO,9,true,false,false,pace,stamina
+Ronaël Pierre-Gabriel,FB,R,28,FRA,5,false,false,false,stamina,pace
+Noa Mikic,FB,R,19,CRO,6,false,false,false,pace,dribbling
+Paul Tabinas,FB,R,24,CRO,7,false,false,false,marking,pace
+Josip Misic,MF,R,32,CRO,9,true,false,false,playmaking,stamina
+Miha Zajc,MF,R,32,SVN,7,true,false,false,stamina,passing
+Luka Stojkovic,MF,R,22,CRO,10,true,false,false,stamina,passing
+Robert Mudrazija,MF,R,29,CRO,5,false,false,false,dribbling,pace
+Lukas Kacavenda,MF,R,23,CRO,6,true,false,false,stamina,dribbling
+Lovre Kulusic,MF,R,19,CRO,6,false,false,false,finishing,playmaking
+Sven Sunta,MF,R,19,SVN,8,false,false,false,dribbling,pace
+Gabriel Vidovic,FW,L,22,CRO,4,false,false,false,dribbling,finishing
+Arbër Hoxha,FW,L,27,ALB,6,true,false,false,pace,dribbling
+Cardoso Varela,FW,R,17,POR,7,false,false,false,heading,stamina
+Mislav Orsic,FW,R,33,CRO,8,false,false,false,heading,finishing
+Mateo Lisica,FW,R,23,CRO,7,false,false,false,pace,passing
+Dani Rodríguez,FW,R,20,ESP,9,false,false,false,finishing,stamina
+Fran Topic,FW,L,22,CRO,5,false,false,false,pace,dribbling
+Tin Miljak,FW,L,19,CRO,6,false,false,false,pace,dribbling
+Dion Beljo,FW,R,24,CRO,7,true,false,false,crossing,pace
+Mounsef Bakrar,FW,R,25,ALG,7,false,false,false,finishing,heading

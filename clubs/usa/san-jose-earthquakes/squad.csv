@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Cristian Arango,FW,L,31,COL,5,false,false,false,finishing,playmaking
+Dejuan Jones,FW,R,29,USA,6,true,false,false,pace,stamina
+Cristian Espinoza,FW,R,31,ARG,8,true,false,false,stamina,pace
+Ronaldo Vieira,MF,R,28,ENG,4,true,false,false,stamina,passing
+Vítor Costa,FW,L,32,BRA,5,false,false,false,stamina,pace
+Nick Lima,FB,R,31,USA,6,true,false,false,pace,stamina
+Ian Harkes,MF,L,31,USA,8,false,false,false,stamina,passing
+Josef Martinez,FW,R,33,VEN,5,false,false,false,pace,finishing
+Mark Anthony Kaye,MF,L,31,CAN,6,false,false,false,stamina,pace
+Noel Buck,MF,L,21,ENG,6,true,false,false,dribbling,playmaking
+Dave Romney,CB,L,33,USA,5,false,false,false,stamina,heading
+Niko Tsakiris,MF,L,21,USA,6,true,false,false,dribbling,pace
+Beau Leroux,MF,R,23,USA,6,true,false,false,pace,passing
+Jack Skahan,MF,R,28,USA,9,false,false,false,stamina,passing
+Rodrigues,CB,R,28,BRA,4,false,false,false,tackling,stamina
+Jamar Ricketts,FW,L,24,USA,5,false,false,false,dribbling,tackling
+Benjamin Kikanovic,FW,L,26,USA,7,false,false,false,pace,dribbling
+Bruno Wilson,CB,R,29,POR,1,false,false,false,heading,marking
+Max Floriani,CB,R,23,USA,4,false,false,false,tackling,marking
+Preston Judd,FW,R,27,USA,5,true,false,false,finishing,pace
+Ousseni Bouda,FW,L,26,BFA,5,false,false,false,dribbling,pace
+Daniel Munie,CB,R,26,USA,6,true,false,false,tackling,marking
+Reid Roberts,CB,L,22,USA,7,true,false,false,stamina,passing
+Earl Edwards Jr,GK,R,34,USA,7,false,false,false,positioning,penalty-saving
+Daniel,GK,R,32,BRA,4,true,false,false,reflexes,positioning
+Francesco Montali,GK,R,26,USA,5,false,false,false,penalty-saving,rushing-out

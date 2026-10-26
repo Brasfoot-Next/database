@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Simon Gustafson,MF,L,31,SWE,5,true,false,false,stamina,passing
+Mikkel Rygaard,MF,L,35,DEN,6,false,false,false,playmaking,passing
+Amor Layouni,FW,L,33,TUN,7,false,false,false,pace,stamina
+Samuel Leach Holm,MF,L,28,SWE,3,true,false,false,stamina,passing
+Brice Wembangomo,FB,R,29,NOR,5,true,false,false,pace,stamina
+Julius Lindberg,FB,R,27,SWE,6,true,false,false,pace,crossing
+Adam Lundkvist,FB,L,32,SWE,7,false,false,false,stamina,crossing
+Pontus Dahbo,MF,L,20,SWE,4,true,false,false,stamina,pace
+Sanders Ngabo,MF,R,22,DEN,6,true,false,false,pace,passing
+Silas Andersen,CB,R,22,DEN,7,true,false,false,stamina,tackling
+Marius Lode,CB,L,33,NOR,4,false,false,false,stamina,pace
+Jacob Barrett Laursen,FB,L,31,DEN,6,false,false,false,stamina,tackling
+Leo Vaisanen,CB,R,29,FIN,7,true,false,false,stamina,pace
+Danilo Al Saed,FW,L,27,IRQ,1,true,false,false,pace,dribbling
+Isak Brusberg,FW,R,20,SWE,5,false,false,false,playmaking,passing
+Lasse Madsen,MF,R,21,DEN,6,false,false,false,pace,stamina
+Filip Ohman,FB,R,18,SWE,7,false,false,false,pace,tackling
+Christ Wawa,FW,R,19,CIV,1,false,false,false,pace,playmaking
+Severin Nioule,FW,L,21,CIV,5,false,false,false,pace,dribbling
+Sigge Jansson,MF,R,20,SWE,6,false,false,false,passing,tackling
+Adrian Svanback,FW,R,22,FIN,4,true,false,false,pace,playmaking
+Nikola Mitrovic,FW,L,20,SWE,5,false,false,false,pace,passing
+Filip Helander,CB,L,33,SWE,6,false,false,false,heading,marking
+John Paul Dembe,FW,R,21,UGA,7,false,false,false,pace,heading
+Ben Engdahl,FB,R,22,SWE,4,false,false,false,pace,stamina
+Johan Hammar,CB,R,32,SWE,5,false,false,false,heading,marking
+Lion Beqiri,FW,L,20,SWE,6,false,false,false,pace,playmaking
+Olle Samuelsson,CB,L,22,SWE,8,false,false,false,pace,marking
+Harry Hilvenius,CB,R,18,SWE,4,false,false,false,pace,tackling
+Peter Abrahamsson,GK,R,38,SWE,5,false,false,false,rushing-out,positioning
+Andreas Linde,GK,R,33,SWE,3,true,false,false,reflexes,penalty-saving
+Oscar Jansson,GK,R,35,SWE,5,false,false,false,positioning,rushing-out
+Etrit Berisha,GK,L,37,ALB,6,false,false,false,reflexes,positioning

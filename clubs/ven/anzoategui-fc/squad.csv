@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Wilbert Hernández,GK,L,25,VEN,7,true,false,false,reflexes,positioning
+Josué Agüero,GK,R,25,VEN,4,false,false,false,penalty-saving,reflexes
+David Guevara,CB,R,24,VEN,5,true,false,false,marking,passing
+Andry Vera,CB,R,22,VEN,6,false,false,false,tackling,stamina
+Gabriel Fuentes,CB,R,26,VEN,8,true,false,false,heading,stamina
+Juan Silgado,FB,R,27,COL,4,true,false,false,pace,crossing
+José Lovera,FB,L,26,VEN,5,true,false,false,pace,tackling
+Pablo Bonilla,FB,R,26,VEN,6,false,false,false,pace,dribbling
+Jhon James Pacheco,MF,L,24,VEN,9,true,false,false,passing,playmaking
+Emerson Ruíz,MF,L,23,VEN,3,true,false,false,finishing,passing
+Abrahan Moreno,MF,R,29,VEN,5,true,false,false,tackling,marking
+Anderson Cardozo,MF,R,31,VEN,6,false,false,false,finishing,playmaking
+Edanyilber Navas,MF,L,26,VEN,7,true,false,false,finishing,playmaking
+Jesús Castellano,MF,R,22,VEN,3,false,false,false,pace,dribbling
+Aldry Contreras,FW,L,22,VEN,5,false,false,false,heading,finishing
+José Caraballo,FW,R,30,VEN,6,false,false,false,playmaking,finishing
+Pablo Rojas,FW,L,34,COL,7,false,false,false,heading,stamina
+Carlos Barrios,FW,R,20,VEN,3,false,false,false,finishing,dribbling
+Guillermo Marín,FW,R,25,VEN,4,false,false,false,heading,stamina
+Antony Velasco,FW,L,27,COL,5,true,false,false,pace,crossing
+Frannaicel Sinza,FW,R,20,VEN,4,false,false,false,pace,crossing
+Deivid Tegues,FW,R,22,VEN,6,false,false,false,finishing,passing
+Lisandro Pérez,FW,R,26,VEN,7,true,false,false,pace,crossing
+Charlis Ortiz,FW,R,26,VEN,1,false,false,false,heading,finishing

@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jorge Peña,GK,R,22,CHI,5,false,false,false,positioning,rushing-out
+De Paul,GK,R,31,CHI,7,true,false,false,reflexes,positioning
+Camilo Rozas,GK,R,21,CHI,6,true,false,false,reflexes,positioning
+Alex Ibacache,FB,R,23,CHI,4,true,false,false,crossing,marking
+Joaquín López,FB,L,23,CHI,3,false,false,false,finishing,pace
+Cristopher Medina,FB,L,21,CHI,6,true,false,false,marking,passing
+John Salas,FB,R,25,CHI,7,true,false,false,marking,pace
+Echeverría,CB,L,27,CHI,8,true,false,false,tackling,marking
+Diego Oyarzún,CB,R,29,CHI,8,true,false,false,heading,stamina
+Julio Barroso,CB,R,37,ARG,6,false,false,false,heading,stamina
+Cristián Riquelme,CB,L,18,CHI,5,true,false,false,tackling,heading
+Álvaro Madrid,MF,R,27,CHI,2,true,false,false,passing,stamina
+César Valenzuela,MF,L,29,CHI,4,true,false,false,passing,finishing
+Benjamín Berríos,MF,L,24,CHI,9,true,false,false,tackling,finishing
+Adrián Sánchez,MF,R,23,ARG,1,true,false,false,tackling,marking
+Gary Moya,MF,L,20,CHI,2,false,false,false,tackling,finishing
+Juan Cuevas,FW,R,34,ARG,8,false,false,false,heading,pace
+Ismael Sosa,FW,L,35,ARG,4,true,false,false,dribbling,finishing
+Pedro Sánchez,FW,L,24,CHI,3,false,false,false,pace,finishing
+Matías Campos López,FW,L,30,CHI,1,true,false,false,finishing,pace

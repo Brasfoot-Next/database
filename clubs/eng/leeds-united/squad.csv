@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Anton Stach,MF,L,27,GER,7,true,false,false,stamina,tackling
+Ao Tanaka,MF,R,27,JPN,8,true,false,false,stamina,passing
+Gabriel Gudmundsson,FB,L,27,SWE,6,true,false,false,pace,stamina
+Daniel James,FW,R,28,WAL,6,false,false,false,pace,stamina
+Sean Longstaff,MF,R,28,ENG,7,true,false,false,stamina,playmaking
+Brenden Aaronson,MF,R,25,USA,5,true,false,false,stamina,dribbling
+Noah Okafor,FW,R,26,SUI,6,true,false,false,pace,dribbling
+Lukas Nmecha,FW,R,27,GER,6,false,false,false,finishing,passing
+Jayden Bogle,FB,R,26,ENG,7,true,false,false,pace,stamina
+James Justin,FB,R,28,ENG,5,false,false,false,pace,stamina
+Jaka Bijol,CB,R,27,SVN,5,false,false,false,heading,marking
+Jack Harrison,FW,L,29,ENG,6,false,false,false,crossing,pace
+Ilia Gruev,MF,L,26,BUL,6,false,false,false,stamina,passing
+Sam Byram,FB,L,32,ENG,7,false,false,false,tackling,pace
+Ethan Ampadu,CB,R,25,WAL,5,true,false,false,stamina,tackling
+Dominic Calvert Lewin,FW,R,29,ENG,6,true,false,false,heading,pace
+Wilfried Gnonto,FW,L,22,ITA,6,false,false,false,pace,dribbling
+Pascal Struijk,CB,L,27,NED,8,true,false,false,heading,stamina
+Joel Piroe,FW,L,27,NED,5,false,false,false,finishing,stamina
+Sebastiaan Bornauw,CB,R,27,BEL,6,false,false,false,heading,marking
+Joe Rodon,CB,R,28,WAL,2,false,false,false,pace,marking
+Sam Chambers,MF,R,19,SCO,6,false,false,false,pace,passing
+Lucas Perri,GK,R,28,BRA,6,true,false,false,reflexes,positioning
+Karl Darlow,GK,R,35,WAL,7,false,false,false,reflexes,penalty-saving
+Illan Meslier,GK,L,26,FRA,4,false,false,false,reflexes,rushing-out
+Alex Cairns,GK,L,33,ENG,6,false,false,false,reflexes,penalty-saving

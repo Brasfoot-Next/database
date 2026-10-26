@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Maxime Bernauer,CB,R,28,FRA,5,false,false,false,passing,stamina
+Lucas Stassin,FW,R,21,BEL,6,true,false,false,finishing,dribbling
+Pierre Ekwah,MF,L,24,FRA,7,true,false,false,stamina,passing
+Irvin Cardona,FW,R,29,FRA,4,false,false,false,pace,stamina
+Florian Tardieu,MF,R,34,FRA,5,false,false,false,stamina,passing
+Yvann Macon,FB,L,27,FRA,6,true,false,false,pace,stamina
+Aimen Moueffek,MF,L,25,MAR,7,true,false,false,dribbling,playmaking
+Ben Old,FW,L,24,NZL,2,false,false,false,pace,stamina
+João Ferreira,FB,R,25,POR,5,true,false,false,pace,tackling
+Zuriko Davitashvili,FW,L,25,GEO,6,true,false,false,pace,dribbling
+Dennis Appiah,FB,R,34,FRA,6,false,false,false,stamina,tackling
+Chico Lamba,CB,R,23,POR,7,true,false,false,stamina,pace
+Augustine Boakye,FW,L,25,GHA,2,false,false,false,pace,dribbling
+Joshua Duffus,FW,R,21,ENG,5,false,false,false,pace,dribbling
+Dylan Batubinsika,CB,R,30,COD,6,false,false,false,heading,pace
+Mahmoud Jaber,MF,R,26,FRA,7,true,false,false,dribbling,passing
+Igor Miladinovic,MF,R,23,SRB,3,true,false,false,pace,passing
+Ebenezer Annan,FB,L,24,GHA,5,false,false,false,pace,tackling
+Nadir El Jamali,MF,R,19,FRA,6,false,false,false,passing,pace
+Luan Gadegbeku,MF,L,19,FRA,7,false,false,false,stamina,pace
+Djylian Nguessan,FW,R,18,FRA,2,false,false,false,pace,dribbling
+Mickael Nade,CB,L,27,FRA,5,true,false,false,stamina,tackling
+Lassana Traore,FB,L,19,SEN,6,false,false,false,stamina,pace
+Strahinja Stojkovic,FB,R,19,SRB,7,false,false,false,heading,stamina
+Gautier Larsonneur,GK,R,29,FRA,2,true,false,false,reflexes,positioning
+Brice Maubleu,GK,R,36,FRA,5,false,false,false,reflexes,positioning

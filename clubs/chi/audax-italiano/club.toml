@@ -1,0 +1,13 @@
+name = "Audax Italiano"
+country = "CHI"
+level = 17
+reputation = 2
+colors = ["#006633", "#ffffff"]
+
+[stadium]
+name = "La Florida"
+capacity = 12000
+
+[coach]
+name = "José Ribera"
+country = "CHI"

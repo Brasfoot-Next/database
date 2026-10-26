@@ -1,0 +1,13 @@
+name = "CF Montréal"
+country = "USA"
+level = 10
+reputation = 2
+colors = ["#0030A0", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Victor Alvarez"
+country = "BRA"

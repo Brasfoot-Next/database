@@ -1,0 +1,13 @@
+name = "Kalju"
+country = "EST"
+level = 13
+reputation = 2
+colors = ["#000000", "#ffffff"]
+
+[stadium]
+name = "Hiiu"
+capacity = 1000
+
+[coach]
+name = "Eddie Cardoso"
+country = "POR"

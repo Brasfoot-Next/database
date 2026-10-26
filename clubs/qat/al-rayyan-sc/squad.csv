@@ -1,0 +1,36 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mahmoud Abunada,GK,L,26,QAT,8,true,false,false,reflexes,rushing-out
+Sami Beldi,GK,R,29,ALG,5,false,false,false,positioning,reflexes
+Sami Mazen Dauleh,GK,R,22,QAT,6,false,false,false,positioning,penalty-saving
+David García,CB,L,32,ESP,7,false,false,false,marking,stamina
+Diogo Amaro,CB,L,21,POR,9,false,false,false,tackling,heading
+Bahaa Ellethy,CB,L,27,QAT,5,true,false,false,heading,tackling
+Mohammed Saleh,CB,R,32,QAT,6,false,false,false,tackling,stamina
+Ameed Mahajneh,CB,R,29,QAT,7,true,false,false,heading,tackling
+Abdulla Al-Ali,CB,R,24,QAT,10,false,false,false,tackling,pace
+Ahmed Al-Minhali,FB,R,27,QAT,5,false,false,false,crossing,pace
+Daouda Diakité,FB,L,22,MLI,6,false,false,false,tackling,stamina
+Hazem Ahmed,FB,L,28,QAT,7,true,false,false,dribbling,pace
+Abdullah Yousef,FB,R,24,QAT,8,true,false,false,pace,tackling
+Julien De Sart,MF,R,31,BEL,1,true,false,false,passing,finishing
+Gregore,MF,R,32,BRA,5,false,false,false,playmaking,dribbling
+Jassem Gaber,MF,R,24,QAT,6,true,false,false,playmaking,dribbling
+Mostafa Osama Abouelela,MF,R,23,QAT,7,false,false,false,playmaking,finishing
+Tiago Silva,MF,R,33,POR,2,true,false,false,passing,stamina
+Naif Al-Hadhrami,MF,R,24,QAT,5,false,false,false,finishing,playmaking
+Abdulaziz Hatim,MF,R,35,QAT,6,true,false,false,passing,tackling
+Moameen Mutasem,MF,R,23,QAT,6,false,false,false,tackling,marking
+Osama Al-Tairi,MF,R,24,QAT,6,false,false,false,pace,dribbling
+Jassem Al-Sharshani,MF,R,23,QAT,7,false,false,false,playmaking,passing
+Ibrahim Al-Hassan,MF,R,20,QAT,4,false,false,false,playmaking,dribbling
+Wesley,FW,R,29,BRA,5,false,false,false,pace,heading
+Mostafa El Sayed,FW,R,21,QAT,6,false,false,false,pace,dribbling
+Ali Al-Qahtani,FW,R,20,QAT,7,false,false,false,crossing,pace
+Gabriel Pereira,FW,R,26,BRA,8,true,false,false,heading,tackling
+Ahmed Al-Ganehi,FW,R,25,QAT,5,false,false,false,finishing,pace
+Khalid Ali Sabah,FW,R,24,QAT,6,false,false,false,crossing,pace
+Jaime Pombo,FW,L,21,QAT,5,false,false,false,finishing,heading
+Róger Guedes,FW,R,29,BRA,6,false,false,false,finishing,dribbling
+Aleksandar Mitrović,FW,R,31,SRB,7,true,false,false,dribbling,finishing
+Ahmed Alaaeldin,FW,L,33,QAT,1,false,false,false,heading,pace
+Ahmed Al-Rawi,FW,R,22,QAT,5,false,false,false,finishing,stamina

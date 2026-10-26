@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Matus Bero,MF,R,31,SVK,6,false,false,false,stamina,marking
+Maximilian Wittek,FB,L,31,GER,7,true,false,false,stamina,crossing
+Felix Passlack,FB,R,28,GER,4,true,false,false,stamina,dribbling
+Ibrahima Sissoko,MF,R,28,MLI,5,true,false,false,stamina,tackling
+Kevin Vogt,CB,R,34,GER,6,false,false,false,tackling,marking
+Gerrit Holtmann,FW,L,31,GER,8,false,false,false,pace,playmaking
+Koji Miyoshi,FW,L,29,JPN,5,true,false,false,pace,passing
+Romario Rosch,FW,L,27,GER,6,false,false,false,stamina,pace
+Ibrahim Sissoko,FW,R,30,MLI,7,false,false,false,stamina,pace
+Kjell Watjen,MF,L,20,GER,4,true,false,false,passing,playmaking
+Moritz Broni Kwarteng,FW,R,28,GER,3,false,false,false,pace,dribbling
+Philipp Hofmann,FW,L,33,GER,5,false,false,false,heading,finishing
+Mats Pannewig,MF,L,22,GER,6,true,false,false,passing,stamina
+Michael Obafemi,FW,R,26,IRL,7,false,false,false,pace,finishing
+Francis Onyeka,MF,L,19,GER,4,true,false,false,pace,passing
+Farid Alfa Ruprecht,FW,R,20,GER,5,true,false,false,pace,dribbling
+Lennart Koerdt,MF,R,21,GER,6,false,false,false,passing,dribbling
+Mathis Clairicia,FW,R,24,FRA,7,false,false,false,pace,heading
+Noah Loosli,CB,R,29,SUI,4,false,false,false,heading,stamina
+Owono Darnell Keumo,FB,L,18,GER,5,false,false,false,pace,passing
+Leandro Morgalla,CB,R,21,GER,6,false,false,false,stamina,pace
+Niklas Jahn,MF,R,22,GER,7,false,false,false,passing,pace
+Kacper Koscierski,FB,R,19,GER,3,false,false,false,pace,tackling
+Philipp Strompf,CB,L,28,GER,5,false,false,false,stamina,pace
+Erhan Masovic,CB,R,27,SRB,6,true,false,false,tackling,marking
+Cajetan Lenz,MF,R,20,GER,7,false,false,false,heading,tackling
+Alessandro Crimaldi,FW,L,18,ITA,4,false,false,false,pace,dribbling
+Lirim Jashari,MF,R,20,GER,5,false,false,false,dribbling,pace
+Daniel Hulsenbusch,CB,R,21,GER,6,false,false,false,stamina,pace
+Colin Kleine Bekel,CB,R,23,GER,8,true,false,false,tackling,marking
+Timo Horn,GK,L,33,GER,6,true,false,false,rushing-out,penalty-saving
+Niclas Thiede,GK,L,27,GER,7,false,false,false,reflexes,rushing-out
+Hugo Rolleke,GK,R,21,GER,3,false,false,false,positioning,penalty-saving

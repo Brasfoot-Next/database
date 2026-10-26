@@ -1,0 +1,13 @@
+name = "Al-Ahly Tripoli"
+country = "LBY"
+level = 15
+reputation = 3
+colors = ["#339900", "#ffffff"]
+
+[stadium]
+name = "Tripoli International"
+capacity = 80000
+
+[coach]
+name = "Bernard Simondi"
+country = "FRA"

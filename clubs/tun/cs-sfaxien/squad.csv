@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Aymen Dahmen,GK,R,25,TUN,6,true,false,false,positioning,penalty-saving
+Gaaloul,GK,L,33,TUN,4,false,false,false,rushing-out,penalty-saving
+Ben Hessen,GK,R,26,TUN,8,false,false,false,reflexes,positioning
+Oussama Bahri,FB,R,22,TUN,4,true,false,false,marking,finishing
+Hamrouni,FB,L,25,TUN,10,true,false,false,marking,passing
+Mahmoud Ghorbel,FB,R,18,TUN,1,false,false,false,finishing,pace
+Alaa Ghram,CB,L,21,TUN,6,true,false,false,tackling,marking
+Zamen Zammouri,CB,R,24,TUN,1,true,false,false,heading,stamina
+Lakhal,CB,L,23,TUN,10,false,false,false,tackling,stamina
+Mohamed Nasraoui,CB,R,19,TUN,4,false,false,false,tackling,heading
+Walid Karoui,MF,R,26,TUN,6,true,false,false,marking,passing
+Abdallah Amri,MF,L,20,TUN,5,true,false,false,dribbling,pace
+Mohamed Journi,MF,L,22,LBY,9,true,false,false,finishing,passing
+Hussein Ali,MF,R,25,IRQ,9,true,false,false,finishing,passing
+Anas Alshibli,MF,L,19,LBY,1,false,false,false,finishing,passing
+Ben Ameur,MF,L,21,TUN,4,false,false,false,tackling,heading
+Fares Neji,MF,R,21,TUN,8,false,false,false,tackling,heading
+Chadi Hammami,MF,R,36,TUN,7,false,false,false,tackling,marking
+Firas Chaouat,FW,R,26,TUN,7,true,false,false,finishing,pace
+Mohamed Trabelsi,FW,L,24,TUN,9,true,false,false,dribbling,finishing
+Ismail Diakite,FW,L,30,MTN,2,false,false,false,heading,finishing
+Bilel Hamrouni,FW,L,22,TUN,8,false,false,false,finishing,pace

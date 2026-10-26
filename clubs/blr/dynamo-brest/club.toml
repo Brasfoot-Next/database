@@ -1,0 +1,13 @@
+name = "Dynamo Brest"
+country = "BLR"
+level = 15
+reputation = 3
+colors = ["#006699", "#ffffff"]
+
+[stadium]
+name = "Regional Complex"
+capacity = 10000
+
+[coach]
+name = "Sergey Kovalchuk"
+country = "BLR"

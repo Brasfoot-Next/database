@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Alexis Mac Allister,MF,L,27,ARG,7,true,true,false,passing,stamina
+Mohamed Salah,FW,L,34,EGY,9,true,true,true,finishing,dribbling
+Dominik Szoboszlai,MF,R,25,HUN,5,true,false,false,stamina,passing
+Ryan Gravenberch,MF,R,24,NED,6,true,true,false,dribbling,passing
+Florian Wirtz,MF,R,23,GER,7,true,true,false,playmaking,passing
+Milos Kerkez,FB,L,22,HUN,9,true,false,false,stamina,pace
+Cody Gakpo,FW,L,27,NED,5,false,false,false,dribbling,crossing
+Andrew Robertson,FB,L,32,SCO,6,false,false,false,crossing,stamina
+Virgil Van Dijk,CB,L,35,NED,6,true,true,true,tackling,marking
+Curtis Jones,MF,R,25,ENG,8,false,false,false,dribbling,passing
+Jeremie Frimpong,FB,R,25,NED,2,true,false,false,pace,dribbling
+Alexander Isak,FW,R,26,SWE,6,true,true,false,finishing,dribbling
+Federico Chiesa,FW,R,28,ITA,6,false,false,false,pace,dribbling
+Wataru Endo,MF,R,33,JPN,8,false,false,false,marking,heading
+Conor Bradley,FB,R,23,NIR,2,false,false,false,stamina,pace
+Hugo Ekitike,FW,R,24,FRA,6,false,false,false,dribbling,pace
+Stefan Bajcetic,MF,R,21,ESP,6,false,false,false,pace,dribbling
+Ibrahima Konate,CB,R,27,FRA,8,true,true,false,tackling,marking
+Joe Gomez,CB,R,29,ENG,4,false,false,false,tackling,marking
+Rio Ngumoha,FW,L,18,ENG,6,false,false,false,pace,dribbling
+Calvin Ramsay,FB,R,23,SCO,9,false,false,false,pace,stamina
+Trey Nyoni,MF,R,19,ENG,5,false,false,false,dribbling,passing
+Alisson,GK,R,33,BRA,6,true,true,false,positioning,reflexes
+Rhys Williams,CB,R,25,ENG,7,false,false,false,pace,heading
+Giovanni Leoni,CB,R,19,ITA,10,false,false,false,tackling,marking
+Freddie Woodman,GK,R,29,ENG,5,false,false,false,penalty-saving,reflexes
+Giorgi Mamardashvili,GK,L,25,GEO,6,false,false,false,positioning,reflexes
+Armin Pecsi,GK,R,21,HUN,7,false,false,false,reflexes,penalty-saving

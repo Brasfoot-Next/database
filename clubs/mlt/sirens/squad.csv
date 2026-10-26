@@ -1,0 +1,20 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jacob Walker,FB,R,24,MLT,6,true,false,false,finishing,pace
+Alex Cini,FB,L,30,MLT,5,true,false,false,crossing,marking
+Sacha Borg,FB,L,29,MLT,10,false,false,false,marking,passing
+Adrian Borg,CB,R,33,MLT,4,true,false,false,tackling,marking
+Diego Albanese,CB,L,26,ITA,1,true,false,false,marking,pace
+Henrique Motta,CB,L,31,BRA,9,false,false,false,tackling,heading
+Yair Blanco,CB,R,29,COL,1,false,false,false,tackling,heading
+Flores,MF,R,24,MEX,3,true,false,false,finishing,passing
+Rei Tachikawa,MF,R,24,JPN,5,true,false,false,tackling,finishing
+Marios Lomis,FW,R,27,NED,1,true,false,false,finishing,dribbling
+Andrea Cassar,GK,R,29,MLT,5,true,false,false,positioning,penalty-saving
+Matthew Grech,GK,L,26,MLT,2,false,false,false,rushing-out,penalty-saving
+Kei Sano,MF,L,30,JPN,7,true,false,false,finishing,passing
+Jackson,MF,R,27,JAM,10,true,false,false,playmaking,finishing
+Wellington Petinha,FW,L,29,BRA,4,true,false,false,finishing,dribbling
+Ivan Kolev,FW,R,26,BUL,6,false,false,false,pace,finishing
+Promise Akinpelu,FW,R,21,CAN,4,false,false,false,dribbling,finishing
+Sean Cipriott,MF,R,24,MLT,10,false,false,false,playmaking,dribbling
+Renato Neto,MF,L,30,BRA,5,false,false,false,tackling,marking

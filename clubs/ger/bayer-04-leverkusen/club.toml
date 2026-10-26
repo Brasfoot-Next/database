@@ -1,0 +1,13 @@
+name = "Bayer 04 Leverkusen"
+country = "GER"
+level = 21
+reputation = 4
+colors = ["#F0F0F0", "#E02020"]
+
+[stadium]
+name = "BayArena"
+capacity = 30210
+
+[coach]
+name = "Alejo Lomb"
+country = "BRA"

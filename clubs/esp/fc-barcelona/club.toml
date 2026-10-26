@@ -1,0 +1,14 @@
+name = "FC Barcelona"
+country = "ESP"
+level = 24
+reputation = 5
+colors = ["#D0A030", "#A02040"]
+rivals = ["esp/real-madrid"]
+
+[stadium]
+name = "Spotify Camp Nou"
+capacity = 62657
+
+[coach]
+name = "Roony Gavi"
+country = "BRA"

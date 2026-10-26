@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Armantas Vitkauskas,GK,L,33,LTU,7,true,false,false,positioning,penalty-saving
+Sergiy Melashenko,GK,L,25,UKR,10,false,false,false,penalty-saving,reflexes
+Deividas Malzinskas,FB,L,23,LTU,8,false,false,false,marking,finishing
+Valdemar Borovskij,FB,R,38,LTU,9,true,false,false,marking,passing
+Levsinas,FB,L,22,LTU,6,true,false,false,marking,passing
+Choco,FB,R,32,BRA,10,false,false,false,finishing,passing
+Olaide Badmus,CB,L,23,NGA,4,false,false,false,marking,pace
+Akseli Kalermo,CB,L,25,FIN,10,true,false,false,tackling,stamina
+Plamen Dimov,CB,R,31,BUL,8,true,false,false,tackling,heading
+Grigaravicius,MF,L,30,LTU,3,false,false,false,playmaking,finishing
+Rokas Filipavicius,MF,R,22,LTU,5,true,false,false,playmaking,passing
+Tomas Dombrauskis,MF,L,25,LTU,4,true,false,false,tackling,heading
+Matas Ramanauskas,MF,R,22,LTU,4,true,false,false,tackling,finishing
+Felipe Brisola,MF,L,32,BRA,10,true,false,false,playmaking,pace
+Emil Andriuskevic,MF,R,17,LTU,10,false,false,false,passing,tackling
+Gytis Paulauskas,FW,R,22,LTU,1,true,false,false,playmaking,finishing
+Artur Dolznikov,FW,L,22,LTU,2,true,false,false,heading,pace
+Lucas Dias,FW,L,25,BRA,5,false,false,false,heading,finishing
+Geraldas Sirvinskas,GK,R,19,LTU,6,false,false,false,rushing-out,penalty-saving
+Dejan Milicevic,MF,R,30,SRB,6,false,false,false,finishing,passing
+Dmytro Bilonog,FW,L,27,UKR,5,false,false,false,finishing,pace
+Deimantas Rimpa,MF,L,20,LTU,2,false,false,false,marking,passing

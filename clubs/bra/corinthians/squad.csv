@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Hugo Souza,GK,L,27,BRA,6,true,false,false,positioning,reflexes
+Matheus Donelli,GK,R,24,BRA,7,false,false,false,penalty-saving,reflexes
+Felipe Longo,GK,R,21,BRA,1,false,false,false,positioning,penalty-saving
+Kauê,GK,R,22,BRA,6,false,false,false,penalty-saving,reflexes
+Tchoca,CB,R,22,BRA,6,true,false,false,marking,passing
+André Ramalho,CB,R,34,BRA,7,true,false,false,heading,tackling
+Gustavo Henrique,CB,R,33,BRA,2,false,false,false,marking,passing
+Gabriel Paulista,CB,R,35,BRA,6,false,false,false,heading,marking
+Renato Santos,CB,R,21,BRA,6,false,false,false,tackling,marking
+Matheus Bidu,FB,L,27,BRA,7,true,false,false,marking,crossing
+Hugo,FB,R,28,BRA,6,false,false,false,crossing,passing
+Fabrizio Angileri,FB,R,32,ARG,7,false,false,false,crossing,passing
+Matheuzinho,FB,L,25,BRA,8,true,false,false,tackling,marking
+Pedro Milans,FB,R,24,URU,5,false,false,false,stamina,crossing
+Raniele,MF,R,29,BRA,6,true,false,false,pace,dribbling
+Allan,MF,R,29,BRA,7,false,false,false,pace,dribbling
+Charles,MF,R,30,BRA,9,false,false,false,dribbling,pace
+Breno Bidon,MF,L,21,BRA,6,true,false,false,stamina,tackling
+André,MF,R,20,BRA,7,true,false,false,marking,passing
+Matheus Pereira,MF,L,25,BRA,8,false,false,false,pace,stamina
+Alex Santana,MF,R,31,BRA,6,false,false,false,dribbling,pace
+André Carrillo,MF,R,35,PER,6,false,false,false,marking,passing
+Bahia,MF,R,20,BRA,8,false,false,false,pace,dribbling
+Rodrigo Garro,MF,R,28,ARG,4,true,false,false,passing,finishing
+Jesse Lingard,MF,R,33,ENG,6,false,false,false,stamina,dribbling
+Zakaria Labyad,MF,L,33,MAR,7,false,false,false,playmaking,crossing
+Kayke,FW,L,22,BRA,8,false,false,false,dribbling,playmaking
+Vitinho,FW,R,32,BRA,4,false,false,false,finishing,dribbling
+Kaio César,FW,L,22,BRA,6,false,false,false,pace,dribbling
+Dieguinho,FW,R,18,BRA,8,false,false,false,finishing,heading
+Yuri Alberto,FW,R,25,BRA,5,true,false,false,finishing,heading
+Memphis Depay,FW,R,32,NED,6,true,false,false,dribbling,playmaking
+Gui Negão,FW,R,19,BRA,7,false,false,false,dribbling,pace
+Pedro Raul,FW,R,29,BRA,10,false,false,false,heading,finishing

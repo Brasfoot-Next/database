@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nazih Assaad,GK,R,31,LBN,2,true,false,false,positioning,penalty-saving
+Hassan Moghnieh,GK,L,35,LBN,1,false,false,false,reflexes,positioning
+Nassar Nassar,FB,R,29,LBN,6,true,false,false,finishing,passing
+Hassan Chaitou,FB,L,29,LBN,7,true,false,false,finishing,passing
+Khaled Ali,FB,R,26,LBN,4,false,false,false,marking,passing
+Mootaz Jounaidi,CB,L,35,LBN,6,true,false,false,tackling,marking
+El Dor,CB,R,27,LBN,2,true,false,false,tackling,heading
+Abu Saleh,CB,L,32,LBN,1,false,false,false,heading,stamina
+Hassan Bittar,CB,R,21,LBN,1,false,false,false,tackling,heading
+Mohammad Hboos,MF,L,26,PLE,9,true,false,false,finishing,passing
+Hassan Chaito,MF,R,32,LBN,9,true,false,false,dribbling,pace
+Nader Matar,MF,R,28,LBN,4,true,false,false,finishing,passing
+Ali Atwi,MF,L,36,LBN,5,true,false,false,tackling,marking
+Jihad Ayoub,MF,R,26,VEN,2,false,false,false,marking,finishing
+Ghazi Hanineh,MF,L,26,LBN,3,false,false,false,tackling,marking
+Youssef Anbar,MF,L,31,LBN,4,false,false,false,tackling,finishing
+Hassan Maatouk,FW,L,33,LBN,8,true,false,false,finishing,dribbling
+Al Baba,FW,R,27,LBN,5,true,false,false,pace,crossing
+Ahmed Hijazi,FW,L,26,LBN,9,false,false,false,pace,finishing
+Kojok,FW,R,29,LBN,5,false,false,false,dribbling,finishing

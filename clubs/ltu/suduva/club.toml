@@ -1,0 +1,13 @@
+name = "Suduva"
+country = "LTU"
+level = 15
+reputation = 2
+colors = ["#ff0033", "#ffffff"]
+
+[stadium]
+name = "ARVI arena "
+capacity = 6250
+
+[coach]
+name = "Miguel Moreira"
+country = "POR"

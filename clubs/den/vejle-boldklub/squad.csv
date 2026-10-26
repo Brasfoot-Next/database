@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Andrew Hjulsager,MF,R,31,DEN,7,true,false,false,playmaking,crossing
+Christian Sorensen,FB,L,34,DEN,3,false,false,false,stamina,pace
+Mikkel Duelund,FW,L,29,DEN,5,false,false,false,playmaking,dribbling
+Tobias Lauritsen,MF,L,22,DEN,6,true,false,false,pace,dribbling
+Lasse Ladegaard Nielsen,CB,L,38,DEN,7,false,false,false,passing,pace
+Tobias Bach,FW,L,23,DEN,3,false,false,false,pace,stamina
+Mads Enggard,MF,R,22,DEN,5,true,false,false,passing,playmaking
+Lundrim Hetemi,MF,R,26,ALB,6,true,false,false,stamina,pace
+Thomas Gundelund,FB,R,24,DEN,7,true,false,false,pace,crossing
+Valdemar Lund,CB,L,23,DEN,3,true,false,false,marking,passing
+Amin Chiakha,FW,R,20,ALG,1,true,false,false,pace,finishing
+Bismark Edjeodji,FW,R,19,GHA,5,false,false,false,pace,dribbling
+Damian Van Bruggen,CB,R,30,NED,6,false,false,false,stamina,tackling
+Alexi Pitu,FW,L,24,ROU,7,false,false,false,pace,passing
+Mike Vestergard,MF,R,28,DEN,2,false,false,false,passing,pace
+Jonathan Amon,FW,L,27,USA,5,false,false,false,pace,dribbling
+Jelle Duin,FW,L,27,NED,6,false,false,false,pace,stamina
+Stefan Velkov,CB,R,29,BUL,6,true,false,false,stamina,marking
+Anders Jacobsen,FW,R,36,DEN,7,false,false,false,pace,stamina
+Christian Gammelgaard,FW,L,23,DEN,3,true,false,false,pace,crossing
+Abdoulaye Camara,FW,L,19,GUI,8,false,false,false,pace,playmaking
+Wahid Faghir,FW,R,23,DEN,4,false,false,false,pace,finishing
+Luka Hujber,FB,R,27,CRO,5,false,false,false,crossing,tackling
+Clemens Astrup,MF,L,20,DEN,6,false,false,false,pace,stamina
+Giorgi Tabatadze,FB,L,20,GEO,8,true,false,false,pace,crossing
+Tobias Lykkebak,MF,R,20,DEN,4,false,false,false,pace,passing
+Lasse Flo,FB,R,20,DEN,5,false,false,false,pace,tackling
+Sander Ravn,MF,R,19,DEN,6,false,false,false,pace,stamina
+Anders Sonderskov,CB,R,20,DEN,7,false,false,false,tackling,pace
+Igor Vekic,GK,R,28,SVN,2,true,false,false,reflexes,positioning
+Tobias Haahr Jakobsen,GK,R,23,DEN,7,false,false,false,reflexes,penalty-saving
+Gustav Knudsen,GK,R,20,DEN,3,false,false,false,positioning,reflexes

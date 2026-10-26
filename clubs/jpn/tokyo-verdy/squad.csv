@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Matheus,GK,R,33,BRA,7,true,false,false,rushing-out,positioning
+Yuya Nagasawa,GK,R,30,JPN,4,false,false,false,reflexes,positioning
+Hiroki Mawatari,GK,R,31,JPN,5,false,false,false,rushing-out,reflexes
+Keisuke Nakamura,GK,R,21,JPN,6,false,false,false,reflexes,positioning
+Ryota Inoue,CB,R,25,JPN,8,true,false,false,tackling,heading
+Kaito Suzuki,CB,R,23,JPN,4,true,false,false,marking,heading
+Naoki Hayashi,CB,R,28,JPN,5,false,false,false,heading,marking
+Maaya Sako,CB,R,23,JPN,6,false,false,false,marking,stamina
+Taiju Yoshida,FB,L,26,JPN,9,true,false,false,crossing,passing
+Shuhei Mizoguchi,FB,L,22,JPN,4,false,false,false,passing,pace
+Kazuya Miyahara,FB,L,30,JPN,7,true,false,false,passing,pace
+Yosuke Uchida,FB,R,23,JPN,1,false,false,false,marking,crossing
+Shuto Tanabe,FB,R,24,JPN,5,false,false,false,crossing,pace
+Riku Matsuda,FB,L,27,JPN,5,false,false,false,marking,pace
+Koki Morita,MF,R,25,JPN,6,true,false,false,tackling,passing
+Joi Yamamoto,MF,R,20,JPN,7,false,false,false,passing,stamina
+Soma Meshino,MF,R,25,JPN,3,false,false,false,tackling,passing
+Yuan Matsuhashi,MF,L,24,JPN,5,true,false,false,pace,crossing
+Yuya Fukuda,MF,L,27,JPN,6,false,false,false,pace,crossing
+Yuta Arai,MF,L,23,JPN,7,false,false,false,pace,crossing
+Kosuke Saito,MF,R,29,JPN,6,true,false,false,passing,tackling
+Rei Hirakawa,MF,L,26,JPN,8,true,false,false,playmaking,passing
+Hiroto Yamami,FW,R,26,JPN,4,true,false,false,finishing,stamina
+Issei Kumatoriya,FW,R,23,JPN,5,false,false,false,playmaking,finishing
+Shion Nakayama,FW,L,18,JPN,6,false,false,false,finishing,stamina
+Gakuto Kawamura,FW,L,20,JPN,7,false,false,false,heading,stamina
+Itsuki Someno,FW,R,24,JPN,2,true,false,false,crossing,pace
+Hyun-woo Kim,FW,R,24,JPN,5,false,false,false,dribbling,pace
+Shimon Teranuma,FW,R,25,JPN,6,false,false,false,finishing,heading
+Soma Kanda,FW,R,20,JPN,7,false,false,false,finishing,stamina
+Goki Yamada,FW,R,25,JPN,5,false,false,false,heading,finishing
+Ryosuke Shirai,FW,L,21,JPN,6,false,false,false,pace,dribbling
+Hayato Hirao,FW,R,21,JPN,7,false,false,false,dribbling,pace
+Sota Ofuji,FW,R,18,JPN,2,false,false,false,heading,stamina

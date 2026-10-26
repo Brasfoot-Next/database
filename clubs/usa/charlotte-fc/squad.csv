@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ashley Westwood,MF,L,36,ENG,7,false,false,false,stamina,passing
+Wilfried Zaha,FW,L,33,CIV,3,false,false,false,pace,dribbling
+Pep Biel,MF,L,30,ESP,5,true,false,false,playmaking,passing
+Liel Abada,FW,R,24,USA,6,true,false,false,pace,finishing
+Brandt Bronico,MF,R,31,USA,7,true,false,false,stamina,passing
+Harry Toffolo,FB,L,31,ENG,4,true,false,false,crossing,marking
+Eryk Williamson,MF,R,29,USA,5,false,false,false,pace,dribbling
+Nathan Byrne,FB,R,34,ENG,6,false,false,false,stamina,pace
+Tim Ream,CB,L,38,USA,7,false,false,false,stamina,passing
+Bill Tuiloma,CB,R,31,NZL,4,true,false,false,heading,passing
+Kerwin Vargas,FW,L,24,COL,5,false,false,false,pace,stamina
+Djibril Diani,MF,L,28,FRA,6,true,false,false,stamina,tackling
+Jahkeele Marshall Rutty,FB,L,22,CAN,9,true,false,false,pace,dribbling
+Archie Goodwin,FW,R,21,AUS,3,false,false,false,finishing,pace
+Nikola Petkovic,MF,R,23,SRB,5,true,false,false,passing,tackling
+Andrew Privett,CB,L,26,USA,6,true,false,false,stamina,tackling
+Idan Toklomati,FW,R,22,USA,7,true,false,false,pace,finishing
+Nick Scardina,FB,R,25,USA,3,false,false,false,pace,stamina
+Adilson Malanda,CB,R,24,FRA,5,false,false,false,stamina,heading
+Brandon Cambridge,FW,R,24,USA,6,false,false,false,pace,dribbling
+Nimfasha Berchimas,FW,L,18,USA,5,false,false,false,pace,stamina
+Tyger Smalls,FW,L,24,ENG,6,false,false,false,pace,crossing
+Jack Neeley,CB,R,21,USA,7,false,false,false,tackling,marking
+David Bingham,GK,R,36,USA,4,false,false,false,penalty-saving,reflexes
+Kristijan Kahlina,GK,R,34,CRO,5,false,false,false,reflexes,positioning
+Drake Callender,GK,R,28,USA,6,true,false,false,reflexes,penalty-saving
+Chituru Odunze,GK,L,23,USA,7,false,false,false,reflexes,penalty-saving

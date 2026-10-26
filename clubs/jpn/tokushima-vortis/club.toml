@@ -1,0 +1,13 @@
+name = "Tokushima Vortis"
+country = "JPN"
+level = 12
+reputation = 2
+colors = ["#F0F0F0", "#000080"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Nao Takada"
+country = "BRA"

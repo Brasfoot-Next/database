@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ellyes Skhiri,MF,R,31,TUN,5,true,false,false,stamina,marking
+Mario Gotze,MF,R,34,GER,6,false,false,false,passing,playmaking
+Hugo Larsson,MF,R,22,SWE,7,true,false,false,passing,stamina
+Rasmus Kristensen,FB,R,29,DEN,10,false,false,false,stamina,marking
+Fares Chaibi,MF,L,23,ALG,6,true,false,false,dribbling,playmaking
+Jonathan Burkardt,FW,R,26,GER,6,true,false,false,finishing,pace
+Ritsu Doan,FW,L,28,JPN,7,false,false,false,stamina,dribbling
+Mahmoud Dahoud,MF,R,30,GER,8,false,false,false,dribbling,passing
+Aurélio Buta,FB,R,29,POR,4,false,false,false,pace,dribbling
+Oscar Hojlund,MF,R,21,DEN,6,false,false,false,pace,passing
+Ansgar Knauff,FW,R,24,GER,4,false,false,false,pace,dribbling
+Michy Batshuayi,FW,R,32,BEL,6,false,false,false,finishing,dribbling
+Elye Wahi,FW,R,23,FRA,7,false,false,false,pace,dribbling
+Nathaniel Brown,FB,L,23,GER,8,true,false,false,stamina,pace
+Jean Matteo Bahoya,FW,L,21,FRA,5,true,false,false,pace,dribbling
+Arthur Theate,FB,L,26,BEL,6,true,false,false,stamina,tackling
+Timmy Chandler,FB,R,36,USA,7,false,false,false,heading,crossing
+Robin Koch,CB,L,30,GER,8,true,false,false,heading,tackling
+Elias Baum,FB,R,20,GER,5,false,false,false,stamina,pace
+Can Uzun,MF,R,20,TUR,6,true,false,false,dribbling,finishing
+Nnamdi Collins,CB,R,22,GER,2,true,false,false,pace,tackling
+Jessic Ngankam,FW,R,26,GER,6,false,false,false,pace,dribbling
+Noah Fenyo,MF,R,20,HUN,6,false,false,false,passing,stamina
+Aurele Amenda,CB,R,23,SUI,7,false,false,false,marking,tackling
+Fousseny Doumbia,CB,L,21,MLI,2,false,false,false,tackling,pace
+Michael Zetterer,GK,R,31,GER,6,false,false,false,reflexes,penalty-saving
+Jens Grahl,GK,R,37,GER,6,false,false,false,penalty-saving,reflexes
+Kauã Santos,GK,R,23,BRA,8,true,false,false,reflexes,penalty-saving
+Amil Siljevic,GK,R,19,GER,4,false,false,false,reflexes,penalty-saving

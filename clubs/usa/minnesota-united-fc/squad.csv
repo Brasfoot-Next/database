@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Robin Lod,FW,L,33,FIN,3,false,false,false,playmaking,passing
+Dominik Fitz,MF,R,27,AUT,5,true,false,false,stamina,playmaking
+Julian Gressel,FW,R,32,USA,6,false,false,false,stamina,crossing
+Joaquin Pereyra,MF,L,27,ARG,7,true,false,false,playmaking,passing
+Bongokuhle Hlongwane,FB,R,26,USA,3,true,false,false,pace,stamina
+Hoyeon Jung,MF,R,25,KOR,5,false,false,false,stamina,playmaking
+Wil Trapp,MF,R,33,USA,6,false,false,false,stamina,passing
+Owen Gene,MF,R,23,FRA,7,true,false,false,pace,passing
+Kelvin Yeboah,FW,R,26,ITA,7,true,false,false,pace,stamina
+Joseph Rosales,FB,L,25,USA,4,true,false,false,pace,stamina
+Hassani Dotson,MF,R,29,USA,5,true,false,false,stamina,passing
+Michael Boxall,CB,R,38,NZL,7,false,false,false,tackling,marking
+Nicolas Romero,CB,L,22,ARG,1,true,false,false,tackling,marking
+Anthony Markanich Jr,FW,L,26,USA,5,true,false,false,pace,tackling
+Jefferson Diaz,CB,L,25,COL,6,false,false,false,stamina,marking
+Carlos Harvey,CB,R,26,PAN,7,false,false,false,tackling,passing
+DJ Taylor,FB,R,29,USA,2,false,false,false,pace,stamina
+Morris Duggan,CB,L,25,GER,5,true,false,false,tackling,pace
+Loic Mesanvi,FW,L,23,USA,6,false,false,false,pace,finishing
+Dayne St Clair,GK,L,29,CAN,10,true,false,false,reflexes,penalty-saving
+Alec Smir,GK,R,27,USA,5,false,false,false,penalty-saving,rushing-out

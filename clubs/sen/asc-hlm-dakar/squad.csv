@@ -1,0 +1,36 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ibrahima Dieng,GK,R,25,SEN,7,true,false,false,reflexes,penalty-saving
+Cheikh Diop,GK,R,25,SEN,1,false,false,false,reflexes,rushing-out
+Aly Coulibaly,CB,R,25,SEN,5,false,false,false,tackling,stamina
+Serigne Lo,CB,R,25,SEN,6,false,false,false,stamina,heading
+Serigne Déme,CB,R,21,SEN,7,false,false,false,stamina,heading
+Thierno Barry,CB,R,25,SEN,2,true,false,false,marking,tackling
+Alioune Samb,CB,R,27,SEN,5,true,false,false,marking,tackling
+Abdoul Diallo,CB,R,25,SEN,6,false,false,false,marking,tackling
+Cheikh Diop,CB,R,25,SEN,7,false,false,false,heading,tackling
+Youssou Fall,FB,L,25,SEN,2,true,false,false,marking,crossing
+Ibrahima Djité,FB,R,21,SEN,5,false,false,false,tackling,stamina
+Amath Guèye,FB,R,23,SEN,7,true,false,false,tackling,pace
+Issa Gueye,FB,R,21,SEN,1,false,false,false,pace,crossing
+Souleymane Boiro,MF,R,32,SEN,5,false,false,false,playmaking,passing
+Mame Jallow,MF,R,24,SEN,6,false,false,false,finishing,playmaking
+Bassirou Ndiaye,MF,R,26,SEN,6,true,false,false,playmaking,passing
+Ousmane Sow,MF,L,26,SEN,7,true,false,false,heading,finishing
+Daouda Diaw,MF,L,25,SEN,3,true,false,false,stamina,passing
+Mouhamed Diouf,MF,R,25,SEN,5,true,false,false,dribbling,playmaking
+Djibril Dabo,MF,L,23,SEN,6,false,false,false,pace,crossing
+Serigne Thiam,MF,R,25,SEN,5,false,false,false,passing,stamina
+Amadou Badiane,MF,R,34,SEN,6,false,false,false,marking,passing
+Seydina Souaré,FW,R,25,SEN,7,true,false,false,heading,finishing
+El Hadji Diagne,FW,R,21,SEN,4,false,false,false,playmaking,finishing
+Matar Sene,FW,R,25,SEN,5,false,false,false,dribbling,playmaking
+Djiby Balde,FW,R,25,SEN,6,false,false,false,dribbling,pace
+El Hadji Fall,FW,R,20,SEN,7,false,false,false,dribbling,pace
+Ibrahima Dione,FW,R,34,SEN,2,false,false,false,heading,finishing
+Ababacar Seck,FW,R,25,SEN,5,false,false,false,finishing,pace
+Ibrahima Gadiaga,FW,R,25,SEN,6,false,false,false,pace,crossing
+Moussa Diallo,FW,R,21,SEN,5,true,false,false,crossing,pace
+Papa Ngane,FW,R,25,SEN,6,false,false,false,finishing,heading
+Papa Touré,FW,R,25,SEN,7,false,false,false,heading,pace
+Alioune Tine,FW,L,23,SEN,3,false,false,false,finishing,stamina
+Moustapha Diakhate,FW,L,25,SEN,5,false,false,false,pace,finishing

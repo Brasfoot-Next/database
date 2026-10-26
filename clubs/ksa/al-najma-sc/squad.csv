@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+David Tijanic,MF,L,29,SVN,6,true,false,false,dribbling,stamina
+Romell Quioto,FW,R,35,KSA,7,false,false,false,pace,heading
+Jawad El Yamiq,CB,L,34,MAR,3,true,false,false,pace,heading
+Deybi Flores,MF,R,30,KSA,5,true,false,false,pace,stamina
+Lázaro,FW,L,24,BRA,6,true,false,false,pace,dribbling
+Bilal Boutobba,FW,L,28,FRA,7,true,false,false,pace,dribbling
+Samir Caetano,CB,L,31,BRA,3,true,false,false,tackling,marking
+Ali Jasim,FW,L,22,IRQ,5,false,false,false,stamina,dribbling
+Ammar Al Najjar,FW,R,29,KSA,6,false,false,false,pace,dribbling
+Khalid Al Mhoass,CB,R,26,KSA,7,false,false,false,stamina,pace
+Nawaf Hawsawi,FB,L,25,KSA,3,false,false,false,pace,stamina
+Abdullah Hawsawi,FB,R,30,KSA,5,false,false,false,stamina,pace
+Fahad Al Abdulrazzaq,FB,R,26,KSA,6,true,false,false,pace,stamina
+Abdulelah Al Shammari,MF,L,27,KSA,7,true,false,false,pace,dribbling
+Abdulwahid Al Nakhli,MF,R,29,KSA,4,false,false,false,stamina,passing
+Abdulaziz Al Hurabi,MF,R,29,KSA,5,false,false,false,stamina,tackling
+Rakan Al Tulayhi,MF,L,23,KSA,6,true,false,false,pace,playmaking
+Mohammed Al Kunaydiri,FB,L,25,KSA,3,true,false,false,pace,stamina
+Abdullah Khattab,FW,L,31,KSA,5,false,false,false,pace,stamina
+Abdullah Al Sagheer,MF,L,21,KSA,6,false,false,false,stamina,pace
+Faisal Al Mutairi,FW,L,30,KSA,2,false,false,false,dribbling,playmaking
+Hisham Al Dubais,FW,R,24,KSA,5,false,false,false,pace,stamina
+Mohammed Mile,FW,R,26,KSA,6,false,false,false,pace,dribbling
+Omar Al Ruwaili,FW,R,27,KSA,7,false,false,false,pace,heading
+Nasser Al Hulayel,FB,L,26,KSA,3,false,false,false,pace,stamina
+Victor Braga,GK,R,34,BRA,5,true,false,false,reflexes,penalty-saving
+Khalid Al Muqaytib,GK,R,34,KSA,6,false,false,false,reflexes,rushing-out
+Waleed Al Enezi,GK,R,30,KSA,7,false,false,false,reflexes,positioning
+Adel Al Anzi,GK,R,20,KSA,5,false,false,false,positioning,penalty-saving

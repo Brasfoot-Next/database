@@ -1,0 +1,13 @@
+name = "Cruz Azul"
+country = "MEX"
+level = 17
+reputation = 2
+colors = ["#ffffff", "#0000cc"]
+
+[stadium]
+name = "Estadio Azul"
+capacity = 32904
+
+[coach]
+name = "Diego Aguirre"
+country = "URU"

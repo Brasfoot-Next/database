@@ -1,0 +1,13 @@
+name = "Aarhus Gymnastikforening"
+country = "DEN"
+level = 12
+reputation = 2
+colors = ["#C0C0C0", "#000000"]
+
+[stadium]
+name = "Ceres Park Vejlby"
+capacity = 12000
+
+[coach]
+name = "Eric Abbew"
+country = "BRA"

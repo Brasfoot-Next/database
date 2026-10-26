@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nadiem Amiri,MF,L,29,GER,8,true,false,false,playmaking,dribbling
+Lee Jae Sung,MF,L,34,KOR,5,false,false,false,stamina,heading
+Anthony Caci,FW,R,29,FRA,6,true,false,false,stamina,tackling
+Silvan Widmer,FB,R,33,SUI,7,true,false,false,pace,crossing
+Kaishu Sano,MF,R,25,JPN,8,true,false,false,stamina,pace
+Danny Da Costa,CB,R,33,GER,5,false,false,false,pace,tackling
+Dominik Kohr,CB,L,32,GER,6,false,false,false,tackling,marking
+Phillipp Mwene,FW,L,32,AUT,7,false,false,false,stamina,crossing
+Paul Nebel,MF,R,23,GER,9,true,false,false,stamina,dribbling
+Benedict Hollerbach,FW,R,25,GER,5,true,false,false,stamina,pace
+Sota Kawasaki,MF,R,25,JPN,7,false,false,false,stamina,dribbling
+Arnaud Nordin,FW,L,28,FRA,8,false,false,false,pace,dribbling
+William Boving,FW,R,23,DEN,5,false,false,false,pace,stamina
+Nikolas Veratschnig,FB,R,23,AUT,6,true,false,false,pace,heading
+Andreas Hanche Olsen,CB,R,29,NOR,7,true,false,false,heading,tackling
+Lennard Maloney,MF,R,26,USA,7,true,false,false,stamina,tackling
+Armindo Sieb,FW,R,23,GER,10,false,false,false,pace,dribbling
+Niklas Tauer,MF,R,25,GER,5,false,false,false,passing,stamina
+Ben Bobzien,FW,R,23,GER,6,false,false,false,dribbling,pace
+Daniel Gleiber,MF,L,21,GER,7,false,false,false,passing,dribbling
+Maxim Leitsch,CB,L,28,GER,6,false,false,false,tackling,marking
+Nelson Weiper,FW,R,21,GER,7,false,false,false,pace,heading
+Kasey Bos,FB,L,22,AUS,4,false,false,false,pace,tackling
+Stefan Bell,CB,R,35,GER,6,false,false,false,heading,marking
+Maxim Dal,CB,L,20,GER,6,false,false,false,tackling,heading
+Kacper Potulski,CB,R,18,POL,8,true,false,false,heading,tackling
+Konstantin Schopp,CB,R,20,AUT,9,false,false,false,pace,tackling
+Robin Zentner,GK,R,31,GER,5,true,false,false,reflexes,penalty-saving
+Daniel Batz,GK,R,35,GER,6,false,false,false,positioning,reflexes
+Lasse Riess,GK,R,25,GER,7,false,false,false,reflexes,positioning

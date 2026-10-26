@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Bojan Pavlovic,GK,R,35,SRB,2,true,false,false,positioning,penalty-saving
+Nikola Cetkovic,GK,L,20,BIH,3,false,false,false,rushing-out,penalty-saving
+Nikola Lakic,GK,R,26,BIH,1,false,false,false,reflexes,positioning
+Aleksandar Subic,FB,L,28,BIH,9,false,false,false,crossing,marking
+Strahinja Bosnjak,FB,R,23,SRB,5,false,false,false,finishing,pace
+Nikola Andric,FB,R,30,SRB,6,true,false,false,finishing,pace
+Milan Spremo,FB,L,27,SRB,2,true,false,false,marking,passing
+Djorde Milojevic,CB,L,21,BIH,1,false,false,false,tackling,marking
+Ivan Grgic,CB,R,19,BIH,5,false,false,false,tackling,stamina
+Dejan Popara,CB,R,19,BIH,1,true,false,false,tackling,stamina
+Marko Gajic,CB,L,30,SRB,9,true,false,false,marking,pace
+Dejan Meleg,MF,R,27,SRB,1,true,false,false,dribbling,passing
+Aleksandar Vojnovic,MF,L,25,BIH,5,true,false,false,tackling,pace
+Dino Coric,MF,L,32,BIH,2,false,false,false,passing,finishing
+Amar Begic,MF,R,21,BIH,3,true,false,false,tackling,marking
+Fedor Predragovic,MF,R,27,BIH,9,false,false,false,finishing,passing
+Amar Ceric,MF,L,20,BIH,8,false,false,false,finishing,passing
+Nedeljko Piscevic,MF,L,27,SRB,6,true,false,false,marking,finishing
+Marko Brkic,MF,L,22,BIH,7,false,false,false,tackling,marking
+Jovo Lukic,FW,R,23,BIH,2,true,false,false,pace,crossing
+Enver Kulasin,FW,L,18,BIH,2,false,false,false,finishing,pace
+Benjamin Tatar,FW,R,28,BIH,1,true,false,false,finishing,pace
+Momcilo Mrkaic,FW,R,31,BIH,8,false,false,false,dribbling,pace

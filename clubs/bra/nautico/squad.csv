@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gastón Guruceaga,GK,R,31,URU,5,false,false,false,positioning,penalty-saving
+Muriel,GK,R,22,BRA,6,false,false,false,positioning,penalty-saving
+Léo,GK,R,22,BRA,7,true,false,false,positioning,rushing-out
+Betão,CB,R,27,BRA,4,false,false,false,tackling,heading
+Mateus Silva,CB,R,31,BRA,5,true,false,false,heading,marking
+Alemão,CB,L,35,BRA,6,true,false,false,tackling,heading
+Índio,CB,R,22,BRA,8,false,false,false,marking,stamina
+Wanderson,CB,R,31,BRA,4,false,false,false,heading,tackling
+Gustavo Henrique,CB,L,20,BRA,5,false,false,false,heading,tackling
+Yuri,FB,L,30,BRA,6,true,false,false,tackling,pace
+Igor Fernandes,FB,R,34,BRA,6,false,false,false,passing,crossing
+Luiz Paulo,FB,L,33,BRA,7,false,false,false,tackling,pace
+Léo Jance,FB,L,21,BRA,2,false,false,false,crossing,passing
+Matheus Ribeiro,FB,R,33,BRA,5,false,false,false,passing,pace
+Luiz Felipe,FB,R,28,BRA,6,true,false,false,passing,pace
+Reginaldo,FB,R,33,BRA,7,false,false,false,tackling,pace
+Arnaldo,FB,R,34,BRA,2,false,false,false,pace,tackling
+Leonai,MF,R,31,BRA,5,false,false,false,stamina,pace
+Wenderson,MF,R,27,BRA,6,true,false,false,pace,stamina
+Samuel,MF,R,22,BRA,7,false,false,false,finishing,passing
+Léo Oliveira,MF,R,30,BRA,5,true,false,false,playmaking,passing
+Auremir,MF,R,34,BRA,6,false,false,false,playmaking,finishing
+Dodô,MF,R,25,BRA,7,true,false,false,marking,passing
+Jean Carlos,MF,L,34,BRA,4,true,false,false,stamina,tackling
+Juninho,MF,R,30,BRA,5,false,false,false,dribbling,playmaking
+Felipe Redaelli,MF,R,23,BRA,6,false,false,false,dribbling,passing
+Vinícius,FW,L,32,BRA,8,true,false,false,heading,pace
+Victor Andrade,FW,R,30,BRA,4,false,false,false,finishing,pace
+Benjamín Borasi,FW,R,28,ARG,6,true,false,false,pace,finishing
+Derek,FW,L,28,BRA,6,false,false,false,heading,finishing
+Júnior Todinho,FW,L,32,BRA,5,false,false,false,finishing,dribbling
+Paulo Sérgio,FW,R,37,BRA,6,false,false,false,heading,stamina
+Kauã Maranhão,FW,R,22,BRA,7,false,false,false,heading,stamina

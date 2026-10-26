@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ramon Pascal Lundqvist,MF,R,29,SWE,5,true,false,false,stamina,playmaking
+Arbnor Mucolli,FW,L,26,ALB,6,false,false,false,pace,stamina
+David Kruse,MF,R,24,DEN,8,true,false,false,stamina,passing
+Imam Jagne,MF,L,22,SWE,4,true,false,false,pace,stamina
+Tobias Heintz,FW,L,28,NOR,6,true,false,false,stamina,pace
+Thomas Santos,FB,R,27,DEN,7,true,false,false,pace,stamina
+Kolbeinn Thordharson,MF,R,26,ISL,1,false,false,false,stamina,passing
+August Erlingmark,CB,L,28,SWE,5,true,false,false,stamina,pace
+Gustav Svensson,CB,R,39,SWE,6,false,false,false,stamina,tackling
+Saidou Alioum,FW,R,23,CMR,7,false,false,false,pace,playmaking
+Max Fenger,FW,R,25,DEN,6,true,false,false,stamina,pace
+Noah Tolf,FB,L,21,SWE,7,true,false,false,stamina,pace
+Lucas Kahed,MF,R,24,SWE,3,true,false,false,pace,dribbling
+Sebastian Clemmensen,FW,L,23,DEN,5,false,false,false,pace,finishing
+Jonas Bager,CB,R,30,DEN,6,true,false,false,stamina,pace
+Felix Eriksson,FB,R,22,SWE,7,false,false,false,stamina,pace
+Benjamin Brantlind,MF,R,18,SWE,3,false,false,false,stamina,playmaking
+Linus Carlstrand,FW,R,22,SWE,5,false,false,false,pace,finishing
+Rockson Yeboah,CB,R,22,GHA,6,false,false,false,pace,tackling
+Alfons Boren,FW,R,19,SWE,7,false,false,false,pace,playmaking
+Pontus Dahlberg,GK,R,27,SWE,6,false,false,false,reflexes,penalty-saving
+Elis Bishesari,GK,L,21,SWE,7,true,false,false,reflexes,positioning

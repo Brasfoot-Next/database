@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Anders Dreyer,FW,L,28,DEN,5,true,false,false,stamina,passing
+Hirving Lozano,FW,L,31,MEX,6,false,false,false,pace,dribbling
+Paddy Mcnair,CB,L,31,NIR,7,true,false,false,stamina,tackling
+Marcus Ingvartsen,FW,L,30,DEN,4,false,false,false,stamina,finishing
+Luca De La Torre,MF,R,28,USA,5,true,false,false,stamina,passing
+Amahl Pellegrino,FW,L,36,NOR,6,false,false,false,pace,stamina
+Franco Negri,FB,L,31,ARG,8,false,false,false,pace,stamina
+Onni Valakari,FW,L,27,FIN,4,true,false,false,stamina,passing
+Jeppe Tverskov,MF,L,33,DEN,5,true,false,false,stamina,passing
+Anibal Godoy,MF,L,36,PAN,6,false,false,false,passing,stamina
+Emmanuel Boateng,FW,L,32,GHA,9,false,false,false,pace,passing
+Corey Baird,FW,R,30,USA,4,false,false,false,pace,heading
+Alejandro Alvarado,MF,R,23,USA,5,false,false,false,passing,playmaking
+Tomas Angel,FW,L,23,COL,6,false,false,false,pace,finishing
+Willy Kumado,FB,R,23,GHA,7,true,false,false,pace,stamina
+Christopher Mcvey,CB,R,29,SWE,1,true,false,false,stamina,passing
+Aiden Harangi,FB,L,20,USA,5,false,false,false,pace,stamina
+Alex Mighten,FW,L,24,ENG,6,false,false,false,pace,passing
+Andres Reyes,CB,R,27,COL,7,false,false,false,stamina,pace
+Manu Duah,MF,R,20,GHA,2,true,false,false,pace,passing
+Pedro Soma,MF,R,20,USA,5,true,false,false,pace,passing
+Oscar Anthony Verhoeven,FB,R,20,USA,7,false,false,false,pace,tackling
+Luca Bombino,FB,L,20,USA,1,true,false,false,stamina,pace
+Ian Pilcher,CB,L,23,USA,4,false,false,false,passing,tackling
+David Vazquez,FW,L,20,USA,5,false,false,false,pace,finishing
+Pablo Sisniega,GK,R,31,MEX,7,false,false,false,positioning,rushing-out
+Anisse Saidi,FW,R,18,TUN,4,false,false,false,finishing,stamina
+Cj Dos Santos,GK,R,26,USA,5,false,false,false,reflexes,rushing-out
+Duran Ferree,GK,R,19,USA,6,true,false,false,penalty-saving,rushing-out

@@ -1,0 +1,13 @@
+name = "FC Goa"
+country = "IND"
+level = 8
+reputation = 2
+colors = ["#D06000", "#000030"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Brison Singh"
+country = "BRA"

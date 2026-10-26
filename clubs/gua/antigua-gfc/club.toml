@@ -1,0 +1,13 @@
+name = "Antigua GFC"
+country = "GUA"
+level = 14
+reputation = 2
+colors = ["#ffffff", "#336600"]
+
+[stadium]
+name = "Pensativo"
+capacity = 10000
+
+[coach]
+name = "Ramiro Cepeda"
+country = "ARG"

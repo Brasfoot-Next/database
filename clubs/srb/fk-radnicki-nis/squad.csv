@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Strahinja Manojlovic,GK,R,23,SRB,5,true,false,false,positioning,rushing-out
+Dejan Stanivukovic,GK,R,32,SRB,6,false,false,false,positioning,rushing-out
+Ivan Kostic,GK,R,30,SRB,8,false,false,false,rushing-out,positioning
+Vukasin Zdravkovic,GK,R,18,SRB,4,false,false,false,positioning,reflexes
+Nikola Curuvija,GK,L,20,AUT,5,false,false,false,reflexes,positioning
+Petar Maslovaric,GK,L,20,SRB,7,false,false,false,positioning,reflexes
+Nikola Zecevic,CB,R,22,SRB,9,true,false,false,marking,heading
+Marko Mijailovic,CB,R,28,SRB,4,true,false,false,stamina,heading
+Ranko Jokic,CB,R,27,SRB,6,false,false,false,tackling,pace
+Uros Vitas,CB,R,34,SRB,7,false,false,false,tackling,heading
+Aleksandar Vidovic,FB,L,25,SRB,1,false,false,false,pace,crossing
+Milijan Ilic,FB,L,33,SRB,5,true,false,false,stamina,pace
+Luka Stankovic,FB,L,18,SRB,6,false,false,false,tackling,stamina
+Djordje Petrovic,FB,L,20,SRB,8,true,false,false,pace,tackling
+Stefan Velickovic,FB,R,27,SRB,4,false,false,false,passing,pace
+Marko Radic,FB,L,18,SRB,5,false,false,false,passing,pace
+Damjan Krajisnik,MF,R,29,SRB,6,false,false,false,pace,dribbling
+Bubacar Djaló,MF,R,29,POR,9,false,false,false,dribbling,playmaking
+Franck Kanouté,MF,R,27,SEN,4,true,false,false,playmaking,dribbling
+Radomir Milosavljevic,MF,R,33,SRB,6,true,false,false,passing,tackling
+Luka Izderic,MF,L,20,AUT,7,true,false,false,stamina,passing
+Mateja Radonjic,MF,R,20,SRB,4,true,false,false,stamina,passing
+Pavle Davkovski,MF,R,19,SRB,6,false,false,false,pace,dribbling
+Issah Abass,FW,R,27,GHA,7,false,false,false,dribbling,playmaking
+Luka Milovanovic,FW,L,20,SRB,3,false,false,false,heading,pace
+Ilija Krstic,FW,R,18,SRB,5,false,false,false,pace,finishing
+Stefan Nikolic,FW,R,20,SRB,6,true,false,false,dribbling,pace
+Kwaku Bonsu Osei,FW,R,25,GHA,7,false,false,false,heading,finishing
+Igor Ivanovic,FW,R,28,SRB,4,false,false,false,heading,stamina
+Milos Spasic,FW,R,28,SRB,5,false,false,false,heading,pace
+Babacar Mboup,FW,R,23,SEN,7,true,false,false,pace,finishing
+Aleksandr Shestyuk,FW,R,24,SRB,3,false,false,false,pace,dribbling
+Milos Rosevic,FW,R,25,SRB,5,false,false,false,pace,finishing

@@ -1,0 +1,13 @@
+name = "Foolad "
+country = "IRN"
+level = 15
+reputation = 2
+colors = ["#ffffff", "#660000"]
+
+[stadium]
+name = "Foolad Arena"
+capacity = 30000
+
+[coach]
+name = "Javad Nekounam"
+country = "IRN"

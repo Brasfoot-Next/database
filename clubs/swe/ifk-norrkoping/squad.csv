@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Arnor Ingvi Traustason,MF,R,33,ISL,7,true,false,false,stamina,pace
+Alexander Fransson,MF,L,32,SWE,4,true,false,false,stamina,playmaking
+Christoffer Nyman,FW,R,33,SWE,5,false,false,false,stamina,pace
+David Moberg Karlsson,FW,L,32,SWE,6,true,false,false,pace,dribbling
+Ismet Lushaku,MF,R,25,SWE,6,true,false,false,stamina,passing
+Moutaz Neffati,FB,R,22,TUN,7,false,false,false,pace,crossing
+Tim Prica,FW,L,24,SWE,4,false,false,false,pace,stamina
+Kevin Hoog Jansson,CB,L,25,SWE,5,true,false,false,passing,stamina
+Isak Andri Sigurgeirsson,FW,L,22,ISL,6,true,false,false,pace,stamina
+Axel Bronner,MF,R,18,SWE,8,false,false,false,pace,playmaking
+Ake Andersson,MF,R,19,SWE,6,false,false,false,pace,passing
+Marcus Baggesen,FB,L,23,DEN,7,true,false,false,pace,stamina
+Yahya Kalley,FB,L,25,SWE,3,true,false,false,pace,stamina
+Amadeus Sogaard,CB,R,28,SWE,5,true,false,false,stamina,marking
+Stephen Bolma,MF,R,21,GHA,6,true,false,false,passing,stamina
+William Bergman,MF,L,18,SWE,7,false,false,false,pace,passing
+Jonatan Gudhni Arnarsson,FW,R,19,ISL,3,false,false,false,pace,crossing
+Anton Eriksson,CB,R,26,SWE,5,false,false,false,passing,stamina
+Max Watson,CB,L,30,SWE,6,false,false,false,tackling,stamina
+Manaf Rawufu,FW,R,21,SWE,7,false,false,false,pace,stamina
+Abdoulie Tamba,CB,L,20,GAM,5,false,false,false,pace,heading
+David Mitov Nilsson,GK,R,35,SWE,7,false,false,false,reflexes,penalty-saving
+David Andersson,GK,R,22,SWE,1,true,false,false,reflexes,positioning
+Christoffer Petersen,GK,R,28,DEN,5,false,false,false,reflexes,penalty-saving
+Theo Krantz,GK,R,20,SWE,6,false,false,false,positioning,reflexes

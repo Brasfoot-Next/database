@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Stanislav Dostal,GK,R,35,CZE,7,true,false,false,rushing-out,positioning
+Milan Knobloch,GK,L,33,CZE,4,false,false,false,positioning,reflexes
+Stepan Bachurek,GK,R,23,CZE,6,false,false,false,rushing-out,reflexes
+Ondrej Kukucka,CB,R,22,CZE,7,true,false,false,marking,passing
+Jakub Cernin,CB,R,27,CZE,3,true,false,false,heading,tackling
+Jakub Kolar,CB,L,26,CZE,5,false,false,false,heading,passing
+Zvonimir Katalinic,CB,R,22,CRO,6,false,false,false,marking,passing
+Antonin Krapka,CB,L,32,CZE,7,false,false,false,marking,stamina
+Jakub Jugas,CB,R,34,CZE,3,false,false,false,stamina,heading
+Prince Mbatshi Mukuba,CB,L,20,CZE,5,false,false,false,passing,marking
+Adam Gazi,FB,R,23,SVK,6,false,false,false,tackling,stamina
+Lukas Bartosak,FB,L,36,CZE,8,false,false,false,tackling,marking
+Michal Fukala,FB,R,25,CZE,4,true,false,false,pace,tackling
+Milos Kopecny,FB,R,32,CZE,5,true,false,false,passing,crossing
+Stanislav Petruța,MF,R,20,CZE,6,true,false,false,playmaking,passing
+Cletus Nombil,MF,R,25,GHA,8,true,false,false,stamina,tackling
+Joss Didiba,MF,L,28,CMR,4,true,false,false,playmaking,dribbling
+Kristers Penkevics,MF,L,23,CZE,6,false,false,false,playmaking,dribbling
+David Machalik,MF,R,30,CZE,7,false,false,false,passing,playmaking
+Marian Pisoja,MF,R,26,SVK,1,false,false,false,pace,crossing
+Michal Cupak,MF,R,27,CZE,6,true,false,false,playmaking,finishing
+Tom Ulbrich,MF,R,28,CZE,7,false,false,false,marking,passing
+Tomas Hellebrand,MF,L,18,CZE,3,false,false,false,playmaking,dribbling
+Frank Appiah,MF,R,23,GHA,5,false,false,false,dribbling,playmaking
+Stanley Kanu,FW,L,27,NGA,6,true,false,false,pace,finishing
+Daniel Smiga,FW,R,22,CZE,7,false,false,false,dribbling,finishing
+Tomas Poznar,FW,R,37,CZE,4,true,false,false,heading,finishing

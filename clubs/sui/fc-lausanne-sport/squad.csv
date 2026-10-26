@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jamie Roche,MF,L,25,SWE,5,true,false,false,stamina,passing
+Nicky Beloko,MF,R,26,SUI,6,true,false,false,stamina,pace
+Morgan Poaty,FB,L,29,CGO,6,true,false,false,stamina,pace
+Brandon Soppy,FW,R,24,FRA,7,true,false,false,pace,crossing
+Olivier Custodio,MF,L,31,SUI,3,false,false,false,stamina,passing
+Alban Ajdini,FW,L,27,SUI,5,false,false,false,stamina,pace
+Theo Bair,FW,R,27,CAN,6,false,false,false,pace,heading
+Gaoussou Diakite,FW,R,20,MLI,7,true,false,false,dribbling,pace
+Manuel Polster,FW,L,23,AUT,3,false,false,false,pace,dribbling
+Muhannad Al Saad,FW,L,23,KSA,5,false,false,false,pace,dribbling
+Gabriel Sigua,MF,R,21,GEO,6,true,false,false,pace,passing
+Beyatt Lekoueiry,MF,L,21,SUI,7,true,false,false,pace,dribbling
+Bryan Okoh,CB,L,23,SUI,3,true,false,false,pace,tackling
+Nathan Butler Oyedeji,FW,R,23,ENG,5,false,false,false,pace,dribbling
+Ethan Bruchez,MF,R,18,SUI,6,false,false,false,pace,dribbling
+Kevin Mouanga,FB,R,26,FRA,7,true,false,false,stamina,tackling
+Karim Sow,CB,R,23,SUI,3,true,false,false,heading,stamina
+Sekou Fofana,FB,L,23,CIV,5,false,false,false,pace,stamina
+Enzo Kana Biyik,FW,R,19,FRA,6,false,false,false,pace,finishing
+Souleymane Ndiaye,MF,R,20,SUI,7,false,false,false,pace,passing
+Hamza Abdallah,FB,R,23,FRA,6,false,false,false,pace,tackling
+Seydou Traore,FW,R,21,CIV,7,false,false,false,pace,dribbling
+Thomas Castella,GK,R,33,SUI,1,false,false,false,positioning,reflexes
+Karlo Letica,GK,R,29,CRO,5,true,false,false,positioning,reflexes
+Tim Hottiger,GK,R,21,SUI,6,false,false,false,penalty-saving,reflexes

@@ -1,0 +1,13 @@
+name = "Istiklol"
+country = "TJK"
+level = 14
+reputation = 3
+colors = ["#ff0000", "#ffffff"]
+
+[stadium]
+name = "Central Republican"
+capacity = 20000
+
+[coach]
+name = "Vitali Levchenko"
+country = "TJK"

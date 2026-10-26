@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tae-song An,GK,R,27,PRK,3,true,false,false,reflexes,positioning
+Tae-song Sin,GK,L,20,PRK,6,false,false,false,penalty-saving,reflexes
+Hyok Kim,GK,R,28,PRK,8,false,false,false,positioning,penalty-saving
+Chol-bom Kim,FB,L,26,PRK,1,true,false,false,marking,passing
+Song Won,FB,R,27,PRK,7,true,false,false,finishing,passing
+Song-rok Pak,FB,L,27,PRK,10,false,false,false,marking,finishing
+Hyon-jin Sim,FB,R,30,PRK,7,false,false,false,finishing,pace
+Jin-myong Pak,CB,L,27,PRK,3,true,false,false,heading,stamina
+Song-il An,CB,R,24,PRK,3,true,false,false,tackling,heading
+Kum-nam Jang,CB,R,25,PRK,4,false,false,false,heading,stamina
+Chung-hyok Kwon,CB,L,27,PRK,6,false,false,false,heading,stamina
+Il-beom An,MF,R,30,PRK,2,true,false,false,finishing,passing
+Il-gwang Yun,MF,R,27,PRK,8,true,false,false,marking,passing
+Myong-song Pak,MF,L,26,PRK,1,true,false,false,marking,passing
+Hyok-chol O,MF,R,29,PRK,1,true,false,false,marking,finishing
+Jong-hyok Choe,MF,L,26,PRK,6,false,false,false,marking,passing
+In-sok Jong,MF,L,21,PRK,5,false,false,false,tackling,passing
+Son-yong Chung,MF,R,29,PRK,6,false,false,false,passing,finishing
+Phyong-il Son,FW,R,25,PRK,7,true,false,false,heading,stamina
+Hyok Jang,FW,R,28,PRK,6,true,false,false,heading,pace
+Hyong-jin Ri,FW,R,27,PRK,4,false,false,false,finishing,pace
+Chol-su Choe,FW,L,28,PRK,1,false,false,false,pace,finishing

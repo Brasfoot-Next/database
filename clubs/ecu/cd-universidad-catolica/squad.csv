@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Johan Lara,GK,R,27,ECU,7,false,false,false,positioning,reflexes
+Rafael Romo,GK,R,36,VEN,1,true,false,false,penalty-saving,reflexes
+Lucas Cueva,GK,R,25,ECU,5,false,false,false,reflexes,penalty-saving
+Luis Cangá,CB,R,31,ECU,6,false,false,false,stamina,heading
+Carlos Medina,CB,L,24,ECU,7,true,false,false,heading,tackling
+Jhon Chancellor,CB,R,34,VEN,2,true,false,false,pace,heading
+Marcos Sevillano,CB,R,24,ECU,5,false,false,false,heading,stamina
+Rockson Renteria,CB,R,24,ECU,6,false,false,false,marking,stamina
+Diego Palacios,FB,L,27,ECU,7,true,false,false,dribbling,pace
+Eddy Mejía,FB,L,26,ECU,2,true,false,false,pace,stamina
+Eric Valencia,FB,L,23,ECU,4,false,false,false,pace,stamina
+Gregori Anangonó,FB,R,28,ECU,5,false,false,false,pace,stamina
+Darwin Nazareno,FB,L,22,ECU,6,false,false,false,pace,tackling
+Luis Moreno,MF,R,21,ECU,9,true,false,false,dribbling,passing
+Rooney Troya,MF,R,20,ECU,5,false,false,false,stamina,dribbling
+Jerónimo Cacciabue,MF,R,28,ARG,6,true,false,false,passing,dribbling
+Emiliano Clavijo,MF,L,26,ECU,7,true,false,false,pace,dribbling
+Facundo Martínez,MF,R,41,ARG,1,false,false,false,playmaking,passing
+Andrés Rodríguez,MF,R,22,ECU,5,true,false,false,pace,dribbling
+Mauro Díaz,MF,R,35,ARG,6,false,false,false,dribbling,passing
+Mauricio Alonso,FW,L,32,URU,8,false,false,false,pace,stamina
+Azarías Londoño,FW,R,25,PAN,1,true,false,false,dribbling,playmaking
+Byron Palacios,FW,R,31,ECU,5,false,false,false,finishing,pace
+José Fajardo,FW,R,33,PAN,6,false,false,false,finishing,heading
+Saenddy Yánez,FW,R,24,ECU,7,true,false,false,pace,finishing

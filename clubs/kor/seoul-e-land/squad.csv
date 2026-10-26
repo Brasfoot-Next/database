@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Seong-jun Min,GK,R,26,KOR,5,true,false,false,reflexes,rushing-out
+Jae-yun Hwang,GK,R,23,KOR,6,false,false,false,penalty-saving,rushing-out
+Ye-hoon Ueom,GK,L,23,KOR,7,false,false,false,rushing-out,positioning
+Seung-min Yang,GK,R,18,KOR,4,false,false,false,positioning,penalty-saving
+Tae-san Kim,GK,R,18,KOR,5,false,false,false,rushing-out,reflexes
+Jae-hwan Park,CB,R,25,KOR,6,true,false,false,heading,stamina
+Osmar,CB,R,38,ESP,7,false,false,false,tackling,heading
+Ji-ung Baek,CB,R,21,KOR,4,false,false,false,marking,stamina
+Jin-young Park,CB,R,24,KOR,5,true,false,false,heading,passing
+Oh-kyu Kim,CB,R,37,KOR,6,false,false,false,tackling,stamina
+Min-jae Kang,CB,R,23,KOR,6,false,false,false,pace,heading
+Yeon-won Jeong,CB,R,21,KOR,7,false,false,false,tackling,marking
+Seo-joon Bae,FB,L,22,KOR,2,false,false,false,crossing,passing
+Hyeok-chan Son,FB,R,22,KOR,5,false,false,false,passing,crossing
+Hyun-woo Kim,FB,L,19,KOR,6,true,false,false,pace,tackling
+Rang Choi,FB,R,23,KOR,7,false,false,false,tackling,pace
+Ju-hwan Kim,FB,L,25,KOR,7,true,false,false,marking,pace
+Seok-joo Yoon,MF,R,24,KOR,4,true,false,false,tackling,marking
+Chang-hwan Park,MF,R,24,KOR,5,true,false,false,finishing,passing
+Jin-seok Seo,MF,L,22,KOR,6,false,false,false,finishing,playmaking
+Jun-hyun Jo,MF,R,22,KOR,2,false,false,false,pace,passing
+Young-suk Kang,MF,R,24,KOR,5,true,false,false,passing,tackling
+Chico Geraldes,MF,R,31,POR,6,true,false,false,playmaking,passing
+Hyeon-je Kang,MF,R,24,KOR,7,false,false,false,dribbling,passing
+Euller,FW,R,31,BRA,3,false,false,false,dribbling,playmaking
+Alan Cariús,FW,L,29,BRA,5,false,false,false,pace,crossing
+Gabriel Santos,FW,R,27,BRA,6,true,false,false,finishing,pace
+Joo-hyuk Lee,FW,R,22,KOR,6,false,false,false,heading,pace
+Joo-wan An,FW,R,17,KOR,7,false,false,false,heading,stamina
+Gyung-jun Byeon,FW,L,24,KOR,4,false,false,false,dribbling,finishing
+In-pyo Oh,FW,R,29,KOR,10,false,false,false,stamina,pace
+Jae-yong Bak,FW,R,26,KOR,4,true,false,false,pace,stamina
+Hyun Kim,FW,R,33,KOR,5,false,false,false,heading,pace
+Woo-bin Kim,FW,R,23,KOR,6,false,false,false,crossing,pace

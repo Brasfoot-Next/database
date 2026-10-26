@@ -1,0 +1,13 @@
+name = "Jamshedpur FC"
+country = "IND"
+level = 4
+reputation = 1
+colors = ["#F0F0F0", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Rei Barla"
+country = "BRA"

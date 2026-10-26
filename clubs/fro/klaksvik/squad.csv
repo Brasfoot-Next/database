@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mathias Rosenörn,GK,L,29,DEN,8,true,false,false,penalty-saving,reflexes
+Meinhardt Joensen,GK,R,42,FRO,1,false,false,false,positioning,rushing-out
+Claes Kronberg,FB,L,35,DEN,10,true,false,false,finishing,passing
+Óli Poulsen,FB,R,21,FRO,1,false,false,false,marking,finishing
+Da Silva,FB,R,27,DEN,3,true,false,false,marking,passing
+Jákup Vilhelmsen,FB,L,18,FRO,7,false,false,false,marking,passing
+Heini Vatnsdal,CB,L,30,FRO,2,true,false,false,heading,stamina
+Deni Pavlovic,CB,R,28,SRB,2,false,false,false,heading,stamina
+Odmar Faerö,CB,R,32,FRO,3,true,false,false,marking,pace
+Jesper Brinck,CB,L,33,DEN,3,false,false,false,tackling,marking
+Jóannes Bjartalid,MF,L,26,FRO,3,true,false,false,finishing,passing
+Jákup Andreasen,MF,R,24,FRO,9,true,false,false,marking,finishing
+René Joensen,MF,L,29,FRO,6,true,false,false,marking,passing
+Dávid Andreasen,MF,R,18,FRO,7,true,false,false,tackling,pace
+Olaf Hansen,MF,L,20,FRO,8,false,false,false,tackling,pace
+Tóki Lógv,MF,L,18,FRO,5,false,false,false,finishing,passing
+Páll Klettskard,FW,L,32,FRO,5,true,false,false,pace,dribbling
+Árni Frederiksberg,FW,L,30,FRO,2,true,false,false,dribbling,finishing
+Mads Mikkelsen,FW,R,22,FRO,9,false,false,false,dribbling,finishing
+Jonn Johannesen,FW,R,20,FRO,3,false,false,false,crossing,pace

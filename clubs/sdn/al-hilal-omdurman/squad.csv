@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Abu-Eshrein,GK,R,33,SDN,2,true,false,false,positioning,rushing-out
+Mohamed Abooja,GK,R,22,SDN,5,false,false,false,positioning,rushing-out
+Ishag Adam,GK,R,23,SDN,7,false,false,false,positioning,rushing-out
+Faris Abdalla,FB,L,28,SDN,9,true,false,false,finishing,passing
+Mwafag Siddig,FB,R,25,SDN,7,true,false,false,marking,finishing
+Eltayeb Abaker,CB,R,31,SDN,7,true,false,false,tackling,heading
+Saeed Ahmed,CB,L,24,SDN,6,true,false,false,marking,pace
+Ahmed Wadah,CB,L,22,SDN,10,false,false,false,tackling,heading
+Salomon Bindjeme II,CB,R,26,CMR,1,false,false,false,tackling,heading
+Eldin Shigail,MF,L,37,SDN,0,true,false,false,passing,finishing
+Abuaagla,MF,L,29,SDN,9,true,false,false,marking,passing
+Nizar Hamid,MF,R,33,SDN,6,true,false,false,marking,finishing
+Abdul Ajagun,MF,L,29,NGA,8,true,false,false,playmaking,passing
+Phiri Junior,MF,L,29,MWI,5,false,false,false,finishing,passing
+Abdelrazig Omer,MF,R,29,SDN,10,false,false,false,playmaking,passing
+Salaheldin Adil,MF,R,27,SDN,2,false,false,false,tackling,marking
+Walieldin Khidir,MF,L,26,SDN,3,false,false,false,tackling,marking
+Mohamed Abdelrahman,FW,L,29,SDN,4,true,false,false,pace,finishing
+Yasir Mozamil,FW,R,30,SDN,8,true,false,false,heading,stamina
+Eid Mugadam,FW,R,22,SDN,8,false,false,false,finishing,pace
+Ibrahim Mustapha,FW,R,25,NGA,2,false,false,false,pace,dribbling

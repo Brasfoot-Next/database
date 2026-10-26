@@ -1,0 +1,13 @@
+name = "Real Salt Lake"
+country = "USA"
+level = 13
+reputation = 3
+colors = ["#001060", "#FFFFFF"]
+
+[stadium]
+name = "America First Field"
+capacity = 20213
+
+[coach]
+name = "Tyler Olatunji"
+country = "BRA"

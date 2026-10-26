@@ -1,0 +1,13 @@
+name = "Renaissance de Berkane"
+country = "MAR"
+level = 13
+reputation = 3
+colors = ["#E04000", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Mehdi Azri"
+country = "BRA"

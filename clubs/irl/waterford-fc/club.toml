@@ -1,0 +1,13 @@
+name = "Waterford FC"
+country = "IRL"
+level = 5
+reputation = 1
+colors = ["#303060", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Grant Noonan"
+country = "BRA"

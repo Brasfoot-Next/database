@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Anthony Ribelin,FB,R,30,FRA,3,false,false,false,pace,stamina
+Jean Vercruysse,MF,R,26,FRA,5,true,false,false,crossing,stamina
+Taylor Luvambo,FW,R,27,FRA,6,true,false,false,pace,dribbling
+Milan Robin,FW,R,26,FRA,7,false,false,false,stamina,pace
+Lucas Calodat,FB,L,24,FRA,3,false,false,false,pace,stamina
+Lucas Buades,FB,R,28,FRA,4,true,false,false,stamina,pace
+Alexandre Lauray,MF,R,29,FRA,5,true,false,false,pace,stamina
+Baptiste Guillaume,FW,R,31,BEL,6,true,false,false,stamina,heading
+Martin Rossignol,MF,R,22,FRA,8,true,false,false,passing,playmaking
+Antoine Rabillard,FW,R,30,FRA,4,false,false,false,heading,finishing
+Leroy Abanda,FB,L,26,FRA,3,true,false,false,pace,stamina
+Malang Gomes,MF,R,21,FRA,5,false,false,false,passing,stamina
+Samuel Yohou,CB,R,35,CIV,6,false,false,false,stamina,marking
+Edwin Quarshie,MF,L,30,FRA,7,true,false,false,marking,tackling
+Dame Gueye,FW,L,31,SEN,4,false,false,false,finishing,dribbling
+Brice Oggad,FW,L,29,FRA,5,false,false,false,dribbling,crossing
+Harold Voyer,CB,L,29,FRA,6,true,false,false,tackling,heading
+Erwan Colas,FW,L,29,FRA,7,false,false,false,dribbling,pace
+Theo Eyoum,CB,R,24,FRA,4,false,false,false,tackling,marking
+Isaac Cossier,CB,R,19,FRA,5,true,false,false,tackling,heading
+William Harhouz,FW,R,26,FRA,6,false,false,false,pace,heading
+Noa Boisse,FB,R,20,FRA,7,false,false,false,crossing,tackling
+Amadou Cisse,CB,R,20,GUI,4,false,false,false,heading,tackling
+Nicolas Kocik,GK,R,28,FRA,5,true,false,false,reflexes,positioning
+Ewan Hatfout,GK,R,26,FRA,6,false,false,false,positioning,reflexes
+Augustin Delbecque,GK,R,24,FRA,7,false,false,false,positioning,rushing-out

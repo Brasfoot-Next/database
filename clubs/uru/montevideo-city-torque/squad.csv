@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gastón Rodríguez,GK,R,32,URU,5,true,false,false,rushing-out,reflexes
+Franco Torgnascioli,GK,R,35,URU,6,false,false,false,positioning,penalty-saving
+Eduardo Agüero,CB,L,22,URU,7,true,false,false,heading,passing
+José Tarán,CB,R,21,URU,2,false,false,false,marking,heading
+Kevin Silva,CB,R,23,ARG,3,true,false,false,tackling,marking
+Fabricio Silveira,CB,R,21,URU,5,false,false,false,marking,passing
+Gary Kagelmacher,CB,R,38,URU,6,false,false,false,marking,tackling
+Facundo Silvera,FB,R,29,URU,7,true,false,false,crossing,passing
+Nahuel Leivas,FB,L,20,URU,4,false,false,false,stamina,pace
+Franco Pizzichillo,FB,L,30,URU,5,false,false,false,tackling,marking
+Ezequiel Busquets,FB,L,25,URU,5,false,false,false,tackling,pace
+Juan Quintana,FB,L,26,URU,6,true,false,false,pace,crossing
+Valentino Würth,FB,L,19,URU,7,false,false,false,pace,tackling
+Pablo Siles,MF,L,29,URU,3,true,false,false,playmaking,dribbling
+Lautaro López,MF,L,21,ARG,5,true,false,false,finishing,playmaking
+Sebastián Cáceres,MF,R,26,URU,6,true,false,false,passing,finishing
+Gonzalo Montes,MF,L,31,URU,7,true,false,false,stamina,tackling
+Lucas Duré,MF,L,20,URU,4,false,false,false,passing,playmaking
+Esteban Obregón,FW,L,24,ARG,5,true,false,false,finishing,pace
+Luka Andrade,FW,R,19,ARG,6,false,false,false,playmaking,finishing
+Facundo Martínez,FW,L,18,URU,5,false,false,false,pace,finishing
+Diogo Guzmán,FW,R,20,ARG,6,false,false,false,finishing,heading
+Ramiro Lecchini,FW,L,18,URU,7,false,false,false,finishing,stamina
+Salomón Rodríguez,FW,L,26,URU,3,true,false,false,heading,finishing
+Nahuel Da Silva,FW,R,21,URU,5,false,false,false,dribbling,pace
+Nicolás Siri,FW,R,22,URU,6,false,false,false,pace,finishing
+Andrés Muñoz,FW,R,19,URU,7,false,false,false,dribbling,finishing

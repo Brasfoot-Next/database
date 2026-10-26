@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gideon Mensah,FB,L,28,GHA,6,true,false,false,stamina,pace
+Lassine Sinayoko,FW,R,26,MLI,7,true,false,false,pace,finishing
+Kevin Danois,MF,L,22,FRA,9,true,false,false,passing,dribbling
+Elisha Owusu,MF,R,28,GHA,5,true,false,false,stamina,tackling
+Josue Casimir,FW,R,24,FRA,6,false,false,false,pace,stamina
+Assane Diousse,MF,L,28,SEN,7,false,false,false,dribbling,passing
+Clement Akpa,CB,L,24,CIV,9,true,false,false,tackling,heading
+Sinaly Diomande,CB,R,25,CIV,5,true,false,false,heading,tackling
+Oussama El Azzouzi,MF,R,25,MAR,6,true,false,false,passing,heading
+Danny Namaso,FW,R,26,CMR,7,false,false,false,pace,dribbling
+Ibrahim Osman,FW,L,21,GHA,5,true,false,false,pace,dribbling
+Fredrik Oppegard,FB,L,24,NOR,6,false,false,false,pace,stamina
+Marvin Senaya,FB,R,25,FRA,7,true,false,false,stamina,tackling
+Nathan Buayi Kiala,MF,R,22,FRA,7,false,false,false,passing,tackling
+Lasso Coulibaly,FW,R,23,CIV,2,false,false,false,pace,dribbling
+Sekou Mara,FW,R,24,FRA,5,false,false,false,pace,heading
+Lamine Sy,FB,R,24,FRA,6,false,false,false,pace,stamina
+Rudy Matondo,MF,R,18,FRA,7,true,false,false,dribbling,passing
+Francisco Sierralta,CB,R,29,CHI,4,false,false,false,marking,tackling
+Tidiane Devernois,MF,R,18,FRA,5,false,false,false,pace,dribbling
+Rayan Mandengue,FW,L,20,CMR,5,false,false,false,pace,dribbling
+Ryan Rodin,FW,R,20,FRA,6,false,false,false,pace,dribbling
+Elikya Legros,CB,R,18,FRA,6,false,false,false,tackling,pace
+Telli Siwe,CB,R,21,FRA,7,false,false,false,tackling,heading
+Donovan Leon,GK,R,33,FRA,8,true,false,false,reflexes,penalty-saving
+Theo De Percin,GK,R,25,FRA,5,false,false,false,penalty-saving,reflexes
+Louis Mezerette,GK,R,20,FRA,6,false,false,false,reflexes,positioning
+Tom Negrel,GK,R,23,FRA,7,false,false,false,reflexes,positioning

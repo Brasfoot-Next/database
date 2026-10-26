@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mathias Bordón,GK,R,22,PAR,4,false,false,false,positioning,rushing-out
+Faustino Piotti,GK,R,22,ARG,6,false,false,false,penalty-saving,reflexes
+Tulio Schwarz,GK,R,27,PAR,6,true,false,false,positioning,rushing-out
+Franco Ortellado,CB,L,25,ARG,9,true,false,false,heading,passing
+Joel Jiménez,CB,R,29,PAR,5,false,false,false,tackling,marking
+Juan Patiño,CB,R,36,PAR,6,true,false,false,tackling,marking
+Kevin Benites,CB,R,22,PAR,7,false,false,false,heading,tackling
+Mathías Suárez,FB,L,21,PAR,1,false,false,false,tackling,stamina
+Iván Morel,FB,L,21,PAR,5,false,false,false,crossing,passing
+Cristhian Núñez,FB,L,22,PAR,6,true,false,false,crossing,passing
+Pablo Aranda,FB,R,25,ARG,6,true,false,false,dribbling,pace
+Alex Sosa,FB,R,20,PAR,7,false,false,false,crossing,pace
+Sebastián Silvero,FB,R,20,PAR,3,false,false,false,stamina,pace
+Edgardo Orzusa,MF,R,36,PAR,5,false,false,false,pace,dribbling
+Ángel Aguayo,MF,R,20,PAR,6,false,false,false,playmaking,finishing
+Brahian Fernández,MF,R,24,PAR,7,true,false,false,dribbling,passing
+Víctor Argüello,MF,R,24,PAR,3,true,false,false,stamina,tackling
+Gustavo Marecos,MF,R,24,PAR,5,true,false,false,stamina,passing
+Fabricio Arce,MF,L,23,PAR,6,true,false,false,stamina,passing
+Jorge Mora,FW,R,19,PAR,7,false,false,false,finishing,dribbling
+Emanuel Kovacs,FW,L,21,ARG,6,false,false,false,finishing,stamina
+Jorge González,FW,R,23,PAR,7,false,false,false,playmaking,finishing
+Marcos Gaona,FW,R,24,PAR,1,false,false,false,pace,finishing
+Pablo Viudez,FW,L,21,URU,5,false,false,false,heading,finishing
+Fernando Leguizamón,FW,R,20,PAR,6,false,false,false,heading,finishing
+Sergio Bareiro,FW,R,27,PAR,7,true,false,false,heading,finishing
+Fernando Ruiz Díaz,FW,R,24,PAR,2,false,false,false,pace,crossing
+Julio Rivarola,FW,R,27,PAR,5,true,false,false,heading,finishing
+Alfredo Martínez,FW,R,20,PAR,6,false,false,false,crossing,pace

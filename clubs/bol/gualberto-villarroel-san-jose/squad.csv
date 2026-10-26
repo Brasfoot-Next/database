@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+David Akologo,GK,R,29,BOL,6,true,false,false,reflexes,rushing-out
+Germán Arauz,GK,R,31,BOL,7,false,false,false,reflexes,penalty-saving
+Roberto Rivas,GK,R,41,BOL,3,false,false,false,rushing-out,positioning
+Luis Caicedo,CB,R,28,ECU,5,true,false,false,tackling,pace
+Andrés Landa,CB,L,30,BOL,6,false,false,false,heading,marking
+Fernando Aguilar,CB,R,29,BOL,7,true,false,false,heading,stamina
+Joaquín Lencinas,CB,R,38,ARG,3,false,false,false,marking,stamina
+Sebastian Villarroel,FB,L,19,BOL,5,false,false,false,pace,stamina
+Jhoni Ramallo,FB,R,23,BOL,6,true,false,false,pace,stamina
+Gonzalo Vaca,FB,L,23,BOL,7,false,false,false,passing,crossing
+Edwin Tumiri,FB,L,20,BOL,4,false,false,false,stamina,pace
+Miguel Paredes,FB,L,28,BOL,5,true,false,false,pace,tackling
+Luis Serrano,MF,R,28,BOL,6,true,false,false,stamina,pace
+Sergio Villamíl,MF,L,31,BOL,10,true,false,false,stamina,passing
+Rodrigo Orihuela,MF,R,22,BOL,4,false,false,false,dribbling,passing
+Mijaíl Avilés,MF,R,30,VEN,5,true,false,false,dribbling,passing
+Pablo Luján,MF,R,23,BOL,7,false,false,false,pace,crossing
+Walter Araujo,MF,R,30,PAR,4,true,false,false,dribbling,pace
+Fabricio Vasquez,FW,L,23,BOL,5,false,false,false,pace,finishing
+Alex Cáceres,FW,R,30,PAR,6,false,false,false,crossing,pace
+David Ribera,FW,R,25,BOL,4,false,false,false,finishing,dribbling
+Roler Ferrufino,FW,R,25,BOL,5,true,false,false,finishing,dribbling
+Sebastián Galindo,FW,R,25,BOL,6,false,false,false,pace,crossing
+Juan Ignacio Goyeneche,FW,R,25,ARG,7,false,false,false,heading,stamina
+Moisés Calero,FW,R,27,BOL,4,true,false,false,stamina,pace
+Thomas Monterubianessi,FW,R,27,ARG,5,false,false,false,finishing,heading
+Jhojan Vargas,FW,R,21,BOL,6,false,false,false,heading,finishing
+Ronaldo Monteiro,FW,R,28,BOL,7,false,false,false,playmaking,finishing

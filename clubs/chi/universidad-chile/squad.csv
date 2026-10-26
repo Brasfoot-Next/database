@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Cristóbal Campos,GK,R,22,CHI,6,true,false,false,positioning,rushing-out
+Martín Parra,GK,R,21,CHI,1,false,false,false,positioning,penalty-saving
+Pedro Garrido,GK,L,18,CHI,2,false,false,false,positioning,penalty-saving
+Yonathan Andia,FB,R,29,CHI,6,true,false,false,finishing,pace
+Marcelo Morales,FB,L,19,CHI,4,true,false,false,finishing,passing
+Daniel Navarrete,FB,R,21,CHI,5,false,false,false,finishing,passing
+José Ignacio Castro,FB,L,20,CHI,10,false,false,false,marking,finishing
+Ignacio Tapia,CB,R,23,CHI,9,true,false,false,heading,stamina
+Bastián Tapia,CB,L,19,CHI,3,true,false,false,marking,pace
+Nery Domínguez,CB,R,32,ARG,3,false,false,false,tackling,stamina
+Luis Casanova,CB,L,30,CHI,4,false,false,false,marking,pace
+Pablo Aránguiz,MF,R,25,CHI,9,false,false,false,passing,finishing
+Agustín Arce,MF,L,17,CHI,1,false,false,false,playmaking,finishing
+Israel Poblete,MF,L,27,CHI,8,true,false,false,tackling,pace
+Felipe Seymour,MF,R,35,CHI,6,true,false,false,tackling,heading
+Gallegos,MF,R,30,CHI,5,true,false,false,tackling,finishing
+Álvaro Brun,MF,L,35,URU,1,true,false,false,tackling,marking
+Ronnie Fernández,FW,R,31,CHI,1,true,false,false,playmaking,finishing
+Cristian Palacios,FW,L,31,URU,5,true,false,false,finishing,pace
+Junior Fernandes,FW,L,34,CHI,7,false,false,false,dribbling,finishing
+Darío Osorio,FW,R,18,CHI,3,false,false,false,playmaking,finishing

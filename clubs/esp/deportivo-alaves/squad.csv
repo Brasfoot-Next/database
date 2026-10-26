@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jonny,FB,R,32,ESP,5,false,false,false,crossing,tackling
+Lucas Boye,FW,R,30,ARG,6,true,false,false,finishing,heading
+Denis Suárez,MF,R,32,ESP,6,false,false,false,passing,playmaking
+Nahuel Tenaglia,CB,L,30,ARG,7,true,false,false,stamina,marking
+Guridi,MF,L,31,ESP,5,false,false,false,dribbling,passing
+Ander Guevara,MF,R,29,ESP,6,true,false,false,tackling,stamina
+Aleñá,FW,L,28,ESP,6,false,false,false,dribbling,passing
+Calebe,MF,L,26,BRA,7,true,false,false,playmaking,dribbling
+Mariano,FW,R,33,ESP,5,false,false,false,heading,dribbling
+Carlos Vicente,FW,R,27,ESP,6,false,false,false,pace,crossing
+Carlos Protesoni,MF,R,28,URU,9,false,false,false,tackling,marking
+Antonio Blanco,MF,L,26,ESP,4,true,false,false,playmaking,passing
+Pablo Ibáñez,MF,R,27,ESP,6,true,false,false,passing,stamina
+Toni Martínez,FW,R,29,ESP,6,true,false,false,finishing,stamina
+Víctor Parada,FB,L,24,ESP,7,true,false,false,pace,stamina
+Abderrahman Rebbach,FW,L,28,ALG,4,false,false,false,pace,finishing
+Lander Pinillos,MF,R,22,ESP,6,false,false,false,pace,stamina
+Yusi,FB,L,20,MAR,6,false,false,false,pace,dribbling
+Moussa Diarra,FB,L,25,MLI,7,true,false,false,tackling,stamina
+Facundo Garces,CB,R,27,ESP,5,false,false,false,tackling,marking
+Nikola Maras,CB,R,30,SRB,7,false,false,false,stamina,tackling
+Pacheco,CB,L,25,ESP,5,true,false,false,tackling,heading
+Sivera,GK,R,30,ESP,5,true,false,false,reflexes,penalty-saving
+Raúl Fernández,GK,R,38,ESP,6,false,false,false,positioning,rushing-out
+Gregoire Swiderski,GK,R,20,CAN,7,false,false,false,reflexes,penalty-saving

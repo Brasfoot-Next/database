@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Omar Radwan,GK,L,28,EGY,5,true,false,false,reflexes,penalty-saving
+Emad El-Sayed,GK,R,22,EGY,6,false,false,false,reflexes,positioning
+Mohamed Magdy,GK,R,31,EGY,7,false,false,false,rushing-out,reflexes
+Ahmed Abbas,GK,L,23,EGY,3,false,false,false,penalty-saving,reflexes
+Mohamed Camacho,CB,R,33,EGY,5,false,false,false,marking,tackling
+Ahmed Alaa,CB,R,32,EGY,6,false,false,false,marking,passing
+Mahmoud Shabana,CB,R,31,EGY,7,true,false,false,tackling,heading
+Moamen Mahmoud,CB,R,23,EGY,4,false,false,false,marking,heading
+Amro Tarek,CB,R,34,EGY,5,false,false,false,tackling,stamina
+Khaled Sotohi,CB,R,37,EGY,6,false,false,false,heading,passing
+Saidou,CB,R,27,EGY,5,true,false,false,heading,tackling
+Hamed El Gabry,FB,R,27,EGY,6,true,false,false,marking,crossing
+Khaled Aboziada,FB,L,27,EGY,10,true,false,false,stamina,pace
+Khaled Awad,FB,L,23,EGY,4,false,false,false,pace,tackling
+Ahmed Zola,FB,R,33,EGY,5,false,false,false,crossing,passing
+Hassan Magdy,FB,L,36,EGY,7,false,false,false,pace,tackling
+Mohamed Ashraf Roqa,MF,R,33,EGY,4,false,false,false,dribbling,pace
+Yehia Mostafa,MF,L,23,EGY,5,true,false,false,dribbling,playmaking
+Youssef Ahmed Hassan,MF,R,21,EGY,6,false,false,false,stamina,passing
+Houssem Eddine Souissi,MF,R,28,TUN,8,true,false,false,tackling,passing
+Islam Mohareb,MF,R,34,EGY,5,false,false,false,dribbling,pace
+Mostafa El Khawaga,MF,L,32,EGY,6,false,false,false,stamina,passing
+Mahmoud Abdelaziz,MF,L,24,EGY,7,true,false,false,pace,dribbling
+Mohamed Yasser,MF,R,18,EGY,4,true,false,false,finishing,playmaking
+Karim Ragab,MF,R,21,EGY,5,false,false,false,passing,finishing
+Kareem Tarek,FW,R,34,EGY,6,false,false,false,finishing,stamina
+Riga,FW,R,32,EGY,3,false,false,false,heading,pace
+Ahmed Tarek,FW,R,24,EGY,5,false,false,false,playmaking,finishing
+Mohamed Hany,FW,L,24,EGY,6,true,false,false,heading,pace
+Ismaïl Ouro-Agoro,FW,R,30,EGY,7,false,false,false,finishing,heading
+Fares Hatem,FW,R,23,EGY,5,false,false,false,dribbling,pace
+Ahmed Khaled,FW,R,25,EGY,6,true,false,false,finishing,dribbling
+Mohanad Mohamed,FW,R,21,EGY,7,false,false,false,heading,pace

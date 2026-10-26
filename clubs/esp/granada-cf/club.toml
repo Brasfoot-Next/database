@@ -1,0 +1,13 @@
+name = "Granada CF"
+country = "ESP"
+level = 12
+reputation = 2
+colors = ["#F0F0F0", "#C01030"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Oscar Moubeke"
+country = "BRA"

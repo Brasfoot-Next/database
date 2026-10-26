@@ -1,0 +1,13 @@
+name = "Oxford United"
+country = "ENG"
+level = 12
+reputation = 2
+colors = ["#F0F000", "#102050"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Jacob Lankshear"
+country = "BRA"

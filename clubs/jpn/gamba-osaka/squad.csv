@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rui Araki,GK,R,18,JPN,5,true,false,false,reflexes,rushing-out
+Jun Ichimori,GK,R,35,JPN,6,false,false,false,positioning,rushing-out
+Masaaki Higashiguchi,GK,R,33,JPN,7,false,false,false,reflexes,rushing-out
+Aolin Zhang,GK,R,21,JPN,3,false,false,false,positioning,reflexes
+Shinnosuke Nakatani,CB,R,30,JPN,5,true,false,false,passing,marking
+Shota Fukuoka,CB,R,30,JPN,6,true,false,false,passing,marking
+Genta Miura,CB,R,31,JPN,7,false,false,false,tackling,heading
+Shogo Sasaki,CB,R,25,JPN,7,false,false,false,stamina,heading
+Yuya Yokoi,CB,R,18,JPN,4,false,false,false,marking,tackling
+Ryo Hatsuse,FB,L,29,JPN,5,true,false,false,passing,crossing
+Shinya Nakano,FB,R,22,JPN,4,false,false,false,passing,crossing
+Riku Handa,FB,R,24,JPN,5,true,false,false,pace,crossing
+Takeru Kishimoto,FB,L,29,JPN,6,false,false,false,passing,pace
+Ginjiro Ikegaya,FB,L,22,JPN,8,false,false,false,tackling,stamina
+Tokuma Suzuki,MF,R,29,JPN,4,true,false,false,dribbling,playmaking
+Rin Mito,MF,L,24,JPN,5,true,false,false,playmaking,dribbling
+Yuki Yoshihara,MF,R,21,JPN,6,false,false,false,tackling,passing
+Shuto Abe,MF,R,28,JPN,10,true,false,false,tackling,marking
+Shu Kurata,MF,L,37,JPN,4,true,false,false,pace,crossing
+Welton,FW,R,28,BRA,5,true,false,false,finishing,heading
+Kanji Okunuki,FW,L,26,JPN,3,false,false,false,heading,finishing
+Ryotaro Meshino,FW,R,28,JPN,5,false,false,false,dribbling,playmaking
+Taiki Tono,FW,L,19,JPN,6,false,false,false,finishing,heading
+Ryoya Yamashita,FW,L,28,JPN,7,false,false,false,pace,dribbling
+Eli Adams,FW,L,24,AUS,4,false,false,false,stamina,pace
+Takashi Usami,FW,R,34,JPN,5,false,false,false,finishing,dribbling
+Gaku Nawata,FW,R,19,JPN,6,false,false,false,finishing,dribbling
+Deniz Hümmet,FW,R,29,TUR,7,true,false,false,heading,finishing
+Asahi Uenaka,FW,R,24,JPN,4,false,false,false,heading,finishing
+Daichi Hayashi,FW,R,29,JPN,5,false,false,false,heading,pace
+Issam Jebali,FW,R,34,TUN,2,false,false,false,dribbling,playmaking
+Naru Nakatsumi,FW,R,18,JPN,5,false,false,false,playmaking,finishing

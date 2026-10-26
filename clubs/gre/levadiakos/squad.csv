@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lucas Anacker,GK,R,29,BRA,8,true,false,false,rushing-out,reflexes
+Stelios Vallindras,GK,L,21,GRE,4,false,false,false,rushing-out,positioning
+Panagiotis Liagas,CB,L,26,GRE,5,true,false,false,marking,passing
+Taxiarchis Filon,CB,R,21,GRE,6,true,false,false,tackling,stamina
+Giannis Tsivelekidis,CB,L,27,GRE,9,false,false,false,tackling,marking
+Georgios Kornezos,CB,R,28,GRE,4,false,false,false,marking,passing
+Giannis Poulos,CB,R,20,GRE,5,false,false,false,heading,marking
+Marios Vichos,FB,R,26,GRE,6,true,false,false,marking,crossing
+Alexandru Pantea,FB,R,22,ROU,1,true,false,false,pace,stamina
+Georgios Manthatis,FB,L,29,GRE,5,false,false,false,pace,tackling
+Giannis Kosti,MF,R,26,CYP,5,true,false,false,playmaking,finishing
+Georgios Nikas,MF,R,26,GRE,6,true,false,false,stamina,pace
+Lamarana Jallow,MF,R,24,GRE,7,false,false,false,passing,playmaking
+Christos Papadopoulos,MF,L,21,GRE,4,true,false,false,playmaking,passing
+Konstantinos Goumas,MF,R,21,GRE,5,true,false,false,dribbling,playmaking
+Georgios Vrakas,MF,R,25,GRE,6,false,false,false,pace,dribbling
+Dimitris Emmanouilidis,FW,R,25,GRE,7,true,false,false,finishing,heading
+Panagiotis Symelidis,FW,L,33,GRE,1,false,false,false,pace,crossing
+Ognjen Ozegovic,FW,R,32,SRB,5,true,false,false,dribbling,playmaking
+Vasilios Tzebelikos,FW,R,19,GRE,6,false,false,false,heading,stamina

@@ -1,0 +1,13 @@
+name = "Renova Dzepciste"
+country = "MKD"
+level = 13
+reputation = 2
+colors = ["#000099", "#ffffff"]
+
+[stadium]
+name = "Gradski Tetovo"
+capacity = 15000
+
+[coach]
+name = "Qatip Osmani"
+country = "MKD"

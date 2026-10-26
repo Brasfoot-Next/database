@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Cryzan,FW,R,30,BRA,5,false,false,false,pace,heading
+Vako,FW,L,33,GEO,6,false,false,false,stamina,pace
+Guilherme Madruga,MF,R,25,BRA,7,true,false,false,stamina,pace
+Li Yuanyi,MF,L,33,CHN,4,true,false,false,stamina,pace
+Gao Zhunyi,FB,R,31,CHN,5,true,false,false,pace,stamina
+Zeca,FW,L,29,BRA,6,true,false,false,pace,stamina
+Liu Yang,FB,L,31,CHN,7,true,false,false,pace,stamina
+Wu Xinghan,FB,R,33,CHN,4,false,false,false,pace,stamina
+Zheng Zheng,CB,L,37,CHN,5,false,false,false,playmaking,tackling
+Huang Zhengyu,MF,R,29,CHN,6,true,false,false,stamina,pace
+Xie Wenneng,FW,R,25,CHN,7,false,false,false,pace,stamina
+Liu Binbin,FW,R,33,CHN,2,false,false,false,pace,playmaking
+Lluís López,CB,R,29,ESP,5,true,false,false,stamina,tackling
+Wang Tong,FB,R,33,CHN,6,false,false,false,pace,playmaking
+Chen Pu,FW,L,29,CHN,7,false,false,false,pace,stamina
+Shi Ke,CB,L,33,CHN,2,false,false,false,stamina,pace
+Zhao Jianfei,CB,R,27,CHN,6,true,false,false,pace,heading
+Shemshidin Yusupjan,FW,R,21,CHN,7,false,false,false,pace,stamina
+Chen Zeshi,MF,R,21,CHN,1,true,false,false,pace,stamina
+Wang Dalei,GK,R,37,CHN,5,false,false,false,rushing-out,reflexes
+Raphael Merkies,FW,L,24,CHN,6,true,false,false,pace,dribbling
+Imran Memet,MF,R,21,CHN,8,false,false,false,passing,pace
+Wang Haobin,FW,L,20,CHN,4,false,false,false,pace,dribbling
+Mei Shuaijun,FW,R,20,CHN,6,false,false,false,pace,stamina
+Peng Yixiang,FW,R,21,CHN,7,false,false,false,stamina,heading
+Qi Qiancheng,CB,R,20,CHN,10,false,false,false,pace,stamina
+Shi Songchen,CB,R,20,CHN,5,false,false,false,tackling,marking
+Peng Xiao,CB,R,21,CHN,5,false,false,false,tackling,marking
+Yu Jinyong,GK,R,22,CHN,6,false,false,false,reflexes,penalty-saving
+Sun Qihang,GK,R,25,CHN,7,true,false,false,rushing-out,reflexes
+Liu Qiwei,GK,R,20,CHN,5,false,false,false,reflexes,penalty-saving

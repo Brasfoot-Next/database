@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Dimitri Petratos,MF,R,33,AUS,5,false,false,false,stamina,passing
+Jamie Maclaren,FW,L,33,AUS,6,false,false,false,stamina,pace
+Greg Stewart,MF,L,36,SCO,7,false,false,false,passing,crossing
+Jason Cummings,FW,L,31,AUS,1,false,false,false,finishing,stamina
+Anirudh Thapa,MF,R,28,IND,5,true,false,false,stamina,tackling
+Lalengmawia Ralte,MF,R,25,IND,6,true,false,false,stamina,passing
+Manvir Singh,FW,R,30,IND,7,false,false,false,pace,stamina
+Subhasish Bose,CB,L,31,IND,2,true,false,false,stamina,marking
+Asish Rai,FB,R,27,IND,5,true,false,false,stamina,pace
+Robinho,MF,R,31,BRA,6,true,false,false,pace,dribbling
+Liston Colaco,FW,L,27,IND,7,true,false,false,pace,stamina
+Alberto,CB,R,33,ESP,2,false,false,false,heading,marking
+Sahal Abdul Samad,MF,R,29,IND,5,false,false,false,crossing,playmaking
+Ashique Kuruniyan,FW,L,29,IND,6,true,false,false,pace,stamina
+Tom Aldred,CB,R,35,SCO,7,false,false,false,stamina,heading
+Deepak Tangri,MF,R,27,IND,3,true,false,false,stamina,passing
+Glan Martins,MF,R,32,IND,6,false,false,false,stamina,marking
+Mehtab Singh,CB,R,28,IND,7,true,false,false,tackling,passing
+Abhishek Suryavanshi,MF,R,25,IND,2,false,false,false,passing,playmaking
+Kiyan Nassiri,FW,R,25,IND,5,false,false,false,pace,finishing
+Abhishek Singh,FB,L,21,IND,7,true,false,false,tackling,stamina
+Dippendu Biswas,CB,R,23,IND,10,false,false,false,heading,passing
+Suhail Bhat,FW,R,21,IND,5,false,false,false,finishing,playmaking
+Saurabh Bhanwala,CB,R,26,IND,6,false,false,false,tackling,pace
+Vishal Kaith,GK,R,30,IND,7,true,false,false,reflexes,positioning
+Dheeraj Singh Moirangthem,GK,R,26,IND,1,false,false,false,positioning,reflexes

@@ -1,0 +1,13 @@
+name = "FK RFS"
+country = "LVA"
+level = 13
+reputation = 2
+colors = ["#0000ff", "#ffffff"]
+
+[stadium]
+name = "NSB Arkadija"
+capacity = 1000
+
+[coach]
+name = "Viktors Morozs"
+country = "LVA"

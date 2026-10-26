@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Andrea Colpani,FW,L,27,ITA,7,true,false,false,passing,dribbling
+Matteo Pessina,MF,L,29,ITA,4,true,false,false,playmaking,passing
+Patrick Ciurria,MF,L,31,ITA,5,true,false,false,pace,dribbling
+Paulo Azzi,FW,L,32,BRA,6,false,false,false,pace,stamina
+Samuele Birindelli,FW,R,27,ITA,8,true,false,false,pace,stamina
+Gianluca Caprari,MF,R,33,ITA,4,true,false,false,dribbling,crossing
+Dany Mota,FW,R,28,POR,6,true,false,false,dribbling,pace
+Agustin Alvarez,FW,R,25,URU,7,true,false,false,stamina,heading
+Pedro Obiang,MF,R,34,ITA,10,false,false,false,passing,playmaking
+Keita Balde,FW,R,31,SEN,4,false,false,false,pace,dribbling
+Kevin Zeroli,MF,R,21,ITA,7,true,false,false,dribbling,passing
+Nicolas Galazzi,MF,L,25,ITA,2,false,false,false,pace,dribbling
+Andrea Petagna,FW,L,31,ITA,5,false,false,false,playmaking,heading
+Arvid Brorsson,CB,R,27,SWE,5,false,false,false,stamina,marking
+Armando Izzo,CB,R,34,ITA,6,true,false,false,tackling,marking
+Valentin Antov,CB,R,25,BUL,7,false,false,false,stamina,tackling
+Andrea Carboni,CB,L,25,ITA,3,true,false,false,tackling,marking
+Mirko Maric,FW,L,31,CRO,5,false,false,false,finishing,dribbling
+Leonardo Colombo,MF,R,21,ITA,6,false,false,false,pace,passing
+Omari Forson,FW,L,22,ENG,7,false,false,false,pace,dribbling
+Luca Ravanelli,CB,R,29,ITA,5,false,false,false,tackling,marking
+Kevin Martins,FW,R,21,ITA,6,false,false,false,pace,dribbling
+Jacopo Sardo,MF,R,21,ITA,7,false,false,false,passing,dribbling
+Filippo Delli Carri,CB,L,27,ITA,3,false,false,false,marking,tackling
+Lorenzo Lucchesi,CB,L,23,ITA,6,false,false,false,stamina,heading
+Semuel Pizzignacco,GK,R,25,ITA,7,true,false,false,reflexes,penalty-saving
+Demba Thiam,GK,R,28,SEN,1,false,false,false,reflexes,penalty-saving
+Andrea Mazza,GK,R,22,ITA,5,false,false,false,rushing-out,reflexes

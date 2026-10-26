@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Marcos Alonso,CB,L,35,ESP,6,false,false,false,crossing,passing
+Mingueza,FW,R,27,ESP,7,true,false,false,stamina,pace
+Iago Aspas,FW,L,39,ESP,8,false,false,false,dribbling,finishing
+Fran Beltrán,MF,R,27,ESP,5,true,false,false,passing,playmaking
+Ilaix Moriba,MF,L,23,GUI,6,true,false,false,stamina,passing
+Borja Iglesias,FW,R,33,ESP,7,false,false,false,heading,finishing
+Williot Swedberg,FW,L,22,SWE,8,true,false,false,stamina,dribbling
+Damián Rodríguez,MF,L,23,ESP,5,false,false,false,passing,playmaking
+Hugo Álvarez,FW,L,23,ESP,6,false,false,false,dribbling,passing
+Franco Cervi,FW,L,32,ARG,7,false,false,false,pace,dribbling
+Hugo Sotelo,MF,R,22,ESP,6,true,false,false,passing,playmaking
+Ferran Jutglà,FW,R,27,ESP,6,false,false,false,dribbling,finishing
+Mihailo Ristic,FB,L,30,SRB,7,true,false,false,stamina,crossing
+Carreira,FW,R,25,ESP,2,false,false,false,dribbling,passing
+Javi Rodríguez,CB,R,23,ESP,6,true,false,false,stamina,tackling
+Bryan Zaragoza,FW,L,24,ESP,6,false,false,false,dribbling,crossing
+Pablo Durán,FW,R,25,ESP,8,false,false,false,finishing,dribbling
+Carl Starfelt,CB,R,31,SWE,2,true,false,false,tackling,pace
+Javi Rueda,FB,R,24,ESP,6,true,false,false,pace,stamina
+Miguel Román,MF,R,23,ESP,6,true,false,false,passing,playmaking
+Jaime Vázquez,CB,L,20,ESP,6,false,false,false,tackling,passing
+Manu Fernández,CB,R,25,ESP,7,false,false,false,tackling,heading
+Carlos Domínguez,CB,L,25,ESP,7,false,false,false,tackling,heading
+Joseph Aidoo,CB,R,30,GHA,9,false,false,false,heading,tackling
+Yoel Lago,CB,R,22,ESP,5,false,false,false,tackling,heading
+Jones El Abdellaoui,FW,R,20,MAR,6,false,false,false,pace,dribbling
+Ionut Andrei Radu,GK,R,29,ROU,7,false,false,false,reflexes,penalty-saving
+Iván Villar,GK,R,29,ESP,10,true,false,false,reflexes,positioning

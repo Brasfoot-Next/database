@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Josh Sheehan,MF,R,31,WAL,6,true,false,false,stamina,pace
+Aaron Morley,MF,R,26,ENG,7,true,false,false,stamina,playmaking
+Ethan Erhahon,MF,L,25,SCO,4,true,false,false,stamina,pace
+Xavier Simons,MF,L,23,ENG,5,false,false,false,stamina,pace
+Kyle Dempsey,MF,R,30,ENG,6,false,false,false,stamina,pace
+Cyrus Christie,FB,R,33,IRL,8,false,false,false,pace,stamina
+Jordi Osei Tutu,FW,R,27,ENG,4,false,false,false,pace,dribbling
+Josh Dacres Cogley,FB,R,30,ENG,5,true,false,false,stamina,pace
+Marcus Forss,FW,R,27,FIN,6,false,false,false,finishing,pace
+John Mcatee,FW,R,27,ENG,7,false,false,false,pace,playmaking
+Ibrahim Cissoko,FW,L,23,NED,1,false,false,false,pace,dribbling
+Joel Randall,MF,R,26,ENG,5,true,false,false,pace,stamina
+Victor Adeboyejo,FW,R,28,NGA,6,false,false,false,pace,stamina
+Amario Cozier Duberry,FW,L,21,ENG,7,true,false,false,pace,dribbling
+George Johnston,CB,L,28,SCO,2,false,false,false,stamina,tackling
+Mason Burstow,FW,R,23,ENG,5,false,false,false,pace,dribbling
+Max Conway,FB,L,23,ENG,6,true,false,false,stamina,pace
+Sam Dalby,FW,L,26,ENG,7,true,false,false,heading,pace
+Thierry Gale,FW,L,24,BRB,2,false,false,false,pace,dribbling
+Charlie Warren,FW,L,22,ENG,5,false,false,false,pace,dribbling
+Richard Taylor,CB,L,25,ENG,8,true,false,false,pace,tackling
+Sonny Sharples Ahmed,MF,R,21,EGY,4,false,false,false,pace,passing
+Will Forrester,CB,R,25,ENG,5,false,false,false,stamina,heading
+Eoin Toal,CB,R,27,NIR,6,true,false,false,heading,marking
+Chris Forino,CB,R,26,LCA,9,false,false,false,pace,heading
+David Abimbola,FW,R,19,ENG,4,false,false,false,pace,finishing
+Daeshon Lawrence,FW,R,19,ENG,5,false,false,false,pace,finishing
+Sam Inwood,CB,R,20,ENG,7,false,false,false,pace,tackling
+Teddy Sharman Lowe,GK,R,23,ENG,1,true,false,false,reflexes,penalty-saving
+Tyler Miller,GK,R,33,USA,4,false,false,false,positioning,reflexes
+Nathan Broome,GK,R,24,ENG,7,false,false,false,rushing-out,reflexes

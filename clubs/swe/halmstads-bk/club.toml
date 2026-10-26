@@ -1,0 +1,13 @@
+name = "Halmstads BK"
+country = "SWE"
+level = 8
+reputation = 2
+colors = ["#205070", "#FFFFFF"]
+
+[stadium]
+name = "Örjans Vall"
+capacity = 10873
+
+[coach]
+name = "Naeem Ahlstrand"
+country = "BRA"

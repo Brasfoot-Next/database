@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Chatchai Budprom,GK,L,35,THA,2,true,false,false,rushing-out,penalty-saving
+Niamthaisong,GK,L,21,THA,5,false,false,false,rushing-out,penalty-saving
+Saharat Pongsuwan,FB,L,26,THA,5,true,false,false,marking,passing
+Channgom,FB,R,25,THA,10,true,false,false,crossing,marking
+Andres Tunez,CB,L,35,VEN,1,true,false,false,tackling,marking
+Irfan Fandi,CB,R,24,SGP,7,true,false,false,marking,pace
+Surachat Sareepim,MF,R,36,THA,7,true,false,false,playmaking,pace
+Supasak Sarapee,MF,L,22,THA,3,true,false,false,passing,finishing
+Sarach Yooyen,MF,R,30,THA,7,true,false,false,tackling,pace
+Diogo,FW,L,35,BRA,3,true,false,false,finishing,pace
+Teerasil Dangda,FW,R,34,THA,4,true,false,false,dribbling,finishing
+Phuthawchueak,GK,L,32,THA,8,false,false,false,positioning,penalty-saving
+Nakin Wisetchat,FB,R,23,THA,3,false,false,false,marking,passing
+Ernesto Phumipha,FB,L,32,THA,8,false,false,false,crossing,pace
+Chirachin,CB,L,21,THA,10,false,false,false,heading,stamina
+Jakkaphan Praisuwan,CB,R,27,THA,6,false,false,false,heading,stamina
+Kanitsribumphen,MF,R,24,THA,8,true,false,false,marking,passing
+Jaroensak Wonggorn,MF,R,25,THA,5,false,false,false,finishing,passing
+Xaysensourinthone,FW,L,27,THA,5,false,false,false,finishing,dribbling
+Tawan Khotrsupho,FW,R,22,THA,9,false,false,false,playmaking,finishing
+Thongkiri,MF,L,25,THA,2,false,false,false,tackling,heading
+Sukjitthammakul,MF,R,27,THA,4,false,false,false,tackling,finishing
+Kanokpon Buspakom,MF,R,22,THA,10,false,false,false,marking,finishing

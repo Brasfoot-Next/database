@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Faitout Maouassa,FB,L,28,FRA,4,true,false,false,crossing,tackling
+Ć. Suljić,MF,R,29,BIH,5,true,false,false,passing,dribbling
+Walid Bouabdeli,MF,R,26,FRA,6,true,false,false,stamina,pace
+Brandon Bokangu,FW,R,26,CGO,6,true,false,false,pace,dribbling
+Bakari Camara,MF,R,32,FRA,10,false,false,false,stamina,pace
+Adrian Dabasse,FW,L,33,FRA,5,false,false,false,stamina,heading
+Rayan Bamba,FB,R,22,FRA,6,false,false,false,pace,stamina
+Maxence Carlier,MF,R,29,FRA,7,true,false,false,stamina,pace
+Teddy Bouriaud,MF,L,29,FRA,1,true,false,false,passing,tackling
+Chafik El Hansar,MF,R,21,FRA,5,false,false,false,pace,stamina
+Martin Experience,FB,L,27,HAI,7,true,false,false,stamina,pace
+Jimmy Evans,FW,L,27,NGA,2,true,false,false,pace,dribbling
+Nehemiah Fernandez,CB,L,21,FRA,5,false,false,false,pace,marking
+Nicolas Saint Ruf,CB,R,33,FRA,6,false,false,false,stamina,pace
+Adrien Julloux,FB,R,29,FRA,7,false,false,false,stamina,tackling
+Zakaria Fdaouch,FW,L,29,FRA,2,false,false,false,stamina,pace
+Cheikh Toure,FW,L,29,SEN,5,false,false,false,pace,heading
+Oumar Sidibe,FW,R,25,FRA,6,false,false,false,pace,passing
+Patrick Ouotro,FW,R,20,CIV,7,false,false,false,pace,stamina
+Yannis Nahounou,CB,R,22,FRA,3,true,false,false,pace,tackling
+Elydjah Mendy,CB,L,26,FRA,6,true,false,false,tackling,passing
+Zakaria Ztouti,FW,R,19,FRA,8,false,false,false,pace,heading
+Martin Sourzac,GK,R,34,FRA,4,false,false,false,reflexes,rushing-out
+Enzo Basilio,GK,R,31,FRA,5,true,false,false,reflexes,positioning

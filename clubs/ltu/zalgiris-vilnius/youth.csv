@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Dovydas Komza,GK,R,17,LTU,5,true,false,false,penalty-saving,rushing-out
+Povilas Survila,GK,L,18,LTU,7,true,false,false,positioning,reflexes
+Gytis Makauskis,FB,R,17,LTU,5,true,false,false,crossing,tackling
+Martynas Jokubauskas,FB,L,16,LTU,2,true,false,false,pace,crossing
+Arturas Tkacius,FB,R,20,LTU,7,true,false,false,crossing,passing
+Jokubas Budrys,CB,L,20,LTU,9,true,false,false,stamina,marking
+Nojus Burdaitis,CB,R,16,LTU,10,true,false,false,heading,tackling
+Nojus Stankevicius,CB,L,17,LTU,6,true,false,false,marking,heading
+Erik Germanovic,MF,R,18,LTU,3,true,false,false,dribbling,passing
+Gustas Jarusevicius,MF,L,16,LTU,9,true,false,false,playmaking,dribbling
+Ervinas Vilkaitis,MF,R,16,LTU,2,true,false,false,marking,finishing
+Danielius Zybartas,MF,L,16,LTU,2,true,false,false,tackling,pace
+Osvaldas Cipkus,FW,R,19,LTU,5,true,false,false,pace,dribbling
+Arnas Spycius,FW,L,16,LTU,10,true,false,false,finishing,heading
+Meinardas Mikulenas,FW,R,16,LTU,3,true,false,false,finishing,passing

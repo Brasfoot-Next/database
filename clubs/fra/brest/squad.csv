@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kenny Lala,FB,R,34,FRA,7,false,false,false,stamina,pace
+Romain Del Castillo,FW,L,30,FRA,8,true,false,false,pace,dribbling
+Mama Baldé,FW,L,30,GNB,5,false,false,false,pace,stamina
+Junior Dina Ebimbe,FW,R,25,FRA,6,true,false,false,pace,passing
+Joris Chotard,MF,R,24,FRA,7,true,false,false,stamina,passing
+Kamory Doumbia,MF,R,23,MLI,8,true,false,false,dribbling,playmaking
+Lucas Tousart,MF,R,29,FRA,5,true,false,false,stamina,tackling
+Ludovic Ajorque,FW,L,32,FRA,6,false,false,false,heading,finishing
+Bradley Locko,FB,L,24,FRA,7,true,false,false,pace,tackling
+Hugo Magnetti,MF,L,28,FRA,9,true,false,false,passing,tackling
+Brendan Chardonnet,CB,R,31,FRA,6,true,false,false,tackling,heading
+Julien Le Cardinal,CB,L,29,FRA,7,false,false,false,tackling,stamina
+Remy Labeau Lascary,FW,R,23,FRA,4,false,false,false,pace,dribbling
+Daouda Guindo,FB,L,23,MLI,6,true,false,false,pace,stamina
+Pathe Mboup,FW,L,22,SEN,6,false,false,false,pace,stamina
+Justin Bourgault,FB,L,20,FRA,5,false,false,false,tackling,stamina
+Hamidou Makalou,MF,R,20,MLI,6,false,false,false,passing,tackling
+Junior Diaz,CB,R,23,CIV,7,true,false,false,pace,tackling
+Luck Zogbe,FB,R,21,CIV,1,false,false,false,tackling,stamina
+Serigne Saliou Diop,FW,R,21,SEN,5,false,false,false,dribbling,pace
+Raphael Le Guen,CB,R,20,FRA,7,false,false,false,tackling,pace
+Radoslaw Majecki,GK,R,26,POL,9,false,false,false,reflexes,penalty-saving
+Gregoire Coudert,GK,L,27,FRA,5,true,false,false,reflexes,penalty-saving
+Noah Jauny,GK,R,22,IRL,6,false,false,false,penalty-saving,reflexes

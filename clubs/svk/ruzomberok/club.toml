@@ -1,0 +1,13 @@
+name = "Ruzomberok"
+country = "SVK"
+level = 14
+reputation = 2
+colors = ["#990000", "#ffffff"]
+
+[stadium]
+name = "Cebraom"
+capacity = 5003
+
+[coach]
+name = "Peter Struhar"
+country = "SVK"

@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mario Dajsinani,GK,R,23,ALB,5,true,false,false,reflexes,positioning
+Ortelio Biba,GK,L,17,ALB,1,false,false,false,rushing-out,penalty-saving
+Marko Roganovic,FB,R,26,MNE,4,true,false,false,crossing,pace
+Luka Cucin,FB,L,23,SRB,1,true,false,false,finishing,pace
+Nikolin Duka,FB,R,22,ALB,1,false,false,false,crossing,pace
+Renato Malota,CB,R,33,ALB,10,true,false,false,tackling,heading
+Viktor Velkoski,CB,L,26,MKD,3,true,false,false,tackling,stamina
+Rudolf Turkaj,CB,L,27,ALB,6,false,false,false,marking,pace
+Arbër Deliu,CB,R,22,ALB,2,false,false,false,heading,stamina
+Renato Ziko,MF,L,24,ALB,6,true,false,false,playmaking,passing
+Serxho Ujka,MF,L,23,ALB,4,true,false,false,playmaking,dribbling
+Sebastjan Spahiu,MF,L,22,ALB,10,true,false,false,passing,finishing
+Klinti Qato,MF,R,24,ALB,3,true,false,false,tackling,marking
+Mario Barjamaj,MF,R,24,ALB,10,false,false,false,playmaking,pace
+Ariel Borysiuk,MF,R,30,POL,8,false,false,false,marking,pace
+Henri Sulovari,MF,L,19,ALB,9,false,false,false,tackling,heading
+Jon Vula,MF,L,20,SUI,7,false,false,false,tackling,marking
+Mentor Mazrekaj,FW,L,33,ALB,8,true,false,false,finishing,pace
+Saliou Guindo,FW,R,25,MLI,9,true,false,false,pace,finishing
+Dejan Zarubica,FW,L,29,MNE,4,false,false,false,finishing,pace
+Adeleke Akinyemi,FW,R,23,NGA,7,false,false,false,pace,finishing

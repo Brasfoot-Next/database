@@ -1,0 +1,13 @@
+name = "AS Vénus"
+country = "TAH"
+level = 13
+reputation = 2
+colors = ["#ffffff", "#0000cc"]
+
+[stadium]
+name = "Municipal"
+capacity = 1000
+
+[coach]
+name = "Samuel Garcia"
+country = "TAH"

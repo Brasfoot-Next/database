@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gastón Gómez,GK,R,30,ARG,4,true,false,false,reflexes,positioning
+Manuel Ferrel,GK,R,24,BOL,5,false,false,false,positioning,penalty-saving
+Jorge Araúz,GK,R,32,BOL,6,false,false,false,positioning,penalty-saving
+Andrés Moreno,CB,L,23,BOL,7,true,false,false,passing,marking
+Joaquín Barro,CB,R,25,ARG,2,true,false,false,stamina,heading
+Rafael Corrales,CB,R,21,BOL,5,false,false,false,marking,stamina
+Milciades Portillo,CB,R,34,PAR,6,false,false,false,heading,passing
+Jorge Flores,FB,R,32,BOL,7,true,false,false,tackling,pace
+Sergio Gil,FB,R,29,BOL,2,true,false,false,stamina,pace
+Asiel Paredes,MF,R,22,BOL,5,false,false,false,pace,dribbling
+Nicolas Masskooni,MF,L,22,ARG,4,false,false,false,marking,passing
+Héctor Sánchez,MF,R,29,BOL,5,true,false,false,finishing,passing
+Thiago Chávez,MF,L,18,BOL,6,false,false,false,stamina,passing
+Juan Parada,MF,R,29,BOL,8,true,false,false,pace,dribbling
+Luciano Ursino,MF,R,37,BOL,4,false,false,false,passing,stamina
+Thiago Ribeiro,MF,R,21,BRA,5,false,false,false,tackling,marking
+Milton Maciel,MF,R,26,PAR,6,true,false,false,finishing,playmaking
+Yuto Baigorria,MF,R,19,BOL,9,true,false,false,stamina,passing
+Rafinha,MF,R,34,BOL,4,false,false,false,dribbling,playmaking
+Makerlo Tellez,FW,R,23,BOL,5,false,false,false,dribbling,finishing
+Dener Da Silva,FW,L,20,BOL,3,false,false,false,heading,stamina
+Gustavo Peredo,FW,R,26,BOL,5,true,false,false,pace,dribbling
+Carlos Añez,FW,R,31,BOL,6,false,false,false,heading,stamina
+Denilso Fernandez,FW,R,24,BOL,7,false,false,false,heading,pace
+Marco Pinto,FW,R,23,BOL,3,false,false,false,dribbling,playmaking
+Samuel Garzón,FW,R,27,BOL,5,false,false,false,pace,dribbling
+Pedro,FW,L,27,BRA,6,false,false,false,dribbling,pace
+Víctor Ábrego,FW,L,29,BOL,7,true,false,false,dribbling,pace

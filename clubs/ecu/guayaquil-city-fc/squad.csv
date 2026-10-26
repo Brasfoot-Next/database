@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gilmar Napa,GK,R,23,ECU,4,true,false,false,positioning,rushing-out
+Rodrigo Perea,GK,R,36,ECU,5,false,false,false,reflexes,rushing-out
+Eved Sanchez,GK,L,23,ECU,6,false,false,false,reflexes,penalty-saving
+Yardely Rodríguez,CB,R,31,ECU,7,false,false,false,stamina,heading
+Joshué Quiñónez,CB,R,25,ECU,4,true,false,false,marking,passing
+Esnáider Cabezas,CB,R,27,ECU,5,true,false,false,tackling,marking
+Erick Ladines,CB,R,24,ECU,6,false,false,false,heading,stamina
+Roger Arias,FB,R,26,ECU,8,true,false,false,tackling,marking
+Jonathan Ordóñez,FB,R,25,ECU,4,true,false,false,pace,tackling
+Junior Ayoví,FB,R,24,ECU,6,false,false,false,passing,pace
+Santiago Laurino,MF,R,23,URU,6,false,false,false,passing,playmaking
+Kevin Sambonino,MF,R,26,ECU,7,true,false,false,stamina,passing
+Madison Julio,MF,L,28,ECU,3,true,false,false,dribbling,pace
+Dixon Arroyo,MF,L,34,ECU,5,false,false,false,marking,passing
+Andrew Draper,MF,R,24,ECU,6,false,false,false,playmaking,finishing
+Pablo González,MF,R,29,URU,1,true,false,false,passing,stamina
+Miler Bolaños,MF,R,36,ECU,5,false,false,false,passing,finishing
+Damián Díaz,MF,R,28,ECU,6,true,false,false,passing,stamina
+Stalin Caicedo,FW,R,27,ECU,7,true,false,false,heading,stamina
+Edinson Mero,FW,L,27,ECU,2,true,false,false,heading,pace
+Pablo Mancilla,FW,R,33,ECU,5,false,false,false,finishing,heading
+Janus Vivar,FW,L,27,ECU,6,false,false,false,finishing,dribbling
+Anderson Naula,FW,R,28,ECU,1,false,false,false,pace,finishing
+Manu Palma,FW,L,28,PAR,5,false,false,false,heading,finishing
+Diego Dorregaray,FW,L,34,ARG,5,false,false,false,heading,finishing
+Edwin Angulo,FW,L,24,ECU,6,false,false,false,finishing,heading

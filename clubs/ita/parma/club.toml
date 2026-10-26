@@ -1,0 +1,13 @@
+name = "Parma"
+country = "ITA"
+level = 15
+reputation = 3
+colors = ["#F0F0F0", "#203070"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Mateo Ndiaye"
+country = "BRA"

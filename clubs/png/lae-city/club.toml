@@ -1,0 +1,13 @@
+name = "Lae City"
+country = "PNG"
+level = 12
+reputation = 3
+colors = ["#ffffcc", "#006600"]
+
+[stadium]
+name = "Ignatius Kilage"
+capacity = 1500
+
+[coach]
+name = "Bobby Morris"
+country = "PNG"

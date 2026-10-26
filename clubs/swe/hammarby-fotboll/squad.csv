@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tesfaldet Tekie,MF,L,29,SWE,5,true,false,false,stamina,pace
+Nahir Besara,MF,R,35,SWE,6,false,false,false,playmaking,passing
+Pavle Vagic,CB,L,26,SWE,8,false,false,false,stamina,tackling
+Jacob Ouro Ortmark,MF,R,29,SWE,4,false,false,false,stamina,passing
+Markus Karlsson,MF,R,22,SWE,5,true,false,false,stamina,playmaking
+Oscar Johansson Schellhas,FW,R,31,SWE,6,false,false,false,stamina,pace
+Nikola Vasic,FW,R,34,SWE,8,false,false,false,finishing,pace
+Frank Junior Adjei,MF,R,22,GHA,4,true,false,false,pace,stamina
+Noah Persson,FB,L,23,SWE,5,true,false,false,pace,stamina
+Dennis Collander,MF,R,24,SWE,6,false,false,false,pace,passing
+Paulos Abraham,FW,L,24,SWE,5,true,false,false,pace,stamina
+Hampus Skoglund,FB,R,22,SWE,6,true,false,false,stamina,pace
+Montader Madjed,FW,L,21,IRQ,7,true,false,false,pace,dribbling
+Obilor Denzel Okeke,FW,L,24,NOR,7,false,false,false,pace,stamina
+Victor Eriksson,CB,R,25,SWE,4,true,false,false,pace,heading
+Simon Strand,FB,L,33,SWE,5,false,false,false,stamina,pace
+Ibrahima Breze Fofana,CB,R,24,GUI,6,false,false,false,pace,tackling
+Adrian Lahdo,MF,R,18,SWE,7,true,false,false,pace,passing
+Elohim Kabore,FW,R,19,CIV,4,false,false,false,pace,heading
+Frederik Winther,CB,L,25,DEN,5,true,false,false,tackling,passing
+Wilson Lindberg Uhrstrom,MF,R,20,SWE,7,false,false,false,pace,passing
+Bernard Acheampong,FW,R,19,GHA,3,false,false,false,pace,stamina
+Warner Hahn,GK,R,34,SUR,5,true,false,false,reflexes,penalty-saving
+Elton Fischerstrom,GK,R,19,SWE,6,false,false,false,penalty-saving,positioning
+Felix Jakobsson,GK,L,26,SWE,2,false,false,false,reflexes,rushing-out

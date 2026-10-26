@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Akinori Ichikawa,GK,R,27,JPN,1,true,false,false,penalty-saving,reflexes
+Ryo Ishii,GK,R,26,JPN,5,false,false,false,penalty-saving,reflexes
+Kyo Hosoi,CB,R,22,JPN,6,true,false,false,heading,marking
+Katsuya Iwatake,CB,R,30,JPN,7,true,false,false,marking,stamina
+Hayato Sugita,CB,R,22,JPN,2,false,false,false,tackling,pace
+Makito Ito,CB,L,33,JPN,5,false,false,false,stamina,heading
+Jui Hata,CB,R,19,JPN,6,false,false,false,heading,marking
+Kaili Shimbo,FB,L,23,JPN,7,true,false,false,tackling,marking
+Sota Tsukuda,FB,R,18,JPN,2,false,false,false,crossing,pace
+Tomoya Takahashi,FB,R,19,JPN,5,false,false,false,tackling,marking
+Kengo Hayashi,FB,R,20,JPN,5,true,false,false,passing,pace
+Hinata Ogura,MF,R,25,JPN,6,true,false,false,dribbling,pace
+Koshiro Uda,MF,R,21,JPN,7,false,false,false,playmaking,dribbling
+Koki Kumakura,MF,R,24,JPN,3,false,false,false,passing,stamina
+Leo Takae,MF,R,28,JPN,5,true,false,false,passing,playmaking
+Takuya Shimamura,MF,R,27,JPN,7,true,false,false,pace,crossing
+Takanari Endo,MF,R,23,JPN,3,false,false,false,pace,crossing
+Hayase Takashio,MF,R,22,JPN,5,false,false,false,pace,crossing
+Yuto Shimizu,MF,R,21,JPN,6,false,false,false,pace,crossing
+Ryosuke Iwasaki,MF,L,18,JPN,7,false,false,false,pace,crossing
+Kota Yamada,MF,R,27,JPN,5,true,false,false,passing,playmaking
+Akiyuki Yokoyama,MF,R,29,JPN,6,false,false,false,tackling,marking
+João Paulo,FW,R,29,BRA,7,true,false,false,playmaking,finishing
+Toma Murata,FW,R,25,JPN,2,true,false,false,finishing,dribbling
+Adaílton,FW,R,35,BRA,5,false,false,false,finishing,heading
+Ryo Kubota,FW,L,25,JPN,6,false,false,false,finishing,pace
+Lukian,FW,R,34,BRA,6,false,false,false,finishing,dribbling
+Naoya Komazawa,FW,R,24,JPN,7,false,false,false,finishing,stamina
+Kantaro Maeda,FW,R,19,JPN,3,false,false,false,finishing,stamina

@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Santiago Colombatto,MF,L,29,ARG,7,true,false,false,stamina,crossing
+Leander Dendoncker,MF,R,31,BEL,2,true,false,false,passing,tackling
+Santi Cazorla,MF,R,41,ESP,5,false,false,false,playmaking,crossing
+Alberto Reina,MF,L,28,ESP,6,true,false,false,stamina,playmaking
+Álvaro Lemos,FB,R,33,ESP,7,false,false,false,stamina,pace
+Josip Brekalo,FW,L,28,CRO,4,false,false,false,dribbling,passing
+Nacho Vidal,FB,R,31,ESP,5,false,false,false,crossing,tackling
+Ilyas Chaira,FW,L,25,MAR,6,true,false,false,pace,dribbling
+Ovie Ejaria,MF,R,28,ENG,7,false,false,false,dribbling,passing
+Lucas Ahijado,FB,R,31,ESP,8,false,false,false,stamina,pace
+David Costas,CB,R,31,ESP,6,true,false,false,heading,marking
+Javi López,FB,L,24,ESP,6,true,false,false,stamina,tackling
+Salomon Rondon,FW,R,36,VEN,7,false,false,false,heading,finishing
+Kwasi Sibo,MF,R,28,GHA,5,false,false,false,stamina,marking
+Luka Ilic,MF,L,27,SRB,6,true,false,false,playmaking,pace
+Federico Vinas,FW,L,28,URU,6,true,false,false,pace,heading
+Rahim Alhassane,FB,L,24,ESP,7,true,false,false,pace,stamina
+Brandon Domingues,FW,L,26,FRA,5,false,false,false,pace,dribbling
+Eric Bailly,CB,R,32,CIV,6,false,false,false,marking,heading
+Cheli,MF,R,21,ESP,6,false,false,false,passing,pace
+Alex Forés,FW,R,25,ESP,5,false,false,false,finishing,stamina
+Haissem Hassan,FW,L,24,FRA,6,false,false,false,pace,dribbling
+Dani Calvo,CB,L,32,ESP,7,false,false,false,stamina,heading
+David Carmo,CB,L,27,ANG,4,true,false,false,marking,tackling
+Mouhamed Lamine Gueye,FW,R,21,SEN,5,false,false,false,pace,stamina
+Oier Luengo,CB,R,28,ESP,6,false,false,false,stamina,heading
+Adri Lopes,FB,L,20,ESP,7,false,false,false,pace,tackling
+Omar Falah,FB,L,22,ESP,4,false,false,false,pace,dribbling
+Marco Esteban,CB,R,20,ESP,6,false,false,false,pace,tackling
+Aarón,GK,R,30,ESP,6,false,false,false,rushing-out,reflexes
+Horatiu Moldovan,GK,R,28,ROU,5,true,false,false,reflexes,positioning
+Miguel Narváez,GK,R,24,ESP,6,false,false,false,rushing-out,penalty-saving

@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lovro Majkic,GK,R,26,CRO,7,true,false,false,positioning,penalty-saving
+Sokratis Dioudis,GK,R,33,GRE,4,false,false,false,reflexes,penalty-saving
+Emiliano Karaj,GK,R,20,ALB,6,false,false,false,positioning,reflexes
+Fabiano,CB,R,34,BRA,6,true,false,false,marking,passing
+Christos Kamtsis,CB,R,18,GRE,7,true,false,false,passing,marking
+Marko Kerkez,FB,L,26,SRB,5,true,false,false,pace,stamina
+Noah Fadiga,FB,L,26,SEN,6,true,false,false,tackling,pace
+Uros Racic,MF,R,28,SRB,7,true,false,false,pace,dribbling
+Martin Hongla,MF,R,28,CMR,8,true,false,false,stamina,dribbling
+Konstantinos Galanopoulos,MF,L,28,GRE,5,true,false,false,tackling,passing
+Michalis Voriazidis,MF,L,21,GRE,9,false,false,false,playmaking,finishing
+Diallo Sanoussi,MF,L,20,GRE,5,false,false,false,finishing,passing
+Sarafianos Papasarafianos,MF,R,17,GRE,6,false,false,false,marking,passing
+Fredrik Jensen,MF,R,28,FIN,6,true,false,false,pace,stamina
+Mamadou Gning,MF,R,19,SEN,7,false,false,false,dribbling,passing
+Konstantinos Charoupas,MF,R,18,GRE,4,false,false,false,stamina,tackling
+Othmane Boussaid,FW,R,26,BEL,6,false,false,false,heading,pace
+Anastasios Donis,FW,L,29,GRE,6,false,false,false,dribbling,playmaking
+Benjamín Garré,FW,L,26,ARG,7,true,false,false,heading,finishing
+Dudu,FW,R,24,BRA,4,false,false,false,heading,stamina
+Clayton Diandy,FW,R,19,SEN,8,false,false,false,pace,crossing
+Giannis Gianniotas,FW,L,33,GRE,5,false,false,false,finishing,pace
+Loren Morón,FW,R,32,ESP,6,true,false,false,pace,crossing
+Christian Kouamé,FW,L,28,GRE,6,false,false,false,crossing,pace
+Tino Kadewere,FW,L,30,ZIM,7,false,false,false,finishing,pace
+Migouel Alfarela,FW,L,28,FRA,10,false,false,false,dribbling,pace

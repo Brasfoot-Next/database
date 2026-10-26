@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kelvin Malunga,GK,R,28,ZAM,5,true,false,false,penalty-saving,reflexes
+Laison Thole,FB,R,36,ZAM,6,true,false,false,marking,finishing
+Justin Mwanza,FB,L,21,ZAM,3,true,false,false,marking,passing
+John Mwangeni,FB,R,27,ZAM,6,false,false,false,marking,finishing
+Richard Ocran,CB,R,30,GHA,7,true,false,false,heading,stamina
+Jimmy Dzingai,CB,L,31,ZIM,3,true,false,false,marking,pace
+Misheck Chaila,MF,R,31,ZAM,9,true,false,false,marking,finishing
+Diamond Chikwekwe,MF,R,29,ZAM,3,true,false,false,playmaking,passing
+Freddy Tshimenga,MF,L,32,COD,8,true,false,false,finishing,passing
+Stephen Chulu,MF,L,23,ZAM,5,true,false,false,tackling,marking
+Patrick Gondwe,MF,R,20,ZAM,7,false,false,false,finishing,passing
+Harrison Chisala,FW,R,24,ZAM,5,true,false,false,finishing,dribbling
+Ronald Kampamba,FW,L,30,ZAM,3,true,false,false,finishing,pace
+Obeddy Masumbuko,FW,L,25,ZAM,4,false,false,false,dribbling,finishing
+Mangani Banda,GK,R,25,ZAM,8,false,false,false,positioning,rushing-out
+Emmanuel Mbola,FB,L,29,ZAM,9,false,false,false,finishing,passing
+Given Sinyangwe,CB,L,33,ZAM,10,false,false,false,tackling,stamina
+Derrick Mukombozi,CB,R,23,BDI,3,false,false,false,marking,pace
+Innocent Mwaba,MF,L,31,ZAM,7,false,false,false,finishing,passing
+Peter Mwaangani,FW,R,31,ZAM,9,false,false,false,finishing,dribbling

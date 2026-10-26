@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nicolas Madsen,MF,R,26,DEN,5,true,false,false,passing,playmaking
+Jonathan Varane,MF,R,24,FRA,6,false,false,false,stamina,tackling
+Jimmy Dunne,FB,R,28,IRL,1,true,false,false,heading,stamina
+Ilias Chair,FW,L,28,MAR,5,false,false,false,stamina,dribbling
+Richard Kone,FW,R,23,CIV,6,false,false,false,pace,stamina
+Harvey Vale,FW,L,22,ENG,7,false,false,false,pace,stamina
+Sam Field,MF,L,28,ENG,1,true,false,false,stamina,marking
+Michael Frey,FW,R,32,SUI,5,false,false,false,stamina,heading
+Karamoko Dembele,FW,L,23,ENG,6,false,false,false,pace,dribbling
+Kieran Morgan,MF,R,20,ENG,7,false,false,false,stamina,pace
+Isaac Hayden,MF,R,31,JAM,5,true,false,false,tackling,marking
+Koki Saito,FW,L,25,JPN,6,true,false,false,dribbling,pace
+Paul Smyth,FW,R,28,NIR,7,false,false,false,pace,dribbling
+Kwame Poku,FW,L,25,GHA,4,false,false,false,pace,dribbling
+Kealey Adamson,FB,R,23,AUS,5,false,false,false,stamina,pace
+Rhys Norrington Davies,FB,L,27,WAL,6,true,false,false,stamina,crossing
+Elijah Dixon Bonner,MF,R,25,ENG,8,true,false,false,passing,dribbling
+Amadou Mbengue,CB,R,24,SEN,2,false,false,false,pace,heading
+Ziyad Larkeche,FB,L,23,FRA,5,false,false,false,pace,tackling
+Isak Alemayehu,MF,R,19,SWE,6,false,false,false,dribbling,stamina
+Jaylan Pearman,FW,R,20,AUS,5,false,false,false,pace,stamina
+Rayan Kolli,FW,R,21,ALG,6,false,false,false,pace,dribbling
+Jake Clarke Salter,CB,L,28,ENG,7,true,false,false,heading,marking
+Steve Cook,CB,R,35,ENG,3,false,false,false,heading,tackling
+Rumarn Burrell,FW,R,25,JAM,5,true,false,false,pace,finishing
+Daniel Bennie,FW,R,20,AUS,6,false,false,false,pace,dribbling
+Liam Morrison,CB,L,23,SCO,7,true,false,false,heading,tackling
+Esquerdinha,FB,L,20,BRA,3,false,false,false,pace,dribbling
+Emmerson Sutton,FW,L,19,ENG,4,false,false,false,pace,dribbling
+Paul Nardi,GK,R,32,FRA,5,false,false,false,reflexes,penalty-saving
+Joe Walsh,GK,R,24,ENG,5,true,false,false,rushing-out,penalty-saving

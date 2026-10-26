@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Thiago Couto,GK,R,27,BRA,2,false,false,false,rushing-out,positioning
+Halls,GK,R,27,BRA,5,false,false,false,positioning,penalty-saving
+Denis,GK,L,30,BRA,5,false,false,false,reflexes,penalty-saving
+Adriano,GK,R,23,BRA,6,true,false,false,reflexes,rushing-out
+João Silva,CB,R,27,POR,7,true,false,false,passing,marking
+Marcelo Benevenuto,CB,R,30,BRA,4,false,false,false,heading,passing
+Kayky Almeida,CB,R,21,BRA,5,false,false,false,tackling,pace
+Habraão,CB,R,25,BRA,6,true,false,false,heading,passing
+Marcelo Ajul,CB,R,23,BRA,7,false,false,false,marking,tackling
+Patrick,CB,R,21,BRA,4,false,false,false,marking,stamina
+Felipinho,FB,L,29,BRA,4,true,false,false,passing,crossing
+Edson Lucas,FB,L,25,BRA,5,false,false,false,crossing,passing
+Claudinho,FB,L,25,BRA,6,false,false,false,marking,pace
+Augusto,FB,L,18,BRA,10,false,false,false,crossing,pace
+Madson,FB,R,34,BRA,4,true,false,false,marking,crossing
+Zé Lucas,MF,R,18,BRA,5,false,false,false,tackling,marking
+Zé Gabriel,MF,L,27,BRA,6,true,false,false,passing,tackling
+Pedro Martins,MF,R,26,BRA,1,true,false,false,dribbling,pace
+Yago Felipe,MF,L,31,BRA,5,true,false,false,dribbling,passing
+Fábio Matheus,MF,R,23,BRA,6,false,false,false,playmaking,finishing
+Biel Fonseca,MF,R,24,BRA,3,true,false,false,finishing,passing
+Diego Hernández,FW,R,26,URU,5,false,false,false,pace,dribbling
+Carlos de Pena,FW,R,34,URU,6,false,false,false,pace,crossing
+Clayson,FW,R,31,BRA,7,false,false,false,pace,dribbling
+Gustavo Maia,FW,L,25,BRA,4,false,false,false,dribbling,pace
+Marlon,FW,R,31,BRA,5,false,false,false,heading,tackling
+Chrystian Barletta,FW,R,25,BRA,6,false,false,false,pace,dribbling
+Dudu Teodora,FW,R,26,BRA,7,true,false,false,dribbling,playmaking
+Perotti,FW,R,28,BRA,4,false,false,false,heading,pace
+Iury Castilho,FW,L,30,BRA,5,true,false,false,dribbling,finishing
+Zé Roberto,FW,R,32,BRA,7,false,false,false,finishing,heading

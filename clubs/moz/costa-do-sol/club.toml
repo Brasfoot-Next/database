@@ -1,0 +1,13 @@
+name = "Costa do Sol"
+country = "MOZ"
+level = 14
+reputation = 2
+colors = ["#ffff99", "#000066"]
+
+[stadium]
+name = "Costa do Sol"
+capacity = 10000
+
+[coach]
+name = "Artur Comboio"
+country = "MOZ"

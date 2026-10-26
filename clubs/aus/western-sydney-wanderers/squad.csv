@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Brandon Borrello,FW,R,31,AUS,4,true,false,false,stamina,pace
+Bozhidar Kraev,FW,R,29,BUL,5,true,false,false,stamina,pace
+Steven Ugarkovic,MF,L,32,AUS,6,true,false,false,stamina,passing
+Kosta Barbarouses,FW,L,36,NZL,8,false,false,false,stamina,pace
+Joshua Brillante,MF,R,33,AUS,4,true,false,false,stamina,playmaking
+Alou Kuol,FW,R,25,AUS,6,false,false,false,stamina,pace
+Alex Gersbach,FB,L,29,AUS,7,true,false,false,pace,stamina
+Mohamed Al Taay,MF,R,26,IRQ,10,true,false,false,pace,stamina
+Dylan Scicluna,MF,R,22,MLT,5,true,false,false,pace,playmaking
+Gabriel Cleur,FB,R,28,AUS,6,false,false,false,stamina,tackling
+Jarrod Carluccio,FW,L,25,AUS,6,false,false,false,pace,stamina
+Aidan Simmons,FB,R,23,AUS,7,false,false,false,stamina,pace
+Phillip Cancar,CB,R,25,AUS,3,true,false,false,stamina,pace
+Anthony Pantazopoulos,FB,L,23,AUS,5,true,false,false,stamina,pace
+Alex Bonetig,CB,L,24,AUS,5,true,false,false,stamina,tackling
+Aydan Hammond,FW,R,22,AUS,6,false,false,false,pace,dribbling
+Ben Mewett,FB,L,19,AUS,7,false,false,false,stamina,pace
+Ruon Tongyik,CB,R,29,AUS,3,false,false,false,pace,heading
+Alaat Abdul Rahman,FW,R,19,AUS,5,false,false,false,stamina,finishing
+Ricky Fransen,CB,R,19,AUS,6,false,false,false,pace,stamina
+Jesse Cameron,FB,R,21,AUS,3,false,false,false,stamina,pace
+Nathan Barrie,CB,L,20,AUS,5,false,false,false,stamina,tackling
+Lawrence Thomas,GK,R,34,AUS,6,true,false,false,penalty-saving,positioning
+Jordan Holmes,GK,R,29,AUS,7,false,false,false,reflexes,positioning
+Tristan Vidackovic,GK,R,23,AUS,3,false,false,false,rushing-out,penalty-saving

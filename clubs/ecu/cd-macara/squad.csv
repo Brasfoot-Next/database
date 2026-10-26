@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rodrigo Rodríguez,GK,R,30,URU,5,false,false,false,reflexes,penalty-saving
+Darwin Cuero,GK,R,31,ECU,6,false,false,false,penalty-saving,reflexes
+Julio Cárdenas,GK,R,25,ECU,7,true,false,false,positioning,penalty-saving
+José Luis Marrufo,CB,R,30,VEN,1,true,false,false,marking,tackling
+Santiago Etchebarne,CB,R,31,URU,5,true,false,false,tackling,marking
+Jairo Jiménez,CB,R,31,ECU,6,false,false,false,tackling,pace
+Luis Ayala,FB,L,32,ECU,7,false,false,false,stamina,crossing
+Marlon Medranda,FB,L,27,ECU,1,true,false,false,passing,pace
+Denilson Bolaños,FB,R,25,ECU,5,true,false,false,dribbling,pace
+Toño Espinoza,FB,R,30,ECU,6,false,false,false,crossing,pace
+Juan Espinoza,FB,L,23,ECU,6,false,false,false,crossing,pace
+Martín Tello,MF,R,21,ECU,7,false,false,false,playmaking,finishing
+Jean Estacio,MF,R,28,ECU,2,true,false,false,passing,playmaking
+José Cazares,MF,R,35,ECU,5,false,false,false,passing,stamina
+Gastón Blanc,MF,R,29,ARG,6,true,false,false,tackling,marking
+Matías Miranda,MF,L,26,ARG,7,true,false,false,playmaking,pace
+Jordán Mohor,MF,L,25,ECU,3,true,false,false,pace,crossing
+Tommy Chamba,MF,L,21,ECU,5,false,false,false,playmaking,dribbling
+José Klinger,FW,R,21,ECU,6,false,false,false,finishing,pace
+Agustín Campana,FW,R,28,ARG,7,true,false,false,pace,finishing
+Jordano Zambrano,FW,L,23,ECU,5,false,false,false,pace,dribbling
+Mateo Viera,FW,L,21,ECU,6,false,false,false,finishing,heading
+Jeison Chalá,FW,R,31,ECU,8,false,false,false,playmaking,finishing
+Federico Paz,FW,R,31,ARG,4,false,false,false,finishing,heading
+Franco Posse,FW,R,25,URU,6,true,false,false,pace,crossing
+Patricio Ramos,FW,R,22,ECU,6,false,false,false,finishing,heading
+Luca Ferro,FW,L,24,ARG,10,false,false,false,finishing,dribbling
+Matías Cabeza,FW,R,20,ECU,5,false,false,false,dribbling,playmaking

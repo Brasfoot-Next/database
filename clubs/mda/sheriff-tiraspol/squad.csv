@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Pascenco,GK,L,39,MDA,3,false,false,false,reflexes,positioning
+Dumitru Celeadnic,GK,R,30,MDA,5,false,false,false,positioning,rushing-out
+Razak Abalora,GK,L,25,GHA,9,true,false,false,positioning,rushing-out
+Keston Julien,FB,L,23,TRI,10,false,false,false,crossing,pace
+Renan Guedes,FB,R,24,BRA,8,true,false,false,crossing,marking
+Patrick Kpozo,FB,L,25,GHA,3,true,false,false,finishing,passing
+Heron,FB,R,21,BRA,8,false,false,false,finishing,pace
+Stjepan Radeljic,CB,R,24,BIH,2,true,false,false,tackling,heading
+Gaby Kiki,CB,L,27,CMR,4,true,false,false,tackling,heading
+Stefanos Evangelou,CB,L,24,GRE,7,false,false,false,heading,stamina
+Evgheni Plesco,CB,R,21,MDA,6,false,false,false,tackling,heading
+Eugeniu Gliga,MF,R,21,MDA,10,true,false,false,passing,finishing
+Charles Petro,MF,L,21,MWI,5,false,false,false,marking,finishing
+Cedric Badolo,MF,R,23,BFA,7,true,false,false,playmaking,pace
+Regi Lushkja,MF,R,26,ALB,2,true,false,false,finishing,passing
+Edmund Addo,MF,R,22,GHA,1,false,false,false,tackling,heading
+Moussa Kyabou,MF,L,24,MLI,5,true,false,false,marking,finishing
+Mouhamed Diop,MF,L,21,SEN,9,false,false,false,playmaking,pace
+Adrian Hatman,MF,R,19,MDA,5,false,false,false,tackling,marking
+Momo Yansane,FW,R,24,GUI,3,true,false,false,dribbling,finishing
+Rasheed Akanbi,FW,L,23,NGA,10,true,false,false,pace,finishing
+Abou Ouattara,FW,R,22,BFA,6,false,false,false,heading,pace
+Pernambuco,FW,R,24,BRA,8,false,false,false,dribbling,playmaking

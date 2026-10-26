@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Finn Porath,FW,R,29,GER,3,true,false,false,stamina,pace
+Anton Donkor,FB,L,28,GER,5,true,false,false,pace,stamina
+Timo Becker,CB,R,29,GER,6,true,false,false,stamina,pace
+Kenan Karaman,MF,R,32,TUR,7,true,false,false,stamina,dribbling
+Soufiane El Faouzi,MF,L,24,GER,3,true,false,false,stamina,dribbling
+Ron Schallenberg,MF,R,27,GER,5,true,false,false,stamina,pace
+Moussa Sylla,FW,R,26,MLI,6,false,false,false,pace,finishing
+Amin Younes,MF,R,33,GER,7,false,false,false,dribbling,passing
+Mauro Zalazar,MF,R,21,URU,3,false,false,false,stamina,dribbling
+Janik Bachmann,MF,R,30,GER,5,true,false,false,stamina,heading
+Christopher Antwi Adjei,MF,L,32,GHA,5,false,false,false,pace,crossing
+Max Gruger,MF,R,21,GER,6,false,false,false,passing,stamina
+Tomas Kalas,CB,R,33,CZE,6,false,false,false,pace,stamina
+Vitalie Becker,FW,L,21,GER,7,false,false,false,crossing,dribbling
+Adrian Gantenbein,FW,R,25,SUI,3,false,false,false,pace,stamina
+Mertcan Ayhan,CB,R,20,TUR,5,false,false,false,tackling,passing
+Bryan Lasme,FW,R,27,FRA,6,true,false,false,pace,stamina
+Hasan Kurucay,CB,R,29,TUR,7,false,false,false,passing,stamina
+Christian Gomis,FW,R,26,SEN,3,false,false,false,pace,finishing
+Henning Matriciani,FB,R,26,GER,5,true,false,false,pace,stamina
+Felipe Sanchez,CB,L,22,ARG,4,false,false,false,stamina,tackling
+Tidiane Toure,FB,R,21,FRA,5,false,false,false,stamina,pace
+Emil Hojlund,FW,R,21,DEN,6,false,false,false,pace,heading
+Nikola Katic,CB,R,29,BIH,7,true,false,false,heading,stamina
+Zaid Amoussou Tchibara,FW,R,20,GER,2,false,false,false,pace,dribbling
+Peter Remmert,FW,R,21,GER,5,false,false,false,heading,pace
+Ibrahima Cisse,CB,R,25,MLI,6,false,false,false,heading,tackling
+Loris Karius,GK,R,33,GER,7,false,false,false,reflexes,penalty-saving
+Justin Heekeren,GK,R,25,GER,2,true,false,false,reflexes,positioning
+Johannes Siebeking,GK,L,20,GER,5,false,false,false,reflexes,penalty-saving
+Luca Podlech,GK,R,21,GER,7,false,false,false,reflexes,positioning

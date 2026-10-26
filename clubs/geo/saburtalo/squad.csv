@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Megrelishvili,GK,L,22,GEO,6,true,false,false,reflexes,positioning
+Giorgi Latsabidze,FB,L,27,GEO,9,true,false,false,crossing,pace
+Saba Mamatsashvili,FB,L,19,GEO,4,false,false,false,marking,finishing
+Levan Kakubava,CB,R,31,GEO,2,true,false,false,tackling,marking
+Giorgi Jgerenaia,CB,L,28,GEO,9,true,false,false,tackling,heading
+Gureshidze,CB,L,27,GEO,2,false,false,false,tackling,marking
+Gia Chaduneli,CB,R,28,GEO,10,false,false,false,marking,pace
+Iuri Tabatadze,MF,R,22,GEO,2,true,false,false,finishing,passing
+Levan Nonikashvili,MF,L,27,GEO,4,true,false,false,passing,finishing
+Dachi Tsnobiladze,MF,R,28,GEO,9,false,false,false,tackling,finishing
+Gizo Mamageishvili,MF,R,19,GEO,3,false,false,false,playmaking,finishing
+Shota Nonikashvili,MF,R,21,GEO,9,true,false,false,tackling,marking
+Bakar Kardava,MF,L,27,GEO,2,true,false,false,tackling,marking
+Benedik Mioc,MF,L,27,CRO,1,false,false,false,marking,pace
+Giorgi Guliashvili,FW,R,20,GEO,7,false,false,false,playmaking,finishing
+Gocholeishvili,FW,R,21,GEO,3,true,false,false,pace,finishing
+Irakli Sikharulidze,FW,L,32,GEO,6,true,false,false,finishing,pace
+Beka Kurdadze,GK,R,25,GEO,8,false,false,false,positioning,penalty-saving
+Luka Lezhava,GK,R,21,GEO,5,false,false,false,reflexes,positioning
+Jinjolava,FB,R,22,GEO,1,true,false,false,crossing,marking
+Guram Goshteliani,FW,R,25,GEO,5,false,false,false,pace,finishing

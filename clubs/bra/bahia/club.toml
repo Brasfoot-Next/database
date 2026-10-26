@@ -1,0 +1,15 @@
+name = "Bahia"
+country = "BRA"
+state = "BA"
+level = 19
+reputation = 4
+colors = ["#ffffff", "#000000"]
+rivals = ["bra/vitoria"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Rodrigo Iago"
+country = "BRA"

@@ -1,0 +1,13 @@
+name = "Preston North End"
+country = "ENG"
+level = 13
+reputation = 3
+colors = ["#F0F0F0", "#102050"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Thierry Cornell"
+country = "BRA"

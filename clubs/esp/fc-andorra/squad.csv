@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sergio Molina,MF,R,30,ESP,2,false,false,false,tackling,playmaking
+Villahermosa,MF,L,25,ESP,5,true,false,false,passing,playmaking
+Álex Petxa,FB,R,29,ESP,7,false,false,false,stamina,pace
+Imanol,FB,L,26,ESP,1,false,false,false,stamina,passing
+Efe Akman,MF,R,20,TUR,5,true,false,false,dribbling,passing
+Marc Doménech,MF,R,23,ESP,6,true,false,false,playmaking,passing
+Álex Calvo,FW,L,22,ESP,7,false,false,false,pace,dribbling
+Manu Nieto,FW,R,28,ESP,2,true,false,false,finishing,heading
+Martí Vilà,FB,L,27,ESP,5,true,false,false,stamina,tackling
+Thomas Carrique,FB,R,27,FRA,6,true,false,false,dribbling,pace
+Álvaro Martín,MF,L,25,ESP,5,true,false,false,crossing,pace
+Josep Cerdà,FW,L,23,ESP,6,false,false,false,dribbling,pace
+Minsu,FW,L,20,KOR,7,false,false,false,pace,playmaking
+Theo Le Normand,FW,L,26,FRA,4,true,false,false,pace,dribbling
+Gael Alonso,CB,L,24,ESP,5,false,false,false,heading,tackling
+Olabarrieta,FW,L,20,ESP,6,false,false,false,dribbling,crossing
+Bomba,CB,R,20,ESP,7,false,false,false,tackling,pace
+Aitor Uzkudun,FW,R,25,ESP,4,false,false,false,finishing,heading
+Jastin,FW,L,22,POR,5,false,false,false,pace,dribbling
+Lautaro,FW,R,25,URU,6,false,false,false,finishing,dribbling
+Antal Yaakobishvili,CB,R,22,HUN,5,true,false,false,passing,tackling
+Diego Alende,CB,R,29,ESP,6,true,false,false,tackling,heading
+Nicolas Ratti,GK,R,32,ARG,7,false,false,false,reflexes,penalty-saving
+Owono,GK,R,25,ESP,2,true,false,false,penalty-saving,rushing-out
+Aron Yaakobishvili,GK,R,20,HUN,5,false,false,false,penalty-saving,reflexes

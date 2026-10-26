@@ -1,0 +1,13 @@
+name = "FC Basel 1893"
+country = "SUI"
+level = 14
+reputation = 3
+colors = ["#004080", "#F0D000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Andrej Ruegg"
+country = "BRA"

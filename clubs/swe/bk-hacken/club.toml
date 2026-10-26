@@ -1,0 +1,13 @@
+name = "BK Häcken"
+country = "SWE"
+level = 13
+reputation = 3
+colors = ["#101010", "#F0F0F0"]
+
+[stadium]
+name = "Nordic Wellness Arena"
+capacity = 6316
+
+[coach]
+name = "Christ Svanback"
+country = "BRA"

@@ -1,0 +1,39 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gustavo,GK,R,33,BRA,6,false,false,false,penalty-saving,reflexes
+Cássio,GK,R,24,BRA,7,false,false,false,penalty-saving,reflexes
+Bruno Brígido,GK,R,35,BRA,9,false,false,false,rushing-out,positioning
+William,GK,L,28,BRA,4,true,false,false,rushing-out,reflexes
+Italo Brito,GK,R,20,BRA,5,false,false,false,reflexes,positioning
+Luca Sosa,CB,L,32,ARG,6,false,false,false,stamina,marking
+Nathan Pelae,CB,R,31,BRA,1,false,false,false,marking,tackling
+Ricardo Silva,CB,R,33,BRA,5,false,false,false,tackling,stamina
+Rafa Barcelos,CB,L,22,BRA,5,false,false,false,heading,passing
+Manoel,CB,R,36,BRA,6,true,false,false,heading,tackling
+Emerson,CB,L,31,BRA,3,false,false,false,tackling,pace
+Wesley,CB,R,26,BRA,5,true,false,false,heading,tackling
+Thallyson,CB,R,20,BRA,6,false,false,false,tackling,heading
+Dalbert,FB,L,32,BRA,7,true,false,false,tackling,marking
+Tobias Ostchega,FB,L,28,ARG,4,true,false,false,stamina,pace
+Léo Alaba,FB,R,27,BRA,5,false,false,false,passing,crossing
+Jhonny,FB,L,24,BRA,6,false,false,false,marking,pace
+Alex Silva,FB,L,32,BRA,7,false,false,false,tackling,pace
+Heitor,FB,L,22,BRA,4,false,false,false,marking,crossing
+Val Soares,MF,R,29,BRA,5,true,false,false,marking,passing
+Alê,MF,R,36,BRA,2,false,false,false,passing,finishing
+Jorge Jiménez,MF,L,33,PAR,5,true,false,false,finishing,playmaking
+Felipe Amaral,MF,R,23,BRA,6,false,false,false,playmaking,dribbling
+Eduardo Person,MF,R,29,BRA,7,true,false,false,passing,tackling
+Gabriel Domingos,MF,R,25,BRA,2,true,false,false,stamina,tackling
+Otávio Gonçalves,MF,R,20,BRA,5,false,false,false,pace,dribbling
+Yago Souza,MF,R,20,BRA,6,false,false,false,stamina,passing
+Fernando Elizari,MF,R,35,ARG,7,false,false,false,playmaking,dribbling
+Paulo Victor,FW,L,25,BRA,3,true,false,false,stamina,pace
+Yarlen,FW,R,20,BRA,5,false,false,false,pace,dribbling
+Matías Segovia,FW,L,23,PAR,7,false,false,false,heading,finishing
+Rodrigo Piñeiro,FW,R,27,URU,4,true,false,false,dribbling,playmaking
+Gabriel Barros,FW,L,24,BRA,5,false,false,false,pace,finishing
+Thauan,FW,R,22,BRA,6,false,false,false,crossing,pace
+Guilherme Parede,FW,R,30,BRA,8,false,false,false,playmaking,finishing
+Willian Bigode,FW,R,39,BRA,5,false,false,false,finishing,dribbling
+Gonzalo Mastriani,FW,R,33,URU,6,false,false,false,heading,stamina
+Breno,FW,R,24,BRA,6,false,false,false,pace,dribbling

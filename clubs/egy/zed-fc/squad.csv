@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ali Lotfi,GK,R,36,EGY,7,true,false,false,positioning,penalty-saving
+Mohamed Mazzika,GK,R,32,EGY,10,false,false,false,positioning,rushing-out
+Abdelmonem Tamer,GK,R,19,EGY,5,false,false,false,reflexes,penalty-saving
+Ahmed Nader El Sayed,GK,R,23,EGY,6,false,false,false,reflexes,rushing-out
+Ahmed Tarek,CB,R,24,EGY,7,false,false,false,stamina,heading
+Mohamed Rabia,CB,R,30,EGY,1,true,false,false,tackling,marking
+Ahmed Castelo,CB,R,27,EGY,5,true,false,false,passing,marking
+Islam Abdellah,CB,L,25,EGY,6,false,false,false,heading,tackling
+Abdallah Bakri,CB,R,31,EGY,7,false,false,false,tackling,pace
+Abdallah Bostangy,CB,R,21,EGY,2,false,false,false,tackling,stamina
+Moussa Mohamed,CB,R,22,EGY,6,false,false,false,marking,tackling
+Mohamed Ashraf,FB,L,24,EGY,7,false,false,false,pace,crossing
+Ziad Tarek,FB,R,25,EGY,10,true,false,false,pace,tackling
+Amara Keita,FB,R,20,SLE,4,false,false,false,stamina,pace
+Ahmed Sayed,FB,R,24,EGY,5,false,false,false,tackling,pace
+Sameh Ibrahim,FB,R,28,EGY,6,true,false,false,tackling,marking
+Hamdy Alaa,MF,R,25,EGY,1,true,false,false,passing,playmaking
+Mahmoud Bolbol,MF,L,28,EGY,5,true,false,false,stamina,passing
+Maata Magassa,MF,R,22,EGY,6,false,false,false,stamina,tackling
+Ahmed El-Saghiri,MF,R,28,EGY,7,true,false,false,passing,finishing
+Maged Hany,MF,R,23,EGY,4,false,false,false,finishing,playmaking
+Amar Hamdy,MF,R,27,EGY,5,true,false,false,playmaking,dribbling
+Muhammed Sawaneh,MF,R,22,EGY,6,false,false,false,playmaking,passing
+Abdelrahman El Banouby,FW,R,26,EGY,7,true,false,false,heading,stamina
+Ahmed Adel,FW,R,28,EGY,1,false,false,false,finishing,heading
+Youssef Osama Nabih,FW,R,25,EGY,4,false,false,false,crossing,pace
+Mostafa Saad,FW,R,24,EGY,6,true,false,false,pace,dribbling
+Mazen Yasser,FW,R,23,EGY,7,false,false,false,finishing,heading
+Rafaat Khalil,FW,R,22,EGY,1,false,false,false,playmaking,finishing
+Rasheed Ahmed,FW,R,25,NGA,5,false,false,false,playmaking,finishing
+Ahmed Atef,FW,R,28,EGY,3,false,false,false,finishing,dribbling
+Mamadu Bah,FW,R,25,LBR,5,false,false,false,crossing,pace

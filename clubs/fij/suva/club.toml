@@ -1,0 +1,13 @@
+name = "Suva"
+country = "FIJ"
+level = 12
+reputation = 2
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "ANZ Stadium"
+capacity = 15000
+
+[coach]
+name = "Maxwell Thaggard"
+country = "FIJ"

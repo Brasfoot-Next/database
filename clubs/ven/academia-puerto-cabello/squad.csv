@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Joel Graterol,GK,R,29,VEN,3,true,false,false,positioning,reflexes
+Luis Romero,GK,R,35,VEN,5,false,false,false,positioning,reflexes
+Eduardo Herrera,GK,R,33,VEN,7,false,false,false,penalty-saving,rushing-out
+Jiovany Ramos,CB,R,29,PAN,2,true,false,false,marking,passing
+Gerónimo Bortagaray,CB,L,26,URU,5,true,false,false,marking,pace
+Geremías Meléndez,CB,R,31,VEN,6,false,false,false,heading,tackling
+Sema Velázquez,CB,R,35,VEN,7,false,false,false,passing,marking
+Heiber Linares,FB,L,26,VEN,2,true,false,false,tackling,marking
+Jefre Vargas,FB,R,31,VEN,5,false,false,false,stamina,crossing
+Luis Casiani,FB,R,25,VEN,6,false,false,false,pace,stamina
+Roberto Rosales,FB,R,37,VEN,3,true,false,false,passing,crossing
+Giovani Bamba,MF,R,27,SUI,5,true,false,false,dribbling,passing
+Júnior Moreno,MF,R,33,VEN,6,true,false,false,stamina,passing
+Pablo Lima,MF,L,35,URU,7,false,false,false,tackling,marking
+Harrison Contreras,MF,L,37,VEN,4,false,false,false,playmaking,marking
+Gustavo González,MF,L,30,VEN,5,false,false,false,stamina,passing
+Musa Isah,MF,R,24,NGA,6,false,false,false,passing,pace
+Jesús Cantillo,MF,L,22,VEN,7,false,false,false,passing,stamina
+Santiago Santeliz,MF,R,18,VEN,4,false,false,false,finishing,playmaking
+José Hernández,MF,R,29,VEN,5,true,false,false,stamina,tackling
+Daniel Saggiomo,MF,R,28,VEN,2,false,false,false,pace,playmaking
+Jhon Marchán,MF,L,27,VEN,5,true,false,false,finishing,passing
+Pierangelo Pagnano,MF,R,24,VEN,6,false,false,false,finishing,playmaking
+Gerardo Padrón,FW,L,23,VEN,7,false,false,false,pace,dribbling
+Jean Franco Castillo,FW,L,23,VEN,3,false,false,false,pace,stamina
+Jayson Martínez,FW,R,25,VEN,5,false,false,false,heading,pace
+João Barros,FW,L,20,POR,6,false,false,false,pace,finishing
+Robinson Flores,FW,R,28,VEN,7,true,false,false,finishing,stamina
+Edwuin Pernía,FW,R,31,VEN,3,false,false,false,dribbling,pace
+Andrés Ponce,FW,R,29,VEN,5,true,false,false,finishing,stamina
+Diego Osorio,FW,R,21,VEN,7,false,false,false,finishing,passing

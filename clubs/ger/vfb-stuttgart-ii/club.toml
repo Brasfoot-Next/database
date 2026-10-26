@@ -1,0 +1,13 @@
+name = "VfB Stuttgart II"
+country = "GER"
+level = 7
+reputation = 1
+colors = ["#F0F0F0", "#900000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Nuha Olivier"
+country = "BRA"

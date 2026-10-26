@@ -1,0 +1,13 @@
+name = "New England Revolution"
+country = "USA"
+level = 14
+reputation = 3
+colors = ["#F0F0F0", "#002040"]
+
+[stadium]
+name = "Gillette Stadium"
+capacity = 68756
+
+[coach]
+name = "Keegan Ivacic"
+country = "BRA"

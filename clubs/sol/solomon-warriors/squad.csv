@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mae'arasia,GK,R,27,SOL,10,true,false,false,penalty-saving,reflexes
+Izomo Bird,GK,L,32,SOL,5,false,false,false,positioning,penalty-saving
+Sammy Birisi,GK,L,31,SOL,8,false,false,false,positioning,penalty-saving
+Bata Furai,FB,L,37,SOL,10,true,false,false,crossing,marking
+Harry Masae,FB,R,26,SOL,7,true,false,false,finishing,pace
+Matson Feni,FB,R,28,SOL,1,false,false,false,finishing,pace
+Hadisi Aengari,CB,L,33,SOL,4,true,false,false,tackling,heading
+Fred Fakari,CB,R,32,SOL,4,true,false,false,tackling,marking
+Emmanuel Poila,CB,L,32,SOL,3,false,false,false,tackling,stamina
+Richard Hiromana,CB,R,25,SOL,8,false,false,false,tackling,marking
+Junior Aengari,MF,L,22,SOL,3,true,false,false,finishing,passing
+Tigi Molea,MF,R,29,SOL,4,true,false,false,finishing,passing
+Loea Taisara,MF,R,33,SOL,5,true,false,false,marking,finishing
+John Alick,MF,L,31,VAN,4,true,false,false,tackling,finishing
+Albert Witney,MF,R,24,SOL,5,false,false,false,tackling,marking
+Roland Mamanika,MF,R,34,SOL,3,false,false,false,finishing,passing
+Molis Gagame,MF,R,32,SOL,5,false,false,false,finishing,passing
+Lency Norman,MF,R,29,SOL,3,false,false,false,playmaking,finishing
+Judd Molea,MF,L,33,SOL,6,false,false,false,tackling,finishing
+Jerry Donga,FW,L,31,SOL,3,true,false,false,heading,pace
+Dennis Ifunaoa,FW,R,30,SOL,6,true,false,false,dribbling,finishing
+Gibson Daudau,FW,R,33,SOL,2,false,false,false,dribbling,playmaking
+Benjamin Totori,FW,R,36,SOL,7,false,false,false,finishing,dribbling

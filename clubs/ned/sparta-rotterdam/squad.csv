@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Patrick Van Aanholt,FB,L,36,NED,4,false,false,false,pace,dribbling
+Jens Toornstra,MF,R,37,NED,5,false,false,false,stamina,playmaking
+Joshua Kitolano,MF,R,25,NOR,6,true,false,false,stamina,passing
+Pelle Clement,MF,L,30,NED,7,false,false,false,stamina,pace
+Said Bakari,FB,R,31,NED,2,true,false,false,stamina,pace
+Jonathan De Guzman,MF,R,38,NED,5,false,false,false,crossing,dribbling
+Julian Baas,MF,R,24,NED,6,true,false,false,stamina,crossing
+Shurandy Sambo,FB,R,25,CUW,7,true,false,false,pace,stamina
+Mike Kleijn,FB,L,21,NED,3,false,false,false,passing,playmaking
+Lance Duijvestijn,MF,R,27,NED,5,true,false,false,stamina,dribbling
+Tobias Lauritsen,FW,R,29,NOR,7,true,false,false,heading,finishing
+Sayfallah Ltaief,FW,L,26,TUN,3,false,false,false,pace,stamina
+Mitchell Van Bergen,FW,R,27,NED,5,false,false,false,pace,stamina
+Marvin Young,CB,R,20,NED,6,true,false,false,marking,passing
+Ayoni Santos,MF,R,21,NED,7,true,false,false,pace,passing
+Shunsuke Mito,FW,R,23,JPN,4,false,false,false,stamina,pace
+Ayoub Oufkir,FW,L,20,NED,5,true,false,false,pace,dribbling
+Bruno Martins Indi,CB,L,34,NED,6,false,false,false,marking,heading
+Nokkvi Thorisson,FW,L,27,ISL,7,false,false,false,pace,finishing
+Giannino Vianello,FB,L,19,NED,4,false,false,false,pace,marking
+Teo Quintero,CB,L,27,VEN,5,true,false,false,heading,stamina
+Tijs Velthuis,CB,L,24,NED,6,false,false,false,tackling,marking
+Max De Ligt,CB,R,22,NED,7,false,false,false,stamina,marking
+Joel Drommel,GK,R,29,NED,4,true,false,false,reflexes,penalty-saving
+Filip Bednarek,GK,R,33,POL,5,false,false,false,positioning,reflexes
+Pascal Kuiper,GK,R,22,NED,6,false,false,false,penalty-saving,reflexes

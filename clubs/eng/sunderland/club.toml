@@ -1,0 +1,13 @@
+name = "Sunderland"
+country = "ENG"
+level = 18
+reputation = 4
+colors = ["#201020", "#E01020"]
+
+[stadium]
+name = "Stadium of Light"
+capacity = 48707
+
+[coach]
+name = "Reinildo Geertruida"
+country = "BRA"

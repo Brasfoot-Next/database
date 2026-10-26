@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Reece James,FB,R,26,ENG,6,true,false,false,crossing,tackling
+Enzo Fernandez,MF,L,25,ARG,6,true,false,false,passing,playmaking
+Marc Cucurella,FB,L,28,ESP,8,true,false,false,stamina,tackling
+Moises Caicedo,MF,R,24,ECU,4,true,true,false,stamina,tackling
+Cole Palmer,MF,L,24,ENG,6,true,true,false,playmaking,dribbling
+Andrey Santos,MF,R,22,BRA,6,true,false,false,stamina,passing
+Malo Gusto,FB,R,23,FRA,7,false,false,false,stamina,pace
+Pedro Neto,FW,L,26,POR,9,false,false,false,pace,dribbling
+Romeo Lavia,MF,R,22,BEL,5,false,false,false,passing,tackling
+João Pedro,FW,R,24,BRA,6,true,false,false,dribbling,finishing
+Dário Essugo,MF,R,21,POR,7,false,false,false,pace,tackling
+Raheem Sterling,FW,L,31,ENG,8,false,false,false,dribbling,pace
+Estêvão,FW,L,19,BRA,4,true,false,false,pace,dribbling
+Alejandro Garnacho,MF,R,22,ARG,6,false,false,false,pace,dribbling
+Levi Colwill,CB,L,23,ENG,7,true,false,false,tackling,marking
+Trevoh Chalobah,CB,R,27,ENG,8,true,false,false,tackling,marking
+Jorrel Hato,FB,L,20,NED,5,false,false,false,pace,passing
+Liam Delap,FW,R,23,ENG,6,false,false,false,pace,finishing
+Wesley Fofana,CB,R,25,FRA,7,false,false,false,tackling,marking
+Josh Acheampong,FB,R,20,ENG,8,false,false,false,pace,dribbling
+Jamie Gittens,FW,L,22,ENG,6,false,false,false,pace,dribbling
+Tosin Adarabioyo,CB,L,28,ENG,7,false,false,false,tackling,marking
+Facundo Buonanotte,FW,L,21,ARG,1,false,false,false,passing,playmaking
+Benoit Badiashile,CB,L,25,FRA,6,false,false,false,tackling,marking
+Tyrique George,FW,L,20,ENG,6,false,false,false,pace,dribbling
+Marc Guiu,FW,R,20,ESP,8,false,false,false,pace,finishing
+Axel Disasi,CB,R,28,FRA,2,false,false,false,heading,tackling
+Robert Sánchez,GK,R,28,ESP,6,true,false,false,reflexes,penalty-saving
+Filip Jorgensen,GK,R,24,DEN,6,false,false,false,reflexes,positioning
+Gabriel Slonina,GK,R,22,USA,8,false,false,false,reflexes,penalty-saving

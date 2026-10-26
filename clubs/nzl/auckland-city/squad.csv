@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Conor Tracey,GK,L,25,NZL,4,true,false,false,positioning,penalty-saving
+Cameron Brown,GK,R,23,NZL,9,false,false,false,reflexes,positioning
+Danyon Drake,GK,R,28,NZL,6,false,false,false,rushing-out,penalty-saving
+Alfie Rogers,FB,L,27,NZL,9,true,false,false,crossing,pace
+Nathan Lobo,FB,R,19,NZL,9,true,false,false,marking,pace
+Adam Bell,FB,L,18,NZL,1,false,false,false,crossing,pace
+Takuya Iwata,FB,R,39,JPN,5,false,false,false,finishing,passing
+Brian Kaltack,CB,L,28,VAN,7,false,false,false,heading,stamina
+Adam Mitchell,CB,R,26,NZL,3,true,false,false,tackling,marking
+Ángel Berlanga,CB,R,35,ESP,9,false,false,false,tackling,stamina
+Sam Brotherton,CB,L,25,NZL,8,true,false,false,tackling,heading
+Howieson,MF,R,27,NZL,7,true,false,false,playmaking,finishing
+Jordan Vale,MF,L,28,NZL,6,true,false,false,finishing,passing
+Mario Ilich,MF,L,27,NZL,7,true,false,false,marking,passing
+Matthew Ellis,MF,R,21,NZL,4,false,false,false,finishing,passing
+Ilham Hameedi,MF,L,19,NZL,5,false,false,false,playmaking,pace
+Reid Drake,MF,R,26,NZL,6,true,false,false,marking,finishing
+Aidan Carey,MF,R,21,NZL,4,false,false,false,passing,stamina
+Gerard Garriga,MF,L,29,ESP,9,false,false,false,tackling,heading
+Dylan Manickum,FW,L,30,NZL,10,false,false,false,pace,finishing
+Emiliano Tade,FW,R,34,ARG,5,false,false,false,finishing,stamina
+Joseph Lee,FW,L,20,NZL,5,true,false,false,pace,finishing
+Angus Kilkolly,FW,R,26,NZL,3,true,false,false,finishing,dribbling

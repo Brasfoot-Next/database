@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Marcelo Carné,GK,R,36,BRA,1,false,false,false,rushing-out,reflexes
+João Carlos,GK,R,38,BRA,5,false,false,false,positioning,rushing-out
+Jean,GK,L,25,BRA,6,true,false,false,reflexes,positioning
+Pedro Mello,GK,L,20,BRA,8,false,false,false,rushing-out,positioning
+João Basso,CB,R,29,BRA,4,true,false,false,tackling,pace
+Alan Empereur,CB,L,32,BRA,6,true,false,false,tackling,heading
+Vitor Mendes,CB,R,27,BRA,7,false,false,false,tackling,marking
+Luis Soares,CB,R,21,BRA,10,false,false,false,marking,stamina
+Marlon,FB,R,31,BRA,5,false,false,false,heading,tackling
+Eric,FB,R,25,BRA,6,true,false,false,dribbling,pace
+Lorenzo,FB,R,19,BRA,7,false,false,false,stamina,crossing
+Tarcísio,FB,L,22,BRA,3,false,false,false,crossing,pace
+Railan,FB,R,26,BRA,5,true,false,false,stamina,pace
+Raul,MF,R,30,BRA,6,true,false,false,playmaking,dribbling
+Calebe Costa,MF,R,23,BRA,7,false,false,false,playmaking,finishing
+Luiz Otávio,MF,R,29,BRA,3,true,false,false,stamina,passing
+Weverson,MF,R,22,BRA,5,true,false,false,dribbling,pace
+Wesley Dias,MF,R,31,BRA,6,false,false,false,passing,playmaking
+João Araújo,MF,R,21,BRA,7,false,false,false,tackling,marking
+Pepê,MF,R,28,BRA,3,true,false,false,pace,dribbling
+David Miguel,MF,R,19,BRA,7,false,false,false,finishing,passing
+Marcos Júnior,MF,R,33,BRA,1,false,false,false,playmaking,passing
+Eliel,FW,R,23,BRA,5,false,false,false,finishing,pace
+Kauan Cristtyan,FW,L,20,BRA,5,false,false,false,pace,crossing
+Gabriel Mineiro,FW,L,21,BRA,7,false,false,false,dribbling,pace
+Victor Barbara,FW,L,21,BRA,1,false,false,false,crossing,pace
+Mateus Santos,FW,R,27,BRA,5,false,false,false,dribbling,playmaking
+Jadson,FW,R,20,BRA,6,true,false,false,dribbling,pace
+Jean Dias,FW,R,35,BRA,7,false,false,false,dribbling,playmaking
+Derik Lacerda,FW,R,26,BRA,2,true,false,false,heading,pace
+Pedro Henrique,FW,R,29,BRA,7,false,false,false,pace,heading
+Rodrigo Rodrigues,FW,R,26,BRA,3,false,false,false,dribbling,pace
+Vinicius Peixoto,FW,R,22,BRA,4,false,false,false,heading,finishing
+Nathan Cruz,FW,R,19,BRA,5,false,false,false,pace,finishing

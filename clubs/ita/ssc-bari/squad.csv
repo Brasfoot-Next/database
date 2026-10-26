@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gaetano Castrovilli,MF,R,29,ITA,5,true,false,false,dribbling,passing
+Matthias Braunoder,MF,R,24,AUT,6,true,false,false,stamina,pace
+Anthony Partipilo,FW,L,31,ITA,8,false,false,false,pace,stamina
+Giulio Maggiore,MF,R,28,ITA,4,true,false,false,stamina,playmaking
+Mirko Antonucci,FW,R,27,ITA,5,false,false,false,pace,dribbling
+Gaston Pereiro,FW,L,31,URU,6,true,false,false,pace,playmaking
+Giuseppe Sibilli,FW,L,30,ITA,8,false,false,false,pace,stamina
+Mehdi Dorval,FB,L,25,ALG,5,true,false,false,stamina,pace
+Nicola Bellomo,MF,R,35,ITA,6,false,false,false,playmaking,passing
+Lorenzo Dickmann,FB,R,29,ITA,6,true,false,false,stamina,tackling
+Raffaele Pucino,CB,R,35,ITA,5,false,false,false,stamina,pace
+Gabriele Moncini,FW,R,30,ITA,6,false,false,false,pace,stamina
+Ebrima Darboe,MF,R,25,GAM,2,false,false,false,stamina,passing
+Matthias Verreth,MF,R,28,BEL,5,true,false,false,stamina,dribbling
+Christian Gytkjaer,FW,R,36,DEN,6,true,false,false,heading,finishing
+Emanuele Rao,FW,L,20,ITA,7,false,false,false,pace,dribbling
+Riccardo Pagano,MF,L,21,ITA,3,false,false,false,passing,playmaking
+Moussa Mane,FB,R,22,ITA,5,false,false,false,pace,stamina
+Leonardo Cerri,FW,R,23,ITA,6,false,false,false,heading,finishing
+Andrea Meroni,CB,R,29,ITA,7,true,false,false,stamina,marking
+Dimitrios Nikolaou,CB,L,28,GRE,5,true,false,false,marking,tackling
+Vincenzo Colangiuli,MF,L,21,ITA,6,false,false,false,finishing,passing
+Riccardo Burgio,FB,L,25,ITA,7,false,false,false,tackling,marking
+Hemsley Akpa Chukwu,FW,R,21,CMR,4,false,false,false,finishing,heading
+Francesco Vicari,CB,R,32,ITA,6,false,false,false,heading,tackling
+Sheriff Kassama,CB,R,21,ITA,6,false,false,false,marking,heading
+Michele Cerofolini,GK,R,27,ITA,10,true,false,false,reflexes,penalty-saving
+Marco Pissardo,GK,R,28,ITA,5,false,false,false,reflexes,rushing-out
+Davide Marfella,GK,R,26,ITA,6,false,false,false,positioning,reflexes

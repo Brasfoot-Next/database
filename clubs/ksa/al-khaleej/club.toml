@@ -1,0 +1,13 @@
+name = "Al Khaleej"
+country = "KSA"
+level = 14
+reputation = 3
+colors = ["#002010", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Dimitrios Hawsawi"
+country = "BRA"

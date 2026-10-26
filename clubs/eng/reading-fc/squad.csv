@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lewis Wing,MF,R,31,ENG,1,true,false,false,stamina,playmaking
+Matt Ritchie,FW,L,36,SCO,5,false,false,false,crossing,playmaking
+Charlie Savage,MF,L,23,WAL,6,true,false,false,stamina,crossing
+Andy Yiadom,FB,R,34,GHA,7,false,false,false,pace,stamina
+Andre Garcia,FB,L,18,ENG,2,false,false,false,pace,dribbling
+Paddy Lane,FW,L,25,NIR,5,true,false,false,pace,stamina
+Ben Elliott,MF,R,23,CMR,6,false,false,false,dribbling,passing
+Tivonge Rushesha,MF,R,24,ZIM,7,true,false,false,pace,tackling
+Daniel Kyerewaa,FW,R,25,GER,2,false,false,false,pace,dribbling
+Derrick Williams,CB,L,33,IRL,4,false,false,false,stamina,passing
+Kelvin Abrefa,FB,R,22,GHA,5,false,false,false,pace,stamina
+Kamari Doyle,MF,R,21,ENG,6,false,false,false,pace,dribbling
+Matty Jacob,FB,L,25,ENG,8,true,false,false,stamina,pace
+Kelvin Ehibhatiomhan,FW,L,23,ENG,4,false,false,false,pace,dribbling
+Mark Omahony,FW,R,21,IRL,6,false,false,false,pace,finishing
+Finley Burns,CB,R,23,ENG,7,true,false,false,stamina,passing
+Jack Marriott,FW,R,31,ENG,10,false,false,false,pace,finishing
+Liam Fraser,MF,R,28,CAN,5,true,false,false,passing,heading
+Mamadi Camará,FW,L,22,GNB,5,false,false,false,stamina,pace
+Jeriel Dorsett,FB,L,24,MSR,6,true,false,false,pace,stamina
+Basil Tuma,FW,R,21,MLT,5,true,false,false,pace,dribbling
+Tyler Sackey,MF,R,19,ENG,6,false,false,false,pace,passing
+Shay Spencer,MF,R,22,ENG,7,false,false,false,pace,stamina
+Emmanuel Osho,FW,R,19,ENG,4,false,false,false,pace,dribbling
+John Ryan,FB,L,22,IRL,5,false,false,false,pace,crossing
+Jeremiah Okine Peters,FW,R,21,ENG,6,false,false,false,pace,dribbling
+Ashqar Ahmed,FB,R,19,ENG,7,false,false,false,pace,heading
+Paudie Oconnor,CB,R,29,IRL,4,true,false,false,stamina,heading
+Michael Stickland,CB,R,22,ENG,5,false,false,false,pace,heading
+Joel Pereira,GK,R,30,POR,6,true,false,false,reflexes,penalty-saving
+Jack Stevens,GK,R,29,ENG,5,false,false,false,reflexes,penalty-saving

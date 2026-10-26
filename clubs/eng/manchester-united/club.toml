@@ -1,0 +1,13 @@
+name = "Manchester United"
+country = "ENG"
+level = 21
+reputation = 4
+colors = ["#000000", "#FFFFFF"]
+
+[stadium]
+name = "Old Trafford"
+capacity = 74879
+
+[coach]
+name = "Tom Maguire"
+country = "BRA"

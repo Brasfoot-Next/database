@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Anton Saletros,MF,L,30,SWE,2,true,false,false,stamina,passing
+Johan Hove,FW,R,26,NOR,5,true,false,false,stamina,pace
+Mads Dohr Thychosen,FB,R,29,DEN,6,false,false,false,stamina,pace
+Aron Csongvai,MF,L,25,HUN,6,true,false,false,stamina,tackling
+Martin Ellingsen,MF,L,31,NOR,7,false,false,false,passing,marking
+Bersant Celina,FW,L,29,SWE,3,true,false,false,pace,stamina
+Dino Besirovic,MF,R,32,BIH,5,false,false,false,stamina,passing
+Eskil Edh,FB,L,24,NOR,6,true,false,false,pace,stamina
+John Guidetti,FW,R,34,SWE,7,false,false,false,finishing,crossing
+Sotirios Papagiannopoulos,CB,R,36,SWE,4,false,false,false,pace,tackling
+Filip Benkovic,CB,R,29,CRO,5,true,false,false,tackling,heading
+Axel Kouame,MF,R,22,CIV,6,true,false,false,pace,dribbling
+Abdihakim Ali,MF,R,24,SWE,7,false,false,false,stamina,pace
+Andreas Redkin,MF,R,19,SWE,3,false,false,false,stamina,pace
+Victor Goncalves Andersson,FW,L,21,SWE,5,false,false,false,pace,dribbling
+Erik Flataker,FW,R,21,NOR,6,false,false,false,pace,finishing
+Zadok Yohanna,MF,L,19,NGA,7,false,false,false,pace,dribbling
+Yannick Geiger,MF,R,19,SWE,4,true,false,false,pace,playmaking
+Alexander Fesshaie,FW,L,22,SWE,5,false,false,false,pace,dribbling
+Taha Ayari,FW,L,21,SWE,6,false,false,false,pace,dribbling
+Linus Jareteg,FW,L,19,SWE,5,false,false,false,stamina,pace
+Thomas Isherwood,CB,L,28,SWE,6,true,false,false,stamina,heading
+Fredrik Nissen,CB,R,21,SWE,7,false,false,false,pace,marking
+Charlie Pavey,FB,R,18,SWE,2,true,false,false,pace,stamina
+Adrian Helm,FW,L,20,SWE,5,false,false,false,pace,finishing
+Kristoffer Nordfeldt,GK,R,37,SWE,6,false,false,false,positioning,reflexes
+Kalle Joelsson,GK,R,28,SWE,7,true,false,false,reflexes,penalty-saving

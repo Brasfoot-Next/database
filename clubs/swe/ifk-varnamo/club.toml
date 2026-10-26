@@ -1,0 +1,13 @@
+name = "IFK Värnamo"
+country = "SWE"
+level = 8
+reputation = 2
+colors = ["#F0F0F0", "#000000"]
+
+[stadium]
+name = "Finnvedsvallen"
+capacity = 5000
+
+[coach]
+name = "Emin Rapp"
+country = "BRA"

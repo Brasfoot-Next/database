@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jairo Cuéllar,GK,R,26,BOL,5,true,false,false,rushing-out,reflexes
+Aldair Riascos,GK,R,30,PER,6,false,false,false,positioning,rushing-out
+Santiago Delgadillo,GK,R,21,BOL,6,false,false,false,penalty-saving,reflexes
+Fabio Zamora,CB,R,19,BOL,10,false,false,false,marking,stamina
+Augusto Seimandi,CB,L,31,ARG,5,false,false,false,passing,marking
+Sebastián Reyes,CB,R,29,BOL,6,false,false,false,marking,tackling
+Sebastián Claure,CB,R,26,BOL,7,true,false,false,marking,passing
+Denilson Gutiérrez,CB,R,27,BOL,4,true,false,false,tackling,pace
+Jean Riascos,CB,R,34,ECU,5,false,false,false,heading,marking
+Zinedinne La Fuente,CB,R,21,BOL,6,false,false,false,passing,marking
+Denilson Valda,FB,R,29,BOL,4,true,false,false,tackling,pace
+Carlos Jemio,FB,L,29,BOL,5,true,false,false,pace,crossing
+Marco Salazar,MF,R,21,BOL,7,true,false,false,tackling,marking
+Layonel Figueroa,MF,R,27,BOL,9,true,false,false,dribbling,playmaking
+Adriel Guillermo,MF,R,18,BOL,4,false,false,false,stamina,tackling
+Andres Guillermo,MF,R,19,BOL,6,false,false,false,playmaking,finishing
+Alejandro Chumacero,MF,R,35,BOL,7,false,false,false,dribbling,playmaking
+Alejandro Bejarano,MF,R,28,BOL,1,true,false,false,marking,passing
+Rodderyck Perozo,MF,L,32,VEN,5,true,false,false,pace,crossing
+Freddy Abastoflor,FW,R,33,BOL,6,false,false,false,pace,dribbling
+Emanuel Paniagua,FW,R,20,BOL,5,false,false,false,finishing,heading
+Alejandro Camacho,FW,R,17,BOL,6,false,false,false,pace,dribbling
+Juan Fajardo,FW,R,30,COL,7,true,false,false,dribbling,playmaking
+Jair Catuy,FW,L,34,PAN,4,false,false,false,finishing,dribbling
+Jairo Rojas,FW,R,20,BOL,5,false,false,false,finishing,stamina
+Bryan Espinoza,FW,R,23,BOL,6,true,false,false,finishing,stamina

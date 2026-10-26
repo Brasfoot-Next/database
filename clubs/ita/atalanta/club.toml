@@ -1,0 +1,13 @@
+name = "Atalanta"
+country = "ITA"
+level = 20
+reputation = 4
+colors = ["#F0F0F0", "#0060B0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Giorgio Kossounou"
+country = "BRA"

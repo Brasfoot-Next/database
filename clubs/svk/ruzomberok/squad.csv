@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ivan Krajcirik,GK,L,22,SVK,6,true,false,false,reflexes,positioning
+Tomas Fruhwald,GK,L,19,SVK,2,false,false,false,positioning,rushing-out
+Alexander Mojzis,FB,L,23,SVK,2,true,false,false,marking,pace
+Matej Madlenak,FB,R,23,SVK,4,true,false,false,marking,passing
+Lukas Fabis,FB,R,24,SVK,7,false,false,false,crossing,pace
+Alexander Selecky,FB,L,19,SVK,6,false,false,false,crossing,pace
+Jan Maslo,CB,R,36,SVK,3,true,false,false,heading,stamina
+Mario Mrva,CB,L,23,SVK,10,false,false,false,heading,stamina
+Jakub Luka,CB,R,18,SVK,10,false,false,false,heading,stamina
+Marek Zsigmund,MF,L,25,SVK,2,false,false,false,playmaking,finishing
+Matej Kochan,MF,R,29,SVK,3,true,false,false,passing,tackling
+Kristof Domonkos,MF,R,23,SVK,10,true,false,false,playmaking,finishing
+Adrian Macejko,MF,R,19,SVK,9,false,false,false,finishing,passing
+Oliver Luteran,MF,L,20,SVK,6,true,false,false,tackling,marking
+Filip Lichy,MF,R,21,SVK,10,true,false,false,tackling,marking
+Stefan Gerec,FW,R,29,SVK,6,true,false,false,playmaking,finishing
+Martin Regali,FW,L,28,SVK,2,true,false,false,finishing,pace
+Martin Boda,FW,R,25,SVK,8,false,false,false,finishing,pace
+Matus Maly,CB,L,21,SVK,10,true,false,false,tackling,marking
+Michal Dopater,MF,L,21,SVK,9,false,false,false,passing,finishing
+Tomas Bobcek,FW,L,20,SVK,7,false,false,false,heading,pace
+Gabriel Halabrin,MF,L,19,SVK,1,false,false,false,tackling,marking

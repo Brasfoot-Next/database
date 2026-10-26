@@ -1,0 +1,13 @@
+name = "TSV Hartberg"
+country = "AUT"
+level = 9
+reputation = 2
+colors = ["#F0F0F0", "#0090D0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Fabian Hardley"
+country = "BRA"

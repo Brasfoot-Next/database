@@ -1,0 +1,13 @@
+name = "Juventus"
+country = "ITA"
+level = 21
+reputation = 4
+colors = ["#000000", "#FFFFFF"]
+
+[stadium]
+name = "Allianz Stadium"
+capacity = 41507
+
+[coach]
+name = "Weston Cabal"
+country = "BRA"

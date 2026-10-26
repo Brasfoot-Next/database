@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Przemyslaw Frankowski,FB,R,31,POL,6,false,false,false,pace,stamina
+Seko Fofana,MF,L,31,CIV,7,true,false,false,passing,playmaking
+Ludovic Blas,FW,L,28,FRA,8,false,false,false,dribbling,passing
+Mahdi Camara,MF,R,28,FRA,4,true,false,false,passing,stamina
+Valentin Rongier,MF,R,31,FRA,6,true,false,false,passing,stamina
+Quentin Merlin,FB,L,24,FRA,7,true,false,false,crossing,tackling
+Hans Hateboer,CB,R,32,NED,8,false,false,false,heading,tackling
+Breel Embolo,FW,R,29,SUI,5,true,false,false,pace,heading
+Glen Kamara,MF,R,30,FIN,6,false,false,false,stamina,passing
+Musa Al Tamari,FW,L,29,FRA,7,false,false,false,pace,dribbling
+Djaoui Cisse,MF,R,22,FRA,6,true,false,false,dribbling,passing
+Esteban Lepaul,FW,L,26,FRA,8,true,false,false,stamina,finishing
+Lilian Brassier,CB,L,26,FRA,4,true,false,false,tackling,heading
+Alidu Seidu,CB,R,26,GHA,6,false,false,false,marking,tackling
+Mahamadou Nagida,FB,L,21,CMR,7,true,false,false,pace,tackling
+Anthony Rouault,CB,L,25,FRA,4,false,false,false,tackling,marking
+Jeremy Jacquet,CB,R,21,FRA,6,true,false,false,tackling,heading
+Mohamed Kader Meite,FW,R,18,FRA,6,false,false,false,heading,finishing
+Abdelhamid Ait Boudlal,CB,R,20,MAR,8,false,false,false,pace,heading
+Brice Samba,GK,L,32,FRA,4,true,false,false,positioning,rushing-out
+Gauthier Gallon,GK,R,33,FRA,6,false,false,false,reflexes,penalty-saving

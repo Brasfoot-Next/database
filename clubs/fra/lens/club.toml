@@ -1,0 +1,13 @@
+name = "Lens"
+country = "FRA"
+level = 16
+reputation = 3
+colors = ["#F0F000", "#F01010"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Ruben Ojediran"
+country = "BRA"

@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mats Rits,MF,R,33,BEL,8,false,false,false,stamina,marking
+Ludwig Augustinsson,FB,L,32,SWE,5,false,false,false,stamina,crossing
+Thorgan Hazard,MF,R,33,BEL,6,false,false,false,dribbling,stamina
+Cesar Huerta,FW,L,25,MEX,7,false,false,false,pace,dribbling
+Thomas Foket,FB,R,31,BEL,8,false,false,false,stamina,marking
+Majeed Ashimeru,MF,R,28,GHA,6,false,false,false,passing,dribbling
+Mario Stroeykens,MF,R,21,BEL,7,true,false,false,passing,dribbling
+Adriano Bertaccini,FW,R,26,BEL,7,false,false,false,pace,dribbling
+Enric Llansana Beuse,MF,L,25,NED,5,false,false,false,stamina,tackling
+Ilay Camara,FB,L,23,SEN,6,true,false,false,stamina,dribbling
+Yari Verschaeren,MF,R,25,BEL,6,true,false,false,dribbling,passing
+Nathan Dylan Saliba,MF,R,22,CAN,6,true,false,false,stamina,passing
+Killian Sardella,FB,R,24,BEL,7,false,false,false,stamina,crossing
+Alexis Flips,FW,L,26,FRA,4,false,false,false,playmaking,dribbling
+Yasin Ozcan,CB,L,20,TUR,6,true,false,false,pace,tackling
+Luis Vazquez,FW,R,25,ARG,6,false,false,false,heading,stamina
+Mihajlo Cvetkovic,FW,R,19,SRB,7,true,false,false,passing,pace
+Moussa Ndiaye,FB,L,24,SEN,4,true,false,false,pace,dribbling
+Lucas Hey,CB,R,23,DEN,6,false,false,false,passing,stamina
+Marco Kana,CB,L,24,BEL,6,true,false,false,passing,pace
+Cedric Hatenboer,MF,R,21,NED,5,false,false,false,passing,playmaking
+Nilson Angulo,FW,L,23,ECU,6,true,false,false,pace,dribbling
+Nathan De Cat,MF,R,18,BEL,7,true,false,false,stamina,marking
+Tristan Degreef,FW,R,21,BEL,9,false,false,false,dribbling,passing
+Mihajlo Ilic,CB,R,23,SRB,5,false,false,false,tackling,marking
+Anas Tajaouart,MF,R,21,MAR,6,false,false,false,pace,passing
+Ali Maamar,FB,R,21,MAR,7,false,false,false,stamina,tackling
+Elyess Dao,FW,R,19,MAR,10,false,false,false,pace,heading
+Zoumana Keita,CB,R,20,GER,5,false,false,false,tackling,heading
+Colin Coosemans,GK,R,34,BEL,6,true,false,false,reflexes,penalty-saving
+Mads Kikkenborg,GK,R,26,DEN,5,false,false,false,reflexes,positioning
+Timon Vanhoutte,GK,R,22,BEL,6,false,false,false,reflexes,penalty-saving

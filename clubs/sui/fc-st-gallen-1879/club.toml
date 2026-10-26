@@ -1,0 +1,13 @@
+name = "FC St.Gallen 1879"
+country = "SUI"
+level = 12
+reputation = 2
+colors = ["#006030", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Carlo Okoroji"
+country = "BRA"

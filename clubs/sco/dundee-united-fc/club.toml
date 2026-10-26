@@ -1,0 +1,13 @@
+name = "Dundee United FC"
+country = "SCO"
+level = 9
+reputation = 2
+colors = ["#000000", "#F0F0F0"]
+
+[stadium]
+name = "Tannadice Park"
+capacity = 14223
+
+[coach]
+name = "Vicko Sevelj"
+country = "BRA"

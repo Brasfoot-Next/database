@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tozé,MF,R,33,POR,5,true,false,false,stamina,playmaking
+Yoann Barbet,CB,L,33,FRA,6,true,false,false,stamina,heading
+Ibrahim Bayesh,FW,L,26,IRQ,7,false,false,false,stamina,pace
+Mamadou Sylla,FW,R,32,SEN,3,true,false,false,stamina,pace
+Teddy Okou,FW,L,28,FRA,5,true,false,false,pace,stamina
+Ismaila Soro,MF,L,28,CIV,6,true,false,false,stamina,tackling
+Nawaf Al Abed,MF,L,36,KSA,7,false,false,false,playmaking,crossing
+Saud Zaidan,MF,R,26,KSA,3,true,false,false,stamina,tackling
+Yahia Al Shehri,FW,L,36,KSA,5,false,false,false,playmaking,crossing
+Farha Al Shamrani,MF,R,20,KSA,5,false,false,false,pace,dribbling
+Mohammed Al Saeed,FB,L,29,KSA,5,false,false,false,pace,stamina
+Sergio,CB,R,34,ESP,6,false,false,false,heading,tackling
+Thamer Al Dhafeeri,MF,R,20,KSA,7,false,false,false,pace,passing
+Mohammed Sahlouli,MF,L,21,KSA,3,false,false,false,pace,passing
+Nasser Al Bishi,MF,R,24,KSA,5,true,false,false,pace,dribbling
+Rayan Al Bloushi,FW,R,25,KSA,6,false,false,false,pace,stamina
+Majed Al Qahtani,MF,R,21,KSA,7,false,false,false,pace,passing
+Talal Al Shubili,MF,R,21,KSA,3,false,false,false,passing,pace
+Sulaiman Hazazi,FB,L,23,KSA,4,true,false,false,pace,stamina
+Talal Haji,FW,L,18,KSA,5,false,false,false,finishing,heading
+Milan Borjan,GK,R,38,CAN,5,true,false,false,positioning,rushing-out
+Abdulaziz Al Asbahi,MF,R,21,KSA,6,false,false,false,pace,passing
+Sultan Al Essa,FB,R,21,KSA,7,false,false,false,pace,stamina
+Khalil Al Absi,FW,L,25,KSA,1,false,false,false,pace,stamina
+Luca Ramirez,FW,R,20,ARG,5,false,false,false,pace,heading
+Saud Tombakti,CB,R,21,KSA,6,false,false,false,pace,heading
+Osama Al Bawardi,FB,R,27,KSA,7,true,false,false,stamina,tackling
+Khaled Al Asbahi,FW,L,22,KSA,2,false,false,false,pace,dribbling
+Marzouq Tombakti,CB,R,23,KSA,5,false,false,false,stamina,pace
+Mohammed Al Khaibari,CB,R,24,KSA,5,true,false,false,pace,stamina
+Ahmed Khatir,CB,R,21,MAR,4,false,false,false,pace,stamina
+Ammar Al Harfi,FB,R,25,KSA,5,false,false,false,stamina,tackling
+Abdulrahman Al Shammari,GK,R,27,KSA,6,false,false,false,penalty-saving,rushing-out
+Abdulmalek Al Khaibari,GK,R,18,KSA,8,false,false,false,penalty-saving,reflexes

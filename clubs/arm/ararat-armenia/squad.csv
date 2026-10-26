@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Dmitri Abakumov,GK,R,33,RUS,2,false,false,false,positioning,penalty-saving
+Hayk Khachatryan,GK,L,17,ARM,10,false,false,false,positioning,penalty-saving
+Vsevolod Ermakov,GK,L,26,RUS,1,true,false,false,positioning,rushing-out
+Alemão,FB,R,28,BRA,9,true,false,false,stamina,pace
+David Terteryan,FB,L,24,ARM,10,false,false,false,marking,finishing
+Arman Hovhannisyan,FB,L,29,ARM,6,true,false,false,marking,finishing
+Hakob Hakobyan,FB,R,25,ARM,9,false,false,false,marking,passing
+Junior Julio,CB,R,25,COL,9,true,false,false,heading,stamina
+Romércio,CB,L,25,BRA,4,true,false,false,tackling,marking
+Milos Stamenkovic,CB,R,32,SRB,7,false,false,false,tackling,heading
+Styopa Mkrtchyan,CB,L,19,ARM,8,false,false,false,tackling,stamina
+Armen Ambartsumyan,MF,L,28,ARM,1,false,false,false,marking,passing
+Wbeymar Angulo,MF,L,30,ARM,9,false,false,false,tackling,marking
+Mailson Lima,MF,L,28,CPV,9,true,false,false,tackling,marking
+Artem Avanesyan,MF,R,23,ARM,8,true,false,false,passing,finishing
+Alwyn Tera,MF,R,25,KEN,8,true,false,false,marking,finishing
+Karen Muradyan,MF,L,29,ARM,7,true,false,false,tackling,marking
+Wilfried Eza,FW,L,25,CIV,7,false,false,false,pace,finishing
+Hugo Firmino,FW,R,33,POR,9,true,false,false,finishing,pace
+Agdon,FW,L,29,BRA,1,true,false,false,heading,pace
+Jonathan Duarte,FW,R,25,COL,2,false,false,false,finishing,dribbling

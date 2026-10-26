@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tórdur Thomsen,GK,R,36,FRO,4,true,false,false,positioning,penalty-saving
+Karstin Hansen,GK,L,24,FRO,2,false,false,false,rushing-out,penalty-saving
+Paetur Hentze,FB,R,22,FRO,3,true,false,false,finishing,passing
+Aron Höj,FB,L,20,FRO,10,false,false,false,marking,finishing
+Einar Tróndargjógv,FB,L,34,FRO,6,true,false,false,finishing,passing
+Lukas Giessing,FB,R,22,FRO,6,false,false,false,finishing,pace
+Oddur Höjgaard,CB,R,32,FRO,2,true,false,false,heading,stamina
+Meinhard Geyti,CB,L,21,FRO,6,true,false,false,tackling,stamina
+Atli Petersen,CB,R,21,FRO,2,false,false,false,heading,stamina
+Davidsen,CB,L,24,FRO,2,false,false,false,heading,stamina
+Sölvi Sigvardsen,MF,R,21,FRO,7,false,false,false,playmaking,passing
+Mortensen,MF,L,23,FRO,7,true,false,false,tackling,marking
+Búi Egilsson,MF,R,26,FRO,2,true,false,false,playmaking,finishing
+Betuel Hansen,MF,R,25,FRO,9,true,false,false,marking,finishing
+Aron Knudsen,MF,R,22,FRO,8,false,false,false,finishing,playmaking
+Beinir Nolsøe,MF,R,19,FRO,9,true,false,false,marking,passing
+Meinhard Janusarson,FW,R,19,FRO,6,false,false,false,finishing,dribbling
+Klaemint Olsen,FW,R,32,FRO,10,true,false,false,pace,finishing
+Jógvan Höjgaard,FW,L,21,FRO,10,true,false,false,dribbling,finishing
+Yegor Korytskyi,FW,R,21,UKR,1,false,false,false,heading,pace

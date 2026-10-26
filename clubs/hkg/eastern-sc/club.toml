@@ -1,0 +1,13 @@
+name = "Eastern SC"
+country = "HKG"
+level = 14
+reputation = 3
+colors = ["#3399ff", "#000000"]
+
+[stadium]
+name = "Mong Kok"
+capacity = 6664
+
+[coach]
+name = "Roberto Losada"
+country = "HKG"

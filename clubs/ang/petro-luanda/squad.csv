@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Élber,GK,R,31,ANG,4,true,false,false,rushing-out,penalty-saving
+Gerson,GK,L,34,ANG,3,false,false,false,positioning,penalty-saving
+Mualucano,GK,R,24,ANG,2,false,false,false,penalty-saving,reflexes
+Tô Carneiro,FB,L,26,ANG,4,true,false,false,marking,finishing
+Diógenes João,FB,R,25,ANG,4,true,false,false,marking,pace
+Eddie Afonso,FB,L,28,ANG,7,false,false,false,finishing,pace
+Pedro Francisco,FB,R,17,ANG,8,false,false,false,crossing,marking
+Wilson,CB,L,31,ANG,5,true,false,false,tackling,stamina
+Musah Inusah,CB,R,28,GHA,2,true,false,false,marking,pace
+Pedro Pinto,CB,L,27,POR,6,false,false,false,marking,pace
+Vidinho,CB,R,24,ANG,3,false,false,false,heading,stamina
+Dany Satonho,MF,L,32,ANG,6,true,false,false,passing,finishing
+Megue,MF,L,25,ANG,2,true,false,false,finishing,playmaking
+Além,MF,L,24,ANG,7,true,false,false,tackling,marking
+Ito,MF,R,27,ANG,5,true,false,false,marking,pace
+Joaquim Adão,MF,L,30,ANG,4,false,false,false,tackling,marking
+Maranata Vunge,MF,L,22,ANG,6,false,false,false,playmaking,finishing
+William Soares,MF,R,33,BRA,8,false,false,false,tackling,heading
+Job,FW,R,34,ANG,5,true,false,false,dribbling,finishing
+Isaac Mensah,FW,R,26,GHA,9,true,false,false,finishing,pace
+Tiago Azulão,FW,R,34,BRA,8,false,false,false,finishing,dribbling
+Anderson Cruz,FW,L,26,ANG,8,false,false,false,finishing,pace

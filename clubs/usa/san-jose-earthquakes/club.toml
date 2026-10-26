@@ -1,0 +1,13 @@
+name = "San Jose Earthquakes"
+country = "USA"
+level = 13
+reputation = 3
+colors = ["#101010", "#FFFFFF"]
+
+[stadium]
+name = "PayPal Park"
+capacity = 18000
+
+[coach]
+name = "Rodrigues Wilson"
+country = "BRA"

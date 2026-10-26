@@ -1,0 +1,13 @@
+name = "Europa FC"
+country = "GIB"
+level = 13
+reputation = 2
+colors = ["#009966", "#000000"]
+
+[stadium]
+name = "Victoria"
+capacity = 5000
+
+[coach]
+name = "Moisés Arteaga"
+country = "ESP"

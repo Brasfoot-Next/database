@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Luke Leahy,MF,L,33,ENG,5,true,false,false,stamina,pace
+Taylor Allen,CB,L,26,ENG,6,true,false,false,stamina,pace
+Josh Scowen,MF,R,33,ENG,8,false,false,false,stamina,playmaking
+George Abbott,MF,R,21,ENG,4,false,false,false,stamina,pace
+Fred Onyedinma,FW,R,29,NGA,5,false,false,false,pace,dribbling
+Niall Huggins,FB,L,25,WAL,6,true,false,false,pace,dribbling
+Caolan Boyd Munce,MF,L,26,NIR,8,true,false,false,stamina,tackling
+Jack Grimmer,FB,R,32,SCO,5,false,false,false,stamina,pace
+James Tilley,FW,L,28,ENG,6,true,false,false,stamina,pace
+Magnus Westergaard,MF,R,28,DEN,6,true,false,false,stamina,pace
+Daniel Harvie,FB,L,28,SCO,6,true,false,false,stamina,pace
+Armando Quitirna,FW,L,26,GNB,7,false,false,false,pace,stamina
+Cauley Woodrow,FW,R,31,ENG,3,false,false,false,finishing,dribbling
+Anders Hagelskjaer,CB,L,29,DEN,5,false,false,false,heading,tackling
+Ewan Henderson,MF,R,26,SCO,6,true,false,false,playmaking,passing
+Sam Bell,FW,L,24,ENG,7,false,false,false,pace,dribbling
+Alex Lowry,FW,L,23,SCO,5,false,false,false,dribbling,playmaking
+Bradley Fink,FW,L,23,SUI,6,false,false,false,pace,heading
+Fin Back,FB,R,23,ENG,7,false,false,false,stamina,pace
+Donnell Mcneilly,FW,R,20,ENG,1,false,false,false,pace,finishing
+Dan Casey,CB,R,28,IRL,5,true,false,false,heading,stamina
+Jamie Mullins,MF,R,21,IRL,6,false,false,false,pace,dribbling
+Connor Taylor,CB,R,24,ENG,9,false,false,false,stamina,tackling
+Declan Skura,CB,R,24,ENG,5,false,false,false,pace,tackling
+Jaiden Bartolo,FW,R,20,GIB,6,true,false,false,pace,finishing
+Will Norris,GK,L,33,ENG,7,false,false,false,reflexes,penalty-saving
+Stuart Moore,GK,R,32,ENG,1,false,false,false,reflexes,penalty-saving
+Mikki Van Sas,GK,R,22,NED,2,true,false,false,rushing-out,penalty-saving

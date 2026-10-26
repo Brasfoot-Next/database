@@ -1,0 +1,13 @@
+name = "SC Paderborn 07"
+country = "GER"
+level = 12
+reputation = 2
+colors = ["#F0F0F0", "#0050A0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Kerem Pruhs"
+country = "BRA"

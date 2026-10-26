@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Niklas Odegard,MF,R,22,NOR,5,false,false,false,stamina,pace
+Henry Sletsjoe,MF,R,26,SWE,6,true,false,false,stamina,pace
+Ian Hoffmann,FB,R,25,USA,7,true,false,false,pace,stamina
+Mikkel Rakneberg,FB,L,24,NOR,4,false,false,false,pace,tackling
+Alioune Ndour,FW,R,28,SEN,5,false,false,false,pace,stamina
+Rezan Corlu,MF,L,29,DEN,6,true,false,false,pace,playmaking
+Wilfred George Igor,MF,R,21,NGA,7,true,false,false,stamina,passing
+Syver Skeide,MF,R,22,NOR,4,true,false,false,passing,pace
+David Tufekcic,FW,L,22,NOR,5,true,false,false,pace,passing
+Haakon Haugen,FB,R,19,NOR,6,false,false,false,pace,crossing
+Axel Kryger,MF,R,28,NOR,6,false,false,false,stamina,pace
+Frederik Flex,FB,L,22,DEN,7,true,false,false,pace,stamina
+Andreas Bakeng Rogne,MF,R,21,NOR,4,false,false,false,pace,passing
+Adrian Kurd Ronning,MF,R,20,NOR,5,false,false,false,pace,stamina
+Mustapha Isah,FW,R,22,NGA,6,true,false,false,pace,dribbling
+Sander Hestetun Kilen,FW,L,21,NOR,7,false,false,false,pace,dribbling
+Dan Peter Ulvestad,CB,L,37,NOR,1,false,false,false,stamina,marking
+Anders Borset,CB,L,20,NOR,5,false,false,false,pace,tackling
+Max Williamsen,CB,R,23,NOR,6,true,false,false,marking,tackling
+Herman Sjavik Opsahl,MF,R,18,NOR,7,false,false,false,pace,passing
+Marius Olsen,CB,R,25,NOR,6,true,false,false,pace,stamina
+Igor Jelicic,CB,R,26,SRB,7,false,false,false,pace,stamina
+Marius Weidel,FW,R,21,NOR,3,false,false,false,pace,finishing
+Leander Naess Alvheim,FW,R,21,NOR,5,false,false,false,pace,finishing
+Axel Guessand,CB,L,21,FRA,6,false,false,false,tackling,pace
+Michael Lansing,GK,R,32,USA,7,true,false,false,rushing-out,positioning
+Knut Andre Skjaerstein,GK,L,31,NOR,3,false,false,false,reflexes,penalty-saving
+Adrian Saether,GK,R,25,NOR,4,false,false,false,penalty-saving,positioning
+Sander Rod,GK,R,21,NOR,5,false,false,false,positioning,rushing-out

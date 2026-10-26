@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Javier Cruz,GK,R,20,PAN,5,true,false,false,positioning,reflexes
+Mario Marcelin,GK,L,17,PAN,4,false,false,false,rushing-out,penalty-saving
+Carlos Prado,FB,R,19,PAN,8,true,false,false,passing,crossing
+Oscar Rodela,FB,L,16,PAN,8,false,false,false,crossing,tackling
+Jiovany Ramos,FB,R,17,PAN,2,false,false,false,pace,crossing
+Ricardo Aceija,CB,L,17,PAN,10,false,false,false,marking,stamina
+Ángel Valverde,CB,R,19,PAN,7,true,false,false,tackling,heading
+Andres Andrade,CB,L,18,PAN,4,false,false,false,stamina,tackling
+Carlos Agudelo,MF,R,16,PAN,7,false,false,false,playmaking,passing
+Pablo Magallon,MF,L,19,PAN,4,false,false,false,passing,dribbling
+Adan Barreiro,MF,R,19,PAN,8,false,false,false,marking,passing
+Valentin Rodis,MF,L,18,PAN,3,false,false,false,tackling,marking
+Joel Thompson,FW,R,19,PAN,6,true,false,false,pace,finishing
+Adolfo Canosa,FW,L,16,PAN,5,false,false,false,finishing,dribbling
+Alessandro Canales,FW,R,19,PAN,5,true,false,false,heading,finishing

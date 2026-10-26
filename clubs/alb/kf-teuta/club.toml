@@ -1,0 +1,13 @@
+name = "KF Teuta"
+country = "ALB"
+level = 14
+reputation = 2
+colors = ["#00ccff", "#000066"]
+
+[stadium]
+name = "Niko Dovana"
+capacity = 12000
+
+[coach]
+name = "Renato Arapi"
+country = "ALB"

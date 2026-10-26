@@ -1,0 +1,13 @@
+name = "Víkingur Ólafsvík"
+country = "ISL"
+level = 13
+reputation = 1
+colors = ["#3333ff", "#ffffff"]
+
+[stadium]
+name = "Ólafsvíkurvöllur"
+capacity = 1500
+
+[coach]
+name = "Arnar Gunnlaugsson"
+country = "ISL"

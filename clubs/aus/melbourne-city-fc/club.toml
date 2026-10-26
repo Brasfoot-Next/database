@@ -1,0 +1,13 @@
+name = "Melbourne City FC"
+country = "AUS"
+level = 10
+reputation = 2
+colors = ["#C0C0C0", "#000000"]
+
+[stadium]
+name = "AAMI Park"
+capacity = 30050
+
+[coach]
+name = "Medin Shillington"
+country = "BRA"

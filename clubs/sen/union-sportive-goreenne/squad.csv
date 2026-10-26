@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Samba Mballo,GK,R,23,SEN,6,false,false,false,reflexes,positioning
+Mouhamed Fall,GK,R,25,SEN,7,true,false,false,rushing-out,reflexes
+Pape Diagne,GK,L,25,SEN,3,false,false,false,reflexes,rushing-out
+Khalifa Ababacar Ba,CB,R,22,SEN,5,true,false,false,stamina,heading
+Nestor Ndamy,CB,R,21,SEN,6,false,false,false,stamina,heading
+Amadou Bally Mbaye,CB,R,25,SEN,6,true,false,false,stamina,heading
+Stanislas Sarr,FB,L,22,SEN,8,true,false,false,marking,pace
+Mamadou Keita,FB,L,20,SEN,4,true,false,false,passing,crossing
+El Hadji Diop,FB,L,20,SEN,5,false,false,false,stamina,pace
+El Hadji Ndoye,MF,R,25,SEN,6,true,false,false,passing,finishing
+Huchafen Sambou,MF,R,25,SEN,6,true,false,false,pace,dribbling
+Vieux Cissé,MF,R,22,SEN,9,true,false,false,playmaking,dribbling
+Badara Ali Keita,MF,R,25,SEN,4,true,false,false,playmaking,passing
+Pathé Seck,FW,L,25,SEN,5,true,false,false,finishing,dribbling
+Oumar Ba,FW,R,22,SEN,7,false,false,false,dribbling,playmaking
+Ousmane Mbengue,FW,R,35,SEN,1,false,false,false,dribbling,finishing
+Alphousseyni Dabo,FW,L,25,SEN,4,true,false,false,finishing,pace
+Amadou Kébé,FW,R,22,SEN,5,false,false,false,pace,finishing
+Pape Badiane,FW,R,21,SEN,7,false,false,false,finishing,dribbling
+Alassane Diallo,FW,R,37,SEN,1,false,false,false,heading,pace
+Pape Musa Chaw,FW,L,22,SEN,6,false,false,false,dribbling,pace

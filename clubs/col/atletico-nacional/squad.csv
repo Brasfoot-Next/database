@@ -1,0 +1,42 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+David Ospina,GK,R,38,COL,5,false,false,false,positioning,reflexes
+Harlen Castillo,GK,R,33,COL,6,true,false,false,reflexes,positioning
+Luis Marquinez,GK,L,23,COL,7,false,false,false,reflexes,penalty-saving
+Edimer Zea,GK,R,33,COL,9,false,false,false,positioning,penalty-saving
+César Haydar,CB,L,25,COL,4,false,false,false,tackling,marking
+Juan Felipe Aguirre,CB,R,27,COL,6,true,false,false,tackling,heading
+William Tesillo,CB,L,36,COL,6,false,false,false,tackling,heading
+Juan Jose Arias,CB,R,22,COL,7,false,false,false,tackling,marking
+Simón García,CB,R,21,COL,4,false,false,false,stamina,pace
+Royer Caicedo,CB,L,20,COL,6,true,false,false,pace,stamina
+Camilo Cándido,FB,L,31,URU,7,false,false,false,pace,crossing
+Andrés Salazar,FB,L,23,COL,9,false,false,false,stamina,pace
+Andrés Felipe Román,FB,R,30,COL,5,true,false,false,pace,stamina
+Joan Castro,FB,R,29,COL,6,true,false,false,stamina,crossing
+Cristian Uribe,FB,R,18,COL,7,false,false,false,pace,stamina
+Matheus Uribe,MF,R,32,COL,10,false,false,false,marking,passing
+Jorman Campuzano,MF,L,30,COL,5,true,false,false,stamina,tackling
+Sebastián Guzmán,MF,L,26,COL,6,false,false,false,playmaking,passing
+Kilian Toscano,MF,R,22,COL,7,false,false,false,passing,tackling
+Elkin Rivero,MF,R,20,COL,1,false,false,false,passing,pace
+Juan Zapata,MF,R,26,COL,6,true,false,false,pace,stamina
+Luis Miguel Landázuri,MF,L,18,COL,7,false,false,false,stamina,tackling
+Felipe Marín,MF,R,25,COL,5,false,false,false,tackling,passing
+Edwin Cardona,MF,R,33,COL,6,false,false,false,playmaking,crossing
+Juan Bauzá,MF,R,30,ARG,6,false,false,false,pace,stamina
+Juan Torres,MF,R,19,COL,7,true,false,false,stamina,passing
+Juan David Obando,MF,R,19,COL,5,false,false,false,stamina,pace
+Juan Rengifo,MF,L,21,COL,6,true,false,false,pace,stamina
+Marlos Moreno,FW,L,29,COL,6,false,false,false,pace,stamina
+Andrés Sarmiento,FW,L,28,COL,8,false,false,false,finishing,dribbling
+Billy Arce,FW,R,28,ECU,6,false,false,false,pace,dribbling
+Kevin Parra,FW,L,20,COL,7,false,false,false,dribbling,pace
+Andy Batioja,FW,R,17,COL,2,false,false,false,pace,finishing
+Dairon Asprilla,FW,L,34,COL,6,false,false,false,pace,heading
+Marino Hinestroza,FW,R,24,COL,6,true,false,false,pace,dribbling
+Faber Gil,FW,R,31,COL,7,false,false,false,pace,dribbling
+Yair Mena,FW,R,23,COL,4,false,false,false,dribbling,playmaking
+Juan Rosa,FW,R,19,COL,6,false,false,false,pace,stamina
+Alfredo Morelos,FW,R,30,COL,6,false,false,false,finishing,heading
+Facundo Batista,FW,R,27,URU,7,false,false,false,finishing,heading
+Kevin Viveros,FW,R,23,COL,4,true,false,false,finishing,dribbling

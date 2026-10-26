@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lewis Baker,MF,L,31,ENG,6,true,false,false,stamina,crossing
+Million Manhoef,FW,L,24,NED,7,false,false,false,pace,stamina
+Aaron Cresswell,FB,L,36,ENG,1,true,false,false,crossing,tackling
+Sorba Thomas,FW,L,27,WAL,5,true,false,false,pace,crossing
+Tomas Rigo,MF,R,25,SVK,6,true,false,false,stamina,passing
+Bosun Lawal,CB,R,23,IRL,7,true,false,false,stamina,pace
+Eric Bocat,FB,L,27,FRA,2,true,false,false,pace,stamina
+Tatsuki Seko,MF,R,28,JPN,6,true,false,false,stamina,passing
+Junior Tchamadeu,FB,R,22,CMR,8,false,false,false,stamina,pace
+Robert Bozenik,FW,R,26,SVK,4,false,false,false,pace,finishing
+Steven Nzonzi,MF,R,37,FRA,6,false,false,false,heading,tackling
+Sam Gallagher,FW,R,30,ENG,7,false,false,false,heading,pace
+Ben Pearson,MF,R,31,ENG,3,false,false,false,stamina,tackling
+Bae Jun Ho,MF,R,23,KOR,5,false,false,false,pace,dribbling
+Lamine Cisse,FW,R,23,FRA,6,false,false,false,pace,finishing
+André Vidigal,FW,L,28,ANG,7,false,false,false,pace,dribbling
+Jamie Donley,MF,L,21,NIR,3,true,false,false,playmaking,passing
+Ashley Phillips,CB,R,21,ENG,5,false,false,false,tackling,marking
+Ben Wilmot,CB,L,26,ENG,6,false,false,false,stamina,heading
+Maksym Talovierov,CB,R,26,UKR,7,false,false,false,heading,tackling
+Divin Mubama,FW,L,21,ENG,3,true,false,false,pace,finishing
+Ben Gibson,CB,L,33,ENG,5,true,false,false,heading,marking
+Jaden Dixon,CB,R,19,ENG,6,false,false,false,pace,tackling
+Favour Fawunmi,FW,L,20,ENG,7,false,false,false,pace,dribbling
+Jack Bonham,GK,R,32,IRL,3,false,false,false,penalty-saving,reflexes
+Frank Fielding,GK,R,38,ENG,5,false,false,false,reflexes,positioning
+Viktor Johansson,GK,R,27,SWE,6,true,false,false,reflexes,penalty-saving
+True Grant,GK,R,20,ENG,7,false,false,false,reflexes,penalty-saving

@@ -1,0 +1,13 @@
+name = "Real Valladolid CF"
+country = "ESP"
+level = 13
+reputation = 3
+colors = ["#004020", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Mathis Koke"
+country = "BRA"

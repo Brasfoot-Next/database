@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rafael Delgado,CB,L,36,ARG,4,false,false,false,stamina,pace
+Kevin Gutierrez,MF,R,29,ARG,5,true,false,false,pace,stamina
+Lucas Gonzalez,MF,R,26,ARG,6,false,false,false,playmaking,passing
+Damian Perez,FB,L,37,ARG,7,false,false,false,stamina,pace
+Alexis Soto,FB,L,32,ARG,4,true,false,false,stamina,pace
+Aaron Molinas,MF,R,26,ARG,5,true,false,false,stamina,playmaking
+Nicolas Stefanelli,MF,R,31,ARG,6,false,false,false,stamina,pace
+Abiel Osorio,FW,R,24,ARG,7,true,false,false,pace,stamina
+David Barbona,FW,R,31,ARG,4,false,false,false,pace,playmaking
+Ezequiel Cannavo,FB,R,24,ARG,5,true,false,false,stamina,pace
+Juan Manuel Gutierrez,FW,L,24,URU,1,false,false,false,pace,dribbling
+Cesar Perez,MF,L,23,CHI,5,true,false,false,stamina,dribbling
+Tobias Rubio,FB,R,22,ARG,6,false,false,false,stamina,pace
+Lucas Ferreira,CB,R,26,URU,7,true,false,false,marking,tackling
+Lenny Lobato,FW,L,25,BRA,2,true,false,false,pace,dribbling
+Matias Miranda,MF,L,26,ARG,6,false,false,false,playmaking,pace
+Emanuel Aguilera,CB,R,37,ARG,7,false,false,false,heading,tackling
+Damian Fernandez,CB,R,25,ARG,10,true,false,false,pace,stamina
+Lucas Souto,FB,R,27,ARG,5,false,false,false,stamina,pace
+Benjamin Schamine,MF,R,22,ARG,6,false,false,false,passing,playmaking
+Agustin Hausch,FW,R,23,ARG,8,false,false,false,pace,dribbling
+Juan Bautista Miritello,FW,R,27,ARG,4,false,false,false,finishing,heading
+Santiago Sosa,MF,R,21,ARG,5,true,false,false,stamina,marking
+Matias Sosa,FW,L,25,ARG,6,false,false,false,pace,crossing
+Mateo Aguiar,MF,R,19,ARG,8,false,false,false,pace,passing
+Samuel Lucero,CB,L,21,ARG,4,false,false,false,tackling,stamina
+Enrique Bologna,GK,R,44,ARG,6,false,false,false,reflexes,positioning
+Roberto Leon,GK,R,25,ARG,7,false,false,false,penalty-saving,reflexes
+Facundo Masuero,GK,R,26,ARG,4,false,false,false,rushing-out,penalty-saving
+Josue Reinatti,GK,L,23,ARG,5,true,false,false,reflexes,penalty-saving

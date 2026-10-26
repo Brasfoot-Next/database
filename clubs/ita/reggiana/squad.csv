@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Leo Stulac,MF,R,31,SVN,5,true,false,false,passing,playmaking
+Manolo Portanova,MF,L,26,ITA,6,false,false,false,stamina,pace
+Tobias Reinhart,MF,R,26,ARG,7,false,false,false,passing,dribbling
+Massimo Bertagnoli,MF,L,27,ITA,2,true,false,false,stamina,passing
+Matteo Rover,FW,R,27,ITA,5,true,false,false,pace,dribbling
+Damiano Basili,MF,R,22,ITA,6,false,false,false,stamina,heading
+Mario Sampirisi,FB,R,33,ITA,7,true,false,false,pace,stamina
+Manuel Marras,FW,L,33,ITA,2,false,false,false,pace,stamina
+Andrea Papetti,CB,L,24,ITA,5,false,false,false,stamina,pace
+Elayis Tavsan,MF,L,25,NED,6,true,false,false,pace,dribbling
+Andrija Novakovich,FW,R,29,USA,5,false,false,false,stamina,pace
+Charlys,MF,R,22,BRA,6,false,false,false,passing,tackling
+Alessandro Tripaldelli,FB,L,27,ITA,7,true,false,false,pace,tackling
+Oliver Urso,MF,L,27,DEN,2,true,false,false,dribbling,marking
+Natan Girma,MF,R,24,SUI,5,false,false,false,playmaking,finishing
+Giangiacomo Magnani,CB,L,30,ITA,6,true,false,false,marking,tackling
+Francesco Pio Vallarelli,MF,R,21,ITA,7,false,false,false,pace,passing
+Lorenzo Libutti,CB,R,28,ITA,3,true,false,false,stamina,crossing
+Cedric Diomande Gondo,FW,R,29,CIV,5,false,false,false,finishing,heading
+Danilo Quaranta,CB,L,29,ITA,6,false,false,false,marking,heading
+Mathis Lambourde,FW,L,20,FRA,2,true,false,false,pace,dribbling
+Paolo Rozzio,CB,R,34,ITA,5,false,false,false,heading,marking
+Andrea Bozzolan,FW,L,22,ITA,6,false,false,false,stamina,tackling
+Leonardo Mendicino,MF,R,20,ITA,9,false,false,false,passing,tackling
+Simone Bonetti,FB,L,21,ITA,4,false,false,false,pace,stamina
+Oumar Conte,FW,L,19,GUI,6,false,false,false,pace,finishing
+Andrea Seculin,GK,R,36,ITA,7,false,false,false,reflexes,positioning
+Edoardo Motta,GK,R,21,ITA,1,true,false,false,reflexes,penalty-saving
+Gianluca Saro,GK,R,26,ITA,5,false,false,false,rushing-out,reflexes

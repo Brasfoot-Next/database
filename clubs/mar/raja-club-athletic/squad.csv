@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+El Mehdi Al Harrar,GK,R,25,MAR,5,true,false,false,positioning,rushing-out
+Khalid Kbiri Alaoui,GK,R,30,MAR,6,false,false,false,positioning,rushing-out
+Yassine Zoubir,GK,R,24,MAR,7,false,false,false,reflexes,penalty-saving
+Badr Benoun,CB,R,32,MAR,2,false,false,false,marking,heading
+Ismail Mokadem,CB,R,30,MAR,5,false,false,false,marking,tackling
+Abdellah Khafifi,CB,R,33,MAR,6,false,false,false,heading,stamina
+Mehdi Mchakhchekh,CB,R,22,MAR,7,true,false,false,heading,passing
+Bouchaib Arrassi,CB,R,26,MAR,5,true,false,false,marking,passing
+Amine Khammas,FB,L,27,MAR,6,true,false,false,stamina,pace
+Mohamed Boulacsout,FB,L,27,MAR,7,true,false,false,passing,crossing
+Ayoub El Amloud,FB,R,32,MAR,6,false,false,false,pace,crossing
+Othmane Chraibi,MF,R,23,MAR,7,true,false,false,passing,stamina
+Mohamed Al-Makahasi,MF,R,31,MAR,2,true,false,false,passing,finishing
+Aymen Barkok,MF,R,28,MAR,5,true,false,false,stamina,tackling
+Adam Ennaffati,FW,R,32,MAR,6,false,false,false,heading,finishing
+Pape Ousmane Sakho,FW,R,29,SEN,7,false,false,false,pace,dribbling
+Mohammad Abu Zrayq,FW,L,28,MAR,2,true,false,false,pace,finishing
+Bilal Ould-Chikh,FW,L,28,MAR,5,true,false,false,playmaking,finishing
+Ayoub Maamouri,FW,R,25,MAR,6,false,false,false,finishing,dribbling
+Mathias Oyewusi,FW,R,27,NGA,7,true,false,false,heading,stamina
+Ismail Khafi,FW,R,30,MAR,5,false,false,false,finishing,pace
+Yahya Iguiz,FW,L,17,MAR,6,false,false,false,finishing,stamina

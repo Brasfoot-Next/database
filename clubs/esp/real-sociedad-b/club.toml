@@ -1,0 +1,13 @@
+name = "Real Sociedad B"
+country = "ESP"
+level = 10
+reputation = 2
+colors = ["#0067b1", "#ffffff"]
+
+[stadium]
+name = "Instalaciones de Zubieta"
+capacity = 2500
+
+[coach]
+name = "Jon Arrieta"
+country = "BRA"

@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Patricio Álvarez,GK,R,32,PER,2,false,false,false,penalty-saving,positioning
+Aarom Fuentes,GK,R,24,PER,5,false,false,false,rushing-out,penalty-saving
+Aamet Calderón,GK,R,28,PER,6,true,false,false,penalty-saving,reflexes
+Breyner Vilela,GK,R,18,PER,7,false,false,false,reflexes,penalty-saving
+Ignacio Tapia,CB,R,27,CHI,3,true,false,false,heading,stamina
+Rodrigo Tapia,CB,R,31,ARG,5,false,false,false,stamina,pace
+José Ataupillco,CB,L,25,PER,6,true,false,false,marking,heading
+Lucas Acevedo,CB,R,34,ARG,7,false,false,false,marking,heading
+Elsar Rodas,FB,L,32,PER,3,false,false,false,pace,passing
+Gabriel Alfaro,FB,R,23,PER,5,false,false,false,tackling,pace
+Arnold Flores,FB,L,22,PER,5,false,false,false,pace,stamina
+Christian Vásquez,FB,R,26,PER,5,true,false,false,crossing,pace
+Diego Rodríguez,FB,R,24,PER,6,true,false,false,stamina,pace
+Rafael Guarderas,MF,L,32,PER,7,true,false,false,stamina,marking
+Freddy Oncoy,MF,R,25,PER,2,true,false,false,passing,finishing
+Adrián de la Cruz,MF,R,22,PER,5,true,false,false,tackling,passing
+Eslyn Correa,MF,L,21,PER,6,false,false,false,playmaking,dribbling
+Aldair Vásquez,MF,R,23,PER,7,true,false,false,playmaking,pace
+Pablo Lavandeira,MF,R,36,URU,2,false,false,false,playmaking,passing
+Diego Barreto,MF,R,33,PAR,5,false,false,false,passing,tackling
+Luis Benites,FW,L,30,PER,7,false,false,false,pace,finishing
+Nicolás Delgadillo,FW,L,28,ARG,1,false,false,false,dribbling,finishing
+Paulo de la Cruz,FW,R,26,PER,5,false,false,false,dribbling,crossing
+Mauro Da Luz,FW,R,31,URU,6,true,false,false,dribbling,pace
+Henri Espinoza,FW,R,19,PER,8,false,false,false,heading,finishing
+Raúl Ruidíaz,FW,R,35,PER,4,false,false,false,dribbling,finishing
+Adrián Fernández,FW,L,33,PAR,5,true,false,false,pace,crossing
+Yamir Ruidíaz,FW,R,24,PER,6,false,false,false,heading,pace

@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Hyeong-keun Kim,GK,R,32,KOR,5,true,false,false,positioning,rushing-out
+Hyeon-yeob Kim,GK,R,24,KOR,6,false,false,false,reflexes,positioning
+Chan-young Kim,GK,R,19,KOR,7,false,false,false,penalty-saving,reflexes
+Patrick William,CB,R,29,BRA,4,true,false,false,tackling,pace
+Sung-wook Hong,CB,R,23,KOR,5,true,false,false,passing,marking
+Sang-hyeok Lee,CB,L,25,KOR,6,false,false,false,tackling,marking
+Dong-gyu Baek,CB,R,35,KOR,7,false,false,false,heading,tackling
+Jae-won Lee,CB,R,24,KOR,1,false,false,false,marking,heading
+Jong-min Kim,CB,L,25,KOR,5,false,false,false,marking,stamina
+Ye-chan Lee,CB,R,21,KOR,6,false,false,false,stamina,heading
+Jae-won Shin,FB,L,27,KOR,6,true,false,false,stamina,pace
+Tae-hyun An,FB,R,33,KOR,7,true,false,false,stamina,pace
+Seong-jun Jo,FB,L,35,KOR,2,false,false,false,tackling,marking
+Bong-hun Yeo,FB,L,32,KOR,5,false,false,false,marking,pace
+Seung-hyun Yu,FB,L,23,KOR,6,false,false,false,crossing,passing
+Ho-jin Jeong,MF,R,26,KOR,7,false,false,false,finishing,playmaking
+Sang-jun Kim,MF,R,24,KOR,2,false,false,false,dribbling,playmaking
+Bit-garam Yoon,MF,R,36,KOR,5,true,false,false,stamina,crossing
+Kazuki Takahashi,MF,R,29,JPN,6,true,false,false,finishing,passing
+Jong-woo Kim,MF,R,32,KOR,7,false,false,false,stamina,pace
+Jae-woo Kang,MF,R,26,KOR,3,false,false,false,finishing,playmaking
+Thiaguinho Santos,MF,L,26,BRA,5,true,false,false,pace,crossing
+Rodrigo Bassani,MF,R,28,BRA,6,true,false,false,playmaking,finishing
+Jeong-in Park,MF,R,25,KOR,7,false,false,false,stamina,tackling
+Dong-hyun Kim,MF,R,23,KOR,3,false,false,false,stamina,tackling
+Shin Seong,MF,R,21,KOR,5,false,false,false,passing,playmaking
+Galego,FW,R,29,BRA,6,true,false,false,crossing,pace
+Seung-bin Kim,FW,R,25,KOR,7,false,false,false,dribbling,pace
+Kyu-min Kim,FW,R,23,KOR,3,false,false,false,pace,crossing
+Eui-hyeong Lee,FW,R,28,KOR,5,false,false,false,finishing,pace
+Ji-ho Han,FW,R,37,KOR,8,false,false,false,dribbling,finishing
+Min-jun Kim,FW,L,26,KOR,5,false,false,false,pace,stamina
+Vitor Gabriel,FW,R,26,BRA,6,true,false,false,pace,heading

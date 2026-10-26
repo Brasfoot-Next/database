@@ -1,0 +1,13 @@
+name = "Qarabağ Ağdam"
+country = "AZE"
+level = 15
+reputation = 3
+colors = ["#000000", "#ffffff"]
+
+[stadium]
+name = "Azersun Arena"
+capacity = 31200
+
+[coach]
+name = "Qurban Qurbanov"
+country = "AZE"

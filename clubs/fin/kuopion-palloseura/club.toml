@@ -1,0 +1,13 @@
+name = "Kuopion Palloseura"
+country = "FIN"
+level = 16
+reputation = 3
+colors = ["#ffff00", "#000000"]
+
+[stadium]
+name = "Savon Sanomat Areena"
+capacity = 4700
+
+[coach]
+name = "Simo Valakari"
+country = "FIN"

@@ -1,0 +1,13 @@
+name = "Forest Rangers"
+country = "ZAM"
+level = 14
+reputation = 2
+colors = ["#336600", "#ffffff"]
+
+[stadium]
+name = "Levy Mwanawasa"
+capacity = 50000
+
+[coach]
+name = "Tenant Chilumba"
+country = "ZAM"

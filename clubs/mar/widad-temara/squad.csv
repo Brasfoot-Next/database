@@ -1,0 +1,15 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Brahim El Yamlahi,GK,R,28,MAR,4,true,false,false,rushing-out,positioning
+Reda Bakkouri,CB,R,20,MAR,5,true,false,false,heading,marking
+Nizar Cherki,CB,R,25,MAR,6,true,false,false,heading,marking
+Said Lbeyd,FB,L,36,MAR,9,false,false,false,marking,crossing
+Souhail Amri,FB,R,31,MAR,4,true,false,false,crossing,pace
+Lahcen Kabiri,FB,L,29,MAR,5,true,false,false,crossing,pace
+Najib El Hamdi,MF,L,21,MAR,6,true,false,false,finishing,passing
+Mohamed Belkaida,MF,R,21,MAR,1,false,false,false,dribbling,passing
+Rabiae Bounit,MF,R,23,MAR,5,true,false,false,passing,playmaking
+Othman Sabri,MF,R,23,MAR,6,true,false,false,passing,stamina
+Ismail Sbahe,MF,R,28,MAR,4,true,false,false,playmaking,passing
+Mouhssin Zouhar,FW,R,29,MAR,5,true,false,false,finishing,dribbling
+Zakaria Oulbenna,FW,R,31,MAR,7,false,false,false,finishing,dribbling
+Yassine Belfadla,FW,R,26,MAR,1,true,false,false,heading,pace

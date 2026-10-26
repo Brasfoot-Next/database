@@ -1,0 +1,13 @@
+name = "Tractor Sazi"
+country = "IRN"
+level = 15
+reputation = 2
+colors = ["#ffffff", "#cc0000"]
+
+[stadium]
+name = "Sahand"
+capacity = 68833
+
+[coach]
+name = "Kurban Berdyev"
+country = "RUS"

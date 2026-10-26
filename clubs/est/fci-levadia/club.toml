@@ -1,0 +1,13 @@
+name = "FCI Levadia"
+country = "EST"
+level = 14
+reputation = 2
+colors = ["#339900", "#ffffff"]
+
+[stadium]
+name = "Kadrioru"
+capacity = 4700
+
+[coach]
+name = "Ivan Stojkovic"
+country = "SRB"

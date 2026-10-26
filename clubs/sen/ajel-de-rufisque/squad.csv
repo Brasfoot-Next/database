@@ -1,0 +1,40 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Alioune Seck,GK,R,26,SEN,6,true,false,false,positioning,reflexes
+Pa Ebou Dampha,GK,R,23,SEN,7,false,false,false,reflexes,rushing-out
+Malick Sarr,GK,R,18,SEN,7,false,false,false,penalty-saving,reflexes
+Samba Mbengue,CB,R,19,SEN,3,false,false,false,marking,passing
+Abdou Aziz Diaw,CB,R,23,SEN,5,false,false,false,marking,passing
+Mamadou Touré,CB,R,23,SEN,6,false,false,false,tackling,heading
+Assane Ba,CB,R,18,SEN,7,false,false,false,tackling,marking
+Jean Tendeng,CB,R,21,SEN,4,false,false,false,heading,marking
+Djibril Gueye,CB,L,20,SEN,5,false,false,false,tackling,pace
+Cheikh Diakhaté,CB,L,25,SEN,6,true,false,false,heading,marking
+Mody Diawara,CB,R,19,SEN,5,false,false,false,heading,passing
+Abdoulaye Bèye,CB,R,24,SEN,6,true,false,false,tackling,stamina
+Souleymane Cissé,FB,R,19,SEN,8,false,false,false,tackling,stamina
+Khadim Ndiaye,FB,L,19,SEN,5,false,false,false,passing,pace
+Ndaraw Sarr,FB,L,18,SEN,6,false,false,false,stamina,crossing
+Amadou Coly,FB,L,23,SEN,6,true,false,false,tackling,stamina
+El Hadji Diao,FB,R,18,SEN,10,false,false,false,crossing,pace
+Kabba Sonko,FB,R,24,SEN,5,true,false,false,passing,pace
+Papa Diop,MF,R,19,SEN,6,false,false,false,dribbling,pace
+Mansa Konaté,MF,L,24,GUI,7,true,false,false,passing,tackling
+Sékou Diédhiou,MF,L,25,SEN,10,true,false,false,playmaking,dribbling
+Matar Niang,MF,R,24,SEN,5,true,false,false,passing,finishing
+Mamadou Dia,MF,R,25,SEN,5,true,false,false,pace,dribbling
+Ousmane Diakhaté,MF,R,23,SEN,6,false,false,false,playmaking,dribbling
+Pape Youssou Niang,MF,R,23,SEN,1,false,false,false,playmaking,dribbling
+Djiby Sarr,MF,R,21,SEN,5,false,false,false,playmaking,finishing
+Lamine Sagna,FW,R,19,SEN,6,false,false,false,heading,pace
+Massaër Dieng,FW,R,19,SEN,7,false,false,false,playmaking,finishing
+Mouhamed Camara,FW,R,18,SEN,2,false,false,false,finishing,stamina
+Ibra Lo,FW,R,19,SEN,5,false,false,false,finishing,stamina
+El Hadji Dièye,FW,R,24,SEN,6,true,false,false,dribbling,finishing
+Salif Banora,FW,R,20,SEN,4,false,false,false,finishing,dribbling
+Ousmane Fall,FW,R,19,SEN,5,false,false,false,finishing,heading
+Mouhamed Diop,FW,R,17,SEN,6,false,false,false,pace,crossing
+Sekou Traoré,FW,R,21,MLI,7,true,false,false,heading,finishing
+Cheikh Gakou,FW,R,18,SEN,4,false,false,false,heading,pace
+Mapathé Mbodji,FW,L,19,SEN,5,false,false,false,heading,stamina
+Babacar Bousso,FW,R,18,SEN,6,false,false,false,heading,finishing
+Pape Niang,FW,L,19,SEN,7,false,false,false,heading,pace

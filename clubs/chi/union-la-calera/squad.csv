@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ignacio Arce,GK,R,30,ARG,1,true,false,false,positioning,rushing-out
+Rodrigo Cancino,GK,R,22,CHI,7,false,false,false,positioning,penalty-saving
+Joshua Tapia,GK,L,19,CHI,5,false,false,false,positioning,penalty-saving
+Santiago García,FB,L,34,ARG,8,false,false,false,marking,passing
+Erick Wiemberg,FB,L,28,CHI,2,true,false,false,marking,pace
+Simón Ramírez,FB,R,23,CHI,7,false,false,false,marking,pace
+Yerco Oyanedel,FB,R,21,CHI,8,true,false,false,marking,pace
+Christian Vilches,CB,L,39,CHI,9,true,false,false,tackling,marking
+Henry Sanhueza,CB,R,26,CHI,9,true,false,false,heading,stamina
+Pedro Henrique,CB,L,24,BRA,3,false,false,false,pace,stamina
+Patricio Flores,CB,R,20,CHI,9,false,false,false,tackling,heading
+Castellani,MF,L,34,ARG,1,true,false,false,passing,finishing
+Esteban Valencia,MF,L,22,CHI,3,true,false,false,tackling,marking
+Mathías Vidangossy,MF,R,35,CHI,7,false,false,false,playmaking,finishing
+Brayan Garrido,MF,R,23,CHI,9,false,false,false,finishing,passing
+Abel Moreno,MF,R,20,CHI,9,false,false,false,tackling,finishing
+Williams Alarcón,MF,R,21,CHI,9,true,false,false,tackling,marking
+César Pérez,MF,R,19,CHI,5,true,false,false,tackling,pace
+Sebastián Sáez,FW,R,37,ARG,9,true,false,false,pace,finishing
+Matías Cavalleri,FW,R,24,CHI,1,false,false,false,pace,crossing
+Lucas Passerini,FW,L,28,ARG,3,true,false,false,heading,pace
+Nicolás Orellana,FW,R,26,CHI,5,false,false,false,finishing,dribbling

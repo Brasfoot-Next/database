@@ -1,0 +1,13 @@
+name = "Unión Española"
+country = "CHI"
+level = 16
+reputation = 2
+colors = ["#cc0000", "#ffffff"]
+
+[stadium]
+name = "Santa Laura"
+capacity = 22000
+
+[coach]
+name = "César Bravo"
+country = "CHI"

@@ -1,0 +1,13 @@
+name = "Hertha BSC"
+country = "GER"
+level = 13
+reputation = 3
+colors = ["#004090", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Paul Ajvazi"
+country = "BRA"

@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kamel Soufi,GK,L,30,ALG,6,true,false,false,rushing-out,positioning
+Moustapha Zeghba,GK,R,35,ALG,7,false,false,false,reflexes,penalty-saving
+Anis Mahdi Mendil,GK,R,20,ALG,2,false,false,false,rushing-out,reflexes
+Ahmed Kerroum,CB,R,26,ALG,5,true,false,false,tackling,stamina
+Abderrahim Hamra,CB,R,28,ALG,5,false,false,false,tackling,pace
+Ibrahim Hachoud,CB,R,26,ALG,6,false,false,false,marking,passing
+Kelyan Guessoum,CB,R,27,ALG,7,true,false,false,marking,tackling
+Houari Baouche,FB,R,30,ALG,3,true,false,false,stamina,pace
+Oussama Safa Kaddour,FB,L,29,ALG,5,true,false,false,passing,pace
+Mokhtar Belkhiter,FB,L,34,ALG,6,false,false,false,stamina,pace
+Ousmane Kokoe Coumbassa,MF,R,24,GUI,3,false,false,false,marking,passing
+Omar Embarek,MF,R,27,ALG,5,true,false,false,tackling,marking
+Mortada Khir Eddine Keniche,MF,R,26,ALG,6,true,false,false,tackling,passing
+Oussama Fatmi,MF,L,20,ALG,7,false,false,false,marking,passing
+Juba Aguieb,MF,R,29,ALG,3,true,false,false,pace,dribbling
+Chakib Aoudjane,MF,L,30,ALG,5,false,false,false,playmaking,dribbling
+Abderrahmane Bourdim,MF,L,32,ALG,6,false,false,false,finishing,playmaking
+Bilal Benkhedim,MF,R,25,ALG,7,true,false,false,tackling,marking
+Ilyes Miloudi,MF,R,21,ALG,3,false,false,false,dribbling,pace
+Ismail Saadi,FW,R,29,ALG,5,false,false,false,finishing,heading
+Yacine Aliane,FW,L,27,ALG,1,true,false,false,dribbling,playmaking
+Moulay Abdelaziz Abdelkader,FW,R,27,ALG,5,false,false,false,pace,finishing
+Mounir El Mehdi Mahadane,FW,R,21,ALG,6,false,false,false,finishing,dribbling
+Boubacar Traoré,FW,L,25,MLI,7,true,false,false,passing,dribbling
+Edlin Randy Essang-Matouti,FW,L,22,ALG,1,false,false,false,heading,stamina
+Yacine Goudjil,FW,R,21,ALG,5,false,false,false,crossing,pace
+Ahmed Ghenam,FW,R,28,ALG,6,false,false,false,crossing,pace

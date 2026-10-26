@@ -1,0 +1,39 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Diego Enríquez,GK,R,24,PER,3,true,false,false,penalty-saving,rushing-out
+Renato Solís,GK,R,28,PER,5,false,false,false,penalty-saving,rushing-out
+César Bautista,GK,R,19,PER,6,false,false,false,reflexes,penalty-saving
+Tomás Dulanto,GK,R,18,PER,7,false,false,false,positioning,penalty-saving
+Luis Abram,CB,R,30,PER,3,true,false,false,heading,marking
+Rafael Lutiger,CB,L,25,PER,5,false,false,false,stamina,tackling
+Miguel Araujo,CB,R,31,PER,6,true,false,false,stamina,heading
+Leonardo Díaz,CB,R,22,PER,7,false,false,false,tackling,heading
+Carlos Salgado,CB,L,18,PER,3,false,false,false,marking,tackling
+Cristiano,FB,R,32,BRA,5,true,false,false,stamina,crossing
+Fabrizio Lora,FB,L,20,PER,5,false,false,false,passing,pace
+Leandro Sosa,FB,R,32,URU,6,false,false,false,playmaking,dribbling
+Juan González,FB,R,30,ARG,7,true,false,false,crossing,passing
+Joao Cuenca,FB,L,19,PER,4,false,false,false,crossing,pace
+Duham Ballumbrosio,FB,R,19,PER,5,false,false,false,stamina,crossing
+Gustavo Cazonatti,MF,L,30,BRA,6,false,false,false,playmaking,passing
+Gerson Castillo,MF,L,17,PER,7,false,false,false,playmaking,dribbling
+Martín Távara,MF,L,27,PER,1,true,false,false,stamina,playmaking
+Catriel Cabellos,MF,R,22,PER,5,false,false,false,stamina,pace
+Ian Wisdom,MF,R,20,PER,6,false,false,false,pace,playmaking
+Yoshimar Yotún,MF,L,36,PER,5,true,false,false,crossing,passing
+Lionel Herrera,MF,R,18,PER,6,false,false,false,playmaking,finishing
+Christofer Gonzales,MF,L,33,PER,7,true,false,false,dribbling,passing
+Gabriel,MF,R,36,BRA,3,false,false,false,stamina,tackling
+Cristian Benavente,MF,R,32,PER,5,true,false,false,tackling,marking
+Yamir del Valle,MF,R,20,PER,6,false,false,false,playmaking,passing
+Maxloren Castro,FW,L,18,PER,6,true,false,false,pace,dribbling
+Juan Manuel Cuesta,FW,R,24,COL,8,false,false,false,dribbling,pace
+Josemaría Mellán,FW,R,19,PER,4,false,false,false,heading,stamina
+Santiago González,FW,R,27,ARG,5,true,false,false,pace,dribbling
+Jair Moretti,FW,R,19,PER,5,false,false,false,heading,stamina
+Luis Iberico,FW,L,28,PER,6,false,false,false,pace,finishing
+Felipe Vizeu,FW,L,29,BRA,7,false,false,false,dribbling,finishing
+Michael Hoyos,FW,R,35,ARG,1,false,false,false,pace,stamina
+Diego Otoya,FW,L,21,PER,5,false,false,false,pace,finishing
+Írven Ávila,FW,R,36,PER,6,false,false,false,finishing,dribbling
+Hernán Barcos,FW,R,42,ARG,7,false,false,false,heading,finishing
+Mateo Rodríguez,FW,L,19,PER,7,false,false,false,finishing,pace

@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Bojan Milosavljevic,GK,L,27,SUI,6,true,false,false,reflexes,penalty-saving
+Petar Zovko,GK,R,24,BUL,7,false,false,false,positioning,rushing-out
+Todor Pavlov,CB,R,21,BUL,2,false,false,false,stamina,heading
+Lucas Ryan,CB,R,24,BRA,5,true,false,false,heading,tackling
+Martin Ruskov,CB,R,24,BUL,6,false,false,false,stamina,heading
+Andrei Chindriș,CB,R,27,ROU,4,true,false,false,stamina,heading
+Milan Petrovic,CB,R,23,GER,5,false,false,false,marking,stamina
+Enzo Espinoza,FB,L,25,ARG,6,true,false,false,tackling,stamina
+Adrián Cova,FB,R,25,VEN,8,true,false,false,tackling,stamina
+Parvizdzhon Umarbaev,MF,R,31,BUL,4,true,false,false,stamina,tackling
+Efe Ali,MF,R,23,BUL,6,true,false,false,finishing,passing
+Martin Atanasov,MF,R,24,BUL,7,true,false,false,passing,playmaking
+Ivaylo Ivanov,MF,R,23,BUL,3,true,false,false,dribbling,pace
+Miha Trdan,MF,L,21,SVN,5,false,false,false,playmaking,passing
+Cătălin Itu,FW,R,26,ROU,6,true,false,false,pace,dribbling
+Julien Lamy,FW,L,26,FRA,7,false,false,false,finishing,pace
+Sevi Idriz,FW,R,18,BUL,3,false,false,false,playmaking,finishing
+Zapro Dinev,FW,L,26,BUL,5,false,false,false,heading,pace
+Francisco Politino,FW,R,27,BUL,6,true,false,false,heading,finishing
+Christ Longville,FW,R,20,BUL,7,false,false,false,pace,finishing
+Mariyan Vangelov,FW,L,23,BUL,5,false,false,false,pace,crossing
+Axel Velev,FW,R,19,BUL,7,false,false,false,crossing,pace

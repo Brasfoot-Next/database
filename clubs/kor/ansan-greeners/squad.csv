@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Seung-bin Lee,GK,R,36,KOR,5,false,false,false,positioning,penalty-saving
+Do-dam Kim,GK,R,27,KOR,6,false,false,false,reflexes,rushing-out
+Min-jae Kim,GK,R,23,KOR,9,true,false,false,positioning,penalty-saving
+Milan Obradovic,CB,L,26,SRB,4,true,false,false,tackling,marking
+Tim Hartzell,CB,R,24,SWE,5,true,false,false,marking,passing
+Jei-min Yeon,CB,L,33,KOR,6,false,false,false,marking,heading
+Beom Song,CB,R,20,KOR,1,false,false,false,heading,stamina
+Hyo-jun Lee,CB,R,23,KOR,5,false,false,false,tackling,heading
+Jun-hyeong Kim,CB,R,21,KOR,5,false,false,false,tackling,marking
+Dong-hyun Kang,FB,L,21,KOR,6,false,false,false,passing,crossing
+Si-hwa Park,FB,R,22,KOR,6,true,false,false,pace,crossing
+Ji-min Im,FB,R,24,KOR,7,true,false,false,marking,pace
+Dan Choi,FB,L,19,KOR,3,false,false,false,tackling,marking
+Baek-min Kim,FB,R,21,KOR,5,false,false,false,pace,tackling
+Ji-hun Cho,MF,L,36,KOR,6,false,false,false,stamina,passing
+Geon-oh Kim,MF,R,24,KOR,7,true,false,false,passing,playmaking
+Eung-bin Yeon,MF,R,23,KOR,4,true,false,false,tackling,marking
+Hyun-woo Jeong,MF,R,26,KOR,6,true,false,false,passing,finishing
+Seung-hyun Kim,MF,L,22,KOR,7,false,false,false,finishing,passing
+Seung-woo Do,MF,R,21,KOR,3,false,false,false,playmaking,passing
+Hyun-soo Jang,MF,L,33,KOR,6,false,false,false,pace,crossing
+Seung-woo Ryu,MF,R,32,KOR,7,false,false,false,finishing,playmaking
+Jung-hyun Kim,MF,R,22,KOR,2,true,false,false,tackling,marking
+In-sung Kim,FW,L,36,KOR,5,true,false,false,pace,dribbling
+Gabriel Lima,FW,R,28,BRA,6,false,false,false,finishing,heading
+Chae-joon Park,FW,R,23,KOR,7,false,false,false,finishing,pace
+Ho-jin Jin,FW,R,23,KOR,3,false,false,false,dribbling,finishing
+Seung-wan Ryu,FW,R,23,KOR,5,false,false,false,finishing,stamina
+Felipe Saraiva,FW,R,28,BRA,1,false,false,false,dribbling,finishing
+Kyu-min Park,FW,R,25,KOR,5,false,false,false,pace,dribbling
+Marlon,FW,R,23,BRA,6,false,false,false,crossing,pace
+Machop Chol,FW,R,27,KOR,8,true,false,false,crossing,pace
+Jae-hwan Lee,FW,R,19,KOR,4,false,false,false,heading,pace
+Gun-wook Jung,FW,L,21,KOR,5,false,false,false,playmaking,finishing

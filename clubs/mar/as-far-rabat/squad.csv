@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ahmed Reda Tagnaouti,GK,R,30,MAR,6,false,false,false,penalty-saving,reflexes
+Ayoub El Khayati,GK,R,28,MAR,10,true,false,false,rushing-out,positioning
+Hakim Mesbahi,GK,R,20,MAR,5,false,false,false,positioning,penalty-saving
+Fallou Mendy,CB,R,26,SEN,6,false,false,false,marking,tackling
+Marouane Louadni,CB,R,31,MAR,7,true,false,false,tackling,stamina
+Yunis Abdelhamid,CB,R,38,MAR,4,true,false,false,heading,stamina
+Nouh Mohamed El Abd,CB,R,25,MAR,5,false,false,false,heading,stamina
+Ayoub Ait Khassou,CB,R,22,MAR,6,false,false,false,heading,tackling
+Tó Carneiro,FB,L,30,ANG,8,true,false,false,pace,crossing
+Jamal Ech-Chamakh,FB,L,26,MAR,4,true,false,false,tackling,stamina
+Anas Bach,MF,R,28,MAR,7,true,false,false,dribbling,playmaking
+Mohamed Rabie Hrimat,MF,R,31,MAR,1,true,false,false,passing,playmaking
+Zineddine Derrag,MF,R,27,MAR,5,true,false,false,dribbling,playmaking
+Nolan Mbemba,MF,R,31,CGO,6,false,false,false,finishing,passing
+Abdelfettah Hadraf,MF,R,28,MAR,7,false,false,false,finishing,playmaking
+Taoufik Razko,MF,R,24,MAR,1,false,false,false,passing,stamina
+Khalid Aït Ouarkhane,MF,R,26,MAR,5,true,false,false,playmaking,finishing
+Soulaimane El Bouchqali,MF,L,23,MAR,6,false,false,false,passing,stamina
+Jalal-Eddine El Khfiyef,MF,L,26,MAR,7,false,false,false,tackling,marking
+Zakaria Ajoughlal,MF,L,25,MAR,2,false,false,false,passing,finishing
+Youssef El Fahli,FW,R,29,MAR,5,false,false,false,pace,crossing
+Yazid Faffa,FW,R,25,MAR,6,false,false,false,finishing,stamina
+Ahmed Hammoudan,FW,R,35,MAR,7,false,false,false,pace,finishing
+Salaheddine Errahouli,FW,R,23,MAR,1,true,false,false,dribbling,pace
+Achref Habbassi,FW,R,24,TUN,5,false,false,false,dribbling,finishing
+Mouhcine Bouriga,FW,R,26,MAR,6,false,false,false,pace,finishing
+Gaëtan Laura,FW,R,30,MAR,7,true,false,false,dribbling,playmaking
+Joel Beya,FW,R,26,MAR,2,false,false,false,pace,dribbling

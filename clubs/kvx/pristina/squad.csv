@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ardit Nika,GK,R,24,KVX,3,true,false,false,reflexes,positioning
+Gledi Mici,FB,L,31,ALB,4,true,false,false,crossing,pace
+Benet Ismaili,FB,R,20,KVX,6,true,false,false,marking,finishing
+Bujar Pllana,CB,R,20,KVX,6,true,false,false,tackling,marking
+Endrit Krasniqi,MF,R,27,KVX,7,true,false,false,finishing,passing
+Erando Karabeci,MF,R,33,ALB,6,true,false,false,marking,finishing
+Arlind Shabani,MF,L,20,KVX,5,true,false,false,tackling,marking
+Leotrim Kryeziu,FW,R,23,KVX,4,true,false,false,pace,finishing
+Egzon Bislimi,GK,L,22,KVX,7,false,false,false,rushing-out,penalty-saving
+Gentrit Dumani,FB,L,29,KVX,7,false,false,false,crossing,marking
+Ramiz Bytyqi,FB,R,23,KVX,5,false,false,false,marking,finishing
+Besir Ramadani,CB,L,22,ALB,7,true,false,false,heading,stamina
+Ardi Ajdini,CB,R,19,KVX,3,false,false,false,marking,pace
+Gentris Leci,MF,L,20,KVX,10,true,false,false,finishing,passing
+Mergim Pefqeli,MF,L,28,KVX,7,false,false,false,playmaking,passing
+Hasan Hyseni,MF,R,25,KVX,2,false,false,false,tackling,passing
+Kreshnik Uka,FW,L,27,KVX,7,true,false,false,pace,finishing
+Albin Prapashtica,FW,R,20,KVX,3,false,false,false,heading,finishing
+Marclei,FW,L,33,BRA,9,false,false,false,finishing,dribbling
+Muhamed Useini,MF,R,33,MKD,7,false,false,false,marking,finishing
+Korab Luma,MF,L,17,KVX,3,false,false,false,marking,finishing

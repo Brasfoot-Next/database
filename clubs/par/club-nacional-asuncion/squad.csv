@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Santiago Rojas,GK,L,30,PAR,5,true,false,false,rushing-out,positioning
+Gerardo Ortiz,GK,R,37,PAR,6,false,false,false,positioning,penalty-saving
+Thomás Gutiérrez,CB,R,26,VEN,7,true,false,false,tackling,stamina
+Gastón Benítez,CB,R,24,PAR,4,false,false,false,tackling,heading
+Fernando Díaz,CB,L,25,PAR,5,true,false,false,pace,stamina
+Líder Cáceres,CB,L,21,PAR,6,false,false,false,marking,stamina
+Sebastián Vargas,FB,R,24,PAR,7,false,false,false,crossing,passing
+Rodolfo Argüello,FB,L,22,PAR,1,false,false,false,tackling,marking
+Juan Feliú,FB,L,25,PAR,5,true,false,false,crossing,pace
+Carlos Espinola,FB,R,26,PAR,6,true,false,false,tackling,pace
+Roberto Ramírez,MF,R,26,PAR,3,true,false,false,playmaking,finishing
+Jordan Santacruz,MF,L,30,PAR,5,true,false,false,finishing,passing
+Fabrizio Jara,MF,R,23,PAR,6,false,false,false,playmaking,finishing
+Ángel Cardozo Lucena,MF,R,31,PAR,7,false,false,false,stamina,passing
+Leandro Meza,MF,L,24,PAR,3,true,false,false,dribbling,pace
+Silvio Torales,MF,R,34,PAR,5,false,false,false,passing,stamina
+Carlos Arrúa,MF,R,28,PAR,6,true,false,false,pace,dribbling
+Franco Pelozo,MF,L,20,ARG,7,false,false,false,passing,playmaking
+Josué Colmán,FW,L,28,PAR,3,true,false,false,pace,dribbling
+Richard Prieto,FW,R,29,PAR,5,false,false,false,dribbling,playmaking
+Alejandro Samudio,FW,L,27,PAR,1,true,false,false,finishing,heading
+Orlando Gaona Lugo,FW,R,35,PAR,5,false,false,false,pace,finishing
+Lucas González,FW,R,28,PAR,6,false,false,false,dribbling,pace
+Matías Almeida,FW,R,21,PAR,7,false,false,false,dribbling,pace
+Ignacio Bailone,FW,R,32,ARG,2,false,false,false,finishing,heading
+Roque Santa Cruz,FW,R,45,PAR,5,false,false,false,heading,finishing

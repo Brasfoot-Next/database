@@ -1,0 +1,14 @@
+name = "Guarani"
+country = "BRA"
+state = "SP"
+level = 11
+reputation = 2
+colors = ["#008000", "#ffffff"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Marcos Ribeiro"
+country = "BRA"

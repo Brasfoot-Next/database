@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nicklas Rojkjaer,MF,L,28,DEN,6,false,false,false,stamina,passing
+Peter Ankersen,FB,R,35,DEN,7,false,false,false,stamina,pace
+Mark Brink,MF,R,28,DEN,4,true,false,false,stamina,passing
+Alexander Lind,FW,R,24,DEN,5,true,false,false,pace,stamina
+Ola Solbakken,MF,L,28,NOR,6,true,false,false,pace,finishing
+Caleb Yirenkyi,MF,R,20,GHA,7,true,false,false,stamina,passing
+Runar Norheim,FB,L,21,NOR,4,true,false,false,stamina,pace
+Erik Marxen,CB,L,35,DEN,5,false,false,false,heading,tackling
+Juho Lahteenmaki,FB,L,20,FIN,6,true,false,false,pace,crossing
+Tobias Salquist,CB,R,31,DEN,7,true,false,false,stamina,tackling
+Justin Janssen,MF,L,20,DEN,4,true,false,false,pace,passing
+Araphat Mohammed,MF,L,20,GHA,5,false,false,false,passing,dribbling
+Malte Heyde,MF,R,19,DEN,6,false,false,false,pace,stamina
+Levy Nene,FW,R,20,MLI,8,false,false,false,pace,dribbling
+Diallo Sanoussi,MF,L,20,CIV,5,false,false,false,pace,dribbling
+Villum Berthelsen,FW,R,20,DEN,6,false,false,false,pace,stamina
+Issaka Seidu,FB,L,20,GHA,7,false,false,false,pace,crossing
+Prince Amoako Junior,FW,L,19,GHA,4,true,false,false,pace,dribbling
+Souleymane Alio,FW,R,19,BFA,5,false,false,false,pace,heading
+Hjalte Rasmussen,FW,R,18,DEN,6,false,false,false,pace,playmaking
+Noah Markmann,CB,L,19,DEN,3,true,false,false,pace,tackling
+Stephen Acquah,CB,R,20,GHA,5,false,false,false,pace,stamina
+Markus Walker,CB,R,19,DEN,6,false,false,false,pace,tackling
+Andreas Hansen,GK,R,31,DEN,7,true,false,false,reflexes,positioning
+Jakob Busk,GK,R,32,DEN,3,false,false,false,reflexes,penalty-saving
+William Lykke,GK,L,21,DEN,6,false,false,false,rushing-out,reflexes

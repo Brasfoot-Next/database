@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Georgi Kitanov,GK,R,31,BUL,4,true,false,false,reflexes,penalty-saving
+Plamen Pepelyashev,GK,R,23,BUL,5,false,false,false,rushing-out,positioning
+Teodor Kanev,GK,R,17,BUL,7,false,false,false,reflexes,rushing-out
+José Cabarcas,CB,R,24,COL,3,false,false,false,tackling,heading
+Kyriakos Antoniou,CB,R,25,CYP,5,true,false,false,passing,marking
+Áquila,CB,L,27,BRA,6,true,false,false,tackling,pace
+André Alves,CB,R,25,POR,7,false,false,false,tackling,pace
+Stoyan Predev,CB,R,32,BUL,3,false,false,false,heading,passing
+Stanislav Yovkov,CB,R,18,BUL,5,false,false,false,marking,stamina
+Dimitar Todorov,FB,L,22,BUL,6,false,false,false,tackling,pace
+Mario Dilchovski,FB,R,24,BUL,3,true,false,false,crossing,passing
+Ilker Budinov,FB,R,25,BUL,5,true,false,false,crossing,pace
+Vladan Vidakovic,MF,R,27,SRB,6,true,false,false,dribbling,passing
+Radoslav Apostolov,MF,R,29,BUL,7,true,false,false,dribbling,passing
+Stefan Gavrilov,MF,R,26,BUL,3,true,false,false,playmaking,finishing
+Elisee Sou,MF,R,26,BFA,5,true,false,false,dribbling,pace
+Kristiyan Gospodinov,MF,L,22,BUL,6,false,false,false,passing,tackling
+Stefan Stefanov,MF,R,19,BUL,7,false,false,false,dribbling,pace
+Kristiyan Boytchev,MF,R,20,BUL,3,false,false,false,dribbling,pace
+Krasimir Todorov,MF,R,22,BUL,5,false,false,false,dribbling,playmaking
+Denislav Minchev,FW,R,26,BUL,1,true,false,false,pace,finishing
+Aleksandar Simeonov,FW,L,17,BUL,5,false,false,false,pace,dribbling
+Bilal El Bakkali Salah,FW,R,25,ESP,6,false,false,false,finishing,pace
+Charles Yaw Appiah,FW,L,20,GHA,7,false,false,false,pace,dribbling
+Jordan Saint-Louis,FW,L,26,USA,2,true,false,false,pace,finishing
+Alex Valiño,FW,R,28,ESP,5,false,false,false,finishing,dribbling
+Ibrahim Keita,FW,R,30,FRA,6,false,false,false,heading,stamina

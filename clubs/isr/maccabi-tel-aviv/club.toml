@@ -1,0 +1,13 @@
+name = "Maccabi Tel Aviv"
+country = "ISR"
+level = 14
+reputation = 3
+colors = ["#ffb800", "#003366"]
+
+[stadium]
+name = "Bloomfield Yafo"
+capacity = 14413
+
+[coach]
+name = "Vladimir Ivic"
+country = "SRB"

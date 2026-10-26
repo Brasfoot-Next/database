@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Samuel Castañeda,GK,L,28,PAN,3,true,false,false,penalty-saving,reflexes
+Xavier Cruz,GK,L,18,PAN,2,false,false,false,rushing-out,penalty-saving
+Francisco Palacios,FB,R,31,PAN,3,true,false,false,finishing,pace
+Martín Gómez,FB,L,33,PAN,1,false,false,false,crossing,marking
+Jesús Araya,FB,L,26,PAN,9,true,false,false,marking,finishing
+Javier Góndola,FB,R,31,PAN,10,false,false,false,crossing,pace
+Carlos Sánchez,CB,R,22,PAN,7,true,false,false,marking,pace
+Aimar Rodriguez,CB,L,19,PAN,4,true,false,false,tackling,stamina
+Daniel Santa,CB,L,30,COL,5,true,false,false,marking,pace
+Jhamal Rodríguez,MF,R,27,PAN,9,false,false,false,passing,finishing
+Yeisón Ramírez,MF,L,20,PAN,5,true,false,false,playmaking,finishing
+William Bartholdy,MF,R,23,BRA,9,false,false,false,finishing,passing
+Bethancourt,MF,R,27,PAN,6,true,false,false,tackling,marking
+Wesley Cabrera,MF,L,23,PAN,10,true,false,false,tackling,heading
+Ángel Castillo,MF,R,20,PAN,3,true,false,false,marking,finishing
+Misael Acosta,MF,R,24,PAN,6,false,false,false,tackling,heading
+Jorge Clement,FW,R,22,PAN,2,true,false,false,heading,pace
+Carlos Navas,FW,R,24,PAN,6,true,false,false,finishing,heading
+Keny Bonilla,FW,R,19,PAN,7,false,false,false,pace,finishing
+Martin Ruiz,FW,R,21,PAN,4,false,false,false,finishing,pace

@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Matheus Araújo,FB,L,25,BRA,5,false,false,false,stamina,crossing
+Matheus Pereira,FW,L,25,BRA,6,false,false,false,pace,stamina
+Gabriel Silva,FW,L,24,BRA,8,true,false,false,pace,dribbling
+Luquinhas,FW,L,29,BRA,4,false,false,false,pace,stamina
+Adriano Firmino,MF,R,26,BRA,5,true,false,false,tackling,marking
+Serginho,MF,L,26,POR,6,true,false,false,passing,playmaking
+Vinícius Lopes,FW,R,27,BRA,9,true,false,false,pace,dribbling
+Pedro Ferreira,MF,R,28,POR,4,true,false,false,stamina,tackling
+Diogo Calila,FB,R,27,MOZ,5,true,false,false,pace,crossing
+Paulo Victor,FB,L,25,BRA,7,true,false,false,stamina,pace
+Lucas Soares,FW,R,28,BRA,6,false,false,false,pace,stamina
+Brenner,FW,L,24,BRA,10,false,false,false,pace,stamina
+Wendel Silva,FW,R,26,BRA,4,false,false,false,pace,finishing
+Anthony Carter,FW,R,32,AUS,5,false,false,false,heading,finishing
+Elias Manoel,FW,R,24,BRA,6,false,false,false,pace,stamina
+Sidney Lima,CB,R,29,BRA,7,true,false,false,tackling,heading
+Frederico Venâncio,CB,L,33,POR,2,false,false,false,heading,tackling
+João Costa,FW,R,26,POR,5,false,false,false,finishing,heading
+Pedro Pacheco,CB,R,29,POR,6,true,false,false,heading,tackling
+Djé Tavares,MF,R,23,CPV,7,true,false,false,pace,dribbling
+Rodrigo Mendes,CB,R,21,POR,6,false,false,false,tackling,marking
+Luís Rocha,CB,R,40,POR,7,false,false,false,heading,marking
+Gabriel Batista,GK,R,28,BRA,4,true,false,false,positioning,reflexes
+Neneca,GK,R,23,BRA,5,false,false,false,reflexes,rushing-out
+João Afonso,GK,R,19,POR,6,false,false,false,penalty-saving,rushing-out
+Cristian,GK,R,24,BRA,7,false,false,false,reflexes,penalty-saving

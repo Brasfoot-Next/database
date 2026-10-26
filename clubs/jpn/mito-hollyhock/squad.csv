@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Konosuke Nishikawa,GK,R,23,JPN,6,true,false,false,positioning,penalty-saving
+Jakub Slowik,GK,L,34,POL,7,false,false,false,reflexes,penalty-saving
+Shuhei Matsubara,GK,R,33,JPN,4,false,false,false,positioning,penalty-saving
+Minato Kamiyama,GK,L,18,JPN,5,false,false,false,positioning,reflexes
+Uwabright Hayakawa,GK,L,19,JPN,6,false,false,false,rushing-out,positioning
+Sho Omori,CB,R,26,JPN,7,true,false,false,tackling,pace
+Kenta Itakura,CB,L,24,JPN,1,true,false,false,tackling,marking
+Rei Ieizumi,CB,R,26,JPN,5,false,false,false,stamina,heading
+Akinari Kawazura,CB,R,32,JPN,5,false,false,false,marking,heading
+Yasuki Kimoto,CB,L,32,JPN,7,false,false,false,marking,stamina
+Malick Fofana,CB,R,26,JPN,7,false,false,false,marking,heading
+Hiroshi Iwasaki,CB,L,23,JPN,2,false,false,false,marking,stamina
+Koshi Osaki,FB,R,28,JPN,5,true,false,false,pace,crossing
+Takumi Mase,FB,L,28,JPN,6,true,false,false,tackling,marking
+Takahiro Iida,FB,L,31,JPN,7,false,false,false,tackling,stamina
+Yuto Yamashita,MF,L,30,JPN,2,true,false,false,passing,stamina
+Kotatsu Kawakami,MF,R,23,JPN,5,false,false,false,pace,dribbling
+Kishin Shimatani,MF,L,18,JPN,6,false,false,false,pace,dribbling
+Yu Funabashi,MF,L,24,JPN,7,true,false,false,passing,finishing
+Motoki Nishihara,MF,L,19,JPN,3,false,false,false,pace,crossing
+Yoshiki Torikai,MF,L,27,JPN,5,true,false,false,pace,dribbling
+Chihiro Kato,MF,L,27,JPN,6,true,false,false,dribbling,playmaking
+Taishi Semba,MF,R,26,JPN,7,false,false,false,passing,stamina
+Kiichi Yamazaki,MF,R,24,JPN,2,false,false,false,passing,stamina
+Hayata Yamamoto,FW,R,23,JPN,5,true,false,false,finishing,dribbling
+Mizuki Arai,FW,L,29,JPN,6,false,false,false,pace,finishing
+Matheus Leiria,FW,R,31,BRA,7,false,false,false,finishing,stamina
+Arata Watanabe,FW,R,30,JPN,3,true,false,false,finishing,pace
+Kaito Taniguchi,FW,R,30,JPN,5,false,false,false,heading,finishing
+Keisuke Tada,FW,R,23,JPN,6,false,false,false,heading,finishing
+Ryo Nemoto,FW,L,26,JPN,4,false,false,false,finishing,stamina
+Kotaro Uchino,FW,R,22,JPN,6,false,false,false,pace,finishing
+Kishin Gokita,FW,L,22,JPN,7,false,false,false,finishing,heading
+Patryck,FW,R,27,BRA,10,false,false,false,heading,finishing

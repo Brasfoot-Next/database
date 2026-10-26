@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gianluca Vivan,GK,R,38,ITA,1,true,false,false,rushing-out,penalty-saving
+Simone Venturini,GK,L,24,ITA,9,false,false,false,penalty-saving,reflexes
+Alan Neri,GK,L,25,SMR,8,false,false,false,reflexes,positioning
+Marco Gasperoni,FB,R,30,ITA,2,true,false,false,crossing,marking
+Filippo Santi,FB,L,21,SMR,4,false,false,false,crossing,marking
+Manuel Miori,FB,L,22,ITA,8,true,false,false,crossing,pace
+Andrea Grandoni,CB,R,25,SMR,6,true,false,false,tackling,stamina
+Andrea Brighi,CB,R,29,ITA,1,false,false,false,marking,pace
+Lorenzo Fatica,CB,L,33,ITA,7,true,false,false,heading,stamina
+Mosè Sanchez,CB,L,21,ITA,5,false,false,false,marking,pace
+Danilo Rinaldi,MF,L,36,SMR,7,true,false,false,passing,finishing
+Tommaso Zafferani,MF,R,26,SMR,6,false,false,false,finishing,passing
+Armando Amati,MF,R,27,ITA,6,true,false,false,tackling,marking
+Sami Abouzziane,MF,R,20,MAR,8,false,false,false,playmaking,pace
+Nicola Palazzi,MF,L,25,ITA,9,true,false,false,tackling,marking
+Andrea Grassi,MF,R,28,ITA,9,true,false,false,finishing,passing
+Lorenzo Lunadei,MF,L,25,SMR,6,false,false,false,tackling,pace
+Samuel Pancotti,FW,R,21,SMR,2,true,false,false,playmaking,finishing
+Antonio Pellegrino,FW,L,24,ITA,1,true,false,false,dribbling,pace
+Samuele Caruso,FW,R,27,ITA,6,false,false,false,finishing,dribbling
+Matteo Vitaioli,FW,L,32,SMR,3,false,false,false,heading,pace

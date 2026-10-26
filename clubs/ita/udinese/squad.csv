@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nicolo Zaniolo,FW,L,27,ITA,6,true,false,false,playmaking,pace
+Jurgen Ekkelenkamp,MF,R,26,NED,7,true,false,false,passing,playmaking
+Sandi Lovric,MF,L,28,SVN,8,false,false,false,passing,playmaking
+Hassane Kamara,FB,L,32,CIV,5,false,false,false,pace,stamina
+Jesper Karlstrom,MF,R,31,SWE,6,false,false,false,stamina,playmaking
+Lennon Miller,MF,R,20,SCO,7,true,false,false,stamina,playmaking
+Kingsley Ehizibue,FB,R,31,NGA,9,false,false,false,pace,stamina
+Oier Zarraga,MF,R,27,ESP,5,false,false,false,passing,dribbling
+Jakub Piotrowski,MF,R,28,POL,6,true,false,false,pace,passing
+Jordan Zemura,FB,L,26,ZIM,7,true,false,false,stamina,dribbling
+Oumar Solet,CB,L,26,FRA,7,true,false,false,pace,stamina
+Alessandro Zanoli,FB,R,25,ITA,10,true,false,false,pace,tackling
+Arthur Atta,MF,R,23,FRA,5,true,false,false,passing,pace
+Rui Modesto,FW,R,26,ANG,6,false,false,false,pace,crossing
+Keinan Davis,FW,R,28,ENG,6,true,false,false,heading,dribbling
+Adam Buksa,FW,L,30,POL,7,false,false,false,heading,finishing
+Vakoun Issouf Bayo,FW,R,29,CIV,4,false,false,false,pace,finishing
+Christian Kabasele,CB,R,35,BEL,6,false,false,false,tackling,marking
+Iker Bravo,FW,L,21,ESP,6,false,false,false,dribbling,finishing
+Idrissa Gueye,FW,R,19,SEN,7,false,false,false,heading,finishing
+Thomas Kristensen,CB,R,24,DEN,5,true,false,false,tackling,marking
+Nicolo Bertola,CB,R,23,ITA,6,false,false,false,heading,tackling
+Saba Goglichidze,CB,R,22,GEO,7,false,false,false,marking,heading
+Matteo Palma,CB,R,18,GER,1,false,false,false,tackling,marking
+Maduka Okoye,GK,R,27,NGA,5,true,false,false,reflexes,positioning
+Daniele Padelli,GK,R,40,ITA,6,false,false,false,positioning,rushing-out
+Razvan Sava,GK,R,24,ROU,6,false,false,false,reflexes,positioning
+Alessandro Nunziante,GK,R,19,ITA,7,false,false,false,reflexes,positioning

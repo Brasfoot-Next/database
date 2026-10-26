@@ -1,0 +1,13 @@
+name = "Drita Gjilan"
+country = "KVX"
+level = 15
+reputation = 2
+colors = ["#0066cc", "#ffffff"]
+
+[stadium]
+name = "Qytetit të Gjilanit"
+capacity = 15000
+
+[coach]
+name = "Ardijan Nuhiji"
+country = "MKD"

@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Hicham El Majhed,GK,R,35,MAR,6,false,false,false,penalty-saving,reflexes
+Ilyass Motik,GK,R,20,MAR,7,true,false,false,rushing-out,reflexes
+Hamza Antara,GK,R,19,MAR,1,false,false,false,penalty-saving,reflexes
+Mouad Bahsain,CB,R,27,MAR,5,true,false,false,heading,stamina
+Ismail Hrila,CB,R,22,MAR,6,false,false,false,marking,stamina
+Soulaiman El Amrani,CB,R,29,MAR,7,true,false,false,stamina,heading
+Ayoub Sahnoune,CB,R,20,MAR,1,false,false,false,tackling,pace
+Nassim Ouammou,FB,R,33,FRA,5,false,false,false,pace,crossing
+Younes El Amali,FB,L,22,MAR,6,true,false,false,stamina,crossing
+Akram Haimoud,FB,L,21,MAR,7,false,false,false,marking,crossing
+Euclides Cabral,FB,R,27,POR,5,true,false,false,tackling,marking
+Ayman Tarrazi,FB,R,21,MAR,6,false,false,false,crossing,pace
+Mohamed Amine Katiba,MF,R,20,MAR,8,false,false,false,passing,tackling
+Rodrigue Kossi Fiogbé,MF,R,26,MAR,4,true,false,false,passing,tackling
+Badreddine Octobre,MF,L,25,MAR,5,true,false,false,playmaking,passing
+Jalal Tachtach,MF,R,32,MAR,6,false,false,false,passing,stamina
+Mehdi Akoumi,MF,L,20,MAR,10,false,false,false,tackling,passing
+Hamza Moumadi,MF,L,21,MAR,5,false,false,false,marking,passing
+Hamza El Belghyty,MF,R,21,MAR,5,false,false,false,passing,finishing
+Abderrahmane Qassaq,MF,L,27,MAR,6,true,false,false,dribbling,playmaking
+Abdelali Ait Brayim,MF,L,22,MAR,4,false,false,false,playmaking,passing
+Abdallah Boukhanfer,MF,R,28,MAR,5,true,false,false,playmaking,passing
+Ayoub Yousfi,MF,R,23,ESP,6,false,false,false,passing,stamina
+Mohamed Bakhkhach,FW,L,24,MAR,4,false,false,false,crossing,pace
+Youssef Arbidi,FW,R,29,MAR,5,false,false,false,pace,dribbling
+Ange-Freddy Plumain,FW,R,31,MAR,6,true,false,false,dribbling,finishing
+Hamid Ahadad,FW,R,31,MAR,7,false,false,false,pace,heading
+Fahd Bendahmane,FW,L,24,MAR,4,false,false,false,playmaking,finishing
+Walid Jarmouni,FW,R,26,FRA,5,true,false,false,dribbling,playmaking

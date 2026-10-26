@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Bautista Burke,GK,R,23,ARG,5,false,false,false,positioning,penalty-saving
+Motasem Al-Bustami,GK,R,27,QAT,6,true,false,false,rushing-out,positioning
+Youssef Mohamed Sayed,GK,R,28,EGY,7,false,false,false,reflexes,rushing-out
+Omar Al-Zaza,GK,R,35,QAT,3,false,false,false,positioning,reflexes
+Nabil Ouennas,GK,R,23,ALG,4,false,false,false,reflexes,rushing-out
+Kellian van der Kaap,CB,R,27,NED,5,true,false,false,stamina,heading
+Salem Al-Sufiani,CB,R,23,QAT,6,false,false,false,heading,stamina
+Ibrahim Majed,CB,R,36,QAT,8,false,false,false,heading,marking
+Hussain Bahzad,CB,R,28,QAT,5,true,false,false,tackling,heading
+Abdulrahman Sher Khan,FB,R,24,QAT,6,true,false,false,dribbling,pace
+Mouz Jaad,FB,R,25,QAT,7,true,false,false,passing,crossing
+Abdulla Mahmoud Mahmoud,FB,L,24,QAT,4,false,false,false,pace,tackling
+Mathias Normann,MF,R,30,NOR,5,true,false,false,passing,stamina
+Abdulrahman Mohamed,MF,R,23,QAT,6,false,false,false,passing,playmaking
+Abdulaziz Massad Al-Omari,MF,R,20,QAT,7,false,false,false,dribbling,passing
+Moutaz Al-Bustami,MF,R,30,QAT,4,false,false,false,playmaking,finishing
+Mohab Mohammed Eissa,MF,R,22,EGY,5,false,false,false,passing,finishing
+Andri Sudarmanto,MF,R,27,QAT,6,true,false,false,stamina,passing
+Ahmad Moein Doozandeh,MF,L,30,QAT,8,false,false,false,stamina,passing
+Ali Al-Amri,MF,L,27,QAT,4,true,false,false,finishing,passing
+Ahmed Al-Sebaie,MF,R,27,QAT,7,true,false,false,finishing,passing
+Younès Belhanda,MF,R,36,MAR,3,false,false,false,stamina,tackling
+Yousef Zaid Anani,MF,R,17,QAT,5,false,false,false,passing,stamina
+Mohamed Taabouni,FW,R,24,NED,6,true,false,false,finishing,stamina
+Anwar El Ghazi,FW,R,31,NED,7,false,false,false,finishing,stamina
+Hadi Tabasideh,FW,R,24,QAT,3,false,false,false,heading,finishing
+Ali Olwan,FW,R,26,QAT,5,true,false,false,finishing,heading
+Abdulaziz Al-Bakri,FW,R,21,QAT,6,false,false,false,finishing,dribbling

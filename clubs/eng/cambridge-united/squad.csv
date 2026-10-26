@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Pelly Ruddock Mpanzu,MF,R,32,COD,4,true,false,false,stamina,pace
+Louis Appere,FW,R,27,SCO,5,true,false,false,stamina,pace
+James Brophy,FW,L,32,ENG,6,false,false,false,pace,stamina
+Korey Smith,MF,R,35,ENG,10,false,false,false,stamina,playmaking
+Shane Mcloughlin,MF,L,29,IRL,5,true,false,false,pace,stamina
+Elias Kachunga,FW,R,34,COD,5,false,false,false,pace,heading
+Ben Purrington,FB,L,30,ENG,6,true,false,false,pace,stamina
+Adam Mayor,FB,L,22,ENG,1,false,false,false,pace,stamina
+Sullay Kaikai,FW,L,31,SLE,5,false,false,false,pace,crossing
+Liam Bennett,FB,R,24,ENG,6,false,false,false,stamina,pace
+James Gibbons,FB,R,28,ENG,5,true,false,false,stamina,pace
+Shayne Lavery,FW,R,27,NIR,6,true,false,false,pace,stamina
+Kelland Watts,CB,L,26,ENG,6,true,false,false,heading,marking
+Kylian Kouassi,FW,R,23,ENG,7,false,false,false,pace,finishing
+Dominic Ball,MF,R,31,ENG,3,true,false,false,marking,passing
+George Hoddle,MF,R,21,ENG,5,false,false,false,pace,playmaking
+Glenn Mcconnell,MF,R,21,IRL,6,false,false,false,passing,playmaking
+Ben Knight,MF,L,24,ENG,7,true,false,false,dribbling,pace
+Zeno Ibsen Rossi,CB,R,25,ENG,3,true,false,false,pace,heading
+Zak Bradshaw,FB,L,22,ENG,5,false,false,false,pace,stamina
+Michael Morrison,CB,R,38,ENG,4,false,false,false,tackling,heading
+Mamadou Jobe,CB,R,23,ENG,5,false,false,false,tackling,pace
+George Munday,FW,R,19,ENG,6,false,false,false,heading,stamina
+Jake Eastwood,GK,R,29,ENG,7,true,false,false,penalty-saving,reflexes
+Ben Hughes,GK,R,22,WAL,2,false,false,false,penalty-saving,positioning
+Jj Briggs,GK,R,19,ENG,5,false,false,false,penalty-saving,positioning

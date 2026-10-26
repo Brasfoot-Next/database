@@ -1,0 +1,13 @@
+name = "FC Dallas"
+country = "USA"
+level = 11
+reputation = 2
+colors = ["#002050", "#F0F0F0"]
+
+[stadium]
+name = "Toyota Stadium"
+capacity = 20500
+
+[coach]
+name = "Osaze Garcia"
+country = "BRA"

@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rodri,MF,R,30,ESP,6,true,true,true,passing,stamina
+Tijjani Reijnders,MF,L,28,NED,7,true,true,false,stamina,passing
+Bernardo Silva,MF,L,32,POR,9,true,false,false,stamina,dribbling
+Josko Gvardiol,CB,L,24,CRO,5,true,false,false,tackling,marking
+Erling Haaland,FW,L,26,NOR,6,true,true,true,finishing,pace
+Mateo Kovacic,MF,R,32,CRO,6,false,false,false,passing,dribbling
+Phil Foden,FW,L,26,ENG,7,true,true,false,dribbling,playmaking
+Matheus Nunes,FB,R,28,POR,10,true,false,false,pace,passing
+Omar Marmoush,FW,L,27,EGY,6,false,false,false,pace,dribbling
+Nico González,MF,R,24,ESP,6,true,false,false,passing,stamina
+Rayan Ait Nouri,FB,L,25,ALG,6,true,false,false,dribbling,pace
+Nathan Ake,CB,L,31,NED,7,false,false,false,tackling,marking
+John Stones,CB,R,32,ENG,8,false,false,false,tackling,heading
+Nico Oreilly,FB,L,21,ENG,5,false,false,false,passing,dribbling
+Kalvin Phillips,MF,R,30,ENG,6,false,false,false,passing,tackling
+Rico Lewis,FB,R,21,ENG,7,false,false,false,dribbling,passing
+Jeremy Doku,FW,L,24,BEL,8,false,false,false,dribbling,pace
+Savinho,FW,L,22,BRA,5,false,false,false,dribbling,pace
+Rayan Cherki,FW,L,23,FRA,6,false,false,false,dribbling,playmaking
+Rúben Dias,CB,R,29,POR,7,true,true,false,tackling,marking
+Abdukodir Khusanov,CB,R,22,UZB,6,false,false,false,pace,tackling
+Oscar Bobb,FW,L,23,NOR,6,false,false,false,dribbling,passing
+Stefan Ortega,GK,R,33,GER,8,false,false,false,reflexes,positioning
+Gianluigi Donnarumma,GK,R,27,ITA,2,true,true,false,reflexes,penalty-saving
+James Trafford,GK,R,23,ENG,6,false,false,false,reflexes,penalty-saving
+Marcus Bettinelli,GK,R,34,ENG,6,false,false,false,positioning,reflexes

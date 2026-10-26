@@ -1,0 +1,13 @@
+name = "Standard de Liège"
+country = "BEL"
+level = 13
+reputation = 3
+colors = ["#F0F0F0", "#F00000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Nayel Godfroid"
+country = "BRA"

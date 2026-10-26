@@ -1,0 +1,20 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tomislav Tomic,GK,L,29,CRO,7,true,false,false,penalty-saving,reflexes
+Josip Bartulic,GK,R,25,CRO,3,false,false,false,positioning,reflexes
+Duje Biuk,GK,L,25,CRO,5,false,false,false,positioning,rushing-out
+Karlo Bungic,CB,R,23,CRO,6,false,false,false,tackling,marking
+Dominik Balic,CB,R,30,CRO,7,true,false,false,marking,heading
+Roko Kurtovic,CB,R,27,CRO,3,true,false,false,tackling,marking
+Zoran Nizic,CB,R,36,CRO,5,false,false,false,marking,stamina
+Ante Utrobicic,FB,L,20,CRO,6,true,false,false,marking,pace
+Marin Karabatic,FB,R,26,CRO,7,false,false,false,pace,crossing
+Andjelo Kordic,FB,R,27,CRO,3,true,false,false,stamina,pace
+Andrija Balic,MF,R,28,CRO,5,true,false,false,tackling,passing
+Mijo Caktas,MF,L,34,CRO,5,true,false,false,dribbling,pace
+Marin Kuzmanic,MF,R,20,CRO,6,true,false,false,playmaking,dribbling
+Matej Jukic,MF,R,29,CRO,1,true,false,false,playmaking,finishing
+Josip Balic,FW,R,22,CRO,5,false,false,false,dribbling,pace
+Stipe Musura,FW,R,19,CRO,6,false,false,false,pace,finishing
+Mateo Smodlaka,FW,R,21,CRO,7,false,false,false,finishing,dribbling
+Bruno Zdunic,FW,R,25,CRO,7,true,false,false,dribbling,finishing
+Ivan Delic,FW,L,27,CRO,3,true,false,false,heading,finishing

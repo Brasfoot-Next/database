@@ -1,0 +1,13 @@
+name = "Shkendija Tetovo"
+country = "MKD"
+level = 14
+reputation = 2
+colors = ["#ff3333", "#000000"]
+
+[stadium]
+name = "Ecolog Arena"
+capacity = 15000
+
+[coach]
+name = "Bruno Hasani"
+country = "BIH"

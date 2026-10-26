@@ -1,0 +1,13 @@
+name = "Fagiano Okayama"
+country = "JPN"
+level = 12
+reputation = 2
+colors = ["#C00040", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Yota Kamiya"
+country = "BRA"

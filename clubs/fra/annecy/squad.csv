@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Vincent Pajot,MF,L,36,FRA,6,false,false,false,stamina,passing
+Ahmed Kashi,MF,R,37,ALG,7,false,false,false,stamina,passing
+Fabrice Nsakala,FB,L,36,COD,2,false,false,false,pace,stamina
+Clement Billemaz,FW,L,27,FRA,5,true,false,false,pace,dribbling
+Antoine Larose,FW,L,33,FRA,5,false,false,false,pace,dribbling
+Josue Tiendrebeogo,MF,R,23,BFA,6,true,false,false,pace,dribbling
+Francois Lajugie,CB,L,30,FRA,7,false,false,false,stamina,heading
+Kilyan Jusseron Veniere,FW,L,20,FRA,3,false,false,false,pace,stamina
+Abdel Hbouch,MF,R,27,FRA,5,true,false,false,passing,playmaking
+Thibault Delphis,FB,R,23,FRA,6,false,false,false,stamina,tackling
+Ben Hamed Toure,FW,R,23,CIV,6,false,false,false,heading,finishing
+Julien Kouadio,CB,R,26,FRA,10,true,false,false,tackling,heading
+Paul Venot,MF,L,24,FRA,5,true,false,false,passing,pace
+Wael Debbiche,MF,R,21,TUN,5,true,false,false,tackling,stamina
+Axel Drouhin,CB,R,26,FRA,6,true,false,false,stamina,heading
+Quentin Paris,FW,L,19,FRA,1,false,false,false,pace,dribbling
+Mayssam Benama,FB,R,21,FRA,5,true,false,false,pace,tackling
+Cedric Makutungu,FB,L,28,COD,6,false,false,false,pace,dribbling
+Hamza Koutoune,FB,R,19,MAR,7,false,false,false,pace,stamina
+Thibault Rambaud,FW,R,29,FRA,1,true,false,false,stamina,heading
+Ranjan Neelakandan,FW,R,21,SUI,4,false,false,false,pace,finishing
+Alexis Casadei,MF,R,21,FRA,5,false,false,false,passing,stamina
+Ibrahim Raache,MF,R,20,FRA,7,false,false,false,pace,dribbling
+Triston Rowe,FB,R,19,ENG,1,true,false,false,tackling,pace
+Matteo Veillon,CB,R,24,FRA,5,false,false,false,marking,tackling
+Florian Escales,GK,L,30,FRA,6,false,false,false,penalty-saving,rushing-out
+Thomas Callens,GK,L,28,FRA,7,true,false,false,penalty-saving,rushing-out
+Mateo Gonzalez,GK,L,20,FRA,2,false,false,false,reflexes,penalty-saving
+Aymerick Nedelec,GK,R,19,FRA,5,false,false,false,rushing-out,positioning

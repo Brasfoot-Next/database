@@ -1,0 +1,13 @@
+name = "Bryne FK"
+country = "NOR"
+level = 8
+reputation = 2
+colors = ["#F0F0F0", "#009030"]
+
+[stadium]
+name = "Bryne Stadion"
+capacity = 5500
+
+[coach]
+name = "Jon Landu"
+country = "BRA"

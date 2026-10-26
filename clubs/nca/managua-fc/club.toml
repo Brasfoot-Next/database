@@ -1,0 +1,13 @@
+name = "Managua FC"
+country = "NCA"
+level = 14
+reputation = 3
+colors = ["#0066cc", "#ffffcc"]
+
+[stadium]
+name = "Olímpico"
+capacity = 9000
+
+[coach]
+name = "Emilio Aburto"
+country = "NCA"

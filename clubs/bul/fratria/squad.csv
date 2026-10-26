@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Iliyan Iliev,GK,L,21,BUL,1,true,false,false,penalty-saving,reflexes
+Stanislav Tanev,GK,R,19,BUL,4,false,false,false,positioning,rushing-out
+Rosen Stefanov,CB,R,23,BUL,6,false,false,false,heading,tackling
+Vadim Dijinari,CB,L,27,BUL,6,true,false,false,heading,passing
+Ibryam Ibryam,CB,R,25,BUL,7,true,false,false,tackling,heading
+Aleksandar Tsvetkov,CB,R,35,BUL,3,false,false,false,heading,stamina
+Velislav Boev,FB,L,22,BUL,5,false,false,false,marking,pace
+Kristiyan Peshov,FB,L,29,BUL,6,true,false,false,tackling,marking
+Arhan Isuf,FB,L,27,BUL,7,true,false,false,passing,pace
+Martin Kostadinov,FB,R,30,BUL,3,false,false,false,tackling,stamina
+David Mihalev,FB,L,20,BUL,7,false,false,false,tackling,pace
+Dimitar Yaramov,FB,L,18,BUL,4,false,false,false,passing,crossing
+Stanislav Dyulgerov,MF,R,22,BUL,5,true,false,false,tackling,passing
+Tymur Korablin,MF,R,24,UKR,6,true,false,false,tackling,marking
+Rumen Rumenov,MF,R,33,BUL,8,true,false,false,dribbling,passing
+Diego Gutiérrez,MF,R,25,ESP,4,true,false,false,passing,finishing
+Demyan Yesin,MF,R,19,UKR,6,false,false,false,pace,crossing
+Maksim Marinov,MF,R,18,BUL,7,false,false,false,playmaking,passing
+Iliyan Kapitanov,MF,R,34,BUL,10,false,false,false,passing,playmaking
+Denis Yanakov,FW,R,27,UKR,4,true,false,false,heading,pace
+Bilal Kandoussi,FW,R,26,ESP,7,true,false,false,dribbling,playmaking
+Stefan Statev,FW,L,23,BUL,3,false,false,false,finishing,pace
+Georgi Atanasov,FW,R,22,BUL,5,false,false,false,crossing,pace
+Miroslav Marinov,FW,R,22,BUL,6,false,false,false,finishing,dribbling
+Denislav Angelov,FW,L,25,BUL,7,false,false,false,finishing,dribbling

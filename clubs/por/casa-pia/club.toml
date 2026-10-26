@@ -1,0 +1,13 @@
+name = "Casa Pia"
+country = "POR"
+level = 13
+reputation = 3
+colors = ["#000000", "#C0C0C0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Xander Yahia"
+country = "BRA"

@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+David Nwolokor,GK,R,30,NGA,6,true,false,false,positioning,rushing-out
+Aleksa Todorovic,GK,R,22,SRB,7,false,false,false,reflexes,rushing-out
+Domagoj Ivan Maric,GK,R,20,CRO,4,false,false,false,reflexes,penalty-saving
+Anel Husic,CB,R,25,SUI,5,true,false,false,marking,tackling
+Ante Majstorovic,CB,R,32,CRO,6,true,false,false,marking,passing
+Jovan Manev,CB,R,25,CRO,7,false,false,false,marking,passing
+Roko Valincic,CB,L,19,CRO,4,false,false,false,heading,passing
+Petar Raguz,CB,R,20,CRO,6,false,false,false,heading,passing
+Mladen Devetak,FB,R,27,SRB,6,true,false,false,tackling,stamina
+Noel Bodetic,FB,L,22,CRO,2,false,false,false,marking,crossing
+Ante Orec,FB,R,24,CRO,6,true,false,false,stamina,pace
+Téo Barišić,FB,R,21,CRO,7,false,false,false,pace,tackling
+Justas Lasickas,FB,L,28,LTU,4,false,false,false,tackling,stamina
+Alfonso Barco,MF,R,24,PER,6,true,false,false,dribbling,passing
+Branko Pavic,MF,R,19,CRO,6,false,false,false,playmaking,passing
+Tiago Dantas,MF,R,25,POR,7,true,false,false,dribbling,pace
+Toni Fruk,MF,R,25,CRO,5,true,false,false,passing,dribbling
+Niko Jankovic,MF,R,24,CRO,6,false,false,false,marking,passing
+Samuele Vignato,MF,L,22,ITA,7,true,false,false,passing,finishing
+Amer Gojak,MF,R,29,CRO,4,false,false,false,finishing,passing
+Ivan Cubelic,MF,R,23,CRO,6,false,false,false,playmaking,passing
+Dominik Yankov,MF,R,25,BUL,7,false,false,false,passing,stamina
+Merveil Ndockyt,MF,R,27,CGO,2,false,false,false,playmaking,passing
+Florent Shehu,MF,R,24,SUI,5,false,false,false,dribbling,playmaking
+Gabriel Rukavina,FW,R,22,CRO,6,false,false,false,heading,pace
+Dimitri Legbo,FW,R,24,CRO,7,false,false,false,dribbling,pace
+Tornike Morchiladze,FW,R,24,GEO,2,false,false,false,playmaking,finishing
+Dominik Thaqi,FW,R,19,CRO,5,false,false,false,playmaking,finishing
+Matej Momcilovski,FW,R,21,CRO,6,false,false,false,pace,finishing
+Daniel Adu-Adjei,FW,R,21,ENG,6,true,false,false,playmaking,finishing
+Ante Matej Juric,FW,R,23,CRO,1,true,false,false,heading,stamina
+Cherno Saho,FW,R,21,CRO,5,false,false,false,finishing,dribbling
+Jakov Puljic,FW,L,32,CRO,6,false,false,false,playmaking,finishing
+Dominik Dogan,FW,R,27,CRO,7,false,false,false,finishing,stamina

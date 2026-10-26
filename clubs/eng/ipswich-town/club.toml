@@ -1,0 +1,13 @@
+name = "Ipswich Town"
+country = "ENG"
+level = 16
+reputation = 3
+colors = ["#F0F0F0", "#103080"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Elkan Taylor"
+country = "BRA"

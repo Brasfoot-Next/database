@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Marko Malenica,GK,R,32,CRO,2,true,false,false,positioning,reflexes
+Nikola Curcija,GK,R,25,CAN,5,false,false,false,positioning,reflexes
+Jan Hlapcic,GK,R,20,CRO,6,false,false,false,positioning,rushing-out
+Luka Jelenic,CB,L,26,CRO,7,true,false,false,heading,passing
+Jon Mersinaj,CB,R,27,ALB,2,true,false,false,marking,stamina
+Emin Hasic,CB,L,23,SWE,5,false,false,false,marking,tackling
+Ivano Kolarik,CB,L,19,CRO,6,false,false,false,marking,stamina
+Kresimir Vrbanac,CB,R,21,CRO,7,false,false,false,marking,stamina
+Roko Jurisic,FB,R,24,CRO,3,true,false,false,crossing,pace
+Borna Barisic,FB,R,33,CRO,5,true,false,false,stamina,crossing
+Luka Zebec,FB,R,25,CRO,4,false,false,false,passing,crossing
+Senad Mustafic,FB,R,20,CRO,5,false,false,false,passing,crossing
+Renan Guedes,FB,L,28,BRA,6,false,false,false,stamina,crossing
+Oleksandr Petrusenko,MF,R,28,UKR,8,true,false,false,dribbling,playmaking
+Vito Caic,MF,R,21,CRO,4,false,false,false,passing,stamina
+David Mejía,MF,R,23,COL,5,false,false,false,stamina,passing
+Niko Farkas,MF,R,19,CRO,6,false,false,false,passing,tackling
+Luka Vrbancic,MF,R,21,CRO,7,true,false,false,finishing,passing
+Simun Mikolcic,MF,R,22,CRO,2,true,false,false,finishing,passing
+Stanislav Shopov,MF,R,24,BUL,5,true,false,false,dribbling,playmaking
+Balázs Bakti,MF,R,21,HUN,3,false,false,false,playmaking,dribbling
+Nail Omerovic,FW,R,23,CRO,5,true,false,false,pace,finishing
+Ivan Dolcek,FW,L,26,CRO,6,false,false,false,pace,crossing
+Milos Jovicic,FW,L,20,CRO,7,false,false,false,finishing,heading
+Domagoj Bukvic,FW,L,22,CRO,4,false,false,false,heading,pace
+Anton Matkovic,FW,R,20,CRO,5,true,false,false,dribbling,playmaking
+Arnel Jakupovic,FW,L,28,AUT,6,false,false,false,heading,stamina
+Yannick Toure,FW,R,25,SUI,7,false,false,false,playmaking,finishing
+Mateo Bacic,FW,R,21,CRO,10,false,false,false,dribbling,playmaking
+Ivan Baric,FW,R,19,CRO,5,false,false,false,dribbling,playmaking
+Justice Ohajunwa,FW,R,25,NGA,2,false,false,false,dribbling,finishing
+Marino Zeravica,FW,R,20,CRO,5,false,false,false,crossing,pace
+Balelo,FW,R,24,POR,6,false,false,false,finishing,heading

@@ -1,0 +1,13 @@
+name = "Pohang Steelers"
+country = "KOR"
+level = 12
+reputation = 2
+colors = ["#000000", "#C0C0C0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Kwon Jae"
+country = "BRA"

@@ -1,0 +1,13 @@
+name = "OFI Crete"
+country = "GRE"
+level = 13
+reputation = 3
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Aaron Lilo"
+country = "BRA"

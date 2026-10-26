@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gaston Lodico,MF,L,28,ARG,4,true,false,false,pace,stamina
+Juan Ignacio Mendez,MF,R,29,ARG,6,true,false,false,dribbling,passing
+Lucas Rodriguez,FB,L,32,ARG,7,false,false,false,pace,stamina
+Jonas Acevedo,FW,L,29,ARG,1,false,false,false,pace,playmaking
+Franco Diaz,MF,R,26,ARG,5,false,false,false,stamina,passing
+Alex Luna,MF,R,22,ARG,6,true,false,false,passing,pace
+Nicolas Cordero,FW,R,27,ARG,7,false,false,false,stamina,finishing
+Matias Gallardo,MF,R,22,ARG,1,false,false,false,playmaking,pace
+Francis Mac Allister,MF,R,30,ARG,5,false,false,false,playmaking,tackling
+Juan Jose Franco,FB,R,34,PAR,6,false,false,false,stamina,tackling
+Stefano Moreyra,MF,R,25,ARG,6,true,false,false,marking,stamina
+Damian Puebla,FW,L,23,ARG,7,true,false,false,finishing,pace
+Matias Fonseca,FW,R,25,URU,3,false,false,false,finishing,passing
+Elias Pereyra,FB,L,27,ARG,5,true,false,false,stamina,pace
+Jhon Cordoba,FW,R,26,COL,6,true,false,false,pace,dribbling
+Facundo Suarez,FW,R,32,ARG,7,false,false,false,finishing,stamina
+Jeremias Lazaro,MF,R,22,ARG,3,false,false,false,dribbling,pace
+Fernando Alarcon,CB,L,32,ARG,5,true,false,false,tackling,heading
+Emanuel Beltran,FB,R,28,URU,7,true,false,false,pace,stamina
+Agustin Bravo,CB,L,25,ARG,2,false,false,false,pace,tackling
+Nicolas Zalazar,CB,R,29,ARG,6,false,false,false,tackling,marking
+Luca Klimowicz,FW,R,22,ARG,7,false,false,false,heading,finishing
+Manuel Romero,FW,R,25,PAR,1,false,false,false,heading,finishing
+Leonel Mosevich,CB,R,29,ARG,5,false,false,false,marking,tackling
+Matias Klimowicz,FW,R,19,ECU,6,false,false,false,pace,stamina
+Lorenzo Albarracin,FW,L,19,ARG,7,false,false,false,pace,dribbling
+Gonzalo Requena,CB,R,23,ARG,2,true,false,false,tackling,stamina
+Joaquin Papaleo,GK,R,32,ARG,5,false,false,false,positioning,reflexes
+Manuel Roffo,GK,R,26,ARG,6,true,false,false,reflexes,penalty-saving
+Emanuel Sittaro,GK,R,26,ARG,4,false,false,false,penalty-saving,rushing-out

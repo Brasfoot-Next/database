@@ -1,0 +1,13 @@
+name = "Instituto Atlético Central Córdoba"
+country = "ARG"
+level = 13
+reputation = 3
+colors = ["#F0F0F0", "#101010"]
+
+[stadium]
+name = "Juan Domingo Perón"
+capacity = 25000
+
+[coach]
+name = "Facundo Mendez"
+country = "BRA"

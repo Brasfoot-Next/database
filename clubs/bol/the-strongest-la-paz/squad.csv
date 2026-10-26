@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rodrigo Banegas,GK,R,30,BOL,2,true,false,false,reflexes,positioning
+Diego Valdivia,GK,R,25,BOL,5,false,false,false,reflexes,penalty-saving
+Pablo Pedraza,CB,R,31,BOL,6,true,false,false,tackling,stamina
+Adrián Jusino,CB,L,34,BOL,7,false,false,false,marking,stamina
+Yamil Portuncho,CB,L,20,BOL,3,false,false,false,tackling,pace
+Martín Chiatti,CB,R,33,ARG,5,true,false,false,tackling,pace
+Carlos Roca,FB,L,29,BOL,6,true,false,false,stamina,pace
+Kevin Romay,FB,L,32,BOL,7,false,false,false,marking,crossing
+Widen Saucedo,FB,R,29,BOL,3,true,false,false,pace,tackling
+Santiago Arce,MF,R,26,BOL,5,true,false,false,marking,passing
+Jovani Welch,MF,R,26,PAN,5,true,false,false,passing,stamina
+Víctor Cuellar,MF,R,25,BOL,6,true,false,false,tackling,marking
+Raúl Castro,MF,R,36,BOL,7,false,false,false,playmaking,dribbling
+Jhósep Michel,MF,L,17,BOL,3,false,false,false,tackling,marking
+Juan Santacruz,MF,R,23,COL,6,false,false,false,playmaking,finishing
+Jaime Arrascaita,MF,L,32,BOL,7,false,false,false,pace,crossing
+Kevin Salvatierra,MF,R,24,BOL,2,true,false,false,playmaking,passing
+Jonathan Bustos,MF,R,32,ARG,5,false,false,false,passing,playmaking
+Roy Ribertt,MF,R,20,BOL,6,false,false,false,playmaking,finishing
+Fabricio Quaglio,FW,L,22,BOL,7,false,false,false,dribbling,finishing
+Juan Cuellar,FW,R,19,BOL,5,false,false,false,finishing,dribbling
+Carlos Ventura,FW,R,28,BOL,6,false,false,false,finishing,dribbling
+Gabriel Sotomayor,FW,L,27,BOL,7,true,false,false,dribbling,pace
+Adrián Estacio,FW,R,28,COL,1,false,false,false,heading,finishing
+Santiago Melgar,FW,L,21,BOL,5,false,false,false,dribbling,finishing
+Darwin Lom,FW,R,29,GUA,6,true,false,false,finishing,dribbling

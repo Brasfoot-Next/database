@@ -1,0 +1,13 @@
+name = "Hannover 96"
+country = "GER"
+level = 13
+reputation = 3
+colors = ["#000000", "#109030"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Benedikt Roggow"
+country = "BRA"

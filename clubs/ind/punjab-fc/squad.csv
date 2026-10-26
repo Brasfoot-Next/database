@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Vinit Rai,MF,R,28,IND,5,true,false,false,stamina,passing
+Samuel Kynshi,MF,L,26,IND,6,true,false,false,stamina,passing
+Khaimin Lhungdim,FB,R,26,IND,7,true,false,false,stamina,tackling
+Ricky Shabong,MF,R,23,IND,2,false,false,false,stamina,tackling
+Ninthoi Meetei,FW,R,25,IND,5,true,false,false,pace,passing
+Ashis Pradhan,MF,L,27,IND,6,true,false,false,passing,tackling
+Nikhil Prabhu,MF,R,25,IND,7,true,false,false,passing,dribbling
+Singamayum Shami,MF,R,19,IND,3,false,false,false,pace,passing
+Muhammed Uvais,FB,L,28,IND,5,true,false,false,tackling,stamina
+Leon Augustine,FW,R,27,IND,6,true,false,false,pace,stamina
+Manglenthang Kipgen,MF,R,21,IND,6,false,false,false,passing,pace
+Nitesh Darjee,FB,L,22,IND,2,false,false,false,pace,tackling
+Ranjeet Pandre,FW,R,31,IND,5,false,false,false,pace,stamina
+Muhammad Suhail,FW,R,19,IND,6,false,false,false,pace,dribbling
+Vishal Yadav,FW,L,18,IND,7,false,false,false,pace,dribbling
+Tejas Krishna,FB,L,25,IND,2,false,false,false,pace,stamina
+Bijoy Varghese,CB,R,26,IND,5,true,false,false,pace,stamina
+Pramveer Ranbir,CB,L,19,IND,6,false,false,false,stamina,pace
+Suresh Meitei,CB,L,32,IND,7,true,false,false,tackling,marking
+Ravi Kumar,GK,R,33,IND,3,false,false,false,positioning,reflexes
+Muheet Shabir Khan,GK,R,25,IND,6,true,false,false,positioning,rushing-out
+Ayush Deshwal,GK,R,21,IND,7,false,false,false,penalty-saving,positioning

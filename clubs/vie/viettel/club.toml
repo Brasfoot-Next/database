@@ -1,0 +1,13 @@
+name = "Viettel"
+country = "VIE"
+level = 14
+reputation = 2
+colors = ["#990000", "#ffffff"]
+
+[stadium]
+name = "Nha Trang"
+capacity = 25000
+
+[coach]
+name = "Ji-won Bae"
+country = "KOR"

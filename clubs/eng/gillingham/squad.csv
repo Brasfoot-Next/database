@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Armani Little,MF,L,29,ENG,5,true,false,false,stamina,pace
+Bradley Dack,MF,R,32,ENG,6,false,false,false,dribbling,passing
+Garath Mccleary,FW,R,39,JAM,7,false,false,false,pace,crossing
+Remeao Hutton,FB,R,27,ENG,4,true,false,false,stamina,pace
+Aaron Rowe,FW,R,26,ENG,5,true,false,false,pace,stamina
+Max Clark,FB,L,30,ENG,6,true,false,false,stamina,pace
+Jonny Williams,MF,R,32,WAL,8,false,false,false,dribbling,pace
+Sam Vokes,FW,R,36,WAL,5,false,false,false,heading,stamina
+Robbie Mckenzie,CB,R,27,ENG,6,true,false,false,stamina,pace
+Jonny Smith,FW,L,29,ENG,6,false,false,false,pace,stamina
+Ethan Coleman,MF,R,26,ENG,6,true,false,false,stamina,pace
+Nelson Khumbeni,MF,R,23,ENG,8,true,false,false,stamina,pace
+Shadrach Ogie,CB,L,25,IRL,5,false,false,false,pace,stamina
+Seb Palmer Houlden,FW,R,22,ENG,6,false,false,false,pace,stamina
+Elliott Nevitt,FW,R,29,ENG,6,false,false,false,stamina,pace
+Euan Williams,MF,R,23,NIR,10,true,false,false,pace,stamina
+Lenni Cirino,FB,L,23,ENG,5,false,false,false,pace,dribbling
+Conor Masterson,CB,R,28,IRL,6,true,false,false,stamina,pace
+Andy Smith,CB,L,24,ENG,7,false,false,false,stamina,heading
+Stanley Skipper,MF,L,20,ENG,1,false,false,false,pace,stamina
+Marcus Wyllie,FW,R,27,CYP,6,true,false,false,pace,stamina
+Sam Gale,CB,R,21,ENG,7,false,false,false,pace,stamina
+Damien Theodore,FW,L,19,ENG,4,false,false,false,pace,dribbling
+Josh Andrews,FW,L,24,ENG,5,false,false,false,pace,stamina
+Harry Webster,FB,R,20,ENG,6,false,false,false,pace,stamina
+Travis Akomeah,CB,R,20,ENG,7,false,false,false,pace,heading
+Glenn Morris,GK,R,42,ENG,4,false,false,false,positioning,reflexes
+Jake Turner,GK,R,27,ENG,5,true,false,false,rushing-out,reflexes

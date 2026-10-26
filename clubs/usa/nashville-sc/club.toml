@@ -1,0 +1,13 @@
+name = "Nashville SC"
+country = "USA"
+level = 13
+reputation = 3
+colors = ["#E0E030", "#101040"]
+
+[stadium]
+name = "GEODIS Park"
+capacity = 30000
+
+[coach]
+name = "Teal Tagseth"
+country = "BRA"

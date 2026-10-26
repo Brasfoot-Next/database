@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nishu Kumar,FB,L,28,IND,6,true,false,false,pace,stamina
+Rei Tachikawa,MF,R,28,JPN,7,true,false,false,stamina,playmaking
+Jayesh Rane,MF,R,33,IND,1,true,false,false,stamina,pace
+Mobashir Rahman,MF,L,28,IND,5,true,false,false,stamina,pace
+Seiminlen Doungel,FW,R,32,IND,6,false,false,false,pace,stamina
+Pronay Halder,MF,R,33,IND,7,false,false,false,stamina,dribbling
+Suhair Vadakkepeedika,FW,R,34,IND,2,false,false,false,pace,stamina
+Stephen Eze,CB,L,32,NGA,5,false,false,false,stamina,pace
+Ritwik Kumar Das,FW,L,29,IND,6,false,false,false,pace,stamina
+Shubham Sarangi,FB,R,26,IND,7,true,false,false,stamina,pace
+Aniket Jadhav,FW,L,26,IND,7,true,false,false,pace,stamina
+Imran Khan,FW,R,31,IND,3,false,false,false,pace,tackling
+Ashutosh Mehta,FB,R,35,IND,5,false,false,false,stamina,pace
+Lazar Cirkovic,CB,R,34,SRB,6,false,false,false,heading,tackling
+Nikhil Barla,FB,R,23,IND,7,false,false,false,pace,stamina
+Vincy Barretto,FW,R,26,IND,4,false,false,false,pace,dribbling
+Sourav Das,MF,R,30,IND,5,true,false,false,stamina,passing
+Sarthak Golui,FB,R,28,IND,6,false,false,false,stamina,pace
+Chawngthu Lalhriatpuia,MF,R,21,IND,7,false,false,false,pace,passing
+Mohammed Sanan,FW,L,22,IND,4,false,false,false,finishing,pace
+Daniel Lalhlimpuia,FW,R,28,IND,6,false,false,false,pace,dribbling
+Jestin George,CB,R,28,IND,2,true,false,false,stamina,pace
+Manvir Singh,FW,R,25,IND,5,false,false,false,pace,dribbling
+Calvin Rosario Baretto,FB,L,26,IND,6,false,false,false,stamina,tackling
+Pratik Chaudhari,CB,R,36,IND,7,false,false,false,stamina,tackling
+Sreekuttan Viruthiyil Santhosh,FW,R,27,IND,3,true,false,false,dribbling,finishing
+Praful Kumar Venkatesh,CB,R,23,IND,5,true,false,false,pace,stamina
+Albino Giovanni Gomes,GK,R,32,IND,6,false,false,false,penalty-saving,positioning
+Vishal Yadav,GK,R,24,IND,7,false,false,false,reflexes,positioning
+Ayush Jena,GK,R,24,IND,3,false,false,false,penalty-saving,reflexes
+Amrit Gope,GK,R,26,IND,6,true,false,false,penalty-saving,positioning

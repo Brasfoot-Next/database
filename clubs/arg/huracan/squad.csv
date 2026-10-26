@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Facundo Waller,FW,L,29,URU,6,true,false,false,pace,passing
+Leonardo Gil,MF,L,35,ARG,7,true,false,false,stamina,playmaking
+Hernan De La Fuente,FB,R,29,ARG,4,false,false,false,pace,stamina
+Gabriel Alanis,FW,L,32,ARG,5,false,false,false,stamina,pace
+Leonardo Sequeira,FW,R,31,ARG,6,false,false,false,heading,pace
+Luciano Gimenez,FW,R,26,ARG,8,false,false,false,heading,pace
+Agustin Urzi,FW,L,26,ARG,4,false,false,false,pace,stamina
+Tomas Guidara,FB,R,30,ARG,5,true,false,false,stamina,pace
+Eric Ramirez,FW,R,29,ARG,6,false,false,false,pace,heading
+Ramon Abila,FW,R,36,ARG,8,false,false,false,heading,finishing
+Emmanuel Ojeda,MF,R,28,ARG,5,true,false,false,stamina,passing
+Juan Bisanz,FW,R,25,ARG,6,true,false,false,pace,dribbling
+Martin Nervo,CB,R,35,ARG,7,false,false,false,stamina,marking
+Matko Miljevic,MF,R,25,USA,3,true,false,false,dribbling,passing
+Daniel Zabala,CB,R,23,ARG,3,false,false,false,tackling,heading
+Lucas Carrizo,CB,L,29,ARG,5,true,false,false,stamina,pace
+Leonel Perez,MF,R,22,ARG,6,true,false,false,stamina,pace
+Cesar Ibanez,FB,L,27,ARG,7,true,false,false,pace,stamina
+Rodrigo Cabral,FW,L,26,ARG,4,false,false,false,dribbling,pace
+Fabio Pereyra,CB,R,36,ARG,5,false,false,false,heading,tackling
+Matias Tissera,FW,R,30,ARG,7,false,false,false,finishing,stamina
+Nehuen Paz,CB,L,33,ARG,3,false,false,false,heading,marking
+Lautaro Mora,MF,R,21,ARG,5,false,false,false,passing,stamina
+Leandro Lescano,FB,L,23,ARG,6,false,false,false,stamina,pace
+Milton Rios,MF,R,22,ARG,7,false,false,false,stamina,passing
+Nicolas Goitea,CB,R,29,ARG,5,true,false,false,heading,tackling
+Hernan Galindez,GK,R,39,ECU,6,false,false,false,positioning,reflexes
+Sebastian Meza,GK,R,26,ARG,7,true,false,false,reflexes,penalty-saving
+Nazareno Duran,GK,R,22,ARG,2,false,false,false,reflexes,positioning

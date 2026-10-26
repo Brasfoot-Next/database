@@ -1,0 +1,13 @@
+name = "Waterhouse"
+country = "JAM"
+level = 13
+reputation = 2
+colors = ["#ffff66", "#003366"]
+
+[stadium]
+name = "Drewland Stadium"
+capacity = 5000
+
+[coach]
+name = "Marcel Gayle"
+country = "JAM"

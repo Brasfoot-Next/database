@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Andy,MF,L,36,ESP,7,false,false,false,stamina,tackling
+Jairo,FW,R,33,ESP,2,false,false,false,pace,crossing
+Guillermo,FW,R,33,ESP,5,false,false,false,stamina,finishing
+Chema Núñez,MF,R,28,ESP,6,true,false,false,passing,dribbling
+Alaeddine Ajaraie,FW,R,33,MAR,7,false,false,false,pace,finishing
+Néstor Albiach,MF,L,34,ESP,3,false,false,false,passing,dribbling
+Macarton Louis Nickson,MF,R,22,IND,5,false,false,false,passing,dribbling
+Mayakkannan Muthu,MF,L,29,IND,6,true,false,false,pace,passing
+Phalguni Singh,MF,R,31,IND,7,true,false,false,stamina,pace
+Míchel Zabaco,CB,L,37,ESP,3,false,false,false,marking,heading
+Jithin Subran,FW,L,28,IND,5,true,false,false,pace,stamina
+Redeem Tlang,FW,R,31,IND,6,false,false,false,pace,stamina
+Buanthanglun Samte,FB,L,26,IND,7,true,false,false,stamina,pace
+Sumit Rathi,CB,L,25,IND,3,true,false,false,pace,stamina
+Parthib Gogoi,FW,R,23,IND,5,false,false,false,pace,dribbling
+Tondonba Singh,FB,L,31,IND,6,false,false,false,stamina,pace
+Mohammed Arshaf,MF,R,22,IND,7,false,false,false,pace,passing
+Asheer Akhtar,CB,R,31,IND,7,true,false,false,stamina,pace
+Danny Laishram,FW,L,18,IND,4,false,false,false,pace,crossing
+Fredy Chawngthansanga,MF,R,23,IND,5,true,false,false,stamina,pace
+Shighil Nambrath,MF,R,23,IND,7,false,false,false,stamina,pace
+Alfred Lalruotsang,FW,R,23,IND,3,false,false,false,pace,stamina
+Bekey Oram,FB,R,22,IND,5,false,false,false,pace,passing
+Ankith Padmanabhan,FW,R,25,IND,6,false,false,false,pace,stamina
+Dinesh Singh,FB,R,28,IND,7,true,false,false,stamina,pace
+Lalbiakdika Vanlalvunga,FW,R,26,IND,4,true,false,false,pace,heading
+Thoi Singh,FW,L,22,IND,5,false,false,false,pace,dribbling
+Lalrinzuala Lalbiaknia,FW,R,25,IND,6,false,false,false,pace,stamina
+Robin Yadav,FB,R,24,IND,3,false,false,false,stamina,tackling
+Gurmeet Singh,GK,R,26,IND,5,true,false,false,positioning,reflexes
+Mirshad Michu,GK,R,32,IND,7,false,false,false,reflexes,penalty-saving
+Dipesh Chauhan,GK,R,22,IND,2,false,false,false,penalty-saving,reflexes

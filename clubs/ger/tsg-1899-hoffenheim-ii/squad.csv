@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Florian Bahr,FB,L,23,GER,7,false,false,false,pace,stamina
+Ruben Reisig,MF,R,30,GER,1,true,false,false,passing,playmaking
+Ayoube Amaimouni,FW,L,21,MAR,3,false,false,false,pace,dribbling
+Arian Llugiqi,MF,L,23,GER,5,true,false,false,pace,dribbling
+Diren Dagdeviren,MF,R,21,TUR,6,true,false,false,pace,passing
+Paul Hennrich,FW,L,21,GER,7,true,false,false,pace,dribbling
+Nader Jindaoui,FW,L,29,GER,3,false,false,false,dribbling,pace
+Valentin Lassig,CB,L,23,GER,5,true,false,false,stamina,tackling
+Tiago Poller,MF,L,19,GER,6,false,false,false,pace,passing
+Melvin Onos,MF,R,20,GER,7,true,false,false,dribbling,passing
+Ben Opoku Labes,FW,R,22,GER,7,false,false,false,finishing,pace
+Denis Donkor,FW,R,23,GER,10,false,false,false,pace,dribbling
+Simon Kalambayi,FW,R,21,FRA,5,true,false,false,finishing,pace
+Alex Honajzer,FW,L,20,CZE,6,false,false,false,stamina,crossing
+Leonard Krasniqi,FW,L,20,GER,7,false,false,false,pace,dribbling
+Yannik Luhrs,CB,R,22,GER,1,true,false,false,tackling,heading
+Blessing Makanda,FW,R,20,ANG,5,false,false,false,pace,dribbling
+Ahmed Etri,FW,R,21,GER,6,false,false,false,pace,dribbling
+Lars Strobl,FB,R,21,GER,7,true,false,false,tackling,heading
+Yannis Hor,FB,R,21,GER,2,false,false,false,pace,tackling
+Luca Erlein,FB,R,19,GER,5,true,false,false,tackling,marking
+Gianluca Pelzer,CB,R,20,GER,6,false,false,false,tackling,pace
+Tim Philipp,GK,R,20,GER,7,false,false,false,reflexes,penalty-saving
+Yannick Onohiol,GK,R,22,GER,1,true,false,false,rushing-out,positioning
+Benjamin Lade,GK,R,20,GER,5,false,false,false,reflexes,positioning

@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Carl Winchester,MF,L,33,NIR,6,true,false,false,stamina,pace
+Michael Duffy,FW,L,32,IRL,7,false,false,false,pace,playmaking
+Adam Oreilly,MF,R,25,IRL,3,true,false,false,stamina,pace
+Robbie Benson,MF,L,34,IRL,5,true,false,false,passing,playmaking
+Ben Doherty,FB,L,29,NIR,6,true,false,false,pace,crossing
+Liam Boyce,FW,R,35,NIR,7,true,false,false,finishing,heading
+Brandon Fleming,FB,L,26,ENG,3,true,false,false,pace,crossing
+Shane Ferguson,FB,L,35,NIR,5,false,false,false,pace,passing
+Gavin Whyte,FW,R,30,NIR,6,false,false,false,pace,playmaking
+Ronan Boyce,FB,R,25,IRL,7,false,false,false,stamina,pace
+Danny Mullen,FW,R,31,SCO,5,false,false,false,pace,dribbling
+Adam Frizzell,FW,L,28,SCO,6,true,false,false,pace,stamina
+Sadou Diallo,MF,R,27,ENG,8,true,false,false,passing,tackling
+Cameron Dummigan,FB,R,30,NIR,4,false,false,false,passing,tackling
+Dipo Akinyemi,FW,R,29,ENG,5,false,false,false,pace,finishing
+Alex Bannon,CB,R,22,SCO,6,false,false,false,stamina,pace
+Jamie Stott,CB,L,28,ENG,7,true,false,false,pace,stamina
+Mark Connolly,CB,R,34,IRL,1,false,false,false,stamina,passing
+Hayden Cann,CB,R,22,ENG,5,false,false,false,stamina,heading
+Sam Todd,CB,L,28,IRL,6,true,false,false,passing,heading
+Aaron Heaney,CB,R,22,IRL,5,false,false,false,pace,stamina
+Brian Maher,GK,R,25,IRL,6,true,false,false,positioning,reflexes
+Arlo Doherty,GK,R,23,IRL,7,false,false,false,rushing-out,reflexes

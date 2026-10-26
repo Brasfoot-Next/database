@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Abderrahmane Medjadel,GK,R,28,ALG,5,true,false,false,positioning,penalty-saving
+Chamseddine Rahmani,GK,R,35,ALG,6,false,false,false,rushing-out,reflexes
+Fouad Rahmani,CB,R,24,ALG,7,true,false,false,heading,tackling
+Mohamed El Amine Barka,CB,R,33,ALG,4,false,false,false,marking,heading
+Zakaria Abdelli,CB,L,22,ALG,5,true,false,false,passing,marking
+Tarek Bouabta,CB,R,34,ALG,6,false,false,false,stamina,heading
+Abdeldjalil Bessalhi,CB,R,19,ALG,8,false,false,false,passing,marking
+Belkacem Brahimi,FB,L,32,ALG,4,false,false,false,tackling,stamina
+Abderrahim Hamdani,FB,R,30,ALG,5,false,false,false,crossing,pace
+Ayoub Sadahine,FB,L,25,ALG,6,false,false,false,crossing,pace
+Abdelhak Debbari,FB,L,33,ALG,6,false,false,false,crossing,pace
+Amir Laidouni,FB,L,26,ALG,7,true,false,false,pace,crossing
+Saïd Lamrani,FB,R,26,ALG,3,true,false,false,passing,pace
+Mohamed Alaeddine Belaribi,MF,R,28,ALG,5,true,false,false,stamina,passing
+Ismael Mahamadou Moussa,MF,R,24,ALG,6,true,false,false,passing,tackling
+Mohamed Ilyas Abboub,MF,R,23,ALG,7,true,false,false,dribbling,playmaking
+Djamel Belalem,MF,R,32,ALG,4,false,false,false,passing,tackling
+Samir Aiboud,MF,L,32,ALG,5,false,false,false,playmaking,finishing
+Chemseddine Bekkouche,MF,L,25,ALG,6,true,false,false,pace,crossing
+Imad Eddine Larbi,MF,L,23,ALG,7,false,false,false,dribbling,passing
+Edward Ledlum,FW,R,27,LBR,6,true,false,false,dribbling,pace
+Zoubir Motrani,FW,R,30,ALG,7,false,false,false,pace,finishing
+Yasser Belaribi,FW,R,27,ALG,1,true,false,false,dribbling,pace
+Aissa Feddal,FW,R,21,ALG,5,false,false,false,heading,stamina
+Kokou Bruno Avotor,FW,R,24,ALG,6,false,false,false,heading,finishing
+Anis Elhadj Benchouya,FW,R,23,ALG,7,false,false,false,dribbling,playmaking

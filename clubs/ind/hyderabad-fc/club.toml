@@ -1,0 +1,13 @@
+name = "Hyderabad FC"
+country = "IND"
+level = 2
+reputation = 0
+colors = ["#F0D010", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Alex Singh"
+country = "BRA"

@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+George Honeyman,FW,R,32,ENG,5,false,false,false,stamina,playmaking
+Lee Evans,MF,L,32,WAL,6,true,false,false,stamina,playmaking
+Albie Morgan,MF,R,26,ENG,7,true,false,false,stamina,pace
+Cj Hamilton,FW,L,31,IRL,1,false,false,false,pace,stamina
+Danny Imray,FB,R,23,ENG,5,false,false,false,stamina,pace
+Andy Lyons,FB,R,26,IRL,6,true,false,false,stamina,pace
+James Husband,FB,L,32,ENG,7,false,false,false,stamina,crossing
+Emil Hansson,FW,L,28,SWE,1,true,false,false,dribbling,playmaking
+Niall Ennis,FW,R,27,ENG,5,false,false,false,pace,stamina
+Josh Bowler,FW,L,27,ENG,6,true,false,false,dribbling,pace
+Zac Ashworth,FB,L,24,WAL,7,true,false,false,pace,stamina
+Jordan Brown,FB,R,25,ENG,4,false,false,false,stamina,pace
+Hayden Coulson,FB,L,28,ENG,5,false,false,false,pace,stamina
+Scott Banks,FW,L,24,SCO,6,true,false,false,pace,stamina
+Ashley Fletcher,FW,L,30,ENG,7,false,false,false,pace,heading
+Dale Taylor,FW,R,22,NIR,4,true,false,false,pace,finishing
+Tom Bloxham,FW,R,22,ENG,5,false,false,false,pace,stamina
+Michael Ihiekwe,CB,R,33,ENG,6,false,false,false,heading,marking
+Fraser Horsfall,CB,R,29,ENG,8,true,false,false,stamina,heading
+Olly Casey,CB,L,25,ENG,1,true,false,false,stamina,heading
+Bailey Peacock Farrell,GK,L,29,NIR,5,true,false,false,reflexes,penalty-saving
+Franco Ravizzoli,GK,R,29,ARG,6,false,false,false,positioning,reflexes

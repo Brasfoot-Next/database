@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Josh Cohen,GK,R,29,USA,4,true,false,false,rushing-out,penalty-saving
+Roi Mishpati,GK,R,29,ISR,1,false,false,false,positioning,rushing-out
+Sun Menahem,FB,L,28,ISR,2,false,false,false,finishing,passing
+Raz Meir,FB,R,25,ISR,2,false,false,false,crossing,marking
+Bogdan Planic,CB,R,30,SRB,5,true,false,false,tackling,marking
+Ofri Arad,CB,L,23,ISR,1,false,false,false,tackling,heading
+Rami Gershon,CB,R,33,ISR,8,false,false,false,tackling,stamina
+Shon Goldberg,CB,L,27,ISR,5,true,false,false,marking,pace
+Tjaronn Chery,MF,R,34,SUR,8,true,false,false,playmaking,passing
+Neta Lavi,MF,R,25,ISR,7,true,false,false,tackling,marking
+Abu Fani,MF,L,24,ISR,10,true,false,false,marking,finishing
+Ali Mohamed,MF,L,26,NIG,4,true,false,false,tackling,marking
+Dolev Haziza,FW,R,27,ISR,1,true,false,false,pace,crossing
+Omer Atzili,FW,R,28,ISR,5,false,false,false,pace,dribbling
+Dean David,FW,R,26,ISR,8,true,false,false,pace,dribbling
+Sharif Kaiuf,GK,R,21,ISR,9,false,false,false,positioning,rushing-out
+Pierre Cornud,FB,L,25,FRA,5,true,false,false,marking,finishing
+Daniel Sundgren,FB,R,31,SWE,6,true,false,false,crossing,marking
+Ibrahim Goabara,MF,R,21,ISR,10,false,false,false,finishing,passing
+Dolev Bura,MF,R,23,ISR,1,false,false,false,playmaking,pace
+Yanal Araidy,MF,L,20,ISR,1,false,false,false,playmaking,finishing
+Nikita Rukavytsya,FW,R,35,AUS,7,false,false,false,pace,finishing
+Basam Zaarura,MF,R,19,ISR,5,false,false,false,passing,stamina

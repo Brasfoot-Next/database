@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Diogo Travassos,FB,R,22,POR,1,true,false,false,pace,stamina
+Lawrence Ofori,MF,R,28,GHA,5,true,false,false,pace,stamina
+Cedric Teguia,FW,L,24,ESP,6,false,false,false,pace,stamina
+Alan,MF,R,26,BRA,6,true,false,false,stamina,playmaking
+Kiko Bondoso,FW,L,30,POR,7,false,false,false,pace,dribbling
+Álvaro Martínez,FB,L,24,ESP,3,false,false,false,stamina,pace
+Vasco Sousa,MF,R,23,POR,5,true,false,false,passing,dribbling
+Dinis Pinto,FB,R,26,POR,6,true,false,false,pace,tackling
+Jimi Gower,MF,R,21,ENG,7,false,false,false,playmaking,passing
+Guilherme Schettine,FW,R,30,BRA,3,true,false,false,finishing,heading
+Benny,FW,L,28,POR,6,false,false,false,pace,playmaking
+Kiko,FB,L,24,POR,7,false,false,false,pace,crossing
+Mateja Stjepanovic,MF,L,22,SRB,4,true,false,false,pace,stamina
+Rodri Alonso,FW,R,23,ESP,5,true,false,false,stamina,passing
+Maracás,CB,L,32,BRA,6,true,false,false,pace,heading
+Afonso Assis,MF,L,20,POR,7,false,false,false,passing,tackling
+Yan Maranhão,FW,R,23,BRA,4,false,false,false,pace,dribbling
+Jorquera,FW,L,26,ESP,5,false,false,false,pace,dribbling
+Gilberto,CB,R,22,GNB,6,false,false,false,stamina,tackling
+Michel,CB,R,23,BRA,7,true,false,false,tackling,marking
+Landerson,FW,R,19,BRA,6,false,false,false,dribbling,pace
+Luís Semedo,FW,R,23,POR,7,false,false,false,stamina,pace
+André Ferreira,GK,R,30,POR,2,true,false,false,positioning,reflexes
+Caio Secco,GK,R,35,BRA,5,false,false,false,positioning,reflexes
+Mika,GK,L,35,POR,6,false,false,false,reflexes,penalty-saving

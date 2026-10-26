@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Cristian López,GK,L,19,GIB,5,true,false,false,reflexes,positioning
+Francisco Fernández,GK,R,17,ESP,5,true,false,false,penalty-saving,rushing-out
+Manuel Sierra,FB,L,19,ESP,2,true,false,false,tackling,crossing
+Javí Díaz,FB,R,17,ESP,2,true,false,false,crossing,marking
+Jamie Zerafa,FB,L,17,GIB,5,true,false,false,pace,crossing
+José Antonio Peralta,CB,R,18,ESP,6,true,false,false,tackling,stamina
+Benito Jaccarini,CB,L,16,GIB,5,true,false,false,marking,heading
+Edmond Herrera,CB,R,19,GIB,9,true,false,false,heading,tackling
+Carlos Sánchez,MF,L,19,ESP,5,true,false,false,passing,finishing
+Robert Camenzuli,MF,R,17,GIB,4,true,false,false,playmaking,pace
+Pablo Fenech,MF,L,16,GIB,5,true,false,false,tackling,finishing
+Ñito Jiménez,MF,R,19,ESP,7,true,false,false,marking,passing
+José Luis Reyes,FW,L,18,ESP,4,true,false,false,finishing,heading
+Tito de Torres,FW,R,17,GIB,7,true,false,false,dribbling,finishing
+Byron Espinosa,FW,L,19,GIB,6,true,false,false,finishing,passing

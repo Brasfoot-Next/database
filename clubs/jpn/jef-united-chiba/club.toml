@@ -1,0 +1,13 @@
+name = "JEF United Chiba"
+country = "JPN"
+level = 12
+reputation = 2
+colors = ["#F00000", "#F0E000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Michiya Sugiyama"
+country = "BRA"

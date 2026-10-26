@@ -1,0 +1,13 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ulaiasi Tamanisau,GK,R,18,FIJ,5,false,false,false,reflexes,positioning
+Ranjan Misra ,GK,R,16,FIJ,5,false,false,false,penalty-saving,rushing-out
+Semi Rokoqica,FB,R,19,FIJ,2,false,false,false,tackling,crossing
+Sireli Vosa,FB,L,17,FIJ,2,false,false,false,crossing,marking
+Petero Tamaniabo,CB,R,18,FIJ,6,false,false,false,tackling,stamina
+Petero Tamaniabo,CB,L,16,FIJ,5,false,false,false,marking,heading
+Phillip Leong,MF,R,19,FIJ,5,true,false,false,passing,finishing
+Vikash Reddy,MF,L,17,FIJ,4,true,false,false,playmaking,pace
+Jonas Naceva,MF,R,16,FIJ,5,false,false,false,tackling,finishing
+Faizal Ali,MF,R,19,FIJ,7,true,false,false,marking,passing
+Eran Underwood,FW,R,18,FIJ,4,false,false,false,dribbling,pace
+Pita Rabo,FW,R,17,FIJ,7,true,true,false,finishing,passing

@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Arianit Ferati,MF,L,29,GER,6,true,false,false,pace,dribbling
+Rico Benatelli,MF,R,34,GER,10,false,false,false,stamina,passing
+Masca,FW,R,26,POR,4,true,false,false,finishing,heading
+Felix Lohkemper,FW,R,31,GER,5,false,false,false,pace,finishing
+Lukas Klunter,FB,R,30,GER,3,true,false,false,pace,stamina
+Samuel Abifade,FW,L,26,GER,5,false,false,false,pace,dribbling
+Janne Sietan,MF,R,24,GER,6,false,false,false,stamina,pace
+Maximilian Thalhammer,MF,L,29,GER,7,true,false,false,stamina,heading
+Emmanuel Iwe,FW,L,25,NGA,3,false,false,false,pace,stamina
+Terrence Boyd,FW,R,35,USA,5,false,false,false,pace,heading
+Nicklas Shipnoski,FW,L,28,GER,9,false,false,false,pace,stamina
+Julian Rieckmann,MF,R,26,GER,5,true,false,false,stamina,pace
+Diego Michel,MF,R,28,FRA,6,true,false,false,stamina,dribbling
+Sascha Voelcke,FB,L,24,GER,7,true,false,false,pace,stamina
+Adama Diakhaby,FW,L,30,FRA,1,true,false,false,pace,dribbling
+Tim Sechelmann,CB,L,27,GER,5,true,false,false,stamina,tackling
+Jascha Brandt,MF,L,23,GER,6,false,false,false,pace,passing
+Seyhan Yigit,FB,R,23,TUR,7,false,false,false,stamina,pace
+Kennedy Okpala,FW,R,21,GER,1,false,false,false,pace,dribbling
+Niklas Hoffmann,CB,R,29,GER,5,false,false,false,heading,stamina
+Malte Karbstein,CB,L,28,GER,7,true,false,false,pace,tackling
+Djayson Mendes,FW,L,22,POR,4,false,false,false,pace,finishing
+Kushtrim Asallari,FW,L,23,GER,5,false,false,false,pace,dribbling
+Thijmen Nijhuis,GK,R,28,NED,6,true,false,false,penalty-saving,reflexes
+Lucien Hawryluk,GK,R,25,GER,7,false,false,false,reflexes,rushing-out
+Jan Marco Niemann,GK,R,22,GER,4,false,false,false,rushing-out,reflexes

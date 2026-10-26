@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Franko Kolic,GK,R,23,CRO,3,true,false,false,reflexes,rushing-out
+Jan Paus-Kunst,GK,R,24,CRO,5,false,false,false,positioning,rushing-out
+Raul Kumar,CB,R,18,CRO,6,true,false,false,heading,tackling
+Mohamed Nasraoui,CB,R,23,TUN,7,true,false,false,tackling,pace
+Samuli Miettinen,CB,R,22,FIN,3,false,false,false,tackling,marking
+Vigo Vujanic,CB,R,19,CRO,5,false,false,false,marking,heading
+Niko Sepic,FB,L,20,CRO,6,false,false,false,crossing,pace
+Marcel Heister,FB,R,33,GER,7,false,false,false,tackling,pace
+Advan Kadusic,FB,L,28,CRO,3,true,false,false,marking,crossing
+Filip Taraba,FB,R,20,CRO,5,true,false,false,tackling,stamina
+Rene Hrvatin,FB,L,19,SVN,7,false,false,false,tackling,pace
+Diego Rossi,FB,R,21,CRO,4,false,false,false,passing,pace
+Stjepan Loncar,MF,R,29,CRO,5,true,false,false,dribbling,pace
+Josip Radosevic,MF,R,32,CRO,6,true,false,false,passing,tackling
+Antonio Mauric,MF,L,22,CRO,8,true,false,false,dribbling,playmaking
+Leo Stulac,MF,R,31,SVN,4,true,false,false,passing,playmaking
+Israel Isaac Ayuma,MF,L,20,NGA,5,false,false,false,passing,playmaking
+Gustavo Albarracín,MF,R,20,ARG,6,false,false,false,passing,playmaking
+Dukan Ahmeti,MF,R,18,CRO,9,false,false,false,playmaking,dribbling
+Vinko Rozic,FW,R,22,CRO,5,false,false,false,finishing,dribbling
+Silvio Gorican,FW,R,26,CRO,6,false,false,false,finishing,pace
+Emil Frederiksen,FW,R,25,DEN,7,true,false,false,heading,pace
+Ivan Saranic,FW,R,23,CRO,5,false,false,false,heading,finishing
+Dominik Celija,FW,R,20,CRO,6,false,false,false,pace,dribbling
+Smail Prevljak,FW,R,31,CRO,7,true,false,false,playmaking,finishing
+Saydou Bangura,FW,R,23,NED,3,false,false,false,heading,pace
+Hamza Jaganjac,FW,R,22,CRO,5,false,false,false,heading,stamina
+Charles Adah Agada,FW,R,19,NGA,6,false,false,false,dribbling,playmaking

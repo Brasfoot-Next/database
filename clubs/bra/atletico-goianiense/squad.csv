@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Paulo Vítor,GK,R,37,BRA,5,false,false,false,reflexes,penalty-saving
+Vladimir,GK,R,37,BRA,6,false,false,false,positioning,rushing-out
+Paulo Henrique,GK,R,32,BRA,7,false,false,false,rushing-out,reflexes
+Léo,GK,L,24,BRA,2,true,false,false,reflexes,positioning
+Natã,CB,R,25,BRA,5,true,false,false,tackling,pace
+Adriano Martins,CB,R,29,BRA,6,false,false,false,tackling,pace
+Junior Barreto,CB,R,28,PAR,7,true,false,false,marking,passing
+Tito,CB,L,25,BRA,2,false,false,false,passing,marking
+Marcão,CB,R,25,BRA,5,false,false,false,marking,stamina
+Guilherme Lopes,FB,L,24,BRA,6,false,false,false,tackling,pace
+Guilherme Romão,FB,L,28,BRA,7,true,false,false,stamina,pace
+Gustavo Daniel,FB,L,21,BRA,6,false,false,false,tackling,stamina
+Ewerthon,FB,R,25,BRA,7,true,false,false,marking,pace
+Felipe Guimarães,FB,R,22,BRA,3,false,false,false,passing,pace
+Matheus Índio,MF,L,27,BRA,5,true,false,false,stamina,pace
+Leandro Vilela,MF,R,31,BRA,6,true,false,false,stamina,tackling
+Geovane,MF,L,37,BRA,7,false,false,false,pace,dribbling
+Cristiano,MF,R,26,BRA,3,true,false,false,tackling,marking
+Igor Henrique,MF,R,34,BRA,5,false,false,false,passing,tackling
+Guilherme,MF,R,35,BRA,6,false,false,false,playmaking,passing
+Assis,MF,R,24,BRA,3,true,false,false,passing,playmaking
+Guilherme Henrique,FW,L,19,BRA,5,false,false,false,finishing,heading
+Marrony,FW,R,27,BRA,7,true,false,false,dribbling,finishing
+Bruno José,FW,R,28,BRA,2,false,false,false,dribbling,pace
+Léo Tocantins,FW,R,27,BRA,5,false,false,false,finishing,pace
+Lima,FW,R,21,POR,6,true,false,false,finishing,stamina
+Gustavo Coutinho,FW,R,27,BRA,7,false,false,false,heading,finishing
+Daniel Lima,FW,R,21,BRA,2,false,false,false,finishing,dribbling
+Léo Jacó,FW,R,21,BRA,5,false,false,false,dribbling,pace

@@ -1,0 +1,13 @@
+name = "Shrewsbury Town"
+country = "ENG"
+level = 8
+reputation = 2
+colors = ["#3050A0", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "William Brook"
+country = "BRA"

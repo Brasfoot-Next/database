@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Oussama Litim,GK,R,36,ALG,1,false,false,false,positioning,penalty-saving
+Yasser Zitouni,GK,R,21,ALG,5,true,false,false,penalty-saving,reflexes
+Abdelhamid Dris,CB,R,24,ALG,6,true,false,false,tackling,heading
+Badreddine Souyad,CB,L,31,ALG,7,true,false,false,tackling,pace
+Zin Eddine Meddour,CB,R,22,ALG,1,false,false,false,heading,tackling
+Nabil Lamara,FB,L,32,ALG,5,true,false,false,marking,crossing
+Mohamed Abdelali Guemroud,FB,L,31,ALG,6,true,false,false,passing,crossing
+Aymen Bendaoud,MF,R,25,ALG,7,true,false,false,finishing,playmaking
+Ahmida Zenasni,MF,R,33,ALG,2,true,false,false,passing,tackling
+Abdelhakim Sameur,MF,R,35,ALG,5,true,false,false,tackling,marking
+Hadji Chekal Affari,MF,R,23,ALG,7,true,false,false,marking,passing
+Abdelhak Askar,FW,R,28,ALG,1,true,false,false,playmaking,finishing
+Ammar Oukil,FW,R,30,ALG,5,true,false,false,finishing,dribbling
+Ishak Talal Boussouf,FW,R,24,ALG,6,false,false,false,pace,dribbling
+Adem Aichouche,FW,R,21,ALG,7,false,false,false,dribbling,playmaking

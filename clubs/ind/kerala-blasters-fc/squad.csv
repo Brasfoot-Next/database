@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Adrian Luna,MF,R,34,URU,2,false,false,false,pace,passing
+Dusan Lagator,CB,R,32,MNE,5,false,false,false,stamina,pace
+Noah Wail Jacob Sadaoui,FW,L,32,MAR,6,false,false,false,pace,finishing
+Prabir Das,FW,R,32,IND,7,false,false,false,pace,stamina
+Danish Farooq Bhat,MF,R,30,IND,2,true,false,false,pace,stamina
+Vibin Mohanan,MF,R,23,IND,5,true,false,false,passing,playmaking
+Renthlei Lalthanmawia,FW,L,24,IND,6,false,false,false,pace,finishing
+Hormipam Ruivah,CB,R,25,IND,7,true,false,false,stamina,marking
+Freddy Lallawmawma,MF,L,24,IND,3,true,false,false,stamina,pace
+Sandeep Singh,FB,R,31,IND,5,false,false,false,stamina,tackling
+Nihal Sudeesh,FW,L,25,IND,5,true,false,false,pace,stamina
+Aibanbha Dohling,FB,L,30,IND,6,false,false,false,pace,stamina
+Amey Ranawade,FB,R,28,IND,7,true,false,false,pace,stamina
+Mohammed Azhar,MF,R,23,IND,3,true,false,false,stamina,pace
+Yoihenba Meitei,MF,R,22,IND,5,false,false,false,stamina,passing
+Muhammad Ajsal,FW,R,23,IND,6,false,false,false,pace,dribbling
+Korou Singh,FW,R,19,IND,2,false,false,false,pace,finishing
+Huidrom Singh,FB,L,27,IND,5,true,false,false,stamina,tackling
+Bikash Yumnam,CB,L,23,IND,6,true,false,false,tackling,stamina
+Mohammed Aimen,FW,L,23,IND,7,false,false,false,pace,stamina
+Sreekuttan MS,FW,R,21,IND,5,false,false,false,dribbling,pace
+Muhammed Saheef,FB,L,23,IND,5,false,false,false,stamina,pace
+Sagolsem Bikash Singh,FW,L,25,IND,7,true,false,false,pace,finishing
+Likmabam Rakesh,FB,L,23,IND,1,false,false,false,stamina,pace
+Sachin Suresh,GK,R,25,IND,5,false,false,false,penalty-saving,rushing-out
+Arsh Shaikh,GK,R,24,IND,6,false,false,false,positioning,penalty-saving
+Nora Fernandes,GK,R,28,IND,7,true,false,false,positioning,rushing-out

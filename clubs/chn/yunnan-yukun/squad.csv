@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nené,MF,L,31,POR,5,false,false,false,stamina,dribbling
+Alexandru Ionita,MF,L,31,ROU,6,false,false,false,pace,dribbling
+Ye Chugui,FW,L,32,CHN,10,false,false,false,stamina,pace
+Oscar Taty Maritu,FW,R,27,COD,4,true,false,false,pace,stamina
+Luo Jing,FW,L,32,CHN,5,false,false,false,stamina,pace
+Tang Miao,FB,R,35,CHN,6,false,false,false,stamina,pace
+Pedro Henrique,FW,R,29,BRA,1,false,false,false,pace,heading
+Hou Yongyong,MF,L,28,CHN,5,true,false,false,stamina,pace
+Dilmurat Mawlanyaz,FB,R,28,CHN,6,true,false,false,pace,stamina
+Li Songyi,CB,R,33,CHN,7,true,false,false,stamina,heading
+Andrei Burca,CB,R,33,ROU,2,true,false,false,stamina,tackling
+Zhao Yuhao,CB,R,33,CHN,5,false,false,false,stamina,pace
+Zhang Yufeng,MF,R,28,CHN,6,true,false,false,stamina,pace
+Han Zilong,FW,L,32,CHN,6,false,false,false,pace,stamina
+Yin Congyao,FW,R,29,CHN,7,false,false,false,pace,stamina
+Sun Xuelong,MF,R,27,CHN,3,true,false,false,stamina,pace
+Yi Teng,CB,L,36,CHN,5,false,false,false,stamina,passing
+Zhang Xiangshuo,FB,L,25,CHN,6,false,false,false,pace,stamina
+Duan Dezhi,MF,R,24,CHN,7,true,false,false,pace,stamina
+Chen Yuhao,FB,R,24,CHN,3,false,false,false,pace,stamina
+Zhang Chenliang,FB,R,28,CHN,4,true,false,false,stamina,tackling
+Li Biao,FW,R,28,CHN,5,true,false,false,pace,passing
+Hu Tao,FW,R,22,CHN,6,false,false,false,pace,dribbling
+Yang He,FW,R,36,CHN,7,false,false,false,heading,stamina
+Wang Pengbo,FB,R,22,CHN,1,false,false,false,pace,tackling
+Ma Zhen,GK,R,28,CHN,5,true,false,false,rushing-out,reflexes
+Geng Xiaofeng,GK,R,38,CHN,6,false,false,false,penalty-saving,rushing-out
+Qiu Shengjun,GK,R,24,CHN,7,false,false,false,penalty-saving,rushing-out
+Yu Jianxian,GK,R,24,CHN,2,false,false,false,rushing-out,reflexes

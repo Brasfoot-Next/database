@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jeff Hardeveld,FW,L,31,NED,5,true,false,false,stamina,crossing
+Danny Bakker,CB,L,31,NED,6,true,false,false,stamina,marking
+Jochem Van De Kamp,MF,R,22,NED,7,false,false,false,stamina,pace
+Dylan Mertens,MF,R,31,NED,1,true,false,false,stamina,passing
+Tyrese Noslin,FW,L,23,CUW,5,true,false,false,pace,stamina
+Tyrone Owusu,MF,R,27,NED,6,true,false,false,pace,stamina
+Nils Rossen,MF,L,21,NED,7,true,false,false,pace,passing
+Patrick Brouwer,MF,L,25,NED,2,true,false,false,pace,stamina
+Kay Tejan,FW,L,29,NED,5,false,false,false,stamina,pace
+Nigel Ogidi Nwankwo,FW,L,28,NED,6,false,false,false,pace,stamina
+Mohamed Hamdaoui,FW,L,33,NED,3,false,false,false,pace,dribbling
+Dion Malone,CB,R,37,SUR,5,false,false,false,tackling,stamina
+Rojendro Oudsten,MF,R,18,SUR,6,false,false,false,pace,passing
+Soufiane Hetli,FW,R,25,NED,7,true,false,false,pace,dribbling
+Rayyan Koubini,MF,R,21,NED,8,false,false,false,pace,dribbling
+Adil Lechkar,FW,L,25,NED,4,false,false,false,pace,stamina
+Milan Zonneveld,FW,R,22,NED,5,false,false,false,heading,pace
+Neville Ogidi Nwankwo,CB,R,23,NED,6,true,false,false,pace,tackling
+Guus Offerhaus,CB,R,25,NED,8,true,false,false,marking,stamina
+Sebastiaan Hagedoorn,FW,R,21,NED,4,false,false,false,pace,finishing
+Devon Koswal,CB,R,23,SUR,1,false,false,false,pace,stamina
+Abdelraffie Benzzine,CB,R,20,NED,5,false,false,false,tackling,pace
+Yamano Olfers,CB,R,20,SUR,6,false,false,false,pace,tackling
+Jaylan Van Schooneveld,CB,R,21,NED,7,false,false,false,tackling,pace
+Ronald Koeman Jr,GK,R,31,NED,1,true,false,false,rushing-out,positioning
+Daan Reiziger,GK,R,25,NED,3,false,false,false,reflexes,rushing-out
+Tyrick Bodak,GK,R,24,CUW,5,false,false,false,reflexes,rushing-out

@@ -1,0 +1,13 @@
+name = "SV Werder Bremen"
+country = "GER"
+level = 17
+reputation = 3
+colors = ["#109050", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Skelly Alvero"
+country = "BRA"

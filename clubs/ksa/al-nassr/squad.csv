@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Marcelo Brozovic,MF,L,33,CRO,8,true,false,false,stamina,tackling
+Sadio Mane,FW,L,34,SEN,5,false,false,false,dribbling,pace
+Cristiano Ronaldo,FW,R,41,POR,6,true,true,false,finishing,heading
+João Félix,MF,R,26,POR,6,true,false,false,dribbling,playmaking
+Iñigo Martínez,CB,L,35,ESP,8,true,true,false,tackling,marking
+Sultan Al Ghannam,FB,R,32,KSA,9,true,false,false,stamina,pace
+Kingsley Coman,FW,R,30,FRA,5,true,false,false,dribbling,pace
+Mohamed Simakan,CB,R,26,FRA,6,true,false,false,tackling,heading
+Saad Al Nasser,FB,L,25,KSA,7,false,false,false,pace,stamina
+Ayman Yahya,FW,L,25,KSA,9,false,false,false,pace,stamina
+Abdullah Al Khaibari,MF,R,30,KSA,5,true,false,false,stamina,passing
+Ângelo,FW,L,21,BRA,6,false,false,false,pace,dribbling
+Sami Al Najai,MF,R,29,KSA,7,false,false,false,stamina,pace
+Ali Al Hassan,MF,R,29,KSA,9,false,false,false,stamina,passing
+Nawaf Boushal,FB,L,26,KSA,5,true,false,false,stamina,pace
+Abdulrahman Ghareeb,FW,L,29,KSA,6,false,false,false,pace,dribbling
+Wesley,FW,L,21,BRA,7,false,false,false,dribbling,pace
+Abdulelah Al Amri,CB,R,29,KSA,9,false,false,false,heading,stamina
+Haroune Camara,FW,R,28,KSA,6,false,false,false,pace,stamina
+Salem Al Najdi,FB,L,23,KSA,6,false,false,false,pace,stamina
+Nader Al Sharari,CB,R,30,KSA,7,false,false,false,pace,stamina
+Rakan Al Ghamdi,MF,R,21,KSA,9,false,false,false,pace,crossing
+Awad Aman,FB,L,21,KSA,5,false,false,false,pace,stamina
+Mansour Al Shammari,FB,L,26,KSA,6,false,false,false,pace,stamina
+Saad Hagawi,FW,R,20,KSA,7,false,false,false,pace,finishing
+Fahad Al Taleb,MF,R,23,KSA,1,false,false,false,pace,dribbling
+Abdulmalik Al Jaber,MF,R,22,KSA,6,true,false,false,stamina,pace
+Mohammed Marran,FW,L,25,KSA,6,false,false,false,pace,finishing
+Bassam Hazazi,MF,R,21,KSA,7,false,false,false,pace,stamina
+Nawaf Al Aqidi,GK,R,26,KSA,2,false,false,false,penalty-saving,reflexes
+Bento,GK,R,27,BRA,7,true,false,false,reflexes,positioning
+Raghid Al Najjar,GK,R,29,KSA,8,false,false,false,penalty-saving,reflexes

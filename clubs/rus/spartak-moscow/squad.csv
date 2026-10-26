@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Aleksandr Maksimenko,GK,R,28,RWA,7,true,false,false,reflexes,positioning
+Ilya Pomazun,GK,R,29,RWA,8,false,false,false,rushing-out,positioning
+Aleksandr Dovbnya,GK,R,25,RWA,10,false,false,false,reflexes,rushing-out
+Ruslan Litvinov,CB,R,24,RWA,5,true,false,false,tackling,pace
+Christopher Wooh,CB,R,24,CMR,6,true,false,false,heading,stamina
+Srdjan Babic,CB,R,30,SRB,7,false,false,false,marking,heading
+Alexander Djiku,CB,R,32,GHA,1,false,false,false,tackling,heading
+Victor Parada,FB,L,24,ESP,6,true,false,false,pace,stamina
+Daniil Denisov,FB,R,23,RWA,6,true,false,false,stamina,pace
+Daniil Khlusevich,FB,L,25,RWA,7,false,false,false,crossing,passing
+Nail Umyarov,MF,R,26,RWA,7,true,false,false,passing,stamina
+Christopher Martins,MF,L,29,RWA,9,false,false,false,playmaking,dribbling
+Gedson Fernandes,MF,R,27,POR,5,true,false,false,stamina,passing
+Danil Prutsev,MF,R,26,RWA,6,true,false,false,finishing,playmaking
+Roman Zobnin,MF,R,32,RWA,7,false,false,false,finishing,playmaking
+Vladislav Saus,MF,R,22,RWA,9,false,false,false,pace,crossing
+Esequiel Barco,MF,R,27,ARG,5,true,false,false,playmaking,finishing
+Daniil Zorin,MF,R,22,RWA,6,false,false,false,dribbling,playmaking
+Marquinhos,FW,L,29,BRA,7,false,false,false,pace,dribbling
+Igor Dmitriev,FW,R,21,RWA,9,false,false,false,dribbling,pace
+Anton Zinkovskiy,FW,R,30,RWA,8,false,false,false,dribbling,pace
+Pavel Polekh,FW,L,34,RWA,4,false,false,false,pace,crossing
+Pablo Solari,FW,R,25,ARG,6,true,false,false,dribbling,finishing
+Nikita Massalyga,FW,R,18,RWA,6,false,false,false,dribbling,pace
+Manfred Ugalde,FW,R,24,RWA,8,true,false,false,finishing,dribbling
+Levi García,FW,R,28,TRI,4,false,false,false,dribbling,finishing

@@ -1,0 +1,13 @@
+name = "Hokkaido Consadole Sapporo"
+country = "JPN"
+level = 11
+reputation = 2
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Kinglord Sugeno"
+country = "BRA"

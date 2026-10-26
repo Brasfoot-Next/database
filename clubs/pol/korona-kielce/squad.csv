@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nono,MF,R,35,ESP,6,true,false,false,pace,stamina
+Martin Remacle,MF,L,29,BEL,7,true,false,false,stamina,passing
+Marcel Pieczek,CB,L,25,POL,4,true,false,false,pace,crossing
+Dawid Blanik,MF,L,29,POL,5,false,false,false,pace,stamina
+Viktor Popov,FB,R,26,BUL,6,true,false,false,stamina,pace
+Tamar Svetlin,MF,R,25,SVN,8,true,false,false,pace,passing
+Wiktor Dlugosz,FW,R,26,POL,4,false,false,false,pace,stamina
+Konrad Matuszewski,FW,L,24,POL,6,true,false,false,pace,stamina
+Hubert Zwozny,FW,R,22,POL,6,false,false,false,pace,stamina
+Stjepan Davidovic,FW,L,21,CRO,10,true,false,false,pace,stamina
+Antoñín,FW,R,26,ESP,8,false,false,false,pace,stamina
+Nikodem Niski,FW,L,24,POL,4,false,false,false,stamina,pace
+Vladimir Nikolov,FW,R,25,BUL,5,false,false,false,heading,finishing
+Pau Resta,CB,L,25,ESP,6,true,false,false,stamina,heading
+Wojciech Kaminski,MF,R,25,POL,10,true,false,false,stamina,passing
+Milosz Strzebonski,MF,R,22,POL,4,false,false,false,playmaking,passing
+Konstantinos Soteriou,CB,R,30,CYP,5,false,false,false,tackling,marking
+Kacper Minuczyc,MF,R,18,POL,7,false,false,false,pace,passing
+Jakub Budnicki,CB,R,25,POL,4,false,false,false,heading,stamina
+Slobodan Rubezic,CB,R,26,MNE,5,false,false,false,heading,stamina
+Bartlomiej Smolarczyk,CB,R,23,POL,7,false,false,false,tackling,marking
+Konrad Ciszek,FB,L,18,POL,3,true,false,false,pace,dribbling
+Mateusz Glowinski,FW,R,20,POL,5,false,false,false,pace,finishing
+Xavier Dziekonski,GK,R,22,POL,6,true,false,false,reflexes,rushing-out
+Rafal Mamla,GK,R,22,POL,7,false,false,false,rushing-out,reflexes
+Michal Niedbala,GK,R,20,POL,4,false,false,false,reflexes,penalty-saving

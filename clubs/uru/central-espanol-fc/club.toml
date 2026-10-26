@@ -1,0 +1,13 @@
+name = "Central Español FC"
+country = "URU"
+level = 11
+reputation = 2
+colors = ["#E02030", "#000030"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Luciano Camarda"
+country = "BRA"

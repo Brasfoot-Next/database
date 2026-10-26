@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Florian Wiegele,GK,L,25,AUT,7,true,false,false,penalty-saving,reflexes
+Viktor Baier,GK,R,21,CZE,1,false,false,false,reflexes,positioning
+Dominik Tapaj,GK,R,22,SVK,5,false,false,false,positioning,rushing-out
+Marian Tvrdon,GK,R,32,SVK,6,false,false,false,reflexes,penalty-saving
+Sampson Dweh,CB,R,24,LBR,7,true,false,false,heading,tackling
+Karel Spacil,CB,L,23,CZE,2,true,false,false,marking,tackling
+Jan Paluska,CB,R,21,CZE,5,false,false,false,pace,tackling
+David Krcik,CB,R,27,SVK,6,false,false,false,heading,passing
+Vaclav Jemelka,CB,L,31,CZE,10,false,false,false,heading,tackling
+Filip Prebsl,CB,L,23,CZE,5,false,false,false,tackling,marking
+Vaclav Mika,CB,R,26,CZE,6,false,false,false,tackling,pace
+Merchas Doski,FB,L,26,IRQ,7,true,false,false,pace,crossing
+Adam Kadlec,FB,L,23,CZE,2,true,false,false,marking,crossing
+Lukas Cerv,MF,L,25,CZE,5,true,false,false,stamina,passing
+Alexandr Sojka,MF,R,23,CZE,6,false,false,false,passing,playmaking
+Stefan Pirgic,MF,R,23,SRB,7,false,false,false,tackling,marking
+Jiri Panos,MF,L,18,CZE,4,false,false,false,pace,dribbling
+Matej Valenta,MF,R,26,CZE,5,false,false,false,stamina,passing
+Patrik Hrosovsky,MF,R,34,SVK,6,false,false,false,stamina,passing
+Sebastian Bohac,MF,R,23,CZE,10,false,false,false,stamina,tackling
+Amar Memić,MF,R,25,BIH,6,true,false,false,pace,dribbling
+Cheick Souaré,MF,L,24,FRA,7,true,false,false,pace,crossing
+Denis Visinsky,MF,L,23,CZE,9,true,false,false,pace,dribbling
+Tomas Ladra,MF,R,29,CZE,5,false,false,false,dribbling,playmaking
+Prince Adu,FW,R,23,GHA,6,true,false,false,pace,finishing
+Baboucarr Faal,FW,R,23,CZE,7,true,false,false,dribbling,finishing
+Mohamed Touré,FW,R,20,GUI,9,false,false,false,finishing,heading
+Salim Fago Lawal,FW,R,23,NGA,5,false,false,false,pace,crossing
+Christophe Kabongo,FW,R,23,CZE,6,false,false,false,finishing,pace
+Matej Vydra,FW,R,34,CZE,7,false,false,false,pace,finishing

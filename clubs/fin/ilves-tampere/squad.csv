@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rasmus Leislahti,GK,L,22,FIN,1,true,false,false,penalty-saving,reflexes
+Eetu Huuhtanen,GK,R,19,FIN,4,false,false,false,penalty-saving,reflexes
+Mikael Almen,FB,L,22,FIN,4,false,false,false,finishing,pace
+Tuomas Ollila,FB,L,22,FIN,4,true,false,false,marking,pace
+Aapo Mäenpää,FB,R,24,FIN,9,true,false,false,marking,finishing
+Kalle Katz,CB,L,22,FIN,6,true,false,false,tackling,stamina
+Tatu Miettunen,CB,L,27,FIN,7,false,false,false,tackling,marking
+Tabi Manga,CB,R,27,CMR,9,true,false,false,marking,pace
+Eric Oteng,MF,R,20,GHA,5,true,false,false,playmaking,passing
+Teemu Jäntti,MF,L,22,FIN,7,false,false,false,tackling,marking
+Doni Arifi,MF,R,20,FIN,6,true,false,false,tackling,marking
+Tuure Siira,MF,L,27,FIN,4,true,false,false,tackling,marking
+Petteri Pennanen,MF,L,31,FIN,3,true,false,false,passing,finishing
+Leo Kyllönen,MF,R,18,FIN,8,false,false,false,finishing,passing
+Yusif Moussa,MF,R,23,NIG,9,false,false,false,tackling,marking
+Oiva Jukkola,MF,L,20,FIN,6,false,false,false,playmaking,finishing
+Patrick Loa,FW,L,23,CMR,6,false,false,false,finishing,pace
+Kai Meriluoto,FW,R,19,FIN,5,true,false,false,pace,finishing
+Badreddine Bushara,FW,R,18,FIN,3,false,false,false,finishing,dribbling
+Ariel Ngueukam,FW,L,33,CMR,10,true,false,false,dribbling,finishing

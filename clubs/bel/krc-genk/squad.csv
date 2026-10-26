@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Bryan Heynen,MF,L,29,BEL,4,true,false,false,stamina,passing
+Patrik Hrosovsky,MF,R,34,SVK,6,false,false,false,stamina,passing
+Junya Ito,FW,R,33,JPN,6,false,false,false,stamina,pace
+Zakaria El Ouahdi,FB,R,24,MAR,7,true,false,false,stamina,dribbling
+Joris Kayembe,FB,L,32,COD,5,false,false,false,pace,stamina
+Jarne Steuckers,FW,L,24,BEL,6,true,false,false,stamina,playmaking
+Daan Heymans,MF,R,27,BEL,6,true,false,false,finishing,stamina
+Yaimar Medina,FB,L,21,ECU,7,true,false,false,pace,stamina
+Yira Sor,FW,R,26,NGA,8,false,false,false,pace,dribbling
+Ken Nkuba,FW,R,24,BEL,5,false,false,false,pace,stamina
+Oh Hyeon Gyu,FW,R,25,KOR,9,false,false,false,pace,stamina
+Matte Smets,CB,L,22,BEL,5,true,false,false,passing,tackling
+Luca Oyen,FW,L,23,BEL,6,false,false,false,dribbling,pace
+Konstantinos Karetsas,MF,L,18,GRE,7,true,false,false,dribbling,passing
+Nikolas Sattlberger,MF,R,22,AUT,9,false,false,false,passing,tackling
+Jusef Erabi,FW,R,23,SWE,5,false,false,false,pace,stamina
+Noah Adedeji Sternberg,FW,L,21,BEL,6,true,false,false,pace,dribbling
+Ibrahima Sory Bangoura,MF,R,22,GUI,7,true,false,false,stamina,tackling
+Mujaid,CB,R,26,ESP,10,false,false,false,passing,stamina
+Ayumu Yokoyama,FW,L,23,JPN,5,false,false,false,pace,dribbling
+Josue Kongolo,CB,R,20,BEL,7,true,false,false,pace,heading
+Brad Manguelle,CB,R,18,BEL,5,false,false,false,pace,tackling
+Kayden Pierre,FB,R,23,USA,6,false,false,false,pace,tackling
+Adrian Palacios,CB,L,22,VEN,6,false,false,false,tackling,pace
+Aaron Bibout,FW,R,22,CMR,7,false,false,false,finishing,heading
+Hendrik Van Crombrugge,GK,L,33,BEL,5,false,false,false,positioning,rushing-out
+Tobias Lawal,GK,R,26,AUT,6,false,false,false,penalty-saving,reflexes
+Lucca Brughmans,GK,R,18,BEL,6,true,false,false,penalty-saving,positioning

@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rodrigo Sayavedra,FB,L,31,ARG,6,false,false,false,marking,pace
+Milton Celiz,MF,R,34,ARG,7,false,false,false,stamina,pace
+Pablo Monje,MF,R,29,ARG,1,true,false,false,passing,stamina
+Alexander Diaz,FW,R,26,ARG,5,false,false,false,pace,heading
+Yonatan Goitia,MF,R,32,ARG,6,true,false,false,stamina,pace
+Ariel Munoz,MF,L,25,ARG,7,false,false,false,stamina,pace
+Braian Guille,FW,L,29,ARG,1,false,false,false,pace,dribbling
+Jonathan Herrera,FW,L,34,ARG,5,false,false,false,stamina,finishing
+Nicolas Benegas,FW,R,30,ARG,6,false,false,false,finishing,heading
+Rodrigo Gallo,CB,L,25,ARG,7,false,false,false,pace,stamina
+Leonardo Landriel,MF,L,32,ARG,6,true,false,false,passing,playmaking
+Nicolas Sansotre,FB,R,33,ARG,5,true,false,false,stamina,tackling
+Pedro David Ramirez,FB,R,26,ARG,6,false,false,false,stamina,tackling
+Mariano Bracamonte,FB,L,27,ARG,7,true,false,false,stamina,pace
+Mateo Ramirez,MF,R,31,ARG,1,true,false,false,stamina,passing
+Miguel Barbieri,CB,R,33,ARG,5,false,false,false,heading,tackling
+Santiago Vera,FW,R,27,ARG,6,false,false,false,pace,dribbling
+Gabriel Obredor,FW,R,29,ARG,7,false,false,false,heading,stamina
+Cristian Paz,CB,R,31,ARG,2,true,false,false,marking,stamina
+Antony Alonso,FW,R,28,URU,5,true,false,false,finishing,heading
+Carlos Gugenheim,FW,R,22,ARG,7,false,false,false,finishing,dribbling
+Juan Cruz Randazzo,CB,R,31,ARG,1,false,false,false,heading,pace
+Nicolas Caro Torres,CB,R,31,ARG,5,false,false,false,heading,tackling
+Franco Fagundez,FW,L,27,URU,6,true,false,false,stamina,heading
+Yeison Murillo,CB,R,32,COL,7,false,false,false,tackling,heading
+Facundo Mino,CB,R,26,ARG,4,true,false,false,heading,stamina
+Eric Tovo,CB,R,34,ARG,5,false,false,false,tackling,stamina
+Jaime Barcelo,GK,R,26,ARG,6,false,false,false,reflexes,penalty-saving
+Ignacio Arce,GK,R,34,ARG,8,true,false,false,rushing-out,positioning
+Nahuel Manganelli,GK,R,25,ARG,4,false,false,false,penalty-saving,positioning

@@ -1,0 +1,13 @@
+name = "Brentford"
+country = "ENG"
+level = 18
+reputation = 4
+colors = ["#E00010", "#F0F0F0"]
+
+[stadium]
+name = "Gtech Community Stadium"
+capacity = 17250
+
+[coach]
+name = "Aaron Pinnock"
+country = "BRA"

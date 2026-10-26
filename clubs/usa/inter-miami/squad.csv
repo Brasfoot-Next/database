@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rodrigo De Paul,MF,R,32,ARG,7,true,false,false,stamina,playmaking
+Jordi Alba,FB,L,37,ESP,4,true,false,false,stamina,pace
+Lionel Messi,FW,L,39,ARG,6,true,true,false,dribbling,playmaking
+Luis Suarez,FW,L,39,URU,6,false,false,false,heading,finishing
+Sergio Busquets,MF,R,38,ESP,6,true,false,false,passing,tackling
+Tadeo Allende,FW,R,27,ARG,7,false,false,false,pace,stamina
+Telasco Segovia,FW,L,23,VEN,5,true,false,false,stamina,pace
+Marcelo Weigandt,FB,R,26,ARG,6,false,false,false,stamina,pace
+Baltasar Rodriguez,MF,R,23,ARG,6,true,false,false,dribbling,passing
+Fafà Picault,FW,L,35,HAI,8,false,false,false,pace,dribbling
+Noah Allen,CB,L,22,GRE,7,true,false,false,pace,tackling
+Tomas Aviles,CB,R,22,ARG,10,true,false,false,heading,tackling
+Gonzalo Lujan,FB,R,25,ARG,5,true,false,false,stamina,tackling
+Mateo Silvetti,FW,R,20,ARG,6,false,false,false,pace,dribbling
+David Ruiz,MF,R,22,USA,7,false,false,false,dribbling,pace
+Yannick Bright,MF,L,25,ITA,1,true,false,false,marking,tackling
+Ian Fray,FB,R,24,USA,5,false,false,false,pace,tackling
+Allen Obando,FW,R,20,ECU,6,false,false,false,heading,stamina
+Maximiliano Falcon,CB,R,29,URU,7,false,false,false,stamina,pace
+Santiago Morales,MF,R,19,USA,2,false,false,false,pace,playmaking
+Tyler Hall,CB,R,20,USA,6,false,false,false,passing,heading
+Israel Boatwright,FB,R,21,USA,7,false,false,false,pace,dribbling
+Ryan Sailor,CB,R,28,USA,5,false,false,false,heading,tackling
+Oscar Ustari,GK,R,40,ARG,6,true,false,false,positioning,rushing-out
+William Yarbrough,GK,R,37,USA,7,false,false,false,positioning,reflexes
+Rocco Rios Novo,GK,R,24,ARG,8,false,false,false,reflexes,penalty-saving

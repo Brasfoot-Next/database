@@ -1,0 +1,13 @@
+name = "Leicester City"
+country = "ENG"
+level = 15
+reputation = 3
+colors = ["#F0F0F0", "#003090"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Bobby Pereira"
+country = "BRA"

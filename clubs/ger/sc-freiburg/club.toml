@@ -1,0 +1,13 @@
+name = "SC Freiburg"
+country = "GER"
+level = 17
+reputation = 3
+colors = ["#000000", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Anthony Philipp"
+country = "BRA"

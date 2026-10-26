@@ -1,0 +1,13 @@
+name = "Solomon Warriors"
+country = "SOL"
+level = 12
+reputation = 3
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Lawson Tama"
+capacity = 22000
+
+[coach]
+name = "Franco Ne'e"
+country = "SOL"

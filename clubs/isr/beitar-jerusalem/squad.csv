@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Netanel Daloya,GK,R,24,ISR,1,true,false,false,penalty-saving,reflexes
+Maksim Grechkin,FB,L,26,ISR,4,true,false,false,marking,passing
+Orel Dgani,CB,L,33,ISR,3,true,false,false,tackling,marking
+David Houja,CB,R,21,ISR,9,true,false,false,tackling,heading
+Aviel Zargary,MF,L,19,ISR,10,true,false,false,tackling,marking
+Ofir Kriaf,MF,R,31,ISR,5,true,false,false,tackling,marking
+Yarden Shua,FW,L,23,ISR,3,true,false,false,finishing,pace
+Gleofilo Vlijter,FW,R,22,SUR,2,true,false,false,pace,finishing
+Ofek Ivri,GK,R,22,ISR,7,false,false,false,positioning,penalty-saving
+Yaakov Mizrahi,FB,R,24,ISR,3,true,false,false,crossing,marking
+Hagai Goldenberg,FB,R,31,ISR,7,false,false,false,finishing,pace
+Avishai Cohen,FB,L,27,ISR,6,false,false,false,marking,pace
+Or Zahavi,CB,L,26,ISR,1,false,false,false,marking,pace
+Bar Cohen,MF,L,21,ISR,3,true,false,false,passing,finishing
+Ronen Hanzis,FW,R,20,ISR,2,false,false,false,finishing,stamina
+Roy Fadida,FW,R,22,ISR,8,false,false,false,heading,pace
+Dor Konstantinos,MF,R,25,ISR,5,true,false,false,marking,passing
+Dan Azaria,MF,L,26,ISR,4,false,false,false,tackling,pace
+Danilo Asprilla,MF,R,33,COL,2,true,false,false,dribbling,passing
+Itay Levy,MF,R,23,ISR,7,true,false,false,passing,finishing

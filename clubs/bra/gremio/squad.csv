@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gabriel Grando,GK,L,26,BRA,9,true,false,false,positioning,rushing-out
+Weverton,GK,R,38,BRA,4,false,false,false,reflexes,positioning
+Thiago Beltrame,GK,R,23,BRA,6,false,false,false,rushing-out,reflexes
+Gabriel Menegon,GK,R,17,BRA,6,false,false,false,rushing-out,positioning
+Gustavo Martins,CB,R,23,BRA,7,true,false,false,tackling,heading
+Wagner Leonardo,CB,L,26,BRA,4,true,false,false,stamina,heading
+Fabián Balbuena,CB,L,34,PAR,6,false,false,false,marking,tackling
+Walter Kannemann,CB,R,35,ARG,6,false,false,false,marking,passing
+Wallace,CB,R,21,BRA,8,false,false,false,heading,stamina
+Luis Eduardo,CB,L,18,BRA,4,false,false,false,tackling,marking
+Marlon,FB,R,31,BRA,9,true,false,false,heading,tackling
+Caio Paulista,FB,R,28,BRA,5,true,false,false,crossing,pace
+Pedro Gabriel,FB,R,19,BRA,6,false,false,false,stamina,crossing
+Cristian Pavón,FB,R,30,ARG,7,false,false,false,passing,crossing
+João Pedro,FB,R,29,BRA,9,false,false,false,dribbling,pace
+Marcos Rocha,FB,L,37,BRA,5,false,false,false,passing,crossing
+Leonel Pérez,MF,R,22,ARG,6,true,false,false,stamina,pace
+Erick Noriega,MF,R,24,PER,7,true,false,false,finishing,playmaking
+Mathías Villasanti,MF,R,29,PAR,10,false,false,false,dribbling,pace
+Dodi,MF,L,30,BRA,5,false,false,false,passing,tackling
+Juan Nardoni,MF,R,24,ARG,7,true,false,false,tackling,passing
+Tiaguinho,MF,L,18,BRA,5,false,false,false,playmaking,dribbling
+Gabriel Mec,MF,R,18,BRA,6,true,false,false,passing,playmaking
+Miguel Monsalve,MF,R,22,COL,7,false,false,false,dribbling,pace
+Riquelme,MF,R,19,BRA,8,false,false,false,pace,dribbling
+Francis Amuzu,FW,R,26,GHA,5,true,false,false,heading,stamina
+Willian,FW,L,37,BRA,6,false,false,false,crossing,pace
+Tetê,FW,R,26,BRA,7,true,false,false,playmaking,finishing
+José Enamorado,FW,R,27,COL,8,false,false,false,heading,pace
+Roger,FW,R,18,BRA,5,false,false,false,dribbling,playmaking
+Carlos Vinícius,FW,R,31,BRA,6,false,false,false,dribbling,pace
+Matheus Nascimento,FW,R,22,BRA,8,false,false,false,finishing,heading
+Martin Braithwaite,FW,R,35,DEN,6,false,false,false,dribbling,playmaking

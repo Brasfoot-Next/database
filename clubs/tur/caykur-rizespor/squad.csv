@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Qazim Laci,MF,R,30,ALB,5,true,false,false,stamina,passing
+Casper Hojer,FB,L,31,DEN,6,true,false,false,crossing,playmaking
+Taylan Antalyali,MF,R,31,TUR,7,false,false,false,stamina,passing
+Vaclav Jurecka,FW,R,32,CZE,4,false,false,false,stamina,pace
+Giannis Papanikolaou,MF,L,27,GRE,7,true,false,false,stamina,pace
+Loide Augusto,FW,R,26,ANG,3,false,false,false,pace,stamina
+Taha Sahin,FB,R,25,TUR,5,true,false,false,stamina,pace
+Ibrahim Olawoyin,FW,R,28,NGA,6,false,false,false,pace,stamina
+Ali Sowe,FW,R,32,GAM,7,false,false,false,finishing,pace
+Mithat Pala,MF,R,26,TUR,3,true,false,false,stamina,pace
+Valentin Mihaila,FW,L,26,ROU,3,true,false,false,pace,stamina
+Halil Ibrahim Dervisoglu,FW,R,26,TUR,5,false,false,false,dribbling,pace
+Altin Zeqiri,FW,L,26,TUR,6,false,false,false,pace,dribbling
+Jesurun Rak Sakyi,FW,L,23,ENG,7,true,false,false,pace,dribbling
+Janne Pekka Laine,MF,R,25,FIN,3,false,false,false,stamina,dribbling
+Modibo Sagnan,CB,L,27,MLI,5,true,false,false,tackling,pace
+Muhamed Buljubasic,MF,R,22,BIH,6,true,false,false,passing,dribbling
+Khusniddin Alikulov,CB,R,27,UZB,7,false,false,false,stamina,tackling
+Samet Akaydin,CB,L,32,TUR,4,false,false,false,heading,tackling
+Emrecan Bulut,FW,L,23,TUR,5,false,false,false,pace,passing
+Attila Mocsi,CB,R,26,HUN,1,true,false,false,stamina,tackling
+Yahia Fofana,GK,R,26,CIV,5,true,false,false,reflexes,penalty-saving
+Erdem Canpolat,GK,R,25,TUR,6,false,false,false,reflexes,positioning

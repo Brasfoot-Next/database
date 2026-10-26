@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Archie Collins,MF,L,27,ENG,4,true,false,false,stamina,pace
+Thomas Oconnor,CB,L,27,IRL,5,true,false,false,stamina,pace
+Matthew Garbett,MF,R,24,NZL,6,true,false,false,stamina,dribbling
+Abraham Odoh,FW,L,26,ENG,8,true,false,false,pace,dribbling
+Ben Woods,MF,L,23,ENG,4,false,false,false,stamina,pace
+Klaidi Lolos,MF,R,25,GRE,6,true,false,false,stamina,pace
+Peter Kioso,FB,R,27,COD,7,true,false,false,stamina,pace
+Harley Mills,FB,L,20,ENG,10,false,false,false,stamina,pace
+Chris Conn Clarke,MF,R,24,NIR,4,false,false,false,pace,stamina
+Donay Obrien Brady,MF,L,22,ENG,5,false,false,false,pace,stamina
+Carl Johnston,FB,L,24,NIR,4,false,false,false,stamina,pace
+Rio Adebisi,FB,L,25,ENG,5,true,false,false,stamina,pace
+Harry Leonard,FW,R,22,ENG,6,false,false,false,pace,finishing
+Jacob Mendy,FB,L,29,GAM,8,false,false,false,pace,stamina
+Brandon Khela,MF,R,21,ENG,5,false,false,false,passing,playmaking
+Ryan De Havilland,MF,R,25,ENG,6,true,false,false,stamina,passing
+James Dornelly,FB,R,21,ENG,6,false,false,false,pace,stamina
+Sam Hughes,CB,R,29,ENG,10,true,false,false,stamina,heading
+Kyrell Lisbie,FW,L,22,ENG,5,false,false,false,pace,dribbling
+Cian Hayes,FW,L,23,IRL,6,false,false,false,pace,stamina
+Tom Lees,CB,R,35,ENG,3,false,false,false,stamina,heading
+Declan Frith,FW,L,24,ENG,5,false,false,false,pace,finishing
+Oscar Wallin,CB,R,25,SWE,6,false,false,false,pace,marking
+Jimmy Jay Morgan,FW,R,20,ENG,7,false,false,false,pace,finishing
+Gustav Lindgren,FW,R,25,SWE,4,true,false,false,pace,stamina
+David Okagbue,CB,R,22,IRL,5,false,false,false,stamina,pace
+George Nevett,CB,L,20,WAL,6,false,false,false,stamina,pace
+David Kamara,FW,R,20,ENG,7,false,false,false,pace,heading
+Lucca Mendonca,CB,R,18,BRA,4,false,false,false,pace,stamina
+Alex Bass,GK,R,28,ENG,6,false,false,false,reflexes,penalty-saving
+Vicente Reyes,GK,R,22,CHI,2,true,false,false,reflexes,penalty-saving
+Nicholas Bilokapic,GK,R,24,AUS,5,false,false,false,penalty-saving,positioning
+Will Blackmore,GK,R,24,ENG,6,false,false,false,penalty-saving,positioning

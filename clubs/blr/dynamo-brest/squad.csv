@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mikhail Kozakevich,GK,R,20,BLR,6,true,false,false,reflexes,positioning
+Gleb Tretyak,GK,R,19,BLR,4,false,false,false,rushing-out,penalty-saving
+Vladimir Shcherbo,FB,R,36,BLR,5,false,false,false,finishing,pace
+Sergey Lynko,FB,L,32,BLR,9,false,false,false,crossing,marking
+Evgeniy Yudchits,FB,L,25,BLR,8,true,false,false,marking,pace
+Ilya Kolpachuk,FB,R,31,BLR,1,true,false,false,crossing,marking
+Yasyukevich,CB,R,28,BLR,9,true,false,false,heading,stamina
+Munashe Garananga,CB,L,21,ZIM,4,true,false,false,marking,pace
+Vadim Milyutin,CB,L,20,RUS,4,false,false,false,heading,stamina
+Krivitskiy,CB,R,27,BLR,6,false,false,false,tackling,heading
+Edgar Olekhnovich,MF,L,35,BLR,5,true,false,false,tackling,pace
+David Ivan,MF,R,27,SVK,1,true,false,false,marking,passing
+Maksim Kovalchuk,MF,R,22,BLR,1,false,false,false,tackling,marking
+Aleksandr Bulychev,MF,R,22,BLR,1,true,false,false,finishing,passing
+Vladislav Sugak,MF,L,19,BLR,6,true,false,false,finishing,passing
+Vladyslav Khamelyuk,MF,L,24,UKR,2,false,false,false,tackling,marking
+Pavel Satsuk,FW,R,19,BLR,8,false,false,false,dribbling,finishing
+Daniil Pavlov,FW,L,20,RUS,9,true,false,false,pace,finishing
+Kirill Tsepenkov,FW,L,18,BLR,7,true,false,false,crossing,pace
+Aleksandr Shestyuk,FW,L,20,BLR,7,false,false,false,finishing,dribbling

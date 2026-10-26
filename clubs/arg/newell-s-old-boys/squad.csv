@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ever Banega,MF,L,38,ARG,3,false,false,false,passing,crossing
+Dario Benedetto,FW,R,36,ARG,5,true,false,false,heading,playmaking
+Martin Fernandez,MF,R,25,URU,5,true,false,false,passing,stamina
+Gaspar Iniguez,MF,R,32,ARG,6,false,false,false,stamina,passing
+Juan Manuel Garcia,FW,R,33,ARG,8,false,false,false,pace,heading
+Gonzalo Maroni,MF,R,27,ARG,4,true,false,false,dribbling,passing
+Alejo Montero,FB,R,28,ARG,5,true,false,false,dribbling,pace
+Carlos Gonzalez,FW,R,33,PAR,7,false,false,false,heading,finishing
+Jherson Mosquera,FB,R,26,COL,9,true,false,false,stamina,marking
+Victor Cuesta,CB,L,37,ARG,4,false,false,false,heading,tackling
+Lisandro Montenegro,MF,R,23,ARG,6,false,false,false,stamina,passing
+Brian Calderara,FW,L,28,ARG,7,false,false,false,pace,stamina
+Luca Sosa,CB,L,32,ARG,3,false,false,false,stamina,marking
+Martin Luciano,FB,L,23,ARG,5,false,false,false,pace,stamina
+Luciano Herrera,FW,L,30,ARG,6,true,false,false,passing,finishing
+Luca Regiardo,MF,R,19,ARG,7,true,false,false,passing,marking
+Alejo Tabares,FW,L,25,ARG,4,false,false,false,pace,dribbling
+Luciano Lollo,CB,R,39,ARG,5,false,false,false,heading,marking
+Franco Orozco,FW,L,24,ARG,6,false,false,false,pace,dribbling
+David Sotelo,MF,R,23,ARG,7,false,false,false,passing,playmaking
+Josue Colman,FW,L,28,PAR,6,false,false,false,pace,dribbling
+Genaro Rossi,FW,R,24,ARG,7,false,false,false,pace,finishing
+Saul Salcedo,CB,R,29,PAR,2,true,false,false,tackling,heading
+Pablo Altamirano,MF,L,21,ARG,5,false,false,false,passing,playmaking
+Fabian Noguera,CB,R,33,ARG,6,true,false,false,stamina,heading
+Valentino Acuna,MF,L,20,ARG,7,true,false,false,dribbling,playmaking
+Giovani Chiaverano,FW,L,21,ARG,2,false,false,false,pace,dribbling
+Alejo Navarro,FW,L,20,ARG,5,false,false,false,finishing,heading
+Lucas Hoyos,GK,R,37,ARG,6,false,false,false,reflexes,penalty-saving
+Thiago Gigena,FW,R,20,ARG,7,false,false,false,heading,stamina
+Juan Espinola,GK,R,31,PAR,5,true,false,false,penalty-saving,positioning
+Williams Barlasina,GK,R,28,ARG,6,false,false,false,rushing-out,positioning

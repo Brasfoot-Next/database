@@ -1,0 +1,52 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Álvaro Montero,GK,R,31,COL,7,true,false,false,positioning,penalty-saving
+Iván Arboleda,GK,R,27,COL,2,false,false,false,positioning,rushing-out
+Guillermo de Amores,GK,R,29,URU,5,false,false,false,rushing-out,positioning
+Diego Novoa,GK,R,34,COL,6,false,false,false,rushing-out,reflexes
+Cristian Quiñones,GK,L,19,COL,7,false,false,false,rushing-out,reflexes
+Iván Díaz,GK,R,27,COL,2,false,false,false,positioning,penalty-saving
+Andrés Llinás,CB,R,26,COL,5,true,false,false,marking,passing
+Juan Pablo Vargas,CB,R,28,COL,6,true,false,false,tackling,stamina
+Jorge Arias,CB,R,31,COL,7,false,false,false,heading,stamina
+Sergio Mosquera,CB,R,29,COL,4,false,false,false,heading,stamina
+Alex Moreno,CB,L,21,COL,2,false,false,false,tackling,pace
+Cristian Uparela,CB,R,21,COL,6,false,false,false,passing,marking
+Danovis Banguero,FB,R,34,COL,7,false,false,false,tackling,pace
+Nicolás Giraldo,FB,L,30,COL,9,false,false,false,passing,pace
+Jhoan Hernández,FB,L,17,COL,5,false,false,false,marking,crossing
+Helibelton Palacios,FB,L,30,COL,6,true,false,false,tackling,marking
+Delvin Alfonzo,FB,R,23,VEN,7,false,false,false,stamina,crossing
+Sander Navarro,FB,R,20,COL,10,false,false,false,tackling,stamina
+Carlos Sarabia,FB,R,18,COL,5,true,false,false,tackling,pace
+Samuel Martín,FB,L,17,COL,6,false,false,false,passing,crossing
+Stiven Vega,MF,R,25,COL,9,true,false,false,tackling,passing
+Nicolás Arévalo,MF,R,20,COL,5,true,false,false,dribbling,playmaking
+Bayron García,MF,R,18,COL,5,false,false,false,marking,passing
+Juan Carlos Pereira,MF,R,30,COL,6,false,false,false,finishing,playmaking
+Felix Charrupí,MF,R,25,COL,7,true,false,false,playmaking,passing
+Dewar Victoria,MF,L,22,COL,1,false,false,false,dribbling,passing
+Sebastián Viveros,MF,R,19,COL,5,true,false,false,passing,stamina
+Daniel Cataño,MF,R,34,COL,6,false,false,false,playmaking,dribbling
+Bruno Sávio,MF,R,29,BRA,7,false,false,false,passing,playmaking
+David Silva,MF,R,37,COL,2,false,false,false,finishing,playmaking
+Juan Ramirez,MF,R,21,COL,6,false,false,false,passing,tackling
+Santiago Castrillón,MF,R,25,COL,7,false,false,false,passing,tackling
+Daniel Ruiz,FW,R,22,COL,9,true,false,false,dribbling,finishing
+Daniel Mantilla,FW,R,27,COL,6,false,false,false,playmaking,finishing
+Beckham Castro,FW,L,20,COL,7,false,false,false,finishing,pace
+Álex Castro,FW,R,29,COL,8,false,false,false,pace,finishing
+Edwin Mosquera,FW,L,22,COL,5,false,false,false,finishing,stamina
+Kevin Palacios,FW,R,23,COL,6,false,false,false,pace,dribbling
+Neymar Sánchez,FW,R,20,COL,7,false,false,false,dribbling,finishing
+Sebastián Mosquera,FW,R,17,COL,8,false,false,false,pace,finishing
+Jhon Córdoba,FW,R,26,COL,6,false,false,false,pace,dribbling
+Cristián Cañozales,FW,L,24,COL,7,false,false,false,dribbling,pace
+Radamel Falcao,FW,R,37,COL,7,false,false,false,heading,pace
+Leonardo Castro,FW,R,31,COL,5,false,false,false,playmaking,finishing
+Santiago Giordana,FW,R,28,ARG,6,false,false,false,finishing,dribbling
+Jorge Hurtado,FW,R,20,COL,7,false,false,false,dribbling,finishing
+Jader Valencia,FW,R,24,COL,4,false,false,false,pace,crossing
+Juan Carvajal,FW,L,20,COL,6,false,false,false,finishing,heading
+Ramiro Brochero,FW,R,23,COL,6,false,false,false,crossing,pace
+Luis Marimón,FW,R,19,COL,7,false,false,false,finishing,dribbling
+Néiser Villarreal,FW,R,18,COL,6,true,false,false,finishing,pace

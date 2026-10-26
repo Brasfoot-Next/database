@@ -1,0 +1,13 @@
+name = "Wolverhampton Wanderers"
+country = "ENG"
+level = 18
+reputation = 4
+colors = ["#000000", "#F0B010"]
+
+[stadium]
+name = "Molineux Stadium"
+capacity = 31750
+
+[coach]
+name = "Jhon Sá"
+country = "BRA"

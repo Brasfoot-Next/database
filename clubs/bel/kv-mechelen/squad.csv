@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kerim Mrabti,MF,R,32,SWE,7,true,false,false,stamina,passing
+Benito Raman,FW,R,31,BEL,2,false,false,false,pace,stamina
+Fredrik Hammar,MF,R,25,SWE,5,true,false,false,stamina,tackling
+Lion Lauberbach,FW,R,28,GER,6,true,false,false,pace,stamina
+Ryan Teague,MF,L,24,AUS,7,false,false,false,stamina,passing
+Therence Koudou,FB,R,21,FRA,2,true,false,false,crossing,tackling
+Mathis Servais,MF,L,21,BEL,5,true,false,false,stamina,passing
+José Marsà,CB,L,24,ESP,6,true,false,false,stamina,pace
+Myron Van Brederode,FW,L,23,NED,7,true,false,false,dribbling,stamina
+Bilal Bafdili,MF,R,22,BEL,3,true,false,false,dribbling,passing
+Mory Konate,MF,L,32,GUI,5,false,false,false,stamina,passing
+Ian Struyf,CB,L,19,BEL,6,false,false,false,pace,marking
+Keano Vanrafelghem,FW,L,23,BEL,6,false,false,false,dribbling,passing
+Tommy St Jago,CB,R,26,NED,8,true,false,false,pace,stamina
+Bill Antonio,FW,R,24,ZIM,4,false,false,false,pace,dribbling
+Elton Yeboah,MF,L,21,BEL,5,false,false,false,passing,tackling
+Maxim Kireev,MF,R,22,BEL,6,false,false,false,pace,passing
+Gora Diouf,CB,L,22,SEN,10,false,false,false,stamina,pace
+Halil Ozdemir,FW,R,21,BEL,4,false,false,false,finishing,dribbling
+Lovro Golic,CB,R,20,SVN,5,false,false,false,tackling,stamina
+Amine Ouahabi,MF,R,18,BEL,5,false,false,false,pace,passing
+Redouane Halhal,CB,R,23,MAR,6,true,false,false,tackling,marking
+Lukas Baert,CB,L,21,BEL,7,false,false,false,tackling,pace
+Ortwin De Wolf,GK,L,29,BEL,7,false,false,false,reflexes,penalty-saving
+Nacho Miras,GK,R,29,ESP,4,true,false,false,reflexes,positioning
+Tijn Van Ingelgom,GK,R,19,BEL,5,false,false,false,rushing-out,positioning
+Axel Willockx,GK,R,19,BEL,6,false,false,false,penalty-saving,positioning

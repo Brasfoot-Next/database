@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mahmoud Aboul-Saoud,GK,R,38,EGY,6,false,false,false,rushing-out,positioning
+Mahmoud El Hadary,GK,R,31,EGY,7,false,false,false,reflexes,penalty-saving
+Mohamed Fawzi,GK,R,30,EGY,2,false,false,false,rushing-out,positioning
+Ali Tarek Soliman,GK,R,25,EGY,5,true,false,false,rushing-out,reflexes
+Mohamed Ammar,CB,R,26,EGY,6,true,false,false,tackling,marking
+Hassan Shakosh,CB,R,28,EGY,7,true,false,false,marking,tackling
+Mohamed Hamed,CB,R,32,EGY,2,false,false,false,marking,heading
+Louay Wael,CB,R,34,EGY,5,false,false,false,tackling,stamina
+Youssef Safina,CB,R,24,EGY,6,false,false,false,heading,stamina
+Joseph Ochaya,FB,R,32,UGA,7,false,false,false,pace,crossing
+Nader Hesham,FB,L,27,EGY,3,true,false,false,crossing,passing
+Mohamed Hozian,FB,L,27,EGY,5,true,false,false,stamina,pace
+Sherif Reda,FB,R,29,EGY,6,false,false,false,pace,crossing
+Kahraba,FB,R,27,EGY,6,false,false,false,pace,crossing
+Mostafa Gamal,MF,R,35,EGY,7,false,false,false,finishing,playmaking
+Omar El Wahsh,MF,L,31,EGY,4,true,false,false,tackling,passing
+Islam Gaber,MF,R,30,EGY,5,true,false,false,playmaking,passing
+Abdelrahman Akmal,MF,R,22,EGY,6,true,false,false,passing,playmaking
+Mohamed Abdelnasser,MF,R,19,EGY,8,false,false,false,stamina,tackling
+Ahmed Fouad,MF,R,27,EGY,4,true,false,false,dribbling,playmaking
+Mostafa Sobhi,FW,L,28,EGY,1,true,false,false,dribbling,playmaking
+Ahmed Ouled Behi,FW,R,25,TUN,5,false,false,false,pace,crossing
+Mido Gaber,FW,L,33,EGY,6,false,false,false,finishing,heading
+Anas Baniouwda,FW,L,24,EGY,7,false,false,false,playmaking,finishing
+Shady Hussein,FW,R,33,EGY,7,false,false,false,pace,dribbling
+Shokry Naguib,FW,R,32,EGY,3,false,false,false,dribbling,playmaking
+Mohamed Salem,FW,R,32,EGY,5,false,false,false,finishing,dribbling
+Joackiam Ojera,FW,L,28,UGA,6,true,false,false,heading,stamina
+Mahmoud Abou-Gouda,FW,R,28,EGY,7,false,false,false,dribbling,finishing

@@ -1,0 +1,13 @@
+name = "VfL Wolfsburg"
+country = "GER"
+level = 18
+reputation = 4
+colors = ["#F0F0F0", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Rogério Jenz"
+country = "BRA"

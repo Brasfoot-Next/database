@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mahmoud El Zanfaly,GK,R,34,EGY,6,false,false,false,penalty-saving,reflexes
+Kamal El Sayed,GK,R,26,EGY,7,true,false,false,reflexes,positioning
+Sayed Sobhy,GK,L,25,EGY,3,false,false,false,positioning,penalty-saving
+Karim Yehia,CB,L,28,EGY,4,true,false,false,marking,tackling
+Mostafa Metawea,CB,R,22,EGY,5,false,false,false,passing,marking
+Ali Elfil,CB,R,35,EGY,6,false,false,false,marking,passing
+Tarek Mohamed,CB,R,26,EGY,7,true,false,false,tackling,marking
+Mahmoud El Halawani,CB,R,28,EGY,4,false,false,false,passing,marking
+Mohamed Yousri,CB,R,22,EGY,5,false,false,false,marking,tackling
+Hamdi Marcelo,FB,R,23,EGY,6,false,false,false,passing,crossing
+Ahmed Mazhoud,FB,L,31,TUN,3,false,false,false,tackling,stamina
+Adham Nabil,FB,R,21,EGY,5,false,false,false,tackling,stamina
+Ali Fawzi,FB,R,32,EGY,6,false,false,false,stamina,pace
+Mostafa Sobhy,FB,L,25,EGY,7,true,false,false,dribbling,pace
+Mostafa Gamal,FB,R,25,EGY,3,true,false,false,dribbling,pace
+Ghanam Mohamed,MF,R,29,EGY,5,false,false,false,dribbling,passing
+Ahmed Youssef,MF,R,27,EGY,6,true,false,false,tackling,passing
+Mohamed Sabry,MF,R,26,EGY,7,true,false,false,tackling,marking
+El Limby,MF,R,26,EGY,4,true,false,false,playmaking,dribbling
+Ali Zazaa,MF,R,25,EGY,5,false,false,false,finishing,playmaking
+Abdallah Hafez,MF,R,27,EGY,6,true,false,false,finishing,passing
+Ahmed Mostafa,MF,R,28,EGY,7,false,false,false,playmaking,finishing
+Adem Redjem,FW,R,29,ALG,3,false,false,false,heading,pace
+Mahmoud Mamdouh,FW,R,24,EGY,5,false,false,false,dribbling,finishing
+Mostafa Hamada,FW,L,25,EGY,6,false,false,false,dribbling,pace
+Youssef Ali,FW,L,27,EGY,7,true,false,false,pace,dribbling
+Seif Oufa,FW,R,22,EGY,4,false,false,false,dribbling,pace
+Mohamed Mosaad,FW,R,24,EGY,5,false,false,false,finishing,dribbling
+Arnold Eba,FW,R,23,CMR,6,false,false,false,dribbling,pace
+Kamel Kaboria,FW,R,29,EGY,7,false,false,false,finishing,dribbling
+Tito,FW,L,22,EGY,6,false,false,false,heading,pace
+Godwin Chika,FW,R,28,NGA,7,true,false,false,finishing,stamina
+Fejiri Okenabirhie,FW,R,30,ENG,2,false,false,false,pace,finishing

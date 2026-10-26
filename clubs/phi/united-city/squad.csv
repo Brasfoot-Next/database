@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Anthony Pinthus,GK,R,22,PHI,8,true,false,false,positioning,rushing-out
+Kenry Balobo,GK,L,22,PHI,2,false,false,false,penalty-saving,reflexes
+Florencio Badelic,GK,R,26,PHI,6,false,false,false,reflexes,positioning
+Ryan Jarvis,FB,L,20,PHI,10,true,false,false,crossing,marking
+Da-hwon Jeong,FB,R,33,KOR,5,true,false,false,marking,pace
+Miguel Clariño,FB,R,24,PHI,1,false,false,false,marking,finishing
+Justin Baas,CB,R,21,PHI,8,true,false,false,tackling,marking
+Jonny Campbell,CB,L,29,USA,9,true,false,false,marking,pace
+William Grierson,CB,R,22,PHI,6,false,false,false,marking,pace
+Sean Kane,CB,L,29,PHI,2,false,false,false,tackling,marking
+Stephan Schröck,MF,L,34,PHI,3,true,false,false,playmaking,passing
+Mike Ott,MF,R,26,PHI,7,true,false,false,finishing,passing
+Hikaru Minegishi,MF,L,29,PHI,5,true,false,false,passing,finishing
+Adam Reed,MF,L,29,PHI,5,true,false,false,finishing,passing
+Omid Nazari,MF,R,29,PHI,8,false,false,false,tackling,marking
+Amin Nazari,MF,L,27,PHI,10,false,false,false,marking,pace
+Andreas Esswein,MF,R,24,PHI,10,false,false,false,marking,passing
+Curt Dizon,FW,L,27,PHI,8,true,false,false,dribbling,finishing
+Jai Ingham,FW,R,27,NZL,5,true,false,false,heading,pace
+Arnie Pasinabo,FW,R,35,PHI,1,false,false,false,finishing,dribbling
+Marasigan,FW,L,28,PHI,5,false,false,false,dribbling,finishing

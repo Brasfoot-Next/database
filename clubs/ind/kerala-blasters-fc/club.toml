@@ -1,0 +1,13 @@
+name = "Kerala Blasters FC"
+country = "IND"
+level = 4
+reputation = 1
+colors = ["#0030A0", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Sagolsem Meitei"
+country = "BRA"

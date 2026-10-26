@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Bruno Xadas,FW,L,28,POR,2,true,false,false,pace,playmaking
+Ba Dun,FB,R,30,CHN,5,false,false,false,stamina,pace
+Quiles,FW,R,31,ESP,6,false,false,false,pace,finishing
+Cris Salvador,MF,R,31,ESP,7,true,false,false,stamina,playmaking
+Wang Qiuming,MF,R,33,CHN,3,false,false,false,stamina,pace
+Ros,CB,L,30,ESP,5,true,false,false,stamina,heading
+Albion Ademi,FW,L,27,ALB,6,true,false,false,pace,dribbling
+Guo Hao,MF,L,33,CHN,7,false,false,false,pace,stamina
+Su Yuanjie,FB,L,31,CHN,3,false,false,false,pace,dribbling
+Sun Minghim,FB,L,26,CHN,4,true,false,false,pace,stamina
+Yang Fan,CB,R,30,CHN,7,false,false,false,stamina,pace
+Shi Yan,FW,L,24,CHN,2,false,false,false,pace,stamina
+Huang Jiahui,MF,R,25,CHN,5,true,false,false,pace,stamina
+Ruan Yang,FW,L,32,CHN,6,false,false,false,pace,stamina
+Wang Xianjun,CB,L,26,CHN,7,true,false,false,pace,passing
+Xie Weijun,FW,R,28,CHN,2,false,false,false,pace,stamina
+Yang Zihao,FB,L,25,CHN,5,false,false,false,pace,stamina
+Li Yongjia,MF,R,25,CHN,6,true,false,false,passing,playmaking
+Li Sirong,FB,R,23,CHN,1,false,false,false,pace,stamina
+Qian Yumiao,FB,R,28,CHN,5,true,false,false,pace,stamina
+Wang Zhenghao,FB,R,26,CHN,6,false,false,false,stamina,tackling
+Chen Zhexuan,MF,R,22,CHN,8,true,false,false,pace,playmaking
+Liu Junxian,FW,R,25,CHN,4,false,false,false,pace,finishing
+Lyu Jiaqiang,CB,R,21,CHN,5,false,false,false,pace,marking
+Fang Jingqi,GK,R,33,CHN,6,false,false,false,rushing-out,penalty-saving
+Yan Bingliang,GK,R,26,CHN,9,true,false,false,rushing-out,reflexes
+Li Yuefeng,GK,R,23,CHN,4,false,false,false,rushing-out,penalty-saving
+Zhang Haoran,GK,R,20,CHN,5,false,false,false,penalty-saving,rushing-out

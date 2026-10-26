@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kevin Altman,GK,L,18,CAN,5,false,false,false,rushing-out,penalty-saving
+Ryder Anderson,GK,R,16,CAN,4,false,false,false,penalty-saving,reflexes
+Tucker Merritt,FB,L,16,CAN,6,false,false,false,crossing,passing
+Enzo Mercer,FB,R,18,CAN,2,false,false,false,marking,crossing
+Gavin Fletcher,FB,L,17,CAN,9,false,false,false,crossing,pace
+Lachlan Daniel,CB,R,16,CAN,8,false,false,false,heading,marking
+Xavier Robins,CB,L,18,CAN,3,false,false,false,stamina,tackling
+Michael Cooke,CB,R,19,CAN,7,false,false,false,tackling,heading
+Leonardo Gale,MF,L,17,CAN,9,false,false,false,passing,pace
+Callum Campbell,MF,R,18,CAN,10,false,false,false,playmaking,finishing
+Kyle Beech,MF,L,18,CAN,2,false,false,false,marking,tackling
+Benson McCoy,MF,R,17,CAN,2,false,false,false,tackling,passing
+Declan Erickson,FW,L,16,CAN,7,false,false,false,finishing,passing
+Nathan Hawley,FW,R,19,CAN,9,false,false,false,stamina,finishing
+Christopher Oliver,FW,L,17,CAN,2,false,false,false,finishing,pace

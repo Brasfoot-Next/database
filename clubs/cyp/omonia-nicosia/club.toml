@@ -1,0 +1,13 @@
+name = "Omonia Nicosia"
+country = "CYP"
+level = 15
+reputation = 2
+colors = ["#003300", "#ffffff"]
+
+[stadium]
+name = "GSP"
+capacity = 22859
+
+[coach]
+name = "Neil Lennon"
+country = "NIR"

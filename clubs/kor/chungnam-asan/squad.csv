@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Song-hoon Shin,GK,R,23,KOR,5,false,false,false,rushing-out,positioning
+Jin-young Kim,GK,R,34,KOR,6,false,false,false,positioning,reflexes
+Ju-hwan Seo,GK,L,27,KOR,7,true,false,false,rushing-out,reflexes
+Ho-in Lee,CB,R,30,KOR,3,false,false,false,heading,passing
+Hee-won Choi,CB,R,27,KOR,5,true,false,false,marking,passing
+Jun-young Byun,CB,R,25,KOR,6,true,false,false,heading,marking
+Maks Celic,CB,R,30,CRO,7,false,false,false,heading,stamina
+Jun-yeong Jang,CB,R,33,KOR,4,false,false,false,heading,tackling
+Bo-kyeong Choi,CB,R,38,KOR,5,false,false,false,stamina,heading
+Jong-min Park,CB,R,31,KOR,6,false,false,false,heading,tackling
+Hyeon-woong Choi,CB,R,22,KOR,7,false,false,false,passing,marking
+Seung-uk Yang,CB,R,20,KOR,3,false,false,false,tackling,pace
+Seong-woo Park,FB,L,30,KOR,5,false,false,false,crossing,passing
+Ju-sung Kim,FB,R,24,KOR,7,true,false,false,tackling,marking
+Woo-jae Jeong,FB,L,34,KOR,3,false,false,false,stamina,dribbling
+Jung-su Han,FB,L,23,KOR,5,false,false,false,marking,crossing
+Se-jin Park,FB,L,30,KOR,6,true,false,false,tackling,pace
+Jun-ho Son,MF,L,34,KOR,7,false,false,false,passing,tackling
+Hye-seong Kim,MF,R,30,KOR,3,true,false,false,passing,playmaking
+Dudu Nardini,MF,L,28,BRA,5,true,false,false,passing,playmaking
+Se-jik Park,MF,L,37,KOR,7,false,false,false,playmaking,dribbling
+Chi-won Choi,MF,R,33,KOR,3,false,false,false,pace,dribbling
+Young-nam Kim,MF,R,35,KOR,5,false,false,false,passing,tackling
+Denisson Silva,MF,L,28,BRA,6,true,false,false,dribbling,passing
+Se-jun Jung,MF,R,24,KOR,1,true,false,false,pace,dribbling
+Kyo-won Han,FW,R,36,KOR,5,false,false,false,pace,crossing
+Vitinho,FW,R,25,BRA,6,true,false,false,dribbling,playmaking
+Naeem Mohammed,FW,L,29,GHA,7,false,false,false,pace,stamina
+Charles Lokolingoy,FW,R,29,AUS,2,false,false,false,pace,crossing
+Jong-min Kim,FW,L,33,KOR,5,true,false,false,dribbling,finishing

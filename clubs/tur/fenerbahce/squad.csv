@@ -1,0 +1,46 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ederson,GK,L,33,BRA,7,true,true,false,positioning,reflexes
+Dominik Livakovic,GK,R,31,CRO,8,false,false,false,reflexes,positioning
+İrfan Can Eğribayat,GK,R,28,TUR,5,false,false,false,reflexes,penalty-saving
+Tarık Çetin,GK,R,29,TUR,6,false,false,false,reflexes,rushing-out
+Mert Günok,GK,R,37,TUR,7,false,false,false,reflexes,positioning
+Engin Can Biterge,GK,L,19,TUR,8,false,false,false,reflexes,rushing-out
+Jayden Oosterwolde,CB,L,25,NED,5,true,false,false,pace,marking
+Nathan Aké,CB,L,31,NED,6,true,false,false,tackling,marking
+Milan Škriniar,CB,L,31,SVK,7,false,false,false,tackling,marking
+Yiğit Efe Demir,CB,R,22,TUR,9,false,false,false,tackling,pace
+Diego Carlos,CB,R,33,BRA,5,false,false,false,tackling,marking
+Çağlar Söyüncü,CB,R,30,TUR,6,false,false,false,tackling,heading
+Rodrigo Becão,CB,R,30,BRA,7,false,false,false,heading,tackling
+Yiğit Fidan,CB,R,21,TUR,10,false,false,false,heading,tackling
+Omar Fayed,CB,R,23,EGY,5,false,false,false,tackling,marking
+Archie Brown,FB,L,24,ENG,6,true,false,false,pace,stamina
+Levent Mercan,FB,L,25,TUR,6,false,false,false,passing,crossing
+Mert Müldür,FB,R,27,TUR,8,true,false,false,stamina,pace
+Nélson Semedo,FB,R,32,POR,4,false,false,false,pace,stamina
+Ognjen Mimović,FB,R,21,SRB,6,false,false,false,pace,crossing
+İsmail Yüksek,MF,R,27,TUR,7,true,false,false,stamina,tackling
+Sofyan Amrabat,MF,R,30,MAR,9,false,false,false,stamina,tackling
+N'Golo Kanté,MF,R,35,FRA,5,true,true,false,tackling,stamina
+Bartuğ Elmaz,MF,R,23,TUR,6,false,false,false,playmaking,passing
+Mattéo Guendouzi,MF,R,27,FRA,7,true,false,false,stamina,passing
+Fred,MF,L,33,BRA,10,false,false,false,stamina,tackling
+Abdou Aziz Fall,MF,R,19,SEN,6,false,false,false,finishing,playmaking
+Marco Asensio,MF,L,30,ESP,6,true,false,false,dribbling,crossing
+Talisca,MF,R,32,BRA,7,false,false,false,tackling,marking
+Emre Demir,MF,R,22,TUR,8,false,false,false,tackling,marking
+Mert Hakan Yandaş,MF,R,32,TUR,7,false,false,false,crossing,passing
+Kerem Aktürkoğlu,FW,L,27,TUR,9,true,false,false,stamina,pace
+Anthony Musaba,FW,R,25,NED,5,false,false,false,pace,dribbling
+Amara Diouf,FW,R,18,SEN,6,false,false,false,finishing,pace
+Alaettin Ekici,FW,R,17,TUR,7,false,false,false,finishing,heading
+Mason Greenwood,FW,L,24,ENG,9,true,false,false,dribbling,pace
+Dorgeles Nene,FW,L,23,MLI,5,false,false,false,pace,dribbling
+Oğuz Aydın,FW,L,25,TUR,6,false,false,false,pace,dribbling
+Cengiz Ünder,FW,L,29,TUR,6,false,false,false,crossing,dribbling
+İrfan Can Kahveci,FW,L,31,TUR,7,false,false,false,crossing,dribbling
+Adem Yeşilyurt,FW,L,19,TUR,6,false,false,false,heading,stamina
+Sidiki Chérif,FW,R,19,GUI,8,false,false,false,heading,finishing
+Vedat Muriqi,FW,R,32,TUR,4,false,false,false,dribbling,finishing
+Çağrı Fedai,FW,L,20,TUR,6,false,false,false,heading,finishing
+Çağrı Balta,FW,R,18,TUR,6,false,false,false,dribbling,finishing

@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Michal Sulla,GK,L,31,SVK,1,false,false,false,reflexes,positioning
+Matus Ruzinsky,GK,L,30,SVK,1,false,false,false,positioning,penalty-saving
+Adrian Chovan,GK,R,26,SVK,1,true,false,false,positioning,penalty-saving
+De Marco,FB,L,29,ARG,2,true,false,false,crossing,pace
+Jurij Medvedev,FB,R,26,CZE,8,true,false,false,crossing,pace
+Lukas Pauschek,FB,R,29,SVK,6,false,false,false,marking,passing
+Lucas Lovat,FB,L,25,BRA,10,false,false,false,crossing,marking
+Myenty Abena,CB,R,27,NED,6,true,false,false,marking,pace
+Guram Kashia,CB,L,35,GEO,6,true,false,false,marking,pace
+Richard Krizan,CB,L,24,SVK,7,false,false,false,tackling,marking
+Siemen Voet,CB,R,22,BEL,4,false,false,false,heading,stamina
+Ibrahim Rabiu,MF,L,31,NGA,10,false,false,false,passing,finishing
+Jaromir Zmrhal,MF,R,28,CZE,6,false,false,false,finishing,passing
+Dávid Holman,MF,R,29,HUN,4,false,false,false,playmaking,pace
+Jaba Kankava,MF,R,36,GEO,7,true,false,false,tackling,finishing
+Uche Agbo,MF,L,26,NGA,4,true,false,false,tackling,marking
+Alen Mustafic,MF,R,23,BIH,4,false,false,false,marking,finishing
+Giorgi Chakvetadze,MF,R,22,GEO,7,true,false,false,passing,stamina
+Juraj Kucka,MF,L,35,SVK,3,true,false,false,marking,passing
+Aleksandar Cavric,FW,R,28,SRB,7,false,false,false,finishing,stamina
+Vladimir Weiss,FW,L,32,SVK,3,true,false,false,finishing,pace
+Andre Green,FW,R,24,ENG,1,true,false,false,pace,dribbling
+David Hrncar,FW,R,24,SVK,10,false,false,false,finishing,heading

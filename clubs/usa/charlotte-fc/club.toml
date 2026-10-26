@@ -1,0 +1,13 @@
+name = "Charlotte FC"
+country = "USA"
+level = 14
+reputation = 3
+colors = ["#D0B080", "#001030"]
+
+[stadium]
+name = "Bank of America Stadium"
+capacity = 75412
+
+[coach]
+name = "Brandon Westwood"
+country = "BRA"

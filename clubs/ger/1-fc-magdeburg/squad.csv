@@ -1,0 +1,37 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Baris Atik,MF,R,31,TUR,7,true,false,false,stamina,dribbling
+Marcus Mathisen,CB,R,30,DEN,4,false,false,false,stamina,tackling
+Herbert Bockhorn,FW,R,31,UGA,5,false,false,false,pace,stamina
+Connor Krempicki,MF,R,31,GER,6,true,false,false,stamina,finishing
+Philipp Hercher,FW,R,30,GER,7,false,false,false,stamina,pace
+Ado Onaiwu,FW,R,30,JPN,5,true,false,false,pace,finishing
+Lubambo Musonda,MF,L,31,ZAM,6,true,false,false,pace,stamina
+Alexander Nollenberger,FW,L,29,GER,7,false,false,false,pace,stamina
+Silas Gnaka,MF,L,27,CIV,3,true,false,false,stamina,tackling
+Jean Hugonet,CB,R,26,FRA,5,false,false,false,stamina,tackling
+Abu Bekir Omer El Zein,MF,R,23,GER,3,false,false,false,stamina,dribbling
+Falko Michel,FW,L,25,GER,5,false,false,false,stamina,pace
+Laurin Ulrich,MF,R,21,GER,6,false,false,false,passing,dribbling
+Robert Leipertz,FW,L,33,GER,7,false,false,false,passing,dribbling
+Mateusz Zukowski,FW,R,24,POL,3,false,false,false,pace,passing
+Rayan Ghrieb,FW,L,27,FRA,5,false,false,false,dribbling,pace
+Tarek Chahed,FB,R,30,GER,6,false,false,false,stamina,pace
+Daniel Heber,CB,L,32,GER,7,false,false,false,stamina,pace
+Luka Hyrylainen,MF,R,22,FIN,4,false,false,false,passing,heading
+Samuel Loric,FB,L,26,FRA,5,true,false,false,tackling,dribbling
+Dariusz Stalmach,MF,R,20,POL,1,false,false,false,stamina,passing
+Aleksa Marusic,FW,R,27,MNE,5,false,false,false,pace,finishing
+Alexander Ahl Holmstrom,FW,R,27,SWE,6,false,false,false,pace,stamina
+Noah Pesch,FW,L,21,CRO,7,false,false,false,dribbling,pace
+Maximilian Breunig,FW,L,26,GER,1,true,false,false,finishing,heading
+Kandet Diawara,FW,R,26,GUI,5,false,false,false,pace,stamina
+Max Geschwill,CB,L,25,GER,6,true,false,false,tackling,stamina
+Emir Kuhinja,FW,R,24,GER,7,false,false,false,pace,finishing
+Tobias Muller,CB,R,32,GER,2,false,false,false,stamina,heading
+Eldin Dzogovic,FB,R,23,GER,5,true,false,false,pace,tackling
+Andi Hoti,CB,R,23,GER,7,true,false,false,tackling,pace
+Magnus Baars,FW,L,19,GER,4,false,false,false,pace,dribbling
+Nick Elias Meier,MF,L,20,GER,5,false,false,false,pace,passing
+Dominik Reimann,GK,R,29,GER,6,true,false,false,positioning,reflexes
+Noah Kruth,GK,R,23,GER,7,false,false,false,penalty-saving,rushing-out
+Robert Kampa,GK,R,21,GER,4,false,false,false,rushing-out,reflexes

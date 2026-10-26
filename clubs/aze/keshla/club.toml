@@ -1,0 +1,13 @@
+name = "Keshla"
+country = "AZE"
+level = 14
+reputation = 2
+colors = ["#ff0066", "#ffffff"]
+
+[stadium]
+name = "ASK Arena"
+capacity = 8152
+
+[coach]
+name = "Sanan Qurbanov"
+country = "AZE"

@@ -1,0 +1,13 @@
+name = "Colo-Colo"
+country = "CHI"
+level = 18
+reputation = 3
+colors = ["#efefef", "#000000"]
+
+[stadium]
+name = "Monumental"
+capacity = 45000
+
+[coach]
+name = "Gustavo Quinteros"
+country = "BOL"

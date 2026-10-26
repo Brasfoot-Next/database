@@ -1,0 +1,13 @@
+name = "Independiente Rivadavia"
+country = "ARG"
+level = 12
+reputation = 2
+colors = ["#201070", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Sheyko Costa"
+country = "BRA"

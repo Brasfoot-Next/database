@@ -1,0 +1,13 @@
+name = "Eyüpspor"
+country = "TUR"
+level = 14
+reputation = 3
+colors = ["#F0F0F0", "#6050A0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Mame Ilter"
+country = "BRA"

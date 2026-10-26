@@ -1,0 +1,13 @@
+name = "Palermo FC"
+country = "ITA"
+level = 14
+reputation = 3
+colors = ["#000000", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Giacomo Corona"
+country = "BRA"

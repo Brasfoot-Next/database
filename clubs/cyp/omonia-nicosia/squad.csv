@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Fabiano,GK,L,34,BRA,8,true,false,false,penalty-saving,reflexes
+Panagi,GK,R,27,CYP,4,false,false,false,reflexes,positioning
+Kyriakidis,GK,L,23,CYP,6,false,false,false,positioning,penalty-saving
+Jan Lecjaks,FB,L,31,CZE,9,true,false,false,crossing,pace
+Paris Psaltis,FB,R,25,CYP,6,true,false,false,crossing,marking
+Ádám Lang,CB,R,29,HUN,10,true,false,false,marking,pace
+Panagiotou,CB,L,22,CYP,1,true,false,false,marking,pace
+Héctor Yuste,CB,L,34,ESP,3,false,false,false,tackling,marking
+Venizelou,CB,R,18,CYP,1,false,false,false,tackling,marking
+Fotis Papoulis,MF,R,37,CYP,8,true,false,false,playmaking,finishing
+Charalampous,MF,R,20,CYP,3,true,false,false,playmaking,finishing
+Andreas Savva,MF,L,18,CYP,7,true,false,false,playmaking,finishing
+Giannis Kousoulos,MF,R,26,CYP,7,true,false,false,marking,finishing
+Christou,MF,L,19,CYP,10,false,false,false,passing,finishing
+Mix Diskerud,MF,R,31,USA,7,false,false,false,tackling,pace
+Loizos Loizou,FW,R,19,CYP,2,true,false,false,finishing,dribbling
+Kakoullis,FW,R,21,CYP,3,true,false,false,playmaking,finishing
+Iakovos Laos,FB,L,18,CYP,2,false,false,false,finishing,passing
+Adam Matthews,FB,R,30,WAL,4,false,false,false,crossing,marking
+Bruno,FW,R,28,BRA,10,false,false,false,dribbling,finishing
+Zachariou,FW,R,26,CYP,10,false,false,false,dribbling,finishing
+Fouad Bachirou,MF,L,32,COM,3,false,false,false,marking,finishing
+Andreas Asimenos,MF,L,18,CYP,4,false,false,false,marking,finishing

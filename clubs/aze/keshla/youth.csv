@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ravil Mahammadov,GK,R,19,AZE,5,false,false,false,positioning,reflexes
+Arzuman Nasibov,GK,L,17,AZE,4,false,false,false,rushing-out,penalty-saving
+Faiq Muradgil,FB,R,19,AZE,8,false,false,false,passing,crossing
+Elmir Mämmädov,FB,L,16,AZE,8,false,false,false,crossing,tackling
+Rufat Mämmädov,FB,R,17,AZE,2,false,false,false,pace,crossing
+Taleh Muradov,CB,L,17,AZE,10,false,false,false,marking,stamina
+Timur Dadasov,CB,R,19,AZE,7,false,false,false,tackling,heading
+Vusal Safarov,CB,L,18,AZE,4,false,false,false,stamina,tackling
+Sarxan Agayev,MF,R,16,AZE,7,false,false,false,playmaking,passing
+Natij Äkbärov,MF,L,19,AZE,4,false,false,false,passing,dribbling
+Cavid Mirzayev,MF,R,19,AZE,8,false,false,false,marking,passing
+Murad Isgändärli,MF,L,18,AZE,3,false,false,false,tackling,marking
+Ramal Hüseynov,FW,R,17,AZE,6,false,false,false,pace,finishing
+Yasin Yaqubzada,FW,L,16,AZE,5,false,false,false,finishing,dribbling
+Ramil Nuriyev,FW,R,19,AZE,5,false,false,false,heading,finishing

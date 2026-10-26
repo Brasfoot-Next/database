@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Fabien Mutombo,GK,R,25,BDI,7,true,false,false,rushing-out,penalty-saving
+Ssekagya,GK,L,24,UGA,2,false,false,false,penalty-saving,reflexes
+Denis Kiggundu,GK,R,22,UGA,4,false,false,false,positioning,penalty-saving
+Asiku Bashir,FB,R,22,UGA,10,true,false,false,marking,passing
+Disan Galiwango,FB,L,24,UGA,4,true,false,false,crossing,pace
+Joseph Dhata,FB,R,19,SSD,8,false,false,false,marking,passing
+Karim Nizigiyimana,FB,L,33,BDI,4,false,false,false,marking,passing
+Halid Lwaliwa,CB,R,25,UGA,3,true,false,false,tackling,stamina
+Livingstone Mulondo,CB,L,25,UGA,2,true,false,false,heading,stamina
+Fred Okot,CB,L,22,UGA,9,false,false,false,marking,pace
+Karim Watambala,MF,L,22,UGA,6,true,false,false,finishing,passing
+Allan Kayiwa,MF,R,24,UGA,7,true,false,false,playmaking,finishing
+Siraje Sentamu,MF,R,27,UGA,9,true,false,false,marking,finishing
+Bright Anukani,MF,R,22,UGA,8,true,false,false,passing,finishing
+Jamil Kalisa,MF,L,30,RWA,7,false,false,false,passing,finishing
+Osomba Omajondo,MF,R,24,COD,7,false,false,false,marking,finishing
+Bobosi Byaruhanga,MF,L,20,UGA,9,false,false,false,tackling,marking
+Lobi Manzoki,FW,R,25,COD,7,true,false,false,heading,pace
+Dan Sserunkuma,FW,L,32,UGA,6,true,false,false,dribbling,finishing
+Milton Karisa,FW,R,27,UGA,9,false,false,false,crossing,pace
+Ivan Asaba,FW,R,19,UGA,4,false,false,false,finishing,dribbling

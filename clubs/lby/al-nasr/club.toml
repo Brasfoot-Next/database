@@ -1,0 +1,13 @@
+name = "Al-Nasr"
+country = "LBY"
+level = 15
+reputation = 3
+colors = ["#009900", "#ffffff"]
+
+[stadium]
+name = "Martyrs"
+capacity = 10550
+
+[coach]
+name = "Karim Touati"
+country = "TUN"

@@ -1,0 +1,13 @@
+name = "Neftçi Baku"
+country = "AZE"
+level = 15
+reputation = 2
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Bakcell Arena"
+capacity = 11000
+
+[coach]
+name = "Laurentiu Reghecampf"
+country = "ROU"

@@ -1,0 +1,13 @@
+name = "Liepāja"
+country = "LVA"
+level = 12
+reputation = 1
+colors = ["#339900", "#ffffff"]
+
+[stadium]
+name = "Daugava"
+capacity = 4022
+
+[coach]
+name = "Tamaz Pertia"
+country = "GEO"

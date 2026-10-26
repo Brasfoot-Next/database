@@ -1,0 +1,13 @@
+name = "Étoile Sahel"
+country = "TUN"
+level = 16
+reputation = 3
+colors = ["#b00000", "#ffffff"]
+
+[stadium]
+name = "Stade Olympique"
+capacity = 25000
+
+[coach]
+name = "Ikbal Rouatbi"
+country = "TUN"

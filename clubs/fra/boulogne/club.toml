@@ -1,0 +1,13 @@
+name = "Boulogne"
+country = "FRA"
+level = 7
+reputation = 1
+colors = ["#000000", "#E00010"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Joffrey Keita"
+country = "BRA"

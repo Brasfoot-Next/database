@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Himad Abdelli,MF,R,26,ALG,4,true,false,false,dribbling,stamina
+Pierrick Capelle,MF,L,39,FRA,5,false,false,false,crossing,passing
+Haris Belkebla,MF,L,32,ALG,7,false,false,false,stamina,passing
+Florent Hanin,FB,L,36,FRA,4,false,false,false,stamina,pace
+Yassin Belkhdim,MF,R,24,FRA,5,true,false,false,passing,stamina
+Carlens Arcus,FB,R,30,HAI,6,false,false,false,stamina,pace
+Jim Allevinah,FW,R,31,FRA,7,false,false,false,pace,crossing
+Louis Mouton,MF,R,24,FRA,4,true,false,false,stamina,passing
+Abdoulaye Bamba,CB,R,36,CIV,5,false,false,false,tackling,marking
+Jordan Lefort,CB,L,33,FRA,6,false,false,false,stamina,tackling
+Lilian Raolisoa,FB,R,26,FRA,5,true,false,false,tackling,dribbling
+Emmanuel Biumla,CB,R,21,FRA,6,true,false,false,tackling,heading
+Jacques Ekomie,FB,L,23,FRA,7,true,false,false,pace,tackling
+Justin Kalumba,FW,L,21,FRA,3,false,false,false,dribbling,passing
+Ousmane Camara,CB,R,23,FRA,5,true,false,false,heading,tackling
+Sidiki Cherif,FW,L,19,FRA,6,true,false,false,dribbling,pace
+Jibril El Baraka,MF,R,19,MAR,7,false,false,false,passing,tackling
+Marius Courcoul,MF,R,19,FRA,4,true,false,false,stamina,tackling
+Ilann Garin,MF,R,20,FRA,5,false,false,false,pace,stamina
+Prosper Peter,FW,R,19,FRA,6,true,false,false,heading,finishing
+Lionel Ngangue,FB,L,21,FRA,7,false,false,false,tackling,pace
+Marius Louer,FB,R,19,FRA,3,false,false,false,pace,tackling
+Lanroy Machine,FW,R,20,FRA,5,false,false,false,pace,dribbling
+Dan Sinate,FB,L,20,MLI,6,false,false,false,dribbling,pace
+Noah Nadje,FW,L,22,FRA,7,false,false,false,finishing,heading
+Amine Moussaoui,MF,R,19,FRA,4,false,false,false,dribbling,finishing
+Herve Koffi,GK,R,29,BFA,5,true,false,false,reflexes,penalty-saving
+Melvin Zinga,GK,L,24,FRA,6,false,false,false,reflexes,rushing-out
+Oumar Pona,GK,R,20,MLI,7,false,false,false,rushing-out,reflexes

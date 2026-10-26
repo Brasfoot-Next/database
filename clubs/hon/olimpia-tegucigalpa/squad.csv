@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Edrick Menjívar,GK,R,29,HON,7,true,false,false,penalty-saving,reflexes
+Alex Güity,GK,R,24,HON,6,false,false,false,reflexes,positioning
+José Mendoza,GK,R,33,HON,6,false,false,false,rushing-out,penalty-saving
+Maylor Núñez,FB,R,26,HON,4,true,false,false,crossing,marking
+Jhonatan Paz,CB,L,27,HON,10,true,false,false,tackling,marking
+Elvin Oliva,CB,R,24,HON,3,true,false,false,tackling,stamina
+José García,CB,R,23,HON,1,false,false,false,tackling,marking
+Germán Mejía,MF,L,27,HON,1,true,false,false,tackling,heading
+Jorge Álvarez,MF,R,24,HON,3,true,false,false,marking,finishing
+Carlos Pineda,MF,R,24,HON,1,true,false,false,tackling,marking
+Chirinos,MF,R,27,HON,2,true,false,false,finishing,passing
+Edwin Rodríguez,MF,L,22,HON,6,false,false,false,passing,finishing
+José Pinto,MF,R,24,HON,9,false,false,false,playmaking,finishing
+Boniek García,MF,R,37,HON,10,false,false,false,passing,stamina
+Jerry Bengtson,FW,R,35,HON,5,true,false,false,playmaking,finishing
+Yustin Arboleda,FW,R,30,COL,1,true,false,false,finishing,stamina
+Diego Reyes,FW,R,32,HON,7,false,false,false,heading,finishing
+Carlos Sánchez,FB,L,31,HON,4,true,false,false,crossing,pace
+Josman Figueroa,FB,L,21,HON,4,false,false,false,marking,passing
+André Orellana,FB,R,20,HON,9,false,false,false,finishing,passing
+Brayan Beckeles,CB,L,36,HON,3,false,false,false,tackling,stamina
+Brayan Moya,MF,R,29,HON,8,false,false,false,playmaking,finishing
+Jared Velázquez,FW,R,19,HON,9,false,false,false,finishing,pace

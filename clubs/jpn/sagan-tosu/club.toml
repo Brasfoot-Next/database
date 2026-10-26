@@ -1,0 +1,13 @@
+name = "Sagan Tosu"
+country = "JPN"
+level = 11
+reputation = 2
+colors = ["#000000", "#F01070"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Kakeru Isotani"
+country = "BRA"

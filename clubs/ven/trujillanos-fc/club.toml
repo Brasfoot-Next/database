@@ -1,0 +1,13 @@
+name = "Trujillanos FC"
+country = "VEN"
+level = 9
+reputation = 2
+colors = ["#F0D000", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Ezequiel Abreu"
+country = "BRA"

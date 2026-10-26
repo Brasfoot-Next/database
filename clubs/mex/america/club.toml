@@ -1,0 +1,13 @@
+name = "América"
+country = "MEX"
+level = 18
+reputation = 4
+colors = ["#ffff1c", "#004080"]
+
+[stadium]
+name = "Azteca"
+capacity = 105000
+
+[coach]
+name = "Fernando Ortiz"
+country = "ARG"

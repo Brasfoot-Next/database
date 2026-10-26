@@ -1,0 +1,13 @@
+name = "FC Zürich"
+country = "SUI"
+level = 11
+reputation = 2
+colors = ["#C0C0C0", "#306090"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Steven Vujevic"
+country = "BRA"

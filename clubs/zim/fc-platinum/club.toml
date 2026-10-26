@@ -1,0 +1,13 @@
+name = "FC Platinum"
+country = "ZIM"
+level = 14
+reputation = 2
+colors = ["#1e6343", "#dde9a8"]
+
+[stadium]
+name = "Municipal"
+capacity = 2000
+
+[coach]
+name = "Norman Mapeza"
+country = "ZIM"

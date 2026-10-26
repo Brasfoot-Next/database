@@ -1,0 +1,20 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sheldon Clarke,GK,R,31,TRI,3,true,false,false,positioning,penalty-saving
+Andre Marchan,GK,L,31,TRI,6,false,false,false,penalty-saving,reflexes
+Aklie Edwards,FB,R,37,TRI,2,true,false,false,marking,finishing
+Tyrik John,FB,L,26,TRI,10,true,false,false,crossing,marking
+Justin Garcia,FB,R,26,TRI,3,false,false,false,marking,finishing
+Jamali Garcia,CB,R,29,TRI,5,true,false,false,marking,pace
+Curtis Gonzales,CB,L,33,TRI,3,true,false,false,marking,pace
+Jelani Felix,CB,R,28,TRI,3,false,false,false,tackling,heading
+Aaron Lester,MF,R,29,TRI,7,true,false,false,tackling,heading
+Dylon King,MF,R,28,TRI,6,true,false,false,stamina,passing
+Hachim Arcia,MF,L,33,TRI,9,true,false,false,playmaking,passing
+Jerwyn Balthazar,MF,L,39,TRI,7,true,false,false,marking,passing
+Rodell Elcock,MF,R,33,TRI,3,false,false,false,tackling,finishing
+Jemel Sebro,MF,R,33,TRI,3,false,false,false,passing,finishing
+Adrian Welch,MF,R,26,TRI,1,false,false,false,tackling,pace
+Dwight Quintero,FW,L,28,TRI,6,true,false,false,dribbling,finishing
+Reon Moore,FW,R,25,TRI,10,true,false,false,finishing,dribbling
+Jamille Boatswain,FW,L,28,TRI,2,false,false,false,finishing,pace
+Devorn Jorsling,FW,R,38,TRI,2,false,false,false,pace,finishing

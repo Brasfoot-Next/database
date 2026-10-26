@@ -1,0 +1,13 @@
+name = "FC Volendam"
+country = "NED"
+level = 10
+reputation = 2
+colors = ["#F07000", "#000000"]
+
+[stadium]
+name = "Kras Stadion"
+capacity = 6800
+
+[coach]
+name = "Mawouna Ideho"
+country = "BRA"

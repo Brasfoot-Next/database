@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Denis Adamov,GK,R,28,RWA,1,true,false,false,rushing-out,positioning
+Evgeniy Latyshonok,GK,L,28,RWA,5,false,false,false,reflexes,positioning
+Bogdan Moskvichev,GK,R,22,RWA,6,false,false,false,penalty-saving,reflexes
+Daniil Odoevskiy,GK,R,23,RWA,7,false,false,false,positioning,rushing-out
+Nino,CB,R,29,BRA,2,true,false,false,heading,tackling
+Igor Diveev,CB,R,26,RWA,6,true,false,false,heading,tackling
+Vanja Drkusic,CB,R,26,SVN,6,false,false,false,tackling,heading
+Kevin Andrade,CB,R,27,COL,7,false,false,false,heading,stamina
+Nuraly Alip,CB,R,26,RWA,4,false,false,false,marking,stamina
+Matvey Bardachev,CB,L,20,RWA,6,false,false,false,marking,tackling
+Douglas Santos,FB,R,32,BRA,6,true,false,false,stamina,crossing
+Román Vega,FB,R,22,ARG,7,false,false,false,marking,crossing
+Yuriy Gorshkov,FB,L,27,RWA,2,false,false,false,dribbling,pace
+Gustavo Mantuan,FB,L,25,BRA,6,true,false,false,tackling,stamina
+Vyacheslav Karavaev,FB,R,31,RWA,6,false,false,false,tackling,pace
+Sergey Volkov,FB,L,23,RWA,7,false,false,false,passing,pace
+Wilmar Barrios,MF,R,32,COL,5,true,false,false,dribbling,pace
+Dmitriy Vasiljev,MF,R,22,RWA,6,false,false,false,dribbling,passing
+Wendel,MF,R,28,BRA,7,true,false,false,playmaking,dribbling
+Du Queiroz,MF,R,26,BRA,9,true,false,false,finishing,passing
+Daniil Kondakov,MF,R,18,RWA,6,false,false,false,pace,dribbling
+Jhon Jhon,MF,R,23,BRA,7,true,false,false,tackling,marking
+Aleksandr Erokhin,MF,R,36,RWA,9,false,false,false,stamina,tackling
+Pedro,FW,R,20,BRA,5,true,false,false,finishing,stamina
+Andrey Mostovoy,FW,R,28,RWA,6,false,false,false,dribbling,playmaking
+Luiz Henrique,FW,R,25,BRA,7,true,false,false,finishing,heading
+Vadim Shilov,FW,L,18,RWA,9,false,false,false,crossing,pace
+Maksim Glushenkov,FW,R,26,RWA,6,false,false,false,finishing,dribbling
+Felipe Augusto,FW,L,22,BRA,7,false,false,false,pace,finishing
+Aleksandr Sobolev,FW,L,29,RWA,8,false,false,false,pace,dribbling

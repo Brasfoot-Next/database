@@ -1,0 +1,20 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Boris Gruev,GK,R,26,BUL,7,true,false,false,positioning,penalty-saving
+Martin Yankov,GK,R,21,BUL,1,false,false,false,penalty-saving,reflexes
+Martin Mihaylov,CB,R,26,BUL,5,true,false,false,heading,marking
+Christian Cabo,CB,R,21,SEN,6,true,false,false,heading,marking
+Dzhaner Sadetinov,CB,R,20,BUL,7,false,false,false,tackling,heading
+Miroslav Georgiev,CB,R,20,BUL,1,false,false,false,marking,passing
+Ilian Kostov,CB,R,21,BUL,5,false,false,false,tackling,marking
+Robert Mazan,FB,L,32,SVK,6,true,false,false,crossing,passing
+Plamen Arshev,MF,R,20,BUL,4,true,false,false,playmaking,passing
+Yanko Angelov,MF,L,33,BUL,5,true,false,false,passing,tackling
+Stiliyan Tisovski,MF,R,22,BUL,6,true,false,false,dribbling,passing
+Pepê,MF,L,24,BRA,7,true,false,false,passing,tackling
+Ivan Tilev,FW,R,27,BUL,2,true,false,false,heading,stamina
+Denislav Aleksandrov,FW,L,28,BUL,5,true,false,false,finishing,stamina
+Ruslan Nepeypiev,FW,R,23,UKR,6,true,false,false,finishing,stamina
+Ilian Filchev,FW,R,18,BUL,7,false,false,false,dribbling,finishing
+Yahcuroo Roemer,FW,R,24,SUR,3,false,false,false,finishing,pace
+Konstantin Pavlov,FW,R,20,BUL,5,false,false,false,finishing,stamina
+Ivaylo Mihaylov,FW,R,25,BUL,6,false,false,false,dribbling,finishing

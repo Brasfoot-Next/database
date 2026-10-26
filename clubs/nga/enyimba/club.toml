@@ -1,0 +1,13 @@
+name = "Enyimba"
+country = "NGA"
+level = 16
+reputation = 3
+colors = ["#004080", "#ffffff"]
+
+[stadium]
+name = "Enyimba Stadium"
+capacity = 30000
+
+[coach]
+name = "Finidi George"
+country = "NGA"

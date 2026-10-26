@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Thomas Delaney,MF,L,35,DEN,7,false,false,false,stamina,marking
+Mohamed Elyounoussi,MF,R,32,NOR,4,true,false,false,stamina,dribbling
+Mads Emil Madsen,MF,L,28,DEN,6,false,false,false,stamina,passing
+Viktor Claesson,MF,R,34,SWE,6,false,false,false,stamina,playmaking
+Lukas Lerager,MF,R,33,DEN,7,false,false,false,stamina,marking
+Magnus Mattsson,MF,R,27,DEN,5,true,false,false,stamina,dribbling
+Marcos Lopez,FB,L,26,PER,6,true,false,false,stamina,pace
+Rodrigo Huescas,FB,R,22,MEX,6,true,false,false,pace,stamina
+Jordan Larsson,FW,L,29,SWE,7,true,false,false,pace,stamina
+Pantelis Hatzidiakos,CB,L,29,GRE,5,false,false,false,tackling,passing
+Birger Meling,FB,L,31,NOR,6,false,false,false,stamina,marking
+Youssoufa Moukoko,FW,L,21,GER,6,true,false,false,dribbling,passing
+Elias Achouri,FW,L,27,TUN,7,false,false,false,pace,dribbling
+Gabriel Pereira,CB,R,26,BRA,1,true,false,false,heading,tackling
+William Clem,MF,R,22,DEN,5,true,false,false,passing,stamina
+Robert,FW,L,21,BRA,6,false,false,false,pace,dribbling
+Yoram Zague,FB,R,20,FRA,7,false,false,false,pace,dribbling
+Andreas Cornelius,FW,L,33,DEN,2,false,false,false,heading,finishing
+Junnosuke Suzuki,CB,R,23,JPN,5,true,false,false,pace,tackling
+Dominik Sarapata,MF,R,18,POL,6,true,false,false,stamina,passing
+Munashe Garananga,CB,R,25,ZIM,6,false,false,false,heading,tackling
+Oliver Hojer,MF,R,19,DEN,6,false,false,false,pace,passing
+Jonathan Moalem,MF,L,19,DEN,7,false,false,false,pace,dribbling
+Liam West,FW,L,18,NOR,4,false,false,false,pace,dribbling
+Dominik Kotarski,GK,R,26,CRO,5,true,false,false,reflexes,penalty-saving
+Oscar Buur,GK,R,19,DEN,6,false,false,false,reflexes,penalty-saving
+Runar Alex Runarsson,GK,R,31,ISL,7,false,false,false,penalty-saving,reflexes

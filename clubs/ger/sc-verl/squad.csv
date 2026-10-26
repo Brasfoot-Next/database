@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Fabian Wessig,MF,L,23,GER,6,false,false,false,playmaking,passing
+Yari Otto,MF,R,27,GER,8,true,false,false,stamina,passing
+Berkan Taz,MF,R,27,GER,4,true,false,false,stamina,dribbling
+Almin Mesanovic,MF,L,22,BIH,5,false,false,false,pace,passing
+Dennis Waidner,MF,R,25,GER,6,false,false,false,stamina,tackling
+Julian Stark,MF,R,25,GER,9,false,false,false,passing,dribbling
+Timur Gayret,MF,L,28,GER,4,true,false,false,stamina,dribbling
+Niko Kijewski,FB,L,30,GER,5,false,false,false,crossing,tackling
+Lukas Demming,MF,R,26,GER,6,false,false,false,stamina,pace
+Joshua Eze,MF,R,23,GER,1,false,false,false,passing,tackling
+Dominik Steczyk,FW,L,27,POL,3,true,false,false,stamina,pace
+Martin Ens,CB,L,24,GER,5,true,false,false,stamina,pace
+Michel Stocker,FB,L,27,GER,6,true,false,false,stamina,tackling
+Marco Mannhardt,MF,R,24,GER,7,false,false,false,passing,dribbling
+Alem Japaur,FW,R,22,BIH,8,false,false,false,pace,heading
+Ethan Kohler,MF,R,21,USA,4,true,false,false,pace,stamina
+Jonas Arweiler,FW,L,29,GER,5,false,false,false,heading,finishing
+Chilohem Onuoha,FW,L,21,GER,6,true,false,false,pace,dribbling
+Tobias Knost,FB,R,26,KEN,9,true,false,false,pace,stamina
+Oualid Mhamdi,FB,R,23,MAR,4,false,false,false,pace,tackling
+Fynn Otto,CB,R,24,GER,1,true,false,false,tackling,heading
+Alessio Besio,FW,L,22,SUI,5,false,false,false,pace,finishing
+Paul Lehmann,CB,R,22,GER,6,false,false,false,tackling,pace
+Philipp Schulze,GK,R,23,GER,7,false,false,false,reflexes,positioning
+Marlon Zacharias,GK,R,21,GER,2,false,false,false,reflexes,rushing-out
+Fabian Pekruhl,GK,R,27,GER,3,true,false,false,reflexes,rushing-out

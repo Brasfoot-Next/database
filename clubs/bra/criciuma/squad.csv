@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Alisson,GK,L,31,BRA,9,true,false,false,reflexes,penalty-saving
+Airton,GK,L,32,BRA,5,false,false,false,penalty-saving,reflexes
+Pedro Santos,GK,R,21,BRA,6,false,false,false,reflexes,positioning
+César Martins,CB,L,33,BRA,7,true,false,false,tackling,heading
+Bruno Alves,CB,L,35,BRA,4,true,false,false,tackling,stamina
+Ruan Carvalho,CB,R,19,BRA,5,false,false,false,stamina,heading
+Luciano Castán,CB,L,36,BRA,6,false,false,false,heading,tackling
+Rodrigo,CB,R,21,BRA,8,false,false,false,tackling,heading
+Octávio Henrique,CB,R,21,BRA,4,false,false,false,tackling,heading
+Marcelo Hermes,FB,L,31,BRA,5,true,false,false,dribbling,pace
+Hiago Alves,FB,R,20,BRA,5,false,false,false,passing,pace
+Heitor Roca,FB,L,28,BRA,6,true,false,false,marking,pace
+Willean Lepo,FB,R,29,BRA,7,false,false,false,tackling,stamina
+Léo Mana,FB,R,22,BRA,1,false,false,false,stamina,pace
+Marcinho,FB,R,30,BRA,5,false,false,false,tackling,stamina
+Sandry,MF,R,23,BRA,6,true,false,false,stamina,tackling
+Ronald,MF,R,29,BRA,7,true,false,false,marking,passing
+Eduardo,MF,R,29,BRA,1,true,false,false,stamina,pace
+Jean Irmer,MF,L,31,BRA,5,false,false,false,tackling,passing
+Thiaguinho,MF,R,20,BRA,6,false,false,false,finishing,passing
+Steven Nufour,MF,R,21,GHA,5,false,false,false,playmaking,finishing
+Guilherme Lobo,MF,R,26,BRA,5,true,false,false,tackling,passing
+Rómulo Otero,MF,L,33,VEN,6,false,false,false,dribbling,finishing
+Fellipe Mateus,MF,R,35,BRA,7,false,false,false,playmaking,finishing
+Diego Gonçalves,FW,R,31,BRA,4,true,false,false,finishing,stamina
+Waguininho,FW,R,36,BRA,5,false,false,false,finishing,heading
+Jhonata Robert,FW,R,26,BRA,6,false,false,false,playmaking,finishing
+Romarinho,FW,R,32,BRA,7,false,false,false,dribbling,finishing
+João Carlos,FW,R,25,BRA,4,false,false,false,pace,dribbling
+Cauê,FW,R,23,BRA,5,true,false,false,finishing,dribbling
+Yuri Tanque,FW,L,28,BRA,7,false,false,false,finishing,dribbling
+Thales,FW,L,19,BRA,3,false,false,false,dribbling,playmaking
+Nicolas,FW,R,36,BRA,4,false,false,false,heading,stamina

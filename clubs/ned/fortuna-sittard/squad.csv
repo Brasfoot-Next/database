@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Daley Sinkgraven,FB,L,31,NED,4,false,false,false,crossing,passing
+Samuel Bastien,MF,R,29,COD,5,false,false,false,stamina,dribbling
+Justin Lonwijk,MF,R,26,SUR,6,false,false,false,pace,stamina
+Edouard Michut,MF,R,23,FRA,9,true,false,false,stamina,dribbling
+Mohamed Ihattaren,MF,L,24,MAR,4,true,false,false,dribbling,playmaking
+Kristoffer Peterson,FW,L,31,SWE,6,false,false,false,pace,dribbling
+Ivo Pinto,FB,R,36,POR,7,false,false,false,pace,stamina
+Dimitris Limnios,FW,R,28,GRE,1,false,false,false,pace,dribbling
+Philip Brittijn,MF,L,22,NED,5,true,false,false,stamina,passing
+Alen Halilovic,MF,L,30,CRO,6,false,false,false,dribbling,playmaking
+Jasper Dahlhaus,FB,L,24,NED,7,true,false,false,pace,stamina
+Houboulang Mendes,FB,R,28,GNB,1,true,false,false,pace,heading
+Ryan Fosso,MF,R,24,SUI,5,true,false,false,pace,passing
+Kaj Sierhuis,FW,R,28,NED,6,true,false,false,pace,finishing
+Syb Van Ottele,CB,R,24,NED,6,false,false,false,tackling,marking
+Marko Kerkez,FB,L,26,SRB,7,false,false,false,pace,stamina
+Paul Gladon,FW,R,34,NED,3,false,false,false,heading,pace
+Iván Márquez,CB,L,32,ESP,5,false,false,false,marking,heading
+Justin Hubner,CB,L,22,IDN,6,true,false,false,heading,tackling
+Makan Aiko,FW,R,25,FRA,7,true,false,false,pace,stamina
+Luka Tunjic,MF,R,20,CRO,5,false,false,false,pace,dribbling
+Hasip Korkmazyurek,MF,R,23,TUR,6,false,false,false,passing,playmaking
+Tristan Schenkhuizen,MF,L,22,NED,7,false,false,false,pace,passing
+Moussa Gbemou,MF,R,18,BEL,1,false,false,false,pace,dribbling
+Shawn Adewoye,CB,R,26,BEL,5,true,false,false,tackling,heading
+Owen Johnson,FW,R,21,NED,5,false,false,false,pace,heading
+Daan Bisschops,CB,R,21,NED,6,false,false,false,heading,tackling
+Mattijs Branderhorst,GK,R,32,NED,7,true,false,false,reflexes,penalty-saving
+Luuk Koopmans,GK,R,32,NED,3,false,false,false,reflexes,penalty-saving
+Niels Martens,GK,R,22,NED,5,false,false,false,reflexes,rushing-out
+Boaz Broekmans,GK,R,19,NED,4,false,false,false,reflexes,penalty-saving

@@ -1,0 +1,13 @@
+name = "Tirana"
+country = "ALB"
+level = 15
+reputation = 2
+colors = ["#ffff00", "#0000cc"]
+
+[stadium]
+name = "Selman Stërmas"
+capacity = 4100
+
+[coach]
+name = "Orges Shehi"
+country = "ALB"

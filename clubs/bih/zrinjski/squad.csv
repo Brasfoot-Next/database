@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Antonio Soldo,GK,R,34,BIH,1,false,false,false,rushing-out,penalty-saving
+Josip Condric,GK,L,28,CRO,5,true,false,false,reflexes,positioning
+Marin Topic,GK,L,21,CRO,3,false,false,false,positioning,rushing-out
+Josip Corluka,FB,R,27,BIH,2,true,false,false,marking,passing
+Mario Ticinovic,FB,L,30,CRO,9,true,false,false,crossing,marking
+Almir Bekic,FB,L,33,BIH,3,false,false,false,marking,pace
+Kerim Memija,FB,R,26,BIH,1,false,false,false,marking,passing
+Jakovljevic,CB,R,33,SRB,9,false,false,false,tackling,marking
+Marin Magdic,CB,L,23,CRO,2,true,false,false,tackling,stamina
+Hrvoje Barisic,CB,R,31,BIH,10,true,false,false,tackling,marking
+Matej Senic,CB,L,27,CRO,1,false,false,false,tackling,heading
+Damir Zlomislic,MF,R,31,BIH,6,false,false,false,marking,finishing
+Dragan Juranovic,MF,R,28,CRO,1,false,false,false,playmaking,pace
+Niko Jankovic,MF,R,20,CRO,5,true,false,false,passing,finishing
+Karim Gazzetta,MF,L,27,SUI,10,false,false,false,passing,finishing
+Igor Savic,MF,R,21,BIH,5,true,false,false,tackling,finishing
+Petar Sucic,MF,L,18,BIH,10,true,false,false,tackling,marking
+Karlo Kamenar,MF,L,28,CRO,6,true,false,false,tackling,marking
+Nemanja Bilbija,FW,R,31,BIH,7,true,false,false,pace,finishing
+Mario Cuze,FW,L,23,CRO,9,true,false,false,dribbling,finishing
+Ivan Jukic,FW,L,26,BIH,8,false,false,false,dribbling,finishing
+Matija Malekinusic,FW,R,23,CRO,2,false,false,false,dribbling,finishing

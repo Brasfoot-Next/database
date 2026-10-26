@@ -1,0 +1,13 @@
+name = "Libertad FC"
+country = "ECU"
+level = 10
+reputation = 2
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Hancel Pineda"
+country = "BRA"

@@ -1,0 +1,13 @@
+name = "Bali United"
+country = "IDN"
+level = 14
+reputation = 1
+colors = ["#cc0000", "#ffffff"]
+
+[stadium]
+name = "Kapten I"
+capacity = 25000
+
+[coach]
+name = "Stefano Cugurra"
+country = "BRA"

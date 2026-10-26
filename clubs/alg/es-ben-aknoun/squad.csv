@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kheireddine Boussouf,GK,R,38,ALG,4,false,false,false,reflexes,penalty-saving
+Mohamed Medjadji,GK,R,24,ALG,5,true,false,false,penalty-saving,reflexes
+Amayas Boudedja,GK,L,21,ALG,7,false,false,false,positioning,rushing-out
+Abdelkader Tamimi,CB,R,25,ALG,1,true,false,false,stamina,heading
+M'hammed Merouani,CB,R,29,ALG,5,true,false,false,marking,stamina
+Fateh Talah,CB,R,33,ALG,6,false,false,false,heading,passing
+Abdelkrim Arssalan Hamza Oukali,CB,R,31,ALG,6,false,false,false,marking,stamina
+Rafik Brahimi,FB,R,27,ALG,7,true,false,false,passing,crossing
+Aymen Chaaraoui,FB,L,28,ALG,3,true,false,false,crossing,pace
+Billal Boukarroum,FB,L,32,ALG,5,false,false,false,marking,crossing
+Abderrahmane Hachoud,FB,L,38,ALG,6,false,false,false,passing,pace
+Chemseddine Lakehal,MF,R,26,ALG,7,true,false,false,playmaking,dribbling
+Mohamed Benchaira,MF,L,34,ALG,3,false,false,false,stamina,passing
+Aziz Benabdi,MF,R,32,ALG,5,true,false,false,stamina,passing
+Massinissa Benchelouche,MF,R,24,ALG,6,true,false,false,marking,passing
+Alaa Eddine Aissani,MF,L,21,ALG,7,false,false,false,passing,tackling
+Redouane Bounoua,MF,R,27,ALG,3,true,false,false,playmaking,passing
+Lounas Adjout,FW,R,24,ALG,5,false,false,false,finishing,stamina
+Mohamed El Amine Hammia,FW,R,34,ALG,6,false,false,false,heading,stamina
+Ahmed Zaouache,FW,R,28,ALG,7,true,false,false,heading,stamina
+Youcef Bechou,FW,R,29,ALG,3,true,false,false,pace,dribbling
+Abdeljalil Saâd,FW,R,34,ALG,5,false,false,false,finishing,heading
+Adil Djabout,FW,R,33,ALG,6,false,false,false,pace,dribbling
+Mohamed Sylla,FW,R,24,ALG,7,false,false,false,finishing,heading
+Mohamed Souibaa,FW,L,34,ALG,4,false,false,false,finishing,stamina

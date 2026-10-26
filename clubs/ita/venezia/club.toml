@@ -1,0 +1,13 @@
+name = "Venezia"
+country = "ITA"
+level = 13
+reputation = 3
+colors = ["#B08040", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Bjarki Casas"
+country = "BRA"

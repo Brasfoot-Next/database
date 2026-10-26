@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tom Conlon,MF,L,30,ENG,7,true,false,false,stamina,pace
+Ryan Woods,MF,R,32,ENG,3,true,false,false,stamina,passing
+Kieron Morris,FW,L,32,ENG,5,false,false,false,stamina,pace
+Harry Charsley,MF,R,29,IRL,6,true,false,false,stamina,pace
+Tom Pett,MF,R,34,ENG,7,false,false,false,stamina,playmaking
+Jake Caprice,FB,R,33,ENG,4,false,false,false,pace,stamina
+Joe Garner,FW,R,38,ENG,5,false,false,false,heading,finishing
+Billy Waters,FW,R,31,ENG,6,false,false,false,pace,finishing
+Luke Hannant,FW,L,32,ENG,7,false,false,false,stamina,pace
+Josh Hawkes,FW,L,27,ENG,1,true,false,false,pace,stamina
+Kai Payne,MF,R,21,ENG,4,false,false,false,pace,passing
+Jamie Robson,FB,L,28,SCO,5,true,false,false,stamina,pace
+Oliver Hammond,MF,R,23,WAL,6,true,false,false,stamina,pace
+Michael Mellon,FW,R,22,SCO,8,false,false,false,pace,stamina
+Harley Ogrady Macken,MF,R,21,ENG,4,false,false,false,pace,stamina
+Reagan Ogle,FB,R,27,AUS,5,true,false,false,stamina,pace
+Mike Fondop,FW,L,32,CMR,6,false,false,false,pace,stamina
+Manny Monthe,CB,L,31,CMR,9,true,false,false,stamina,pace
+Joe Quigley,FW,R,29,IRL,3,true,false,false,heading,pace
+Jake Leake,FB,L,23,ENG,5,false,false,false,pace,stamina
+Kian Harratt,FW,L,24,ENG,3,false,false,false,pace,stamina
+Jack Stevens,FW,L,25,ENG,5,false,false,false,pace,finishing
+Donervon Daniels,CB,R,32,MSR,6,false,false,false,tackling,marking
+Will Sutton,CB,R,23,ENG,7,true,false,false,stamina,pace
+Kane Drummond,FW,R,25,ENG,3,false,false,false,pace,finishing
+Charlie Olson,CB,R,21,ENG,5,false,false,false,tackling,marking
+Mathew Hudson,GK,R,28,ENG,6,true,false,false,positioning,rushing-out
+Tom Donaghy,GK,R,23,ENG,7,false,false,false,penalty-saving,reflexes

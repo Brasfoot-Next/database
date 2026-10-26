@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kerry González,GK,R,23,BLZ,10,true,false,false,penalty-saving,reflexes
+Woodrow West,GK,R,36,BLZ,10,false,false,false,positioning,penalty-saving
+Charles Tillett,GK,L,20,BLZ,1,false,false,false,reflexes,positioning
+Everal Trapp,FB,R,35,BLZ,0,true,false,false,marking,pace
+Víctor Cruz,FB,L,29,GUA,0,true,false,false,crossing,pace
+Collin Westby,FB,R,27,BLZ,10,false,false,false,marking,pace
+Alence Ayala,FB,L,23,BLZ,8,false,false,false,finishing,pace
+Chris Gilharry,CB,R,28,BRA,0,true,false,false,tackling,marking
+San Méndez,CB,L,27,BLZ,0,true,false,false,tackling,stamina
+Elroy Smith,CB,L,40,BLZ,9,false,false,false,heading,stamina
+Jahron Myvette,CB,R,27,BLZ,7,false,false,false,tackling,stamina
+Delroy Andrews,MF,L,33,BLZ,0,true,false,false,playmaking,finishing
+Ricardo Jimenez,MF,R,38,BLZ,0,true,false,false,tackling,finishing
+Krisean López,MF,R,23,BLZ,2,true,false,false,finishing,passing
+Norman Anderson,MF,R,25,BLZ,9,true,false,false,passing,finishing
+Nahjib Guerra,MF,L,27,BLZ,4,false,false,false,finishing,passing
+Darrel Myvett,MF,R,28,BLZ,8,false,false,false,marking,finishing
+Jarret Davis,FW,R,33,BLZ,0,true,false,false,finishing,dribbling
+Oswin Williams,FW,L,35,TRI,0,true,false,false,pace,finishing
+Mariano Landero,FW,R,31,MEX,10,false,false,false,dribbling,finishing

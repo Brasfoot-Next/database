@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Erling Méndez,GK,R,34,NCA,2,true,false,false,positioning,penalty-saving
+Deymark Hansack,GK,R,22,NCA,7,false,false,false,positioning,rushing-out
+Alyer López,GK,R,23,NCA,5,false,false,false,rushing-out,penalty-saving
+Kevin Serapio,FB,R,26,NCA,3,true,false,false,marking,finishing
+Jeremy Cuarezma,FB,L,22,NCA,5,true,false,false,crossing,pace
+Cristhiam Quinto,FB,R,21,NCA,8,false,false,false,marking,finishing
+Ulises Pozo,CB,L,30,NCA,3,true,false,false,tackling,marking
+Rigoberto Fuentes,CB,R,30,NCA,9,true,false,false,heading,stamina
+Leandro Barbosa,CB,L,34,BRA,9,false,false,false,tackling,marking
+Alberto Mendoza,CB,R,19,NCA,1,false,false,false,heading,stamina
+Nahun Peralta,MF,L,27,NCA,9,true,false,false,passing,finishing
+Agenor Báez,MF,L,24,NCA,4,true,false,false,marking,finishing
+Trinidad,MF,R,26,NCA,7,true,false,false,marking,finishing
+Danilo Zúñiga,MF,R,25,NCA,5,true,false,false,stamina,passing
+Waldner Pineda,MF,L,20,NCA,4,false,false,false,playmaking,pace
+Olsztyn Reyes,MF,R,25,NCA,5,false,false,false,passing,finishing
+Juan Arce,MF,L,25,COL,9,false,false,false,marking,pace
+Leandro Figueroa,FW,R,29,ARG,5,true,false,false,finishing,dribbling
+Armando Zepeda,FW,R,28,NCA,6,true,false,false,heading,finishing
+Diego Areco,FW,R,29,PAR,6,false,false,false,dribbling,playmaking
+José Martínez,FW,R,17,NCA,2,false,false,false,pace,dribbling

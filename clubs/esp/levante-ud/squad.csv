@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Morales,FW,R,39,ESP,7,false,false,false,pace,dribbling
+Olasagasti,MF,L,26,ESP,9,true,false,false,stamina,passing
+Pablo Martínez,MF,R,28,ESP,5,true,false,false,stamina,passing
+Unai Vencedor,MF,R,25,ESP,6,false,false,false,stamina,passing
+Brugui,FW,L,29,ESP,7,false,false,false,pace,stamina
+Oriol Rey,MF,L,28,ESP,1,true,false,false,stamina,passing
+Dela,CB,R,27,ESP,5,true,false,false,marking,stamina
+Carlos Álvarez,FW,L,23,ESP,6,true,false,false,dribbling,playmaking
+Iker Losada,MF,R,25,ESP,7,false,false,false,crossing,dribbling
+Kervin Arriaga,MF,R,28,ESP,2,true,false,false,stamina,heading
+Iván Romero,FW,R,25,ESP,6,false,false,false,pace,dribbling
+Jeremy Toljan,FB,R,32,GER,6,true,false,false,pace,crossing
+Víctor García,FW,R,29,ESP,7,false,false,false,stamina,pace
+Manu Sánchez,FB,L,26,ESP,5,true,false,false,tackling,passing
+Goduine Koyalipou,FW,R,26,ESP,6,false,false,false,pace,finishing
+Diego Pampín,FB,L,26,ESP,7,false,false,false,pace,stamina
+Elgezabal,CB,R,33,ESP,8,false,false,false,stamina,marking
+Carlos Espí,FW,R,21,ESP,1,true,false,false,heading,pace
+Karl Edouard Etta Eyong,FW,R,22,CMR,5,false,false,false,finishing,heading
+Cabello,CB,L,22,ESP,6,false,false,false,tackling,stamina
+Alan Matturro,CB,L,21,URU,6,false,false,false,tackling,heading
+Nacho Pérez,FB,R,18,ESP,6,false,false,false,pace,crossing
+Martin Wilhelm Krug,CB,R,20,PAN,7,false,false,false,heading,tackling
+Matias Moreno,CB,R,22,ARG,4,true,false,false,heading,tackling
+Mathew Ryan,GK,R,34,AUS,6,true,false,false,reflexes,rushing-out
+Pablo Campos,GK,R,24,ESP,6,false,false,false,reflexes,penalty-saving
+Álex Primo,GK,R,22,ESP,7,false,false,false,reflexes,penalty-saving

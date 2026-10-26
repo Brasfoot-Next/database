@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Shane Farrell,MF,R,26,IRL,5,true,false,false,stamina,pace
+Ryan Brennan,MF,R,34,IRL,6,false,false,false,stamina,heading
+Darragh Markey,MF,R,29,IRL,9,true,false,false,stamina,pace
+Conor Kane,FB,L,27,IRL,4,true,false,false,pace,stamina
+Owen Lambe,FB,R,26,USA,6,true,false,false,stamina,pace
+Paul Doyle,MF,L,28,IRL,7,true,false,false,tackling,passing
+Kieran Cruise,FB,L,22,IRL,4,false,false,false,pace,playmaking
+Josh Thomas,FW,R,23,WAL,5,false,false,false,pace,finishing
+Elicha Ahui,FB,R,22,ENG,6,false,false,false,pace,tackling
+John Osullivan,MF,R,20,IRL,8,false,false,false,pace,dribbling
+Warren Davis,FW,L,21,IRL,5,false,false,false,pace,dribbling
+Thomas Oluwa,FW,R,25,IRL,6,true,false,false,pace,dribbling
+Luke Heeney,MF,L,27,IRL,7,true,false,false,stamina,pace
+Conor Keeley,CB,R,28,IRL,4,true,false,false,stamina,heading
+Scott Brady,MF,R,20,IRL,5,false,false,false,pace,stamina
+Jack Stretton,FW,R,25,SCO,6,true,false,false,pace,finishing
+Andrew Quinn,CB,L,24,IRL,7,false,false,false,stamina,marking
+Zishim Bawa,FW,L,24,NGA,4,false,false,false,pace,dribbling
+Michael Cardo,FW,R,22,USA,5,false,false,false,pace,heading
+James Bolger,CB,R,25,IRL,6,true,false,false,stamina,marking
+George Cooper,CB,R,23,ENG,7,false,false,false,heading,marking
+Dare Kareem,FW,R,20,NGA,4,false,false,false,finishing,stamina
+Sean Mccarthy,FB,L,20,IRL,5,false,false,false,pace,stamina
+Aaron Harper Bailey,CB,L,24,ENG,6,false,false,false,stamina,heading
+Jack Brady,GK,R,29,IRL,7,true,false,false,reflexes,rushing-out
+Luke Dennison,GK,R,30,USA,4,false,false,false,reflexes,positioning
+Theo Hennessy,GK,R,19,IRL,5,false,false,false,rushing-out,penalty-saving

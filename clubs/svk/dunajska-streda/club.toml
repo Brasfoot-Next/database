@@ -1,0 +1,13 @@
+name = "Dunajská Streda"
+country = "SVK"
+level = 15
+reputation = 3
+colors = ["#ffff33", "#0033cc"]
+
+[stadium]
+name = "MOL Aréna"
+capacity = 13000
+
+[coach]
+name = "Adrian Gula"
+country = "SVK"

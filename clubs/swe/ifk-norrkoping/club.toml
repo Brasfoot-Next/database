@@ -1,0 +1,13 @@
+name = "IFK Norrköping"
+country = "SWE"
+level = 10
+reputation = 2
+colors = ["#005090", "#F0F0F0"]
+
+[stadium]
+name = "Platinumcars Arena"
+capacity = 17234
+
+[coach]
+name = "Marcus Neffati"
+country = "BRA"

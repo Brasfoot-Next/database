@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rifet Kapic,MF,L,31,BIH,7,true,false,false,stamina,passing
+Ivan Zhelizko,MF,L,25,UKR,1,true,false,false,stamina,marking
+Tomasz Neugebauer,MF,R,23,POL,5,true,false,false,stamina,passing
+Alvis Jaunzems,FB,R,27,POL,6,true,false,false,stamina,pace
+Aleksandar Cirkovic,FW,L,24,SRB,7,false,false,false,finishing,pace
+Tomas Bobcek,FW,R,25,SVK,2,true,false,false,heading,stamina
+Camilo Mena,FW,R,23,COL,5,true,false,false,pace,stamina
+Dawid Kurminowski,FW,R,27,POL,6,false,false,false,pace,stamina
+Bartlomiej Kludka,FB,R,24,POL,7,false,false,false,pace,stamina
+Bohdan Viunnyk,MF,R,24,UKR,2,false,false,false,stamina,pace
+Tomasz Wojtowicz,FW,L,22,POL,6,false,false,false,pace,passing
+Maksym Dyachuk,CB,L,23,UKR,7,true,false,false,passing,tackling
+Matus Vojtko,FB,L,25,SVK,4,true,false,false,pace,stamina
+Anton Tsarenko,MF,R,22,UKR,5,true,false,false,pace,dribbling
+Kacper Sezonienko,FW,R,23,POL,6,false,false,false,pace,stamina
+Milosz Kalahur,FB,L,27,POL,7,false,false,false,stamina,pace
+Mohamed Awad Alla,FW,R,24,ERI,4,false,false,false,pace,finishing
+Michal Glogowski,FW,R,21,POL,5,false,false,false,pace,heading
+Bujar Pllana,CB,R,24,POL,6,true,false,false,stamina,pace
+Elias Olsson,CB,L,23,SWE,8,false,false,false,stamina,pace
+Alex Paulsen,GK,R,24,NZL,5,true,false,false,reflexes,penalty-saving
+Matej Rodin,CB,R,30,CRO,7,false,false,false,heading,stamina
+Bogdan Sarnavskyi,GK,R,31,UKR,3,false,false,false,reflexes,positioning
+Szymon Weirauch,GK,R,22,POL,5,false,false,false,reflexes,penalty-saving

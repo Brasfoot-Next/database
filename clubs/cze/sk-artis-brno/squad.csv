@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jiri Borek,GK,L,23,CZE,4,true,false,false,positioning,reflexes
+Richard Kasik,GK,R,18,CZE,5,false,false,false,rushing-out,reflexes
+Danijel Kolaric,CB,R,21,SRB,6,true,false,false,marking,stamina
+Dominik Plechaty,CB,R,27,CZE,3,false,false,false,tackling,heading
+Ondrej Coudek,CB,L,21,CZE,5,false,false,false,marking,tackling
+David Simek,CB,R,28,CZE,6,true,false,false,heading,tackling
+Michal Jerabek,CB,L,31,CZE,7,false,false,false,tackling,marking
+Dominik Preisler,FB,R,30,CZE,3,true,false,false,tackling,stamina
+Milan Lutonsky,FB,R,32,CZE,5,false,false,false,tackling,marking
+Stepan Harazim,FB,R,26,CZE,6,true,false,false,crossing,passing
+Adam Petrak,MF,L,26,CZE,6,true,false,false,dribbling,passing
+Martin Pospisil,MF,R,35,CZE,7,false,false,false,pace,dribbling
+Jan Sedlak,MF,L,31,CZE,4,false,false,false,tackling,passing
+Sacha Komljenovic,MF,R,23,NED,5,false,false,false,dribbling,passing
+Daniel Samek,MF,L,22,CZE,6,true,false,false,stamina,tackling
+Marek Mach,MF,R,25,CZE,7,true,false,false,dribbling,passing
+Radim Breite,MF,R,36,CZE,4,false,false,false,passing,finishing
+Jan Navratil,MF,R,36,CZE,5,false,false,false,pace,crossing
+Martin Rolinek,MF,L,26,CZE,6,true,false,false,pace,crossing
+Pavel Sokol,MF,L,30,CZE,7,false,false,false,pace,crossing
+Issa Fomba,FW,R,25,MLI,6,false,false,false,pace,dribbling
+Papalelé,FW,R,28,CZE,7,true,false,false,heading,pace
+Daniel Toula,FW,L,21,CZE,2,false,false,false,crossing,pace
+Jakub Fulnek,FW,L,32,CZE,5,false,false,false,dribbling,finishing
+Daniel Svancara,FW,R,19,CZE,6,false,false,false,pace,crossing
+Vukadin Vukadinovic,FW,R,35,SRB,7,false,false,false,playmaking,finishing
+Quadri Adediran,FW,L,25,NGA,2,false,false,false,finishing,pace
+El Hadji Ndiaye,FW,R,26,SEN,5,false,false,false,finishing,dribbling
+Jean-David Beauguel,FW,R,34,FRA,6,true,false,false,dribbling,pace
+Martin Taus,FW,R,20,CZE,7,false,false,false,dribbling,finishing

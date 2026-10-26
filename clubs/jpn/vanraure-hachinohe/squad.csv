@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Shogo Onishi,GK,R,35,JPN,6,false,false,false,reflexes,rushing-out
+Yusuke Taniguchi,GK,R,30,JPN,7,true,false,false,positioning,rushing-out
+Kaung Zan Mara,GK,R,24,JPN,4,false,false,false,positioning,penalty-saving
+Koichi Yoshimura,GK,R,23,JPN,5,false,false,false,positioning,penalty-saving
+Wataru Hiramatsu,CB,R,26,JPN,6,true,false,false,stamina,heading
+Hiroto Yukie,CB,R,30,JPN,7,false,false,false,heading,tackling
+Haruki Shirai,CB,R,25,JPN,4,false,false,false,tackling,stamina
+Yudai Sawada,CB,R,27,JPN,5,true,false,false,marking,stamina
+Kirato Sasaki,CB,R,22,JPN,6,true,false,false,marking,stamina
+Shinnosuke Suzuki,CB,R,23,JPN,8,false,false,false,heading,stamina
+Daisuke Inazumi,FB,L,29,JPN,6,true,false,false,marking,pace
+Shoma Takayoshi,MF,R,25,JPN,8,false,false,false,playmaking,finishing
+Kohei Takahashi,MF,R,26,JPN,5,true,false,false,stamina,passing
+Yuma Igari,MF,R,23,JPN,6,true,false,false,tackling,marking
+Shoma Otoizumi,MF,R,30,JPN,7,false,false,false,pace,crossing
+Kazuma Nagata,MF,R,26,JPN,4,true,false,false,marking,passing
+Aoi Sato,MF,R,28,JPN,5,true,false,false,dribbling,passing
+Yuta Sato,MF,R,31,JPN,6,false,false,false,playmaking,dribbling
+Fumiya Unoki,FW,R,25,JPN,7,false,false,false,heading,finishing
+William Owie,FW,L,22,JPN,4,false,false,false,finishing,dribbling
+Seiya Nakano,FW,L,30,JPN,6,false,false,false,dribbling,playmaking
+Ryusei Takao,FW,R,22,JPN,7,false,false,false,dribbling,playmaking
+Yuta Inami,FW,R,23,JPN,3,false,false,false,finishing,pace
+Ryuji Sawakami,FW,R,32,JPN,6,false,false,false,finishing,stamina
+Masaki Shintani,FW,L,28,JPN,7,true,false,false,finishing,pace
+Kenta Oka,FW,R,26,JPN,3,true,false,false,heading,finishing

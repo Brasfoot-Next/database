@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Francisco Meixedo,GK,R,25,POR,6,true,false,false,reflexes,rushing-out
+Diogo Pinto,GK,R,22,POR,7,false,false,false,penalty-saving,reflexes
+Dudu,GK,L,27,GER,3,false,false,false,positioning,rushing-out
+David Grilo,GK,R,30,POR,5,false,false,false,positioning,reflexes
+Stefan Lekovic,CB,R,22,SRB,6,true,false,false,heading,passing
+Luan Patrick,CB,R,24,BRA,7,true,false,false,tackling,marking
+Otávio,CB,L,20,BRA,5,false,false,false,heading,passing
+Bernardo Schappo,CB,L,28,BRA,6,false,false,false,stamina,heading
+Atanas Chernev,CB,L,24,BUL,7,false,false,false,tackling,marking
+Issiar Dramé,CB,R,27,MLI,1,false,false,false,heading,tackling
+Ni,CB,L,23,POR,7,false,false,false,marking,heading
+Yahya Kalley,FB,R,25,POR,3,false,false,false,stamina,pace
+Jefferson Encada,FB,R,28,GNB,5,true,false,false,pace,dribbling
+Max Scholze,FB,R,21,GER,6,true,false,false,tackling,marking
+Kevin Höög Jansson,MF,L,25,SWE,7,true,false,false,passing,stamina
+Eddy Doué,MF,R,20,POR,3,false,false,false,playmaking,dribbling
+Robinho,MF,R,24,BRA,5,true,false,false,stamina,passing
+Tom Moustier,MF,R,24,FRA,6,true,false,false,stamina,dribbling
+Lovro Zvonarek,MF,R,21,CRO,7,true,false,false,pace,passing
+Ianis Stoica,FW,L,23,ROU,4,true,false,false,pace,stamina
+Jorge Meireles,FW,L,22,POR,7,false,false,false,pace,dribbling
+Alisson Souza,FW,L,21,BRA,2,false,false,false,heading,stamina
+Bénito,FW,R,22,FRA,5,false,false,false,pace,dribbling
+Abraham Marcus,FW,L,26,NGA,6,true,false,false,pace,stamina
+Sydney van Hooijdonk,FW,R,26,NED,7,false,false,false,stamina,pace
+João Gastão,FW,L,20,ANG,3,false,false,false,pace,dribbling
+Mathew Gbomadu,FW,R,21,NGA,5,false,false,false,heading,finishing
+Chilohem Onuoha,FW,L,21,GER,6,false,false,false,pace,dribbling
+Leandro Antonetti,FW,R,23,POR,7,false,false,false,dribbling,playmaking
+Rodrigo Pinho,FW,L,35,BRA,3,false,false,false,finishing,dribbling

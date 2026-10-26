@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mario González,GK,R,25,SLV,8,true,false,false,positioning,penalty-saving
+Sergio Sibrián,GK,L,18,SLV,1,false,false,false,rushing-out,penalty-saving
+Jonathan Jiménez,FB,L,30,SLV,10,true,false,false,finishing,passing
+Bryan Tamacas,FB,R,27,SLV,3,true,false,false,crossing,marking
+Alexis Renderos,FB,L,24,SLV,7,false,false,false,marking,passing
+Emerson Hernández,FB,R,18,SLV,9,false,false,false,marking,passing
+Iván Mancia,CB,R,33,SLV,2,true,false,false,heading,stamina
+Henry Romero,CB,L,30,SLV,9,true,false,false,tackling,stamina
+Mario Segovia,CB,R,25,SLV,10,false,false,false,tackling,stamina
+Portillo,MF,L,30,SLV,8,true,false,false,playmaking,pace
+Narciso Orellana,MF,R,27,SLV,4,true,false,false,tackling,pace
+Marvin Monterroza,MF,L,31,SLV,8,false,false,false,tackling,pace
+Óscar Rodríguez,MF,L,27,SLV,5,true,false,false,tackling,marking
+Isaac Portillo,MF,R,27,SLV,4,false,false,false,marking,finishing
+William Canales,MF,R,27,SLV,5,true,false,false,passing,finishing
+Ezequiel Rivas,MF,L,24,SLV,10,false,false,false,finishing,passing
+Rodolfo Zelaya,FW,R,34,SLV,2,true,false,false,finishing,dribbling
+Víctor Landazuri,FW,R,25,COL,2,true,false,false,dribbling,pace
+Michell Mercado,FW,R,31,COL,5,false,false,false,finishing,pace
+Camilo Delgado,FW,L,32,COL,3,false,false,false,dribbling,finishing

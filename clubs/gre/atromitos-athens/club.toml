@@ -1,0 +1,13 @@
+name = "Atromitos Athens"
+country = "GRE"
+level = 12
+reputation = 2
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Hördur Tsiloulis"
+country = "BRA"

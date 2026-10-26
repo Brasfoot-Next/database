@@ -1,0 +1,13 @@
+name = "Flora Tallinn"
+country = "EST"
+level = 14
+reputation = 3
+colors = ["#ffffff", "#006600"]
+
+[stadium]
+name = "Le Coq"
+capacity = 10340
+
+[coach]
+name = "Jürgen Henn"
+country = "EST"

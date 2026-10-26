@@ -1,0 +1,13 @@
+name = "Ferencváros"
+country = "HUN"
+level = 17
+reputation = 3
+colors = ["#006600", "#ffffff"]
+
+[stadium]
+name = "Groupama Arena"
+capacity = 22000
+
+[coach]
+name = "Stanislav Cherchesov"
+country = "RUS"

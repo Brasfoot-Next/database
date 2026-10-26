@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sondre Tronstad,MF,R,31,NOR,5,false,false,false,stamina,tackling
+Ryoya Morishita,MF,R,29,JPN,6,true,false,false,stamina,dribbling
+Yuri Ribeiro,FB,L,29,POR,8,false,false,false,pace,marking
+Moussa Baradji,MF,R,25,FRA,4,true,false,false,stamina,tackling
+Taylor Gardner Hickman,MF,R,24,ENG,5,false,false,false,pace,passing
+Adam Forshaw,MF,R,34,ENG,6,false,false,false,passing,playmaking
+Harry Pickering,FB,L,27,ENG,8,false,false,false,stamina,pace
+Todd Cantwell,MF,R,28,ENG,5,true,false,false,playmaking,dribbling
+Dion De Neve,FB,L,25,BEL,6,false,false,false,pace,crossing
+Axel Henriksson,MF,R,24,SWE,6,false,false,false,stamina,pace
+Sidnei Tavares,MF,L,24,CPV,2,true,false,false,passing,stamina
+Yuki Ohashi,FW,R,30,JPN,5,true,false,false,stamina,pace
+Ryan Hedges,FW,L,31,WAL,6,false,false,false,pace,stamina
+Hayden Carter,CB,R,26,ENG,7,true,false,false,stamina,pace
+Jake Garrett,MF,L,23,ENG,3,false,false,false,stamina,tackling
+Makhtar Gueye,FW,R,28,SEN,5,false,false,false,heading,stamina
+Lewis Miller,FB,R,26,AUS,5,true,false,false,stamina,pace
+Augustus Kargbo,FW,R,27,SLE,6,true,false,false,pace,finishing
+Ryan Alebiosu,FB,R,24,ENG,7,true,false,false,stamina,pace
+Andri Lucas Gudhjohnsen,FW,R,24,ISL,3,false,false,false,pace,finishing
+Scott Wharton,CB,L,28,ENG,6,true,false,false,heading,tackling
+Sean Mcloughlin,CB,L,29,IRL,7,false,false,false,tackling,marking
+Kristi Montgomery,FB,R,22,SCO,3,false,false,false,pace,stamina
+Jake Batty,FB,L,21,ENG,5,false,false,false,pace,stamina
+Igor Tyjon,FW,R,18,ENG,6,false,false,false,pace,finishing
+Matthew Litherland,CB,R,20,ENG,7,false,false,false,pace,tackling
+Balazs Toth,GK,L,29,HUN,3,true,false,false,reflexes,penalty-saving
+Aynsley Pears,GK,R,28,ENG,6,false,false,false,reflexes,penalty-saving
+Nicholas Michalski,GK,R,19,ENG,7,false,false,false,penalty-saving,rushing-out

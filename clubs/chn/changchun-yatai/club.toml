@@ -1,0 +1,13 @@
+name = "Changchun Yatai"
+country = "CHN"
+level = 8
+reputation = 2
+colors = ["#900000", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "He Yuda"
+country = "BRA"

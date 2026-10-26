@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Pierre Lees Melou,MF,R,33,FRA,6,true,false,false,stamina,passing
+Hamari Traore,FB,R,34,MLI,7,false,false,false,stamina,pace
+Maxime Lopez,MF,R,28,FRA,8,true,false,false,passing,stamina
+Moses Simon,FW,L,31,NGA,5,true,false,false,pace,dribbling
+Mathieu Cafaro,FW,L,29,FRA,6,false,false,false,stamina,dribbling
+Vincent Marchetti,MF,L,29,FRA,7,true,false,false,stamina,passing
+Jonathan Ikone,FW,L,28,FRA,8,false,false,false,pace,dribbling
+Adama Camara,MF,R,29,FRA,5,true,false,false,passing,playmaking
+Tuomas Ollila,FB,L,26,FIN,6,false,false,false,pace,passing
+Ilan Kebbal,FW,L,28,ALG,7,true,false,false,stamina,dribbling
+Thibault De Smet,FB,L,28,BEL,2,true,false,false,stamina,crossing
+Willem Geubbels,FW,R,25,FRA,5,false,false,false,pace,finishing
+Nouha Dicko,FW,R,34,MLI,7,false,false,false,pace,finishing
+Otávio,CB,L,24,BRA,1,true,false,false,marking,tackling
+Julien Lopez,MF,R,34,ALG,5,false,false,false,passing,pace
+Jean Philippe Krasso,FW,L,29,CIV,6,false,false,false,finishing,heading
+Lohann Doucet,MF,R,23,FRA,7,false,false,false,passing,stamina
+Timothee Kolodziejczak,CB,L,34,FRA,2,false,false,false,marking,tackling
+Nhoa Sangui,FB,L,20,FRA,5,true,false,false,pace,stamina
+Alimami Gory,FW,R,30,FRA,6,false,false,false,pace,dribbling
+Sofiane Alakouch,FB,R,28,MAR,10,false,false,false,stamina,pace
+Samir Chergui,CB,R,27,FRA,5,false,false,false,passing,tackling
+Lamine Gueye,FW,R,28,SEN,6,false,false,false,pace,dribbling
+Pierre Yves Hamel,FW,R,32,FRA,6,false,false,false,heading,finishing
+Moustapha Mbow,CB,R,26,SEN,7,true,false,false,marking,tackling
+Andy Pembele,FW,R,26,FRA,1,false,false,false,pace,dribbling
+Kevin Trapp,GK,R,36,GER,5,false,false,false,reflexes,penalty-saving
+Remy Riou,GK,R,39,FRA,6,false,false,false,positioning,reflexes
+Obed Nkambadio,GK,R,23,FRA,7,true,false,false,reflexes,penalty-saving

@@ -1,0 +1,13 @@
+name = "AVS Futebol SAD"
+country = "POR"
+level = 12
+reputation = 2
+colors = ["#A02020", "#F0F0F0"]
+
+[stadium]
+name = "Estádio do Clube Desportivo das Aves"
+capacity = 6230
+
+[coach]
+name = "Diego Tomané"
+country = "BRA"

@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Deividas Mikelionis,GK,R,27,LTU,9,true,false,false,positioning,rushing-out
+Arijus Brazinskas,GK,R,22,LTU,5,false,false,false,positioning,penalty-saving
+Dovydas Vilkas,GK,R,19,LTU,10,false,false,false,positioning,penalty-saving
+Egidijus Vaitkunas,FB,R,33,LTU,10,true,false,false,finishing,pace
+Marko Pejic,FB,L,27,CRO,9,true,false,false,crossing,pace
+Mohamed Bahlouli,FB,L,22,FRA,5,false,false,false,marking,finishing
+Yuma Suwa,FB,R,21,JPN,6,false,false,false,crossing,pace
+Martynas Dapkus,CB,R,29,LTU,10,true,false,false,marking,pace
+Shermar Martina,CB,L,26,CUW,8,false,false,false,heading,stamina
+Edvinas Girdvainis,CB,L,29,LTU,8,true,false,false,tackling,marking
+Jason Noslin,CB,R,22,NED,4,false,false,false,heading,stamina
+Gratas Sirgedas,MF,R,27,LTU,3,false,false,false,passing,finishing
+Deitonas Vinckus,MF,L,20,LTU,5,false,false,false,playmaking,finishing
+Abdulgafar Opeyemi,MF,L,20,NGA,9,false,false,false,playmaking,pace
+Karolis Silkaitis,MF,L,26,LTU,4,true,false,false,tackling,pace
+Linas Pilibaitis,MF,R,37,LTU,9,true,false,false,marking,finishing
+Benas Anisas,MF,L,22,LTU,8,true,false,false,playmaking,pace
+Divine Naah,MF,R,26,GHA,6,true,false,false,tackling,finishing
+Edvinas Kloniunas,MF,R,24,LTU,3,false,false,false,marking,finishing
+Michael Thuíque,FW,R,29,BRA,3,true,false,false,dribbling,finishing
+Ryan Trotman,FW,R,23,BRB,4,false,false,false,pace,dribbling
+Moussa Sangare,FW,R,20,CIV,9,true,false,false,pace,finishing
+Anton Fase,FW,R,22,NED,10,false,false,false,pace,finishing

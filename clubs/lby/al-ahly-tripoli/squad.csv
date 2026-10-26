@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nashnush,GK,R,34,LBY,8,true,false,false,rushing-out,penalty-saving
+Ahmed Abdalla,GK,R,29,LBY,9,false,false,false,reflexes,positioning
+Fitouri,GK,L,29,LBY,9,false,false,false,penalty-saving,reflexes
+Youssoufou,FB,R,32,GHA,1,true,false,false,finishing,pace
+Walid Jalal,FB,L,39,LBY,10,true,false,false,marking,passing
+Mohamed Joudur,FB,L,24,LBY,4,false,false,false,marking,passing
+Al Amaami,FB,R,38,LBY,6,false,false,false,finishing,passing
+Ali Alsbaay,CB,L,39,LBY,2,true,false,false,marking,pace
+Khalifa Aribi,CB,R,29,LBY,2,true,false,false,tackling,stamina
+Abdulaziz,CB,R,20,LBY,3,false,false,false,marking,pace
+Saeid,CB,L,23,LBY,1,false,false,false,tackling,heading
+Hammadi,MF,L,39,LBY,9,true,false,false,playmaking,finishing
+Al Triki,MF,L,32,LBY,10,true,false,false,marking,passing
+Adnan Said,MF,R,21,LBY,2,true,false,false,playmaking,pace
+Zakaria Ellafi,MF,R,30,LBY,8,true,false,false,finishing,passing
+Bader Hassan,MF,L,34,LBY,4,false,false,false,tackling,finishing
+Yahya Alzaleetni,MF,R,25,LBY,7,false,false,false,tackling,marking
+Abdalla Abdelrhman,MF,R,25,LBY,10,false,false,false,tackling,marking
+Abdelmouain Khumaj,MF,R,33,LBY,6,false,false,false,playmaking,passing
+El Swanei,FW,R,27,LBY,7,true,false,false,finishing,stamina
+Mohamed Ayad,FW,R,29,LBY,10,true,false,false,dribbling,finishing
+Tawergi,FW,R,30,LBY,5,false,false,false,finishing,dribbling
+Mohamed Anis Saltou,FW,L,30,LBY,3,false,false,false,dribbling,finishing

@@ -1,0 +1,13 @@
+name = "Orlando Pirates"
+country = "RSA"
+level = 15
+reputation = 2
+colors = ["#000000", "#ffffff"]
+
+[stadium]
+name = "Orlando Stadium"
+capacity = 37139
+
+[coach]
+name = "Jose Riveiro"
+country = "ESP"

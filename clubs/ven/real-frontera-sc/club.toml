@@ -1,0 +1,13 @@
+name = "Real Frontera SC"
+country = "VEN"
+level = 6
+reputation = 1
+colors = ["#F0F0F0", "#F02000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Sleyder Duran"
+country = "BRA"

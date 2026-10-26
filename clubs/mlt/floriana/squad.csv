@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Georgi Kitanov,GK,R,27,BUL,7,true,false,false,positioning,penalty-saving
+Manuel Bartolo,GK,R,38,MLT,4,false,false,false,positioning,rushing-out
+Jan Busuttil,FB,R,23,MLT,8,true,false,false,finishing,passing
+Zachary Cassar,FB,L,23,MLT,8,false,false,false,marking,passing
+Magri Overend,FB,L,22,MLT,10,true,false,false,marking,passing
+Andreas Vella,FB,R,21,MLT,3,false,false,false,crossing,marking
+Christian Rutjens,CB,L,24,ESP,4,true,false,false,marking,pace
+Emiliano Callegari,CB,R,26,ARG,1,true,false,false,heading,stamina
+El Hasni,CB,R,28,TUN,7,false,false,false,heading,stamina
+Alejandro Garzia,CB,L,20,MLT,5,false,false,false,heading,stamina
+Jesús Arias,MF,L,25,ARG,6,true,false,false,passing,finishing
+Matías García,MF,R,26,ARG,5,true,false,false,tackling,heading
+Brandon Paiber,MF,L,27,MLT,8,false,false,false,marking,passing
+Kemar Reid,MF,R,27,JAM,8,true,false,false,passing,finishing
+James Scicluna,MF,R,24,MLT,10,true,false,false,finishing,passing
+Mattia Zarb,MF,R,22,MLT,10,false,false,false,tackling,marking
+Lonardelli,MF,R,21,MLT,5,false,false,false,tackling,finishing
+Neil Micallef,MF,R,23,MLT,8,false,false,false,tackling,pace
+Daniel Agius,FW,L,25,MLT,5,false,false,false,finishing,pace
+Andrei Ciolacu,FW,L,29,ROU,7,true,false,false,finishing,dribbling
+Mattia Veselji,FW,R,20,MLT,8,true,false,false,dribbling,finishing
+Augusto Cáseres,FW,R,24,ARG,10,false,false,false,dribbling,playmaking

@@ -1,0 +1,13 @@
+name = "Nancy"
+country = "FRA"
+level = 8
+reputation = 2
+colors = ["#F0F0F0", "#F01000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Martin Maouassa"
+country = "BRA"

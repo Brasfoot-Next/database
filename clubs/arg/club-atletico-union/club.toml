@@ -1,0 +1,13 @@
+name = "Club Atlético Unión"
+country = "ARG"
+level = 13
+reputation = 3
+colors = ["#F0F0F0", "#C00010"]
+
+[stadium]
+name = "15 de Abril"
+capacity = 27358
+
+[coach]
+name = "Lautaro Gerometta"
+country = "BRA"

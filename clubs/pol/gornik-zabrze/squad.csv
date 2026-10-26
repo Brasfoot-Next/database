@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Michal Sacek,FB,R,29,CZE,4,true,false,false,stamina,pace
+Patrik Hellebrand,MF,L,27,CZE,6,true,false,false,stamina,passing
+Jaroslaw Kubicki,MF,R,31,POL,7,true,false,false,stamina,pace
+Lukas Podolski,FW,L,41,GER,3,false,false,false,playmaking,passing
+Erik Janza,FB,L,33,SVN,5,false,false,false,stamina,crossing
+Pawel Olkowski,FB,R,36,POL,6,false,false,false,pace,passing
+Roberto Massimo,FW,R,25,GER,7,false,false,false,pace,dribbling
+Maksym Khlan,FW,L,23,UKR,3,true,false,false,pace,stamina
+Luka Zahovic,FW,R,30,SVN,5,false,false,false,stamina,pace
+Young Jun Goh,MF,R,25,KOR,6,false,false,false,pace,dribbling
+Matus Kmet,FB,R,26,SVK,5,true,false,false,marking,crossing
+Ousmane Sow,FW,L,26,SEN,6,false,false,false,heading,finishing
+Lukas Ambros,MF,L,22,CZE,7,true,false,false,pace,dribbling
+Josema,CB,L,30,ESP,4,true,false,false,tackling,marking
+Sondre Liseth,MF,R,28,NOR,5,true,false,false,playmaking,dribbling
+Rafal Janicki,CB,L,34,POL,6,false,false,false,stamina,tackling
+Kamil Lukoszek,FW,L,24,POL,7,false,false,false,pace,passing
+Abbati Abdullahi,FW,L,20,NGA,4,false,false,false,pace,passing
+Dominik Szala,FB,R,20,POL,5,false,false,false,pace,marking
+Natan Dziegielewski,MF,R,21,POL,6,false,false,false,pace,finishing
+Bastien Donio,MF,R,20,FRA,6,false,false,false,stamina,pace
+Kryspin Szczesniak,CB,R,25,POL,6,true,false,false,stamina,pace
+Gabriel Barbosa,FW,R,27,BRA,7,true,false,false,heading,finishing
+Maksymilian Pingot,CB,L,23,POL,3,false,false,false,stamina,tackling
+Marcel Lubik,GK,L,22,POL,5,true,false,false,reflexes,penalty-saving
+Tomasz Loska,GK,R,30,POL,6,false,false,false,reflexes,penalty-saving
+Piotr Pietryga,GK,L,23,POL,7,false,false,false,penalty-saving,rushing-out

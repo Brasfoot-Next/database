@@ -1,0 +1,13 @@
+name = "Platense"
+country = "ARG"
+level = 13
+reputation = 3
+colors = ["#F0F0F0", "#402010"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Benjamin Zapiola"
+country = "BRA"

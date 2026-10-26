@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Aaron Cruz,GK,R,31,CRC,5,true,false,false,reflexes,positioning
+Kevin Chamorro,GK,L,22,CRC,9,false,false,false,positioning,rushing-out
+Walter Cortés,FB,L,22,CRC,10,true,false,false,finishing,pace
+Ryan Bolaños,FB,R,23,CRC,1,true,false,false,finishing,pace
+Sergio Céspedes,FB,R,20,CRC,1,false,false,false,marking,finishing
+Kendall Waston,CB,L,34,CRC,5,true,false,false,tackling,marking
+Pablo Arboine,CB,R,24,CRC,2,true,false,false,tackling,marking
+Gerald Taylor,CB,R,21,CRC,8,false,false,false,tackling,heading
+Kevin Espinoza,CB,L,25,CRC,3,false,false,false,tackling,stamina
+Marvin Angulo,MF,L,35,CRC,0,true,false,false,playmaking,pace
+Mariano Torres,MF,R,35,ARG,5,true,false,false,finishing,passing
+Ricardo Blanco,MF,R,33,CRC,2,false,false,false,finishing,passing
+David Guzmán,MF,L,32,CRC,8,true,false,false,tackling,finishing
+Carlos Villegas,MF,L,23,CRC,5,false,false,false,playmaking,finishing
+Youstin Salas,MF,R,26,CRC,7,true,false,false,tackling,marking
+Jaylon Hadden,MF,L,24,CRC,8,false,false,false,tackling,marking
+Christian Bolaños,FW,R,38,CRC,2,true,false,false,finishing,stamina
+Ariel Rodríguez,FW,R,32,CRC,5,false,false,false,finishing,pace
+Orlando Sinclair,FW,L,24,CRC,5,false,false,false,pace,finishing
+Andy Reyes,FW,L,23,CRC,2,true,false,false,heading,pace

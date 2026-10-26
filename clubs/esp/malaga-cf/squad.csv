@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Darko Brasanac,MF,R,34,SRB,1,true,false,false,marking,tackling
+Luismi,MF,L,34,ESP,5,false,false,false,stamina,passing
+Juanpe,MF,R,30,ESP,5,true,false,false,stamina,pace
+Ramón Enríquez,MF,R,25,ESP,7,true,false,false,stamina,playmaking
+Dani Sánchez,FB,L,26,ESP,1,false,false,false,pace,stamina
+Dotor,MF,R,25,ESP,5,true,false,false,dribbling,passing
+Dani Lorenzo,MF,R,23,ESP,6,false,false,false,passing,dribbling
+Víctor García,FB,L,32,ESP,7,true,false,false,stamina,pace
+Larrubia,FW,L,24,ESP,4,false,false,false,dribbling,passing
+Gabilondo,FB,R,27,ESP,5,true,false,false,pace,stamina
+Izan Merino,MF,R,20,ESP,3,false,false,false,stamina,passing
+Carlos Puga,FB,R,25,ESP,5,false,false,false,stamina,tackling
+Joaquín,FW,L,27,ESP,6,true,false,false,pace,dribbling
+Josué Dorrio,FW,R,32,ESP,7,false,false,false,pace,crossing
+Aarón Ochoa,MF,R,19,IRL,3,false,false,false,pace,playmaking
+Lobete,FW,L,25,ESP,5,false,false,false,pace,dribbling
+Rafa Rodríguez,MF,R,23,ESP,6,false,false,false,stamina,passing
+Chupete,FW,R,22,ESP,7,false,false,false,pace,finishing
+Jauregi,FW,R,30,ESP,4,false,false,false,heading,finishing
+Montero,CB,L,27,ESP,6,true,false,false,tackling,marking
+Adrián Niño,FW,R,22,ESP,1,true,false,false,finishing,pace
+Haitam Abaida El Achhab,FW,L,24,MAR,5,false,false,false,pace,dribbling
+Moussa Diarra,CB,R,23,MLI,6,true,false,false,pace,tackling
+Diego Murillo,FB,R,25,ESP,7,false,false,false,tackling,stamina
+Einar Galilea,CB,L,32,ESP,2,false,false,false,heading,marking
+Álex Pastor,CB,R,26,ESP,5,false,false,false,heading,marking
+Ángel Recio,CB,R,23,ESP,6,false,false,false,pace,stamina
+Alfonso Herrero,GK,R,32,ESP,7,true,false,false,reflexes,positioning
+Carlos López,GK,R,21,ESP,2,false,false,false,reflexes,penalty-saving
+Andrés Céspedes,GK,R,22,ESP,5,false,false,false,penalty-saving,rushing-out

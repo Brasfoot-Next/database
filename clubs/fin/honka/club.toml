@@ -1,0 +1,13 @@
+name = "Honka"
+country = "FIN"
+level = 14
+reputation = 2
+colors = ["#000000", "#ffff00"]
+
+[stadium]
+name = "Urheilupuisto"
+capacity = 3000
+
+[coach]
+name = "Vesa Vasara"
+country = "FIN"

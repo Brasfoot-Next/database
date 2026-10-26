@@ -1,0 +1,20 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Aydin Bayramov,GK,R,26,AZE,9,true,false,false,positioning,penalty-saving
+Viktor Pozdnyakov,GK,L,25,AZE,10,false,false,false,penalty-saving,reflexes
+Rüfat Abdullazada,FB,L,21,AZE,7,true,false,false,crossing,pace
+Yusif Nabiyev,FB,R,24,AZE,5,true,false,false,finishing,pace
+Damjan Danicic,FB,L,22,SRB,9,false,false,false,crossing,marking
+Elvin Badalov,CB,R,27,AZE,4,true,false,false,marking,pace
+Khodzhaniyazov,CB,L,26,RUS,3,true,false,false,marking,pace
+Vurgun Hüseynov,CB,L,34,AZE,6,false,false,false,tackling,heading
+Hojjat Haghverdi,CB,R,29,IRN,4,false,false,false,tackling,marking
+Vüqar Mustafayev,MF,R,27,AZE,4,true,false,false,tackling,heading
+Murad Khachayev,MF,L,24,AZE,9,true,false,false,tackling,marking
+Süleyman Ahmadov,MF,R,22,AZE,4,true,false,false,passing,finishing
+Elshan Abdullayev,MF,L,28,AZE,4,true,false,false,passing,finishing
+Sabuhi Abdullazada,MF,R,20,AZE,3,false,false,false,passing,tackling
+Vüqar Baybalayev,MF,R,28,AZE,5,false,false,false,tackling,heading
+Elvin Mammadov,FW,L,34,AZE,8,true,false,false,finishing,pace
+Araz Abdullayev,FW,L,30,AZE,7,true,false,false,heading,finishing
+Khazar Mahmudov,FW,R,21,AZE,3,false,false,false,crossing,pace
+Vüsal Isgandarli,FW,L,26,AZE,9,false,false,false,finishing,dribbling

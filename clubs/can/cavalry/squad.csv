@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Marco Carducci,GK,R,25,CAN,7,true,false,false,reflexes,positioning
+Tyson Farago,GK,L,31,CAN,8,false,false,false,positioning,penalty-saving
+Julian Roloff,GK,L,21,GER,8,false,false,false,penalty-saving,reflexes
+Tom Field,FB,L,25,ENG,6,false,false,false,marking,finishing
+Bradley Vliet,FB,L,24,NED,4,true,false,false,crossing,marking
+Roberto Alarcón,FB,R,24,ESP,9,true,false,false,marking,pace
+Karifa Yao,CB,L,21,CAN,5,true,false,false,marking,pace
+Daan Klomp,CB,R,23,NED,4,true,false,false,heading,stamina
+Mason Trafford,CB,L,35,CAN,7,false,false,false,heading,stamina
+David Norman Jr.,CB,R,24,CAN,8,false,false,false,marking,pace
+Sergio Camargo,MF,R,27,CAN,10,true,false,false,pace,dribbling
+Elijah Adekugbe,MF,R,26,CAN,5,false,false,false,tackling,marking
+Elliot Simmons,MF,L,24,CAN,2,true,false,false,tackling,marking
+Di Chiara,MF,L,30,CAN,5,false,false,false,tackling,marking
+Fraser Aird,MF,R,27,CAN,2,true,false,false,playmaking,passing
+Charlie Trafford,MF,R,30,CAN,9,true,false,false,marking,passing
+José Escalante,FW,R,27,HON,10,true,false,false,pace,finishing
+Ali Musse,FW,R,26,SOM,7,true,false,false,dribbling,playmaking
+Ben Fisk,FW,L,29,CAN,3,false,false,false,finishing,dribbling
+Myer Bevan,FW,R,25,NZL,1,false,false,false,dribbling,finishing

@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jessy Deminguet,MF,L,28,FRA,7,true,false,false,stamina,passing
+Gauthier Hein,MF,L,30,FRA,3,true,false,false,dribbling,passing
+Jean Philippe Gbamin,CB,L,30,CIV,5,false,false,false,pace,tackling
+Fode Ballo Toure,FB,L,29,SEN,6,true,false,false,pace,dribbling
+Boubacar Traore,MF,L,25,MLI,7,true,false,false,passing,dribbling
+Benjamin Stambouli,MF,R,36,FRA,3,false,false,false,passing,tackling
+Cheikh Sabaly,FW,R,27,SEN,5,true,false,false,pace,finishing
+Maxime Colin,FB,R,34,FRA,6,false,false,false,stamina,pace
+Habib Diallo,FW,R,31,SEN,7,true,false,false,heading,pace
+Koffi Kouao,FB,R,28,CIV,3,true,false,false,pace,stamina
+Joel Asoro,FW,R,27,SWE,8,false,false,false,pace,stamina
+Alpha Toure,MF,L,20,SEN,5,true,false,false,passing,tackling
+Giorgi Tsitaishvili,FW,L,25,GEO,6,false,false,false,pace,dribbling
+Yannis Lawson,FB,L,21,BEL,7,false,false,false,pace,stamina
+Malick Mbaye,FW,R,22,SEN,4,false,false,false,pace,finishing
+Giorgi Abuashvili,FW,L,23,GEO,5,false,false,false,dribbling,pace
+Sadibou Sane,CB,R,22,SEN,6,true,false,false,tackling,heading
+Terry Yegbe,CB,L,25,GHA,7,true,false,false,pace,heading
+Morgan Bokele,FW,L,22,CMR,4,false,false,false,dribbling,pace
+Ibou Sane,FW,R,21,SEN,5,false,false,false,pace,heading
+Cleo Melieres,FB,R,21,FRA,7,false,false,false,pace,tackling
+Ismael Guerti,MF,R,22,MAR,3,false,false,false,pace,passing
+Joseph Mangondo,FW,L,21,FRA,4,false,false,false,pace,dribbling
+Urie Michel Mboula,CB,L,23,FRA,5,false,false,false,tackling,marking
+Jonathan Fischer,GK,L,24,DEN,6,true,false,false,positioning,reflexes
+Pape Sy,GK,R,29,SEN,7,false,false,false,penalty-saving,reflexes

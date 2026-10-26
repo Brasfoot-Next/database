@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kosuke Nakamura,GK,L,31,JPN,7,true,false,false,reflexes,rushing-out
+Koto Abe,GK,L,28,JPN,9,false,false,false,positioning,reflexes
+Go Kambayashi,GK,R,23,JPN,4,false,false,false,positioning,rushing-out
+Ken Isibor,GK,L,18,JPN,5,false,false,false,positioning,reflexes
+Shinnosuke Hatanaka,CB,R,30,JPN,6,true,false,false,tackling,marking
+Rikito Inoue,CB,L,29,JPN,1,true,false,false,heading,passing
+Travis Takahashi,CB,L,24,JPN,5,false,false,false,heading,stamina
+Niko Takahashi,FB,L,20,JPN,5,false,false,false,crossing,pace
+Ayumu Ohata,FB,L,25,JPN,7,true,false,false,passing,crossing
+Kyohei Noborizato,FB,L,35,JPN,1,false,false,false,pace,tackling
+Chimezie Kai Ezemuokwe,FB,R,17,JPN,5,false,false,false,passing,pace
+Dion Cools,FB,L,30,JPN,6,true,false,false,marking,crossing
+Hayato Okuda,FB,R,25,JPN,7,false,false,false,marking,pace
+Takumi Nakamura,FB,R,25,JPN,2,false,false,false,tackling,stamina
+Shunta Tanaka,MF,L,29,JPN,5,true,false,false,dribbling,playmaking
+Kosei Okazawa,MF,R,22,JPN,6,false,false,false,tackling,marking
+Hinata Kida,MF,R,26,JPN,7,false,false,false,passing,finishing
+Nelson Ishiwatari,MF,R,21,JPN,2,true,false,false,dribbling,passing
+Eiji Kubo,MF,R,18,JPN,5,false,false,false,dribbling,pace
+Lucas Fernandes,MF,R,32,BRA,6,true,false,false,pace,crossing
+Yota Komi,MF,L,23,JPN,1,false,false,false,pace,crossing
+Satoki Uejo,MF,L,29,JPN,5,false,false,false,pace,crossing
+Yumeki Yokoyama,MF,R,20,JPN,6,true,false,false,tackling,passing
+Shinji Kagawa,MF,R,37,JPN,8,false,false,false,tackling,passing
+Thiago Andrade,FW,R,25,BRA,4,true,false,false,finishing,stamina
+Masaya Shibayama,FW,R,24,JPN,5,true,false,false,heading,finishing
+Reiya Sakata,FW,R,22,JPN,7,false,false,false,pace,crossing
+Solomon Sakuragawa,FW,R,24,JPN,9,false,false,false,finishing,pace

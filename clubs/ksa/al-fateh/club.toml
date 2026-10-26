@@ -1,0 +1,13 @@
+name = "Al Fateh"
+country = "KSA"
+level = 13
+reputation = 3
+colors = ["#F0F0F0", "#000000"]
+
+[stadium]
+name = "Al-Fateh Club Stadium"
+capacity = 11000
+
+[coach]
+name = "Sattam Masoud"
+country = "BRA"

@@ -1,0 +1,13 @@
+name = "Mohun Bagan Super Giant"
+country = "IND"
+level = 10
+reputation = 2
+colors = ["#F0F0F0", "#B00000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Suhail Maclaren"
+country = "BRA"

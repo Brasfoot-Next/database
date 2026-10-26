@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Enzo Bardeli,MF,L,25,FRA,3,true,false,false,stamina,playmaking
+Eguaras,MF,R,34,ESP,5,false,false,false,tackling,passing
+Eddy Sylvestre,MF,L,27,FRA,6,true,false,false,stamina,playmaking
+Alec Georgen,FB,R,27,FRA,7,true,false,false,stamina,pace
+Felipe Abner,FB,L,30,BRA,3,false,false,false,pace,stamina
+Thomas Robinet,MF,R,30,FRA,5,true,false,false,stamina,pace
+Anto Sekongo,MF,L,22,MLI,6,false,false,false,pace,dribbling
+Opa Sangante,CB,R,35,GNB,7,true,false,false,marking,stamina
+Aboubakary Kante,FW,R,32,GAM,4,false,false,false,pace,stamina
+Gessime Yassine,FW,L,20,FRA,5,true,false,false,dribbling,passing
+Alex Daho,FW,L,22,FRA,5,false,false,false,finishing,dribbling
+Pape Diong,MF,R,20,SEN,6,true,false,false,passing,stamina
+Malick Diop,MF,R,20,SEN,7,false,false,false,dribbling,passing
+Allan Linguet,FW,R,27,FRA,1,true,false,false,pace,tackling
+Geoffrey Kondo,FB,L,24,FRA,5,true,false,false,passing,pace
+Aristide Zossou,FW,L,21,CIV,5,false,false,false,pace,dribbling
+Marco Essimi,FW,L,27,FRA,6,false,false,false,pace,finishing
+Vincent Sasso,CB,L,35,FRA,7,false,false,false,heading,tackling
+Victor Mayela,CB,L,22,FRA,3,true,false,false,tackling,pace
+Thena Massock,MF,L,18,FRA,5,false,false,false,passing,tackling
+Assane Ndoye,FB,L,22,SEN,4,false,false,false,pace,stamina
+Lenny Dziki,FB,R,21,CGO,5,false,false,false,pace,stamina
+Mathys Niflore,GK,R,19,FRA,6,true,false,false,reflexes,penalty-saving
+Marcos Lavín,GK,R,30,ESP,8,false,false,false,reflexes,rushing-out

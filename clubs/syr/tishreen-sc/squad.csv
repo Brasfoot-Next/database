@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ahmad Madanieh,GK,R,32,SYR,6,true,false,false,rushing-out,penalty-saving
+Ghaith Sulaiman,GK,L,24,SYR,8,false,false,false,reflexes,positioning
+Nadim Sabagh,FB,L,36,SYR,4,true,false,false,marking,passing
+Kamel Koaeh,FB,R,24,SYR,5,true,false,false,finishing,passing
+Mohammad Shehioni,FB,L,29,SYR,8,false,false,false,finishing,pace
+Abdulhadi Hanbazli,FB,R,22,SYR,7,false,false,false,finishing,passing
+Hassan Zainab,CB,L,33,SYR,9,true,false,false,marking,pace
+Al-Mohamad,CB,R,27,SYR,2,true,false,false,heading,stamina
+Salim Saifi,CB,L,30,SYR,3,false,false,false,tackling,heading
+Yaser Kerdagli,CB,R,31,SYR,8,false,false,false,tackling,stamina
+Al Omari,MF,R,31,SYR,1,true,false,false,playmaking,pace
+Rami Laiqa,MF,R,36,SYR,9,true,false,false,tackling,marking
+Mohammad Hamdoko,MF,L,36,SYR,5,true,false,false,tackling,marking
+Ahmed Assan,MF,L,18,SYR,7,true,false,false,finishing,passing
+Al Nakdali,MF,R,29,SYR,7,false,false,false,passing,tackling
+Ahmad Al-Ghalab,MF,L,26,SYR,4,false,false,false,finishing,passing
+Khaled Al-Mobayed,MF,R,29,SYR,4,false,false,false,marking,finishing
+Ahmed Al-Dali,MF,L,20,SYR,8,false,false,false,tackling,marking
+Ali Basmani,FW,R,22,SYR,8,true,false,false,finishing,dribbling
+Mohammad Malta,FW,L,23,SYR,4,true,false,false,finishing,dribbling
+Ahmad Al-Omaier,FW,R,39,SYR,2,false,false,false,heading,pace
+Yousef Maqsoud,FW,L,20,SYR,1,false,false,false,heading,pace

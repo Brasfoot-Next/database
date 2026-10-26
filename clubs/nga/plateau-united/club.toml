@@ -1,0 +1,13 @@
+name = "Plateau United"
+country = "NGA"
+level = 16
+reputation = 2
+colors = ["#ffff99", "#006633"]
+
+[stadium]
+name = "Rwang Pam"
+capacity = 15000
+
+[coach]
+name = "Fidelis Ilechukwu"
+country = "NGA"

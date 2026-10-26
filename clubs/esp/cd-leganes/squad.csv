@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Melero,MF,R,32,ESP,5,false,false,false,passing,playmaking
+Rubén Peña,FB,R,35,ESP,6,true,false,false,crossing,passing
+Óscar Plano,FW,L,35,ESP,7,false,false,false,pace,playmaking
+Seydouba Cisse,MF,R,25,GUI,3,true,false,false,passing,tackling
+Duk,FW,L,26,CPV,5,true,false,false,pace,dribbling
+Juan Cruz,FW,L,26,ESP,6,true,false,false,dribbling,playmaking
+Franquesa,FB,L,29,ESP,7,true,false,false,stamina,pace
+Roberto López,MF,L,26,ESP,3,true,false,false,stamina,playmaking
+Amadou Diawara,MF,L,29,GUI,5,true,false,false,passing,tackling
+Alex Millán,FW,R,26,ESP,6,false,false,false,pace,finishing
+Miguel,FW,L,27,ESP,4,false,false,false,stamina,heading
+Jorge Sáenz,CB,R,29,ESP,5,true,false,false,stamina,heading
+Guirao,MF,R,23,ESP,6,true,false,false,marking,passing
+Rubén Pulido,CB,R,26,ESP,7,false,false,false,heading,stamina
+Sebastian Figueredo,FB,R,25,URU,1,false,false,false,pace,stamina
+Andrés Campos,FW,L,24,ESP,4,false,false,false,dribbling,pace
+Diego García,FW,R,26,ESP,5,false,false,false,heading,pace
+Naim García,FW,L,24,ESP,7,false,false,false,pace,dribbling
+Lalo Aguilar,CB,L,24,ESP,1,false,false,false,tackling,marking
+Marvel,CB,L,23,ESP,5,false,false,false,pace,tackling
+Ignasi Miquel,CB,L,33,ESP,3,false,false,false,tackling,marking
+Benjamin Pauwels,FW,R,21,BEL,5,false,false,false,pace,dribbling
+João Urbáez,CB,R,24,ESP,6,true,false,false,tackling,marking
+Said Imigene,CB,L,21,ESP,7,false,false,false,pace,stamina
+Juan Soriano,GK,L,29,ESP,7,true,false,false,reflexes,penalty-saving
+San Román,GK,R,29,ESP,4,false,false,false,reflexes,rushing-out
+Javi Garrido,GK,R,23,ESP,5,false,false,false,reflexes,penalty-saving

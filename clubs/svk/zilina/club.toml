@@ -1,0 +1,13 @@
+name = "Zilina"
+country = "SVK"
+level = 14
+reputation = 2
+colors = ["#ffff00", "#006600"]
+
+[stadium]
+name = "Dubňom"
+capacity = 11800
+
+[coach]
+name = "Jaroslav Hynek"
+country = "CZE"

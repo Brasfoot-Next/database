@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Leo Walta,MF,R,23,FIN,5,true,false,false,stamina,passing
+Melker Heier,MF,R,25,SWE,6,true,false,false,stamina,pace
+Simon Sandberg,CB,R,32,SWE,7,true,false,false,stamina,pace
+Dennis Widgren,FB,L,32,SWE,4,false,false,false,stamina,tackling
+Adam Wikman,MF,L,22,SWE,5,true,false,false,stamina,passing
+Bogdan Milovanov,FB,R,28,UKR,6,false,false,false,stamina,pace
+Michael Martin,MF,R,26,GER,7,false,false,false,passing,stamina
+Matthias Nartey,MF,R,22,NED,4,false,false,false,pace,stamina
+Oscar Krusnell,FB,L,27,SWE,5,true,false,false,stamina,pace
+Joakim Persson,FW,L,24,SWE,6,true,false,false,pace,stamina
+Robbie Ure,FW,R,22,SCO,10,true,false,false,stamina,pace
+Tobias Anker,CB,L,25,DEN,3,true,false,false,stamina,pace
+Herman Sjogrell,FW,L,25,SWE,5,false,false,false,pace,playmaking
+Marcus Lindberg,MF,L,26,DEN,6,true,false,false,pace,playmaking
+Isak Bjerkebo,FW,R,23,SWE,7,false,false,false,pace,dribbling
+Victor Svensson,MF,R,20,SWE,3,false,false,false,pace,stamina
+Jakob Voelkerling Persson,FB,R,25,SWE,5,false,false,false,stamina,heading
+Noel Milleskog,FW,R,24,SWE,6,false,false,false,pace,stamina
+Henrik Ronnlof Castegren,FB,R,30,SWE,7,true,false,false,tackling,marking
+August Ljungberg,FW,L,21,SWE,3,false,false,false,pace,dribbling
+Hugo Andersson Mella,MF,R,19,SWE,7,false,false,false,playmaking,passing
+Finlay Neat,FW,R,20,SCO,4,false,false,false,pace,finishing
+Tobias Carlsson,CB,R,31,SWE,5,false,false,false,tackling,heading
+Neo Jonsson,FW,L,19,SWE,6,false,false,false,pace,dribbling
+Ismael Diawara,GK,R,31,MLI,7,false,false,false,reflexes,penalty-saving
+David Celic,GK,R,23,SWE,1,true,false,false,reflexes,positioning

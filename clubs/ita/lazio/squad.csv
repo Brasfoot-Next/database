@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Matteo Guendouzi,MF,R,27,FRA,8,true,false,false,stamina,passing
+Mattia Zaccagni,FW,L,31,ITA,5,false,false,false,dribbling,pace
+Nicolo Rovella,MF,R,24,ITA,6,true,false,false,stamina,passing
+Danilo Cataldi,MF,R,32,ITA,7,false,false,false,passing,playmaking
+Nuno Tavares,FB,L,26,POR,9,true,false,false,pace,crossing
+Adam Marusic,FB,R,33,MNE,5,false,false,false,pace,stamina
+Matias Vecino,MF,R,35,URU,6,false,false,false,heading,playmaking
+Valentin Castellanos,FW,R,27,ARG,6,false,false,false,stamina,finishing
+Manuel Lazzari,FB,R,32,ITA,7,false,false,false,pace,crossing
+Fisayo Dele Bashiru,MF,L,25,NGA,1,true,false,false,pace,dribbling
+Mario Gila,CB,R,26,ESP,9,true,false,false,pace,stamina
+Boulaye Dia,FW,R,29,SEN,5,false,false,false,pace,finishing
+Mohamed Fares,FW,L,30,ALG,6,false,false,false,dribbling,crossing
+Toma Basic,MF,R,29,CRO,7,false,false,false,heading,passing
+Tijjani Noslin,FW,R,27,NED,9,true,false,false,dribbling,pace
+Matteo Cancellieri,FW,L,24,ITA,5,false,false,false,pace,dribbling
+Patric,CB,R,33,ESP,6,false,false,false,tackling,marking
+Pedro,FW,R,39,ESP,7,false,false,false,dribbling,playmaking
+Luca Pellegrini,FB,L,27,ITA,9,true,false,false,dribbling,crossing
+Elseid Hysaj,FB,L,32,ALB,5,false,false,false,crossing,tackling
+Gustav Isaksen,FW,L,25,DEN,8,true,false,false,pace,dribbling
+Reda Belahyane,MF,R,22,MAR,4,true,false,false,dribbling,passing
+Cristo Muñoz,MF,R,21,ESP,6,false,false,false,dribbling,pace
+Alessio Romagnoli,CB,L,31,ITA,6,false,false,false,tackling,marking
+Samuel Gigot,CB,R,32,FRA,8,false,false,false,tackling,heading
+Oliver Provstgaard,CB,L,23,DEN,5,true,false,false,stamina,tackling
+Dimitrije Kamenovic,FB,L,26,SRB,6,false,false,false,pace,tackling
+Saná Fernandes,FW,R,20,POR,7,false,false,false,pace,dribbling
+Ivan Provedel,GK,R,32,ITA,8,false,false,false,reflexes,positioning
+Christos Mandas,GK,R,24,GRE,5,true,false,false,reflexes,penalty-saving
+Alessio Furlanetto,GK,R,24,ITA,7,false,false,false,reflexes,penalty-saving

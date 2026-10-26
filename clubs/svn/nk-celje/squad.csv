@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Matjaz Rozman,GK,L,35,SVN,4,true,false,false,positioning,rushing-out
+Metod Jurhar,GK,R,24,SVN,10,false,false,false,rushing-out,penalty-saving
+Florijan Raduha,GK,R,25,SVN,1,false,false,false,reflexes,positioning
+Amadej Brecl,FB,R,25,SVN,5,true,false,false,finishing,passing
+Zan Flis,FB,L,24,SVN,4,true,false,false,marking,passing
+Grigori Morozov,FB,R,28,RUS,7,false,false,false,marking,passing
+Dusan Stojinovic,CB,R,21,SVN,4,false,false,false,tackling,stamina
+David Zec,CB,R,22,SVN,8,true,false,false,heading,stamina
+Damjan Vuklisevic,CB,L,27,SVN,9,true,false,false,marking,pace
+Matic Vrbanec,MF,R,25,SVN,9,true,false,false,tackling,marking
+Jon Sporn,MF,L,25,SVN,2,true,false,false,playmaking,pace
+Tamar Svetlin,MF,R,20,SVN,5,true,false,false,playmaking,passing
+Ivan Maevskiy,MF,L,34,BLR,4,false,false,false,tackling,marking
+Tomislav Tomic,MF,R,31,BIH,2,false,false,false,tackling,heading
+Matea Panic,MF,L,18,SVN,2,false,false,false,playmaking,pace
+Dejan Kantuzer,MF,R,19,SVN,9,false,false,false,passing,finishing
+Nino Kouter,MF,L,28,SVN,7,true,false,false,marking,passing
+Ivan Bozic,FW,L,25,CRO,1,true,false,false,pace,crossing
+Nejc Ajhmajer,FW,L,19,SVN,4,true,false,false,finishing,dribbling
+Ikwuemesi,FW,R,20,NGA,9,false,false,false,crossing,pace
+Tin Matic,FW,R,24,CRO,8,false,false,false,pace,finishing

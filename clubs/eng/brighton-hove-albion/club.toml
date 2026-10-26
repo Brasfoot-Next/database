@@ -1,0 +1,13 @@
+name = "Brighton & Hove Albion"
+country = "ENG"
+level = 19
+reputation = 4
+colors = ["#0050A0", "#F0F0F0"]
+
+[stadium]
+name = "AMEX Stadium"
+capacity = 31876
+
+[coach]
+name = "Solly Minteh"
+country = "BRA"

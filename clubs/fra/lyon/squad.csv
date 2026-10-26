@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Corentin Tolisso,MF,R,32,FRA,6,false,false,false,passing,stamina
+Ainsley Maitland Niles,FB,R,29,ENG,7,true,false,false,pace,stamina
+Clinton Mata,CB,R,33,ANG,6,false,false,false,stamina,pace
+Nicolas Tagliafico,FB,L,34,ARG,7,true,false,false,tackling,stamina
+Tyler Morton,MF,L,23,ENG,8,true,false,false,passing,playmaking
+Orel Mangala,MF,R,28,BEL,5,false,false,false,dribbling,passing
+Abner Vinícius,FB,L,26,BRA,6,false,false,false,pace,crossing
+Tanner Tessmann,MF,R,24,USA,7,true,false,false,stamina,passing
+Pavel Sulc,MF,R,25,CZE,8,true,false,false,stamina,dribbling
+Rachid Ghezzal,FW,L,34,ALG,5,false,false,false,dribbling,crossing
+Malick Fofana,FW,L,21,BEL,8,false,false,false,pace,dribbling
+Moussa Niakhate,CB,L,30,SEN,4,true,false,false,tackling,pace
+Adam Karabec,FW,L,23,CZE,6,false,false,false,stamina,dribbling
+Martin Satriano,FW,R,25,URU,6,true,false,false,finishing,dribbling
+Ernest Nuamah,FW,L,22,GHA,8,false,false,false,dribbling,pace
+Afonso Moreira,FW,L,21,POR,4,true,false,false,pace,dribbling
+Achraf Laaziri,FB,L,23,MAR,6,false,false,false,pace,crossing
+Khalis Merah,MF,R,19,FRA,7,true,false,false,passing,dribbling
+Mathys De Carvalho,MF,R,21,FRA,8,false,false,false,passing,playmaking
+Teo Barisic,FB,R,21,CRO,5,false,false,false,pace,tackling
+Ruben Kluivert,CB,R,25,NED,7,true,false,false,pace,heading
+Alejandro Gomes Rodriguez,FW,R,18,ENG,1,false,false,false,pace,finishing
+Enzo Molebe,FW,R,18,FRA,5,false,false,false,pace,dribbling
+Remy Descamps,GK,L,30,FRA,6,false,false,false,reflexes,positioning
+Dominik Greif,GK,R,29,SVK,7,true,false,false,positioning,reflexes
+Lassine Diarra,GK,R,23,MLI,2,false,false,false,reflexes,penalty-saving

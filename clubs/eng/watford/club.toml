@@ -1,0 +1,13 @@
+name = "Watford"
+country = "ENG"
+level = 13
+reputation = 3
+colors = ["#E02020", "#F0E020"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "James Sissoko"
+country = "BRA"

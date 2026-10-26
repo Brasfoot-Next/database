@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Larrazabal,FW,R,28,ESP,4,true,false,false,pace,stamina
+Jeremy Livolant,FW,R,28,FRA,5,true,false,false,pace,stamina
+Sebastian Perez,MF,R,33,COL,6,false,false,false,passing,stamina
+Rafael Brito,MF,R,24,POR,8,true,false,false,passing,tackling
+Yassin Oukili,MF,L,25,MAR,4,true,false,false,stamina,passing
+Svensson,FW,R,24,ESP,6,false,false,false,stamina,pace
+Dailon Livramento,FW,R,25,CPV,7,false,false,false,pace,finishing
+André Geraldes,FB,R,35,POR,4,true,false,false,pace,stamina
+Tiago Morais,FW,L,23,POR,5,false,false,false,pace,stamina
+Fahem Benaissa Yahia,FW,L,24,FRA,6,false,false,false,tackling,pace
+Cassiano,FW,R,37,BRA,5,false,false,false,heading,finishing
+Miguel Sousa,MF,R,27,POR,6,true,false,false,passing,playmaking
+Abdu Conté,FB,L,28,POR,7,true,false,false,pace,dribbling
+Clau Mendes,FW,R,25,GNB,4,false,false,false,pace,playmaking
+Kevin Prieto,FW,R,23,URU,5,false,false,false,pace,stamina
+Kaique Rocha,CB,R,25,BRA,6,true,false,false,tackling,heading
+Kiki Silva,FW,L,28,POR,7,false,false,false,pace,crossing
+Korede Osundina,FW,L,22,USA,4,false,false,false,pace,finishing
+José Fonte,CB,R,42,POR,5,false,false,false,heading,tackling
+Iyad Mohamed,MF,L,25,POR,6,false,false,false,passing,tackling
+Duplexe Tchamba,CB,L,28,CMR,1,false,false,false,heading,tackling
+Xander Severina,FW,L,25,CUW,5,false,false,false,pace,finishing
+Kelian Nsona,FW,L,24,FRA,6,false,false,false,dribbling,pace
+João Goulart,CB,R,26,POR,7,true,false,false,marking,tackling
+Renato Nhaga,MF,R,19,GNB,2,true,false,false,tackling,pace
+David Sousa,CB,L,25,BRA,5,false,false,false,heading,tackling
+Khaly,CB,R,22,ANG,6,false,false,false,tackling,pace
+Ricardo Batista,GK,L,39,ANG,7,false,false,false,positioning,penalty-saving
+Patrick Gilmar Sequeira,GK,R,27,POR,2,false,false,false,penalty-saving,rushing-out
+Ivan Mandic,GK,L,23,CRO,5,true,false,false,reflexes,positioning
+Daniel Azevedo,GK,R,28,POR,7,false,false,false,positioning,reflexes

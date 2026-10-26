@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Robert Skov,FB,L,30,DEN,6,false,false,false,crossing,passing
+Josip Juranovic,FB,R,31,CRO,7,false,false,false,crossing,tackling
+Alex Kral,MF,R,28,CZE,4,true,false,false,stamina,dribbling
+Derrick Kohn,FB,L,27,GER,6,true,false,false,pace,dribbling
+Christopher Trimmel,FB,R,39,AUT,6,false,false,false,crossing,pace
+Janik Haberer,MF,R,32,GER,7,true,false,false,passing,playmaking
+Andras Schafer,MF,L,27,HUN,5,true,false,false,stamina,passing
+Tim Skarke,FW,R,30,GER,6,false,false,false,pace,dribbling
+Oliver Burke,FW,R,29,SCO,6,false,false,false,pace,heading
+Tom Rothe,FB,L,21,GER,7,true,false,false,crossing,stamina
+Livan Burcu,FW,L,21,TUR,4,false,false,false,pace,dribbling
+Aljoscha Kemlein,MF,R,22,GER,6,true,false,false,passing,stamina
+Danilho Doekhi,CB,R,28,NED,6,true,false,false,heading,stamina
+Stanley Nsoki,CB,L,27,FRA,7,false,false,false,pace,stamina
+Rani Khedira,MF,R,32,GER,7,false,false,false,marking,stamina
+Jeong Woo Yeong,MF,R,26,KOR,5,false,false,false,dribbling,stamina
+Marin Ljubicic,FW,R,24,CRO,6,false,false,false,stamina,finishing
+Diogo Leite,CB,L,27,POR,7,false,false,false,tackling,marking
+Andrej Ilic,FW,L,26,SRB,8,true,false,false,heading,finishing
+Leopold Querfeld,CB,R,22,AUT,5,true,false,false,heading,tackling
+Ilyas Ansah,FW,R,21,GER,6,true,false,false,pace,dribbling
+Andrik Markgraf,FB,L,20,GER,7,false,false,false,pace,tackling
+David Preu,FW,L,21,GER,5,false,false,false,pace,dribbling
+Oluwaseun Ogbemudia,CB,R,20,GER,6,false,false,false,pace,tackling
+Dmytro Bohdanov,FW,R,19,UKR,7,false,false,false,pace,finishing
+Frederik Ronnow,GK,R,34,DEN,4,true,false,false,reflexes,rushing-out
+Matheo Raab,GK,R,27,GER,6,false,false,false,positioning,reflexes
+Carl Klaus,GK,R,32,GER,6,false,false,false,reflexes,rushing-out

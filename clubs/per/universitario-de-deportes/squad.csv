@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Diego Romero,GK,R,25,PER,6,true,false,false,positioning,rushing-out
+Miguel Vargas,GK,R,30,CHI,7,false,false,false,positioning,reflexes
+Jhefferson Rodríguez,GK,L,20,PER,3,false,false,false,positioning,reflexes
+Anderson Santamaría,CB,R,34,PER,5,true,false,false,heading,stamina
+Williams Riveros,CB,R,33,PAR,6,false,false,false,marking,tackling
+Caín Fara,CB,R,32,ARG,7,true,false,false,tackling,heading
+Matías Di Benedetto,CB,L,33,ARG,3,false,false,false,tackling,marking
+Aldo Corzo,CB,R,37,PER,5,false,false,false,marking,heading
+César Inga,FB,L,24,PER,6,true,false,false,pace,tackling
+Jesús Castillo,MF,R,25,PER,2,false,false,false,passing,stamina
+Jorge Murrugarra,MF,R,29,PER,8,true,false,false,passing,tackling
+Juan Manuel Requena,MF,L,27,ARG,4,true,false,false,passing,playmaking
+Diogo Vásquez,MF,R,19,PER,5,false,false,false,finishing,playmaking
+Jairo Concha,MF,L,27,PER,6,true,false,false,playmaking,stamina
+Adrián Quiroz,MF,L,27,PER,10,true,false,false,playmaking,passing
+Jordan Guivin,MF,R,28,PER,5,false,false,false,pace,dribbling
+Horacio Calcaterra,MF,R,37,PER,5,false,false,false,passing,crossing
+Sebastian Flores,MF,R,21,PER,6,false,false,false,pace,passing
+Fabián Cabanillas,MF,R,21,PER,7,false,false,false,tackling,marking
+Bryan Reyna,FW,L,28,PER,2,false,false,false,pace,dribbling
+Héctor Fértoli,FW,L,31,ARG,5,false,false,false,pace,dribbling
+Christopher Loayza,FW,R,19,PER,6,false,false,false,pace,crossing
+Andy Polo,FW,R,31,PER,10,true,false,false,pace,stamina
+Lisandro Alzugaray,FW,L,36,ARG,4,false,false,false,finishing,passing
+Álex Valera,FW,L,30,PER,5,true,false,false,heading,finishing
+José Rivera,FW,R,29,PER,7,true,false,false,dribbling,finishing
+Edison Flores,FW,L,32,PER,1,false,false,false,dribbling,pace
+Gianluca Lapadula,FW,L,36,PER,5,false,false,false,finishing,heading
+Nicolás Rengifo,FW,R,19,PER,6,false,false,false,heading,stamina
+Rodrigo Dioses,FW,R,21,PER,8,false,false,false,crossing,pace
+Jhon Guzmán,FW,R,34,PER,5,false,false,false,finishing,stamina

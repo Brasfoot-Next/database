@@ -1,0 +1,13 @@
+name = "Luton Town"
+country = "ENG"
+level = 11
+reputation = 3
+colors = ["#002060", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Millenic Walsh"
+country = "BRA"

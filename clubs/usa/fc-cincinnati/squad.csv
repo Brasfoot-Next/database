@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Evander,MF,R,28,BRA,4,true,false,false,dribbling,stamina
+Pavel Bucha,MF,R,28,CZE,6,true,false,false,stamina,dribbling
+Obinna Nwobodo,MF,R,29,NGA,6,true,false,false,stamina,pace
+Yuya Kubo,MF,L,32,JPN,7,false,false,false,stamina,passing
+Luca Orellano,FW,L,26,ARG,4,true,false,false,pace,dribbling
+Lukas Engel,FB,L,27,DEN,6,true,false,false,pace,stamina
+Kevin Denkey,FW,R,25,USA,6,true,false,false,finishing,stamina
+Dominik Marczuk,FW,R,22,POL,7,false,false,false,stamina,pace
+Brenner,FW,R,26,BRA,5,false,false,false,dribbling,pace
+Kei Kamara,FW,R,42,SLE,6,false,false,false,heading,passing
+Brad Smith,FW,L,32,AUS,5,false,false,false,pace,passing
+Miles Robinson,CB,R,29,USA,6,true,false,false,pace,stamina
+Alvas Powell,FB,R,32,JAM,7,true,false,false,pace,stamina
+Ender Echenique,FW,R,22,VEN,9,false,false,false,pace,dribbling
+Tah Anunga,MF,L,30,CMR,5,false,false,false,passing,stamina
+Teenage Hadebe,CB,L,30,ZIM,7,false,false,false,pace,heading
+Ayoub Jabbari,FW,R,26,MAR,4,false,false,false,heading,finishing
+Nick Hagglund,CB,R,33,USA,6,false,false,false,heading,passing
+Matt Miazga,CB,R,31,USA,6,true,false,false,heading,tackling
+Gilberto Flores,CB,L,23,PAR,7,false,false,false,heading,tackling
+Gerardo Valenzuela,MF,R,21,USA,5,true,false,false,pace,dribbling
+Ș. Chirilă,FW,R,19,ROU,6,false,false,false,finishing,heading
+Stiven Jimenez,MF,R,19,USA,6,false,false,false,tackling,stamina
+Kenji Mboma Dem,FW,L,24,FRA,8,false,false,false,finishing,stamina
+Alec Kann,GK,L,36,USA,5,false,false,false,positioning,rushing-out
+Evan Louro,GK,R,30,USA,6,false,false,false,positioning,rushing-out
+Roman Celentano,GK,R,25,USA,6,true,false,false,positioning,reflexes
+Paul Walters,GK,R,22,USA,7,false,false,false,reflexes,positioning

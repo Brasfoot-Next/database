@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mohamed Al-Bakri,GK,R,29,QAT,3,false,false,false,reflexes,penalty-saving
+Saoud Al-Khater,GK,R,35,QAT,5,false,false,false,positioning,reflexes
+Omair Abdulla,GK,R,26,QAT,6,true,false,false,penalty-saving,reflexes
+Yousef Ramadan,GK,R,22,EGY,7,false,false,false,reflexes,penalty-saving
+Lucas Mendes,CB,L,36,QAT,3,true,false,false,stamina,heading
+Almahdi Ali,CB,L,34,QAT,5,true,false,false,heading,stamina
+Tameem Al-Muhaza,CB,L,29,QAT,6,false,false,false,marking,passing
+Motaman Mohamed,CB,R,21,QAT,7,false,false,false,tackling,marking
+Abdelkarim Hassan,FB,L,32,QAT,4,true,false,false,tackling,marking
+Abdelaziz Mitwali,FB,L,30,QAT,5,false,false,false,tackling,pace
+Mohamed Simo,FB,R,23,ESP,5,false,false,false,stamina,pace
+Nabil Irfan,FB,R,22,QAT,6,true,false,false,crossing,passing
+Murad Naji,FB,L,35,QAT,8,false,false,false,pace,tackling
+Yousef El-Khatib,FB,L,21,QAT,4,false,false,false,passing,pace
+Mohamed Alaaeldin,FB,L,32,QAT,5,false,false,false,passing,crossing
+Abdulrahman Rashid,FB,R,24,QAT,6,false,false,false,pace,crossing
+Hamdy Fathy,MF,R,31,EGY,8,true,false,false,finishing,playmaking
+Abdelrahman Zaky,MF,L,23,QAT,2,false,false,false,marking,passing
+Abdollah Ali Saei,MF,R,27,QAT,5,true,false,false,passing,tackling
+Aïssa Laïdouni,MF,L,29,TUN,6,true,false,false,dribbling,pace
+Omar Salah,MF,R,23,QAT,5,false,false,false,tackling,passing
+Ahmed Fadel,MF,R,33,QAT,6,false,false,false,passing,tackling
+Luis Alberto,MF,R,33,ESP,7,false,false,false,passing,playmaking
+Amine Zouhzouh,MF,R,25,MAR,3,true,false,false,dribbling,pace
+Nasser Al-Yazidi,MF,L,26,QAT,5,false,false,false,dribbling,playmaking
+Khalid Muneer,FW,L,28,QAT,6,true,false,false,heading,stamina
+Muayed Hassan,FW,R,34,QAT,7,false,false,false,dribbling,finishing
+Ayoub Assal,FW,R,24,MAR,4,false,false,false,finishing,heading
+Gerard Valentín,FW,R,32,ESP,5,false,false,false,playmaking,finishing
+Rabeh Boussafi,FW,R,26,QAT,6,false,false,false,finishing,dribbling
+Tameem Mansour,FW,R,23,QAT,5,false,false,false,heading,pace
+Redouane Berkane,FW,R,23,ALG,6,true,false,false,dribbling,playmaking
+Mohamed Khaled,FW,R,23,QAT,7,false,false,false,pace,dribbling

@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Carlos Miguel,GK,R,27,BRA,6,true,false,false,rushing-out,positioning
+Kaique Pereira,GK,R,23,BRA,7,false,false,false,penalty-saving,reflexes
+Marcelo Lomba,GK,R,29,BRA,9,false,false,false,positioning,reflexes
+Alexander Barboza,CB,R,31,ARG,5,true,false,false,heading,stamina
+Murilo,CB,L,31,BRA,6,true,false,false,pace,stamina
+Naves,CB,R,24,BRA,7,false,false,false,tackling,marking
+Bruno Fuchs,CB,L,27,BRA,10,false,false,false,heading,marking
+Luis Benedetti,CB,R,20,BRA,5,false,false,false,heading,tackling
+Gustavo Gómez,CB,R,33,PAR,6,false,false,false,marking,tackling
+Joaquín Piquerez,FB,R,27,URU,6,true,false,false,pace,tackling
+Jefté,FB,R,22,BRA,8,false,false,false,stamina,crossing
+Arthur Gabriel,FB,R,20,BRA,5,false,false,false,crossing,pace
+Agustín Giay,FB,R,22,ARG,6,true,false,false,passing,crossing
+Khellven,FB,L,25,BRA,7,false,false,false,marking,crossing
+Emiliano Martínez,MF,L,26,URU,8,true,false,false,dribbling,playmaking
+Marlon Freitas,MF,R,31,BRA,5,true,false,false,marking,passing
+Luis Pacheco,MF,R,18,BRA,6,false,false,false,stamina,passing
+Andreas Pereira,MF,R,30,BRA,7,true,false,false,passing,finishing
+Lucas Evangelista,MF,R,31,BRA,9,false,false,false,playmaking,dribbling
+Larson,MF,R,21,BRA,1,false,false,false,marking,passing
+Mauricio,MF,R,25,PAR,7,true,false,false,finishing,passing
+Erick Belé,MF,R,19,BRA,2,false,false,false,passing,playmaking
+Felipe Anderson,FW,R,33,BRA,6,false,false,false,pace,crossing
+Riquelme Fillipi,FW,R,19,BRA,6,false,false,false,finishing,stamina
+Allan,FW,R,22,BRA,7,false,false,false,heading,stamina
+Jhon Arias,FW,L,28,COL,4,false,false,false,pace,dribbling
+Ramón Sosa,FW,R,26,PAR,6,false,false,false,finishing,dribbling
+Paulinho,FW,R,26,BRA,6,false,false,false,finishing,dribbling
+Vitor Roque,FW,L,21,BRA,8,true,true,false,finishing,dribbling
+José Manuel López,FW,R,25,ARG,4,true,false,false,finishing,pace
+Luighi,FW,L,20,BRA,7,false,false,false,pace,finishing

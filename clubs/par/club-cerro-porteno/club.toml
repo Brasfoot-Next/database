@@ -1,0 +1,13 @@
+name = "Club Cerro Porteño"
+country = "PAR"
+level = 15
+reputation = 3
+colors = ["#900010", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Mateo Aguayo"
+country = "BRA"

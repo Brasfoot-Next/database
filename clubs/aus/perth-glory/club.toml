@@ -1,0 +1,13 @@
+name = "Perth Glory"
+country = "AUS"
+level = 8
+reputation = 2
+colors = ["#B0B0B0", "#FFFFFF"]
+
+[stadium]
+name = "HBF Park"
+capacity = 20500
+
+[coach]
+name = "Cameron Bugarija"
+country = "BRA"

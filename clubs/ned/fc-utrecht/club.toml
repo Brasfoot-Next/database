@@ -1,0 +1,13 @@
+name = "FC Utrecht"
+country = "NED"
+level = 15
+reputation = 3
+colors = ["#F0F0F0", "#E03030"]
+
+[stadium]
+name = 'Stadion "Galgenwaard"'
+capacity = 23750
+
+[coach]
+name = "Mees Zechiel"
+country = "BRA"

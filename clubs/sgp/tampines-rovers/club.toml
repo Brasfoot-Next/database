@@ -1,0 +1,13 @@
+name = "Tampines Rovers"
+country = "SGP"
+level = 13
+reputation = 3
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Our Tampines"
+capacity = 5000
+
+[coach]
+name = "Gavin Lee"
+country = "SGP"

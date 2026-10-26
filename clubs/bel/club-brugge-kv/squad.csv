@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Hans Vanaken,MF,L,34,BEL,4,true,false,false,stamina,playmaking
+Hugo Vetlesen,FW,R,26,NOR,6,false,false,false,stamina,pace
+Christos Tzolis,FW,L,24,GRE,7,true,false,false,stamina,dribbling
+Raphael Onyedika,MF,R,25,NGA,1,true,false,false,stamina,marking
+Hugo Siquet,FW,R,24,BEL,5,false,false,false,crossing,pace
+Ludovit Reis,MF,R,26,NED,6,true,false,false,stamina,dribbling
+Bjorn Meijer,FB,L,23,NED,7,false,false,false,stamina,crossing
+Kyriani Sabbe,FB,R,21,BEL,2,true,false,false,stamina,crossing
+Cisse Sandra,FW,L,22,BEL,5,false,false,false,stamina,pace
+Joaquin Seys,FB,L,21,BEL,6,true,false,false,pace,passing
+Lynnt Audoor,MF,R,22,BEL,7,false,false,false,passing,stamina
+Gustaf Nilsson,FW,R,29,SWE,4,false,false,false,heading,finishing
+Carlos Forbs,FW,L,22,POR,6,false,false,false,pace,finishing
+Romeo Vermant,FW,R,22,BEL,6,false,false,false,pace,finishing
+Alejandro Granados,MF,L,20,ESP,7,false,false,false,passing,playmaking
+Mamadou Diakhon,FW,R,20,FRA,5,false,false,false,pace,dribbling
+Brandon Mechele,CB,L,33,BEL,6,true,false,false,tackling,marking
+Zaid Romero,CB,L,26,ARG,6,false,false,false,stamina,heading
+Joel Ordonez,CB,R,22,ECU,7,true,false,false,pace,tackling
+Aleksandar Stankovic,MF,R,21,SRB,5,true,false,false,stamina,marking
+Jorne Spileers,FB,R,21,BEL,7,false,false,false,pace,stamina
+Nicolo Tresoldi,FW,R,22,GER,10,true,false,false,stamina,pace
+Samuel Gomez Van Hoogen,CB,L,20,BEL,5,false,false,false,pace,heading
+Kaye Furo,FW,R,19,BEL,6,false,false,false,pace,heading
+Shandre Campbell,FW,L,21,BEL,7,false,false,false,pace,dribbling
+Vince Osuji,CB,R,20,NGA,2,false,false,false,pace,tackling
+Bi Abdoul Kader Yameogo,CB,R,21,CIV,5,false,false,false,tackling,pace
+Simon Mignolet,GK,R,38,BEL,6,false,false,false,positioning,reflexes
+Nordin Jackers,GK,R,29,BEL,7,true,false,false,reflexes,positioning
+Dani Van Den Heuvel,GK,R,23,NED,2,false,false,false,reflexes,penalty-saving
+Axl De Corte,GK,L,20,BEL,7,false,false,false,penalty-saving,reflexes

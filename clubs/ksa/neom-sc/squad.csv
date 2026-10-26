@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Abdoulaye Doucoure,MF,R,33,MLI,6,true,false,false,stamina,tackling
+Alexandre Lacazette,FW,R,35,FRA,7,false,false,false,finishing,dribbling
+Said Benrahma,FW,L,31,ALG,5,false,false,false,dribbling,playmaking
+Luciano Rodriguez,FW,R,23,URU,6,true,false,false,pace,dribbling
+Mohammed Al Buraik,FB,R,33,KSA,6,false,false,false,crossing,stamina
+Salman Al Faraj,MF,L,37,KSA,7,true,false,false,passing,playmaking
+Amadou Kone,MF,L,21,CIV,9,true,false,false,passing,tackling
+Alaa Al Hajji,MF,R,30,KSA,5,false,false,false,stamina,passing
+Ali Al Asmari,MF,L,29,KSA,6,true,false,false,passing,stamina
+Abbas Al Hassan,FW,R,22,KSA,7,false,false,false,pace,stamina
+Abdulmalek Al Ayeri,FB,R,22,KSA,7,false,false,false,pace,stamina
+Saimon Bouabre,FW,L,20,FRA,2,true,false,false,dribbling,passing
+Nathan Zeze,CB,L,21,FRA,5,true,false,false,tackling,marking
+Abdulaziz Noor,FW,L,27,KSA,6,false,false,false,pace,playmaking
+Ahmed Abdu,FW,R,30,KSA,7,false,false,false,finishing,heading
+Eslam Hawsawi,FB,L,24,KSA,4,true,false,false,pace,stamina
+Faris Abdi,FB,L,27,KSA,6,true,false,false,stamina,pace
+Awon Al Bishi,CB,R,28,KSA,6,false,false,false,tackling,pace
+Ahmed Hegazi,CB,R,35,EGY,7,false,false,false,heading,tackling
+Khalifa Al Dawsari,CB,R,27,KSA,4,true,false,false,pace,stamina
+Hassan Al Ali,FW,R,24,KSA,7,false,false,false,pace,finishing
+Fahad Al Harbi,CB,L,29,KSA,10,false,false,false,pace,heading
+Mohammed Al Dawsari,CB,R,23,KSA,5,false,false,false,pace,stamina
+Thamer Al Khaibari,FW,L,20,KSA,6,false,false,false,stamina,pace
+Luís Maximiano,GK,R,27,POR,7,false,false,false,reflexes,penalty-saving
+Marcin Bulka,GK,R,26,POL,1,true,false,false,reflexes,positioning
+Mustafa Malaeka,GK,R,40,KSA,5,false,false,false,positioning,reflexes
+Raed Azybi,GK,R,24,KSA,6,false,false,false,positioning,reflexes
+Mohammed Al Hakim,GK,R,21,KSA,7,false,false,false,reflexes,positioning

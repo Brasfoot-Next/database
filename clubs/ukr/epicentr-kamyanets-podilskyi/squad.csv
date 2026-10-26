@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Oleg Bilyk,GK,R,28,UKR,1,true,false,false,reflexes,positioning
+Nikita Fedotov,GK,R,26,UKR,5,false,false,false,reflexes,positioning
+Arseniy Vavshko,GK,L,20,UKR,6,false,false,false,reflexes,penalty-saving
+Stepan Grygorashchuk,CB,R,25,UKR,7,true,false,false,heading,stamina
+Vladyslav Moroz,CB,L,24,UKR,2,false,false,false,tackling,heading
+Nil Coch,CB,R,28,ESP,5,true,false,false,heading,stamina
+Serjan Repaj,CB,R,25,ALB,6,false,false,false,marking,stamina
+Vitaliy Gorin,CB,R,19,UKR,7,false,false,false,heading,marking
+Oleksandr Klymets,FB,R,26,UKR,2,true,false,false,stamina,crossing
+Igor Kyryukhantsev,FB,L,30,UKR,5,true,false,false,stamina,crossing
+Valeriy Luchkevych,FB,L,30,UKR,5,false,false,false,tackling,pace
+Andriy Boyko,FB,L,21,UKR,6,false,false,false,passing,crossing
+Andriy Lipovuz,MF,R,28,UKR,7,true,false,false,finishing,playmaking
+Mykola Myronyuk,MF,R,23,UKR,8,true,false,false,pace,dribbling
+Jon Ceberio,MF,R,29,ESP,4,true,false,false,stamina,tackling
+Yevgen Zaporozhets,MF,R,31,UKR,5,false,false,false,playmaking,finishing
+Raúl Tavares,MF,R,27,ESP,6,false,false,false,dribbling,playmaking
+Artem Kozak,MF,R,28,UKR,10,true,false,false,pace,crossing
+Kyrylo Kovalets,MF,L,33,UKR,4,false,false,false,dribbling,passing
+Nene,FW,R,23,ESP,5,false,false,false,heading,pace
+Ivan Bendera,FW,R,23,UKR,7,false,false,false,finishing,heading
+Joaquinete,FW,R,28,ESP,3,true,false,false,finishing,stamina
+Carlos Rojas,FW,R,24,ESP,5,false,false,false,dribbling,pace
+Denys Golub,FW,R,22,UKR,6,false,false,false,crossing,pace
+Vadym Sydun,FW,L,21,UKR,6,true,false,false,heading,stamina
+Maksym Yevpak,FW,L,23,UKR,10,false,false,false,finishing,stamina

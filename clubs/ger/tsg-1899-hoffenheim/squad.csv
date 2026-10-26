@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Andrej Kramaric,MF,R,35,CRO,6,false,false,false,stamina,dribbling
+Alexander Prass,FB,L,25,AUT,7,true,false,false,stamina,playmaking
+Grischa Promel,MF,R,31,GER,10,false,false,false,heading,passing
+Adam Hlozek,FW,R,24,CZE,5,false,false,false,dribbling,pace
+Wouter Burger,MF,L,25,NED,6,true,false,false,stamina,pace
+Bernardo,FB,L,31,BRA,7,false,false,false,stamina,tackling
+Vladimir Coufal,FB,R,34,CZE,1,false,false,false,crossing,tackling
+Mergim Berisha,FW,R,28,GER,5,false,false,false,finishing,dribbling
+Ihlas Bebou,FW,R,32,GER,6,false,false,false,pace,dribbling
+Dennis Geiger,MF,R,28,GER,7,false,false,false,playmaking,passing
+Leon Avdullahu,MF,R,22,GER,7,true,false,false,stamina,passing
+Tim Lemperle,FW,L,24,GER,4,true,false,false,stamina,dribbling
+Kevin Akpoguma,CB,R,31,NGA,6,false,false,false,tackling,pace
+Fisnik Asllani,FW,R,24,GER,6,true,false,false,stamina,finishing
+Muhammed Damar,MF,R,22,GER,7,true,false,false,dribbling,passing
+Valentin Gendrey,FB,R,26,FRA,5,true,false,false,stamina,tackling
+Umut Tohumcu,MF,R,22,GER,6,false,false,false,passing,playmaking
+Ozan Kabak,CB,R,26,TUR,6,true,false,false,tackling,heading
+Koki Machida,CB,L,29,JPN,7,false,false,false,pace,stamina
+Arthur Chaves,CB,L,25,BRA,5,false,false,false,pace,tackling
+Robin Hranac,CB,R,26,CZE,6,false,false,false,pace,heading
+Bazoumana Toure,MF,L,20,CIV,1,true,false,false,pace,dribbling
+Luka Duric,MF,R,23,GER,5,false,false,false,passing,stamina
+Deniz Zeitler,FW,R,19,GER,6,false,false,false,pace,finishing
+Albian Hajdari,CB,L,23,SUI,7,true,false,false,stamina,tackling
+Max Moerstedt,FW,R,20,GER,2,false,false,false,finishing,heading
+David Mokwa,FW,L,22,FRA,5,false,false,false,finishing,pace
+Hennes Behrens,FB,L,21,GER,6,false,false,false,crossing,tackling
+Precious Benjamin,FW,R,19,NGA,7,false,false,false,finishing,stamina
+Kelven Frees,CB,R,21,GER,2,false,false,false,tackling,passing
+Oliver Baumann,GK,R,36,GER,6,true,false,false,reflexes,penalty-saving
+Lukas Petersson,GK,R,22,ISL,7,false,false,false,reflexes,penalty-saving
+Luca Philipp,GK,R,25,GER,5,false,false,false,reflexes,positioning

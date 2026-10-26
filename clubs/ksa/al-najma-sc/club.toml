@@ -1,0 +1,13 @@
+name = "Al-Najma SC"
+country = "KSA"
+level = 11
+reputation = 2
+colors = ["#106030", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Bilal Enezi"
+country = "BRA"

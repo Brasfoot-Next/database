@@ -1,0 +1,13 @@
+name = "Swindon Town"
+country = "ENG"
+level = 7
+reputation = 1
+colors = ["#F0F0F0", "#F00010"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Lewis Ripley"
+country = "BRA"

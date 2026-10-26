@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Diego Zivulic,MF,R,34,CRO,5,false,false,false,stamina,heading
+Conrado,FB,L,29,BRA,6,true,false,false,pace,dribbling
+João Lameira,MF,L,27,POR,7,true,false,false,stamina,passing
+João Paulo,MF,L,28,CPV,10,false,false,false,pace,tackling
+Paul Iacob,CB,L,30,ROU,4,true,false,false,tackling,marking
+Andrei Ciobanu,MF,R,28,ROU,6,true,false,false,passing,playmaking
+Pedro Nuno,MF,R,31,POR,7,true,false,false,dribbling,stamina
+Kazu,FB,L,26,BRA,1,false,false,false,pace,passing
+Andrezinho,MF,R,29,POR,5,true,false,false,pace,dribbling
+Patrick,FW,L,32,CPV,6,true,false,false,heading,finishing
+Ș. Bană,FW,R,21,ROU,5,false,false,false,pace,dribbling
+Né Lopes,CB,R,26,POR,6,true,false,false,marking,tackling
+Milen Zhelev,FB,R,33,BUL,7,true,false,false,stamina,marking
+Cristian Chira,MF,R,24,ROU,2,false,false,false,pace,passing
+Paulinho,FW,R,26,POR,5,false,false,false,finishing,pace
+Matei Frunza,MF,R,20,ROU,6,false,false,false,pace,passing
+Vadik Murria,CB,L,26,RUS,7,false,false,false,tackling,heading
+Andrei Rus,FB,R,25,ROU,2,false,false,false,pace,stamina
+Julian Bonilla,CB,L,29,COL,5,false,false,false,heading,marking
+Denis Bordun,FW,R,20,ROU,6,true,false,false,pace,dribbling
+Daniel Sandu,MF,R,19,ROU,1,false,false,false,pace,dribbling
+Dan Emilian Neicu,CB,L,23,ROU,2,false,false,false,pace,stamina
+Dan Cristian Neicu,FW,R,21,ROU,5,false,false,false,pace,finishing
+Radu Postelnicu,FW,R,18,ROU,6,false,false,false,pace,dribbling
+Cosmin Dur Bozoanca,GK,L,28,ROU,7,true,false,false,reflexes,penalty-saving
+Iustin Popescu,GK,R,33,ROU,3,false,false,false,penalty-saving,positioning
+Gabriel Ursu,GK,R,24,ROU,5,false,false,false,rushing-out,reflexes

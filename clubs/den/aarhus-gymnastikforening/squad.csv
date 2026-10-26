@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gift Links,FB,L,27,DEN,6,true,false,false,pace,stamina
+Tobias Bech,FW,L,24,DEN,8,true,false,false,stamina,pace
+Kristian Arnstad,FW,L,23,NOR,4,true,false,false,stamina,passing
+Felix Beijmo,FB,R,28,SWE,6,true,false,false,stamina,pace
+Eric Kahl,CB,L,24,SWE,6,true,false,false,pace,stamina
+Kevin Yakob,MF,R,25,IRQ,9,true,false,false,passing,playmaking
+Markus Solbakken,MF,L,26,NOR,5,true,false,false,stamina,passing
+Rasmus Carstensen,FB,R,25,DEN,6,true,false,false,stamina,pace
+Nicolai Poulsen,MF,R,33,DEN,7,true,false,false,stamina,marking
+Tobias Molgaard,CB,R,30,DEN,1,false,false,false,pace,stamina
+Henrik Dalsgaard,CB,R,37,DEN,6,false,false,false,pace,stamina
+Jacob Andersen,FB,R,22,DEN,7,false,false,false,pace,stamina
+Patrick Mortensen,FW,R,37,DEN,3,false,false,false,stamina,finishing
+Sebastian Jorgensen,FW,L,26,DEN,4,false,false,false,stamina,finishing
+Janni Serra,FW,L,28,GER,5,false,false,false,heading,pace
+Frederik Tingager,CB,R,33,DEN,6,false,false,false,heading,stamina
+Youssouph Badji,FW,R,24,SEN,8,false,false,false,pace,stamina
+Jonas Jensen Abbew,CB,R,24,DEN,4,true,false,false,pace,tackling
+Frederik Emmery,FW,L,19,DEN,5,false,false,false,pace,dribbling
+Stefen Tchamche,FW,R,20,DEN,6,false,false,false,pace,stamina
+Jesper Hansen,GK,R,41,DEN,3,false,false,false,positioning,penalty-saving
+Leopold Wahlstedt,GK,R,27,SWE,5,true,false,false,penalty-saving,reflexes
+Jonathan Hutters,GK,R,22,DEN,6,false,false,false,penalty-saving,reflexes

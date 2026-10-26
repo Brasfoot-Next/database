@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Giancarlo Schiavone,GK,R,32,VEN,5,false,false,false,positioning,penalty-saving
+Carlos González,GK,R,26,VEN,6,false,false,false,positioning,rushing-out
+Diego Ochoa,GK,R,19,VEN,7,true,false,false,positioning,penalty-saving
+Williams Velásquez,CB,R,29,VEN,4,true,false,false,tackling,marking
+Adrián Martínez,CB,L,33,VEN,4,true,false,false,tackling,heading
+Diego Rinaldi,CB,R,21,VEN,5,false,false,false,stamina,heading
+Daniel Carrillo,FB,L,30,VEN,6,false,false,false,passing,pace
+Yanniel Hernández,FB,R,29,VEN,9,true,false,false,tackling,stamina
+Yohan Cumana,FB,L,29,VEN,5,true,false,false,marking,pace
+Kendrys Silva,FB,R,32,VEN,6,false,false,false,pace,crossing
+Maicol Ruiz,FB,L,23,VEN,6,false,false,false,pace,tackling
+Román Davis,FB,R,18,VEN,1,false,false,false,pace,crossing
+Francisco Solé,MF,R,29,ARG,5,true,false,false,tackling,passing
+Alexander González,MF,R,31,PAN,6,true,false,false,playmaking,passing
+Carlos Cermeño,MF,R,30,VEN,7,true,false,false,pace,dribbling
+Vicente Rodríguez,MF,R,31,VEN,1,false,false,false,passing,stamina
+Wiliander Muñoz,MF,R,18,VEN,5,false,false,false,playmaking,dribbling
+Jose Lopez,MF,R,21,VEN,6,false,false,false,pace,crossing
+Williams Lugo,MF,L,29,VEN,7,true,false,false,passing,tackling
+Samuel Sosa,FW,R,26,VEN,2,true,false,false,dribbling,playmaking
+Daniel De Sousa,FW,R,22,VEN,6,false,false,false,dribbling,playmaking
+Yeiber Murillo,FW,R,28,VEN,7,true,false,false,finishing,heading
+Alexander Granko,FW,R,17,VEN,4,false,false,false,pace,finishing
+Juan Camilo Zapata,FW,R,32,COL,5,false,false,false,finishing,dribbling
+Roberto Sarli,FW,R,22,VEN,6,false,false,false,dribbling,pace
+Gianmarco Martínez,FW,R,19,VEN,7,false,false,false,heading,finishing

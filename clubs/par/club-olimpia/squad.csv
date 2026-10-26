@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gastón Olveira,GK,R,33,URU,6,false,false,false,rushing-out,reflexes
+Sebastián Lentinelly,GK,R,28,URU,7,true,false,false,positioning,penalty-saving
+Lucas Verza,GK,R,25,PAR,4,false,false,false,rushing-out,reflexes
+Mateo Gamarra,CB,R,25,PAR,5,true,false,false,heading,marking
+Gustavo Vargas,CB,R,24,PAR,6,false,false,false,marking,passing
+Juan Vera,CB,R,27,PAR,7,true,false,false,marking,tackling
+Bryan Bentaberry,CB,L,29,URU,4,false,false,false,pace,stamina
+Alan Rodríguez,FB,R,25,PAR,5,true,false,false,passing,crossing
+Aníbal Chalá,FB,L,30,ECU,6,false,false,false,pace,stamina
+César Olmedo,FB,R,23,PAR,7,false,false,false,pace,tackling
+Tim Payne,FB,R,32,NZL,5,true,false,false,stamina,pace
+Raúl Cáceres,FB,L,34,PAR,6,false,false,false,passing,crossing
+Richard Ortiz,MF,L,36,PAR,8,false,false,false,stamina,pace
+Richard Sánchez,MF,R,30,PAR,4,false,false,false,stamina,passing
+Juan Fernando Alfaro,MF,R,26,ARG,5,true,false,false,passing,stamina
+Alex Franco,MF,L,25,PAR,6,true,false,false,pace,passing
+Sebastián Quintana,MF,R,23,PAR,8,false,false,false,passing,tackling
+Rodrigo Pérez,MF,R,29,URU,5,true,false,false,tackling,marking
+Eduardo Delmas,MF,L,19,PAR,6,false,false,false,pace,dribbling
+Diego Torres,MF,R,23,PAR,7,true,false,false,pace,dribbling
+Rubén Lezcano,FW,R,22,PAR,5,false,false,false,finishing,dribbling
+Iván Leguizamón,FW,L,24,PAR,6,false,false,false,pace,crossing
+Romeo Benítez,FW,R,23,PAR,7,false,false,false,playmaking,finishing
+Fernando Cardozo,FW,R,25,PAR,3,true,false,false,pace,finishing
+Manuel Romero,FW,R,25,PAR,5,true,false,false,heading,finishing
+Franco Alfonso,FW,R,24,ARG,6,false,false,false,pace,dribbling
+Derlis González,FW,R,32,PAR,7,false,false,false,passing,stamina
+Adrián Alcaraz,FW,R,26,PAR,4,false,false,false,finishing,dribbling
+Sebastián Ferreira,FW,R,28,PAR,6,false,false,false,heading,pace
+Faustino Barone,FW,R,20,URU,7,false,false,false,dribbling,playmaking
+Hugo Adrián Benítez,FW,R,22,PAR,5,false,false,false,finishing,pace
+Braian Romero,FW,R,35,ARG,6,false,false,false,stamina,pace
+Hugo Sandoval,FW,R,26,PAR,7,false,false,false,crossing,pace

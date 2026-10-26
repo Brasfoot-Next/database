@@ -1,0 +1,13 @@
+name = "Henan FC"
+country = "CHN"
+level = 9
+reputation = 2
+colors = ["#308040", "#D0D0D0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Niu Xingxian"
+country = "BRA"

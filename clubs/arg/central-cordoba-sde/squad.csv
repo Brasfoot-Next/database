@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jose Florentin,MF,L,30,PAR,5,true,false,false,stamina,heading
+Braian Cufre,FB,L,29,ARG,6,true,false,false,stamina,pace
+Ivan Gomez,FW,R,29,ARG,6,true,false,false,stamina,passing
+Cristian Vega,MF,L,32,ARG,7,false,false,false,stamina,passing
+Leonardo Heredia,FW,R,30,ARG,2,true,false,false,stamina,playmaking
+Jonathan Galvan,CB,R,34,ARG,5,false,false,false,stamina,heading
+Ivan Pillud,FB,R,40,ARG,6,false,false,false,crossing,marking
+Gaston Veron,MF,R,25,ARG,7,true,false,false,dribbling,passing
+Sebastian Cristoforo,MF,R,33,URU,3,true,false,false,passing,tackling
+Matias Vera,MF,R,30,ARG,5,false,false,false,stamina,tackling
+David Zalazar,FW,R,24,ARG,1,false,false,false,pace,passing
+Matias Godoy,FW,L,24,ARG,5,false,false,false,pace,stamina
+Franco Alfonso,FW,R,24,ARG,6,false,false,false,pace,dribbling
+Leonardo Marchi,FB,L,29,ARG,7,false,false,false,pace,stamina
+Fernando Juarez,MF,R,28,ARG,2,true,false,false,passing,playmaking
+Matias Perello,FW,R,24,ARG,5,false,false,false,dribbling,finishing
+Juan Pablo Pignani,CB,R,25,ARG,6,false,false,false,stamina,passing
+Lucas Besozzi,FW,L,23,ARG,7,false,false,false,dribbling,pace
+Santiago Moyano,FB,R,28,ARG,2,true,false,false,pace,tackling
+Lucas Varaldo,FW,R,24,ARG,5,false,false,false,heading,finishing
+Facundo Mansilla,CB,L,27,ARG,7,true,false,false,tackling,marking
+Fernando Martinez,FB,R,26,ARG,4,false,false,false,tackling,dribbling
+Favio Cabral,FW,R,25,ARG,5,false,false,false,heading,finishing
+Diego Barrera,FW,R,22,ARG,6,false,false,false,dribbling,pace
+Gonzalo Trindade,FB,L,22,ARG,8,false,false,false,pace,crossing
+Lucas Abascia,CB,R,30,ARG,4,true,false,false,heading,tackling
+Nazareno Funez,FW,R,25,ARG,5,false,false,false,finishing,heading
+Ignacio Galvan Vittar,CB,R,22,ARG,6,false,false,false,tackling,marking
+Yuri Casermeiro,CB,R,24,ARG,10,false,false,false,marking,tackling
+Alan Aguerre,GK,R,36,ARG,4,true,false,false,reflexes,penalty-saving
+Juan Pablo Zozaya,GK,R,25,ARG,1,false,false,false,reflexes,positioning
+Javier Vallejos,GK,R,23,ARG,3,false,false,false,rushing-out,penalty-saving
+Lautaro Bursich,GK,R,23,ARG,5,false,false,false,penalty-saving,positioning

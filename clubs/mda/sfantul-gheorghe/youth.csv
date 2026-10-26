@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ramiz Vicol,GK,L,18,MDA,5,false,false,false,rushing-out,penalty-saving
+Dorel Rusnac,GK,R,16,MDA,4,false,false,false,penalty-saving,reflexes
+Amir Vieru,FB,L,16,MDA,6,false,false,false,crossing,passing
+Nicholas Donici,FB,R,18,MDA,2,false,false,false,marking,crossing
+Yahya Oprea,FB,L,17,MDA,9,false,false,false,crossing,pace
+Silas Cretu,CB,R,16,MDA,8,false,false,false,heading,marking
+Darian Ungureanu,CB,L,18,MDA,3,false,false,false,stamina,tackling
+Grigore Cazacu,CB,R,19,MDA,7,false,false,false,tackling,heading
+Artiom Carastoian,MF,L,19,MDA,9,true,false,false,passing,pace
+Dumitru Reniță,MF,R,19,MDA,10,true,false,false,playmaking,finishing
+Tigran Diacov,MF,L,18,MDA,2,false,false,false,marking,tackling
+Elard Turcan,MF,R,17,MDA,2,false,false,false,tackling,passing
+Nelu Cebanu,FW,L,16,MDA,7,false,false,false,finishing,passing
+Sergiu Istrati,FW,R,19,MDA,9,false,false,false,stamina,finishing
+Efim Pascal,FW,L,17,MDA,2,false,false,false,finishing,pace

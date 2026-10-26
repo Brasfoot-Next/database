@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Moustapha Diatta,GK,L,23,SEN,6,false,false,false,reflexes,penalty-saving
+Alfred Gomis,GK,R,22,SEN,7,false,false,false,rushing-out,positioning
+Assimboulol Badiane,GK,R,25,SEN,2,true,false,false,positioning,rushing-out
+Pape Moussa Sène,GK,L,25,SEN,5,false,false,false,reflexes,rushing-out
+Léon Ndong,CB,R,20,SEN,6,false,false,false,heading,stamina
+Leopold Badji,CB,R,29,SEN,7,true,false,false,marking,heading
+Daouda Signaté,CB,R,25,SEN,3,true,false,false,heading,passing
+Seydou Bodian,CB,L,25,SEN,5,false,false,false,heading,tackling
+Bonaparte Mendes,CB,R,25,SEN,6,false,false,false,marking,heading
+Omar Diouf,CB,R,25,SEN,7,false,false,false,heading,stamina
+Mohamed Camara,CB,R,21,SEN,7,false,false,false,passing,marking
+Elhadji Badji,FB,R,26,SEN,2,true,false,false,stamina,pace
+Mamadou Coly,FB,R,25,SEN,5,false,false,false,dribbling,pace
+Pierre Lopy,FB,L,26,SEN,6,false,false,false,tackling,stamina
+Woula Sané,FB,L,24,SEN,7,false,false,false,stamina,pace
+Waly Kamara,FB,R,25,SEN,2,false,false,false,passing,pace
+Pascal Napel,FB,R,25,SEN,4,false,false,false,passing,pace
+Ibrahima Sano,FB,R,27,SEN,5,true,false,false,crossing,pace
+Khalifa Ba,MF,R,22,SEN,6,true,false,false,dribbling,passing
+Landing Diatta,MF,R,25,SEN,7,true,false,false,passing,playmaking
+Ibrahima Kouyaté,MF,R,21,SEN,6,false,false,false,dribbling,passing
+Yaya Sané,MF,R,24,SEN,8,true,false,false,tackling,marking
+Mamadou Mané,MF,R,20,SEN,4,false,false,false,passing,stamina
+Abdou Sylla,MF,L,25,SEN,6,true,false,false,tackling,passing
+Malick Sambou,MF,R,20,SEN,7,false,false,false,tackling,marking
+Pape Sané,FW,R,18,SEN,10,false,false,false,finishing,stamina
+Aliou Diémé,FW,R,20,SEN,5,false,false,false,heading,pace
+Boubacar Coly,FW,L,21,SEN,5,false,false,false,crossing,pace
+Aliou Sané,FW,L,25,SEN,6,true,false,false,heading,pace
+Mouhamed Seck,FW,R,25,SEN,7,true,false,false,finishing,heading
+Paul Diagne,FW,R,25,SEN,5,false,false,false,finishing,dribbling
+Sulayman Faal,FW,R,25,SEN,6,false,false,false,heading,finishing

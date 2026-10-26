@@ -1,0 +1,13 @@
+name = "Dynamo Moscow"
+country = "RUS"
+level = 19
+reputation = 4
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Milan Chávez"
+country = "BRA"

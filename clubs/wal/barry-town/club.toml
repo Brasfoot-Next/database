@@ -1,0 +1,13 @@
+name = "Barry Town"
+country = "WAL"
+level = 13
+reputation = 2
+colors = ["#ffffff", "#006633"]
+
+[stadium]
+name = "Jenner Park"
+capacity = 2900
+
+[coach]
+name = "Gavin Chesterfield"
+country = "WAL"

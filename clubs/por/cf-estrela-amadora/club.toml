@@ -1,0 +1,13 @@
+name = "CF Estrela Amadora"
+country = "POR"
+level = 14
+reputation = 3
+colors = ["#F0F0F0", "#308040"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Luan Lekovic"
+country = "BRA"

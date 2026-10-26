@@ -1,0 +1,14 @@
+name = "Racing Club"
+country = "ARG"
+level = 16
+reputation = 3
+colors = ["#00A0E0", "#FFFFFF"]
+rivals = ["arg/independiente"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Gonzalo Cambeses"
+country = "BRA"

@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Dong-jun Kim,GK,R,31,KOR,7,true,false,false,reflexes,penalty-saving
+Chan-gi An,GK,R,28,KOR,1,false,false,false,positioning,rushing-out
+Ja-ung Heo,GK,R,28,KOR,5,false,false,false,positioning,rushing-out
+Jae-won Heo,GK,R,18,KOR,6,false,false,false,positioning,rushing-out
+Seung-min Joo,GK,R,20,KOR,7,false,false,false,rushing-out,positioning
+Tobias Figueiredo,CB,R,32,POR,2,true,false,false,tackling,pace
+Julien Célestine,CB,L,29,FRA,5,true,false,false,stamina,heading
+Jae-woo Kim,CB,R,28,KOR,6,false,false,false,pace,stamina
+Chang-woo Rim,CB,R,34,KOR,7,false,false,false,stamina,pace
+Gi-min Kwon,CB,L,20,KOR,2,false,false,false,heading,marking
+Kang-jun Heo,CB,R,24,KOR,7,false,false,false,heading,marking
+Ryun-sung Kim,FB,L,24,KOR,3,true,false,false,pace,stamina
+In-soo Yu,FB,L,31,KOR,5,true,false,false,stamina,pace
+Woon Jeong,FB,L,37,KOR,6,false,false,false,heading,pace
+In-jung Jo,FB,L,20,KOR,7,false,false,false,pace,stamina
+Min-jae Park,FB,R,20,KOR,3,false,false,false,crossing,pace
+Min-gyu Jang,MF,R,27,KOR,5,true,false,false,stamina,tackling
+Italo,MF,L,29,BRA,7,true,false,false,stamina,dribbling
+Geon-ung Kim,MF,R,28,KOR,2,true,false,false,passing,finishing
+Chang-min Lee,MF,R,32,KOR,5,false,false,false,stamina,playmaking
+Jae-hyeok Oh,MF,R,24,KOR,7,false,false,false,stamina,dribbling
+Jae-min Kim,MF,R,23,KOR,1,false,false,false,stamina,passing
+Tae-hee Nam,MF,R,35,KOR,5,true,false,false,pace,stamina
+Chang-jun Park,FW,R,29,KOR,6,false,false,false,heading,pace
+Ian Kim,FW,L,27,KOR,7,false,false,false,heading,stamina
+Emerson Negueba,FW,R,25,BRA,2,true,false,false,pace,crossing
+Jun-ha Kim,FW,R,20,KOR,5,true,false,false,pace,dribbling
+Chang-hoon Kwon,FW,L,32,KOR,6,false,false,false,pace,dribbling
+Byung-wook Choi,FW,R,21,KOR,10,false,false,false,pace,dribbling
+Sang-eun Shin,FW,R,27,KOR,4,false,false,false,pace,stamina
+Matheus Aiás,FW,R,29,BRA,6,false,false,false,pace,dribbling
+Shin-jin Kim,FW,R,25,KOR,7,false,false,false,stamina,pace

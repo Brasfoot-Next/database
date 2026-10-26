@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Zakaria Bouhalfaya,GK,R,28,ALG,6,true,false,false,rushing-out,positioning
+Abdelmalek Necir,GK,R,34,ALG,10,false,false,false,positioning,penalty-saving
+Oussama Mellala,GK,R,22,ALG,5,false,false,false,reflexes,penalty-saving
+Moussa Benzaid,CB,L,27,ALG,6,true,false,false,marking,tackling
+Yacine Zeghad,CB,R,24,ALG,7,false,false,false,heading,tackling
+Ahmed Ait Abdesslem,CB,R,28,ALG,1,true,false,false,marking,heading
+Imad Eddine Benmoussa,CB,R,21,ALG,3,false,false,false,tackling,stamina
+Abdelmoumen Chikhi,FB,L,30,ALG,5,true,false,false,marking,crossing
+Abderrahmane Benadla,FB,L,21,ALG,6,true,false,false,dribbling,pace
+Oussama Meddahi,FB,L,35,ALG,7,false,false,false,passing,pace
+Djihad Bizimana,MF,R,29,ALG,8,true,false,false,dribbling,pace
+Miloud Rebiai,MF,R,32,ALG,4,false,false,false,finishing,passing
+Mohamed Islam Bakir,MF,R,30,ALG,5,true,false,false,dribbling,playmaking
+Mostafa Berkane,MF,R,23,ALG,6,true,false,false,pace,dribbling
+Brahim Dib,MF,R,33,ALG,1,false,false,false,passing,tackling
+Nassim L'Ghoul,MF,L,28,ALG,4,true,false,false,finishing,passing
+Fethallah Tahar,MF,R,32,ALG,5,false,false,false,playmaking,finishing
+Aimen Abdelaziz Lahmeri,FW,R,30,ALG,7,false,false,false,heading,pace
+Dadi El Hocine Mouaki,FW,L,29,ALG,1,true,false,false,heading,stamina
+Oualaa Moundhir Bouzekri,FW,R,24,ALG,5,false,false,false,dribbling,pace
+Yawo Agbagno,FW,L,26,ALG,7,true,false,false,finishing,heading
+Hamid Djaouchi,FW,R,31,ALG,4,false,false,false,finishing,heading
+Ouadjih Khelfaoui,FW,L,21,ALG,5,false,false,false,playmaking,finishing
+Hatem Grine,FW,R,20,ALG,6,false,false,false,pace,dribbling

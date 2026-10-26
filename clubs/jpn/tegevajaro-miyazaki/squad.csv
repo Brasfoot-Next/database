@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ryoya Kimura,GK,R,23,JPN,6,true,false,false,positioning,penalty-saving
+Shu Mogi,GK,L,27,JPN,8,false,false,false,positioning,reflexes
+Kenta Matsuyama,GK,L,27,JPN,4,false,false,false,reflexes,positioning
+Aoto Tokuwaka,GK,R,23,JPN,5,false,false,false,rushing-out,reflexes
+Takashi Abe,CB,R,29,JPN,6,false,false,false,tackling,pace
+Kengo Kuroki,CB,L,27,JPN,8,true,false,false,heading,marking
+Hikaru Manabe,CB,R,28,JPN,4,true,false,false,passing,marking
+Yota Shimokawa,FB,R,30,JPN,4,false,false,false,tackling,pace
+Seitaro Tanaka,FB,L,23,JPN,5,false,false,false,passing,crossing
+Shigeo Miyawaki,FB,L,24,JPN,6,false,false,false,crossing,pace
+Eisuke Watanabe,FB,L,26,JPN,7,true,false,false,passing,crossing
+Yuma Matsumoto,FB,L,26,JPN,3,true,false,false,pace,crossing
+Ren Motoki,FB,L,18,JPN,5,false,false,false,tackling,marking
+Shunya Sakai,MF,R,22,JPN,6,false,false,false,passing,tackling
+Kenta Okuma,MF,R,29,JPN,7,true,false,false,passing,finishing
+Toshiki Kawai,MF,L,23,JPN,3,false,false,false,dribbling,pace
+Mahiro Ano,MF,R,22,JPN,5,false,false,false,pace,crossing
+Soichiro Tsutsumi,MF,R,24,JPN,6,false,false,false,pace,crossing
+Keita Nakano,MF,R,23,JPN,7,false,false,false,pace,crossing
+Yoko Iesaka,MF,L,23,JPN,3,false,false,false,pace,crossing
+Koji Okumura,MF,L,27,JPN,7,true,false,false,passing,finishing
+Riku Yamauchi,MF,R,26,JPN,1,true,false,false,pace,dribbling
+Ren Inoue,MF,R,25,JPN,5,true,false,false,finishing,playmaking
+Kaiga Murakoshi,MF,R,24,JPN,6,false,false,false,tackling,marking
+Yusei Toshida,FW,L,26,JPN,7,true,false,false,dribbling,pace
+Ken Tshizanga Matsumoto,FW,R,24,JPN,2,false,false,false,pace,finishing
+Keigo Hashimoto,FW,R,27,JPN,5,true,false,false,finishing,pace

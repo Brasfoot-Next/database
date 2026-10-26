@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gabriel Átila,GK,R,23,BRA,5,false,false,false,rushing-out,reflexes
+Helton Leite,GK,R,35,BRA,6,true,false,false,penalty-saving,reflexes
+Dalberson,GK,R,29,BRA,8,false,false,false,reflexes,penalty-saving
+Caio Marcelo,CB,L,28,BRA,4,true,false,false,pace,heading
+Anderson,CB,R,28,BRA,5,true,false,false,stamina,pace
+Tiago Pagnussat,CB,R,36,BRA,6,false,false,false,marking,heading
+Breno Bora,CB,R,24,BRA,7,false,false,false,marking,heading
+Higor,FB,L,21,BRA,2,false,false,false,marking,crossing
+Willian Formiga,FB,L,31,BRA,5,false,false,false,tackling,stamina
+Igor Cariús,FB,L,33,BRA,6,true,false,false,crossing,pace
+Hayner,FB,L,30,BRA,5,true,false,false,tackling,pace
+Higor Meritão,MF,R,32,BRA,6,true,false,false,pace,dribbling
+Willian Maranhão,MF,L,30,BRA,7,false,false,false,tackling,marking
+João Vieira,MF,L,28,BRA,1,true,false,false,passing,stamina
+Dudu,MF,L,24,BRA,5,false,false,false,marking,passing
+Nathan Camargo,MF,L,20,BRA,6,false,false,false,stamina,tackling
+Enzo,MF,R,23,BRA,7,false,false,false,passing,stamina
+Luiz Henrique,MF,L,21,BRA,2,true,false,false,passing,stamina
+Bruno Xavier,MF,R,29,BRA,5,true,false,false,stamina,passing
+Marquinhos Gabriel,MF,R,35,BRA,6,false,false,false,pace,dribbling
+Ryan,FW,R,25,BRA,4,false,false,false,pace,dribbling
+Emerson Urso,FW,R,25,BRA,5,false,false,false,dribbling,playmaking
+Dodô,FW,L,31,BRA,6,true,false,false,finishing,pace
+Janderson,FW,L,27,BRA,7,true,false,false,heading,finishing
+André Luis,FW,R,32,BRA,4,false,false,false,pace,finishing
+Dellatorre,FW,R,34,BRA,5,false,false,false,heading,stamina
+Gustavo Puskas,FW,R,18,BRA,6,false,false,false,crossing,pace
+Rafa Silva,FW,R,34,BRA,8,false,false,false,playmaking,finishing
+Caíque,FW,R,25,BRA,4,false,false,false,dribbling,playmaking

@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Cristian Casseres Jr,MF,L,26,VEN,6,true,false,false,stamina,tackling
+Aron Donnum,FW,L,28,NOR,6,false,false,false,stamina,pace
+Djibril Sidibe,CB,R,34,FRA,7,false,false,false,marking,tackling
+Niklas Schmidt,MF,R,28,GER,5,true,false,false,dribbling,playmaking
+Abu Francis,MF,R,25,GHA,6,true,false,false,passing,pace
+Warren Kamanzi,FB,R,25,NOR,7,true,false,false,pace,stamina
+Yann Gboho,FW,L,25,FRA,4,true,false,false,dribbling,pace
+Mario Sauer,MF,R,22,SVK,6,false,false,false,stamina,dribbling
+Frank Magri,FW,R,27,CMR,6,false,false,false,pace,finishing
+Santiago Hidalgo,FW,L,21,ARG,7,false,false,false,pace,dribbling
+Rasmus Nicolaisen,CB,L,29,DEN,6,false,false,false,heading,tackling
+Mark Mckenzie,CB,R,27,USA,7,true,false,false,pace,tackling
+Emersonn,FW,R,22,BRA,2,false,false,false,pace,dribbling
+Noah Lahmadi,MF,R,21,FRA,5,false,false,false,passing,playmaking
+Rafik Messali,FB,R,23,ALG,6,true,false,false,pace,passing
+Alexis Vossah,MF,L,18,FRA,7,true,false,false,tackling,passing
+Julian Vignolo,FW,R,19,ARG,4,false,false,false,pace,finishing
+Darris Zema,FW,L,19,ALG,5,false,false,false,dribbling,pace
+Dayann Methalie,FW,L,20,FRA,6,true,false,false,tackling,passing
+Charlie Cresswell,CB,R,24,ENG,7,true,false,false,tackling,heading
+Noah Edjouma,FW,R,20,FRA,1,false,false,false,dribbling,pace
+Ilyas Azizi,FW,L,18,FRA,5,false,false,false,pace,dribbling
+Enzo Faty,FW,R,19,FRA,6,false,false,false,pace,heading
+Frederic Efuele Ngoyala,CB,R,21,COD,7,false,false,false,tackling,heading
+Gaetan Bakhouche,CB,L,21,FRA,2,false,false,false,pace,tackling
+Nicolas Wasbauer,CB,R,22,FRA,5,false,false,false,tackling,passing
+Seny Koumbassa,CB,R,19,FRA,6,false,false,false,heading,tackling
+Guillaume Restes,GK,L,21,FRA,7,true,false,false,reflexes,penalty-saving
+Kjetil Haug,GK,R,28,NOR,4,false,false,false,reflexes,penalty-saving
+Álex Domínguez,GK,R,28,ESP,6,false,false,false,reflexes,penalty-saving
+Naime Said Mchindra,GK,R,21,FRA,9,false,false,false,reflexes,penalty-saving

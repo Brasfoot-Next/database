@@ -1,0 +1,19 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Hugo Boumous,MF,R,31,MAR,7,false,false,false,pace,playmaking
+Lalthathanga Khawlhring,MF,L,28,IND,3,true,false,false,passing,stamina
+Hitesh Sharma,MF,L,28,IND,5,true,false,false,stamina,pace
+Rahul Praveen,FW,R,26,IND,6,true,false,false,pace,dribbling
+Carlos Delgado,CB,L,36,ESP,7,false,false,false,stamina,tackling
+Moirangthem Thoiba Singh,CB,R,23,IND,3,true,false,false,stamina,pace
+Tankadhar Bag,FB,R,22,IND,6,true,false,false,stamina,tackling
+Saviour Gama,FB,L,29,IND,7,true,false,false,stamina,pace
+Rahim Ali,FW,L,26,IND,2,true,false,false,pace,finishing
+Rohit Kumar,MF,R,29,IND,5,true,false,false,stamina,passing
+Isak Vanlalruatfela,FW,L,25,IND,4,false,false,false,pace,passing
+Narender Gahlot,CB,R,25,IND,5,true,false,false,stamina,pace
+Lalrinfela Khiangte,MF,R,26,IND,6,true,false,false,stamina,pace
+Narendra Naik,MF,R,21,IND,8,false,false,false,passing,pace
+Ashangbam Singh Singh,FW,R,22,IND,4,false,false,false,pace,stamina
+Amrinder Singh,GK,R,33,IND,5,true,false,false,positioning,penalty-saving
+Kamaljit Singh,GK,R,30,IND,6,false,false,false,reflexes,penalty-saving
+Anuj Kumar,GK,R,28,IND,8,false,false,false,reflexes,penalty-saving

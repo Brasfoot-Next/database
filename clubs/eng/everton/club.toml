@@ -1,0 +1,13 @@
+name = "Everton"
+country = "ENG"
+level = 19
+reputation = 4
+colors = ["#003090", "#FFFFFF"]
+
+[stadium]
+name = "Hill Dickinson Stadium"
+capacity = 52769
+
+[coach]
+name = "Vitaliy Rohl"
+country = "BRA"

@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ngolo Kante,MF,R,35,FRA,7,true,true,false,tackling,stamina
+Karim Benzema,FW,R,38,FRA,9,true,true,false,playmaking,heading
+Fabinho,MF,L,32,BRA,5,true,false,false,passing,tackling
+Houssem Aouar,MF,R,28,ALG,6,true,false,false,dribbling,passing
+Steven Bergwijn,FW,L,28,NED,7,false,false,false,dribbling,passing
+Moussa Diaby,FW,L,27,FRA,9,true,false,false,pace,dribbling
+Danilo Pereira,CB,L,34,POR,5,true,false,false,heading,marking
+Roger Fernandes,FW,L,20,POR,6,false,false,false,pace,dribbling
+Mahamadou Doumbia,MF,R,22,MLI,7,true,false,false,dribbling,passing
+Hassan Kadish,FB,L,33,KSA,6,false,false,false,stamina,pace
+Faisal Al Ghamdi,MF,R,25,KSA,6,false,false,false,stamina,dribbling
+Bryant Ortega,MF,R,23,VEN,6,false,false,false,stamina,passing
+Abdulrahman Al Obud,FW,R,31,KSA,7,false,false,false,pace,dribbling
+Muhannad Al Shanqeeti,FB,R,27,KSA,1,false,false,false,pace,stamina
+Fawaz Al Sagour,FB,R,30,KSA,6,false,false,false,stamina,pace
+Ahmed Sharahili,CB,L,32,KSA,6,false,false,false,heading,stamina
+Hamed Al Ghamdi,MF,R,27,KSA,7,false,false,false,dribbling,pace
+Mario Mitaj,FB,L,23,ALB,2,true,false,false,pace,stamina
+Abdulaziz Al Bishi,FW,L,32,KSA,6,false,false,false,pace,dribbling
+Ahmed Al Ghamdi,FW,L,24,KSA,7,false,false,false,pace,dribbling
+Saleh Al Shehri,FW,R,32,KSA,5,false,false,false,heading,finishing
+Muath Faqihi,FB,L,24,KSA,6,false,false,false,pace,stamina
+Saad Al Mousa,CB,R,23,KSA,7,false,false,false,tackling,stamina
+Jan Carlo Simic,CB,R,21,SRB,9,true,false,false,tackling,marking
+Awadh Al Nashri,MF,R,24,KSA,5,false,false,false,stamina,tackling
+Ahmed Al Julaydan,FB,R,22,KSA,6,true,false,false,stamina,pace
+Mohammed Barnawi,CB,R,21,KSA,7,false,false,false,pace,stamina
+Abdulrahman Al Obaid,CB,R,22,KSA,9,false,false,false,pace,heading
+Predrag Rajkovic,GK,R,30,SRB,5,true,false,false,reflexes,positioning
+Osama Al Mermesh,GK,R,23,KSA,7,false,false,false,reflexes,penalty-saving
+Hamed Al Shanqeeti,GK,L,21,KSA,4,false,false,false,penalty-saving,reflexes
+Mohammed Al Absi,GK,R,23,KSA,6,false,false,false,penalty-saving,positioning

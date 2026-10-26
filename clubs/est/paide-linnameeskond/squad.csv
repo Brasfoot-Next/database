@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mattias Sapp,GK,L,21,EST,6,false,false,false,reflexes,positioning
+Mihkel Aksalu,GK,R,37,EST,8,true,false,false,penalty-saving,reflexes
+Ebrima Jarju,GK,R,24,GAM,9,false,false,false,reflexes,positioning
+Joseph Saliste,FB,L,27,EST,8,true,false,false,finishing,pace
+Hindrek Ojamaa,FB,R,27,EST,2,true,false,false,crossing,pace
+Abdul Yusif,CB,L,20,GHA,3,true,false,false,tackling,marking
+Kristjan Pelt,CB,R,21,EST,5,true,false,false,tackling,marking
+Ragnar Klavan,CB,R,36,EST,4,false,false,false,tackling,heading
+Rasmus Kallas,CB,L,18,EST,1,false,false,false,tackling,heading
+Kevor Palumets,MF,L,19,EST,2,true,false,false,finishing,passing
+Karl Mööl,MF,L,30,EST,10,true,false,false,marking,pace
+Andre Frolov,MF,R,34,EST,7,true,false,false,tackling,marking
+Sergei Mosnikov,MF,R,34,EST,4,false,false,false,marking,finishing
+Herol Riiberg,MF,L,25,EST,7,false,false,false,playmaking,finishing
+Marten Kelement,MF,L,18,EST,7,false,false,false,playmaking,passing
+Dominique Simon,MF,R,21,FRA,8,true,false,false,tackling,pace
+Owusu-Sekyere,FW,L,22,NED,1,true,false,false,dribbling,playmaking
+Siim Luts,FW,R,33,EST,5,true,false,false,finishing,pace
+Edgar Tur,FW,R,25,EST,3,false,false,false,playmaking,finishing
+Kaimar Saag,FW,L,33,EST,4,false,false,false,finishing,pace

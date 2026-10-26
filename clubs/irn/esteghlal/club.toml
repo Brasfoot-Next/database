@@ -1,0 +1,13 @@
+name = "Esteghlal"
+country = "IRN"
+level = 16
+reputation = 3
+colors = ["#ffffff", "#00338f"]
+
+[stadium]
+name = "Ghadir"
+capacity = 39800
+
+[coach]
+name = "Ricardo Sá"
+country = "POR"

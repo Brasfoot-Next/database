@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Romain Perraud,FB,L,28,FRA,6,true,false,false,stamina,crossing
+Thomas Meunier,FB,R,34,BEL,7,false,false,false,heading,crossing
+Benjamin Andre,MF,R,36,FRA,9,false,false,false,stamina,tackling
+Nabil Bentaleb,MF,L,31,ALG,5,true,false,false,passing,playmaking
+Hakon Arnar Haraldsson,MF,R,23,ISL,6,true,false,false,stamina,dribbling
+Tiago Santos,FB,R,24,POR,7,true,false,false,pace,dribbling
+André Gomes,MF,R,33,POR,9,false,false,false,playmaking,passing
+Olivier Giroud,FW,L,39,FRA,5,false,false,false,heading,finishing
+Calvin Verdonk,FB,L,29,IDN,6,false,false,false,pace,tackling
+Ayyoub Bouaddi,MF,L,18,FRA,7,true,false,false,passing,playmaking
+Aissa Mandi,CB,R,34,ALG,7,false,false,false,heading,tackling
+Ngalayel Mukau,MF,L,21,COD,1,false,false,false,passing,stamina
+Félix Correia,FW,L,25,POR,6,false,false,false,pace,stamina
+Chancel Mbemba,CB,R,32,COD,6,false,false,false,tackling,heading
+Hamza Igamane,FW,R,23,MAR,8,true,false,false,pace,dribbling
+Matias Fernandez Pardo,FW,R,21,ESP,2,true,false,false,pace,dribbling
+Osame Sahraoui,FW,L,25,MAR,6,false,false,false,dribbling,pace
+Ugo Raghouber,MF,L,23,FRA,6,false,false,false,dribbling,passing
+Ethan Mbappe,MF,L,19,FRA,7,true,false,false,pace,passing
+Alexsandro,CB,L,27,BRA,8,true,false,false,tackling,heading
+Marius Broholm,FW,L,21,NOR,7,false,false,false,stamina,pace
+Nathan Ngoy,CB,R,23,BEL,9,true,false,false,pace,tackling
+Maxima Goffi,CB,R,18,FRA,5,false,false,false,pace,tackling
+Trevis Dago,FW,R,21,FRA,6,false,false,false,pace,finishing
+Rafael Fernandes,CB,R,24,POR,7,false,false,false,tackling,heading
+Ousmane Toure,CB,R,21,FRA,9,false,false,false,pace,tackling
+Berke Ozer,GK,R,26,TUR,5,true,false,false,reflexes,penalty-saving
+Arnaud Bodart,GK,R,28,BEL,6,false,false,false,penalty-saving,positioning
+Marc Aurele Caillard,GK,R,32,FRA,6,false,false,false,positioning,reflexes

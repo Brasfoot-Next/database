@@ -1,0 +1,13 @@
+name = "Carrarese"
+country = "ITA"
+level = 11
+reputation = 2
+colors = ["#F0F000", "#0060A0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Luis Torregrossa"
+country = "BRA"

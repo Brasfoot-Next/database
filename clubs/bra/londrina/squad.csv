@@ -1,0 +1,39 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mauricio Kozlinski,GK,R,35,BRA,5,false,false,false,reflexes,positioning
+Luan Ribeiro,GK,R,29,BRA,6,true,false,false,rushing-out,reflexes
+Zanella,GK,L,22,BRA,7,false,false,false,penalty-saving,reflexes
+Heron,CB,R,25,BRA,3,true,false,false,marking,tackling
+Gabriel Lacerda,CB,R,26,BRA,5,true,false,false,passing,marking
+Yago Lincoln,CB,R,23,BRA,6,false,false,false,marking,tackling
+Wallace,CB,R,38,BRA,7,false,false,false,tackling,heading
+Caio,CB,R,21,BRA,7,false,false,false,marking,passing
+Kevyn,FB,L,28,BRA,3,false,false,false,stamina,crossing
+Rafael Monteiro,FB,R,22,BRA,5,false,false,false,marking,crossing
+Artur,FB,L,30,BRA,9,false,false,false,stamina,tackling
+Rafael Soares,FB,R,21,BRA,4,false,false,false,tackling,stamina
+André Dhominique,FB,L,22,BRA,6,true,false,false,passing,pace
+Weverton,FB,R,27,BRA,7,true,false,false,passing,crossing
+Nino Paraíba,FB,L,31,BRA,1,false,false,false,crossing,passing
+Kauê Leonardo,FB,R,21,BRA,5,false,false,false,dribbling,pace
+Chumbinho,MF,L,22,BRA,6,false,false,false,playmaking,passing
+André Luiz,MF,R,30,BRA,7,true,false,false,passing,playmaking
+Fabiano,MF,R,21,BRA,1,false,false,false,tackling,marking
+Tarik,MF,L,33,BRA,5,false,false,false,dribbling,pace
+João Tavares,MF,R,22,BRA,6,false,false,false,dribbling,pace
+André Cardoso,MF,R,23,BRA,7,true,false,false,marking,passing
+Murilo Chico,MF,R,21,BRA,1,false,false,false,stamina,passing
+João Vitor,MF,L,28,BRA,5,true,false,false,tackling,passing
+Lucas Marques,MF,R,31,BRA,6,false,false,false,tackling,marking
+Thalis,MF,R,30,BRA,7,true,false,false,finishing,passing
+Caio Rafael,MF,R,22,BRA,1,false,false,false,playmaking,finishing
+Paulinho Moccelin,FW,R,32,BRA,5,false,false,false,heading,finishing
+Caio Maia,FW,L,21,BRA,6,false,false,false,finishing,pace
+Juninho,FW,R,20,BRA,7,false,false,false,heading,pace
+Raí Nascimento,FW,R,28,BRA,5,true,false,false,dribbling,pace
+Athyrson,FW,R,22,BRA,6,false,false,false,finishing,pace
+Fabricio,FW,R,22,BRA,7,true,false,false,finishing,pace
+Vitor Jacaré,FW,R,26,BRA,4,false,false,false,finishing,pace
+Vitinho Mota,FW,L,22,BRA,5,false,false,false,dribbling,playmaking
+Pablo Dyego,FW,R,32,BRA,6,false,false,false,pace,crossing
+Emiliano Rodríguez,FW,L,23,URU,8,false,false,false,pace,playmaking
+Gilberto,FW,L,37,BRA,4,false,false,false,finishing,dribbling

@@ -1,0 +1,20 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Aleksandar Karadzic,GK,L,21,MNE,10,true,false,false,penalty-saving,reflexes
+Rajko Boljevic,GK,R,19,MNE,4,false,false,false,positioning,penalty-saving
+Djordjije Vukcevic,FB,R,25,MNE,6,true,false,false,marking,pace
+Saša Stanić,FB,L,24,MNE,1,true,false,false,marking,pace
+Damir Cook,FB,R,19,MNE,1,false,false,false,finishing,pace
+Amel Tuzovic,CB,L,27,MNE,2,true,false,false,heading,stamina
+Nemanja Djurovic,CB,R,21,MNE,2,true,false,false,marking,pace
+Sreten Perunicic,CB,R,20,MNE,5,false,false,false,heading,stamina
+Rifat Stojanović,CB,L,24,MNE,6,false,false,false,marking,pace
+Ryo Tachibana,MF,L,25,JPN,2,true,false,false,finishing,passing
+Filip Kalacevic,MF,R,28,MNE,5,true,false,false,finishing,passing
+Vojislav Šišević,MF,R,24,MNE,3,true,false,false,finishing,passing
+Jovan Djukic,MF,R,19,MNE,6,true,false,false,playmaking,pace
+Željko Šoškić,MF,R,19,MNE,5,false,false,false,marking,finishing
+Filip Popović,MF,L,20,MNE,7,false,false,false,tackling,marking
+Aldin Mitrović,MF,R,21,MNE,4,false,false,false,marking,finishing
+Igor Kukulicic,FW,R,21,MNE,10,true,false,false,finishing,dribbling
+Božo Osmajlić,FW,R,28,MNE,3,true,false,false,pace,finishing
+Radovan Jovović,FW,L,26,MNE,6,false,false,false,pace,finishing

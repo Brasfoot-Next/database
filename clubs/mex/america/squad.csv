@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Óscar Jiménez,GK,R,33,MEX,7,false,false,false,rushing-out,penalty-saving
+Guillermo Ochoa,GK,L,37,MEX,6,true,false,false,penalty-saving,reflexes
+Fernando Tapia,GK,R,21,MEX,7,false,false,false,positioning,rushing-out
+Jorge Sánchez,FB,L,24,MEX,1,false,false,false,marking,finishing
+Luis Fuentes,FB,R,35,MEX,7,true,false,false,marking,finishing
+Salvador Reyes,FB,R,24,MEX,9,false,false,false,finishing,passing
+Miguel Layún,FB,L,34,MEX,8,true,false,false,marking,finishing
+Bruno Valdez,CB,L,29,PAR,5,false,false,false,tackling,stamina
+Cáceres,CB,R,22,URU,1,true,false,false,tackling,heading
+Jorge Meré,CB,R,25,ESP,5,false,false,false,heading,stamina
+Emilio Lara,CB,L,20,MEX,10,true,false,false,tackling,stamina
+Richard Sánchez,MF,L,26,PAR,2,false,false,false,marking,finishing
+Pedro Aquino,MF,R,27,PER,2,true,false,false,marking,finishing
+Álvaro Fidalgo,MF,L,25,ESP,5,true,false,false,tackling,marking
+Diego Valdés,MF,R,28,CHI,7,true,false,false,finishing,passing
+Santiago Naveda,MF,R,21,MEX,9,false,false,false,tackling,marking
+Alejandro Zendejas,MF,L,24,MEX,8,true,false,false,finishing,passing
+Henry Martín,FW,R,29,MEX,1,false,false,false,pace,finishing
+Roger Martínez,FW,L,28,COL,9,false,false,false,finishing,dribbling
+Federico Viñas,FW,L,24,URU,2,true,false,false,finishing,dribbling
+Jonathan Rodríguez,FW,R,29,URU,1,true,false,false,pace,dribbling

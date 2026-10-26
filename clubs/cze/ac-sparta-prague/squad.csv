@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Peter Vindahl,GK,R,28,DEN,6,true,false,false,reflexes,penalty-saving
+Jakub Surovcik,GK,L,24,SVK,6,false,false,false,penalty-saving,reflexes
+Krisztián Hegyi,GK,R,23,HUN,7,false,false,false,positioning,rushing-out
+Daniel Kerl,GK,R,25,CZE,2,false,false,false,positioning,reflexes
+Emmanuel Uchenna,CB,R,22,NGA,6,true,false,false,heading,tackling
+Adam Sevinsky,CB,R,22,CZE,6,true,false,false,tackling,marking
+Asger Sörensen,CB,L,30,DEN,8,false,false,false,marking,tackling
+Jakub Martinec,CB,R,28,CZE,4,false,false,false,marking,heading
+Jaroslav Zelený,CB,L,34,CZE,6,false,false,false,heading,pace
+Elias Cobbaut,CB,L,28,BEL,7,false,false,false,pace,passing
+Viktor Vitályos,FB,R,18,HUN,5,true,false,false,marking,pace
+Patrik Vydra,MF,R,23,CZE,6,true,false,false,passing,stamina
+Sivert Mannsverk,MF,R,24,NOR,7,false,false,false,stamina,passing
+Andrew Irving,MF,L,26,SCO,9,true,false,false,playmaking,passing
+Hugo Sochurek,MF,R,18,CZE,5,false,false,false,dribbling,pace
+Magnus Kofod Andersen,MF,R,27,DEN,6,false,false,false,stamina,playmaking
+Dominik Hollý,MF,R,22,SVK,7,false,false,false,passing,tackling
+Pavel Kaderabek,MF,R,34,CZE,1,false,false,false,crossing,stamina
+Matej Rynes,MF,L,25,CZE,6,true,false,false,pace,crossing
+Martin Suchomel,MF,R,23,CZE,6,false,false,false,pace,heading
+Adam Karabec,MF,L,23,CZE,7,true,false,false,stamina,dribbling
+Santiago Eneme,MF,R,25,CZE,10,false,false,false,playmaking,dribbling
+Lukas Haraslin,FW,L,30,SVK,6,true,false,false,dribbling,pace
+John Mercado,FW,L,24,ECU,6,true,false,false,pace,dribbling
+Veljko Birmancevic,FW,R,28,SRB,7,true,false,false,dribbling,pace
+Josimar Alcócer,FW,L,22,CZE,1,false,false,false,dribbling,pace
+Garang Kuol,FW,L,21,AUS,6,false,false,false,pace,dribbling
+Joao Grimaldo,FW,L,23,PER,6,false,false,false,dribbling,pace
+Ondrej Penxa,FW,R,19,CZE,7,false,false,false,heading,stamina
+Matyas Vojta,FW,L,22,CZE,2,false,false,false,crossing,pace
+Jan Kuchta,FW,R,29,CZE,7,false,false,false,pace,stamina
+Ebrima Singhateh,FW,L,22,CZE,9,false,false,false,dribbling,pace
+Indrit Tuci,FW,R,25,ALB,5,false,false,false,heading,pace

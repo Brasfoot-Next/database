@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Filip Ugrinic,MF,R,27,SUI,8,true,false,false,stamina,passing
+Pepelu,MF,R,28,ESP,4,true,false,false,stamina,passing
+Gayà,FB,L,31,ESP,6,true,false,false,pace,crossing
+Javi Guerra,MF,R,23,ESP,7,true,false,false,passing,playmaking
+André Almeida,MF,R,26,POR,8,false,false,false,playmaking,dribbling
+Arnaut Danjuma,FW,L,29,NED,4,false,false,false,pace,dribbling
+Luis Rioja,FW,L,32,ESP,5,false,false,false,dribbling,crossing
+Hugo Duro,FW,L,26,ESP,6,true,false,false,heading,finishing
+Lucas Beltran,MF,R,25,ARG,7,true,false,false,finishing,dribbling
+Thierry Correia,FB,R,27,POR,9,false,false,false,pace,dribbling
+Baptiste Santamaria,MF,L,31,FRA,4,false,false,false,stamina,passing
+Dimitri Foulquier,FB,R,33,FRA,6,false,false,false,tackling,stamina
+Largie Ramazani,FW,L,25,BEL,6,false,false,false,pace,dribbling
+Diego López,FW,L,24,ESP,8,true,false,false,pace,finishing
+Dani Raba,FW,L,30,ESP,4,false,false,false,passing,crossing
+César Tárrega,CB,R,24,ESP,6,true,false,false,heading,marking
+Jesús Vázquez,FB,L,23,ESP,6,true,false,false,tackling,passing
+Eray Comert,CB,R,28,SUI,8,false,false,false,stamina,heading
+Mouctar Diakhaby,CB,L,29,GUI,5,false,false,false,heading,tackling
+Lucas Nuñez,MF,R,20,ESP,6,false,false,false,dribbling,passing
+Copete,CB,L,26,ESP,10,true,false,false,tackling,heading
+Víctor Fernández,MF,L,18,ESP,5,false,false,false,dribbling,pace
+Rubén Iranzo,CB,R,23,ESP,6,false,false,false,heading,marking
+Aimar Blázquez,FW,R,20,ESP,7,false,false,false,heading,finishing
+David Otorbi,FW,R,18,ESP,1,false,false,false,dribbling,pace
+Stole Dimitrievski,GK,R,32,ESP,6,false,false,false,penalty-saving,rushing-out
+Agirrezabala,GK,L,25,ESP,6,true,false,false,positioning,penalty-saving
+Cristian Rivero,GK,R,28,ESP,7,false,false,false,reflexes,penalty-saving

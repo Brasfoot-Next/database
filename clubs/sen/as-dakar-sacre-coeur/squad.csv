@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Seydou Ba,GK,R,25,SEN,7,true,false,false,reflexes,penalty-saving
+El Hadji Diouf,GK,L,18,SEN,4,false,false,false,rushing-out,reflexes
+Alioune Sarr Ndao,GK,R,25,SEN,5,false,false,false,reflexes,rushing-out
+Mor Ka,CB,R,25,SEN,6,true,false,false,heading,tackling
+Boubacar Sané,CB,R,25,SEN,7,true,false,false,heading,tackling
+Abdoulaye Diouf,CB,L,32,SEN,4,false,false,false,passing,marking
+Fallou Diouf,CB,R,25,SEN,5,false,false,false,tackling,pace
+Famady Traoré,FB,R,21,SEN,6,false,false,false,passing,pace
+Ismaïla Dabo,FB,R,23,SEN,8,false,false,false,stamina,pace
+Mamadou Dieng,FB,L,19,SEN,4,true,false,false,tackling,pace
+Mouhamed Coly,FB,L,25,SEN,6,true,false,false,stamina,pace
+Albert Sasylva,FB,L,19,SEN,8,false,false,false,tackling,pace
+Seydou Ndiaye,MF,L,20,SEN,4,false,false,false,pace,dribbling
+Ibrahima Delgado,MF,R,18,SEN,5,false,false,false,playmaking,finishing
+Ibrahima Mané,MF,R,32,SEN,7,true,false,false,playmaking,passing
+Joachim Gomis,MF,L,20,SEN,4,false,false,false,tackling,passing
+Cheikh Bèye,MF,R,26,SEN,5,true,false,false,playmaking,finishing
+El Hadji Ibrahima Sow,MF,L,24,SEN,6,true,false,false,passing,playmaking
+Cheikh Sene,MF,R,24,SEN,7,true,false,false,dribbling,passing
+Moussa Paye,FW,R,18,SEN,4,false,false,false,finishing,pace
+Fara Mendy,FW,R,21,SEN,6,false,false,false,heading,finishing
+Thurbuce Ndiaye,FW,L,21,SEN,7,false,false,false,heading,stamina
+Ibrahima Samb,FW,R,25,SEN,3,true,false,false,heading,stamina
+Mouhamed Faye,FW,R,25,SEN,5,true,false,false,dribbling,finishing
+Mandoumbé Wade,FW,R,23,SEN,6,false,false,false,pace,dribbling
+Khadim Diop,FW,L,25,SEN,2,false,false,false,finishing,stamina

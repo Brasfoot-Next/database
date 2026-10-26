@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Renzo Bacchia,GK,R,27,URU,7,true,false,false,positioning,reflexes
+Andrés Mehring,GK,L,32,ARG,3,false,false,false,reflexes,rushing-out
+Agustín Requena,GK,L,27,URU,5,false,false,false,penalty-saving,reflexes
+Hernán Carroso,CB,L,20,URU,6,false,false,false,tackling,marking
+Mauro Martín,CB,L,26,URU,7,true,false,false,heading,passing
+Sebastián Cardozo,CB,R,30,URU,3,false,false,false,tackling,heading
+Federico Andueza,CB,R,29,URU,5,true,false,false,marking,heading
+Gastón Silva,CB,L,32,URU,7,false,false,false,crossing,stamina
+Federico García,CB,R,20,URU,3,false,false,false,heading,marking
+Marcos Paolini,CB,L,24,URU,5,false,false,false,marking,heading
+Ayrton Cougo,FB,L,30,URU,5,false,false,false,marking,pace
+Facundo Kidd,FB,L,28,URU,6,true,false,false,tackling,marking
+Emiliano Álvarez,FB,R,25,URU,8,true,false,false,tackling,stamina
+Gianfranco Trasante,FB,L,26,URU,4,false,false,false,tackling,marking
+Agustín Pinheiro,MF,R,24,URU,5,true,false,false,finishing,passing
+Ramiro Cristóbal,MF,R,30,URU,6,false,false,false,dribbling,pace
+Santiago Viera,MF,L,28,URU,8,true,false,false,playmaking,finishing
+Agustin Paz,MF,R,27,ARG,4,true,false,false,finishing,playmaking
+Gonzalo Silva,MF,R,27,ARG,5,true,false,false,stamina,passing
+Ignacio Lemmo,MF,R,36,URU,6,false,false,false,tackling,passing
+Agustín Codagnone,MF,R,20,URU,5,false,false,false,dribbling,pace
+Agustín Ocampo,FW,R,28,URU,6,true,false,false,finishing,heading
+Facundo de León,FW,R,22,URU,7,false,false,false,pace,crossing
+Joaquín Solleiro,FW,R,20,URU,3,false,false,false,heading,stamina
+Nahuel López,FW,R,19,URU,5,false,false,false,finishing,dribbling
+Nicolás Fernández,FW,R,23,URU,6,false,false,false,finishing,dribbling
+Maximiliano Juambeltz,FW,R,24,URU,7,false,false,false,pace,dribbling
+Matteo Copelotti,FW,L,22,URU,4,false,false,false,dribbling,playmaking
+Gary Silva,FW,R,22,URU,5,false,false,false,finishing,pace
+Jonathan Dos Santos,FW,R,34,URU,6,true,false,false,heading,finishing

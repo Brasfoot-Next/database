@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ryan Williams,FW,R,32,AUS,5,false,false,false,stamina,pace
+Sunil Chhetri,FW,L,42,IND,6,false,false,false,stamina,finishing
+Suresh Singh Wangjam,MF,L,26,IND,7,true,false,false,stamina,pace
+Roshan Singh,FB,L,27,IND,4,true,false,false,stamina,pace
+Rahul Bheke,CB,L,35,IND,5,false,false,false,stamina,passing
+Nikhil Poojary,FB,R,31,IND,6,false,false,false,stamina,pace
+Vinith Venkatesh,MF,R,21,IND,7,true,false,false,pace,passing
+Halicharan Narzary,FW,L,32,IND,4,false,false,false,pace,stamina
+Sivasakthi Narayanan,FW,R,25,IND,5,true,false,false,pace,stamina
+Namgyal Bhutia,FB,R,27,IND,6,true,false,false,pace,tackling
+Aleksandar Jovanovic,CB,R,37,AUS,3,true,false,false,marking,passing
+Chinglensana Singh,CB,R,29,IND,5,true,false,false,stamina,pace
+Lalremtluanga Fanai,MF,R,21,IND,5,false,false,false,stamina,passing
+Rohit Danu,FW,L,24,IND,6,true,false,false,pace,stamina
+Shivaldo Chingambam Singh,MF,R,22,IND,7,true,false,false,pace,tackling
+Harsh Palande,FW,R,21,IND,4,false,false,false,finishing,stamina
+Shreyas Ketkar,MF,R,22,IND,5,true,false,false,passing,pace
+Salam Johnson Singh,FW,R,24,IND,6,false,false,false,pace,stamina
+Taorem Kelvin Singh,FW,R,20,IND,8,false,false,false,finishing,stamina
+Mohammed Salah,FB,L,31,IND,4,false,false,false,stamina,marking
+Monirul Molla,FW,R,21,IND,2,false,false,false,pace,stamina
+Gurpreet Singh Sandhu,GK,R,34,IND,5,true,false,false,positioning,rushing-out
+Sahil Poonia,GK,R,20,IND,6,false,false,false,penalty-saving,reflexes
+Lalthuammawia Ralte,GK,R,33,IND,6,false,false,false,reflexes,rushing-out

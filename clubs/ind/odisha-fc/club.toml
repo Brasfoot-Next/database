@@ -1,0 +1,13 @@
+name = "Odisha FC"
+country = "IND"
+level = 4
+reputation = 1
+colors = ["#101040", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Ashangbam Delgado"
+country = "BRA"

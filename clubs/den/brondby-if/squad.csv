@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Daniel Wass,MF,R,37,DEN,6,false,false,false,crossing,stamina
+Mats Kohlert,FB,L,28,GER,7,true,false,false,stamina,crossing
+Stijn Spierings,MF,R,30,NED,2,true,false,false,stamina,marking
+Sean Klaiber,CB,R,32,SUR,5,false,false,false,stamina,pace
+Jordi Vanlerberghe,CB,R,30,BEL,6,false,false,false,stamina,tackling
+Nicolai Vallys,FW,R,30,DEN,7,true,false,false,stamina,pace
+Michael Gregoritsch,FW,L,32,AUT,3,false,false,false,heading,finishing
+Filip Bundgaard,FW,L,22,DEN,5,true,false,false,pace,dribbling
+Marko Divkovic,FB,L,27,CRO,7,true,false,false,pace,stamina
+Oliver Villadsen,FB,R,24,DEN,2,false,false,false,pace,dribbling
+Noah Nartey,MF,R,20,DEN,6,true,false,false,stamina,passing
+Benjamin Tahirovic,MF,L,23,BIH,7,true,false,false,stamina,passing
+Sho Fukuda,FW,R,25,JPN,3,false,false,false,pace,dribbling
+Rasmus Lauritsen,CB,R,30,DEN,5,false,false,false,stamina,heading
+Luis Binks,CB,L,25,ENG,6,true,false,false,heading,tackling
+Justin Che,FB,R,22,USA,7,false,false,false,pace,tackling
+Kotaro Uchino,FW,R,22,JPN,4,false,false,false,pace,finishing
+Marcus Younis,FW,L,21,AUS,5,false,false,false,pace,dribbling
+Mathias Jensen,MF,R,21,DEN,6,true,false,false,pace,stamina
+Frederik Alves,CB,R,26,DEN,3,true,false,false,tackling,stamina
+Jacob Ambaek,FW,R,18,DEN,6,false,false,false,pace,dribbling
+Patrick Pentz,GK,L,29,AUT,7,true,false,false,reflexes,penalty-saving
+Thomas Mikkelsen,GK,R,43,DEN,2,false,false,false,positioning,rushing-out
+Gavin Beavers,GK,R,21,USA,5,false,false,false,reflexes,penalty-saving

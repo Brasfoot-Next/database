@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jeffrey Schlupp,FB,L,33,GHA,6,true,false,false,pace,tackling
+Mathias Kvistgaarden,FW,R,24,DEN,7,true,false,false,pace,dribbling
+Kenny Mclean,MF,L,34,SCO,3,false,false,false,stamina,passing
+Matej Jurasek,FW,L,23,CZE,5,false,false,false,pace,dribbling
+Josh Sargent,FW,R,26,USA,6,true,false,false,stamina,finishing
+Emiliano Marcondes,MF,R,31,DEN,7,false,false,false,playmaking,passing
+Jack Stacey,FW,R,30,ENG,3,false,false,false,stamina,crossing
+Amankwah Forson,MF,L,23,GHA,6,false,false,false,pace,dribbling
+Liam Gibbs,MF,R,23,ENG,7,false,false,false,stamina,passing
+Anis Slimane,MF,R,25,TUN,2,false,false,false,stamina,dribbling
+Pelle Mattsson,MF,R,25,DEN,5,true,false,false,stamina,tackling
+Jacob Wright,MF,R,20,ENG,6,true,false,false,stamina,passing
+Mirko Topic,MF,L,25,SRB,7,true,false,false,tackling,passing
+Harry Darling,CB,R,27,ENG,2,false,false,false,stamina,marking
+Jakov Medic,CB,R,28,CRO,5,false,false,false,stamina,heading
+Kellen Fisher,FB,R,22,ENG,6,true,false,false,stamina,pace
+Ben Chrisene,FB,L,22,ENG,7,false,false,false,pace,stamina
+Ante Crnac,MF,L,22,CRO,2,false,false,false,pace,finishing
+Oscar Schwartau,MF,R,20,DEN,5,true,false,false,pace,dribbling
+Lucien Mahovo,FB,L,21,ENG,6,false,false,false,pace,stamina
+Papa Amadou Diallo,FW,L,22,SEN,4,false,false,false,pace,dribbling
+Tony Springett,FW,L,23,IRL,5,false,false,false,pace,dribbling
+Jose Cordoba,CB,L,25,PAN,6,true,false,false,pace,tackling
+Jovon Makama,FW,R,22,ENG,8,false,false,false,pace,finishing
+Shane Duffy,CB,R,34,IRL,4,false,false,false,heading,tackling
+Gabriel Forsyth,MF,L,20,SCO,5,false,false,false,pace,playmaking
+Elliot Myles,MF,R,19,WAL,6,false,false,false,pace,passing
+Ruairi Mcconville,CB,R,21,NIR,10,true,false,false,heading,tackling
+Louie Moulden,GK,R,24,ENG,5,false,false,false,reflexes,positioning
+Daniel Grimshaw,GK,R,28,ENG,5,false,false,false,reflexes,penalty-saving
+Vladan Kovacevic,GK,R,28,BIH,3,true,false,false,penalty-saving,positioning

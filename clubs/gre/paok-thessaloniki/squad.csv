@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Antonis Tsiftsis,GK,R,27,GRE,6,true,false,false,reflexes,penalty-saving
+Jiri Pavlenka,GK,R,34,GRE,6,false,false,false,rushing-out,reflexes
+Luka Gugeshashvili,GK,L,27,GEO,7,false,false,false,penalty-saving,reflexes
+Konstantinos Balomenos,GK,R,24,GRE,8,false,false,false,reflexes,penalty-saving
+Dimitrios Monastirlis,GK,R,22,GRE,5,false,false,false,reflexes,penalty-saving
+Giannis Michailidis,CB,L,26,GRE,6,true,false,false,tackling,heading
+Aritz Elustondo,CB,R,32,ESP,7,true,false,false,heading,passing
+Dimitrios Bataoulas,CB,R,19,GRE,9,false,false,false,stamina,heading
+Greg Taylor,FB,L,28,SCO,5,true,false,false,stamina,passing
+Abdul Rahman Baba,FB,L,32,GHA,6,false,false,false,stamina,pace
+Jonathan Gómez,FB,L,22,USA,5,false,false,false,pace,crossing
+Jonjoe Kenny,FB,R,29,ENG,6,true,false,false,stamina,tackling
+Lefteris Lyratzis,FB,R,26,GRE,7,false,false,false,marking,crossing
+Baptiste Santamaria,MF,L,31,FRA,8,true,false,false,stamina,passing
+Soualiho Meïté,MF,R,32,FRA,5,false,false,false,stamina,passing
+Konstantinos Thymianis,MF,R,25,GRE,6,false,false,false,stamina,tackling
+Christos Zafeiris,MF,R,23,GRE,7,true,false,false,stamina,dribbling
+Mady Camara,MF,L,29,GUI,8,true,false,false,heading,stamina
+Dimitrios Tsopouroglou,MF,R,24,GRE,5,false,false,false,playmaking,finishing
+Giannis Konstantelias,MF,R,23,GRE,6,true,false,false,dribbling,playmaking
+Dimitrios Pelkas,MF,L,32,GRE,8,false,false,false,playmaking,dribbling
+Shola Shoretire,FW,L,22,ENG,6,false,false,false,pace,dribbling
+Taha Ali,FW,R,28,SWE,6,false,false,false,pace,dribbling
+Dimitrios Berdos,FW,R,18,GRE,7,false,false,false,heading,finishing
+Taison,FW,R,38,BRA,2,false,false,false,dribbling,pace
+Andrija Zivkovic,FW,L,30,SRB,6,true,false,false,dribbling,pace
+Kiril Despodov,FW,R,29,BUL,6,true,false,false,pace,finishing
+Dimitrios Chatsidis,FW,L,20,GRE,8,false,false,false,pace,dribbling
+Fedor Chalov,FW,L,28,GRE,4,false,false,false,pace,dribbling
+Anestis Mythou,FW,R,19,GRE,6,false,false,false,pace,heading
+Alexander Jeremejeff,FW,L,32,SWE,7,false,false,false,heading,finishing

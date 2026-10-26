@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Santiago Ascacibar,MF,L,29,ARG,6,true,false,false,stamina,passing
+Alexis Castro,FW,L,31,ARG,7,false,false,false,finishing,pace
+Santiago Arzamendia,FB,L,28,PAR,5,false,false,false,pace,tackling
+Gabriel Neves,MF,R,29,URU,6,true,false,false,passing,stamina
+Ezequiel Piovi,MF,R,34,ARG,7,false,false,false,stamina,passing
+Eric Meza,FB,R,27,ARG,8,true,false,false,pace,stamina
+Cristian Medina,MF,R,24,ARG,5,true,false,false,stamina,dribbling
+Jose Sosa,MF,R,41,ARG,5,false,false,false,passing,playmaking
+Edwuin Cetre,FW,L,28,COL,6,true,false,false,pace,stamina
+Tiago Palacios,FW,R,25,URU,7,true,false,false,pace,stamina
+Facundo Farias,FW,R,24,ARG,9,false,false,false,pace,dribbling
+Leandro Gonzalez Pirez,CB,R,34,ARG,5,true,false,false,heading,stamina
+Gaston Benedetti,FB,L,25,ARG,6,false,false,false,stamina,pace
+Guido Carrillo,FW,R,35,ARG,7,false,false,false,heading,stamina
+Joaquin Tobio Burgos,FW,L,21,ARG,9,false,false,false,pace,dribbling
+Lucas Alario,FW,R,33,ARG,5,false,false,false,heading,passing
+Ramiro Funes Mori,CB,L,35,ARG,6,false,false,false,heading,passing
+Leonardo Suarez,FW,L,30,ARG,7,false,false,false,pace,dribbling
+Mikel Amondarain,MF,R,21,ARG,10,true,false,false,pace,passing
+Roman Gomez,FB,R,22,ARG,5,false,false,false,pace,stamina
+Joaquin Pereyra,FB,L,21,ARG,6,true,false,false,pace,tackling
+Santiago Nunez,CB,L,26,ARG,7,true,false,false,stamina,tackling
+Fabricio Perez,FW,R,20,ARG,9,false,false,false,pace,dribbling
+Facundo Rodriguez,CB,L,26,ARG,5,false,false,false,passing,tackling
+Benjamin Sagues Barreiro,FW,R,19,BRA,6,false,false,false,pace,finishing
+Matias Contrera,FW,R,21,ARG,7,false,false,false,finishing,heading
+Juan Cruz Guasone,CB,R,25,ARG,10,false,false,false,heading,tackling
+Fernando Muslera,GK,R,40,URU,5,true,false,false,penalty-saving,rushing-out
+Fabricio Iacovich,GK,L,24,ARG,6,false,false,false,penalty-saving,reflexes
+Rodrigo Borzone,GK,R,21,ARG,7,false,false,false,positioning,penalty-saving

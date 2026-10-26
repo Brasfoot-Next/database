@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Joe Aribo,MF,L,30,NGA,6,false,false,false,stamina,dribbling
+Finn Azaz,MF,R,26,IRL,7,true,false,false,stamina,playmaking
+Flynn Downes,MF,L,27,ENG,2,true,false,false,stamina,passing
+Ryan Manning,FB,L,30,IRL,5,false,false,false,stamina,crossing
+Shea Charles,MF,R,22,NIR,6,true,false,false,stamina,passing
+Elias Jelert,FB,R,23,DEN,7,true,false,false,pace,stamina
+Caspar Jander,MF,R,23,GER,4,false,false,false,stamina,passing
+Kuryu Matsuki,MF,L,23,JPN,5,false,false,false,stamina,dribbling
+Adam Armstrong,FW,R,29,ENG,6,false,false,false,finishing,dribbling
+Tom Fellows,FW,R,23,ENG,7,false,false,false,pace,crossing
+Welington,FW,L,25,BRA,1,false,false,false,pace,dribbling
+Ryan Fraser,FW,R,32,SCO,5,false,false,false,crossing,dribbling
+Mads Roerslev,FB,R,27,DEN,6,true,false,false,crossing,stamina
+Léo Scienza,FW,L,27,BRA,7,true,false,false,pace,dribbling
+Cameron Archer,FW,R,24,ENG,7,true,false,false,pace,dribbling
+Taylor Harwood Bellis,CB,L,24,ENG,5,true,false,false,heading,passing
+Samuel Edozie,FW,L,23,ENG,6,false,false,false,pace,dribbling
+Jack Stephens,CB,R,32,ENG,6,false,false,false,heading,tackling
+Ross Stewart,FW,R,30,SCO,7,false,false,false,heading,finishing
+Ronnie Edwards,CB,R,23,ENG,5,false,false,false,stamina,tackling
+Damion Downs,FW,R,22,USA,8,false,false,false,pace,heading
+Jay Robinson,MF,L,19,ENG,5,true,false,false,dribbling,finishing
+Joshua Quarshie,CB,R,22,GER,6,false,false,false,pace,tackling
+Moses Sesay,MF,L,19,ENG,7,false,false,false,pace,dribbling
+Nathan Wood,CB,R,24,ENG,8,true,false,false,pace,tackling
+Gavin Bazunu,GK,R,24,IRL,2,true,false,false,reflexes,penalty-saving
+Alex Mccarthy,GK,R,36,ENG,5,false,false,false,reflexes,penalty-saving
+George Long,GK,L,32,ENG,6,false,false,false,reflexes,penalty-saving
+Dylan Moody,GK,R,18,ENG,7,false,false,false,reflexes,penalty-saving

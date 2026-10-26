@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Fabian Nurnberger,FB,L,27,BUL,7,true,false,false,stamina,pace
+Marco Richter,MF,R,28,GER,4,true,false,false,dribbling,playmaking
+Fabian Holland,MF,L,36,GER,5,false,false,false,tackling,marking
+Jean Paul Boetius,MF,R,32,SUR,6,false,false,false,stamina,playmaking
+Sergio López,FB,R,27,ESP,8,false,false,false,pace,dribbling
+Isac Lidberg,FW,R,28,SWE,5,true,false,false,stamina,pace
+Paul Will,MF,L,27,GER,6,true,false,false,stamina,passing
+Kai Klefisch,MF,R,26,GER,7,true,false,false,stamina,tackling
+Luca Marseiler,FW,R,29,GER,4,false,false,false,pace,stamina
+Killian Corredor,FW,L,25,FRA,5,false,false,false,stamina,pace
+Merveille Papela,MF,R,25,GER,4,true,false,false,dribbling,passing
+Hiroki Akiyama,MF,L,25,JPN,5,false,false,false,passing,playmaking
+Leon Klassen,FB,L,26,RUS,6,true,false,false,stamina,pace
+Matthias Bader,FB,R,29,GER,7,false,false,false,stamina,marking
+Fraser Hornby,FW,L,26,SCO,4,false,false,false,heading,pace
+Serhat Semih Guler,FW,R,29,GER,5,false,false,false,pace,finishing
+Fynn Lakenmacher,FW,R,26,GER,6,false,false,false,pace,stamina
+Matej Maglica,CB,L,27,CRO,8,true,false,false,heading,tackling
+Bartosz Bialek,FW,R,24,POL,4,true,false,false,finishing,dribbling
+Yosuke Furukawa,FW,L,23,JPN,5,false,false,false,pace,dribbling
+Patric Pfeiffer,CB,R,27,GER,3,true,false,false,pace,heading
+Aleksandar Vukotic,CB,L,31,SRB,5,false,false,false,heading,tackling
+Meldin Dreskovic,CB,R,28,MNE,6,false,false,false,marking,heading
+Tim Arnold,FB,L,20,GER,7,false,false,false,pace,marking
+Marcel Schuhen,GK,R,33,GER,3,false,false,false,reflexes,penalty-saving
+Max Pfister,CB,R,19,GER,5,false,false,false,tackling,heading
+Alexander Brunst,GK,R,31,GER,6,true,false,false,reflexes,penalty-saving
+Benedikt Borner,GK,R,20,GER,7,false,false,false,penalty-saving,reflexes

@@ -1,0 +1,13 @@
+name = "Lille"
+country = "FRA"
+level = 18
+reputation = 4
+colors = ["#F0F0F0", "#202060"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Romain Dago"
+country = "BRA"

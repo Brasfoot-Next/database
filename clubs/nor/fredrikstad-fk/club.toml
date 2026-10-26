@@ -1,0 +1,13 @@
+name = "Fredrikstad FK"
+country = "NOR"
+level = 10
+reputation = 2
+colors = ["#F0F0F0", "#D02020"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Solomon Metcalfe"
+country = "BRA"

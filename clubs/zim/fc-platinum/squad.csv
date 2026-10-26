@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Petros Mhari,GK,R,33,ZIM,2,true,false,false,reflexes,positioning
+Francis Tizayi,GK,L,32,ZIM,6,false,false,false,rushing-out,penalty-saving
+Wallace Magalane,GK,R,28,ZIM,4,false,false,false,positioning,rushing-out
+Raphael Muduviwa,FB,R,29,ZIM,8,true,false,false,marking,pace
+Tawana Chikore,FB,L,26,ZIM,2,true,false,false,crossing,pace
+Kelvin Mangiza,FB,L,21,ZIM,5,false,false,false,finishing,passing
+Lawrence Mhlanga,CB,L,28,ZIM,4,true,false,false,heading,stamina
+Gift Bello,CB,R,38,ZIM,8,true,false,false,marking,pace
+William Stima,CB,R,33,ZIM,3,false,false,false,tackling,stamina
+Evidence Tendayi,CB,L,25,ZIM,1,false,false,false,heading,stamina
+Charles Sibanda,MF,L,37,ZIM,6,true,false,false,finishing,passing
+Rainsome Pavari,MF,L,27,ZIM,8,true,false,false,tackling,heading
+Jasper Band,MF,R,26,ZIM,5,true,false,false,pace,dribbling
+Hillary Bakacheza,MF,R,32,ZIM,1,true,false,false,passing,finishing
+Hagiazo Magaya,MF,L,22,ZIM,10,false,false,false,passing,finishing
+Innocent Mucheneka,MF,L,30,ZIM,2,false,false,false,tackling,marking
+Nsiala,FW,L,31,ZAM,5,true,false,false,finishing,pace
+Gift Mbweti,FW,R,31,ZIM,4,true,false,false,finishing,dribbling
+Walter Musona,FW,L,26,ZIM,7,false,false,false,finishing,pace
+Mutimbanyoka,FW,R,20,ZIM,4,false,false,false,dribbling,finishing

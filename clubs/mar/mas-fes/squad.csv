@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Salaheddine Chihab,GK,R,33,MAR,5,true,false,false,positioning,reflexes
+Oussama Errahmany,GK,R,23,MAR,6,false,false,false,positioning,rushing-out
+Walid Laghrissi,GK,L,17,MAR,7,false,false,false,reflexes,rushing-out
+Driss El Jabali,CB,R,28,MAR,8,true,false,false,marking,stamina
+Saad Ait Khorsa,CB,R,32,MAR,4,false,false,false,tackling,heading
+Aymane Chbani,CB,R,28,MAR,5,true,false,false,heading,passing
+Adil Rhaili,CB,R,35,MAR,6,false,false,false,tackling,marking
+Akram Khlifi,CB,R,22,MAR,9,false,false,false,tackling,heading
+Marouane Ouhrou,FB,R,24,MAR,4,false,false,false,crossing,pace
+Zakaria Hamadi,FB,R,28,ITA,5,true,false,false,pace,crossing
+Hamza Ait Allal,FB,R,26,MAR,5,false,false,false,stamina,crossing
+Salaheddine Ghedamsi,FB,L,27,TUN,6,true,false,false,stamina,pace
+Ismail Laghzali,FB,R,23,MAR,7,false,false,false,stamina,pace
+Oussama Noureddine,MF,R,25,MAR,3,false,false,false,playmaking,finishing
+Amine Oudrhiri,MF,R,33,MAR,5,true,false,false,stamina,tackling
+Hamza Afsal,MF,R,29,MAR,6,false,false,false,playmaking,dribbling
+Achraf Harmach,MF,L,33,MAR,7,false,false,false,tackling,passing
+Anas Tahiri,MF,R,31,MAR,4,true,false,false,finishing,passing
+Amine El Farissi,MF,L,27,FRA,5,true,false,false,dribbling,playmaking
+El Habib Brija,MF,R,26,MAR,6,true,false,false,dribbling,passing
+Issa M'Bareck,MF,R,22,MAR,7,false,false,false,passing,tackling
+Soulyman Allouch,FW,R,24,NED,3,false,false,false,crossing,pace
+Adam Brika,FW,R,20,MAR,5,false,false,false,finishing,stamina
+Kevin Yamga,FW,R,29,FRA,6,false,false,false,dribbling,playmaking
+Khalid Baba,FW,R,26,MAR,7,true,false,false,dribbling,finishing
+Youssef Dalouzi,FW,L,24,MAR,3,false,false,false,finishing,stamina
+Soufiane Benjdida,FW,R,24,MAR,5,true,false,false,heading,finishing
+Zakaria Allaoui,FW,R,20,MAR,6,false,false,false,pace,crossing

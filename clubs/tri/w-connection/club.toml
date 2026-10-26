@@ -1,0 +1,13 @@
+name = "W Connection"
+country = "TRI"
+level = 13
+reputation = 2
+colors = ["#ffffff", "#009900"]
+
+[stadium]
+name = "Manny Ramjohn"
+capacity = 10000
+
+[coach]
+name = "Marvin Gordon"
+country = "TRI"

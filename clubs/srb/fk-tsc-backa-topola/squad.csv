@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nikola Simic,GK,R,29,SRB,6,true,false,false,reflexes,penalty-saving
+Nemanja Jorgic,GK,L,38,SRB,4,false,false,false,positioning,reflexes
+Ilja Pantelin,GK,L,18,SRB,5,false,false,false,reflexes,penalty-saving
+Vukasin Krstic,CB,R,23,SRB,6,true,false,false,heading,stamina
+Baptiste Roux,CB,L,26,FRA,7,true,false,false,marking,heading
+Milos Satara,CB,R,30,SRB,4,false,false,false,heading,marking
+Dragan Tegeltija,FB,R,20,SRB,5,true,false,false,crossing,pace
+Stefan Jovanovic,FB,L,32,SRB,6,true,false,false,stamina,pace
+Branko Jovicic,MF,L,33,SRB,7,false,false,false,pace,dribbling
+Milos Soprenic,MF,R,18,SRB,4,false,false,false,playmaking,finishing
+Milan Radin,MF,R,35,SRB,3,false,false,false,playmaking,finishing
+Szabolcs Mezei,MF,R,25,HUN,5,true,false,false,pace,dribbling
+Aleksandar Stancic,MF,R,19,SRB,6,true,false,false,dribbling,passing
+Andrej Petrovic,MF,R,20,SRB,7,false,false,false,passing,stamina
+Stefan Mladenovic,MF,R,18,SRB,3,true,false,false,playmaking,passing
+Mihajlo Milosavic,MF,R,22,SRB,5,true,false,false,marking,passing
+Stefan Tomovic,MF,L,17,SRB,6,false,false,false,finishing,playmaking
+Mihajlo Neskovic,MF,R,26,SRB,7,false,false,false,finishing,passing
+Prestige Mboungou,FW,R,26,CGO,3,true,false,false,dribbling,playmaking
+Andrej Todoroski,FW,L,27,AUT,5,true,false,false,dribbling,pace
+Dragoljub Savic,FW,R,25,SRB,4,false,false,false,dribbling,finishing
+Sasa Jovanovic,FW,R,34,SRB,5,false,false,false,finishing,dribbling
+Filip Medic,FW,L,17,SRB,6,false,false,false,finishing,pace
+Nemanja Pivnicki,FW,R,19,SRB,7,false,false,false,finishing,pace
+Bogdan Petrovic,FW,R,21,SRB,1,false,false,false,pace,finishing

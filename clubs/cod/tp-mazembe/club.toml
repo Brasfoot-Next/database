@@ -1,0 +1,13 @@
+name = "TP Mazembe"
+country = "COD"
+level = 15
+reputation = 4
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Lubumbashi"
+capacity = 18500
+
+[coach]
+name = "Franck Dumas"
+country = "FRA"

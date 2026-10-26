@@ -1,0 +1,13 @@
+name = "Independiente"
+country = "ARG"
+level = 15
+reputation = 3
+colors = ["#E01020", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Enzo Mancuello"
+country = "BRA"

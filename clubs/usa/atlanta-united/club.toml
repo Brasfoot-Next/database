@@ -1,0 +1,13 @@
+name = "Atlanta United"
+country = "USA"
+level = 14
+reputation = 3
+colors = ["#101010", "#FFFFFF"]
+
+[stadium]
+name = "Mercedes-Benz Stadium"
+capacity = 73019
+
+[coach]
+name = "Ajani Thiare"
+country = "BRA"

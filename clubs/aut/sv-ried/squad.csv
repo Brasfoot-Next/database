@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Christopher Wernitznig,MF,R,36,AUT,7,false,false,false,stamina,passing
+Mark Grosse,MF,R,27,AUT,3,true,false,false,stamina,playmaking
+Jonas Mayer,MF,R,22,AUT,5,true,false,false,stamina,passing
+Ante Bajic,FW,R,31,AUT,6,false,false,false,pace,stamina
+Philipp Pomer,FW,L,29,AUT,7,false,false,false,stamina,pace
+Yusuf Maart,MF,L,31,AUT,4,true,false,false,playmaking,passing
+Martin Rasner,MF,R,31,AUT,5,false,false,false,stamina,dribbling
+Jonathan Scherzer,FB,L,31,AUT,6,true,false,false,stamina,crossing
+David Berger,FW,R,21,AUT,7,false,false,false,pace,finishing
+Kingstone Mutandwa,FW,L,23,ZAM,1,true,false,false,pace,dribbling
+Antonio Van Wyk,FW,L,24,AUT,8,true,false,false,pace,finishing
+Fabian Rossdorfer,FW,L,20,AUT,4,false,false,false,pace,crossing
+Ekain Azkune,FW,R,25,ESP,6,false,false,false,pace,heading
+Loiange Ondoa,MF,L,21,CMR,7,false,false,false,pace,passing
+Nicolas Bajlicz,MF,R,22,AUT,10,true,false,false,dribbling,pace
+Saliou Sane,FW,R,34,GER,4,false,false,false,pace,dribbling
+Nevio Zotz,FW,L,19,AUT,6,false,false,false,pace,crossing
+Oliver Steurer,CB,L,31,GER,7,true,false,false,pace,heading
+Philip Weissenbacher,FB,R,21,AUT,1,true,false,false,pace,tackling
+Nermin Mesic,MF,R,20,GER,5,false,false,false,pace,passing
+Conrad Scholl,MF,R,19,GER,6,false,false,false,pace,tackling
+Peter Kiedl,FW,R,22,AUT,6,false,false,false,heading,finishing
+Joris Boguo,FW,R,18,AUT,10,false,false,false,pace,dribbling
+Michael Sollbauer,CB,L,36,AUT,5,false,false,false,heading,marking
+Dominik Kirnbauer,FW,L,24,AUT,6,false,false,false,pace,dribbling
+Nikki Havenaar,CB,R,31,JPN,7,true,false,false,stamina,tackling
+Andreas Leitner,GK,R,32,AUT,1,true,false,false,reflexes,penalty-saving
+Dominik Stoger,GK,R,19,AUT,5,false,false,false,reflexes,positioning
+Felix Wimmer,GK,L,28,AUT,6,false,false,false,positioning,reflexes

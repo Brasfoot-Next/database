@@ -1,0 +1,13 @@
+name = "Connah's Quay"
+country = "WAL"
+level = 14
+reputation = 2
+colors = ["#cc0000", "#ffffff"]
+
+[stadium]
+name = "Deeside"
+capacity = 1500
+
+[coach]
+name = "Craig Harrison"
+country = "ENG"

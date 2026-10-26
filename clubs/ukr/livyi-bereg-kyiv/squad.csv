@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Roman Zhmurko,GK,R,28,UKR,5,false,false,false,rushing-out,reflexes
+Oleksandr Domolega,GK,R,22,UKR,6,true,false,false,reflexes,penalty-saving
+Denys Ignatenko,GK,R,23,UKR,1,false,false,false,positioning,reflexes
+Valeriy Samar,CB,R,24,UKR,5,true,false,false,marking,heading
+Andriy Yakymiv,CB,R,29,UKR,5,false,false,false,tackling,pace
+Valeriy Bondarenko,CB,R,32,UKR,6,true,false,false,marking,passing
+Bogdan Chuev,CB,R,26,UKR,1,false,false,false,marking,tackling
+Ilya Kovalenko,CB,R,24,UKR,5,false,false,false,heading,passing
+Sidnney,FB,L,26,BRA,6,true,false,false,dribbling,pace
+Nicholas Osei Bonsu,FB,R,25,GHA,7,false,false,false,dribbling,pace
+Oleg Sokolov,FB,R,27,UKR,7,true,false,false,tackling,pace
+Ernest Astakhov,FB,R,27,UKR,3,false,false,false,tackling,marking
+Ivan Kotukha,FB,R,21,UKR,5,false,false,false,pace,crossing
+Sergiy Kosovskyi,MF,R,28,UKR,6,true,false,false,passing,tackling
+Andriy Chepurnyi,MF,R,23,UKR,7,false,false,false,finishing,playmaking
+Vitaliy Tishchenko,MF,R,20,UKR,3,false,false,false,dribbling,passing
+Yevgen Banada,MF,R,34,UKR,5,true,false,false,playmaking,passing
+Nazariy Vorobchak,MF,R,26,UKR,6,false,false,false,pace,crossing
+Simon Galoyan,MF,R,24,UKR,7,false,false,false,pace,crossing
+Vikentiy Voloshyn,MF,R,25,UKR,10,true,false,false,passing,stamina
+Diego Henrique,MF,R,22,BRA,7,true,false,false,passing,tackling
+Oleksandr Kalinin,MF,R,24,UKR,2,false,false,false,finishing,passing
+Dmytro Shastal,FW,R,30,UKR,5,true,false,false,pace,dribbling
+Yegor Gunichev,FW,R,22,UKR,6,false,false,false,heading,stamina
+Wendell,FW,L,20,BRA,7,false,false,false,heading,finishing
+Nazar Voloshyn,FW,L,23,UKR,3,true,false,false,pace,playmaking
+Roman Geresh,FW,R,20,UKR,5,false,false,false,playmaking,finishing

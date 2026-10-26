@@ -1,0 +1,13 @@
+name = "FC Slovan Liberec"
+country = "CZE"
+level = 15
+reputation = 3
+colors = ["#F0F0F0", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Simon Berbic"
+country = "BRA"

@@ -1,0 +1,13 @@
+name = "WSG Tirol"
+country = "AUT"
+level = 9
+reputation = 2
+colors = ["#F0F0F0", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Ademola Schermer"
+country = "BRA"

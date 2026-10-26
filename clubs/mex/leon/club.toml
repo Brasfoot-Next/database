@@ -1,0 +1,13 @@
+name = "León"
+country = "MEX"
+level = 17
+reputation = 2
+colors = ["#006231", "#ffffff"]
+
+[stadium]
+name = "León"
+capacity = 33943
+
+[coach]
+name = "Renato Paiva"
+country = "POR"

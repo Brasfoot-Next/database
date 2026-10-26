@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Philip Billing,MF,L,30,DEN,7,true,false,false,passing,heading
+Kevin Mbabu,FB,R,31,SUI,4,true,false,false,pace,stamina
+Paulinho,FB,L,31,BRA,5,false,false,false,pace,stamina
+Dario Osorio,FW,L,22,CHI,6,true,false,false,pace,dribbling
+Ousmane Diao,CB,R,22,SEN,8,true,false,false,stamina,pace
+Dani Silva,MF,R,26,POR,4,true,false,false,passing,stamina
+Aral Simsir,FW,L,24,TUR,5,false,false,false,pace,dribbling
+Franculino,FW,L,22,GNB,6,true,false,false,pace,dribbling
+Victor Bak,FB,L,22,DEN,8,true,false,false,pace,stamina
+Denil Castillo,MF,R,22,ECU,4,true,false,false,passing,stamina
+Edward Chilufya,FW,R,26,ZAM,6,false,false,false,pace,stamina
+Pedro Bravo,MF,L,21,COL,7,true,false,false,pace,stamina
+Valdemar Byskov,FW,R,21,DEN,3,false,false,false,dribbling,passing
+Cho Gue Sung,FW,R,28,KOR,5,false,false,false,pace,stamina
+Júnior Brumado,FW,L,27,BRA,6,false,false,false,dribbling,stamina
+Mads Bech Sorensen,CB,L,27,DEN,7,false,false,false,marking,tackling
+Adam Gabriel,FB,R,25,CZE,4,false,false,false,heading,pace
+Mikel Gogorza,FW,L,19,DEN,5,false,false,false,pace,dribbling
+Martin Erlic,CB,R,28,CRO,6,true,false,false,tackling,heading
+Lee Han Beom,CB,R,24,KOR,6,false,false,false,heading,marking
+Friday Etim,FW,R,24,NGA,6,false,false,false,finishing,heading
+Elias Rafn Olafsson,GK,R,26,ISL,7,false,false,false,reflexes,positioning
+Jonas Lossl,GK,R,37,DEN,2,false,false,false,rushing-out,positioning
+Ovie Ejeheri,GK,R,23,ENG,5,true,false,false,positioning,reflexes

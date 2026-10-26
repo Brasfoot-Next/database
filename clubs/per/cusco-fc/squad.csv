@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Pedro Díaz,GK,L,28,PER,7,true,false,false,reflexes,positioning
+Andy Vidal,GK,R,31,PER,3,false,false,false,penalty-saving,reflexes
+Alessandro Cavagna,GK,L,22,PER,5,false,false,false,positioning,penalty-saving
+Rodolfo Anderson,GK,R,30,PER,6,false,false,false,positioning,rushing-out
+Carlos Gamarra,CB,L,26,PER,7,true,false,false,heading,marking
+Gu-rum Choi,CB,R,27,PER,3,true,false,false,marking,tackling
+Aldair Fuentes,CB,R,28,PER,5,false,false,false,marking,heading
+Alex Custodio,CB,L,22,VEN,6,false,false,false,heading,tackling
+Álvaro Ampuero,CB,L,33,PER,7,false,false,false,stamina,heading
+José Bolívar,FB,L,26,PER,8,false,false,false,stamina,pace
+Ricardo Lagos,FB,L,30,PER,7,false,false,false,stamina,passing
+Marlon Ruidías,FB,R,27,PER,4,true,false,false,passing,crossing
+José Zevallos,FB,R,27,PER,5,true,false,false,dribbling,pace
+Oswaldo Valenzuela,MF,L,25,PER,6,true,false,false,finishing,playmaking
+Miguel Aucca,MF,R,27,PER,8,true,false,false,finishing,passing
+Carlo Diez,MF,R,30,PER,4,false,false,false,dribbling,pace
+Carlos Montaño,MF,R,27,ECU,5,true,false,false,tackling,marking
+Diego Soto,MF,L,25,PER,6,false,false,false,dribbling,tackling
+Iván Colman,MF,R,31,ARG,7,false,false,false,dribbling,pace
+Miguel Silveira,MF,R,23,BRA,2,true,false,false,marking,passing
+Sergio Quillahuaman,MF,R,19,PER,7,false,false,false,playmaking,finishing
+Lucas Colitto,FW,L,32,ARG,3,true,false,false,finishing,pace
+José Manzaneda,FW,L,31,PER,5,true,false,false,finishing,heading
+José Alí,FW,R,21,PER,6,false,false,false,pace,crossing
+Joel Herrera,FW,R,22,PER,7,false,false,false,passing,pace
+Nicolás Silva,FW,R,36,ARG,3,false,false,false,heading,pace
+Facundo Callejo,FW,L,34,ARG,5,false,false,false,finishing,pace
+Juan Manuel Tévez,FW,R,38,ARG,6,false,false,false,pace,crossing

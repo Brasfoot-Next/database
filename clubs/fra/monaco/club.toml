@@ -1,0 +1,13 @@
+name = "Monaco"
+country = "FRA"
+level = 19
+reputation = 4
+colors = ["#F0F0F0", "#A00000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Philipp Ilenikhena"
+country = "BRA"

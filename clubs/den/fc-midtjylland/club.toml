@@ -1,0 +1,13 @@
+name = "FC Midtjylland"
+country = "DEN"
+level = 14
+reputation = 3
+colors = ["#A02020", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Edward Simsir"
+country = "BRA"

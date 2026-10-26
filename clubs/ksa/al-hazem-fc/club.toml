@@ -1,0 +1,13 @@
+name = "Al Hazem FC"
+country = "KSA"
+level = 10
+reputation = 2
+colors = ["#F0B000", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Mohammed Varela"
+country = "BRA"

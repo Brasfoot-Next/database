@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ljotur Steinarsson,GK,L,18,ISL,5,true,false,false,positioning,reflexes
+Sindri Snaer Vilhjálmsson,GK,R,17,ISL,4,true,false,false,penalty-saving,positioning
+Viktor Örn Gunnarsson,FB,L,19,ISL,6,true,false,false,crossing,pace
+Gabríel Thór Stefánsson,FB,R,19,ISL,2,true,false,false,crossing,passing
+Ólafur Gudmundsson,FB,L,17,ISL,9,true,false,false,pace,crossing
+Nökkvi Egilsson,CB,R,18,ISL,8,true,false,false,tackling,heading
+Jón Arnar Snorrason,CB,L,18,ISL,3,true,false,false,tackling,heading
+Andri Már Strange,CB,R,19,ISL,7,true,false,false,heading,tackling
+Tómas Bjarki Jónsson,MF,L,16,ISL,9,true,false,false,finishing,passing
+Benedikt Warén,MF,R,17,ISL,10,true,false,false,passing,finishing
+Jón Smári Ólafsson,MF,L,19,ISL,2,true,false,false,tackling,passing
+Anton Logi Lúdvíksson,MF,R,16,ISL,2,true,false,false,marking,tackling
+Sölvi Pálsson,FW,L,16,ISL,7,true,false,false,finishing,pace
+Thorbergur Thór Steinarsson,FW,R,18,ISL,9,true,false,false,pace,finishing
+Karl Fridleifur Gunnarsson,FW,L,17,ISL,2,true,false,false,finishing,heading

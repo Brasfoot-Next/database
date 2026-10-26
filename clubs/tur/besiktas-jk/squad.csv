@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Orkun Kokcu,MF,L,25,TUR,9,true,false,false,stamina,playmaking
+Milot Rashica,FW,L,30,TUR,5,false,false,false,pace,stamina
+Jonas Svensson,FB,R,33,NOR,6,false,false,false,stamina,tackling
+Wilfred Ndidi,MF,R,29,NGA,7,true,false,false,stamina,tackling
+Rafa,MF,R,33,POR,9,false,false,false,pace,dribbling
+David Jurasek,FB,L,26,CZE,5,true,false,false,pace,crossing
+Salih Ucan,MF,R,32,TUR,6,true,false,false,playmaking,crossing
+Ridvan Yilmaz,FB,L,25,TUR,7,false,false,false,pace,dribbling
+Jota Silva,FW,R,27,POR,10,false,false,false,pace,dribbling
+Cengiz Under,FW,L,29,TUR,5,false,false,false,crossing,dribbling
+Kartal Yilmaz,MF,R,25,TUR,6,true,false,false,crossing,passing
+Gabriel Paulista,CB,R,35,BRA,6,false,false,false,heading,marking
+Vaclav Cerny,FW,L,28,CZE,8,false,false,false,stamina,pace
+Demir Ege Tiknaz,MF,R,22,TUR,2,false,false,false,stamina,playmaking
+Tammy Abraham,FW,R,28,ENG,6,true,false,false,heading,pace
+Gokhan Sazdagi,FB,R,31,TUR,7,false,false,false,tackling,stamina
+Taylan Bulut,FB,R,20,GER,1,true,false,false,pace,stamina
+Tiago Djaló,CB,R,26,POR,5,true,false,false,pace,tackling
+El Bilal Toure,FW,R,24,MLI,6,true,false,false,pace,finishing
+Felix Uduokhai,CB,L,28,GER,7,false,false,false,marking,heading
+Necip Uysal,CB,R,35,TUR,5,false,false,false,tackling,marking
+Emirhan Topcu,CB,L,25,TUR,6,true,false,false,tackling,pace
+Mustafa Erhan Hekimoglu,FW,R,19,TUR,7,false,false,false,pace,stamina
+Mert Gunok,GK,R,37,TUR,9,false,false,false,reflexes,positioning
+Ersin Destanoglu,GK,R,25,TUR,5,true,false,false,positioning,rushing-out
+Emre Bilgin,GK,L,22,TUR,6,false,false,false,penalty-saving,reflexes

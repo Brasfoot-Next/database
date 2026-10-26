@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Aimé Bakula,GK,L,37,COD,9,true,false,false,penalty-saving,reflexes
+Ibrahim Mounkoro,GK,L,32,MLI,4,false,false,false,positioning,rushing-out
+Kabaso Chongo,FB,R,30,ZAM,0,true,false,false,marking,pace
+Issama Mpeko,FB,L,33,COD,10,true,false,false,marking,passing
+Joseph Ochaya,FB,L,28,UGA,10,false,false,false,marking,finishing
+Ernest Luzolo,FB,R,25,COD,8,false,false,false,finishing,pace
+Kévin Mondeko,CB,R,26,COD,4,true,false,false,tackling,stamina
+Tandi Mwape,CB,L,26,ZAM,5,true,false,false,tackling,stamina
+Alexis Banza,CB,L,23,COD,1,false,false,false,heading,stamina
+Magloire Ntambwe,CB,R,24,COD,4,false,false,false,tackling,marking
+Kouamé Koffi,MF,R,31,CIV,0,true,false,false,tackling,marking
+Glody Likonza,MF,R,24,COD,3,true,false,false,finishing,passing
+Trésor Mputu,MF,L,36,COD,9,true,false,false,playmaking,pace
+Gondry Bibonge,MF,R,22,COD,1,true,false,false,finishing,passing
+Freddy Djédjé,MF,L,27,CIV,1,false,false,false,finishing,passing
+Boaz Ngalamulume,MF,R,21,COD,1,false,false,false,marking,pace
+Christ Kinsangala,MF,L,22,COD,5,false,false,false,tackling,marking
+Serge Mukoko,MF,R,26,COD,5,false,false,false,marking,passing
+Kalaba,FW,R,35,ZAM,0,true,false,false,heading,stamina
+Phillippe Kinzumbi,FW,R,25,COD,6,true,false,false,pace,dribbling
+Thomas Ulimwengu,FW,R,29,TAN,8,false,false,false,pace,crossing
+Richard Njoh,FW,R,27,CMR,7,false,false,false,pace,finishing

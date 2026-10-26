@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Konstantinos Fortounis,FW,R,33,GRE,6,true,false,false,playmaking,passing
+Pedro Rebocho,FB,L,31,POR,10,true,false,false,stamina,pace
+Georgios Masouras,FW,R,32,GRE,3,true,false,false,crossing,dribbling
+Joshua King,FW,L,34,NOR,5,false,false,false,dribbling,pace
+Mansour Hamzi,MF,R,34,KSA,6,true,false,false,stamina,pace
+Dimitrios Kourbelis,MF,R,32,GRE,7,true,false,false,pace,stamina
+Paolo Fernandes,FW,L,28,ESP,3,false,false,false,dribbling,pace
+Saleh Al Amri,FW,L,32,KSA,5,false,false,false,stamina,pace
+Bart Schenkeveld,CB,L,35,NED,6,true,false,false,tackling,heading
+Aref Al Haider,FB,R,29,KSA,7,false,false,false,pace,stamina
+Majed Kanabah,MF,L,33,KSA,5,true,false,false,stamina,passing
+Saeed Al Hamsal,FB,R,30,KSA,6,false,false,false,pace,stamina
+Hamad Al Jayzani,FB,L,33,KSA,7,true,false,false,stamina,pace
+Murad Hawsawi,MF,L,25,KSA,2,true,false,false,pace,stamina
+Ahmed Asiri,CB,R,34,KSA,5,false,false,false,stamina,heading
+Bandar Al Mutairi,FB,L,36,KSA,6,false,false,false,pace,stamina
+Abdullah Al Hafith,CB,R,33,KSA,7,true,false,false,stamina,heading
+Abdulmajeed Al Khathami,FW,R,21,KSA,2,false,false,false,pace,heading
+Ali Al Abdrabalnabi,FW,L,22,KSA,5,false,false,false,pace,stamina
+Mohammed Khubrani,CB,R,32,KSA,6,false,false,false,stamina,tackling
+Mohammed Al Abdullah,FW,L,24,KSA,4,false,false,false,pace,passing
+Ali Al Shaefi,FB,L,24,KSA,5,false,false,false,pace,tackling
+Anthony Moris,GK,L,36,KSA,6,true,false,false,positioning,reflexes
+Hussain Al Sultan,FW,R,22,KSA,7,false,false,false,stamina,heading
+Marwan Al Haidari,GK,L,30,KSA,4,false,false,false,positioning,reflexes
+Mohammed Al Ghanem,GK,R,19,KSA,5,false,false,false,penalty-saving,reflexes
+Rayan Al Dawsari,GK,R,22,KSA,6,false,false,false,reflexes,positioning

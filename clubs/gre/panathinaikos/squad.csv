@@ -1,0 +1,35 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Iñaki Peña,GK,R,27,ESP,5,true,false,false,reflexes,positioning
+Lucas Chaves,GK,R,30,ARG,6,false,false,false,rushing-out,positioning
+Konstantinos Kotsaris,GK,R,30,GRE,7,false,false,false,reflexes,penalty-saving
+Stefan de Vrij,CB,R,34,NED,8,true,false,false,marking,tackling
+Ahmed Touba,CB,L,28,ALG,4,true,false,false,stamina,pace
+Tin Jedvaj,CB,R,30,CRO,6,false,false,false,heading,tackling
+Sverrir Ingi Ingason,CB,R,33,ISL,6,false,false,false,tackling,marking
+Erik Palmer-Brown,CB,L,29,USA,8,false,false,false,tackling,heading
+Georgios Katris,CB,R,20,GRE,5,false,false,false,marking,stamina
+Victor Kristiansen,FB,L,23,DEN,6,true,false,false,stamina,crossing
+Georgios Kyriakopoulos,FB,R,30,GRE,9,false,false,false,passing,crossing
+Davide Calabria,FB,R,29,ITA,5,true,false,false,tackling,crossing
+Triantafyllos Tsapras,FB,L,24,GRE,6,false,false,false,crossing,passing
+Pedro Chirivella,MF,R,29,ESP,7,true,false,false,stamina,playmaking
+Étienne Camara,MF,L,23,FRA,9,false,false,false,tackling,passing
+Manolis Siopis,MF,R,32,GRE,5,false,false,false,stamina,tackling
+Adam Gnezda Cerin,MF,R,27,SVN,6,true,false,false,stamina,passing
+Sotiris Kontouris,MF,R,21,GRE,7,false,false,false,passing,tackling
+Tonny Vilhena,MF,L,31,NED,9,false,false,false,playmaking,crossing
+Moussa Sissoko,MF,R,37,FRA,5,false,false,false,stamina,passing
+Santino Andino,MF,L,20,ARG,8,true,false,false,pace,dribbling
+Adriano Jagusic,MF,R,20,CRO,5,true,false,false,dribbling,playmaking
+Vicente Taborda,MF,R,25,ARG,6,false,false,false,stamina,pace
+Anastasios Bakasetas,MF,L,33,GRE,7,false,false,false,finishing,playmaking
+Aidon Shehu,MF,R,19,ALB,8,false,false,false,tackling,passing
+Anass Zaroury,FW,L,25,MAR,5,true,false,false,pace,dribbling
+Facundo Pellistri,FW,R,24,URU,6,true,false,false,pace,dribbling
+Pavlos Pantelidis,FW,R,23,GRE,7,false,false,false,crossing,pace
+Georgios Kyriopoulos,FW,L,22,GRE,9,false,false,false,pace,dribbling
+Giannis Bokos,FW,R,19,GRE,5,false,false,false,pace,dribbling
+Andreas Tetteh,FW,L,25,GRE,6,false,false,false,heading,pace
+Elmin Rastoder,FW,R,24,GRE,7,false,false,false,dribbling,playmaking
+Cyriel Dessers,FW,R,31,NGA,10,false,false,false,pace,finishing
+Milos Pantovic,FW,R,24,SRB,5,false,false,false,pace,finishing

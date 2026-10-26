@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Gustavo Sá,MF,R,21,POR,1,true,false,false,playmaking,passing
+Tom Van De Looi,MF,R,27,NED,5,true,false,false,stamina,passing
+Rafa Soares,FB,L,31,POR,6,false,false,false,pace,stamina
+Gil Dias,FW,L,29,POR,7,false,false,false,dribbling,stamina
+Óscar Aranda,FW,L,24,ESP,2,false,false,false,dribbling,pace
+Mathias De Amorim,MF,L,21,POR,5,true,false,false,dribbling,passing
+Simon Elisor,FW,L,27,FRA,6,false,false,false,pace,heading
+Gustavo Garcia,FB,R,24,BRA,7,false,false,false,stamina,pace
+Rochinha,FW,L,31,POR,2,false,false,false,pace,dribbling
+Sorriso,FW,L,25,BRA,5,true,false,false,pace,dribbling
+Otar Mamageishvili,MF,R,23,GEO,6,false,false,false,passing,dribbling
+Rodrigo Pinheiro,FB,R,24,POR,8,true,false,false,pace,crossing
+Rodrigo Ribeiro,MF,R,20,POR,2,true,false,false,playmaking,pace
+Marcos Peña,MF,R,21,ESP,5,false,false,false,passing,playmaking
+Pedro Bondo,FB,L,21,ANG,6,true,false,false,pace,stamina
+Antoine Joujou,FW,L,23,FRA,7,false,false,false,dribbling,pace
+Gonzalo Pastor,FW,R,20,ESP,3,false,false,false,pace,crossing
+Umar Abubakar,FW,R,20,NGA,5,false,false,false,pace,heading
+Pedro Santos,FW,L,23,POR,6,false,false,false,pace,dribbling
+Justin De Haas,CB,L,26,NED,7,true,false,false,tackling,marking
+Lamine Beye,MF,R,19,SEN,6,false,false,false,passing,dribbling
+Leonardo Realpe,CB,R,25,ECU,7,false,false,false,passing,tackling
+Yassir Zabiri,FW,L,21,MAR,3,true,false,false,pace,dribbling
+Romeo Beney,FW,R,21,SUI,4,false,false,false,finishing,pace
+Rafael Venâncio,CB,L,20,BRA,6,false,false,false,tackling,pace
+Ibrahima Ba,CB,R,21,SEN,6,true,false,false,tackling,heading
+Renan Santana,CB,L,21,BRA,10,false,false,false,tackling,marking
+Ivan Zlobin,GK,R,29,RUS,5,false,false,false,reflexes,positioning
+Lazar Carevic,GK,R,27,MNE,6,true,false,false,reflexes,positioning
+Hugo Cunha,GK,R,25,POR,7,false,false,false,reflexes,penalty-saving
+Gabriel Cabral,GK,R,23,BRA,6,false,false,false,penalty-saving,positioning

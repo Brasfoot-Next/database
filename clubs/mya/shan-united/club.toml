@@ -1,0 +1,13 @@
+name = "Shan United"
+country = "MYA"
+level = 14
+reputation = 3
+colors = ["#ffffff", "#cc0033"]
+
+[stadium]
+name = "KBZ"
+capacity = 7000
+
+[coach]
+name = "Win Aung"
+country = "MYA"

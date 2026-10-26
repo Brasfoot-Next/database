@@ -1,0 +1,13 @@
+name = "As Otohô"
+country = "CGO"
+level = 15
+reputation = 2
+colors = ["#009900", "#ffffcc"]
+
+[stadium]
+name = "Oyo"
+capacity = 1629
+
+[coach]
+name = "Barthélémy Ngatsono"
+country = "CGO"

@@ -1,0 +1,13 @@
+name = "Torino"
+country = "ITA"
+level = 18
+reputation = 4
+colors = ["#601020", "#F0F0F0"]
+
+[stadium]
+name = "Olimpico Grande Torino"
+capacity = 28177
+
+[coach]
+name = "Kristjan Coco"
+country = "BRA"

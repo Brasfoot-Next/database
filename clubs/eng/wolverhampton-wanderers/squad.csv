@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jean Ricner Bellegarde,MF,R,28,HAI,5,true,false,false,stamina,pace
+Ladislav Krejci,CB,L,27,CZE,6,true,false,false,heading,stamina
+João Gomes,MF,L,25,BRA,7,true,false,false,tackling,passing
+Marshall Munetsi,FW,R,30,ZIM,9,false,false,false,stamina,heading
+André,MF,R,25,BRA,5,true,false,false,tackling,passing
+Jhon Arias,FW,L,28,COL,6,false,false,false,pace,dribbling
+Matt Doherty,CB,R,34,IRL,7,false,false,false,stamina,tackling
+Jackson Tchatchoua,FB,R,25,CMR,8,true,false,false,pace,stamina
+Hugo Bueno,FB,L,23,ESP,5,true,false,false,crossing,dribbling
+Ki Jana Hoever,FB,R,24,NED,6,false,false,false,stamina,crossing
+Hwang Hee Chan,FW,R,30,KOR,9,false,false,false,dribbling,finishing
+David Moller Wolfe,FB,L,24,NOR,5,false,false,false,stamina,pace
+Emmanuel Agbadou,CB,R,29,CIV,6,true,false,false,pace,tackling
+Jorgen Strand Larsen,FW,R,26,NOR,7,false,false,false,stamina,finishing
+Toti,CB,L,27,POR,9,true,false,false,pace,tackling
+Rodrigo Gomes,FW,R,23,POR,5,false,false,false,pace,dribbling
+Toluwalase Arokodare,FW,R,25,NGA,6,false,false,false,finishing,pace
+Fer López,FW,L,22,ESP,7,true,false,false,dribbling,passing
+Tawanda Chirewa,FW,L,22,ZIM,10,false,false,false,pace,dribbling
+Santiago Bueno,CB,R,27,URU,5,false,false,false,tackling,marking
+Yerson Mosquera,CB,R,25,COL,8,false,false,false,pace,tackling
+Enso Gonzalez,FW,L,21,PAR,5,false,false,false,pace,dribbling
+Mateus Mané,FW,R,18,ENG,6,true,false,false,pace,finishing
+José Sá,GK,R,33,POR,7,true,false,false,reflexes,penalty-saving
+Sam Johnstone,GK,R,33,ENG,8,false,false,false,reflexes,penalty-saving
+Daniel Bentley,GK,R,33,ENG,5,false,false,false,reflexes,penalty-saving

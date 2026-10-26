@@ -1,0 +1,13 @@
+name = "Shandong Taishan"
+country = "CHN"
+level = 12
+reputation = 2
+colors = ["#F0F0F0", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Gao Yixiang"
+country = "BRA"

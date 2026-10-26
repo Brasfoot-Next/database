@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Davidson,FW,L,35,BRA,5,true,false,false,stamina,pace
+Zhang Xiuwei,MF,R,30,CHN,6,true,false,false,stamina,pace
+Nélson da Luz,FW,L,28,ANG,7,false,false,false,pace,stamina
+Matheus Índio,MF,L,27,BRA,4,true,false,false,stamina,pace
+Abdul Aziz Yakubu,FW,R,27,GHA,5,true,false,false,pace,stamina
+Duan Liuyu,MF,R,28,CHN,6,true,false,false,pace,stamina
+Zhang Chengdong,CB,R,37,CHN,7,false,false,false,heading,crossing
+Wang Peng,CB,L,33,CHN,4,true,false,false,stamina,pace
+Ding Haifeng,FB,L,35,CHN,6,false,false,false,pace,playmaking
+Chen Po Liang,MF,R,38,CHN,7,false,false,false,pace,passing
+Riccieli,CB,R,27,BRA,6,true,false,false,marking,tackling
+He Longhai,FW,R,24,CHN,7,false,false,false,pace,dribbling
+Feng Gang,MF,R,33,CHN,2,false,false,false,pace,playmaking
+Xu Bin,MF,R,22,CHN,5,true,false,false,stamina,pace
+Zhao Honglue,FB,L,36,CHN,6,false,false,false,stamina,crossing
+Gao Di,FW,R,36,CHN,7,false,false,false,stamina,heading
+Sun Jie,CB,R,34,CHN,3,false,false,false,stamina,heading
+Mutellip Iminqari,FW,L,22,CHN,5,false,false,false,dribbling,crossing
+Yang Xi,FB,R,21,CHN,6,true,false,false,stamina,pace
+Fang Haiyang,MF,R,20,CHN,2,false,false,false,pace,stamina
+Luan Hao,MF,R,21,CHN,5,false,false,false,pace,stamina
+Liu Baiyang,FW,R,23,CHN,6,false,false,false,dribbling,pace
+Song Haoyu,FB,R,24,CHN,10,true,false,false,stamina,pace
+Liu Xiaolong,FW,L,22,CHN,5,false,false,false,pace,dribbling
+Yan Qihang,FW,R,24,CHN,5,false,false,false,pace,dribbling
+Shan Huanhuan,FW,R,27,CHN,6,false,false,false,finishing,heading
+Zhang Boxuan,FW,R,18,CHN,1,false,false,false,finishing,pace
+Dong Hang,GK,R,33,CHN,5,false,false,false,penalty-saving,reflexes
+Wang Hanyi,GK,R,21,CHN,6,false,false,false,penalty-saving,reflexes
+Li Hao,GK,R,22,CHN,7,true,false,false,reflexes,positioning
+Qi Bingyu,GK,R,21,CHN,5,false,false,false,penalty-saving,positioning

@@ -1,0 +1,13 @@
+name = "Kawasaki Frontale"
+country = "JPN"
+level = 14
+reputation = 3
+colors = ["#201010", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Kyosuke Oshima"
+country = "BRA"

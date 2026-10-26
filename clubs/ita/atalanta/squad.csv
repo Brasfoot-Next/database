@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Éderson,MF,R,27,BRA,7,true,false,false,stamina,tackling
+Marten De Roon,MF,R,35,NED,8,false,false,false,stamina,tackling
+Davide Zappacosta,FW,L,34,ITA,5,false,false,false,crossing,stamina
+Mario Pasalic,MF,L,31,CRO,6,false,false,false,dribbling,passing
+Charles De Ketelaere,MF,L,25,BEL,7,true,false,false,dribbling,playmaking
+Yunus Musah,MF,R,23,USA,9,true,false,false,pace,dribbling
+Ademola Lookman,FW,R,28,NGA,5,true,false,false,dribbling,finishing
+Nicola Zalewski,FW,L,24,POL,6,false,false,false,pace,dribbling
+Mitchel Bakker,FB,L,26,NED,6,true,false,false,stamina,pace
+Sead Kolasinac,CB,L,33,BIH,7,false,false,false,tackling,marking
+Lazar Samardzic,MF,L,24,SRB,7,true,false,false,dribbling,passing
+Daniel Maldini,MF,L,24,ITA,9,false,false,false,passing,dribbling
+Raoul Bellanova,FW,R,26,ITA,5,false,false,false,pace,stamina
+Gianluca Scamacca,FW,R,27,ITA,6,false,false,false,heading,finishing
+Marco Brescianini,MF,L,26,ITA,7,false,false,false,passing,dribbling
+Odilon Kossounou,CB,R,25,CIV,9,false,false,false,pace,tackling
+Nikola Krstovic,FW,R,26,MNE,5,true,false,false,heading,finishing
+Kamaldeen Sulemana,FW,L,24,GHA,6,false,false,false,pace,dribbling
+Berat Djimsiti,CB,L,33,ALB,7,false,false,false,marking,heading
+Lorenzo Bernasconi,FW,L,22,ITA,10,false,false,false,passing,tackling
+Isak Hien,CB,R,27,SWE,7,true,false,false,tackling,marking
+Giorgio Scalvini,CB,R,22,ITA,8,true,false,false,tackling,marking
+Honest Ahanor,FB,L,18,ITA,5,true,false,false,tackling,pace
+Marco Sportiello,GK,R,34,ITA,6,false,false,false,positioning,reflexes
+Marco Carnesecchi,GK,R,26,ITA,7,true,false,false,reflexes,penalty-saving
+Francesco Rossi,GK,R,35,ITA,8,false,false,false,penalty-saving,rushing-out

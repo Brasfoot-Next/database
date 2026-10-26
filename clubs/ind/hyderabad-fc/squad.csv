@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Andrei Alba,MF,L,31,BRA,1,true,false,false,passing,pace
+Lenny Rodrigues,MF,R,39,IND,5,false,false,false,stamina,passing
+Isaac Vanmalsawma,MF,R,29,IND,5,true,false,false,pace,stamina
+Allan Paulista,FW,R,27,BRA,6,true,false,false,pace,finishing
+Edmilson Correia,FW,L,26,GNB,7,false,false,false,pace,dribbling
+Ayush Adhikari,MF,R,26,IND,3,true,false,false,pace,passing
+Lalchhanhima Sailo,MF,R,23,IND,5,true,false,false,pace,tackling
+Ramhlunchhunga Ramhlunchhunga,FW,L,25,IND,6,false,false,false,pace,stamina
+Devendra Murgaonkar,FW,R,27,IND,7,true,false,false,pace,finishing
+Alex Saji,CB,L,26,IND,3,true,false,false,stamina,pace
+Abhijith PA,MF,R,23,IND,7,false,false,false,passing,playmaking
+Manoj Mohammad,FB,L,27,IND,3,true,false,false,stamina,pace
+Parag Shrivas,FB,L,29,IND,5,false,false,false,stamina,tackling
+Sourav K,FW,R,25,IND,6,false,false,false,pace,dribbling
+Leander Dcunha,FB,R,28,IND,7,true,false,false,tackling,marking
+Joseph Sunny,FW,R,22,IND,4,false,false,false,dribbling,finishing
+Stefan Sapic,CB,R,29,SRB,5,true,false,false,heading,pace
+Muhammed Rafi,FB,R,25,IND,6,false,false,false,marking,stamina
+Soyal Joshy,FB,R,24,IND,7,false,false,false,pace,stamina
+Laldanmawia Hrangthankima,FB,L,22,IND,4,false,false,false,stamina,pace
+Aaron Vanlalrinchhana,FW,R,22,IND,7,false,false,false,pace,finishing
+Karanjit Singh,GK,R,40,IND,3,false,false,false,reflexes,positioning
+Arshdeep Singh,GK,R,28,IND,5,true,false,false,positioning,rushing-out
+Lalbiakhlua Jongte,GK,L,24,IND,6,false,false,false,penalty-saving,reflexes
+Aaryan Saroha,GK,R,25,IND,7,false,false,false,reflexes,rushing-out

@@ -1,0 +1,13 @@
+name = "Breidablik"
+country = "ISL"
+level = 14
+reputation = 2
+colors = ["#009933", "#ffffff"]
+
+[stadium]
+name = "Kópavogsvöllur"
+capacity = 5501
+
+[coach]
+name = "Óskar Hrafn Thorvaldsson"
+country = "ISL"

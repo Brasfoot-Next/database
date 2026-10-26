@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Carlos Adorno,GK,L,25,BOL,7,false,false,false,reflexes,penalty-saving
+Luis Cárdenas,GK,R,35,BOL,3,true,false,false,reflexes,positioning
+Jhon Chávez,GK,R,30,BOL,5,false,false,false,rushing-out,positioning
+Robson dos Santos,CB,R,33,BRA,6,true,false,false,marking,tackling
+Ricardo Suárez,CB,R,32,BOL,7,true,false,false,heading,tackling
+David Robles,CB,R,34,PAR,4,false,false,false,heading,marking
+Vladimir Galvez,FB,R,19,BOL,5,false,false,false,marking,pace
+Marvin Bejarano,FB,R,38,BOL,6,false,false,false,pace,crossing
+Kevin Mamani,FB,R,21,BOL,8,true,false,false,stamina,crossing
+Daniel Torrez,FB,R,19,BOL,4,false,false,false,pace,tackling
+Javier Guerra,FB,R,22,BOL,7,true,false,false,pace,stamina
+Santiago Cuiza,MF,L,21,BOL,3,false,false,false,tackling,marking
+Josue Castillo,MF,R,22,BOL,4,false,false,false,passing,tackling
+Josué Mamani,MF,R,25,BOL,5,true,false,false,pace,dribbling
+Diego Wayar,MF,R,32,BOL,6,false,false,false,pace,dribbling
+Víctor Melgar,MF,L,38,BOL,8,false,false,false,playmaking,dribbling
+Denilzon Ramallo,MF,R,28,BOL,4,true,false,false,dribbling,pace
+Jesús Velásquez,MF,R,20,BOL,5,false,false,false,pace,passing
+Yerson Espíndola,MF,R,18,BOL,6,false,false,false,stamina,passing
+Cristhian Árabe,MF,R,34,BOL,9,false,false,false,passing,finishing
+Juan Ribera,MF,R,30,BOL,7,true,false,false,pace,crossing
+Limberg Gutiérrez,MF,R,28,BOL,1,true,false,false,finishing,playmaking
+Yordy Álvarez,MF,R,20,BOL,5,false,false,false,dribbling,playmaking
+Mario Barbery,FW,R,24,BOL,5,false,false,false,heading,stamina
+Ronald Cuéllar,FW,R,29,BOL,6,true,false,false,dribbling,finishing
+Mauricio Chajtur,FW,R,29,BOL,7,false,false,false,finishing,dribbling
+Alejandro Cervantes,FW,R,23,BOL,3,false,false,false,finishing,pace
+Ramiro Eguez,FW,R,22,BOL,5,false,false,false,dribbling,finishing
+Jorge Orozco,FW,R,26,BOL,6,true,false,false,pace,crossing

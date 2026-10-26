@@ -1,0 +1,13 @@
+name = "Sirens"
+country = "MLT"
+level = 12
+reputation = 1
+colors = ["#0000cc", "#ffffff"]
+
+[stadium]
+name = "Charles Abela"
+capacity = 1000
+
+[coach]
+name = "Winston Muscat"
+country = "MLT"

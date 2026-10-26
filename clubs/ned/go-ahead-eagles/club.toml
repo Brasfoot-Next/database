@@ -1,0 +1,13 @@
+name = "Go Ahead Eagles"
+country = "NED"
+level = 13
+reputation = 3
+colors = ["#F0D000", "#C01020"]
+
+[stadium]
+name = "De Adelaarshorst"
+capacity = 10400
+
+[coach]
+name = "Calvin Breum"
+country = "BRA"

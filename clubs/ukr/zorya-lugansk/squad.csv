@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Oleksandr Saputin,GK,R,22,UKR,7,true,false,false,rushing-out,positioning
+Vladyslav Rybak,GK,R,25,UKR,2,false,false,false,reflexes,positioning
+Valeriy Kosivskyi,GK,R,20,UKR,5,false,false,false,penalty-saving,reflexes
+Jordan,CB,L,27,BRA,6,true,false,false,passing,marking
+Andrija Janjic,CB,R,24,UKR,7,true,false,false,heading,stamina
+Gabriel Eskinja,CB,R,22,AUT,2,false,false,false,heading,tackling
+Juninho,FB,L,30,BRA,5,true,false,false,passing,pace
+Vasyl Kravets,FB,R,28,UKR,6,false,false,false,crossing,pace
+Zan Trontelj,FB,L,26,SVN,7,true,false,false,passing,crossing
+Igor Perduta,FB,R,35,UKR,3,false,false,false,dribbling,pace
+Dejan Popara,MF,R,23,UKR,7,true,false,false,finishing,playmaking
+Jakov Basic,MF,L,29,CRO,9,true,false,false,finishing,playmaking
+Bogdan Kushnirenko,MF,R,30,UKR,4,false,false,false,dribbling,pace
+Kyrylo Dryshlyuk,MF,R,26,UKR,5,true,false,false,playmaking,finishing
+Nemanja Andjusic,MF,R,29,UKR,6,true,false,false,playmaking,passing
+Ivan Nesterenko,MF,R,22,UKR,1,false,false,false,passing,finishing
+Sallieu Bah,MF,R,19,SLE,5,false,false,false,stamina,tackling
+Ivan Golovkin,MF,L,26,UKR,5,false,false,false,passing,stamina
+Domagoj Jelavic,FW,R,24,CRO,6,false,false,false,dribbling,finishing
+Vladyslav Vakula,FW,L,27,UKR,1,false,false,false,finishing,dribbling
+Artem Slesar,FW,R,21,UKR,7,true,false,false,pace,crossing
+Igor Gorbach,FW,R,22,UKR,2,true,false,false,dribbling,finishing
+Pylyp Budkivskyi,FW,L,34,UKR,4,false,false,false,playmaking,finishing

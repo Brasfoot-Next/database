@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Brayan Cortés,GK,L,27,CHI,3,true,false,false,positioning,rushing-out
+Omar Carabalí,GK,L,25,CHI,6,false,false,false,penalty-saving,reflexes
+Julio Fierro,GK,L,20,CHI,6,false,false,false,positioning,rushing-out
+Óscar Opazo,FB,R,35,CHI,5,true,false,false,pace,passing
+Matías Zaldivia,FB,L,31,ARG,9,true,false,false,crossing,pace
+Jeyson Rojas,FB,L,20,CHI,1,false,false,false,finishing,passing
+Bruno Gutiérrez,FB,R,24,CHI,5,false,false,false,stamina,pace
+Emiliano Amor,CB,R,31,ARG,2,true,false,false,heading,marking
+Maximiliano Falcón,CB,R,25,URU,6,true,false,false,heading,stamina
+Daniel Gutiérrez,CB,L,23,CHI,3,false,false,false,stamina,pace
+Suazo,MF,R,36,CHI,6,true,false,false,stamina,marking
+César Fuentes,MF,L,29,CHI,4,true,false,false,tackling,marking
+Gabriel Costa,MF,L,32,PER,6,false,false,false,finishing,passing
+Carlo Villanueva,MF,L,23,CHI,9,false,false,false,passing,finishing
+Esteban Pavez,MF,R,36,CHI,1,true,false,false,stamina,marking
+Leonardo Gil,MF,L,31,CHI,8,true,false,false,tackling,finishing
+Vicente Pizarro,MF,L,23,CHI,10,false,false,false,stamina,passing
+Lucas Soto,MF,R,19,CHI,3,false,false,false,dribbling,playmaking
+Marcos Bolados,FW,R,30,CHI,8,true,false,false,pace,dribbling
+Martín Lucero,FW,R,30,ARG,1,true,false,false,playmaking,finishing
+Cristián Zavala,FW,R,22,CHI,5,false,false,false,crossing,pace
+Agustín Bouzat,FW,R,28,ARG,5,false,false,false,finishing,pace

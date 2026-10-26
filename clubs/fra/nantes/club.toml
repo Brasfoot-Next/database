@@ -1,0 +1,13 @@
+name = "Nantes"
+country = "FRA"
+level = 15
+reputation = 3
+colors = ["#005010", "#D0A000"]
+
+[stadium]
+name = "Stade de la Beaujoire"
+capacity = 35322
+
+[coach]
+name = "Tylel Tati"
+country = "BRA"

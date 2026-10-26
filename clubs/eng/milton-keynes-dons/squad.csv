@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Alex Gilbey,MF,L,31,ENG,5,false,false,false,stamina,pace
+Callum Paterson,FW,R,31,SCO,7,false,false,false,stamina,heading
+Kane Wilson,FB,R,26,ENG,3,true,false,false,stamina,pace
+Aaron Collins,FW,R,29,WAL,5,false,false,false,stamina,pace
+Daniel Crowley,MF,R,29,ENG,6,true,false,false,stamina,pace
+Will Collar,MF,R,29,ENG,7,true,false,false,stamina,pace
+Nathaniel Mendez Laing,FW,R,34,GUA,4,true,false,false,pace,stamina
+Liam Kelly,MF,R,30,IRL,5,true,false,false,stamina,pace
+Connor Evans,MF,R,29,WAL,6,true,false,false,pace,stamina
+Gethin Jones,FB,R,30,AUS,7,false,false,false,stamina,pace
+Jon Mellish,CB,L,28,ENG,7,true,false,false,stamina,pace
+Aaron Nemane,FB,R,28,FRA,2,true,false,false,stamina,pace
+Joe Tomlinson,FB,L,26,ENG,5,false,false,false,stamina,pace
+Scott Hogan,FW,R,34,IRL,6,false,false,false,pace,stamina
+Jonathan Leko,FW,R,27,ENG,7,true,false,false,pace,dribbling
+Kane Thompson Sommers,MF,R,25,ENG,3,false,false,false,pace,stamina
+Nathan Thompson,CB,R,35,ENG,5,false,false,false,pace,tackling
+Rushian Hepburn Murphy,FW,L,28,ENG,6,false,false,false,pace,dribbling
+Laurence Maguire,CB,L,29,ENG,7,false,false,false,stamina,heading
+Luke Offord,CB,L,26,ENG,3,false,false,false,stamina,pace
+Marvin Ekpiteta,CB,R,31,ENG,7,false,false,false,marking,tackling
+Callum Tripp,CB,R,20,WAL,8,false,false,false,pace,stamina
+Jack Sanders,CB,R,27,ENG,4,true,false,false,stamina,tackling
+Charlie Waller,CB,L,21,ENG,5,false,false,false,stamina,pace
+Craig Macgillivray,GK,R,33,SCO,6,false,false,false,reflexes,penalty-saving
+Connal Trueman,GK,R,30,ENG,1,true,false,false,reflexes,rushing-out
+Tom Finch,GK,R,21,ENG,5,false,false,false,penalty-saving,positioning

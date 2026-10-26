@@ -1,0 +1,13 @@
+name = "Angers"
+country = "FRA"
+level = 14
+reputation = 3
+colors = ["#F0F0F0", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Ousmane Allevinah"
+country = "BRA"

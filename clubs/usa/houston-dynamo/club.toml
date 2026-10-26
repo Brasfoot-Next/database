@@ -1,0 +1,13 @@
+name = "Houston Dynamo"
+country = "USA"
+level = 13
+reputation = 3
+colors = ["#101020", "#FFFFFF"]
+
+[stadium]
+name = "Shell Energy Stadium"
+capacity = 22039
+
+[coach]
+name = "Jack Maurer"
+country = "BRA"

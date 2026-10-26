@@ -1,0 +1,13 @@
+name = "Le Mans"
+country = "FRA"
+level = 9
+reputation = 2
+colors = ["#000000", "#D00010"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Augustin Lauray"
+country = "BRA"

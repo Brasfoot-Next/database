@@ -1,0 +1,13 @@
+name = "Deportivo Cuenca"
+country = "ECU"
+level = 11
+reputation = 2
+colors = ["#007020", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Patricio Ibarra"
+country = "BRA"

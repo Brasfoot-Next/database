@@ -1,0 +1,13 @@
+name = "FC København"
+country = "DEN"
+level = 15
+reputation = 3
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Parken - connected by 3"
+capacity = 38065
+
+[coach]
+name = "Rodrigo Lerager"
+country = "BRA"

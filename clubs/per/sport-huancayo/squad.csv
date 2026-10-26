@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ángel Zamudio,GK,L,29,PER,7,false,false,false,penalty-saving,reflexes
+Diego Campos,GK,R,30,PER,3,true,false,false,rushing-out,reflexes
+Massimo Sandi,GK,R,24,PER,5,false,false,false,reflexes,rushing-out
+Aldair Ccorahua,GK,R,25,PER,6,false,false,false,positioning,penalty-saving
+Marcelo Gaona,CB,R,27,PER,7,true,false,false,marking,passing
+Juan Barreda,CB,R,33,PER,3,false,false,false,marking,tackling
+Yonatan Murillo,CB,R,34,COL,5,false,false,false,marking,passing
+Gustavo Rissi,CB,R,28,BRA,6,true,false,false,marking,tackling
+Jimmy Valoyes,CB,L,39,COL,7,false,false,false,marking,tackling
+Hugo Ángeles,FB,R,32,PER,3,false,false,false,marking,pace
+Jean Franco Falconí,FB,R,30,PER,7,true,false,false,pace,tackling
+Jeremy Rostaing,FB,R,31,PER,1,true,false,false,stamina,pace
+Edu Villar,MF,L,22,PER,6,true,false,false,stamina,passing
+Leonardo Villar,MF,R,26,PER,8,true,false,false,dribbling,pace
+Ricardo Salcedo,MF,R,36,PER,4,false,false,false,tackling,marking
+Diego Carabaño,MF,R,28,PER,5,true,false,false,stamina,passing
+Javier Sanguinetti,MF,R,35,ARG,6,true,false,false,playmaking,passing
+Rick Campodónico,FW,R,30,PER,9,false,false,false,finishing,stamina
+Nahuel Luján,FW,R,30,ARG,4,false,false,false,finishing,dribbling
+Piero Magallanes,FW,R,25,PER,5,true,false,false,pace,crossing
+Juan Giménez,FW,L,23,PAR,7,true,false,false,finishing,stamina
+Daniel Porozo,FW,R,28,ECU,4,false,false,false,dribbling,pace
+Ronal Huaccha,FW,R,32,PER,5,false,false,false,pace,finishing
+Juan Martínez,FW,R,21,PER,7,false,false,false,pace,finishing
+Franco Caballero,FW,L,33,ARG,3,false,false,false,finishing,heading

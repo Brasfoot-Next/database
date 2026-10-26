@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Victor Sochima,GK,R,23,NGA,9,true,false,false,reflexes,positioning
+Afelokhai,GK,R,34,NGA,5,false,false,false,penalty-saving,reflexes
+Godswill,FB,R,23,NGA,1,true,false,false,crossing,marking
+Gideon Duru,FB,L,22,NGA,7,true,false,false,crossing,pace
+Ruffin Ngouan,FB,L,32,CIV,3,false,false,false,crossing,pace
+Bamba Bakari,FB,R,29,NGA,7,false,false,false,marking,finishing
+Maduabuchi,CB,R,25,NGA,5,true,false,false,tackling,heading
+Temple Emekayi,CB,L,23,NGA,8,true,false,false,tackling,marking
+Ngweni Ndassi,CB,L,25,CMR,9,false,false,false,tackling,marking
+Ogundimu,CB,R,20,NGA,2,false,false,false,marking,pace
+Akuneto,MF,R,24,NGA,8,true,false,false,playmaking,passing
+Uche Onwuansanya,MF,R,24,NGA,2,true,false,false,playmaking,passing
+Paul Acquah,MF,R,27,GHA,9,true,false,false,playmaking,pace
+Morice Chukwu,MF,L,26,NGA,9,true,false,false,tackling,marking
+Joseph Onoja,MF,R,23,NGA,3,false,false,false,tackling,marking
+Lookman Binuyo,MF,L,28,NGA,3,false,false,false,marking,finishing
+Nelson Esor,MF,R,25,NGA,10,false,false,false,tackling,marking
+Naziru Auwalu,MF,R,31,NGA,1,false,false,false,passing,finishing
+Nwangwa Nyima,FW,L,29,NGA,9,true,false,false,pace,finishing
+Chiamaka Madu,FW,R,25,NGA,8,true,false,false,finishing,dribbling
+Malachi Ohawuma,FW,R,21,NGA,2,false,false,false,finishing,heading
+Bobby Clement,FW,R,20,NGA,10,false,false,false,dribbling,finishing

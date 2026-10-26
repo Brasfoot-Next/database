@@ -1,0 +1,13 @@
+name = "Rosario Central"
+country = "ARG"
+level = 15
+reputation = 3
+colors = ["#103070", "#E0D000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Angel Campaz"
+country = "BRA"

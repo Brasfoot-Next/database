@@ -1,0 +1,13 @@
+name = "FK Kukësi"
+country = "ALB"
+level = 13
+reputation = 2
+colors = ["#3300ff", "#ffffff"]
+
+[stadium]
+name = "Zeqir Ymeri"
+capacity = 5200
+
+[coach]
+name = "Skender Gega"
+country = "ALB"

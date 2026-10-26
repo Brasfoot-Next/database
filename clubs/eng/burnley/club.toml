@@ -1,0 +1,13 @@
+name = "Burnley"
+country = "ENG"
+level = 17
+reputation = 3
+colors = ["#500040", "#FFFFFF"]
+
+[stadium]
+name = "Turf Moor"
+capacity = 21994
+
+[coach]
+name = "Florentino Humphreys"
+country = "BRA"

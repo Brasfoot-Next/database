@@ -1,0 +1,13 @@
+name = "Comunicaciones"
+country = "GUA"
+level = 14
+reputation = 2
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Doroteo Flores"
+capacity = 26000
+
+[coach]
+name = "William Coito"
+country = "URU"

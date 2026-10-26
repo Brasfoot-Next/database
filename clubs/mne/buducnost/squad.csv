@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Miloš Dragojevic,GK,R,33,MNE,8,true,false,false,penalty-saving,reflexes
+Djordjije Pavlicic,GK,R,25,MNE,10,false,false,false,penalty-saving,reflexes
+Bogdan Milic,FB,R,20,MNE,8,true,false,false,crossing,pace
+Nemanja Sekulic,FB,L,28,MNE,1,false,false,false,marking,pace
+Andrija Raznatovic,FB,L,21,MNE,1,true,false,false,marking,finishing
+Vladan Adzic,CB,L,35,MNE,4,true,false,false,heading,stamina
+Velimir Vlahovic,CB,R,22,MNE,10,true,false,false,tackling,heading
+Vasilije Terzic,MF,L,23,MNE,10,true,false,false,marking,finishing
+Luka Mirković,MF,R,31,MNE,3,true,false,false,marking,finishing
+Miomir Djurickovic,MF,R,25,MNE,8,true,false,false,marking,finishing
+Lazar Mijović,FW,L,19,MNE,8,true,false,false,finishing,dribbling
+Viktor Djukanovic,FW,L,18,MNE,4,true,false,false,heading,finishing
+Zoran Petrovic,FW,R,25,MNE,9,false,false,false,dribbling,finishing
+Petar Vuković,FB,R,20,MNE,5,false,false,false,marking,pace
+Lionel Adams,CB,L,27,RUS,5,false,false,false,heading,stamina
+Amir Muzurovic,CB,R,20,MNE,9,false,false,false,tackling,heading
+Andjelo Rudovic,MF,L,26,MNE,10,false,false,false,playmaking,passing
+Stefan Milosevic,FW,L,26,MNE,6,false,false,false,finishing,dribbling
+Branislav Jankovic,MF,R,30,MNE,8,true,false,false,marking,finishing
+Ariel Lucero,MF,R,23,ARG,10,true,false,false,finishing,passing
+Marko Mrvaljevic,MF,L,21,MNE,6,true,false,false,playmaking,finishing

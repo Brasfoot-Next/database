@@ -1,0 +1,13 @@
+name = "Sparta Rotterdam"
+country = "NED"
+level = 12
+reputation = 2
+colors = ["#F0F0F0", "#000000"]
+
+[stadium]
+name = "Sparta-stadion - Het Kasteel"
+capacity = 10599
+
+[coach]
+name = "Ayoub Oufkir"
+country = "BRA"

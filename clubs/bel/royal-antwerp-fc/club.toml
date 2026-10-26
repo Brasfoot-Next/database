@@ -1,0 +1,13 @@
+name = "Royal Antwerp FC"
+country = "BEL"
+level = 14
+reputation = 3
+colors = ["#F0F0F0", "#D01020"]
+
+[stadium]
+name = "Bosuilstadion"
+capacity = 21000
+
+[coach]
+name = "Kobe Valencia"
+country = "BRA"

@@ -1,0 +1,12 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Paul Wiva,GK,L,18,PNG,3,false,false,false,positioning,penalty-saving
+Avery Renagi,FB,R,18,PNG,9,false,false,false,crossing,marking
+Brice Haija,FB,L,17,PNG,10,false,false,false,pace,crossing
+Zayne Paru,CB,R,18,PNG,4,false,false,false,stamina,marking
+Stephen Wanji,CB,L,18,PNG,8,false,false,false,marking,heading
+Omar Natera,MF,R,16,PNG,8,false,false,false,playmaking,pace
+Colin Leka,MF,L,17,PNG,1,false,false,false,passing,dribbling
+Kombagle Loko,MF,R,18,PNG,7,false,false,false,marking,passing
+Sisi Kua,MF,L,16,PNG,7,false,false,false,pace,tackling
+Kulo Kepo,FW,R,19,PNG,9,false,false,false,finishing,dribbling
+Easton Ani,FW,L,18,PNG,1,false,false,false,finishing,heading

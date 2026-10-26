@@ -1,0 +1,13 @@
+name = "Hellas Verona FC"
+country = "ITA"
+level = 15
+reputation = 3
+colors = ["#F0D020", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Enzo Toniolo"
+country = "BRA"

@@ -1,0 +1,29 @@
+state = "GO"
+
+[[divisions]]
+division = 1
+format = "12-teams-8-qualify"
+relegated = 2
+tiebreak = 0
+two_legged_finals = [true, true, false]
+
+[[divisions]]
+division = 2
+format = "6-teams"
+relegated = 2
+tiebreak = 0
+two_legged_finals = [false, true, true]
+
+[[divisions]]
+division = 3
+format = "6-teams"
+relegated = 2
+tiebreak = 0
+two_legged_finals = [true, true, true]
+
+[[divisions]]
+division = 4
+format = "6-teams"
+relegated = 2
+tiebreak = 0
+two_legged_finals = [true, true, true]

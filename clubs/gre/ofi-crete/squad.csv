@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nikolaos Christogeorgos,GK,L,26,GRE,6,true,false,false,penalty-saving,reflexes
+Klidman Lilo,GK,R,23,ALB,6,false,false,false,positioning,rushing-out
+Panagiotis Katsikas,GK,R,27,GRE,8,false,false,false,penalty-saving,reflexes
+Manuel Kalafatis,GK,R,21,GRE,4,false,false,false,rushing-out,reflexes
+Kresimir Krizmanic,CB,R,26,CRO,5,true,false,false,marking,tackling
+Konstantinos Kostoulas,CB,R,21,GRE,6,true,false,false,heading,tackling
+Christos Sielis,CB,R,26,CYP,9,false,false,false,marking,tackling
+Achilleas Poungouras,CB,L,30,GRE,4,false,false,false,heading,stamina
+Konstantinos Chnaris,CB,L,21,GRE,5,false,false,false,marking,heading
+Konstantinos Lagoudakis,CB,R,18,GRE,7,false,false,false,heading,marking
+Nikolaos Athanasiou,FB,L,25,GRE,5,true,false,false,pace,stamina
+Pavlos Kenourgiakis,FB,R,18,GRE,6,false,false,false,passing,pace
+Borja González,FB,L,30,ESP,7,true,false,false,dribbling,pace
+Nikolaos Marinakis,FB,L,32,GRE,3,false,false,false,passing,crossing
+Zisis Karachalios,MF,R,30,GRE,5,true,false,false,dribbling,passing
+Giannis Apostolakis,MF,L,21,GRE,6,true,false,false,dribbling,passing
+Athanasios Androutsos,MF,R,29,GRE,7,true,false,false,pace,dribbling
+Georgios Kanellopoulos,MF,R,26,GRE,4,true,false,false,pace,passing
+Ilija Vukotić,MF,L,27,MNE,5,false,false,false,passing,finishing
+Andreas Bouchalakis,MF,R,33,GRE,6,false,false,false,marking,passing
+Emmanouil Chnaris,MF,L,18,GRE,3,false,false,false,marking,passing
+Manolis Faitakis,MF,R,20,GRE,4,false,false,false,playmaking,passing
+Fotis Koutsoupias,MF,L,20,GRE,5,false,false,false,playmaking,finishing
+Athanasios Sitmalidis,MF,R,18,GRE,6,false,false,false,stamina,passing
+Taxiarchis Fountas,FW,R,30,GRE,7,true,false,false,heading,pace
+Thiago Nuss,FW,R,25,ARG,4,true,false,false,playmaking,finishing
+Giannis Theodosoulakis,FW,R,21,GRE,5,false,false,false,finishing,heading
+Thiago Romano,FW,R,20,ARG,6,false,false,false,finishing,pace
+Marko Rakonjac,FW,L,26,MNE,7,false,false,false,pace,crossing
+Aaron Leya Iseka,FW,R,28,BEL,4,false,false,false,playmaking,finishing

@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sam Hoskins,FW,R,33,ENG,7,false,false,false,stamina,pace
+Cameron Mcgeehan,MF,R,31,NIR,3,false,false,false,stamina,pace
+Terry Taylor,MF,R,25,WAL,5,true,false,false,stamina,passing
+Dean Campbell,MF,L,25,SCO,6,true,false,false,stamina,pace
+Tyrese Fornah,MF,L,26,SLE,7,true,false,false,stamina,dribbling
+Liam Shaw,MF,R,25,ENG,3,true,false,false,stamina,passing
+Jack Burroughs,FB,R,25,SCO,5,true,false,false,pace,tackling
+Kyle Edwards,FW,L,28,ENG,6,true,false,false,pace,dribbling
+Michael Jacobs,FW,L,34,ENG,7,false,false,false,crossing,playmaking
+Nesta Guinness Walker,FW,L,26,ENG,3,false,false,false,pace,dribbling
+Elliott List,FW,R,29,ENG,5,false,false,false,pace,stamina
+Jack Perkins,MF,L,22,ENG,6,false,false,false,pace,passing
+Jon Guthrie,CB,L,34,ENG,7,false,false,false,stamina,heading
+Kamarai Swyer,MF,R,23,ENG,1,false,false,false,pace,dribbling
+Jordan Willis,CB,R,32,ENG,5,false,false,false,pace,marking
+Ethan Wheatley,FW,R,20,ENG,6,true,false,false,pace,finishing
+Tom Eaves,FW,R,34,ENG,10,false,false,false,heading,finishing
+Jordan Thorniley,CB,L,29,ENG,4,true,false,false,tackling,marking
+Joe Wormleighton,FB,R,22,ENG,5,true,false,false,pace,crossing
+Max Dyche,CB,R,23,ENG,7,false,false,false,stamina,pace
+Conor Mccarthy,CB,R,28,IRL,4,true,false,false,stamina,heading
+Neo Dobson,FW,L,19,ENG,5,false,false,false,pace,dribbling
+Michael Forbes,CB,L,22,NIR,6,false,false,false,tackling,marking
+Josh Tomlinson,CB,R,20,ENG,8,false,false,false,pace,heading
+Lee Burge,GK,L,33,ENG,4,false,false,false,reflexes,positioning
+Ross Fitzsimons,GK,R,32,ENG,5,true,false,false,reflexes,rushing-out
+James Dadge,GK,R,21,ENG,7,false,false,false,positioning,reflexes

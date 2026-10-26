@@ -1,0 +1,19 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Yenz Cini,GK,R,28,MLT,7,true,false,false,reflexes,positioning
+Alessandro Guarnone,GK,R,23,ITA,9,false,false,false,penalty-saving,reflexes
+Ryan Camilleri,FB,R,34,MLT,9,true,false,false,crossing,marking
+Michele Sansone,FB,L,24,MLT,8,true,false,false,marking,finishing
+Sheldon MacKay,FB,R,18,MLT,7,false,false,false,marking,passing
+Jean Borg,CB,R,24,MLT,9,true,false,false,tackling,stamina
+Christian Gauci,CB,L,20,MLT,6,true,false,false,tackling,marking
+Deacon Abela,CB,R,17,MLT,2,false,false,false,tackling,heading
+Rowen Muscat,MF,R,31,MLT,4,true,false,false,passing,finishing
+Shaun Dimech,MF,L,20,MLT,2,true,false,false,playmaking,passing
+Eslit Sala,MF,L,22,ALB,10,true,false,false,marking,finishing
+Enmy Peña,MF,R,29,DOM,8,true,false,false,marking,finishing
+Ivan Curjuric,MF,R,32,CRO,10,false,false,false,passing,finishing
+Tristan Caruana,MF,R,30,MLT,1,false,false,false,marking,pace
+Jeremy Micallef,MF,L,22,MLT,1,false,false,false,passing,finishing
+Caio Henrique,FW,L,29,BRA,9,true,false,false,crossing,stamina
+Haris Dilaver,FW,L,32,BIH,10,true,false,false,dribbling,finishing
+Jurgen Suda,FW,R,25,MLT,7,false,false,false,finishing,pace

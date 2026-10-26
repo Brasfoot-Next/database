@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kyle Walker,FB,R,36,ENG,6,false,false,false,pace,tackling
+Hannibal,MF,R,23,TUN,6,true,false,false,stamina,pace
+Quilindschy Hartman,FB,L,24,NED,7,true,false,false,passing,tackling
+Josh Cullen,MF,L,30,IRL,4,true,false,false,stamina,passing
+Zian Flemming,FW,R,28,NED,6,false,false,false,stamina,passing
+Josh Laurent,MF,R,31,ENG,6,false,false,false,stamina,pace
+Jacob Bruun Larsen,FW,L,27,DEN,7,false,false,false,dribbling,finishing
+Connor Roberts,FB,R,30,WAL,5,false,false,false,stamina,passing
+Zeki Amdouni,FW,R,25,SUI,6,false,false,false,dribbling,playmaking
+Lucas Pires,FB,L,25,BRA,7,false,false,false,pace,stamina
+Florentino,MF,R,27,POR,7,true,false,false,stamina,tackling
+Lesley Ugochukwu,MF,R,22,FRA,9,true,false,false,passing,tackling
+Ashley Barnes,FW,R,36,ENG,5,false,false,false,playmaking,heading
+Bashir Humphreys,FB,L,23,ENG,6,true,false,false,stamina,tackling
+Mike Tresor,FW,L,27,BEL,7,false,false,false,pace,dribbling
+Jaidon Anthony,FW,L,26,ENG,9,true,false,false,stamina,pace
+Axel Tuanzebe,FB,R,28,COD,5,false,false,false,pace,tackling
+Marcus Edwards,FW,L,27,ENG,6,false,false,false,pace,dribbling
+Lyle Foster,FW,R,26,ENG,7,false,false,false,pace,finishing
+Jordan Beyer,CB,R,26,GER,7,false,false,false,tackling,pace
+Oliver Sonne,FB,R,25,PER,5,false,false,false,stamina,pace
+Loum Tchaouna,FW,L,23,FRA,6,true,false,false,pace,finishing
+Maxime Esteve,CB,L,24,FRA,7,true,false,false,marking,tackling
+Armando Broja,FW,R,24,ALB,9,false,false,false,pace,dribbling
+Hannes Delcroix,CB,L,27,BEL,5,false,false,false,tackling,passing
+Hjalmar Ekdal,CB,R,27,SWE,6,true,false,false,tackling,marking
+Jaydon Banel,FW,L,21,NED,7,false,false,false,pace,dribbling
+Enock Agyei,FW,L,21,BEL,10,false,false,false,pace,dribbling
+Joe Worrall,CB,R,29,ENG,5,false,false,false,marking,heading
+Vaclav Hladky,GK,R,35,CZE,6,false,false,false,reflexes,rushing-out
+Martin Dubravka,GK,R,37,SVK,5,true,false,false,reflexes,rushing-out
+Max Weiss,GK,R,22,GER,6,false,false,false,reflexes,penalty-saving

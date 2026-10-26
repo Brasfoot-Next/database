@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Murat Satin,MF,R,30,AUT,6,false,false,false,pace,stamina
+Dominik Frieser,FW,R,32,AUT,8,false,false,false,stamina,pace
+Christian Lichtenberger,FW,L,30,AUT,4,false,false,false,crossing,dribbling
+Jacob Italiano,FW,L,25,AUS,5,true,false,false,pace,dribbling
+Tobias Koch,MF,L,25,AUT,6,true,false,false,stamina,passing
+Tio Cipot,MF,L,23,SVN,8,true,false,false,dribbling,finishing
+Petar Filipovic,CB,L,35,GER,4,false,false,false,stamina,marking
+Sadik Fofana,MF,R,23,AUT,5,true,false,false,pace,tackling
+Thorsten Schriebl,MF,R,27,AUT,6,true,false,false,pace,stamina
+Daniel Maderner,FW,R,30,AUT,7,false,false,false,heading,stamina
+Thomas Schiestl,FW,R,24,AUT,5,false,false,false,dribbling,pace
+Zeteny Jano,MF,R,21,AUT,6,true,false,false,pace,playmaking
+Ramiz Harakate,MF,L,24,FRA,7,true,false,false,dribbling,pace
+Tim Paumgartner,MF,R,21,AUT,2,false,false,false,stamina,passing
+Lukas Graf,CB,R,32,AUT,5,false,false,false,heading,marking
+Yannick Oberleitner,CB,L,24,GER,6,false,false,false,stamina,pace
+Beres Owusu,CB,R,22,FRA,7,true,false,false,pace,tackling
+Arbnor Prenqi,FW,R,26,AUT,3,false,false,false,pace,finishing
+Alexander Hofleitner,FW,R,26,AUT,5,true,false,false,heading,finishing
+Martin Kreuzriegler,CB,L,32,AUT,7,false,false,false,heading,tackling
+Donovan Pines,CB,R,28,USA,4,true,false,false,pace,heading
+Ludwig Vraa,CB,R,21,DEN,5,false,false,false,heading,tackling
+Fabian Ehmann,GK,R,28,AUT,6,false,false,false,reflexes,positioning
+Christoph Nicht,GK,R,32,AUT,1,false,false,false,rushing-out,positioning
+Jakob Meierhofer,GK,R,28,AUT,4,true,false,false,positioning,reflexes
+Darius Achitei,GK,R,18,ROU,5,false,false,false,rushing-out,penalty-saving

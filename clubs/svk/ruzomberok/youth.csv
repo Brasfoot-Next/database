@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tomas Fruhwald,GK,L,17,SVK,9,true,false,false,positioning,penalty-saving
+Nicolas Jan Cilik,GK,R,18,SVK,5,true,false,false,positioning,rushing-out
+Alexander Selecky,FB,L,17,SVK,3,true,false,false,finishing,passing
+Vladimir Bajtos,FB,R,19,SVK,7,true,false,false,finishing,passing
+Alex Holub,CB,R,20,SVK,2,true,false,false,tackling,heading
+Thomas Salvan,CB,R,18,SVK,3,true,false,false,marking,pace
+Jakub Krnac,CB,L,19,SVK,6,true,false,false,tackling,marking
+Dominik Caltik,CB,L,17,SVK,8,true,false,false,tackling,stamina
+Tomas Kubik,MF,R,18,SVK,9,true,false,false,marking,pace
+Patrik Jedinak,MF,L,18,SVK,10,true,false,false,tackling,finishing
+Tomas Caklos,MF,R,19,SVK,2,true,false,false,playmaking,passing
+Samuel Hatala,MF,L,18,SVK,4,true,false,false,playmaking,pace
+Rastislav Kruzliak,FW,R,20,SVK,5,true,false,false,heading,pace
+Samuel Varga,FW,R,18,SVK,10,true,false,false,passing,finishing
+Patrik Svetlosak,FW,L,19,SVK,1,true,false,false,finishing,heading

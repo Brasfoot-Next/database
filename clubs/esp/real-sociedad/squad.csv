@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Yangel Herrera,MF,R,28,VEN,7,false,false,false,passing,playmaking
+Brais Méndez,MF,R,29,ESP,8,true,false,false,playmaking,passing
+Luka Sucic,MF,R,24,CRO,6,true,false,false,passing,dribbling
+Sergio Gómez,FW,L,26,ESP,6,false,false,false,crossing,passing
+Carlos Soler,MF,R,29,ESP,8,true,false,false,playmaking,passing
+Oyarzabal,FW,R,29,ESP,4,true,false,false,passing,playmaking
+Zubeldia,CB,R,29,ESP,6,true,false,false,marking,passing
+Takefusa Kubo,FW,R,25,JPN,7,true,false,false,dribbling,pace
+Arsen Zakharyan,FW,R,23,RUS,8,false,false,false,pace,playmaking
+Turrientes,MF,R,24,ESP,5,true,false,false,stamina,passing
+Guedes,FW,R,29,POR,2,false,false,false,dribbling,finishing
+Odriozola,FB,R,30,ESP,6,true,false,false,pace,dribbling
+Jon Mikel Aramburu,FB,R,24,VEN,6,false,false,false,marking,passing
+Aihen Muñoz,FB,L,29,ESP,8,true,false,false,dribbling,stamina
+Gorrotxa,MF,L,24,ESP,4,false,false,false,stamina,tackling
+Pablo Marín,MF,R,23,ESP,6,false,false,false,dribbling,playmaking
+Barrenetxea,FW,L,24,ESP,6,false,false,false,pace,dribbling
+Orri Oskarsson,FW,R,22,ISL,8,false,false,false,finishing,pace
+Umar Sadiq,FW,R,29,NGA,4,false,false,false,pace,heading
+Aritz Elustondo,CB,R,32,ESP,6,false,false,false,heading,passing
+Mikel Goti,MF,R,24,ESP,9,false,false,false,finishing,playmaking
+Duje Caleta Car,CB,L,30,CRO,5,false,false,false,heading,tackling
+Karrikaburu,FW,R,24,ESP,6,false,false,false,pace,finishing
+Jon Martín,CB,R,20,ESP,7,true,false,false,marking,tackling
+Álex Remiro,GK,R,31,ESP,9,true,false,false,positioning,reflexes
+Unai Marrero,GK,R,25,ESP,5,false,false,false,reflexes,penalty-saving

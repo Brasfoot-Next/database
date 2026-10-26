@@ -1,0 +1,13 @@
+name = "Crystal Palace"
+country = "ENG"
+level = 20
+reputation = 4
+colors = ["#0050A0", "#F0F0F0"]
+
+[stadium]
+name = "Selhurst Park"
+capacity = 25486
+
+[coach]
+name = "Eddie Guehi"
+country = "BRA"

@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Louie Sibley,GK,L,18,GIB,5,true,false,false,rushing-out,penalty-saving
+Henry Wise,GK,R,16,GIB,4,true,false,false,penalty-saving,reflexes
+Tommy Doyle,FB,L,16,GIB,6,true,false,false,crossing,passing
+Stuart McKenzie,FB,R,18,ENG,2,true,false,false,marking,crossing
+Cameron Matthews,FB,L,17,ENG,9,true,false,false,crossing,pace
+Thomas Davies,CB,R,16,GIB,8,true,false,false,heading,marking
+Jorge Herrero,CB,L,18,ESP,3,true,false,false,stamina,tackling
+Ernesto Muñoz,CB,R,19,ESP,7,true,false,false,tackling,heading
+Yoann Greco,MF,L,17,GIB,9,true,false,false,passing,pace
+Julian Valarino,MF,R,20,GIB,10,true,false,false,playmaking,finishing
+Aaron Asquez,MF,L,20,GIB,2,true,false,false,marking,tackling
+Stefan Borrell,MF,R,19,GIB,2,true,false,false,tackling,passing
+Francisco Diaz,FW,L,16,ESP,7,true,false,false,finishing,dribbling
+Julian Del Rio,FW,R,18,GIB,9,true,false,false,stamina,finishing
+Juan José Fernandez,FW,L,17,ESP,2,true,false,false,finishing,pace

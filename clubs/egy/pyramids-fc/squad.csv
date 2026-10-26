@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mahmoud Gad,GK,R,27,EGY,6,false,false,false,positioning,reflexes
+Ahmed El Shenawy,GK,R,35,EGY,7,true,false,false,positioning,penalty-saving
+Ziad Haytham,GK,L,20,EGY,5,false,false,false,positioning,rushing-out
+Mahmoud Marei,CB,R,28,EGY,6,true,false,false,marking,tackling
+Abdo Gouda,CB,R,23,EGY,6,false,false,false,marking,stamina
+Osama Galal,CB,R,28,EGY,7,true,false,false,marking,tackling
+Ahmed Samy,CB,R,34,EGY,5,false,false,false,marking,stamina
+Mohamed Hamdi,FB,L,31,EGY,6,true,false,false,pace,tackling
+Karim Hafez,FB,L,30,EGY,6,false,false,false,tackling,marking
+Mohamed Chibi,FB,R,33,MAR,7,true,false,false,crossing,passing
+Tarek Alaa,FB,L,24,EGY,7,false,false,false,marking,pace
+Mohanad Lasheen,MF,R,30,EGY,2,false,false,false,playmaking,passing
+Ahmed Fawzi,MF,L,24,EGY,5,false,false,false,dribbling,playmaking
+Otta,MF,R,23,EGY,6,false,false,false,passing,stamina
+Mahmoud Saber,MF,L,24,EGY,7,true,false,false,marking,passing
+Hamed Hamdan,MF,R,25,EGY,4,true,false,false,passing,tackling
+Walid El Karti,MF,L,31,MAR,5,true,false,false,tackling,marking
+Samuel Amusan,MF,R,21,NGA,6,false,false,false,dribbling,pace
+Nasser Maher,MF,R,29,EGY,6,true,false,false,passing,stamina
+Youssef Obama,MF,R,30,EGY,8,false,false,false,dribbling,passing
+Mostafa Ziko,FW,R,29,EGY,5,false,false,false,playmaking,finishing
+Ewerton,FW,R,29,BRA,6,false,false,false,dribbling,finishing
+Odeh Fakhoury,FW,R,20,EGY,7,true,false,false,heading,stamina
+Emad Mayhoub,FW,R,25,EGY,2,false,false,false,heading,stamina
+Ziad Saoudi,FW,R,17,EGY,5,false,false,false,dribbling,playmaking
+Zalaka,FW,R,26,EGY,6,false,false,false,heading,stamina
+Mostafa Fathi,FW,R,32,EGY,7,false,false,false,dribbling,finishing
+Abdelrahman Magdi,FW,R,28,EGY,4,false,false,false,finishing,dribbling
+Pascal Phiri,FW,R,21,ZAM,6,false,false,false,pace,dribbling
+Hassan Tarek,FW,R,21,EGY,6,false,false,false,playmaking,finishing
+Marwan Hamdi,FW,R,29,EGY,5,true,false,false,playmaking,finishing
+Ziad El Nawawy,FW,L,21,EGY,6,false,false,false,playmaking,finishing

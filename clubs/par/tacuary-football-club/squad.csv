@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Edgar Benítez,GK,R,20,PAR,4,false,false,false,positioning,reflexes
+Favio Marín,GK,R,27,PAR,5,true,false,false,reflexes,penalty-saving
+Celso Duarte,GK,R,24,PAR,6,false,false,false,reflexes,rushing-out
+Matías Medrano,GK,R,26,ARG,7,false,false,false,rushing-out,reflexes
+Marcelo Riquelme,CB,R,34,PAR,5,true,false,false,heading,tackling
+Pablo Espinoza,CB,R,38,PAR,6,false,false,false,marking,heading
+Jesús Asta,CB,L,29,PAR,7,true,false,false,tackling,marking
+Alan Bento,CB,R,19,PAR,3,false,false,false,tackling,marking
+Junior Franco,CB,R,18,PAR,5,false,false,false,tackling,heading
+Rodney Pedrozo,FB,R,32,PAR,6,false,false,false,pace,tackling
+Nazareno Palavecino,FB,L,24,ARG,4,true,false,false,stamina,pace
+Rodrigo González,FB,L,26,PAR,5,true,false,false,pace,tackling
+José Nuñez Zanoni,FB,R,23,PAR,6,false,false,false,tackling,marking
+Pulvio Aranda,MF,R,31,PAR,7,false,false,false,dribbling,pace
+Jesús Servín,MF,R,23,PAR,4,false,false,false,finishing,passing
+Pablo Ortellado,MF,R,26,PAR,5,true,false,false,finishing,playmaking
+Leandro Canet,MF,R,24,URU,6,true,false,false,pace,dribbling
+Felipe Ferro,MF,R,26,BRA,8,true,false,false,finishing,playmaking
+Junior Pineda,MF,R,28,PAR,4,true,false,false,marking,passing
+Marcos Benítez,MF,L,30,PAR,6,false,false,false,finishing,playmaking
+Daniel Palacios,FW,R,22,COL,6,false,false,false,finishing,pace
+Pablo Segovia,FW,L,25,PAR,8,true,false,false,dribbling,finishing
+Gustavo De Lira,FW,L,21,BRA,4,false,false,false,finishing,heading
+Yuneiker Ríos,FW,R,25,VEN,5,false,false,false,heading,finishing
+Thyago Meza,FW,L,19,PAR,6,false,false,false,pace,crossing
+Matías Rodríguez,FW,L,23,PAR,8,false,false,false,pace,finishing
+Fernando Cabrera,FW,R,21,PAR,5,false,false,false,finishing,pace
+Néstor Bareiro,FW,R,30,PAR,6,false,false,false,playmaking,finishing
+Santiago Salcedo,FW,R,29,PAR,6,false,false,false,finishing,pace
+Alcides Valdez,FW,R,27,PAR,10,true,false,false,pace,dribbling
+Martín Núñez,FW,L,25,PAR,6,false,false,false,dribbling,playmaking
+Sebastián Bedoya,FW,R,19,PAR,7,false,false,false,finishing,pace
+Ricardo Britos,FW,L,22,PAR,3,false,false,false,dribbling,playmaking

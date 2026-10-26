@@ -1,0 +1,37 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Vuk Draskic,GK,R,19,SRB,6,true,false,false,penalty-saving,reflexes
+Nedeljko Stojisic,GK,R,28,SRB,7,false,false,false,reflexes,positioning
+Vuk Barlov,GK,R,18,SRB,1,false,false,false,reflexes,positioning
+Andrej Pavlovic,CB,L,18,SRB,3,true,false,false,heading,stamina
+Aleksej Vukicevic,CB,L,21,SRB,5,true,false,false,heading,passing
+Mamadou Fall,CB,R,21,SEN,6,false,false,false,tackling,heading
+Darko Gojkovic,CB,L,37,SRB,7,false,false,false,tackling,marking
+Nemanja Milunovic,CB,R,26,SRB,3,false,false,false,tackling,heading
+Uros Stojanovic,FB,L,30,SRB,5,true,false,false,stamina,crossing
+Milan Rodic,FB,L,35,SRB,6,false,false,false,stamina,tackling
+Leon Ivanovic,FB,R,18,SRB,5,false,false,false,pace,crossing
+Stefan Despotovski,FB,L,23,SRB,6,true,false,false,tackling,marking
+Kwadwo Opoku Ackah,FB,R,21,GHA,7,false,false,false,marking,crossing
+Marko Gobeljic,FB,R,33,SRB,3,false,false,false,crossing,pace
+Aleksa Cvetkovic,MF,R,21,SRB,5,true,false,false,playmaking,dribbling
+Miljan Momcilovic,MF,R,25,SRB,6,true,false,false,tackling,marking
+Issiaka Dembele,MF,R,20,SRB,7,false,false,false,dribbling,passing
+Hervé Touré,MF,R,26,SRB,4,false,false,false,dribbling,playmaking
+Ali Umar,MF,L,19,GHA,5,false,false,false,playmaking,finishing
+Sasa Markovic,MF,R,35,SRB,6,false,false,false,passing,finishing
+Milos Pantovic,MF,R,30,SRB,5,true,false,false,marking,passing
+Filip Halabrin,MF,R,20,SRB,6,true,false,false,passing,tackling
+Aleksa Vasilic,MF,R,18,SRB,7,false,false,false,stamina,tackling
+Jovan Mrvaljevic,MF,R,17,SRB,2,false,false,false,passing,tackling
+Luka Radojevic,MF,R,19,MNE,5,false,false,false,playmaking,finishing
+Djordje Rankovic,FW,R,18,SRB,6,false,false,false,playmaking,finishing
+Tayrell Wouter,FW,R,24,NED,7,false,false,false,finishing,stamina
+Hameed Aderoju,FW,R,21,NGA,3,false,false,false,finishing,heading
+Ethan Hoard,FW,L,25,USA,5,true,false,false,heading,finishing
+Yacouba Silue,FW,L,24,SRB,6,true,false,false,dribbling,playmaking
+Hugo Alba,FW,R,20,ESP,4,false,false,false,dribbling,pace
+Tjay De Barr,FW,R,26,GIB,5,false,false,false,heading,stamina
+Andrej Drincic,FW,R,20,SRB,6,false,false,false,playmaking,finishing
+Emmanuel Egeoluoha,FW,R,18,NGA,8,false,false,false,dribbling,pace
+Vasilije Grbovic,FW,R,18,SRB,4,false,false,false,dribbling,pace
+Bradley Besnard,FW,L,18,SRB,5,false,false,false,finishing,heading

@@ -1,0 +1,13 @@
+name = "Vipers SC"
+country = "UGA"
+level = 14
+reputation = 2
+colors = ["#ff3333", "#000000"]
+
+[stadium]
+name = "St Mary's"
+capacity = 25000
+
+[coach]
+name = "Fred Kajoba"
+country = "UGA"

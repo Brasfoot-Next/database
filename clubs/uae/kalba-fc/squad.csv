@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sultan Al-Mantheri,GK,R,31,UAE,6,false,false,false,positioning,penalty-saving
+Hamad Al-Mansoori,GK,R,30,UAE,7,false,false,false,reflexes,positioning
+Saif Al-Zaabi,GK,R,25,UAE,4,true,false,false,reflexes,positioning
+Michel,CB,R,23,BRA,5,true,false,false,tackling,marking
+Abdallah El Refaey,CB,R,30,EGY,6,false,false,false,marking,stamina
+Waleed Rashid,CB,L,24,UAE,8,false,false,false,tackling,heading
+Abdul Sallam Mohameed,CB,L,34,UAE,4,false,false,false,marking,passing
+Yousif Ali Al-Mheiri,CB,R,26,UAE,5,true,false,false,heading,passing
+Khalid Al-Darmaki,CB,R,34,UAE,6,false,false,false,tackling,stamina
+Abdulaziz Al-Hamhami,FB,L,27,UAE,8,true,false,false,passing,crossing
+Salim Rashid,FB,R,32,UAE,7,true,false,false,crossing,passing
+Saile,MF,R,25,UAE,2,true,false,false,finishing,passing
+Ali Salmin,MF,R,31,UAE,5,true,false,false,tackling,marking
+Ahmad Nourollahi,MF,R,33,UAE,6,false,false,false,dribbling,playmaking
+Caio Eduardo,MF,R,23,BRA,6,true,false,false,tackling,marking
+Rejan Alivoda,MF,L,23,ALB,7,false,false,false,tackling,passing
+Kouadjo Koffi,MF,R,23,UAE,3,false,false,false,playmaking,dribbling
+Yan Phillipe,MF,L,22,BRA,5,false,false,false,passing,finishing
+Saman Ghoddos,MF,R,32,UAE,6,true,false,false,tackling,passing
+Carlos Alberto,FW,L,24,BRA,7,true,false,false,pace,dribbling
+Nemanja Jovic,FW,R,23,SRB,6,false,false,false,crossing,pace
+Antonio Junior,FW,R,26,BRA,8,true,false,false,dribbling,finishing
+Mohammadmehdi Mohebi,FW,R,26,UAE,4,false,false,false,finishing,heading
+Ahmed Shehda Abunamous,FW,R,26,UAE,5,false,false,false,finishing,heading
+Yaser Al-Blooshi,FW,R,25,UAE,6,false,false,false,dribbling,pace
+Ahmed Amir Al-Naqbi,FW,R,28,UAE,7,false,false,false,heading,pace

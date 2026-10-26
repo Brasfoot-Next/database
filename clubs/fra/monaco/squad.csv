@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Alexandr Golovin,FW,L,30,RUS,6,false,false,false,dribbling,playmaking
+Denis Zakaria,MF,L,29,SUI,6,true,false,false,pace,tackling
+Paul Pogba,MF,R,33,FRA,8,false,false,false,dribbling,passing
+Lamine Camara,MF,R,22,SEN,4,true,false,false,stamina,crossing
+Vanderson,FB,R,25,BRA,6,true,false,false,dribbling,pace
+Caio Henrique,FB,L,29,BRA,7,false,false,false,crossing,stamina
+Takumi Minamino,FW,L,31,JPN,8,false,false,false,dribbling,playmaking
+Krepin Diatta,FW,R,27,SEN,5,false,false,false,pace,stamina
+Maghnes Akliouche,FW,L,24,FRA,6,true,false,false,dribbling,playmaking
+Eric Dier,CB,R,32,ENG,7,false,false,false,marking,heading
+Jordan Teze,FB,R,26,NED,6,true,false,false,pace,tackling
+Mika Biereth,FW,L,23,DEN,7,false,false,false,finishing,heading
+Thilo Kehrer,CB,R,29,GER,2,true,false,false,tackling,marking
+Ansu Fati,FW,L,23,ESP,6,false,false,false,pace,dribbling
+Folarin Balogun,FW,R,25,USA,7,true,false,false,pace,finishing
+Kassoum Ouattara,FB,L,21,FRA,10,false,false,false,pace,stamina
+Christian Mawissa,CB,L,21,FRA,5,true,false,false,pace,tackling
+George Ilenikhena,FW,L,20,NGA,6,false,false,false,pace,finishing
+Aladji Bamba,MF,R,20,FRA,7,true,false,false,tackling,passing
+Mamadou Coulibaly,MF,L,22,FRA,1,true,false,false,passing,playmaking
+Stanis Idumbo,MF,R,21,BEL,6,false,false,false,pace,dribbling
+Mohammed Salisu,CB,L,27,GHA,7,false,false,false,tackling,marking
+Paris Brunner,FW,R,20,GER,9,false,false,false,finishing,dribbling
+Lucas Michal,FW,L,21,FRA,5,false,false,false,pace,dribbling
+Philipp Kohn,GK,R,28,SUI,6,true,false,false,reflexes,penalty-saving
+Lukas Hradecky,GK,R,36,FIN,6,false,false,false,reflexes,penalty-saving
+Yann Lienard,GK,R,23,FRA,7,false,false,false,reflexes,penalty-saving
+Jules Stawiecki,GK,L,19,FRA,10,false,false,false,reflexes,penalty-saving

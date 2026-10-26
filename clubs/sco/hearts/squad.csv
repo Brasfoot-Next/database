@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Blair Spittal,MF,L,30,SCO,4,true,false,false,stamina,pace
+Calem Nieuwenhof,MF,R,25,AUS,5,true,false,false,stamina,pace
+Ageu,MF,R,24,BRA,6,true,false,false,stamina,dribbling
+Cameron Devlin,MF,R,28,AUS,10,false,false,false,stamina,tackling
+Lawrence Shankland,FW,R,31,SCO,4,false,false,false,stamina,finishing
+Stephen Kingsley,CB,L,32,SCO,5,false,false,false,stamina,passing
+Sander Erik Kartum,MF,L,30,NOR,6,false,false,false,stamina,pace
+Beni Baningime,MF,R,27,COD,1,true,false,false,stamina,marking
+Craig Halkett,CB,R,31,SCO,5,false,false,false,heading,marking
+Christian Dahle Borchgrevink,FB,R,27,NOR,6,true,false,false,stamina,pace
+Alan Forrest,FW,L,29,SCO,4,false,false,false,pace,dribbling
+Alexandros Kyziridis,FW,L,25,GRE,6,true,false,false,pace,dribbling
+Oisin Mcentee,MF,R,25,IRL,7,false,false,false,stamina,heading
+Cláudio Braga,FW,L,26,POR,1,true,false,false,stamina,finishing
+Elton Kabangu,FW,L,28,BEL,5,false,false,false,pace,finishing
+Tomas Bent Magnusson,MF,R,24,ISL,6,false,false,false,pace,passing
+Frankie Kent,CB,R,30,ENG,4,false,false,false,stamina,heading
+Pierre Landry Kabore,FW,L,25,BFA,5,false,false,false,pace,finishing
+Stuart Findlay,CB,L,30,SCO,6,true,false,false,stamina,heading
+Kenneth Vargas,FW,R,24,SCO,7,false,false,false,pace,stamina
+Harry Milne,FB,L,29,SCO,5,true,false,false,stamina,pace
+Jamie Mccart,CB,L,29,SCO,6,false,false,false,stamina,heading
+James Wilson,FW,R,19,SCO,7,false,false,false,stamina,pace
+Finlay Pollock,MF,R,22,SCO,4,false,false,false,pace,passing
+Sabah Kerjota,FW,L,25,ALB,5,false,false,false,pace,crossing
+Michael Steinwender,CB,R,26,AUT,6,true,false,false,heading,tackling
+Zander Clark,GK,R,34,SCO,7,false,false,false,reflexes,positioning
+Craig Gordon,GK,L,43,SCO,5,false,false,false,reflexes,penalty-saving
+Alexander Schwolow,GK,R,34,GER,6,true,false,false,reflexes,penalty-saving
+Ryan Fulton,GK,L,30,SCO,7,false,false,false,reflexes,penalty-saving
+Liam Mcfarlane,GK,R,21,SCO,5,false,false,false,penalty-saving,rushing-out
+Harry Stone,GK,R,24,SCO,6,false,false,false,penalty-saving,reflexes

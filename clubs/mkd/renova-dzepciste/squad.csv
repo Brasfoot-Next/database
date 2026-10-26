@@ -1,0 +1,18 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Vulnet Islami,GK,R,26,MKD,8,true,false,false,positioning,penalty-saving
+Jovan Hristov,GK,R,28,MKD,8,false,false,false,reflexes,positioning
+Saimir Fetai,FB,L,33,MKD,7,true,false,false,marking,finishing
+Damjan Vojnović,FB,L,24,MKD,7,false,false,false,marking,passing
+Talat Konstantinov,FB,R,21,MKD,7,false,false,false,marking,finishing
+Medin Bajrami,CB,R,24,MKD,9,true,false,false,tackling,marking
+Ivan Janevski,CB,L,25,MKD,3,false,false,false,heading,stamina
+Stevo Spasikj,CB,R,24,MKD,5,false,false,false,marking,pace
+Burim Sadiki,MF,R,32,MKD,1,true,false,false,tackling,marking
+Amir Kahrimanovic,MF,L,23,CRO,5,true,false,false,tackling,finishing
+Festim Ebibi,MF,R,20,MKD,6,true,false,false,passing,finishing
+Imer Naumoski,MF,R,21,MKD,9,false,false,false,passing,stamina
+Vasil Rexhepi,MF,R,18,MKD,8,false,false,false,marking,passing
+Bojan Avramov,MF,L,20,MKD,10,false,false,false,finishing,playmaking
+Shefit Shefiti,FW,L,24,ALB,4,true,false,false,heading,pace
+Amar Emurli,FW,R,19,MKD,9,true,false,false,heading,pace
+Ali Ali,FW,R,19,MKD,4,false,false,false,heading,pace

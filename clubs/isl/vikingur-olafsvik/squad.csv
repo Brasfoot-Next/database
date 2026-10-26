@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Audunsson,GK,R,17,ISL,2,false,false,false,rushing-out,penalty-saving
+Ingvar Jónsson,GK,L,32,ISL,9,true,false,false,positioning,rushing-out
+Thórdur Ingason,GK,R,34,ISL,9,false,false,false,positioning,penalty-saving
+Logi Tómasson,FB,R,21,ISL,8,true,false,false,marking,finishing
+Örn Atlason,FB,L,27,ISL,2,true,false,false,crossing,marking
+Björnsson,FB,L,18,ISL,5,false,false,false,finishing,pace
+Kyle McLagan,CB,L,26,USA,9,true,false,false,marking,pace
+Oliver Ekroth,CB,R,30,SWE,8,true,false,false,marking,pace
+Sigurdsson,CB,R,33,ISL,7,false,false,false,tackling,marking
+Sölvi Ottesen,CB,L,38,ISL,7,false,false,false,tackling,stamina
+Andrason,MF,R,22,ISL,10,true,false,false,marking,passing
+Danijel Djuric,MF,R,19,ISL,1,false,false,false,finishing,passing
+Erlingur Agnarsson,MF,R,24,ISL,5,true,false,false,playmaking,passing
+Gunnarsson,MF,L,21,ISL,4,true,false,false,playmaking,pace
+Júlíus Magnússon,MF,L,24,ISL,9,true,false,false,marking,finishing
+Pablo Punyed,MF,R,32,SLV,7,false,false,false,playmaking,pace
+Ari Sigurpálsson,FW,R,19,ISL,3,false,false,false,heading,pace
+Helgi Gudjónsson,FW,R,22,ISL,2,false,false,false,finishing,stamina
+Ingason,FW,R,20,ISL,5,true,false,false,pace,finishing
+Nikolaj Hansen,FW,R,29,DEN,5,true,false,false,pace,crossing

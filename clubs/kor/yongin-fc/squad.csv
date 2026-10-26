@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Emanuel Novo,GK,R,33,POR,6,false,false,false,positioning,reflexes
+Seong-min Hwang,GK,R,35,KOR,7,false,false,false,rushing-out,positioning
+Min-jun Kim,GK,R,21,KOR,3,true,false,false,reflexes,penalty-saving
+Yun-ho Kwak,CB,R,30,KOR,4,true,false,false,heading,tackling
+Chai-min Lim,CB,R,35,KOR,5,false,false,false,stamina,heading
+Hyeon-jun Kim,CB,R,24,KOR,6,true,false,false,tackling,marking
+Hyung-jin Lim,CB,R,24,KOR,9,false,false,false,marking,tackling
+Hyun-woo Cho,CB,R,21,KOR,5,false,false,false,stamina,tackling
+Sin-myeong Kang,FB,R,29,KOR,6,true,false,false,crossing,pace
+Jae-hyung Lee,FB,R,18,KOR,7,false,false,false,pace,crossing
+Jae-jun Lee,FB,R,19,KOR,7,true,false,false,crossing,passing
+Young-jun Choi,MF,R,34,KOR,1,false,false,false,marking,passing
+Dong-min Kim,MF,R,21,KOR,5,false,false,false,passing,pace
+Jong-suk Kim,MF,L,31,KOR,6,true,false,false,finishing,playmaking
+Han-seo Kim,MF,R,23,KOR,7,false,false,false,pace,stamina
+Jin-seop Lee,MF,R,24,KOR,2,true,false,false,passing,tackling
+Jin-ho Kim,MF,R,20,KOR,5,true,false,false,pace,passing
+Jin-ho Shin,MF,R,37,KOR,6,false,false,false,dribbling,pace
+Tae-ho Jin,MF,R,20,KOR,7,true,false,false,finishing,playmaking
+Jae-hun Cho,MF,L,23,KOR,3,false,false,false,pace,playmaking
+Vitinho,FW,R,27,BRA,6,true,false,false,finishing,heading
+Bo-sub Kim,FW,L,28,KOR,8,true,false,false,pace,crossing
+Han-gil Kim,FW,L,31,KOR,4,false,false,false,pace,stamina
+Gabriel Tigrão,FW,R,24,BRA,5,false,false,false,heading,pace
+Jardel,FW,R,28,GNB,6,false,false,false,pace,finishing
+Hyun-jun Suk,FW,R,35,KOR,9,false,false,false,crossing,pace
+Chi-ung Choi,FW,R,25,KOR,4,false,false,false,heading,stamina
+Dong-gyu Yu,FW,R,31,KOR,6,false,false,false,dribbling,finishing
+Kyu-dong Lee,FW,R,22,KOR,7,false,false,false,pace,dribbling

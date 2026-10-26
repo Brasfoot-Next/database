@@ -1,0 +1,13 @@
+name = "DC United"
+country = "USA"
+level = 12
+reputation = 2
+colors = ["#000000", "#F0F0F0"]
+
+[stadium]
+name = "Audi Field"
+capacity = 20000
+
+[coach]
+name = "Randall Zouhir"
+country = "BRA"

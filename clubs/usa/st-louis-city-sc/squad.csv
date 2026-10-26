@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Eduard Lowen,MF,R,29,GER,6,true,false,false,stamina,passing
+Marcel Hartel,MF,L,30,GER,6,true,false,false,stamina,playmaking
+Conrad Wallem,FW,L,26,NOR,1,true,false,false,pace,stamina
+Klauss,FW,R,29,BRA,5,false,false,false,stamina,heading
+Alfredo Morales,MF,R,36,USA,6,false,false,false,stamina,passing
+Chris Durkin,MF,L,26,USA,7,true,false,false,stamina,passing
+Cedric Teuchert,MF,R,29,GER,1,true,false,false,dribbling,finishing
+Tomas Ostrak,FW,R,26,CZE,5,false,false,false,dribbling,passing
+Rasmus Alm,FW,R,31,SWE,6,false,false,false,pace,dribbling
+Akil Watts,FB,R,26,USA,8,true,false,false,pace,stamina
+Jeong Sang Bin,FW,R,24,KOR,4,false,false,false,pace,dribbling
+Miguel Perez,MF,R,21,USA,5,false,false,false,dribbling,passing
+Jake Girdwood Reich,CB,R,22,AUS,6,false,false,false,stamina,passing
+Célio Pompeu,FW,L,26,BRA,8,false,false,false,dribbling,pace
+Tomas Totland,FW,R,27,NOR,4,true,false,false,pace,stamina
+Timo Baumgartl,CB,R,30,GER,5,false,false,false,heading,tackling
+Henry Kessler,CB,R,28,USA,6,true,false,false,stamina,heading
+Fallou Fall,CB,L,22,SEN,8,true,false,false,tackling,marking
+Joshua Yaro,CB,R,32,GHA,4,false,false,false,pace,stamina
+Jayden Reid,FB,L,25,USA,5,true,false,false,pace,stamina
+Kyle Hiebert,CB,L,29,CAN,3,false,false,false,stamina,tackling
+Joseph Zalinsky,FB,R,23,USA,5,false,false,false,pace,stamina
+Devin Padelford,CB,L,23,USA,6,false,false,false,marking,tackling
+Simon Becher,FW,R,27,USA,7,false,false,false,finishing,dribbling
+Tyson Pearce,MF,R,19,USA,3,false,false,false,pace,passing
+Mykhi Joyner,FW,L,20,USA,5,false,false,false,pace,crossing
+Michael Wentzel,CB,R,24,USA,6,false,false,false,stamina,tackling
+Jaziel Orozco,CB,R,22,USA,7,false,false,false,stamina,marking
+Roman Burki,GK,R,35,SUI,3,true,false,false,reflexes,penalty-saving
+Caden Glover,FW,R,19,USA,5,false,false,false,pace,finishing
+Ben Lundt,GK,R,30,GER,1,false,false,false,reflexes,positioning

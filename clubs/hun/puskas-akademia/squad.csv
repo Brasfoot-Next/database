@@ -1,0 +1,20 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Balázs Tóth,GK,L,24,HUN,8,true,false,false,penalty-saving,reflexes
+Tamás Markek,GK,L,30,HUN,2,false,false,false,penalty-saving,reflexes
+Zsolt Nagy,FB,L,29,HUN,8,true,false,false,crossing,pace
+Roland Szolnoki,FB,R,30,HUN,5,true,false,false,marking,pace
+Csaba Spandler,CB,R,26,HUN,5,true,false,false,marking,pace
+Patrizio Stronati,CB,L,27,CZE,5,true,false,false,heading,stamina
+Marius Corbu,MF,R,20,ROU,8,true,false,false,finishing,passing
+Jakub Plsek,MF,R,28,CZE,5,true,false,false,marking,pace
+Van Nieff,MF,R,29,NED,10,true,false,false,dribbling,playmaking
+Jozef Urblik,MF,L,25,SVK,9,true,false,false,tackling,heading
+Balázs Bakti,MF,R,17,HUN,6,false,false,false,playmaking,pace
+Artem Favorov,MF,R,28,UKR,8,false,false,false,marking,finishing
+Luciano Slagveer,FW,R,28,NED,8,true,false,false,finishing,dribbling
+Alexandru Baluta,FW,R,28,ROU,9,false,false,false,playmaking,finishing
+György Komáromi,FW,L,20,HUN,1,false,false,false,pace,finishing
+Mohamed Mezghrani,FB,R,28,BEL,1,false,false,false,marking,pace
+Gergő Major,FB,L,22,HUN,6,false,false,false,marking,finishing
+Wojciech Golla,CB,R,30,POL,5,false,false,false,tackling,marking
+Alen Skribek,FW,L,21,HUN,5,true,false,false,finishing,dribbling

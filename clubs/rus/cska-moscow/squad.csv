@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Vladislav Torop,GK,R,22,RWA,7,true,false,false,positioning,penalty-saving
+Igor Akinfeev,GK,L,30,RWA,2,false,false,false,positioning,rushing-out
+Egor Besaev,GK,R,20,RWA,6,false,false,false,positioning,rushing-out
+Nikolay Barovskiy,GK,R,19,RWA,6,false,false,false,reflexes,rushing-out
+Matvey Lukin,CB,R,22,RWA,8,true,false,false,marking,passing
+João Victor,CB,R,27,BRA,4,true,false,false,pace,dribbling
+Kirill Danilov,CB,R,18,RWA,6,false,false,false,tackling,pace
+Dzhamalutdin Abdulkadyrov,CB,R,21,RWA,7,false,false,false,marking,passing
+Moisés,FB,L,31,BRA,1,true,false,false,dribbling,pace
+Matheus Reis,FB,L,31,BRA,6,false,false,false,stamina,marking
+Milan Gajic,FB,L,30,SRB,8,true,false,false,stamina,pace
+Ramiro Di Luciano,FB,R,22,ARG,5,false,false,false,passing,pace
+Dmitriy Barinov,MF,R,29,RWA,6,true,false,false,passing,stamina
+Artem Bandikyan,MF,R,20,RWA,7,false,false,false,tackling,passing
+Matvey Kislyak,MF,R,20,RWA,9,true,false,false,stamina,tackling
+Ivan Oblyakov,MF,R,28,RWA,5,true,false,false,marking,passing
+Danil Krugovoy,MF,L,28,RWA,6,false,false,false,pace,crossing
+Matheus Alves,MF,L,21,BRA,7,true,false,false,dribbling,pace
+Danila Kozlov,MF,R,21,RWA,9,false,false,false,stamina,tackling
+Matija Popović,MF,L,20,SRB,5,false,false,false,stamina,tackling
+Imran Firov,FW,R,18,RWA,8,false,false,false,finishing,pace
+Kirill Glebov,FW,R,20,RWA,4,true,false,false,pace,crossing
+Henrique Carmo,FW,R,19,BRA,6,false,false,false,dribbling,playmaking
+Artem Serikov,FW,L,19,RWA,6,false,false,false,pace,finishing
+Luciano Gondou,FW,R,25,ARG,8,true,false,false,heading,stamina
+Tamerlan Musaev,FW,L,24,RWA,4,false,false,false,finishing,heading
+Maksim Voronov,FW,R,18,RWA,6,false,false,false,finishing,heading
+Artem Shumanskiy,FW,R,21,RWA,6,false,false,false,heading,pace

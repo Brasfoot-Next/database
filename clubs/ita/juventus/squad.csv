@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Teun Koopmeiners,MF,L,28,NED,7,false,false,false,passing,playmaking
+Filip Kostic,FW,L,33,SRB,8,false,false,false,crossing,pace
+Khephren Thuram,MF,L,25,FRA,4,true,false,false,tackling,passing
+Weston Mckennie,MF,R,28,USA,6,true,false,false,heading,tackling
+Manuel Locatelli,MF,R,28,ITA,6,true,false,false,stamina,tackling
+Andrea Cambiaso,FW,L,26,ITA,8,false,false,false,dribbling,playmaking
+Lois Openda,FW,R,26,BEL,4,false,false,false,pace,finishing
+João Mário,FW,R,26,POR,6,false,false,false,stamina,pace
+Dusan Vlahovic,FW,L,26,SRB,6,true,false,false,finishing,heading
+Fabio Miretti,MF,R,23,ITA,8,false,false,false,passing,playmaking
+Pierre Kalulu,CB,R,26,FRA,6,true,false,false,tackling,pace
+Kenan Yildiz,MF,R,21,TUR,7,false,false,false,dribbling,pace
+Jonathan David,FW,R,26,CAN,8,true,false,false,stamina,finishing
+Arkadiusz Milik,FW,L,32,POL,5,false,false,false,heading,finishing
+Bremer,CB,R,29,BRA,6,true,true,false,heading,tackling
+Francisco Conceição,MF,L,23,POR,7,true,false,false,pace,dribbling
+Edon Zhegrova,FW,L,27,ITA,8,false,false,false,dribbling,pace
+Federico Gatti,CB,R,28,ITA,5,false,false,false,tackling,marking
+Lloyd Kelly,CB,L,27,ENG,6,false,false,false,stamina,heading
+Juan David Cabal,FB,L,25,COL,7,true,false,false,tackling,passing
+Jonas Rouhi,FB,L,22,SWE,5,true,false,false,marking,tackling
+Vasilije Adzic,MF,R,20,MNE,6,false,false,false,dribbling,pace
+Daniele Rugani,CB,R,32,ITA,8,false,false,false,marking,heading
+Michele Di Gregorio,GK,R,29,ITA,2,true,false,false,reflexes,positioning
+Mattia Perin,GK,R,33,ITA,6,false,false,false,positioning,rushing-out
+Carlo Pinsoglio,GK,L,36,ITA,6,false,false,false,rushing-out,reflexes

@@ -1,0 +1,13 @@
+name = "Vaduz"
+country = "LIE"
+level = 12
+reputation = 2
+colors = ["#ff0000", "#ffffff"]
+
+[stadium]
+name = "Rheinpark"
+capacity = 7838
+
+[coach]
+name = "Alessandro Mangiarratti"
+country = "SUI"

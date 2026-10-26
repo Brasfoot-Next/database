@@ -1,0 +1,13 @@
+name = "Hibernians"
+country = "MLT"
+level = 13
+reputation = 2
+colors = ["#ffc100", "#000000"]
+
+[stadium]
+name = "Hibernians"
+capacity = 8000
+
+[coach]
+name = "Andrea Pisanu"
+country = "ITA"

@@ -1,0 +1,13 @@
+name = "Walsall"
+country = "ENG"
+level = 8
+reputation = 2
+colors = ["#F01030", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Jamille Browne"
+country = "BRA"

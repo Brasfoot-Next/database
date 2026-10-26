@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ovidiu Popescu,MF,R,32,ROU,7,true,false,false,stamina,pace
+Benjamin Van Durmen,MF,L,29,BEL,4,true,false,false,stamina,passing
+Valentin Costache,FW,R,28,ROU,5,false,false,false,stamina,pace
+Alin Roman,MF,L,32,ROU,6,true,false,false,pace,passing
+Sota Mino,MF,R,31,JPN,7,false,false,false,stamina,tackling
+Hakim Abdallah,FW,R,28,ROU,1,false,false,false,pace,stamina
+Denis Hrezdac,MF,R,24,ROU,5,false,false,false,stamina,pace
+Dmytro Pospelov,CB,R,34,UKR,6,true,false,false,stamina,heading
+Luca Mihai,MF,L,22,ROU,7,true,false,false,stamina,pace
+Florent Poulolo,CB,L,29,ROU,1,true,false,false,stamina,marking
+Din Alomerovic,FB,L,29,ROU,6,true,false,false,pace,stamina
+Mark Tutu,FB,R,22,ROU,6,true,false,false,pace,stamina
+Laurentiu Vlasceanu,FW,L,21,ROU,10,false,false,false,pace,dribbling
+Marius Coman,FW,R,30,ROU,5,true,false,false,stamina,pace
+Andrea Padula,FB,L,30,ROU,6,false,false,false,stamina,tackling
+Daniel Zsori,FW,L,25,HUN,7,false,false,false,pace,finishing
+Flavius Iacob,FB,R,25,ROU,1,false,false,false,pace,passing
+Marinos Tzionis,FW,L,25,CYP,5,true,false,false,pace,dribbling
+Alexandru Benga,CB,R,37,ROU,6,false,false,false,stamina,heading
+Marian Danciu,FW,R,24,ROU,7,false,false,false,stamina,pace
+David Barbu,FW,R,20,ROU,5,false,false,false,pace,dribbling
+Denis Taroi,FW,R,18,ROU,6,false,false,false,pace,dribbling
+Alexandru Matei,MF,R,18,ROU,7,false,false,false,pace,dribbling
+Adrian Dragos,FW,R,19,ROU,4,false,false,false,pace,finishing
+Dejan Iliev,GK,R,31,ROU,5,false,false,false,reflexes,penalty-saving
+Andrei Gorcea,GK,R,25,ROU,6,true,false,false,reflexes,rushing-out
+Lucas Rosu,GK,R,19,ROU,7,false,false,false,rushing-out,penalty-saving

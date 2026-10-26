@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sergi Darder,MF,R,32,ESP,7,true,false,false,passing,playmaking
+Johan Mojica,FB,L,34,COL,9,true,false,false,pace,crossing
+Manu Morlanes,MF,R,27,ESP,5,true,false,false,passing,playmaking
+Dani Rodríguez,MF,R,38,ESP,6,false,false,false,pace,playmaking
+Antonio Sánchez,FW,R,29,ESP,7,false,false,false,stamina,passing
+Samú Costa,MF,L,25,POR,9,true,false,false,stamina,passing
+Maffeo,FB,R,29,ARG,5,true,false,false,tackling,dribbling
+Omar Mascarell,MF,R,33,ESP,6,false,false,false,passing,tackling
+Toni Lato,FB,L,28,ESP,7,false,false,false,crossing,pace
+Takuma Asano,FW,R,31,JPN,10,false,false,false,pace,dribbling
+Pablo Torre,MF,L,23,ESP,4,true,false,false,passing,playmaking
+Mateu Morey,FB,R,26,ESP,6,false,false,false,dribbling,passing
+Martin Valjent,CB,R,30,SVK,6,true,false,false,stamina,tackling
+Vedat Muriqi,FW,L,32,ESP,8,true,false,false,heading,finishing
+Abdón Prats,FW,L,33,ESP,4,false,false,false,finishing,dribbling
+Raíllo,CB,R,34,ESP,5,false,false,false,stamina,heading
+Mateo Joseph,FW,R,22,ESP,6,false,false,false,pace,stamina
+Marash Kumbulla,CB,L,26,ALB,7,true,false,false,tackling,heading
+Jan Virgili,FW,L,20,ESP,8,true,false,false,pace,dribbling
+Javi Llabrés,FW,L,23,ESP,5,false,false,false,stamina,pace
+Iliesse Salhi,FB,L,19,FRA,6,false,false,false,pace,crossing
+David López,CB,R,23,ESP,8,false,false,false,stamina,heading
+Marc Domènech,FW,R,19,ESP,4,false,false,false,pace,dribbling
+Leo Román,GK,R,26,ESP,6,true,false,false,reflexes,penalty-saving
+Pichu Cuéllar,GK,L,42,ESP,6,false,false,false,rushing-out,reflexes
+Lucas Bergstrom,GK,R,24,FIN,8,false,false,false,reflexes,penalty-saving

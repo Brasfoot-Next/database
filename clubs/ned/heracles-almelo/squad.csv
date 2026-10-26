@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jeff Reine Adelaide,MF,R,28,FRA,7,true,false,false,dribbling,playmaking
+Ajdin Hrustic,MF,L,30,AUS,4,true,false,false,crossing,dribbling
+Walid Ould Chikh,MF,R,26,NED,5,true,false,false,pace,dribbling
+Thomas Bruns,MF,R,34,NED,6,false,false,false,stamina,passing
+Jizz Hornkamp,FW,R,28,NED,8,true,false,false,finishing,heading
+Jan Zamburek,MF,R,25,CZE,4,false,false,false,stamina,passing
+Yvandro Borges Sanches,FW,L,22,NED,5,false,false,false,pace,dribbling
+Sem Scheperman,MF,L,24,NED,6,true,false,false,stamina,passing
+Mimeirhel Benita,FB,R,22,NED,8,true,false,false,pace,dribbling
+Mario Engels,FW,L,32,GER,4,false,false,false,pace,finishing
+Ivan Mesik,CB,L,25,SVK,7,true,false,false,pace,stamina
+Djevencio Van Der Kust,FB,L,25,SUR,3,false,false,false,pace,stamina
+Mike Te Wierik,CB,R,34,NED,5,false,false,false,marking,stamina
+Bryan Limbombe,FW,R,25,BEL,6,false,false,false,stamina,dribbling
+Jannes Wieckhoff,FB,R,26,GER,7,true,false,false,pace,stamina
+Tristan Van Gilst,MF,R,23,NED,3,false,false,false,pace,dribbling
+Alec Van Hoorenbeeck,CB,L,27,BEL,5,true,false,false,pace,heading
+Luka Kulenovic,FW,R,26,BIH,5,true,false,false,heading,finishing
+Damon Mirani,CB,L,30,NED,6,false,false,false,heading,stamina
+Lorenzo Milani,FB,L,25,ITA,8,false,false,false,tackling,crossing
+Giandro Sambo,FW,L,20,CUW,5,false,false,false,dribbling,pace
+Sava Arangel Cestic,CB,R,25,SRB,6,false,false,false,tackling,heading
+Jop Tijink,CB,L,21,NED,7,false,false,false,tackling,heading
+Fabian De Keijzer,GK,R,26,NED,3,true,false,false,reflexes,penalty-saving
+Leco Zeevalkink,GK,R,20,NED,5,false,false,false,reflexes,penalty-saving
+Robin Mantel,GK,R,25,BEL,6,false,false,false,reflexes,rushing-out
+Timo Jansink,GK,R,23,NED,7,false,false,false,rushing-out,penalty-saving

@@ -1,0 +1,13 @@
+name = "Toronto FC"
+country = "USA"
+level = 12
+reputation = 2
+colors = ["#F0F0F0", "#203030"]
+
+[stadium]
+name = "BMO Field"
+capacity = 30991
+
+[coach]
+name = "Lazar Cifuentes"
+country = "BRA"

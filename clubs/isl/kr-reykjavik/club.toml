@@ -1,0 +1,13 @@
+name = "KR Reykjavík"
+country = "ISL"
+level = 16
+reputation = 3
+colors = ["#000000", "#ffffff"]
+
+[stadium]
+name = "KR-völlur"
+capacity = 3000
+
+[coach]
+name = "Rúnar Kristinsson"
+country = "ISL"

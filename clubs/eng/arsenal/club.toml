@@ -1,0 +1,13 @@
+name = "Arsenal"
+country = "ENG"
+level = 24
+reputation = 5
+colors = ["#E00000", "#FFFFFF"]
+
+[stadium]
+name = "Emirates Stadium"
+capacity = 60704
+
+[coach]
+name = "Noni Saliba"
+country = "BRA"

@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ebou Adams,MF,R,30,GAM,6,false,false,false,stamina,tackling
+Ben Brereton Diaz,FW,L,27,CHI,8,true,false,false,pace,stamina
+Andreas Weimann,MF,R,35,AUT,4,true,false,false,stamina,finishing
+Lewis Travis,MF,R,28,ENG,5,true,false,false,stamina,tackling
+Owen Beck,FB,L,24,WAL,6,true,false,false,dribbling,stamina
+Joe Ward,FB,R,31,ENG,9,false,false,false,stamina,pace
+Carlton Morris,FW,R,30,ENG,4,false,false,false,heading,finishing
+David Ozoh,MF,R,21,ENG,5,true,false,false,passing,stamina
+Liam Thompson,MF,L,24,ENG,7,false,false,false,stamina,passing
+Corey Blackett Taylor,FW,L,28,ENG,4,false,false,false,pace,dribbling
+Sondre Langas,CB,R,25,NOR,7,true,false,false,pace,stamina
+Kayden Jackson,FW,R,32,ENG,2,false,false,false,pace,dribbling
+Max Johnston,FB,R,22,SCO,5,true,false,false,stamina,pace
+Craig Forsyth,FB,L,37,SCO,6,false,false,false,heading,tackling
+Callum Elder,FW,L,31,AUS,7,false,false,false,stamina,pace
+Lars Jorgen Salvesen,FW,L,30,NOR,3,false,false,false,stamina,heading
+Bobby Clark,MF,R,21,ENG,5,true,false,false,playmaking,dribbling
+Rhian Brewster,MF,L,26,ENG,6,false,false,false,pace,dribbling
+Ryan Nyambe,FW,R,28,NAM,7,false,false,false,pace,stamina
+Curtis Nelson,CB,R,33,ENG,5,false,false,false,stamina,heading
+Matt Clarke,CB,L,29,ENG,6,false,false,false,marking,tackling
+Dion Sanderson,CB,R,26,ENG,8,true,false,false,tackling,stamina
+Patrick Agyemang,FW,R,25,USA,4,true,false,false,finishing,stamina
+Danny Batth,CB,R,35,ENG,5,false,false,false,heading,tackling
+Richard Odonnell,GK,L,37,ENG,6,false,false,false,positioning,rushing-out
+Josh Vickers,GK,R,30,ENG,9,false,false,false,rushing-out,reflexes
+Jacob Widell Zetterstrom,GK,R,28,SWE,5,true,false,false,penalty-saving,reflexes

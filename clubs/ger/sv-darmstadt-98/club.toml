@@ -1,0 +1,13 @@
+name = "SV Darmstadt 98"
+country = "GER"
+level = 13
+reputation = 3
+colors = ["#F0F0F0", "#004090"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Paul Klefisch"
+country = "BRA"

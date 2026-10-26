@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ben Cherifia,GK,R,31,TUN,0,true,false,false,positioning,rushing-out
+Debchi,GK,L,22,TUN,10,false,false,false,rushing-out,penalty-saving
+Hamza Ghanmi,GK,R,24,TUN,5,false,false,false,reflexes,positioning
+Mohamed Ben Ali,FB,R,27,TUN,3,true,false,false,marking,finishing
+Samuel Atvati,FB,L,22,NGA,10,true,false,false,crossing,pace
+Nour El Beji,FB,R,22,TUN,2,false,false,false,marking,pace
+Hamida,FB,L,26,TUN,5,false,false,false,marking,pace
+Yaakoubi,CB,R,31,TUN,9,true,false,false,tackling,stamina
+Tougai,CB,L,22,ALG,2,true,false,false,marking,pace
+Bilel Chabbar,CB,L,22,TUN,1,false,false,false,marking,pace
+Yassine Meriah,CB,R,29,TUN,4,false,false,false,marking,pace
+Coulibaly,MF,L,29,CIV,0,true,false,false,tackling,marking
+Ghaylen Chaaleli,MF,R,28,TUN,9,true,false,false,marking,pace
+Romdhane,MF,R,22,TUN,4,true,false,false,marking,pace
+Sabir Bougrine,MF,R,26,MAR,2,true,false,false,finishing,passing
+Cedrik Gbo,MF,R,19,CIV,3,false,false,false,tackling,pace
+Hammouda,MF,R,24,TUN,7,true,false,false,playmaking,passing
+Mouhib Selmi,MF,L,19,TUN,5,true,false,false,passing,finishing
+Percious Boah,MF,R,19,GHA,8,false,false,false,finishing,passing
+Hamdou Elhouni,FW,L,28,LBY,2,true,false,false,dribbling,finishing
+Alaeddine Marzouki,FW,R,32,TUN,8,true,false,false,heading,pace
+Anice Ammous,FW,R,21,FRA,2,false,false,false,finishing,dribbling
+Azziz Fellah,FW,R,20,TUN,3,false,false,false,dribbling,playmaking

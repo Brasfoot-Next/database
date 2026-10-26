@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Denys Marchenko,GK,R,19,UKR,7,true,false,false,positioning,rushing-out
+Anton Zhylkin,GK,R,23,UKR,3,false,false,false,positioning,rushing-out
+Roman Mysak,GK,R,34,UKR,5,false,false,false,reflexes,penalty-saving
+Vladyslav Baboglo,CB,R,27,UKR,7,true,false,false,tackling,stamina
+Jean Pedroso,CB,L,22,BRA,3,true,false,false,tackling,marking
+Vitaliy Kholod,CB,R,22,UKR,5,false,false,false,stamina,heading
+Tymur Stetskov,CB,R,28,UKR,6,false,false,false,tackling,heading
+Mykola Kyrychok,CB,R,20,UKR,7,false,false,false,marking,stamina
+Bogdan Levytskyi,CB,L,17,UKR,3,false,false,false,passing,marking
+Roman Vantukh,FB,R,28,UKR,5,true,false,false,marking,pace
+Rostyslav Lyakh,FB,R,25,UKR,5,true,false,false,passing,crossing
+Andriy Buleza,FB,L,22,UKR,6,false,false,false,stamina,crossing
+Oleksiy Sych,FB,R,25,UKR,7,false,false,false,stamina,pace
+Denys Miroshnichenko,FB,R,31,UKR,4,false,false,false,crossing,pace
+Yuriy Kokodynyak,FB,L,19,UKR,5,false,false,false,pace,tackling
+Marko Sapuga,MF,L,23,UKR,6,true,false,false,passing,playmaking
+Eriki,MF,R,20,BRA,7,false,false,false,passing,stamina
+Moha Moukhliss,MF,R,26,ESP,4,false,false,false,playmaking,finishing
+Ivan Chaban,MF,R,19,UKR,5,false,false,false,playmaking,passing
+Yan Kostenko,MF,L,23,UKR,6,true,false,false,pace,crossing
+Ambrosiy Chachua,MF,R,32,UKR,5,true,false,false,playmaking,finishing
+Artur Shakh,MF,R,21,UKR,6,true,false,false,finishing,passing
+Ilya Kvasnytsya,FW,R,23,UKR,7,true,false,false,heading,pace
+Xeber Alkain,FW,R,29,ESP,3,true,false,false,heading,pace
+Nazariy Rusyn,FW,R,27,UKR,5,false,false,false,pace,finishing
+Yaroslav Karabin,FW,R,23,UKR,6,false,false,false,heading,stamina

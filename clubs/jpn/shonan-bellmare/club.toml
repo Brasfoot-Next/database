@@ -1,0 +1,13 @@
+name = "Shonan Bellmare"
+country = "JPN"
+level = 11
+reputation = 2
+colors = ["#F0F0F0", "#000060"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Kanaru Ono"
+country = "BRA"

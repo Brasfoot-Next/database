@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Simone Santoro,MF,L,26,ITA,7,true,false,false,pace,stamina
+Francesco Di Mariano,FW,L,30,ITA,3,false,false,false,pace,dribbling
+Francesco Zampano,FB,L,32,ITA,5,true,false,false,pace,stamina
+Luca Zanimacchia,FW,R,28,ITA,6,true,false,false,stamina,pace
+Alessandro Sersanti,MF,R,24,ITA,7,false,false,false,stamina,pace
+Luca Magnino,MF,R,29,ITA,3,true,false,false,pace,stamina
+Niklas Pyyhtia,MF,L,22,FIN,5,true,false,false,passing,stamina
+Fabio Gerli,MF,R,29,ITA,6,false,false,false,stamina,passing
+Matteo Cotali,FW,L,29,ITA,7,false,false,false,stamina,pace
+Gregoire Defrel,FW,L,35,FRA,8,false,false,false,dribbling,finishing
+Pedro Mendes,FW,R,27,POR,5,true,false,false,pace,finishing
+Cristian Cauz,CB,L,30,ITA,6,true,false,false,pace,tackling
+Fabio Ponsi,FB,R,25,ITA,7,true,false,false,pace,stamina
+Yanis Massolin,MF,L,23,FRA,3,false,false,false,heading,passing
+Gady Pierre Beyuku,FB,R,20,FRA,5,false,false,false,pace,heading
+Davide Adorni,CB,R,34,ITA,6,false,false,false,stamina,pace
+Giuseppe Caso,MF,R,27,ITA,7,true,false,false,pace,dribbling
+Ettore Gliozzi,FW,L,30,ITA,3,false,false,false,finishing,heading
+Antonio Pergreffi,CB,L,38,ITA,4,false,false,false,tackling,heading
+Daniel Tonoli,CB,R,24,ITA,5,false,false,false,pace,marking
+Steven Nador,CB,R,24,ITA,7,false,false,false,heading,tackling
+Bryant Nieling,CB,L,23,NED,3,false,false,false,heading,tackling
+Alessandro Dellavalle,CB,R,22,ITA,5,true,false,false,stamina,heading
+Leandro Chichizola,GK,R,36,ARG,6,true,false,false,positioning,reflexes
+Fabrizio Bagheria,GK,R,25,ITA,7,false,false,false,penalty-saving,reflexes
+Michele Pezzolato,GK,R,22,ITA,3,false,false,false,rushing-out,penalty-saving

@@ -1,0 +1,13 @@
+name = "AZ Alkmaar"
+country = "NED"
+level = 16
+reputation = 3
+colors = ["#C02020", "#101010"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Mateo Kasius"
+country = "BRA"

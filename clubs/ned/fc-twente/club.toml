@@ -1,0 +1,13 @@
+name = "FC Twente"
+country = "NED"
+level = 15
+reputation = 3
+colors = ["#E00010", "#F0F0F0"]
+
+[stadium]
+name = "De Grolsch Veste"
+capacity = 30205
+
+[coach]
+name = "Mats Peixoto"
+country = "BRA"

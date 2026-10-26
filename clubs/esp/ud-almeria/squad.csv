@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Lucas Robertone,MF,R,29,ARG,5,true,false,false,stamina,dribbling
+André Horta,MF,R,29,POR,6,true,false,false,passing,stamina
+Álex Muñoz,FB,L,32,ESP,6,true,false,false,stamina,pace
+Dion Lopy,MF,L,24,SEN,7,true,false,false,stamina,passing
+Embarba,FW,R,34,ESP,3,false,false,false,pace,dribbling
+Álex Centelles,FB,L,27,ESP,5,true,false,false,stamina,pace
+Nico Melamed,FW,L,25,ESP,6,false,false,false,pace,dribbling
+Patrick Soko,FW,R,28,CMR,7,false,false,false,pace,stamina
+Léo Baptistão,FW,R,34,BRA,4,false,false,false,stamina,finishing
+Arnau Puigmal,FW,R,25,ESP,5,false,false,false,passing,playmaking
+Iddrisu Baba,MF,R,30,GHA,5,true,false,false,stamina,dribbling
+Arribas,MF,L,24,ESP,6,false,false,false,passing,dribbling
+Luna,FB,R,23,ESP,8,false,false,false,stamina,pace
+Daijiro Chirino,CB,R,24,CUW,5,false,false,false,stamina,pace
+Gui Guedes,MF,R,24,POR,6,false,false,false,passing,playmaking
+Thalys,FW,L,21,BRA,6,false,false,false,finishing,stamina
+Nélson Monte,CB,R,31,POR,10,false,false,false,stamina,tackling
+Ibrahima Kone,FW,L,27,MLI,5,true,false,false,pace,finishing
+Selvi,MF,L,21,ESP,6,false,false,false,tackling,passing
+Marko Perovic,FW,L,20,MNE,7,true,false,false,pace,dribbling
+Chumi,CB,R,27,ESP,10,true,false,false,tackling,marking
+Aridane,CB,R,37,ESP,5,false,false,false,heading,tackling
+Stefan Dzodic,MF,R,21,SRB,5,false,false,false,stamina,tackling
+Marciano,FW,R,22,GNB,6,false,false,false,pace,stamina
+Federico Bonini,CB,L,25,ITA,1,true,false,false,heading,tackling
+Pedro Cedillo,CB,L,19,ESP,5,false,false,false,stamina,marking
+Andrés Fernández,GK,R,39,ESP,6,false,false,false,reflexes,positioning
+Fernando,GK,R,36,ESP,7,false,false,false,positioning,reflexes
+Jesús López,GK,R,24,ESP,2,true,false,false,rushing-out,reflexes

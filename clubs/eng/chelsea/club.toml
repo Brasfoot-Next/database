@@ -1,0 +1,13 @@
+name = "Chelsea"
+country = "ENG"
+level = 21
+reputation = 4
+colors = ["#002050", "#E0E0E0"]
+
+[stadium]
+name = "Stamford Bridge"
+capacity = 41631
+
+[coach]
+name = "Levi Delap"
+country = "BRA"

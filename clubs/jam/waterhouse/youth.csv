@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Zemioy Nash,GK,L,17,JAM,5,true,false,false,reflexes,positioning
+Jovel Plunket,GK,R,16,JAM,5,false,false,false,penalty-saving,rushing-out
+Nicko Williams,FB,L,19,GRN,2,false,false,false,tackling,crossing
+Rohan Amos,FB,R,17,JAM,2,false,false,false,crossing,marking
+Kevin Lamey,FB,L,17,JAM,5,false,false,false,pace,crossing
+Jovel Kemar Thomas,CB,R,18,JAM,6,false,false,false,tackling,stamina
+Marco McDonald,CB,L,16,JAM,5,false,false,false,marking,heading
+Brendon Freckleton,CB,R,19,JAM,9,true,false,false,heading,tackling
+Renardo Burgher,MF,L,16,JAM,5,true,false,false,passing,finishing
+Jermaine Morgan,MF,R,18,JAM,4,true,false,false,playmaking,pace
+Kenardo Forbes,MF,L,16,JAM,5,false,false,false,tackling,finishing
+Damion Williams,MF,R,19,JAM,7,false,false,false,marking,passing
+Shaquille Bradford,FW,L,18,JAM,4,true,false,false,dribbling,pace
+Juvaune Vincent Benjamin,FW,R,17,JAM,7,false,false,false,finishing,stamina
+Wilson Forrest,FW,L,19,JAM,6,false,false,false,finishing,dribbling

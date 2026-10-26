@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Diego Segovia,GK,L,26,URU,5,true,false,false,reflexes,positioning
+Adriano Freitas,GK,R,29,URU,6,false,false,false,positioning,reflexes
+Nicolás Fuica,CB,R,22,URU,7,false,false,false,tackling,stamina
+Joaquín Fernández,CB,L,27,URU,4,true,false,false,tackling,marking
+Hernán Petryk,CB,L,31,URU,5,false,false,false,heading,passing
+Hernán Menosse,CB,R,22,URU,6,false,false,false,tackling,pace
+Facundo Tealde,CB,R,37,URU,6,false,false,false,marking,heading
+Bautista Biffi,CB,R,24,ARG,1,true,false,false,tackling,pace
+Sebastián Tormo,FB,L,25,URU,5,true,false,false,tackling,marking
+Juan Ramos,FB,R,29,URU,6,true,false,false,tackling,marking
+Juan Martín Ginzo,FB,L,24,ARG,4,false,false,false,tackling,pace
+Franco Marino,FB,R,19,ARG,5,false,false,false,tackling,marking
+Santiago Cartagena,MF,R,23,URU,7,true,false,false,stamina,tackling
+Maximiliano González,MF,R,22,ARG,9,false,false,false,stamina,tackling
+Sebastián González,MF,R,26,URU,4,true,false,false,stamina,passing
+Lucas Núñez,MF,R,25,URU,6,true,false,false,passing,stamina
+Adrian Vila,MF,R,24,URU,7,true,false,false,tackling,passing
+Bruno Centeno,MF,R,21,URU,1,false,false,false,pace,crossing
+Guillermo López,FW,R,23,URU,5,false,false,false,pace,dribbling
+Santiago Ramírez,FW,R,24,URU,6,false,false,false,dribbling,pace
+Gonzalo Larrazábal,FW,R,23,URU,3,false,false,false,pace,dribbling
+Lautaro Ibáñez,FW,L,22,URU,5,false,false,false,heading,pace
+Christian Tabó,FW,L,32,URU,6,false,false,false,pace,dribbling
+Renato César,FW,R,32,URU,7,false,false,false,pace,dribbling
+Maximiliano Noble,FW,R,28,URU,4,true,false,false,finishing,dribbling
+Elías de León,FW,L,20,URU,5,false,false,false,heading,pace
+Bruno Mendes,FW,R,31,BRA,6,false,false,false,finishing,stamina
+Emiliano Mozzone,FW,R,28,URU,8,true,false,false,pace,finishing

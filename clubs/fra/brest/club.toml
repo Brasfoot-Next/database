@@ -1,0 +1,13 @@
+name = "Brest"
+country = "FRA"
+level = 16
+reputation = 3
+colors = ["#E01020", "#F0F0F0"]
+
+[stadium]
+name = "Stade Francis-Le Blé"
+capacity = 15220
+
+[coach]
+name = "Kenny Doumbia"
+country = "BRA"

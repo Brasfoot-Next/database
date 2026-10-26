@@ -1,0 +1,13 @@
+name = "FC Groningen"
+country = "NED"
+level = 11
+reputation = 2
+colors = ["#008050", "#F0F0F0"]
+
+[stadium]
+name = "Euroborg"
+capacity = 22550
+
+[coach]
+name = "Tika Baron"
+country = "BRA"

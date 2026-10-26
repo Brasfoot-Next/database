@@ -1,0 +1,13 @@
+name = "Rio Ave FC"
+country = "POR"
+level = 13
+reputation = 3
+colors = ["#000000", "#F08000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Marc Brabec"
+country = "BRA"

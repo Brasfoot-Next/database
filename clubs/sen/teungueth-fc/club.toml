@@ -1,0 +1,13 @@
+name = "Teungueth FC"
+country = "SEN"
+level = 8
+reputation = 2
+colors = ["#B09000", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Ousmane Ba"
+country = "BRA"

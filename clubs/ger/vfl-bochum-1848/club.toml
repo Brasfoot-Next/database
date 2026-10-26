@@ -1,0 +1,13 @@
+name = "VfL Bochum 1848"
+country = "GER"
+level = 14
+reputation = 3
+colors = ["#F0F0F0", "#0050A0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Kevin Hofmann"
+country = "BRA"

@@ -1,0 +1,13 @@
+name = "Anorthosis Famagusta"
+country = "CYP"
+level = 14
+reputation = 2
+colors = ["#ffffff", "#0033cc"]
+
+[stadium]
+name = "A. Papadopoulos"
+capacity = 10230
+
+[coach]
+name = "Darko Milanic"
+country = "SVN"

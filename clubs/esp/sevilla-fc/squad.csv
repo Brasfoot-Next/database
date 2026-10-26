@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nemanja Gudelj,MF,L,34,SRB,7,false,false,false,passing,stamina
+Djibril Sow,MF,R,29,SUI,4,true,false,false,stamina,pace
+Alexis Sanchez,FW,R,37,CHI,6,false,false,false,playmaking,dribbling
+Joan Jordán,MF,R,32,ESP,6,false,false,false,playmaking,passing
+Azpilicueta,CB,R,37,ESP,7,false,false,false,marking,tackling
+Batista Mendy,MF,R,26,FRA,4,true,false,false,stamina,tackling
+Carmona,FB,R,24,ESP,6,true,false,false,pace,marking
+Ruben Vargas,MF,R,28,SUI,6,true,false,false,pace,stamina
+Juanlu Sánchez,FB,R,23,ESP,7,true,false,false,crossing,dribbling
+Gabriel Suazo,FB,L,29,CHI,5,false,false,false,stamina,tackling
+Chidera Ejuke,FW,R,28,NGA,6,true,false,false,pace,dribbling
+Lucien Agoume,MF,R,24,FRA,7,true,false,false,passing,stamina
+Alfon,FW,L,27,ESP,1,false,false,false,dribbling,stamina
+Peque,MF,R,23,ESP,5,false,false,false,pace,finishing
+Isaac Romero,FW,L,26,ESP,6,true,false,false,pace,heading
+Adnan Januzaj,FW,L,31,BEL,7,false,false,false,dribbling,passing
+Akor Jerome Adams,FW,R,26,NGA,9,false,false,false,pace,finishing
+Marcão,CB,L,30,BRA,5,false,false,false,stamina,tackling
+Kike Salas,CB,L,24,ESP,6,true,false,false,heading,marking
+Fábio Cardoso,CB,R,32,POR,7,false,false,false,heading,marking
+Manu Bueno,MF,L,22,ESP,5,false,false,false,passing,dribbling
+Tanguy Nianzou,CB,R,24,FRA,6,false,false,false,heading,tackling
+Oso,FB,L,23,ESP,7,false,false,false,pace,tackling
+Edu Altozano,MF,L,19,ESP,8,false,false,false,pace,dribbling
+Ramón Martínez,CB,R,23,ESP,5,false,false,false,heading,tackling
+Andrés Castrín,CB,R,23,ESP,6,true,false,false,tackling,heading
+Orjan Nyland,GK,R,35,NOR,8,false,false,false,penalty-saving,rushing-out
+Odysseas Vlachodimos,GK,R,32,GRE,5,true,false,false,penalty-saving,positioning
+Álvaro Ferllo,GK,L,28,ESP,6,false,false,false,reflexes,penalty-saving
+Alberto Flores,GK,L,22,ESP,7,false,false,false,rushing-out,penalty-saving
+Rafa Romero,GK,L,23,ESP,4,false,false,false,reflexes,positioning

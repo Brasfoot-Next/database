@@ -1,0 +1,38 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Yuma Obata,GK,R,24,JPN,5,true,false,false,positioning,reflexes
+Takumi Nagaishi,GK,R,30,JPN,6,false,false,false,positioning,penalty-saving
+Kazuki Fujita,GK,R,25,JPN,6,false,false,false,reflexes,penalty-saving
+Powell Obinna Obi,GK,R,28,JPN,7,false,false,false,reflexes,positioning
+Kennedy Egbus Mikuni,CB,R,26,JPN,3,true,false,false,tackling,heading
+Takumi Kamijima,CB,R,29,JPN,5,true,false,false,tackling,marking
+Teppei Oka,CB,L,24,JPN,6,false,false,false,tackling,stamina
+Tatsuki Nara,CB,R,32,JPN,7,false,false,false,tackling,pace
+Yuma Tsujioka,CB,L,24,JPN,3,false,false,false,tackling,stamina
+Masaya Tashiro,CB,L,33,JPN,5,false,false,false,heading,marking
+Daiki Miya,CB,R,30,JPN,6,false,false,false,marking,tackling
+Takezo Fujikawa,CB,R,17,JPN,6,false,false,false,tackling,pace
+Yota Maejima,FB,L,28,JPN,10,true,false,false,passing,pace
+Daiki Fukazawa,FB,R,27,JPN,5,true,false,false,passing,pace
+Yu Hashimoto,FB,L,24,JPN,6,false,false,false,passing,crossing
+Masato Yuzawa,FB,L,32,JPN,7,false,false,false,stamina,pace
+Kaoru Yamawaki,FB,R,25,JPN,1,false,false,false,stamina,pace
+Keiya Shiihashi,MF,R,29,JPN,5,true,false,false,playmaking,passing
+Kohei Okuno,MF,L,26,JPN,6,false,false,false,pace,dribbling
+Oriol Romeu,MF,R,34,ESP,7,true,false,false,tackling,passing
+Hiroki Akino,MF,R,31,JPN,5,false,false,false,dribbling,passing
+Kokoro Maeda,MF,R,22,JPN,6,false,false,false,dribbling,pace
+Masato Shigemi,MF,R,24,JPN,7,false,false,false,dribbling,pace
+Kazuki Fukushima,MF,R,19,JPN,4,false,false,false,passing,stamina
+Shu Morooka,MF,R,25,JPN,5,false,false,false,pace,crossing
+Yuji Kitajima,MF,L,25,JPN,6,false,false,false,pace,crossing
+Shohei Takemoto,MF,L,18,JPN,7,false,false,false,pace,crossing
+Tomoya Miki,MF,R,28,JPN,4,true,false,false,playmaking,dribbling
+Shintaro Nago,MF,R,30,JPN,5,true,false,false,tackling,passing
+Kazuki Fujimoto,FW,R,27,JPN,6,true,false,false,dribbling,playmaking
+Hikaru Maeda,FW,R,17,JPN,4,false,false,false,finishing,pace
+Shosei Usui,FW,R,24,JPN,6,true,false,false,finishing,dribbling
+Werik Popó,FW,R,24,BRA,7,false,false,false,heading,stamina
+Reiju Tsuruno,FW,R,25,JPN,3,false,false,false,dribbling,pace
+Abdul Hanan Sani Brown,FW,R,20,JPN,5,false,false,false,dribbling,playmaking
+Ichika Maeda,FW,L,20,JPN,6,false,false,false,finishing,pace
+Hisashi Jogo,FW,R,21,JPN,7,false,false,false,heading,pace

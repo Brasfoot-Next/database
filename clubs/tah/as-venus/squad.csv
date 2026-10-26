@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tamatai,GK,L,21,TAH,5,true,false,false,penalty-saving,reflexes
+Teamotuaitau,GK,R,30,TAH,6,false,false,false,positioning,penalty-saving
+Anapa Debruyne,GK,R,18,TAH,10,false,false,false,reflexes,positioning
+Mauarii Tehina,FB,R,28,TAH,5,true,false,false,marking,pace
+Jean-Claude Paraue,FB,L,33,TAH,6,true,false,false,marking,passing
+Melvill Tehaamoana,FB,R,25,TAH,5,false,false,false,crossing,pace
+Gaël Mabiala,FB,L,28,FRA,4,false,false,false,marking,pace
+Tefai Fehau,CB,R,34,TAH,2,true,false,false,heading,stamina
+Matatini Vernaudon,CB,L,19,TAH,2,true,false,false,tackling,heading
+Pothin Poma,CB,R,24,NCL,10,false,false,false,heading,stamina
+Tevaitini Teumere,CB,L,19,TAH,7,false,false,false,heading,stamina
+Stanley Atani,MF,L,32,TAH,1,true,false,false,playmaking,passing
+Kitin Maro,MF,R,23,TAH,10,true,false,false,finishing,passing
+Marama Amau,MF,L,31,TAH,10,true,false,false,marking,passing
+Hauragi Huri,MF,L,23,TAH,5,true,false,false,tackling,finishing
+Kevin Barbe,MF,L,24,TAH,7,false,false,false,tackling,pace
+Bras,MF,R,28,TAH,7,false,false,false,passing,playmaking
+Jason Malakai,MF,L,17,TAH,6,false,false,false,finishing,passing
+Terai Bremond,MF,R,21,TAH,3,false,false,false,tackling,heading
+Teaonui Tehau,FW,R,29,TAH,5,true,false,false,heading,pace
+Tauhiti Keck,FW,R,27,TAH,4,true,false,false,finishing,stamina
+Manuarii Shan,FW,R,18,TAH,6,false,false,false,finishing,pace
+Heiarii Tavanae,FW,R,30,TAH,8,false,false,false,finishing,heading

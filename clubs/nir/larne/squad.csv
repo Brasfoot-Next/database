@@ -1,0 +1,20 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rohan Ferguson,GK,L,24,SCO,4,true,false,false,positioning,rushing-out
+Jack McIntyre,GK,R,19,ENG,3,false,false,false,reflexes,positioning
+Tomas Cosgrove,FB,R,29,NIR,8,true,false,false,marking,passing
+Elliott Wood,FB,L,18,NIR,6,true,false,false,marking,pace
+Aaron Donnelly,FB,L,23,NIR,7,false,false,false,stamina,heading
+Kofi Balmer,CB,R,21,NIR,10,true,false,false,tackling,heading
+Cian Bolger,CB,L,30,IRL,7,true,false,false,tackling,heading
+Graham Kelly,CB,R,24,IRL,4,false,false,false,tackling,marking
+Albert Watson,CB,L,36,NIR,10,false,false,false,tackling,stamina
+Danny Kearns,MF,R,30,IRL,10,false,false,false,finishing,passing
+Ben Doherty,MF,L,25,NIR,8,false,false,false,playmaking,finishing
+Dylan Sloan,MF,R,18,NIR,2,false,false,false,finishing,passing
+Leroy Millar,MF,L,26,NIR,3,true,false,false,marking,pace
+Jeff Hughes,MF,R,37,NIR,2,true,false,false,marking,pace
+Shea Gordon,MF,L,24,NIR,1,true,false,false,tackling,marking
+Mark Randall,MF,L,32,ENG,4,true,false,false,tackling,marking
+Lee Bonis,FW,L,22,NIR,6,true,false,false,heading,pace
+Matthew Lusty,FW,R,19,NIR,10,true,false,false,finishing,dribbling
+John Coates,FW,R,29,NIR,2,false,false,false,heading,stamina

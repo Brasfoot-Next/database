@@ -1,0 +1,13 @@
+name = "Valletta"
+country = "MLT"
+level = 13
+reputation = 2
+colors = ["#cc0000", "#ffffff"]
+
+[stadium]
+name = "Ta Qali"
+capacity = 17000
+
+[coach]
+name = "Danilo Doncic"
+country = "SRB"

@@ -1,0 +1,42 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Pier Grazziani,GK,R,29,COL,7,false,false,false,reflexes,positioning
+Juan Camilo Chaverra,GK,R,31,COL,5,true,false,false,penalty-saving,reflexes
+Johan Wallens,GK,R,31,COL,6,false,false,false,penalty-saving,reflexes
+Antonio Simancas,GK,R,26,COL,7,false,false,false,reflexes,positioning
+Kevin Moreno,CB,R,23,COL,3,true,false,false,passing,marking
+Jesús Figueroa,CB,R,27,COL,5,true,false,false,heading,tackling
+Pedro Franco,CB,R,32,COL,6,false,false,false,passing,marking
+John García,CB,R,34,COL,7,false,false,false,tackling,marking
+Kevin Aponzá,CB,R,17,COL,3,false,false,false,heading,stamina
+Leonardo Saldaña,FB,R,34,COL,5,false,false,false,tackling,stamina
+Kalazán Suárez,FB,R,21,COL,1,true,false,false,pace,crossing
+Efraín Navarro,FB,R,24,COL,5,false,false,false,passing,crossing
+Carlos Pájaro,FB,L,25,COL,6,false,false,false,crossing,passing
+Yilson Rosales,FB,L,23,COL,7,true,false,false,passing,pace
+Luis Miguel Mina,FB,R,19,COL,1,false,false,false,crossing,passing
+Fabián Mosquera,MF,R,28,COL,5,false,false,false,playmaking,dribbling
+Freddy Flórez,MF,R,30,COL,6,false,false,false,playmaking,passing
+Royscer Colpa,MF,R,28,COL,7,false,false,false,passing,tackling
+Luis Pérez,MF,R,27,COL,2,true,false,false,playmaking,finishing
+Wiston Fernández,MF,R,25,URU,5,true,false,false,marking,passing
+Diego Mendoza,MF,R,22,COL,6,false,false,false,tackling,passing
+Rubén Manjarrés,MF,R,23,COL,7,true,false,false,stamina,tackling
+Jair Castillo,MF,R,26,COL,1,true,false,false,dribbling,playmaking
+Gilberto Junior Jiménez,MF,R,23,COL,5,false,false,false,playmaking,passing
+Josy Pérez,MF,R,24,COL,6,false,false,false,dribbling,pace
+Lucas Villa Valencia,MF,R,17,COL,7,false,false,false,finishing,passing
+José Muñoz,MF,R,29,COL,2,false,false,false,finishing,playmaking
+Johan Parra,MF,L,19,COL,5,false,false,false,playmaking,passing
+Charly Villegas,MF,R,18,COL,6,false,false,false,passing,stamina
+Mayer Gil,FW,L,20,COL,7,true,false,false,pace,crossing
+Sergio Aponzá,FW,R,18,COL,6,false,false,false,finishing,dribbling
+Edwin Torres,FW,R,26,COL,7,false,false,false,pace,finishing
+Jesús Muñoz,FW,R,21,COL,8,false,false,false,dribbling,finishing
+Felipe Pardo,FW,R,33,COL,4,false,false,false,pace,finishing
+Jhon Valoyes,FW,R,25,COL,5,false,false,false,finishing,dribbling
+Misael Martínez,FW,L,25,COL,6,false,false,false,dribbling,finishing
+Ayron del Valle,FW,R,34,COL,8,false,false,false,finishing,heading
+Carlos Lucumí,FW,L,23,COL,4,true,false,false,finishing,heading
+Andrés Rentería,FW,R,30,COL,5,false,false,false,finishing,stamina
+Cristian Vergara,FW,R,24,COL,6,false,false,false,heading,stamina
+Diego Torres,FW,L,19,COL,6,false,false,false,finishing,dribbling

@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Andreas Voglsammer,FW,R,34,GER,7,false,false,false,pace,stamina
+Jan Mejdr,FW,R,31,CZE,2,false,false,false,stamina,pace
+Paul Stock,MF,R,29,GER,5,true,false,false,playmaking,passing
+Marco Schuster,MF,L,30,GER,6,false,false,false,stamina,passing
+Adrien Lebeau,MF,R,27,FRA,7,true,false,false,dribbling,playmaking
+Nico Neidhart,FW,R,31,GER,2,false,false,false,stamina,dribbling
+Viktor Bergh,FW,L,27,SWE,5,true,false,false,pace,stamina
+Felix Ruschke,FW,L,23,GER,6,false,false,false,pace,stamina
+Benno Dietze,MF,R,23,GER,7,false,false,false,stamina,dribbling
+Maximilian Krauss,MF,L,29,GER,3,true,false,false,pace,stamina
+Cedric Harenbrock,MF,L,28,GER,5,true,false,false,stamina,pace
+Franz Pfanne,CB,R,31,GER,6,false,false,false,stamina,tackling
+Christian Kinsombi,FW,L,27,GER,7,true,false,false,dribbling,pace
+Jonas Dirkner,MF,R,24,GER,4,false,false,false,tackling,marking
+Kenan Fatkic,MF,L,29,SVN,5,false,false,false,passing,playmaking
+Ryan Naderi,FW,R,23,GER,6,true,false,false,heading,finishing
+Emil Holten,FW,R,30,DEN,8,true,false,false,stamina,heading
+David Hummel,FW,R,24,GER,5,false,false,false,pace,stamina
+Ahmet Gurleyen,CB,L,27,GER,6,true,false,false,pace,stamina
+Leon Reichardt,CB,L,22,GER,6,false,false,false,tackling,stamina
+Lukas Wallner,CB,L,23,AUT,4,false,false,false,pace,heading
+Tim Krohn,FW,L,20,GER,5,false,false,false,pace,stamina
+Dario Ndubuisi Gebuhr,CB,R,23,GER,6,false,false,false,marking,tackling
+Dominik Lanius,CB,R,29,GER,8,false,false,false,heading,tackling
+Florian Carstens,CB,R,27,GER,10,true,false,false,tackling,heading
+Fiete Bock,FW,R,18,GER,5,false,false,false,pace,dribbling
+Philipp Klewin,GK,R,32,GER,5,false,false,false,positioning,reflexes
+Benjamin Uphoff,GK,R,33,GER,6,false,false,false,rushing-out,positioning
+Max Hagemoser,GK,L,23,GER,1,true,false,false,penalty-saving,reflexes

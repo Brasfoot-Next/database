@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Zaydou Youssouf,MF,L,27,KSA,6,true,false,false,dribbling,stamina
+Sofiane Bendebka,MF,L,34,ALG,7,true,false,false,stamina,finishing
+Mourad Batna,FW,L,36,MAR,4,false,false,false,dribbling,crossing
+Matias Vargas,MF,R,29,ARG,5,true,false,false,pace,stamina
+Marwane Saadane,CB,L,34,MAR,6,true,false,false,stamina,heading
+Karl Toko Ekambi,FW,L,33,CMR,8,true,false,false,pace,stamina
+Amine Sbai,FW,L,25,MAR,4,true,false,false,pace,dribbling
+Saeed Baetaih,FB,R,25,KSA,5,false,false,false,stamina,pace
+Abdullah Al Mogren,MF,R,29,KSA,6,false,false,false,pace,stamina
+Fahad Al Zubaidi,FW,R,24,KSA,7,false,false,false,pace,stamina
+Jorge Fernandes,CB,R,29,POR,6,true,false,false,tackling,marking
+Hussain Qasim,FB,L,28,KSA,7,true,false,false,stamina,pace
+Muntathir Al Shaqaq,FB,L,21,KSA,2,false,false,false,pace,stamina
+Ali Al Masoud,FW,L,22,KSA,5,false,false,false,pace,finishing
+Naif Masoud,MF,R,25,KSA,6,true,false,false,tackling,passing
+Othman Al Othman,FW,L,23,KSA,7,false,false,false,pace,stamina
+Jordan Harrison,MF,R,23,AUS,2,false,false,false,pace,stamina
+Saad Al Sharfa,FW,R,21,KSA,5,false,false,false,pace,finishing
+Faisal Al Abdulwahed,FW,R,21,KSA,6,false,false,false,pace,finishing
+Sattam Tombakti,MF,R,25,KSA,6,false,false,false,pace,passing
+Abdullah Al Anzi,FW,R,23,KSA,5,false,false,false,pace,stamina
+Faisal Darisi,CB,L,29,KSA,6,false,false,false,stamina,pace
+Abdulaziz Al Fawaz,MF,R,18,KSA,8,false,false,false,stamina,pace
+Majed Qasheesh,FB,L,24,KSA,4,true,false,false,pace,stamina
+Pacheco,GK,L,34,ESP,5,true,false,false,reflexes,penalty-saving
+Ziyad Al Jari,CB,R,24,KSA,6,false,false,false,stamina,marking
+Ammar Al Hudaybi,FB,R,19,KSA,9,false,false,false,stamina,dribbling
+Ameen Bukhari,GK,R,29,KSA,4,false,false,false,penalty-saving,reflexes
+Habib Al Watyan,GK,R,30,KSA,5,false,false,false,rushing-out,positioning
+Sattam Al Subaie,GK,R,25,KSA,6,false,false,false,reflexes,penalty-saving
+Muhannad Al Yahya,GK,R,21,KSA,5,false,false,false,reflexes,penalty-saving

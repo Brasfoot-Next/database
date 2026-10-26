@@ -1,0 +1,34 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mycael,GK,R,22,BRA,6,true,false,false,positioning,rushing-out
+Santos,GK,R,36,BRA,7,false,false,false,reflexes,positioning
+Matheus Soares,GK,R,21,BRA,8,false,false,false,rushing-out,positioning
+Arthur Dias,CB,R,19,BRA,5,true,false,false,tackling,heading
+Carlos Terán,CB,R,25,COL,6,true,false,false,marking,heading
+Juan Felipe Aguirre,CB,R,29,COL,7,false,false,false,stamina,heading
+Léo,CB,R,30,BRA,9,false,false,false,marking,tackling
+Dantas,CB,R,21,BRA,5,false,false,false,heading,stamina
+Lucas Esquivel,FB,R,24,ARG,6,true,false,false,tackling,pace
+Léo Derik,FB,R,20,BRA,7,false,false,false,tackling,marking
+Gastón Benavídez,FB,R,30,ARG,7,false,false,false,passing,pace
+Gilberto,FB,R,33,BRA,9,false,false,false,tackling,marking
+Gilberto Junior,FB,R,21,BRA,5,false,false,false,passing,pace
+Dudu,FB,L,29,BRA,6,true,false,false,tackling,pace
+Hayen Palacios,FB,L,26,COL,6,false,false,false,tackling,stamina
+Luiz Gustavo,MF,R,38,BRA,7,false,false,false,playmaking,passing
+Juan Portilla,MF,L,27,COL,4,true,false,false,dribbling,passing
+João Cruz,MF,R,20,BRA,6,false,false,false,marking,passing
+Felipinho,MF,R,24,BRA,6,false,false,false,dribbling,passing
+Jádson,MF,R,32,BRA,8,false,false,false,dribbling,playmaking
+Alejandro García,MF,L,25,COL,7,false,false,false,pace,passing
+Dudu,MF,R,20,BRA,8,true,false,false,passing,playmaking
+Bruno Zapelli,MF,R,24,ARG,5,true,false,false,playmaking,finishing
+Chiqueti,MF,R,20,BRA,6,true,false,false,passing,stamina
+Isaac,FW,L,22,BRA,6,false,false,false,finishing,dribbling
+Stiven Mendoza,FW,R,34,COL,7,false,false,false,crossing,pace
+Daniel Aguilar,FW,L,22,COL,9,false,false,false,heading,stamina
+Bruninho,FW,L,17,BRA,5,true,false,false,heading,finishing
+Leozinho,FW,R,27,BRA,6,false,false,false,playmaking,finishing
+Kevin Viveros,FW,R,26,COL,7,true,false,false,finishing,heading
+Jorge Rivaldo,FW,R,22,COL,5,false,false,false,finishing,dribbling
+Renan Peixoto,FW,L,26,BRA,6,false,false,false,heading,pace
+Renan Viana,FW,R,23,BRA,7,false,false,false,finishing,pace

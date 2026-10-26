@@ -1,0 +1,13 @@
+name = "CA Aldosivi"
+country = "ARG"
+level = 12
+reputation = 2
+colors = ["#F0C000", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Lautaro Breitenbruch"
+country = "BRA"

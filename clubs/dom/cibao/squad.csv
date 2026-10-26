@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Enzo Guzmán,GK,R,18,DOM,1,false,false,false,positioning,rushing-out
+Miguel Lloyd,GK,R,39,DOM,3,true,false,false,penalty-saving,reflexes
+Edwin Frías,GK,L,16,DOM,7,false,false,false,rushing-out,penalty-saving
+Lucas Bretón,FB,R,0,DOM,6,true,false,false,finishing,passing
+Javier Roces,FB,L,16,DOM,2,true,false,false,crossing,pace
+Julio Fernández,FB,R,24,DOM,8,false,false,false,marking,passing
+Ismael Díaz,CB,L,31,DOM,6,true,false,false,tackling,stamina
+Dairin González,CB,R,32,COL,8,true,false,false,tackling,stamina
+Óscar Florencio,CB,R,26,DOM,5,false,false,false,tackling,marking
+Julio Murillo,CB,L,31,COL,9,false,false,false,marking,pace
+Hérold Charles,MF,R,32,HAI,5,true,false,false,passing,finishing
+Carlos López,MF,R,28,DOM,8,true,false,false,tackling,marking
+Yohan Parra,MF,L,22,DOM,10,false,false,false,passing,playmaking
+Carlos Heredia,MF,L,23,DOM,7,false,false,false,finishing,passing
+Lihué Prichoda,MF,R,33,ARG,2,false,false,false,passing,finishing
+David Díaz,MF,L,25,COL,4,true,false,false,tackling,marking
+Welkin Luis,MF,L,23,DOM,2,true,false,false,tackling,heading
+Ángel Montes,MF,R,19,DOM,5,false,false,false,tackling,finishing
+Adrián Salcedo,FW,R,27,DOM,3,true,false,false,playmaking,finishing
+Erick Japa,FW,R,23,DOM,10,true,false,false,heading,stamina
+Christian Alba,FW,R,30,URU,5,false,false,false,dribbling,finishing
+Lean Torres,FW,L,23,DOM,6,false,false,false,finishing,dribbling

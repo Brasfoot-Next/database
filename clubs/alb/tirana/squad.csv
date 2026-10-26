@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Visar Bekaj,GK,R,25,KVX,4,true,false,false,penalty-saving,reflexes
+Ilion Lika,GK,L,42,ALB,5,false,false,false,penalty-saving,reflexes
+Tomas Kiri,GK,R,17,ALB,4,false,false,false,positioning,rushing-out
+Marsel Ismajlgeci,FB,R,22,ALB,7,true,false,false,marking,passing
+Marlind Nuriu,FB,L,25,ALB,5,false,false,false,marking,pace
+Florjan Pergjoni,FB,L,25,ALB,1,true,false,false,marking,passing
+Arber Bytyqi,FB,R,18,ALB,5,false,false,false,crossing,marking
+Filip Najdovski,CB,L,29,MKD,7,false,false,false,marking,pace
+Kristijan Tosevski,CB,R,28,MKD,8,true,false,false,tackling,heading
+Jocelin Behiratche,CB,L,22,CIV,9,true,false,false,tackling,heading
+Realf Zhivanaj,CB,R,24,ALB,10,false,false,false,tackling,heading
+Ennur Totre,MF,L,25,MKD,2,true,false,false,playmaking,passing
+Klevi Qefalija,MF,R,18,ALB,5,true,false,false,passing,finishing
+Vesel Limaj,MF,L,25,GER,6,false,false,false,tackling,marking
+Albano Aleksi,MF,R,29,ALB,9,true,false,false,marking,finishing
+Ardit Hila,MF,R,29,ALB,1,false,false,false,tackling,marking
+Florent Hasani,MF,R,25,KVX,4,true,false,false,playmaking,finishing
+Taulant Seferi,FW,R,25,ALB,9,true,false,false,finishing,stamina
+Redon Xhixha,FW,R,24,ALB,1,true,false,false,dribbling,finishing
+Aldi Gjumsi,FW,R,20,ALB,6,false,false,false,finishing,pace
+Devid,FW,L,26,BRA,4,false,false,false,finishing,pace

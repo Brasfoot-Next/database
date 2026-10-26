@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+El Hadji Gueye,GK,R,21,SEN,5,false,false,false,reflexes,rushing-out
+Serigne Fall,GK,R,23,SEN,6,true,false,false,rushing-out,reflexes
+Ousmane Sèye,CB,R,26,SEN,7,true,false,false,passing,marking
+Papa Diop,CB,R,25,SEN,3,true,false,false,marking,tackling
+Bakary Sakho,CB,R,20,SEN,5,false,false,false,tackling,stamina
+Souleymane Sarr,CB,R,30,SEN,6,false,false,false,heading,tackling
+Souabou Gningue,CB,R,24,SEN,7,false,false,false,marking,stamina
+Mamadou Jallow,FB,L,23,SEN,4,true,false,false,pace,crossing
+Modou Séne,FB,L,18,SEN,5,false,false,false,marking,pace
+Papa Guèye,FB,R,20,SEN,6,true,false,false,tackling,stamina
+Baba Ngom,MF,R,22,SEN,7,false,false,false,finishing,playmaking
+Abdoulaye Sylla,MF,R,25,SEN,3,true,false,false,passing,playmaking
+Ousmane Cissé,MF,R,25,SEN,5,true,false,false,finishing,playmaking
+Moustapha Diop,MF,R,25,SEN,6,true,false,false,finishing,passing
+Amsatou Diop,MF,L,20,SEN,7,false,false,false,passing,stamina
+Amadou Guèye,MF,R,25,SEN,3,true,false,false,passing,finishing
+El Hadji Ly,FW,L,25,SEN,5,true,false,false,finishing,pace
+Mambaye Diallo,FW,L,21,SEN,6,false,false,false,dribbling,finishing
+El Hadji Fall,FW,R,20,SEN,6,false,false,false,playmaking,finishing
+Babacar Faye,FW,R,22,SEN,8,false,false,false,finishing,pace
+Macoura Thiaw,FW,R,25,SEN,6,true,false,false,finishing,dribbling
+Famara Badji,FW,L,19,SEN,1,false,false,false,dribbling,finishing

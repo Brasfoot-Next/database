@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ben Chilwell,FW,L,29,ENG,1,false,false,false,crossing,tackling
+Diego Moreira,FW,L,22,BEL,5,true,false,false,pace,stamina
+Valentin Barco,MF,L,22,ARG,6,true,false,false,passing,dribbling
+Felix Lemarechal,MF,R,23,FRA,7,false,false,false,dribbling,passing
+Eduard Sobol,FB,L,31,UKR,7,true,false,false,pace,dribbling
+Guela Doue,CB,R,23,CIV,5,true,false,false,pace,tackling
+Mathis Amougou,MF,R,20,FRA,6,true,false,false,passing,dribbling
+Emanuel Emegha,FW,L,23,NED,6,false,false,false,pace,stamina
+Maxi Oyedele,MF,R,21,POL,7,false,false,false,passing,tackling
+Sebastian Nanasi,MF,L,24,SWE,5,true,false,false,dribbling,playmaking
+Kendry Paez,MF,L,19,ECU,6,false,false,false,pace,dribbling
+Joaquin Panichelli,FW,R,23,ARG,7,true,false,false,heading,finishing
+Ismael Doukoure,CB,L,23,FRA,4,false,false,false,tackling,passing
+Julio Cesar Enciso,MF,R,22,PAR,6,false,false,false,dribbling,passing
+Rabby Nzingoula,MF,R,20,FRA,6,false,false,false,stamina,tackling
+Rafael Luís,MF,L,21,POR,7,false,false,false,passing,dribbling
+Abakar Sylla,CB,L,23,CIV,4,false,false,false,heading,tackling
+Soumaila Coulibaly,CB,L,22,FRA,6,false,false,false,pace,passing
+Abdoul Ouattara,FW,R,20,CIV,6,false,false,false,pace,dribbling
+Samir El Mourabet,MF,L,20,MAR,7,true,false,false,passing,playmaking
+Mamadou Sarr,CB,R,21,FRA,6,true,false,false,tackling,marking
+Lucas Hogsberg,CB,R,20,DEN,7,false,false,false,tackling,pace
+Saidou Sow,CB,R,24,GUI,10,false,false,false,tackling,heading
+Martial Godo,FW,R,23,CIV,5,true,false,false,pace,dribbling
+Samuel Amo Ameyaw,FW,L,20,ENG,6,false,false,false,pace,dribbling
+Andrew Omobamidele,CB,R,24,IRL,7,false,false,false,tackling,heading
+Mike Penders,GK,L,21,BEL,1,true,false,false,penalty-saving,reflexes
+Karl Johan Johnsson,GK,R,36,SWE,5,false,false,false,positioning,reflexes
+Stefan Bajic,GK,R,24,FRA,6,false,false,false,penalty-saving,rushing-out

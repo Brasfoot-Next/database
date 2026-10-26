@@ -1,0 +1,13 @@
+name = "FC Andorra"
+country = "ESP"
+level = 10
+reputation = 2
+colors = ["#000070", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Gael Doménech"
+country = "BRA"

@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Soumbeyla Diakite,GK,R,37,MLI,5,true,false,false,reflexes,positioning
+Amadou Tembely,GK,L,34,MLI,10,false,false,false,rushing-out,penalty-saving
+Drissa Kouyaté,GK,L,23,MLI,5,false,false,false,rushing-out,penalty-saving
+Coulibaly,FB,R,25,MLI,8,true,false,false,marking,passing
+Oumar Kone,FB,L,31,MLI,1,true,false,false,marking,passing
+Adama Diawara,FB,R,25,MLI,5,false,false,false,finishing,pace
+Seyo Yao,FB,L,29,CIV,2,false,false,false,crossing,marking
+Mamadou Doumbia,CB,L,27,MLI,8,true,false,false,tackling,marking
+Souleymane Konaté,CB,R,32,MLI,7,true,false,false,heading,stamina
+Lamine Keita,CB,L,30,MLI,7,false,false,false,tackling,stamina
+Samou Sidibé,CB,R,27,MLI,5,false,false,false,marking,pace
+Aly Sissoko,MF,R,24,MLI,1,true,false,false,finishing,passing
+Sekou Gassama,MF,L,25,MLI,9,true,false,false,passing,finishing
+Youssouf Togola,MF,L,22,MLI,3,true,false,false,tackling,marking
+Guy Tchahou,MF,L,24,CMR,7,true,false,false,passing,finishing
+Samuel Kizito,MF,L,19,NGA,1,false,false,false,finishing,passing
+Moussa Diakité,MF,L,22,MLI,8,false,false,false,stamina,pace
+Moussakoye Diallo,FW,R,26,MLI,7,true,false,false,finishing,pace
+Saouty Traore,FW,R,21,MLI,1,true,false,false,pace,crossing
+Moussa Traoré,FW,L,21,MLI,10,false,false,false,pace,finishing

@@ -1,0 +1,13 @@
+name = "1. FC Schweinfurt 05"
+country = "GER"
+level = 8
+reputation = 2
+colors = ["#000000", "#F00010"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Toni Angleberger"
+country = "BRA"

@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Sami Rissanen,GK,R,17,FIN,5,true,false,false,penalty-saving,rushing-out
+Valtteri Molari,GK,L,19,FIN,7,true,false,false,positioning,reflexes
+Miku Kangas,FB,R,17,FIN,5,true,false,false,crossing,marking
+Eero Torkkola,FB,L,16,FIN,2,true,false,false,pace,crossing
+Oskari Jansson,FB,R,17,FIN,7,true,false,false,crossing,passing
+Väinö Luttinen,CB,L,19,FIN,9,true,false,false,heading,tackling
+Elias Salminen,CB,R,17,FIN,10,true,false,false,heading,tackling
+Nuutti Rautiainen,CB,L,16,FIN,6,true,false,false,tackling,heading
+Jouko Karhunen,MF,R,18,FIN,3,true,false,false,finishing,passing
+Henri Elovirta,MF,L,17,FIN,9,true,false,false,passing,finishing
+Tuukka Partanen,MF,R,17,FIN,2,true,false,false,marking,tackling
+Joni Lipponen,MF,L,16,FIN,2,true,false,false,tackling,pace
+Olli Eskelinen,FW,R,19,FIN,5,true,false,false,finishing,dribbling
+Eetu Heiskanen,FW,L,18,FIN,10,true,false,false,finishing,heading
+Albert Vauhkonen,FW,R,17,FIN,3,true,false,false,finishing,pace

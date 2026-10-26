@@ -1,0 +1,10 @@
+name: Pacote
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  pack:
+    uses: Brasfoot-Next/brasfoot-next/.github/workflows/datapack.yml@main
+    permissions:
+      contents: write

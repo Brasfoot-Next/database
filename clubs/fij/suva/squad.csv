@@ -1,0 +1,19 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jovilisi Borisi,GK,L,24,FIJ,6,false,false,false,rushing-out,penalty-saving
+Aquila Mateisuva,GK,R,30,FIJ,9,true,false,false,positioning,rushing-out
+Steven Dean,GK,R,18,FIJ,3,false,false,false,positioning,penalty-saving
+Laisenia Raura,FB,R,31,FIJ,7,false,false,false,crossing,marking
+Simione Nabenu,FB,L,22,FIJ,1,true,false,false,crossing,marking
+Waisake Navunigasau,FB,R,34,FIJ,5,true,false,false,finishing,passing
+Remueru Tekiate,CB,L,31,FIJ,10,false,false,false,tackling,stamina
+Filipe Baravilala,CB,R,27,FIJ,10,true,false,false,marking,pace
+Inoke Turagalailai,CB,L,20,FIJ,6,true,false,false,tackling,heading
+Nickel Chand,MF,L,26,FIJ,6,false,false,false,marking,finishing
+Mohammed Khan,MF,L,22,FIJ,5,true,false,false,stamina,passing
+Meli Codro,MF,R,36,FIJ,8,true,false,false,tackling,heading
+Joeli Ranitu,MF,L,23,FIJ,8,true,false,false,finishing,passing
+Shahil Dave,MF,L,29,FIJ,3,true,false,false,tackling,marking
+Kelvin Naidu,MF,R,26,FIJ,10,false,false,false,marking,finishing
+Samuela Drudru,FW,L,33,FIJ,8,true,false,false,finishing,pace
+Merrill Nand,FW,R,21,FIJ,4,false,false,false,finishing,heading
+Azariah Soromon,FW,R,23,VAN,6,true,false,false,pace,finishing

@@ -1,0 +1,13 @@
+name = "Olimpija Ljubljana"
+country = "SVN"
+level = 14
+reputation = 2
+colors = ["#006600", "#ffffff"]
+
+[stadium]
+name = "Stozice"
+capacity = 16038
+
+[coach]
+name = "Albert Eskink"
+country = "SVN"

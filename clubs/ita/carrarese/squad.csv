@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nicolas Schiavi,MF,L,31,ARG,3,false,false,false,dribbling,passing
+Simone Zanon,FW,R,25,ITA,5,true,false,false,pace,stamina
+Emanuele Zuelli,MF,R,24,ITA,6,false,false,false,passing,stamina
+Leonardo Capezzi,MF,R,31,ITA,7,false,false,false,playmaking,passing
+Kleis Bozhanaj,MF,R,25,ALB,3,false,false,false,dribbling,stamina
+Manuel Cicconi,FW,L,29,ITA,5,false,false,false,stamina,passing
+Mattia Finotto,MF,L,33,ITA,6,false,false,false,pace,stamina
+Gabriele Parlanti,MF,R,22,ITA,7,false,false,false,passing,pace
+Filippo Melegoni,MF,R,27,ITA,3,true,false,false,passing,playmaking
+Niccolo Belloni,FW,L,32,ITA,4,false,false,false,pace,crossing
+Ernesto Torregrossa,FW,L,34,VEN,8,false,false,false,pace,stamina
+Luis Hasa,MF,R,22,ITA,4,true,false,false,dribbling,pace
+Nikola Sekulov,MF,R,24,ITA,5,false,false,false,dribbling,passing
+Fabio Abiuso,FW,R,23,ITA,6,false,false,false,finishing,heading
+Devid Eugene Bouah,FW,R,25,ITA,9,false,false,false,pace,crossing
+Marco Imperiale,CB,L,27,ITA,4,true,false,false,tackling,marking
+Alessandro Arena,MF,L,26,ITA,5,true,false,false,pace,dribbling
+Filippo Distefano,FW,R,23,ITA,6,false,false,false,finishing,dribbling
+Bartosz Salamon,CB,R,35,POL,7,true,false,false,heading,tackling
+Eliman Cham,FB,L,21,GAM,3,true,false,false,pace,crossing
+Julian Illanes,CB,R,29,ARG,7,false,false,false,tackling,marking
+Tommaso Rubino,MF,R,19,ITA,3,true,false,false,pace,passing
+Federico Accornero,FW,L,22,ITA,5,true,false,false,dribbling,crossing
+Filippo Oliana,CB,R,27,ITA,6,true,false,false,tackling,marking
+Fabio Ruggeri,CB,R,21,ITA,7,false,false,false,tackling,heading
+Nicolo Calabrese,CB,R,21,ITA,4,false,false,false,marking,passing
+Vincenzo Fiorillo,GK,R,36,ITA,5,false,false,false,penalty-saving,reflexes
+Marco Bleve,GK,R,30,ITA,6,false,false,false,penalty-saving,reflexes
+Giovanni Garofani,GK,L,23,ITA,7,true,false,false,penalty-saving,rushing-out
+Stefano Mazzini,GK,R,27,ITA,1,false,false,false,reflexes,rushing-out

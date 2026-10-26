@@ -1,0 +1,13 @@
+name = "Minnesota United FC"
+country = "USA"
+level = 14
+reputation = 3
+colors = ["#E0E0E0", "#000000"]
+
+[stadium]
+name = "Allianz Field"
+capacity = 19600
+
+[coach]
+name = "Morris Jung"
+country = "BRA"

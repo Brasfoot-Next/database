@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Miguel Silva,GK,R,25,VEN,7,true,false,false,rushing-out,positioning
+Keiber Roa,GK,R,23,VEN,3,false,false,false,positioning,rushing-out
+Ezequiel Neira,CB,R,25,ARG,5,true,false,false,heading,tackling
+Jonathan Bilbao,CB,R,26,PER,6,true,false,false,marking,stamina
+Jean Fuentes,CB,R,29,VEN,7,false,false,false,heading,tackling
+Leonardo Aponte,CB,R,32,VEN,7,false,false,false,marking,pace
+Abraham Bahachille,CB,R,25,VEN,4,false,false,false,marking,passing
+José Durán,CB,R,22,VEN,5,false,false,false,tackling,pace
+Franyer Oliveros,FB,L,21,VEN,6,false,false,false,tackling,stamina
+Alexander González,FB,L,33,VEN,8,true,false,false,tackling,pace
+Marcel Guaramato,FB,R,32,VEN,6,true,false,false,pace,crossing
+Matías Núñez,MF,L,25,ARG,7,true,false,false,stamina,pace
+Juan Camilo Pérez,MF,L,27,VEN,3,true,false,false,passing,dribbling
+Sebastián Mendoza,MF,R,20,VEN,5,false,false,false,pace,passing
+Maurice Cova,MF,R,34,VEN,6,false,false,false,passing,finishing
+Edson Castillo,MF,R,32,VEN,7,false,false,false,playmaking,finishing
+Franner López,MF,L,23,VEN,4,true,false,false,playmaking,dribbling
+Angelo Lucena,MF,R,23,VEN,5,true,false,false,pace,crossing
+Dimas Meza,MF,L,32,VEN,6,false,false,false,dribbling,pace
+Yohandry Orozco,MF,R,35,VEN,7,false,false,false,finishing,passing
+Juan David Obando,MF,R,19,COL,6,false,false,false,stamina,pace
+Ezequiel Crespo,MF,L,18,VEN,7,false,false,false,stamina,passing
+Edson Tortolero,FW,R,28,VEN,2,true,false,false,pace,playmaking
+Joshuan Berríos,FW,L,29,COL,5,false,false,false,finishing,dribbling
+Felix Diaz,FW,R,19,VEN,6,false,false,false,crossing,pace
+Sebastián Calabrese,FW,R,20,VEN,7,false,false,false,finishing,dribbling
+Eric Ramírez,FW,R,27,VEN,3,true,false,false,heading,stamina
+José Riasco,FW,R,22,VEN,5,false,false,false,finishing,heading
+Loureins Martínez,FW,R,21,VEN,6,false,false,false,heading,stamina

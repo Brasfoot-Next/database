@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Juan Cuadrado,FW,R,38,COL,7,false,false,false,dribbling,tackling
+Michel Aebischer,MF,L,29,SUI,5,true,false,false,tackling,passing
+Matteo Tramoni,MF,R,26,FRA,6,true,false,false,pace,stamina
+Ebenezer Akinsanmiro,MF,R,21,NGA,6,true,false,false,pace,passing
+Calvin Stengs,MF,L,27,NED,7,true,false,false,playmaking,passing
+Idrissa Toure,FW,R,28,GER,5,true,false,false,stamina,passing
+Marius Marin,MF,R,28,ROU,6,false,false,false,stamina,passing
+Stefano Moreo,MF,L,33,ITA,6,false,false,false,stamina,pace
+Mbala Nzola,FW,L,30,ANG,7,false,false,false,pace,dribbling
+Mehdi Leris,FW,R,28,ALG,8,false,false,false,stamina,playmaking
+Gabriele Piccinini,MF,R,25,ITA,6,false,false,false,stamina,passing
+Samuele Angori,FW,L,22,ITA,7,true,false,false,stamina,passing
+Emanuel Vignato,MF,R,26,ITA,10,false,false,false,dribbling,passing
+Tomás Esteves,FB,R,24,POR,5,true,false,false,pace,dribbling
+Simone Canestrelli,CB,R,25,ITA,6,true,false,false,stamina,tackling
+Malthe Hojholt,MF,R,25,DEN,7,false,false,false,stamina,passing
+İ. Vural,MF,R,20,TUR,1,false,false,false,passing,playmaking
+Henrik Meister,FW,R,22,DEN,5,false,false,false,pace,finishing
+Lorran,MF,L,20,BRA,6,true,false,false,dribbling,pace
+Raúl Albiol,CB,R,41,ESP,9,false,false,false,tackling,marking
+Arturo Calabresi,CB,R,30,ITA,6,true,false,false,tackling,stamina
+Antonio Caracciolo,CB,R,36,ITA,6,false,false,false,marking,tackling
+Louis Buffon,FW,L,18,CZE,8,false,false,false,pace,crossing
+Daniel Denoon,CB,R,22,SUI,5,false,false,false,pace,marking
+Giovanni Bonfanti,CB,L,23,ITA,6,false,false,false,tackling,marking
+Mateus Lusuardi,CB,L,22,BRA,7,false,false,false,tackling,heading
+Jeremy Mbambi,CB,L,18,BEL,8,false,false,false,stamina,pace
+Simone Scuffet,GK,R,30,ITA,5,false,false,false,reflexes,penalty-saving
+Nicolas,GK,R,38,BRA,6,false,false,false,reflexes,penalty-saving
+Adrian Semper,GK,R,28,CRO,7,true,false,false,reflexes,penalty-saving

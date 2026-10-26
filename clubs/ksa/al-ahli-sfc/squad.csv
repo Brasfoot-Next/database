@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Franck Yannick Kessie,MF,L,29,CIV,1,false,false,false,stamina,tackling
+Ivan Toney,FW,R,30,ENG,6,true,false,false,finishing,heading
+Riyad Mahrez,FW,L,35,ALG,6,false,false,false,dribbling,playmaking
+Galeno,FW,L,28,BRA,7,true,false,false,pace,dribbling
+Enzo Millot,MF,L,24,FRA,2,true,false,false,dribbling,passing
+Valentin Atangana,MF,R,21,FRA,5,true,false,false,passing,tackling
+Firas Al Birekan,FW,L,26,KSA,6,false,false,false,stamina,pace
+Abdullah Al Ammar,FB,L,32,KSA,7,false,false,false,stamina,pace
+Ibañez,CB,L,27,BRA,8,true,false,false,pace,stamina
+Ali Majrashi,FB,R,26,KSA,5,true,false,false,pace,stamina
+Merih Demiral,CB,R,28,TUR,6,true,false,false,tackling,pace
+Ziyad Al Johani,MF,L,24,KSA,6,true,false,false,passing,stamina
+Abdulelah Al Khaibari,FB,L,29,KSA,7,false,false,false,stamina,pace
+Matteo Dams,FB,L,22,BEL,2,true,false,false,pace,stamina
+Zakaria Hawsawi,FB,L,25,KSA,6,false,false,false,pace,dribbling
+Fahad Al Rashidi,FW,R,29,KSA,6,false,false,false,pace,dribbling
+Sumayhan Al Nabit,FW,L,30,KSA,8,false,false,false,pace,stamina
+Ayman Fallatah,MF,R,22,KSA,4,false,false,false,dribbling,pace
+Bassam Al Hurayji,FB,R,26,KSA,6,false,false,false,pace,stamina
+Eid Al Muwallad,MF,R,24,KSA,6,true,false,false,stamina,pace
+Mohammed Abdulrahman,FB,R,23,KSA,5,false,false,false,pace,stamina
+Saleh Abu Al Shamat,FW,R,24,KSA,6,false,false,false,pace,stamina
+Rayan Hamed,CB,R,24,KSA,7,false,false,false,pace,tackling
+Mohammed Sulaiman,FB,R,22,KSA,9,false,false,false,pace,tackling
+Younes Al Shanqeeti,MF,R,22,KSA,5,false,false,false,pace,stamina
+Yaseen Al Zubaidi,FW,L,23,KSA,6,false,false,false,pace,dribbling
+Matheus Gonçalves,FW,L,21,BRA,7,false,false,false,dribbling,pace
+Edouard Mendy,GK,R,34,SEN,10,true,false,false,reflexes,positioning
+Abdulrahman Al Sanbi,GK,R,25,KSA,5,false,false,false,reflexes,positioning
+Abdullah Abdo,GK,R,24,KSA,6,false,false,false,positioning,penalty-saving
+Emad Al Feda,GK,R,29,KSA,7,false,false,false,reflexes,penalty-saving

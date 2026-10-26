@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Daniil Frolkin,GK,R,25,RWA,7,true,false,false,rushing-out,reflexes
+Igor Obukhov,GK,R,30,RWA,3,false,false,false,reflexes,penalty-saving
+Vyacheslav Dorovskikh,GK,R,22,RWA,5,false,false,false,positioning,penalty-saving
+Vladislav Kalinichev,GK,R,21,RWA,6,false,false,false,reflexes,positioning
+Yuriy Zhuravlev,CB,R,30,RWA,7,false,false,false,heading,passing
+Stanislav Magkeev,CB,L,27,RWA,4,true,false,false,heading,stamina
+Maks Dziov,CB,R,24,RWA,5,false,false,false,tackling,stamina
+Albert Gabaraev,CB,R,28,RWA,6,false,false,false,tackling,pace
+Igor Yurganov,CB,R,32,RWA,6,true,false,false,passing,marking
+Ilya Gaponov,CB,R,28,RWA,1,true,false,false,tackling,pace
+Darko Todorovic,FB,R,29,RWA,2,true,false,false,marking,crossing
+Vyacheslav Yakimov,MF,R,28,RWA,5,true,false,false,pace,dribbling
+Ravil Netfullin,MF,R,33,RWA,6,true,false,false,stamina,passing
+Kirill Simonov,MF,R,20,RWA,7,false,false,false,passing,stamina
+Anton Kovalev,MF,R,26,RWA,3,false,false,false,pace,crossing
+Nikolay Giorgobiani,MF,R,29,RWA,5,true,false,false,stamina,tackling
+Butta Magomedov,MF,R,28,RWA,6,true,false,false,pace,dribbling
+Abdula Bagamaev,MF,L,21,RWA,7,false,false,false,stamina,passing
+Nuri Abdokov,MF,R,26,RWA,3,false,false,false,playmaking,finishing
+Ilnur Alshin,FW,R,32,RWA,4,true,false,false,finishing,pace
+Belajdi Pusi,FW,R,28,ALB,9,true,false,false,pace,finishing
+Maksim Turishchev,FW,R,24,RWA,4,false,false,false,finishing,dribbling
+Axel Gnapi,FW,R,24,FRA,6,false,false,false,heading,finishing
+Merabi Uridia,FW,R,33,RWA,7,false,false,false,finishing,pace
+Aleksandr Belyaev,FW,R,20,RWA,1,false,false,false,dribbling,playmaking

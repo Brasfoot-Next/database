@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Filippo Bandinelli,MF,L,31,ITA,7,false,false,false,stamina,passing
+Salvatore Esposito,MF,R,25,ITA,3,true,false,false,stamina,playmaking
+Szymon Zurkowski,MF,R,28,POL,5,true,false,false,pace,playmaking
+Giuseppe Aurelio,FB,L,26,ITA,6,false,false,false,pace,stamina
+Adam Nagy,MF,R,31,HUN,7,false,false,false,stamina,passing
+Pietro Beruatto,FB,L,27,ITA,5,true,false,false,stamina,pace
+Antonio Candela,FB,R,26,ITA,6,true,false,false,pace,stamina
+Ales Mateju,CB,L,30,CZE,7,false,false,false,stamina,heading
+Luca Vignali,FB,R,30,ITA,2,false,false,false,stamina,pace
+Gianluca Lapadula,FW,L,36,PER,5,false,false,false,finishing,heading
+Daniele Verde,FW,L,30,ITA,3,true,false,false,dribbling,pace
+Andrea Cistana,CB,R,29,ITA,5,false,false,false,stamina,pace
+Rachid Kouda,MF,R,24,ITA,6,true,false,false,pace,stamina
+Edoardo Soleri,FW,R,28,ITA,7,false,false,false,pace,dribbling
+Francesco Cassata,MF,R,29,ITA,3,true,false,false,passing,crossing
+Christian Comotto,MF,R,18,ITA,5,false,false,false,dribbling,passing
+Vanja Vlahovic,FW,R,22,SRB,6,true,false,false,finishing,pace
+Giuseppe Di Serio,FW,L,25,ITA,7,false,false,false,pace,finishing
+Przemyslaw Wisniewski,CB,R,28,POL,3,false,false,false,pace,stamina
+Gabriele Artistico,FW,R,24,ITA,5,false,false,false,finishing,dribbling
+Petko Hristov,CB,R,27,BUL,10,true,false,false,tackling,heading
+Pietro Candelari,MF,L,21,ITA,5,false,false,false,passing,dribbling
+Fellipe Jack,CB,L,20,ITA,6,true,false,false,pace,marking
+Mouhamadou Sarr,GK,R,29,SEN,7,false,false,false,reflexes,penalty-saving
+Leonardo Loria,GK,R,27,ITA,1,true,false,false,reflexes,penalty-saving
+Diego Mascardi,GK,R,19,ITA,5,false,false,false,reflexes,penalty-saving

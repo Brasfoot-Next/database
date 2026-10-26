@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Santiago Razzeto,GK,R,25,ARG,4,true,false,false,positioning,reflexes
+Ayrton Morales,GK,R,31,ECU,5,false,false,false,rushing-out,positioning
+Juan López,GK,R,21,ECU,6,false,false,false,positioning,reflexes
+Mauricio Cagua,CB,R,22,ECU,7,false,false,false,tackling,heading
+Julián Anaya,CB,R,27,COL,2,true,false,false,tackling,heading
+Stiwar Mena,CB,R,31,COL,5,true,false,false,passing,marking
+José Caicedo,FB,R,22,ECU,6,true,false,false,marking,pace
+Edwin Mesa,FB,L,28,ECU,7,true,false,false,tackling,pace
+Marco Carrasco,FB,R,33,ECU,2,false,false,false,crossing,passing
+Yorlin Arce,MF,R,25,ECU,5,false,false,false,stamina,passing
+Jonathan Majao,MF,R,23,ECU,7,false,false,false,stamina,passing
+Liberman Torres,MF,R,24,ECU,3,false,false,false,passing,stamina
+Kener Arce,MF,L,38,ECU,5,false,false,false,pace,dribbling
+Rafael Chila,MF,R,20,ECU,6,false,false,false,marking,passing
+Matheo Castaño,MF,L,27,COL,7,true,false,false,playmaking,dribbling
+Johan Bocanegra,MF,R,27,COL,3,true,false,false,dribbling,playmaking
+Martín Cháves,MF,L,28,URU,5,true,false,false,marking,passing
+Cristopher Arteaga,MF,R,26,ECU,6,true,false,false,pace,dribbling
+Luis Estupiñán,FW,R,27,ECU,7,true,false,false,finishing,stamina
+Bagner Delgado,FW,L,30,ECU,4,true,false,false,pace,stamina
+Anthony Castillo,FW,L,19,ECU,5,false,false,false,heading,pace
+Heuyín Guardia,FW,R,24,PAN,6,false,false,false,dribbling,pace

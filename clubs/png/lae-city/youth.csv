@@ -1,0 +1,12 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Graysen Henao,GK,L,17,PNG,7,false,false,false,positioning,penalty-saving
+Yesa Nema,FB,R,17,PNG,1,false,false,false,crossing,tackling
+Stanley Enuma,FB,L,17,PNG,10,false,false,false,marking,crossing
+Gilbert Toua,CB,R,16,PNG,8,false,false,false,stamina,marking
+King Kaina,CB,L,18,PNG,1,false,false,false,tackling,heading
+Brady Tali,MF,R,18,PNG,10,false,false,false,playmaking,passing
+Ulaline Kui,MF,L,18,PNG,2,false,false,false,passing,finishing
+Bentley Kone,MF,R,16,PNG,5,false,false,false,marking,passing
+Jokuri-Hari Passingan,MF,L,17,PNG,3,false,false,false,pace,tackling
+Yesa Raga,FW,R,18,PNG,2,false,false,false,finishing,passing
+Miok Vele,FW,L,17,PNG,2,false,false,false,pace,finishing

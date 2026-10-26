@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jude Bellingham,MF,R,23,ENG,5,true,true,true,stamina,dribbling
+Federico Valverde,MF,R,28,URU,6,true,true,false,stamina,pace
+Trent Alexander Arnold,FB,R,27,ENG,7,true,true,false,crossing,stamina
+David Alaba,CB,L,34,AUT,8,false,false,false,passing,marking
+Kylian Mbappe,FW,R,27,FRA,5,true,true,true,pace,dribbling
+Eduardo Camavinga,MF,L,23,FRA,6,true,false,false,passing,dribbling
+Carvajal,FB,R,34,ESP,7,true,true,false,crossing,tackling
+Aurelien Tchouameni,MF,L,26,FRA,9,true,false,false,passing,tackling
+Ferland Mendy,FB,L,31,FRA,5,false,false,false,stamina,pace
+Álvaro Carreras,FB,L,23,ESP,7,false,false,false,stamina,pace
+Dani Ceballos,MF,R,30,ESP,7,false,false,false,passing,dribbling
+Vini Jr.,FW,L,26,BRA,8,false,true,false,pace,dribbling
+Rodrygo,FW,R,25,BRA,5,true,true,false,dribbling,pace
+Éder Militão,CB,R,28,BRA,6,false,false,false,heading,tackling
+Antonio Rudiger,CB,R,33,GER,7,true,true,false,pace,tackling
+Arda Guler,FW,L,21,TUR,9,false,false,false,playmaking,dribbling
+Dean Huijsen,CB,L,21,ESP,5,true,false,false,passing,heading
+Franco Mastantuono,MF,L,19,ARG,6,false,false,false,dribbling,playmaking
+Fran García,FB,L,27,ESP,8,false,false,false,pace,stamina
+Endrick,FW,L,20,BRA,5,false,false,false,pace,dribbling
+Brahim,FW,R,27,MAR,6,false,false,false,dribbling,passing
+Gonzalo,FW,R,22,ESP,8,false,false,false,finishing,dribbling
+Asencio,CB,R,23,ESP,4,false,false,false,passing,heading
+Fortea,FB,R,19,ESP,6,false,false,false,stamina,tackling
+Thiago Pitarch,MF,R,19,ESP,6,false,false,false,playmaking,pace
+Diego Aguado,CB,L,19,ESP,8,false,false,false,passing,pace
+Thibaut Courtois,GK,L,34,BEL,4,true,true,false,reflexes,rushing-out
+Andriy Lunin,GK,R,27,UKR,6,false,false,false,reflexes,positioning
+Sergio Mestre,GK,R,21,ESP,6,false,false,false,reflexes,positioning
+Fran González,GK,R,21,ESP,7,false,false,false,reflexes,positioning

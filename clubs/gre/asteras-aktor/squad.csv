@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Vasilios Chatziemmanouil,GK,R,26,GRE,4,true,false,false,reflexes,penalty-saving
+Spyros Angelidis,GK,L,21,GRE,5,false,false,false,positioning,reflexes
+Nikolaos Papadopoulos,GK,R,36,GRE,6,false,false,false,reflexes,penalty-saving
+Theofilos Kakadiaris,GK,R,19,GRE,7,false,false,false,rushing-out,reflexes
+Konstantinos Chrysopoulos,CB,L,23,GRE,4,false,false,false,stamina,tackling
+Robert Ivanov,CB,R,31,FIN,5,true,false,false,stamina,heading
+Jordan Silva,CB,R,31,MEX,6,true,false,false,heading,stamina
+Nikola Sipcic,CB,L,31,MNE,7,false,false,false,marking,tackling
+Dimitrios Laskaris,CB,R,20,GRE,4,false,false,false,heading,stamina
+Issiaga Sylla,FB,R,32,GUI,5,true,false,false,pace,tackling
+Alex Mendez,FB,L,24,ESP,5,false,false,false,marking,crossing
+Konstantinos Pomonis,FB,R,24,GRE,6,false,false,false,crossing,passing
+Chrysanthos Gezos,FB,R,20,GRE,7,false,false,false,marking,crossing
+Giannis Kotsiras,FB,R,33,GRE,3,false,false,false,stamina,pace
+Panagiotis Deligiannidis,FB,R,29,GRE,5,true,false,false,marking,crossing
+Dimitrios Kourbelis,MF,R,32,GRE,5,true,false,false,pace,stamina
+Eder González,MF,R,29,ESP,6,true,false,false,passing,tackling
+Evgeniy Yablonskiy,MF,R,31,GRE,8,false,false,false,finishing,passing
+Julián Chicco,MF,R,28,ARG,4,false,false,false,finishing,passing
+Christos Almyras,MF,R,20,GRE,5,true,false,false,passing,stamina
+Julián Bartolo,MF,L,30,ARG,7,true,false,false,finishing,playmaking
+Giannis Bouzoukis,MF,R,28,GRE,3,false,false,false,pace,dribbling
+Adrián Riera,MF,L,30,ESP,5,false,false,false,tackling,marking
+Franco Orozco,FW,L,24,ARG,6,true,false,false,pace,dribbling
+Nikolaos Kaltsas,FW,R,36,GRE,7,false,false,false,heading,pace
+Ricardinho,FW,R,25,BRA,3,false,false,false,pace,dribbling
+Giannis Gitersos,FW,R,21,GRE,4,false,false,false,heading,pace
+Georgios Charalaboglou,FW,L,21,GRE,5,false,false,false,dribbling,finishing
+Federico Macheda,FW,R,34,ITA,6,true,false,false,crossing,pace

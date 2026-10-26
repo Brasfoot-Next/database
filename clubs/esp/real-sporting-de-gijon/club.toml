@@ -1,0 +1,13 @@
+name = "Real Sporting de Gijón"
+country = "ESP"
+level = 13
+reputation = 3
+colors = ["#E00010", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Pierre Yáñez"
+country = "BRA"

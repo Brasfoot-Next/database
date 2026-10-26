@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kyogo Furuhashi,FW,R,31,JPN,7,false,false,false,stamina,pace
+Bright Osayi Samuel,FB,R,28,NGA,2,true,false,false,pace,dribbling
+Paik Seung Ho,MF,L,29,KOR,5,false,false,false,stamina,dribbling
+Tomoki Iwata,MF,R,29,JPN,6,true,false,false,stamina,pace
+Tommy Doyle,MF,R,24,ENG,7,true,false,false,passing,playmaking
+Marvin Ducksch,FW,R,32,GER,7,false,false,false,playmaking,crossing
+Kanya Fujimoto,MF,L,27,JPN,5,true,false,false,stamina,pace
+Willum Thor Willumsson,FW,L,27,ISL,6,false,false,false,stamina,passing
+Keshi Anderson,FW,L,31,ENG,6,false,false,false,pace,stamina
+Marc Leonard,MF,R,24,SCO,8,false,false,false,stamina,pace
+Alex Cochrane,FB,L,26,ENG,5,false,false,false,stamina,pace
+Ethan Laird,FB,L,25,ENG,6,false,false,false,pace,dribbling
+Alfons Sampsted,FB,R,28,ISL,7,true,false,false,stamina,pace
+Demarai Gray,FW,L,30,JAM,10,true,false,false,pace,dribbling
+Phil Neumann,CB,R,29,GER,5,false,false,false,stamina,pace
+Jay Stansfield,MF,R,23,ENG,6,true,false,false,pace,stamina
+Jack Robinson,CB,L,33,ENG,7,false,false,false,marking,tackling
+Eiran Cashin,CB,L,24,IRL,1,true,false,false,heading,tackling
+Patrick Roberts,FW,L,29,ENG,5,false,false,false,pace,dribbling
+Lyndon Dykes,FW,R,30,SCO,6,false,false,false,stamina,heading
+Lewis Koumas,FW,R,20,WAL,8,true,false,false,pace,dribbling
+Lee Buchanan,FB,L,25,ENG,5,false,false,false,pace,stamina
+Scott Wright,FW,R,29,SCO,6,false,false,false,pace,dribbling
+Christoph Klarer,CB,L,26,AUT,7,true,false,false,tackling,marking
+Ryan Allsop,GK,R,34,ENG,8,false,false,false,reflexes,rushing-out
+James Beadle,GK,R,22,ENG,5,true,false,false,reflexes,positioning
+Brad Mayo,GK,R,21,ENG,6,false,false,false,positioning,rushing-out

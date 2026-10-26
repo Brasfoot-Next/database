@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Daniel Ask,MF,R,27,SWE,5,true,false,false,pace,stamina
+Vladimir Rodic,FW,R,33,MNE,6,false,false,false,stamina,playmaking
+Axel Lindahl,FB,R,31,SWE,6,false,false,false,pace,stamina
+Magnus Christensen,MF,R,29,DEN,7,true,false,false,stamina,marking
+Christian Kouakou,FW,R,31,SWE,3,false,false,false,pace,finishing
+Noah Soderberg,MF,R,25,SWE,5,false,false,false,stamina,passing
+Dennis Olsson,FB,L,27,SWE,6,true,false,false,pace,stamina
+Daniel Ljung,MF,R,27,SWE,7,true,false,false,passing,stamina
+Patriot Sejdiu,FW,L,26,SWE,4,false,false,false,stamina,pace
+Anssi Suhonen,MF,L,25,FIN,5,true,false,false,dribbling,passing
+Lukas Bergquist,FB,L,26,SWE,5,true,false,false,stamina,pace
+Niklas Soderberg,MF,R,29,SWE,6,false,false,false,passing,stamina
+Alibek Aliev,FW,R,30,SWE,7,true,false,false,pace,stamina
+Hannes Bladh Pijaca,MF,R,21,SWE,2,false,false,false,pace,stamina
+Oscar Uddenas,FW,L,24,SWE,5,true,false,false,pace,passing
+Matias Tamminen,FW,R,24,FIN,6,false,false,false,pace,playmaking
+Joel Voelkerling Persson,FW,R,23,SWE,7,false,false,false,heading,pace
+Tatu Varmanen,FB,R,28,SWE,2,false,false,false,pace,tackling
+Ivan Kricak,CB,L,30,SRB,5,true,false,false,stamina,tackling
+Kingsley Gyamfi,CB,R,22,GHA,6,false,false,false,stamina,tackling
+Raymond Adjei,FB,R,22,SWE,4,false,false,false,pace,crossing
+Mattis Adolfsson,CB,R,24,SWE,5,true,false,false,pace,tackling
+Sebastian Starke Hedlund,CB,R,31,SWE,6,false,false,false,tackling,heading
+Robin Wallinder,GK,R,27,SWE,7,true,false,false,reflexes,positioning
+Carl Lundahl Persson,GK,R,25,SWE,4,false,false,false,rushing-out,positioning

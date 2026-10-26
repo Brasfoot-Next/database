@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Adam Taggart,FW,R,33,AUS,5,false,false,false,stamina,pace
+Sam Sutton,FB,L,24,NZL,6,true,false,false,pace,stamina
+Brian Kaltak,CB,R,32,AUS,7,true,false,false,pace,stamina
+Callum Timmins,MF,R,27,AUS,5,true,false,false,stamina,pace
+Brandon Oneill,MF,R,32,AUS,6,false,false,false,stamina,passing
+Josh Risdon,FB,R,34,AUS,7,true,false,false,stamina,pace
+Luke Amos,MF,R,29,ENG,3,true,false,false,passing,playmaking
+Nicholas Pennington,MF,L,27,AUS,5,true,false,false,stamina,passing
+Taras Gomulka,MF,R,24,AUS,6,false,false,false,stamina,pace
+Jaiden Kucharski,FW,R,24,AUS,7,true,false,false,stamina,pace
+Trent Ostler,FW,R,24,AUS,6,false,false,false,stamina,pace
+Lachlan Wales,FW,L,28,AUS,7,false,false,false,stamina,pace
+Scott Wootton,CB,R,34,ENG,3,true,false,false,stamina,heading
+Sebastian Despotovski,MF,R,20,AUS,5,true,false,false,stamina,playmaking
+Nathanael Blair,FW,R,22,AUS,6,false,false,false,pace,stamina
+William Freney,FW,L,20,AUS,7,true,false,false,pace,passing
+Arion Sulemani,FW,R,21,AUS,3,false,false,false,pace,finishing
+Adam Bugarija,MF,R,21,AUS,5,false,false,false,pace,passing
+Joel Anasmo,FW,L,21,AUS,6,false,false,false,pace,stamina
+Gabriel Popovic,FW,R,23,AUS,7,false,false,false,pace,stamina
+Andriano Lebib,CB,R,20,AUS,6,false,false,false,pace,marking
+Zach Lisolajski,FB,L,20,AUS,6,false,false,false,pace,stamina
+Khoa Ngo,FW,L,20,AUS,9,false,false,false,pace,dribbling
+Kaelan Majekodunmi,CB,L,22,AUS,5,false,false,false,stamina,pace
+Mark Birighitti,GK,R,35,AUS,6,false,false,false,penalty-saving,reflexes
+Cameron Cook,GK,R,25,AUS,7,true,false,false,reflexes,positioning

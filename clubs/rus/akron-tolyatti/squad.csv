@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Vitaliy Gudiev,GK,L,31,RWA,5,true,false,false,positioning,penalty-saving
+Ignat Terekhovskiy,GK,R,20,RWA,6,false,false,false,reflexes,penalty-saving
+Ionuț Nedelcearu,CB,R,30,ROU,7,true,false,false,marking,passing
+Marat Bokoev,CB,R,25,RWA,2,true,false,false,marking,passing
+Rodrigo Escoval,CB,R,29,POR,5,false,false,false,tackling,marking
+Paulo Vitor,CB,L,25,BRA,6,false,false,false,tackling,heading
+Roberto Fernández,FB,L,27,BOL,7,true,false,false,passing,crossing
+Vyacheslav Bardybakhin,FB,R,24,RWA,2,false,false,false,stamina,pace
+Denis Popenkov,FB,R,19,RWA,5,false,false,false,stamina,crossing
+Yomar Rocha,FB,L,23,BOL,6,true,false,false,passing,crossing
+Aleksa Djurasovic,MF,L,23,SRB,6,true,false,false,finishing,passing
+Stefan Loncar,MF,L,30,MNE,7,true,false,false,passing,finishing
+Khetag Khosonov,MF,R,28,RWA,2,true,false,false,stamina,tackling
+Konstantin Maradishvili,MF,L,26,RWA,5,false,false,false,passing,playmaking
+Kristijan Bistrovic,MF,R,28,CRO,6,true,false,false,playmaking,dribbling
+Yuriy Zheleznov,MF,L,23,RWA,7,false,false,false,pace,crossing
+Nikita Bazilevskiy,MF,R,20,RWA,3,false,false,false,passing,finishing
+Maksim Boldyrev,FW,R,22,RWA,5,false,false,false,crossing,pace
+Kévin Arévalo,FW,L,20,URU,6,false,false,false,playmaking,finishing
+Dmitriy Pestryakov,FW,L,19,RWA,7,true,false,false,finishing,pace
+Kirill Danilin,FW,L,23,RWA,5,false,false,false,finishing,pace
+Arseniy Dmitriev,FW,R,18,RWA,6,false,false,false,finishing,pace
+Slobodan Tedic,FW,R,26,SRB,8,true,false,false,pace,finishing
+Gilson Benchimol,FW,R,24,RWA,4,false,false,false,dribbling,finishing

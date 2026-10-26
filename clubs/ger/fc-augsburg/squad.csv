@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Alexis Claude Maurice,MF,R,28,FRA,6,true,false,false,dribbling,passing
+Marius Wolf,FW,R,31,GER,7,false,false,false,stamina,crossing
+Kristijan Jakic,MF,R,29,CRO,9,false,false,false,stamina,tackling
+Elvis Rexhbecaj,MF,L,28,GER,5,false,false,false,passing,tackling
+Jeffrey Gouweleeuw,CB,R,35,NED,6,false,false,false,tackling,marking
+Dimitris Giannoulis,FW,L,30,GRE,7,false,false,false,stamina,pace
+Robin Fellhauer,MF,R,28,GER,10,false,false,false,stamina,pace
+Arne Maier,MF,R,27,GER,5,false,false,false,stamina,playmaking
+Fabian Rieder,MF,L,24,SUI,6,true,false,false,playmaking,passing
+Han Noah Massengo,MF,L,25,FRA,7,true,false,false,passing,dribbling
+Mads Pedersen,FB,L,30,DEN,6,true,false,false,pace,dribbling
+Ismael Gharbi,FW,L,22,TUN,7,true,false,false,dribbling,pace
+Phillip Tietz,FW,R,29,GER,10,false,false,false,heading,stamina
+Anton Kade,FW,R,22,GER,5,true,false,false,pace,dribbling
+Elias Saad,MF,L,26,TUN,6,false,false,false,dribbling,passing
+Cedric Zesiger,CB,L,28,SUI,7,false,false,false,heading,tackling
+Samuel Essende,FW,R,28,COD,5,false,false,false,finishing,stamina
+Mert Komur,MF,R,21,GER,6,true,false,false,dribbling,passing
+Chrislain Matsima,CB,R,24,FRA,7,true,false,false,pace,marking
+Keven Schlotterbeck,CB,L,29,GER,8,false,false,false,tackling,heading
+Noahkai Banks,CB,R,19,USA,6,true,false,false,tackling,marking
+Aiman Dardari,FW,L,21,GER,6,false,false,false,pace,dribbling
+Maximilian Bauer,CB,R,26,GER,7,false,false,false,marking,tackling
+Mahmut Kucuksahin,MF,R,22,TUR,5,false,false,false,tackling,passing
+Oliver Sorg,FB,L,19,AUT,6,true,false,false,pace,tackling
+Felix Meiser,CB,R,19,GER,6,false,false,false,tackling,heading
+Finn Dahmen,GK,R,28,GER,8,true,false,false,reflexes,positioning
+Nediljko Labrovic,GK,R,26,CRO,6,false,false,false,reflexes,positioning
+Daniel Klein,GK,R,25,GER,6,false,false,false,reflexes,penalty-saving

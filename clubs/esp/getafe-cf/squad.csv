@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mauro Arambarri,MF,L,30,URU,5,true,false,false,stamina,finishing
+Luis Milla,MF,R,31,ESP,6,true,false,false,passing,stamina
+Diego Rico,FB,L,33,ESP,6,true,false,false,crossing,playmaking
+Yvan Neyou,MF,R,29,CMR,8,true,false,false,dribbling,passing
+Javi Muñoz,MF,R,31,ESP,5,false,false,false,stamina,passing
+Kiko Femenía,FB,R,35,ESP,6,false,false,false,passing,crossing
+Borja Mayoral,FW,L,29,ESP,7,true,false,false,heading,finishing
+Dakonam Djene,CB,L,34,ESP,8,true,false,false,tackling,marking
+Juanmi,FW,R,33,ESP,5,false,false,false,heading,dribbling
+Mario Martín,MF,R,22,ESP,6,true,false,false,passing,playmaking
+Juan Iglesias,FB,R,28,ESP,5,true,false,false,pace,stamina
+Abu Kamara,FW,L,23,ENG,6,false,false,false,pace,dribbling
+Álex Sancris,FW,R,29,ESP,7,false,false,false,pace,stamina
+Adrián Liso,FW,L,21,ESP,5,true,false,false,pace,dribbling
+Coba da Costa,FW,L,24,ESP,6,false,false,false,pace,dribbling
+Davinchi,FB,L,18,ESP,6,false,false,false,pace,stamina
+Domingos Duarte,CB,R,31,POR,7,true,false,false,heading,tackling
+Alberto Risco,MF,L,21,ESP,5,false,false,false,passing,playmaking
+Ismael Bekhoucha,FB,R,21,MAR,6,false,false,false,pace,stamina
+Abdelkabir Abqar,CB,R,27,MAR,6,false,false,false,tackling,marking
+David Soria,GK,R,33,ESP,5,true,false,false,reflexes,penalty-saving
+Jiri Letacek,GK,R,27,CZE,6,false,false,false,reflexes,penalty-saving
+Jorge Benito,GK,R,20,ESP,6,false,false,false,penalty-saving,rushing-out

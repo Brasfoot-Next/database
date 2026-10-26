@@ -1,0 +1,13 @@
+name = "Al Ettifaq"
+country = "KSA"
+level = 14
+reputation = 3
+colors = ["#F0F0F0", "#005030"]
+
+[stadium]
+name = "EGO Stadium"
+capacity = 15000
+
+[coach]
+name = "Khalid Khatib"
+country = "BRA"

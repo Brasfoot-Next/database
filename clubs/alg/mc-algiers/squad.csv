@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Alexis Guendouz,GK,R,30,ALG,8,true,false,false,positioning,reflexes
+Abdellatif Ramdane,GK,R,25,ALG,4,false,false,false,positioning,penalty-saving
+Toufik Moussaoui,GK,R,35,ALG,5,false,false,false,positioning,reflexes
+Ayoub Ghezala,CB,R,30,ALG,6,true,false,false,marking,passing
+Abdelkader Menezla,CB,L,25,ALG,7,true,false,false,tackling,pace
+Ayoub Abdellaoui,CB,R,33,ALG,2,false,false,false,tackling,marking
+Marwane Khelif,FB,R,26,ALG,5,true,false,false,tackling,pace
+Mohamed Réda Halaïmia,FB,L,29,ALG,6,true,false,false,stamina,crossing
+Aimen Bouguerra,FB,L,29,ALG,7,false,false,false,passing,pace
+Yakoub Gassi,FB,R,20,ALG,2,false,false,false,marking,crossing
+Mohamed Zougrana,MF,R,24,BFA,7,true,false,false,playmaking,passing
+Mohamed Benkhemassa,MF,R,33,ALG,1,false,false,false,playmaking,finishing
+Merouane Mehdaoui,MF,R,28,ALG,5,true,false,false,pace,dribbling
+Alhassane Bangoura,MF,L,21,GUI,6,false,false,false,marking,passing
+Sid Ahmed Aissaoui,MF,L,21,ALG,7,false,false,false,passing,finishing
+Mohamed Islam Abdelkader,MF,R,22,ALG,1,false,false,false,pace,dribbling
+Oussama Benhaoua,MF,R,24,ALG,5,true,false,false,tackling,marking
+Chahreddine Boukholda,MF,R,30,ALG,6,true,false,false,tackling,marking
+Islam Sibous,MF,R,21,ALG,7,false,false,false,dribbling,pace
+Zakaria Naidji,FW,R,31,ALG,2,false,false,false,pace,dribbling
+Zinedine Ferhat,FW,L,33,ALG,6,true,false,false,playmaking,finishing
+Mehdi Boucherit,FW,R,24,ALG,7,false,false,false,finishing,dribbling
+Mohamed Saliou Bangoura,FW,R,22,GUI,4,false,false,false,pace,dribbling
+Ben Ahmed Kohili,FW,L,21,ALG,5,false,false,false,dribbling,pace
+Soufiane Bayazid,FW,R,29,ALG,6,true,false,false,pace,crossing
+Amine Messoussa,FW,R,21,ALG,8,false,false,false,pace,finishing
+Moslem Anatouf,FW,R,20,ALG,4,false,false,false,finishing,stamina
+Yacine Hamadouche,FW,L,21,ALG,5,false,false,false,pace,finishing
+Siriman Konaté,FW,R,22,ALG,6,false,false,false,heading,pace

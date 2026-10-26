@@ -1,0 +1,13 @@
+name = "Panetolikos"
+country = "GRE"
+level = 12
+reputation = 2
+colors = ["#E0C020", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "David Smyrlis"
+country = "BRA"

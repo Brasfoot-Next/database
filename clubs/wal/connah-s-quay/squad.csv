@@ -1,0 +1,20 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Andy Firth,GK,R,25,ENG,9,true,false,false,positioning,penalty-saving
+Jon Rushton,GK,L,32,WAL,5,false,false,false,rushing-out,penalty-saving
+John Disney,FB,R,30,IRL,5,true,false,false,finishing,passing
+Danny Holmes,FB,L,33,ENG,9,true,false,false,crossing,pace
+Kris Owens,FB,L,23,ENG,1,false,false,false,marking,passing
+Ryan Harrington,FB,R,23,WAL,2,false,false,false,marking,finishing
+George Horan,CB,R,40,ENG,6,true,false,false,tackling,stamina
+Ben Nash,CB,L,24,WAL,6,true,false,false,heading,stamina
+Harry Owen,CB,R,19,WAL,7,false,false,false,tackling,marking
+Aeron Edwards,MF,L,34,WAL,10,true,false,false,playmaking,passing
+Callum Morris,MF,L,29,ENG,4,true,false,false,tackling,marking
+Aron Williams,MF,R,26,WAL,3,true,false,false,tackling,marking
+Paulo Mendes,MF,R,29,POR,4,true,false,false,tackling,pace
+Harry Franklin,MF,R,22,ENG,5,false,false,false,playmaking,passing
+Josh Williams,MF,L,18,WAL,4,false,false,false,marking,pace
+Craig Curran,FW,L,32,ENG,9,true,false,false,dribbling,pace
+Jamie Mullan,FW,R,34,ENG,4,true,false,false,pace,finishing
+Byron Harrison,FW,L,35,ENG,1,false,false,false,dribbling,finishing
+Michael Wilde,FW,R,38,ENG,10,false,false,false,finishing,heading

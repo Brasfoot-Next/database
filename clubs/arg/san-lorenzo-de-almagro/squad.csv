@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Nery Dominguez,CB,R,36,ARG,5,false,false,false,passing,playmaking
+Nicolas Tripichio,MF,R,30,ARG,7,true,false,false,stamina,pace
+Emanuel Cecchini,MF,R,29,ARG,1,false,false,false,passing,stamina
+Andres Vombergar,FW,R,31,SVN,4,true,false,false,pace,heading
+Manuel Insaurralde,MF,L,27,ARG,5,true,false,false,passing,stamina
+Ezequiel Cerutti,FW,R,34,ARG,7,false,false,false,pace,dribbling
+Alexis Cuello,FW,R,26,ARG,1,true,false,false,pace,dribbling
+Diego Herazo,FW,R,30,COL,5,false,false,false,finishing,stamina
+Elias Baez,FB,L,21,ARG,6,true,false,false,stamina,crossing
+Matias Reali,FW,L,29,ARG,8,false,false,false,pace,dribbling
+Gaston Hernandez,CB,L,28,ARG,5,true,false,false,marking,tackling
+Teo Rodriguez Pagano,FB,L,20,ARG,6,false,false,false,pace,passing
+Francisco Perruzzi,MF,R,25,ARG,7,false,false,false,stamina,tackling
+Agustin Ladstatter,MF,L,21,ARG,4,false,false,false,pace,stamina
+Valentin Escalante,MF,R,22,ARG,5,false,false,false,pace,dribbling
+Jhohan Romana,CB,R,27,COL,6,true,false,false,tackling,marking
+Ezequiel Herrera,FB,R,23,ARG,7,true,false,false,pace,marking
+Juan Rattalino,MF,R,22,ARG,4,false,false,false,passing,stamina
+Nahuel Arias,FB,R,21,ARG,6,false,false,false,pace,stamina
+Facundo Gulli,MF,L,20,ARG,7,true,false,false,passing,playmaking
+Ignacio Perruzzi,MF,R,21,ARG,5,true,false,false,marking,tackling
+Fabricio Lopez,FB,R,23,ARG,6,false,false,false,pace,stamina
+Daniel Herrera,CB,R,22,ARG,7,false,false,false,pace,tackling
+Ramiro Pedroza,CB,L,19,ARG,3,false,false,false,stamina,pace
+Maximiliano Zelaya,CB,R,29,ARG,5,false,false,false,stamina,heading
+Branco Salinardi,FW,R,19,ARG,6,false,false,false,pace,stamina
+Facundo Altamirano,GK,R,30,ARG,7,false,false,false,reflexes,penalty-saving
+Mateo Clemente,GK,L,24,ARG,3,false,false,false,reflexes,rushing-out
+Orlando Gill,GK,L,26,PAR,5,true,false,false,positioning,reflexes

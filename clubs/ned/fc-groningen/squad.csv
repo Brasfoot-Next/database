@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Stije Resink,MF,L,23,NED,4,true,false,false,stamina,passing
+Mats Seuntjens,FW,L,34,NED,5,false,false,false,pace,passing
+Tygo Land,MF,R,20,NED,6,true,false,false,pace,dribbling
+Tika De Jonge,MF,R,23,NED,7,false,false,false,stamina,passing
+Marvin Peersman,FB,L,35,BEL,4,false,false,false,pace,stamina
+Jorg Schreuders,FW,L,21,NED,5,true,false,false,stamina,pace
+Thom Van Bergen,FW,R,22,NED,6,true,false,false,stamina,pace
+Younes Taha,MF,L,23,MAR,7,true,false,false,dribbling,playmaking
+Oskar Zawada,FW,R,30,POL,2,false,false,false,stamina,heading
+Brynjolfur Willumsson,FW,R,26,ISL,5,false,false,false,stamina,finishing
+Travis Hernes,MF,R,20,NOR,6,false,false,false,stamina,pace
+Tyrique Mercera,FB,R,22,CUW,7,true,false,false,pace,stamina
+Rui Mendes,FW,R,26,POR,2,false,false,false,pace,stamina
+Noam Emeran,FW,L,23,FRA,5,false,false,false,pace,dribbling
+Dies Janse,CB,L,20,NED,6,true,false,false,marking,heading
+Marco Rente,FB,R,29,GER,7,true,false,false,pace,tackling
+Jismerai Dillema,MF,R,19,NED,2,false,false,false,pace,dribbling
+David Van Der Werff,MF,R,22,NED,5,true,false,false,passing,playmaking
+Thijmen Blokzijl,CB,R,21,NED,6,true,false,false,marking,tackling
+Wouter Prins,FB,L,22,NED,7,false,false,false,pace,stamina
+Yenio Holder,FW,R,19,NED,5,false,false,false,pace,dribbling
+Sven Bouland,CB,L,20,NED,6,false,false,false,heading,pace
+Mark Hoekstra,FW,L,20,NED,10,false,false,false,pace,dribbling
+Robin Kelder,CB,R,21,NED,4,false,false,false,stamina,pace
+Elvis Van Der Laan,CB,R,18,SWE,5,false,false,false,stamina,tackling
+Hidde Jurjus,GK,R,32,NED,7,false,false,false,reflexes,penalty-saving
+Etienne Vaessen,GK,R,31,SUR,1,true,false,false,reflexes,positioning
+Lovro Stubljar,GK,L,22,SVN,5,false,false,false,reflexes,penalty-saving
+Dirk Baron,GK,R,24,NED,6,false,false,false,rushing-out,reflexes
+Stijn Petiet,GK,R,23,NED,7,false,false,false,reflexes,penalty-saving

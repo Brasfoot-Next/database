@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Suat Serdar,MF,L,29,GER,6,true,false,false,dribbling,passing
+Jean Daniel Akpa Akpro,MF,R,33,CIV,6,false,false,false,stamina,passing
+Tomas Suslov,MF,L,24,SVK,4,true,false,false,dribbling,passing
+Antoine Bernede,MF,R,27,FRA,6,true,false,false,stamina,dribbling
+Abdou Harroui,MF,R,28,MAR,6,false,false,false,dribbling,playmaking
+Ali Al Musrati,MF,R,30,ITA,7,false,false,false,stamina,tackling
+Grigoris Kastanos,MF,L,28,CYP,4,false,false,false,dribbling,passing
+Martin Frese,CB,L,28,DEN,6,false,false,false,pace,playmaking
+Domagoj Bradaric,FB,L,26,CRO,6,true,false,false,passing,stamina
+Roberto Gagliardini,MF,R,32,ITA,7,false,false,false,passing,tackling
+Rafik Belghali,FB,R,24,ALG,4,true,false,false,pace,dribbling
+Victor Nelsson,CB,R,27,DEN,6,true,false,false,tackling,marking
+Gift Orban,FW,R,24,NGA,6,true,false,false,finishing,pace
+Amin Sarr,FW,L,25,SWE,7,false,false,false,pace,dribbling
+Cheikh Niasse,MF,R,26,SEN,4,true,false,false,stamina,passing
+Daniel Mosquera,FW,R,26,COL,6,false,false,false,finishing,heading
+Nicolas Valentini,CB,L,25,ARG,6,false,false,false,stamina,tackling
+Fallou Cham,FB,R,20,GAM,7,false,false,false,pace,tackling
+Yellu Santiago,MF,R,22,ESP,5,false,false,false,tackling,marking
+Enzo Ebosse,CB,L,27,CMR,6,false,false,false,tackling,heading
+Giovane,FW,L,22,BRA,10,true,false,false,dribbling,pace
+Daniel Oyegoke,CB,R,23,ENG,5,false,false,false,pace,tackling
+Unai Núñez,CB,R,29,ESP,6,false,false,false,heading,marking
+Armel Bella Kotchap,CB,R,24,GER,7,true,false,false,pace,tackling
+Tobias Slotsager,CB,R,20,DEN,1,false,false,false,heading,pace
+Junior Ajayi,FW,R,21,CIV,5,false,false,false,pace,passing
+Lorenzo Montipo,GK,R,30,ITA,6,true,false,false,reflexes,penalty-saving
+Simone Perilli,GK,R,31,ITA,7,false,false,false,rushing-out,penalty-saving
+Giacomo Toniolo,GK,R,22,ITA,2,false,false,false,reflexes,penalty-saving

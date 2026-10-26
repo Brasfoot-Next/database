@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jelle Vossen,FW,R,37,BEL,5,false,false,false,finishing,stamina
+Jeppe Erenbjerg,MF,L,26,DEN,6,true,false,false,dribbling,playmaking
+Joseph Opoku,FW,L,21,GHA,7,true,false,false,passing,playmaking
+Marley Ake,FW,L,25,FRA,3,true,false,false,pace,dribbling
+Enrique Lofolomo,MF,R,26,GER,5,true,false,false,stamina,dribbling
+Benoit Nyssen,FB,R,28,BEL,7,false,false,false,crossing,passing
+Emran Soglo,FB,L,21,ENG,2,true,false,false,pace,dribbling
+Thomas Claes,MF,L,22,BEL,5,true,false,false,passing,stamina
+Stavros Gavriel,FW,L,24,CYP,6,false,false,false,finishing,dribbling
+Nikola Mituljikic,FW,L,23,SRB,7,false,false,false,pace,dribbling
+Tochukwu Nnadi,MF,R,23,NGA,6,true,false,false,stamina,crossing
+Serxho Ujka,MF,R,28,ALB,7,false,false,false,passing,playmaking
+Yannick Cappelle,FB,L,23,BEL,3,false,false,false,stamina,crossing
+Atli Barkarson,FB,L,25,ISL,5,false,false,false,stamina,pace
+Anosike Ementa,FW,R,24,DEN,6,false,false,false,pace,heading
+Ibrahim Diabate,MF,R,22,CIV,7,false,false,false,finishing,passing
+Anton Tanghe,CB,R,27,BEL,3,false,false,false,tackling,stamina
+Jakob Kiilerich,CB,L,26,DEN,5,true,false,false,heading,tackling
+Lukas Willen,CB,L,23,BEL,6,false,false,false,pace,tackling
+Abdoulaye Traore,FW,R,23,CIV,7,false,false,false,pace,dribbling
+Wilguens Paugain,FB,R,25,HAI,6,true,false,false,stamina,marking
+Tobias Hedl,FW,R,23,AUT,7,false,false,false,finishing,heading
+Laurent Lemoine,CB,L,28,BEL,2,true,false,false,heading,stamina
+Siebe Van Keymolen,MF,R,21,BEL,5,false,false,false,pace,passing
+Benoit De Jaegere,FB,L,22,BEL,6,false,false,false,pace,tackling
+Ennio Van Der Gouw,GK,R,25,NED,7,false,false,false,positioning,reflexes
+Louis Bostyn,GK,R,32,BEL,2,false,false,false,positioning,penalty-saving
+Arnaud Dobbels,GK,R,21,BEL,5,false,false,false,reflexes,penalty-saving
+Brent Gabriel,GK,R,27,BEL,6,true,false,false,reflexes,penalty-saving

@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Yhonathann Yustiz,GK,R,34,VEN,6,true,false,false,reflexes,positioning
+Jesús Lara,GK,R,19,VEN,7,false,false,false,reflexes,positioning
+Alan Vázquez,GK,R,18,VEN,3,false,false,false,positioning,reflexes
+Yolfran Caricote,CB,R,27,VEN,5,true,false,false,marking,passing
+Andrés Ferro,CB,L,24,VEN,6,false,false,false,marking,heading
+Francisco Manenti,CB,R,29,ARG,7,true,false,false,marking,tackling
+Leonardo Pérez,CB,L,23,VEN,3,false,false,false,heading,marking
+Christian Camarillo,CB,R,23,VEN,5,false,false,false,marking,heading
+Isaac Ramírez,FB,R,24,VEN,6,true,false,false,marking,pace
+Ely Valderrey,FB,R,31,VEN,7,true,false,false,stamina,pace
+Angel Jaimes,FB,L,20,VEN,5,false,false,false,marking,pace
+Alejandro Hernandez,FB,R,18,VEN,6,false,false,false,crossing,passing
+George Ayine,MF,R,27,GHA,8,true,false,false,dribbling,passing
+Rafael Sangiovani,MF,R,28,ARG,2,true,false,false,tackling,marking
+David Zalzman,MF,R,30,VEN,5,true,false,false,stamina,tackling
+Nicol Martinez,MF,R,21,VEN,6,true,false,false,marking,passing
+Robert Garcés,MF,R,33,VEN,7,false,false,false,playmaking,passing
+Rafael Acosta,MF,L,37,VEN,3,false,false,false,playmaking,dribbling
+Jailerth Navarro,MF,R,21,VEN,5,false,false,false,dribbling,passing
+Jaiver Gímenez,MF,R,20,VEN,6,false,false,false,pace,dribbling
+Richard Figueroa,FW,R,29,VEN,5,true,false,false,finishing,dribbling
+Jeizon Ramírez,FW,R,25,VEN,6,true,false,false,heading,finishing
+Saimon Ramírez,FW,R,24,VEN,7,false,false,false,pace,finishing
+Kavier Ortiz,FW,R,24,ECU,3,false,false,false,heading,stamina
+Marlon Díaz,FW,R,22,VEN,4,false,false,false,finishing,heading
+Alexis Rodríguez,FW,L,19,VEN,5,false,false,false,finishing,dribbling
+Alexander Nieves,FW,R,20,VEN,6,false,false,false,heading,stamina
+Agustín Bianciotti,FW,R,22,ARG,8,false,false,false,finishing,stamina
+Miku,FW,R,25,VEN,5,false,false,false,pace,dribbling

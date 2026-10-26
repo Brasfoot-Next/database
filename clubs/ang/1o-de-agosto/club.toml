@@ -1,0 +1,13 @@
+name = "1º de Agosto"
+country = "ANG"
+level = 14
+reputation = 3
+colors = ["#ff3333", "#000000"]
+
+[stadium]
+name = "11 de Novembro"
+capacity = 48500
+
+[coach]
+name = "Srdjan Vasiljevic"
+country = "SRB"

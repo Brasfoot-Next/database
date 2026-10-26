@@ -1,0 +1,13 @@
+name = "Saburtalo"
+country = "GEO"
+level = 14
+reputation = 2
+colors = ["#ffffff", "#ff0000"]
+
+[stadium]
+name = "Mikheil Meskhi"
+capacity = 24680
+
+[coach]
+name = "Lasha Nozadze"
+country = "GEO"

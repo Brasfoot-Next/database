@@ -1,0 +1,13 @@
+name = "Beitar Jerusalem"
+country = "ISR"
+level = 12
+reputation = 2
+colors = ["#000000", "#ffff00"]
+
+[stadium]
+name = "Teddy Kollek"
+capacity = 33500
+
+[coach]
+name = "Yossi Abukasis"
+country = "ISR"

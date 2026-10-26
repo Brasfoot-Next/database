@@ -1,0 +1,13 @@
+name = "Udinese"
+country = "ITA"
+level = 15
+reputation = 3
+colors = ["#B0B0B0", "#FFFFFF"]
+
+[stadium]
+name = "Bluenergy Stadium"
+capacity = 25144
+
+[coach]
+name = "Oumar Zarraga"
+country = "BRA"

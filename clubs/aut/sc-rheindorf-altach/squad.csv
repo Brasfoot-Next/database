@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Mike Steven Bahre,MF,L,31,GER,5,true,false,false,stamina,pace
+Alexander Gorgon,MF,R,37,AUT,6,false,false,false,stamina,passing
+Leonardo Lukacevic,FB,L,27,AUT,7,false,false,false,stamina,crossing
+Moritz Oswald,MF,R,24,AUT,5,false,false,false,stamina,passing
+Patrick Greil,MF,R,30,AUT,6,true,false,false,stamina,pace
+Yann Massombo,MF,L,26,FRA,7,true,false,false,stamina,passing
+Vesel Demaku,MF,R,26,AUT,3,true,false,false,stamina,playmaking
+Marlon Suliman Mustapha,FW,L,25,AUT,5,false,false,false,pace,stamina
+Sandro Ingolitsch,FB,R,29,AUT,6,true,false,false,stamina,pace
+Lukas Jager,MF,R,32,AUT,7,false,false,false,stamina,marking
+Ousmane Diawara,FW,R,26,MLI,7,true,false,false,pace,stamina
+Luca Kronberger,FW,L,24,AUT,4,false,false,false,stamina,pace
+Lukas Gugganig,CB,R,31,AUT,5,false,false,false,stamina,heading
+Benedikt Zech,CB,R,35,AUT,6,false,false,false,marking,stamina
+Mohamed Ouedraogo,FB,L,23,BFA,7,true,false,false,pace,crossing
+Srdjan Hrstic,FW,R,23,SRB,4,true,false,false,pace,heading
+Paul Koller,CB,L,24,AUT,5,true,false,false,stamina,marking
+Diego Madritsch,MF,R,21,AUT,6,false,false,false,pace,passing
+Salif Tietietta,MF,R,21,BFA,8,false,false,false,pace,playmaking
+Gibson Nana Adu,FW,R,18,GER,4,false,false,false,pace,dribbling
+Erkin Yalcin,FW,R,22,AUT,7,false,false,false,pace,stamina
+Filip Milojevic,CB,R,21,AUT,3,true,false,false,stamina,tackling
+Anteo Fetahu,FW,R,24,ALB,5,false,false,false,pace,finishing
+Dejan Stojanovic,GK,L,33,AUT,6,true,false,false,reflexes,penalty-saving
+Daniel Antosch,GK,R,26,AUT,7,false,false,false,reflexes,rushing-out
+Paul Piffer,GK,R,20,AUT,3,false,false,false,reflexes,penalty-saving

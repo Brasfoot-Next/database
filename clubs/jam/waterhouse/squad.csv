@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Akeem Chambers,GK,R,24,JAM,7,true,false,false,rushing-out,penalty-saving
+Zemioy Nash,GK,L,20,JAM,3,false,false,false,penalty-saving,reflexes
+Ricardo Watson,GK,L,19,JAM,5,false,false,false,rushing-out,penalty-saving
+Damion Binns,FB,L,30,JAM,3,true,false,false,crossing,pace
+Ricardo Thomas,FB,R,24,JAM,2,true,false,false,finishing,pace
+Keithy Simpson,FB,R,32,JAM,4,false,false,false,crossing,pace
+Osani Ricketts,FB,L,29,JAM,9,false,false,false,marking,finishing
+Kymani Campbell,CB,L,23,JAM,10,true,false,false,tackling,stamina
+Romain Blake,CB,R,17,JAM,10,true,false,false,tackling,heading
+Malika Cocking,CB,R,29,JAM,9,false,false,false,tackling,stamina
+Stephen Williams,MF,L,31,JAM,2,true,false,false,playmaking,finishing
+Andre Fletcher,MF,R,23,JAM,10,true,false,false,tackling,marking
+Denardo Thomas,MF,R,27,JAM,2,true,false,false,finishing,passing
+Rohan Beadle,MF,L,22,JAM,6,true,false,false,marking,pace
+Loloxley Reid,MF,R,18,JAM,8,false,false,false,playmaking,passing
+Duvaughn Dunkley,MF,L,24,JAM,5,false,false,false,playmaking,pace
+Ramone Howell,MF,R,27,JAM,5,false,false,false,marking,pace
+Shaqueil Bradford,FW,L,21,JAM,7,true,false,false,finishing,dribbling
+Cardel Benbow,FW,R,27,JAM,4,true,false,false,finishing,pace
+Shevon Stewart,FW,R,28,JAM,6,false,false,false,dribbling,finishing
+Jahvan James,FW,L,21,JAM,10,false,false,false,pace,finishing
+Elvis Wilson,FW,R,29,JAM,4,false,false,false,dribbling,finishing
+Devroy Grey,FW,L,27,JAM,9,false,false,false,dribbling,finishing
+Gregory Messam,FW,R,25,JAM,1,false,false,false,finishing,dribbling

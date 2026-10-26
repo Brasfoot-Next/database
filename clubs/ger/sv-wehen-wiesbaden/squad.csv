@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Tarik Gozusirin,MF,L,25,GER,7,true,false,false,pace,stamina
+Fatih Kaya,FW,L,26,GER,1,true,false,false,finishing,pace
+Niklas May,FB,L,24,GER,5,true,false,false,pace,stamina
+Lukas Schleimer,FW,R,26,GER,5,true,false,false,stamina,pace
+Gino Fechner,MF,R,29,GER,6,true,false,false,pace,stamina
+Orestis Kiomourtzoglou,MF,R,28,GER,7,true,false,false,stamina,heading
+Fabian Greilinger,FW,L,25,GER,3,false,false,false,stamina,pace
+Simon Stehle,FW,R,24,GER,5,false,false,false,pace,playmaking
+Ole Wohlers,FB,R,26,GER,6,true,false,false,pace,finishing
+Ryan Johansson,FW,L,25,IRL,7,false,false,false,passing,pace
+Ivan Franjic,MF,R,29,GER,7,true,false,false,pace,passing
+Sascha Mockenhaupt,CB,R,34,GER,3,false,false,false,pace,stamina
+Robin Kalem,FW,R,24,GER,5,false,false,false,pace,stamina
+Moritz Flotho,FW,R,24,GER,6,false,false,false,finishing,stamina
+Nikolas Agrafiotis,FW,R,26,SRB,7,false,false,false,pace,stamina
+Milad Nejad,MF,L,21,GER,3,false,false,false,passing,playmaking
+Donny Bogicevic,MF,R,24,GER,5,false,false,false,passing,playmaking
+David Suárez,MF,R,25,ESP,6,false,false,false,passing,stamina
+Ben Nink,FB,R,19,GER,7,false,false,false,tackling,stamina
+Justin Janitzek,CB,L,22,GER,3,false,false,false,tackling,heading
+Nassim El Ouarti,FB,L,21,GER,7,false,false,false,passing,pace
+Jakob Lewald,CB,R,27,GER,1,true,false,false,heading,stamina
+Felix Luckeneder,CB,L,32,AUT,5,false,false,false,stamina,heading
+Florian Hubner,CB,R,35,GER,6,false,false,false,heading,tackling
+Jordy Gillekens,CB,R,26,BEL,7,true,false,false,heading,marking
+Jan Matthias Becker,FW,R,19,GER,2,false,false,false,pace,finishing
+Tim Neubert,CB,R,19,GER,5,false,false,false,stamina,pace
+Florian Stritzel,GK,R,32,GER,6,true,false,false,positioning,reflexes
+Finn Ludwig,GK,R,20,GER,7,false,false,false,positioning,rushing-out
+Noah Brdar,GK,R,21,GER,2,false,false,false,penalty-saving,rushing-out

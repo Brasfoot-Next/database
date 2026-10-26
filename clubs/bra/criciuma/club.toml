@@ -1,0 +1,14 @@
+name = "Criciúma"
+country = "BRA"
+state = "SC"
+level = 12
+reputation = 2
+colors = ["#F0D030", "#000000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Marcinho Gonçalves"
+country = "BRA"

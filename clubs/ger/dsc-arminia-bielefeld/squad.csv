@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Marvin Mehlem,MF,R,28,GER,2,true,false,false,stamina,dribbling
+Marius Worl,MF,R,22,GER,5,false,false,false,stamina,pace
+Mael Corboz,MF,L,32,USA,7,false,false,false,stamina,pace
+Stefano Russo,MF,R,26,GER,1,true,false,false,stamina,marking
+Lukas Kunze,MF,R,28,GER,5,false,false,false,stamina,pace
+Tim Handwerker,FB,L,28,GER,6,true,false,false,stamina,pace
+Joel Grodowski,FW,R,28,GER,7,false,false,false,pace,stamina
+Sam Schreck,MF,R,27,GER,2,true,false,false,stamina,passing
+Christopher Lannert,FB,R,28,GER,5,true,false,false,stamina,pace
+Isaiah Young,FW,R,28,USA,6,false,false,false,pace,stamina
+Leon Schneider,CB,R,26,GER,6,true,false,false,pace,stamina
+Noah Joel Sarenren Bazee,FW,R,30,NGA,7,false,false,false,pace,dribbling
+Felix Hagmann,FB,R,22,GER,3,false,false,false,pace,stamina
+Florian Micheler,MF,R,21,AUT,5,true,false,false,passing,dribbling
+Arne Sicker,FB,L,29,GER,6,false,false,false,pace,dribbling
+Maximilian Grosser,CB,L,25,GER,7,false,false,false,stamina,tackling
+Thaddaus Monju Momuluh,FW,R,24,GER,3,false,false,false,pace,dribbling
+Semih Sarli,FB,L,22,GER,5,false,false,false,pace,stamina
+Jeredy Hilterman,FW,R,28,SUR,6,false,false,false,pace,finishing
+Julian Kania,FW,R,24,GER,7,false,false,false,finishing,pace
+Roberts Uldrikis,FW,R,28,GER,6,true,false,false,heading,finishing
+Benjamin Boakye,FW,L,21,GER,7,true,false,false,pace,dribbling
+Joel Felix,CB,L,28,DEN,1,false,false,false,heading,stamina
+Daniel Richter,FW,L,18,GER,5,false,false,false,pace,dribbling
+Vincent Ocansey,FW,R,25,GER,6,false,false,false,pace,heading
+Justin Lukas,FB,L,20,GER,7,false,false,false,pace,tackling
+Jonathan Norbye,CB,L,19,NOR,1,true,false,false,tackling,heading
+Jonas Kersken,GK,R,26,GER,5,true,false,false,reflexes,positioning
+Artem Zaloha,GK,R,19,UKR,6,false,false,false,reflexes,penalty-saving
+Philip Hildesheim,GK,R,21,GER,7,false,false,false,reflexes,penalty-saving
+Leo Oppermann,GK,R,25,GER,4,false,false,false,reflexes,penalty-saving

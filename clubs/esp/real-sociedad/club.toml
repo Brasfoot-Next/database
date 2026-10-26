@@ -1,0 +1,13 @@
+name = "Real Sociedad"
+country = "ESP"
+level = 18
+reputation = 4
+colors = ["#0067b1", "#ffffff"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Iñaki Etxeberria"
+country = "BRA"

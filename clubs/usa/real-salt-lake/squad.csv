@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Diogo Gonçalves,FW,L,29,POR,7,true,false,false,pace,stamina
+Johnny Russell,FW,L,36,SCO,2,false,false,false,pace,playmaking
+Pablo Ruiz,MF,L,27,ARG,5,false,false,false,stamina,tackling
+Deandre Yedlin,FB,R,33,USA,6,true,false,false,stamina,pace
+Diego Luna,MF,R,23,USA,7,true,false,false,dribbling,pace
+Braian Ojeda,MF,R,26,PAR,5,true,false,false,stamina,dribbling
+Alexandros Katranis,FB,L,28,GRE,6,true,false,false,pace,stamina
+Emeka Eneli,MF,L,26,USA,7,true,false,false,playmaking,passing
+Victor Olatunji,FW,R,27,NGA,1,false,false,false,pace,heading
+Javain Brown,CB,R,27,JAM,5,false,false,false,pace,tackling
+Tyler Wolff,FW,L,23,USA,7,false,false,false,pace,passing
+Brayan Vera,CB,L,27,COL,1,true,false,false,marking,pace
+Sam Junqua,CB,L,29,USA,4,false,false,false,tackling,stamina
+William Agada,FW,R,26,NGA,5,false,false,false,pace,finishing
+Justen Glad,CB,R,29,USA,7,true,false,false,stamina,tackling
+Ariath Piol,FW,R,21,AUS,1,false,false,false,pace,stamina
+Noel Caliskan,MF,R,26,GER,5,true,false,false,pace,passing
+Rwan Cruz,FW,R,25,BRA,6,false,false,false,finishing,heading
+Kobi Henry,CB,R,22,USA,7,false,false,false,pace,tackling
+Marcos Zambrano,FW,R,21,USA,2,false,false,false,finishing,stamina
+Philip Quinton,CB,L,26,USA,6,false,false,false,stamina,heading
+Zavier Gozo,FW,R,19,USA,7,true,false,false,pace,dribbling
+Matthew Bell,FW,R,24,JAM,4,false,false,false,stamina,heading
+Rafael,GK,R,36,BRA,5,true,false,false,reflexes,positioning
+Zac Macmath,GK,R,35,USA,6,false,false,false,positioning,reflexes
+Mason Stajduhar,GK,R,28,USA,7,false,false,false,reflexes,penalty-saving

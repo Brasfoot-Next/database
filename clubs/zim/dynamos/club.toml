@@ -1,0 +1,13 @@
+name = "Dynamos"
+country = "ZIM"
+level = 14
+reputation = 3
+colors = ["#004080", "#ffffff"]
+
+[stadium]
+name = "Rufaro Stadium"
+capacity = 35000
+
+[coach]
+name = "Calistus Pasuwa"
+country = "ZIM"

@@ -1,0 +1,13 @@
+name = "Kilmarnock"
+country = "SCO"
+level = 9
+reputation = 2
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "BBSP Stadium, Rugby Park"
+capacity = 18128
+
+[coach]
+name = "Ethan Magennis"
+country = "BRA"

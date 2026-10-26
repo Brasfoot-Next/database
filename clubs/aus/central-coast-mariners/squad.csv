@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Alfie Mccalmont,MF,R,26,NIR,7,true,false,false,stamina,passing
+Lucas Mauragis,FB,L,25,AUS,3,true,false,false,stamina,pace
+Trent Sainsbury,CB,R,34,AUS,5,false,false,false,stamina,marking
+Storm Roux,FB,R,33,NZL,6,true,false,false,stamina,pace
+Harry Steele,MF,L,23,AUS,7,true,false,false,stamina,passing
+Christian Theoharous,FW,L,26,AUS,3,false,false,false,pace,dribbling
+Brad Tapp,MF,R,25,AUS,6,true,false,false,pace,passing
+Miguel Di Pizio,FW,L,20,AUS,7,true,false,false,pace,dribbling
+Bailey Brandtman,FW,L,21,AUS,3,true,false,false,pace,stamina
+Haine Eames,FW,L,18,AUS,5,true,false,false,pace,passing
+Nathan Paull,CB,L,23,AUS,5,true,false,false,stamina,pace
+Ryan Edmondson,FW,R,25,ENG,6,false,false,false,finishing,heading
+Arthur De Lima,FW,R,19,AUS,7,false,false,false,pace,finishing
+Diesel Herrington,CB,R,22,AUS,4,false,false,false,pace,stamina
+Abdelelah Faisal,FW,L,20,AUS,5,false,false,false,pace,dribbling
+James Donachie,CB,R,33,AUS,6,true,false,false,heading,stamina
+Andrew Redmayne,GK,R,37,AUS,7,false,false,false,positioning,rushing-out
+Dylan Peraic Cullen,GK,R,20,AUS,4,true,false,false,reflexes,penalty-saving
+Adam Pavlesic,GK,R,24,AUS,5,false,false,false,reflexes,rushing-out
+Jai Ajanovic,GK,R,21,AUS,6,false,false,false,penalty-saving,positioning

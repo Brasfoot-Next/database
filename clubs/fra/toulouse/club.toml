@@ -1,0 +1,13 @@
+name = "Toulouse"
+country = "FRA"
+level = 15
+reputation = 3
+colors = ["#402050", "#FFFFFF"]
+
+[stadium]
+name = "Stadium Municipal"
+capacity = 33150
+
+[coach]
+name = "Naime Vignolo"
+country = "BRA"

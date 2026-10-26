@@ -1,0 +1,13 @@
+name = "B36 Tórshavn"
+country = "FRO"
+level = 13
+reputation = 2
+colors = ["#ffffff", "#000000"]
+
+[stadium]
+name = "Gundadalur"
+capacity = 5000
+
+[coach]
+name = "Dan Brimsvík"
+country = "FRO"

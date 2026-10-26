@@ -1,0 +1,13 @@
+name = "Columbus Crew"
+country = "USA"
+level = 13
+reputation = 3
+colors = ["#000000", "#F0F0F0"]
+
+[stadium]
+name = "ScottsMiracle-Gro Field"
+capacity = 20011
+
+[coach]
+name = "Derrick Nagbe"
+country = "BRA"

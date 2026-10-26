@@ -1,0 +1,13 @@
+name = "Motor Lublin"
+country = "POL"
+level = 10
+reputation = 2
+colors = ["#304090", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Pawel Scalet"
+country = "BRA"

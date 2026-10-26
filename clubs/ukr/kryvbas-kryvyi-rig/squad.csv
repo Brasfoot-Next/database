@@ -1,0 +1,19 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Oleksandr Kemkin,GK,R,23,UKR,4,true,false,false,reflexes,rushing-out
+Bogdan Khoma,GK,L,23,UKR,6,false,false,false,reflexes,penalty-saving
+Volodymyr Vilivald,CB,R,21,UKR,7,true,false,false,heading,passing
+Joseph Jones,CB,R,20,PAN,4,true,false,false,heading,passing
+Ante Bekavac,FB,R,24,CRO,5,true,false,false,stamina,pace
+Thiago Borges,FB,L,21,BRA,6,false,false,false,marking,pace
+Jan Jurcec,FB,R,25,CRO,7,true,false,false,pace,tackling
+João Machado,FB,L,21,POR,4,false,false,false,tackling,marking
+Andrusw Araujo,MF,R,23,VEN,5,true,false,false,passing,playmaking
+Roy Nawi,MF,L,22,UKR,6,false,false,false,stamina,tackling
+Yaroslav Shevchenko,MF,R,19,UKR,5,true,false,false,tackling,passing
+Oleksandr Kamenskyi,MF,L,18,UKR,6,true,false,false,pace,crossing
+Giovany Herbert,MF,R,21,PAN,8,true,false,false,dribbling,passing
+Bar Lin,FW,R,21,UKR,4,true,false,false,crossing,pace
+Assane Seck,FW,R,22,SEN,5,true,false,false,dribbling,playmaking
+Tymur Butenko,FW,R,19,UKR,6,false,false,false,heading,finishing
+Volodymyr Mulyk,FW,R,20,UKR,8,false,false,false,heading,finishing
+Matviy Bodnar,FW,R,18,UKR,4,false,false,false,finishing,stamina

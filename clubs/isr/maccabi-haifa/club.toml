@@ -1,0 +1,13 @@
+name = "Maccabi Haifa"
+country = "ISR"
+level = 12
+reputation = 2
+colors = ["#006b24", "#ffffff"]
+
+[stadium]
+name = "Sammy Ofer Stadium"
+capacity = 30870
+
+[coach]
+name = "Barak Bakhar"
+country = "ISR"

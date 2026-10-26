@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Alan Browne,MF,R,31,IRL,7,false,false,false,stamina,passing
+Riley Mcgree,FW,L,27,AUS,3,false,false,false,stamina,pace
+Hayden Hackney,MF,R,24,ENG,5,false,false,false,stamina,passing
+Callum Brittain,FW,R,28,ENG,6,false,false,false,stamina,pace
+Aidan Morris,MF,L,24,USA,2,true,false,false,stamina,pace
+Morgan Whittaker,MF,L,25,ENG,5,false,false,false,pace,stamina
+Matt Targett,FB,L,30,ENG,6,true,false,false,crossing,marking
+Luke Ayling,CB,R,35,ENG,7,false,false,false,stamina,tackling
+Sverre Nypan,MF,R,19,NOR,2,true,false,false,stamina,playmaking
+Kaly Sene,FW,R,25,SEN,5,false,false,false,pace,dribbling
+Delano Burgzorg,FW,L,27,NED,1,false,false,false,pace,dribbling
+Darragh Lenihan,CB,R,32,IRL,5,false,false,false,tackling,heading
+Alex Bangura,FB,L,27,SLE,6,true,false,false,pace,stamina
+Alfie Jones,CB,L,28,ENG,7,true,false,false,stamina,tackling
+David Strelec,FW,L,25,SVK,2,true,false,false,finishing,heading
+Sontje Hansen,MF,L,24,NED,5,true,false,false,pace,dribbling
+Tommy Conway,FW,R,24,SCO,6,true,false,false,pace,finishing
+Abdoulaye Kante,MF,R,21,CIV,7,true,false,false,stamina,tackling
+Samuel Silvera,FW,L,25,AUS,3,false,false,false,dribbling,stamina
+Micah Hamilton,FW,L,22,ENG,5,false,false,false,pace,dribbling
+George Edmundson,CB,R,29,ENG,8,true,false,false,stamina,tackling
+Dael Fry,CB,R,29,ENG,4,false,false,false,marking,heading
+Alex Gilbert,FW,L,24,IRL,5,false,false,false,pace,passing
+Jon Mclaughlin,GK,R,38,SCO,6,false,false,false,rushing-out,reflexes
+Seny Dieng,GK,R,31,SEN,8,false,false,false,reflexes,penalty-saving
+Sol Brynn,GK,R,25,ENG,4,true,false,false,reflexes,positioning

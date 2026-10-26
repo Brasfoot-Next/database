@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Otar Kiteishvili,MF,R,30,GEO,7,true,false,false,stamina,dribbling
+Tomi Horvat,MF,L,27,SVN,1,false,false,false,stamina,dribbling
+Tochi Chukwuani,MF,L,23,DEN,5,true,false,false,stamina,pace
+Stefan Hierlander,MF,R,35,AUT,6,false,false,false,passing,stamina
+Maurice Malone,FW,L,26,GER,7,false,false,false,pace,finishing
+Dimitri Lavalee,CB,L,29,BEL,2,false,false,false,stamina,pace
+Jon Gorenc Stankovic,MF,R,30,SVN,5,true,false,false,stamina,marking
+Emir Karic,FB,L,29,AUT,6,true,false,false,stamina,pace
+Julius Beck,MF,R,21,DEN,7,false,false,false,pace,dribbling
+Tim Oermann,CB,R,22,GER,2,true,false,false,pace,tackling
+Emanuel Aiwu,CB,R,25,AUT,7,false,false,false,stamina,pace
+Seedy Jatta,FW,R,23,NOR,1,false,false,false,pace,heading
+Jacob Peter Hodl,MF,L,19,AUT,5,true,false,false,tackling,passing
+Filip Rozga,FW,L,20,POL,6,true,false,false,pace,dribbling
+Alexandar Borkovic,CB,L,27,AUT,7,false,false,false,heading,marking
+Leon Grgic,FW,L,20,CRO,2,true,false,false,pace,finishing
+Axel Kayombo,FW,L,20,FRA,5,false,false,false,pace,dribbling
+Kristjan Bendra,FB,R,20,SVN,6,false,false,false,pace,tackling
+Niklas Geyrhofer,CB,R,26,AUT,7,false,false,false,stamina,tackling
+Jeyland Mitchell,CB,R,21,AUT,2,true,false,false,pace,heading
+Arjan Malic,FB,R,21,BIH,7,true,false,false,stamina,pace
+Belmin Beganovic,FW,L,21,BIH,3,false,false,false,pace,dribbling
+Gabriel Haider,CB,R,24,AUT,4,false,false,false,stamina,tackling
+Oliver Christensen,GK,R,27,DEN,5,false,false,false,reflexes,penalty-saving
+Matteo Bignetti,GK,R,22,AUT,6,false,false,false,penalty-saving,reflexes
+Daniil Khudyakov,GK,R,22,RUS,8,true,false,false,reflexes,positioning
+Elias Lorenz,GK,R,20,AUT,4,false,false,false,penalty-saving,positioning

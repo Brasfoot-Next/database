@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Isaac Hutchinson,MF,R,26,ENG,6,true,false,false,stamina,pace
+Liam Kinsella,MF,R,30,IRL,7,true,false,false,stamina,tackling
+Ryan Broom,FB,R,30,WAL,3,false,false,false,pace,stamina
+Luke Young,MF,R,33,ENG,5,false,false,false,stamina,passing
+George Miller,FW,R,28,ENG,6,true,false,false,pace,stamina
+Ethon Archer,MF,L,24,ENG,7,true,false,false,pace,stamina
+George Harmon,FB,L,25,ENG,4,true,false,false,pace,crossing
+Arkell Jude Boyd,FB,R,23,LCA,5,false,false,false,pace,stamina
+Josh Martin,FW,L,24,ENG,6,false,false,false,pace,dribbling
+Jordan Thomas,FW,L,25,ENG,7,false,false,false,pace,stamina
+Tommy Backwell,MF,R,23,ENG,6,false,false,false,pace,playmaking
+Harry Pell,MF,R,34,ENG,7,false,false,false,heading,passing
+Lee Angol,FW,L,32,ENG,2,false,false,false,pace,dribbling
+Harrison Sohna,MF,L,24,ENG,5,true,false,false,stamina,pace
+Taine Anderson,FB,L,20,ENG,5,false,false,false,pace,stamina
+Sam Sherring,CB,R,26,ENG,6,true,false,false,pace,stamina
+Scot Bennett,CB,R,35,ENG,7,false,false,false,stamina,tackling
+Darragh Power,FB,R,25,IRL,4,true,false,false,stamina,pace
+James Wilson,CB,R,37,WAL,5,true,false,false,marking,stamina
+Harry Tustin,MF,R,19,ENG,6,false,false,false,pace,passing
+Freddy Willcox,CB,L,20,ENG,5,false,false,false,stamina,pace
+Tom Taylor,FW,R,21,ENG,6,false,false,false,pace,finishing
+Jake Bickerstaff,FW,R,24,ENG,10,false,false,false,pace,stamina
+Ibrahim Bakare,CB,R,24,ENG,4,false,false,false,pace,stamina
+Robbie Cundy,CB,R,29,ENG,5,false,false,false,heading,tackling
+Tom King,FW,R,19,ENG,6,true,false,false,pace,finishing
+Jokubas Mazionis,CB,L,20,LTU,7,false,false,false,heading,tackling
+Joe Day,GK,L,36,ENG,2,true,false,false,positioning,reflexes
+Mamadou Diallo,GK,R,18,ENG,5,false,false,false,penalty-saving,reflexes

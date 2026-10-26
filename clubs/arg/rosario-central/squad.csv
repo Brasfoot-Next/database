@@ -1,0 +1,30 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Angel Di Maria,FW,L,38,ARG,5,false,false,false,playmaking,dribbling
+Victor Ignacio Malcorra,MF,L,39,ARG,6,false,false,false,playmaking,crossing
+Enzo Copetti,FW,R,30,ARG,7,false,false,false,stamina,pace
+Enzo Gimenez,FB,R,28,PAR,2,true,false,false,pace,crossing
+Agustin Sandez,FB,L,25,PAR,6,false,false,false,pace,stamina
+Jaminton Campaz,FW,L,26,COL,6,true,false,false,pace,dribbling
+Federico Navarro,MF,L,26,ARG,7,true,false,false,tackling,pace
+Franco Ibarra,MF,R,25,ARG,4,true,false,false,stamina,tackling
+Maximiliano Lovera,FW,L,27,ARG,6,false,false,false,pace,dribbling
+Francesco Lo Celso,FW,L,26,ARG,6,false,false,false,passing,pace
+Juan Manuel Elordi,FB,L,32,ARG,7,false,false,false,crossing,marking
+Alejo Veliz,FW,R,22,ARG,4,true,false,false,heading,pace
+Tomas Oconnor,MF,L,22,ARG,6,false,false,false,passing,dribbling
+Emanuel Coronel,FB,R,29,ARG,6,true,false,false,stamina,tackling
+Santiago Lopez,FW,L,20,ARG,7,false,false,false,pace,dribbling
+Elias Ocampo,FW,R,22,ARG,5,false,false,false,pace,dribbling
+Juan Cruz Komar,CB,R,30,ARG,6,false,false,false,stamina,heading
+Gaspar Duarte,FW,R,23,ARG,7,false,false,false,pace,dribbling
+Carlos Quintana,CB,L,38,ARG,1,false,false,false,heading,tackling
+Giovanni Cantizano,MF,R,19,ARG,5,true,false,false,passing,playmaking
+Fabricio Oviedo,FW,R,22,ARG,7,false,false,false,heading,finishing
+Kevin Tomas Gutierrez,MF,R,20,ARG,9,false,false,false,pace,passing
+Facundo Mallo,CB,R,31,URU,5,true,false,false,tackling,heading
+Agustin Modica,FW,R,23,ITA,6,false,false,false,heading,finishing
+Santiago Segovia,MF,R,19,ARG,7,true,false,false,pace,passing
+Samuel Beltran,MF,R,22,ARG,10,false,false,false,pace,passing
+Juan Gimenez,CB,R,20,ARG,7,true,false,false,tackling,heading
+Jorge Broun,GK,R,40,ARG,8,false,false,false,positioning,reflexes
+Damian Fernandez,GK,R,23,ARG,5,true,false,false,rushing-out,reflexes

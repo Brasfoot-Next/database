@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Cristiano Biraghi,FB,L,34,ITA,7,false,false,false,crossing,marking
+Nikola Vlasic,FW,L,28,CRO,9,true,false,false,dribbling,passing
+Valentino Lazaro,FB,R,30,AUT,5,false,false,false,crossing,passing
+Ivan Ilic,MF,L,25,SRB,6,true,false,false,passing,dribbling
+Adrien Tameze,MF,R,32,FRA,7,false,false,false,tackling,dribbling
+Cesare Casadei,MF,R,23,ITA,9,true,false,false,passing,playmaking
+Che Adams,FW,R,30,SCO,5,false,false,false,pace,finishing
+Perr Schuurs,CB,R,26,NED,6,true,false,false,tackling,marking
+Kristjan Asllani,MF,R,24,ALB,7,true,false,false,passing,playmaking
+Duvan Zapata,FW,R,35,COL,9,false,false,false,heading,finishing
+Giovanni Simeone,FW,R,31,ARG,6,false,false,false,finishing,heading
+Tino Anjorin,MF,R,24,ENG,7,false,false,false,pace,dribbling
+Zakaria Aboukhlal,MF,L,26,MAR,9,true,false,false,stamina,pace
+Saúl Coco,CB,R,27,ITA,5,true,false,false,pace,marking
+Niels Nkounkou,FB,L,25,FRA,6,true,false,false,pace,crossing
+Marcus Pedersen,FB,R,26,NOR,6,true,false,false,pace,stamina
+Cyril Ngonge,FW,L,26,BEL,8,true,false,false,dribbling,pace
+Gvidas Gineitis,MF,L,22,LTU,2,false,false,false,passing,playmaking
+Adam Masina,CB,L,32,MAR,6,false,false,false,marking,heading
+Saba Sazonov,CB,R,24,GEO,6,false,false,false,heading,tackling
+Emirhan Ilkhan,MF,R,22,TUR,9,false,false,false,dribbling,playmaking
+Ardian Ismajli,CB,R,29,ALB,5,false,false,false,marking,tackling
+Alieu Njie,FW,R,21,SWE,6,false,false,false,pace,dribbling
+Guillermo Maripan,CB,L,32,CHI,7,false,false,false,heading,tackling
+Ali Bina Dembele,FB,R,22,FRA,9,false,false,false,pace,tackling
+Sergiu Perciun,MF,R,20,ITA,5,false,false,false,pace,passing
+Tommaso Gabellini,FW,L,19,ITA,6,false,false,false,passing,finishing
+Franco Israel,GK,R,26,URU,6,true,false,false,reflexes,penalty-saving
+Mihai Popa,GK,R,25,ROU,8,false,false,false,reflexes,penalty-saving
+Alberto Paleari,GK,R,34,ITA,4,false,false,false,positioning,reflexes

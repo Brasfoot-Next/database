@@ -1,0 +1,13 @@
+name = "Mamelodi Sundowns"
+country = "RSA"
+level = 15
+reputation = 3
+colors = ["#ffff42", "#003300"]
+
+[stadium]
+name = "Loftus Versfeld"
+capacity = 52000
+
+[coach]
+name = "Steve Komphela"
+country = "RSA"

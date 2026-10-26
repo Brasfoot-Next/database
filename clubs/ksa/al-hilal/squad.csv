@@ -1,0 +1,37 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Theo Hernandez,FB,L,28,FRA,6,true,false,false,pace,stamina
+João Cancelo,FB,R,32,POR,7,false,false,false,stamina,crossing
+Sergej Milinkovic Savic,MF,R,31,SRB,1,true,false,false,stamina,heading
+Rúben Neves,MF,R,29,POR,6,true,false,false,passing,playmaking
+Salem Al Dawsari,FW,L,35,KSA,6,false,false,false,stamina,pace
+Malcom,FW,L,29,BRA,7,false,false,false,stamina,pace
+Renan Lodi,FB,L,28,BRA,2,true,false,false,crossing,stamina
+Darwin Nunez,FW,R,27,URU,6,true,false,false,pace,stamina
+Mohammed Kanno,MF,L,31,KSA,6,true,false,false,stamina,pace
+Nasser Al Dawsari,MF,L,27,KSA,7,true,false,false,crossing,passing
+Kalidou Koulibaly,CB,R,35,SEN,7,true,false,false,pace,tackling
+Marcos Leonardo,FW,R,23,BRA,9,true,false,false,finishing,heading
+Ali Lajami,CB,R,30,KSA,5,false,false,false,stamina,pace
+Muteb Al Harbi,FB,L,26,KSA,6,false,false,false,pace,stamina
+Hamad Al Yami,FB,R,27,KSA,6,false,false,false,pace,stamina
+Hassan Tombakti,CB,L,27,KSA,7,false,false,false,pace,tackling
+Kaio César,FW,L,22,BRA,2,false,false,false,pace,dribbling
+Abdulelah Al Malki,MF,R,31,KSA,6,false,false,false,passing,dribbling
+Abdullah Al Hamdan,FW,R,26,KSA,6,false,false,false,pace,playmaking
+Suhayb Al Zaid,MF,R,22,KSA,8,false,false,false,stamina,pace
+Abdullah Al Zaid,FW,L,22,KSA,7,false,false,false,pace,stamina
+Abdulaziz Hadhood,MF,R,21,KSA,8,false,false,false,pace,heading
+Mohammed Al Qahtani,FW,L,24,KSA,5,false,false,false,pace,dribbling
+Yusuf Akcicek,CB,L,20,TUR,6,true,false,false,stamina,marking
+Ali Al Bulayhi,CB,L,36,KSA,6,false,false,false,stamina,heading
+Ibrahim Al Hamlan,MF,R,21,KSA,7,false,false,false,pace,dribbling
+Turki Al Ghumail,FW,R,21,KSA,9,false,false,false,pace,finishing
+Abdulkarim Darisi,FW,R,23,KSA,5,false,false,false,pace,dribbling
+Abdullah Radif,FW,R,23,KSA,6,false,false,false,pace,stamina
+Saad Al Mutairi,FB,L,19,KSA,7,false,false,false,pace,dribbling
+Mohammed Muhaysh,FB,R,20,KSA,5,false,false,false,pace,stamina
+Saleh Barnawi,CB,R,19,KSA,6,false,false,false,pace,tackling
+Yassine Bounou,GK,L,35,MAR,7,true,false,false,reflexes,positioning
+Mohammed Al Rubaie,GK,R,29,KSA,8,false,false,false,penalty-saving,reflexes
+Ahmed Abo Rasain,GK,R,22,KSA,5,false,false,false,penalty-saving,positioning
+Mathieu Patouillet,GK,R,22,FRA,5,false,false,false,reflexes,penalty-saving

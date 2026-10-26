@@ -1,0 +1,13 @@
+name = "FC Porto"
+country = "POR"
+level = 23
+reputation = 5
+colors = ["#F0F0F0", "#204060"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Borja Sainz"
+country = "BRA"

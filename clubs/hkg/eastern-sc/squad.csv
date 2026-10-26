@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Hung-Fai Yapp,GK,L,32,HKG,2,true,false,false,penalty-saving,reflexes
+Fu-Yuen Liu,GK,R,31,HKG,5,false,false,false,penalty-saving,reflexes
+Hoi-Man Chung,GK,R,19,HKG,2,false,false,false,rushing-out,penalty-saving
+Tsz-Ho Wong,FB,L,28,HKG,4,true,false,false,marking,finishing
+Tze-Nam Yue,FB,R,24,HKG,6,true,false,false,crossing,pace
+Prabhat Gurung,FB,R,18,NEP,4,false,false,false,marking,finishing
+Kwun-Chung Leung,CB,R,30,HKG,3,true,false,false,marking,pace
+Tamirlan Kozubaev,CB,L,28,KGZ,6,true,false,false,tackling,heading
+Tommy Cen,CB,L,24,HKG,2,false,false,false,tackling,heading
+Chun-Pong Leung,MF,R,35,HKG,8,true,false,false,tackling,marking
+Timmy Ma,MF,R,18,HKG,8,true,false,false,finishing,passing
+Chun-Ming Wu,MF,L,24,HKG,6,true,false,false,tackling,heading
+Marcos Gondra,MF,R,35,ESP,8,true,false,false,finishing,passing
+Wai-Chun Wong,MF,R,18,HKG,5,false,false,false,marking,passing
+Cheuk-Hin Lee,MF,L,19,HKG,6,false,false,false,finishing,passing
+Wai-Kwan Chu,MF,R,23,HKG,6,false,false,false,playmaking,pace
+Ho-Chun Wong,FW,L,20,HKG,6,true,false,false,crossing,pace
+Chun-Ting Lee,FW,L,17,HKG,2,true,false,false,heading,pace
+Ming-Him Sun,FW,R,22,HKG,3,false,false,false,finishing,heading
+Víctor Bertomeu,FW,L,29,ESP,4,false,false,false,heading,pace

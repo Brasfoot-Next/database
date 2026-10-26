@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Guarrotxena,FW,R,33,ESP,5,false,false,false,dribbling,stamina
+Timor,MF,L,36,ESP,6,false,false,false,stamina,playmaking
+Borja Herrera,MF,L,33,ESP,7,false,false,false,playmaking,dribbling
+Dejan Drazic,FW,L,30,SRB,4,false,false,false,stamina,pace
+Brison Fernandes,FW,L,25,IND,5,false,false,false,pace,playmaking
+Udanta Singh,FB,R,30,IND,6,true,false,false,pace,stamina
+Boris Singh,FW,R,26,IND,8,true,false,false,passing,pace
+Mohammed Yasir,FW,L,28,IND,4,true,false,false,pace,stamina
+Javi Siverio,FW,R,28,ESP,5,false,false,false,finishing,heading
+Sahil Tavora,MF,L,30,IND,6,true,false,false,pace,stamina
+Abdul Rabeeh,FW,R,25,IND,4,false,false,false,pace,dribbling
+Seriton Fernandes,FB,R,33,IND,5,false,false,false,stamina,pace
+Pol Moreno,CB,R,32,ESP,7,false,false,false,tackling,heading
+Ayush Chhetri,MF,R,23,IND,3,true,false,false,stamina,passing
+Muhammed Nemil,MF,R,24,IND,5,true,false,false,pace,stamina
+Sandesh Jhingan,CB,R,33,IND,6,true,false,false,stamina,tackling
+Nim Dorjee Tamang,CB,R,30,IND,7,true,false,false,stamina,tackling
+Aakash Sangwan,FB,L,31,IND,3,true,false,false,marking,stamina
+Harsh Patre,MF,R,23,IND,5,true,false,false,stamina,tackling
+Sanatomba Singh,FB,L,20,IND,6,false,false,false,pace,stamina
+Lalthangliana Lalvenkima,FW,R,22,IND,3,false,false,false,pace,dribbling
+Prachit Gaonkar,MF,R,20,IND,5,false,false,false,pace,passing
+Ronney Willson,CB,L,23,IND,6,false,false,false,pace,marking
+Jovial Dias,FW,R,23,IND,1,false,false,false,pace,finishing
+Hrithik Tiwari,GK,R,24,IND,5,true,false,false,rushing-out,reflexes
+Bob Jackson,GK,R,21,IND,6,false,false,false,reflexes,penalty-saving
+Lara Sharma,GK,R,26,IND,7,false,false,false,reflexes,positioning

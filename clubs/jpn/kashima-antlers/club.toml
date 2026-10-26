@@ -1,0 +1,13 @@
+name = "Kashima Antlers"
+country = "JPN"
+level = 14
+reputation = 3
+colors = ["#B02030", "#C0B0B0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Ikuma Ogawa"
+country = "BRA"

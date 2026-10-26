@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rezo Lomidze,GK,R,21,GEO,9,true,false,false,rushing-out,penalty-saving
+Oto Goshadze,GK,L,24,GEO,6,false,false,false,penalty-saving,reflexes
+Soso Kopaliani,GK,R,16,GEO,9,false,false,false,rushing-out,penalty-saving
+Giorgi Gabadze,FB,R,27,GEO,7,true,false,false,finishing,pace
+Giorgi Kveladze,FB,L,20,GEO,8,true,false,false,finishing,passing
+Zura Zosiashvili,FB,R,18,GEO,2,false,false,false,marking,finishing
+Rati Mchedlishvili,FB,L,20,GEO,1,false,false,false,marking,passing
+Andronikashvili,CB,R,23,GEO,9,true,false,false,heading,stamina
+Beka Buighlishvili,CB,L,21,GEO,8,false,false,false,heading,stamina
+Dachi Popkhadze,CB,R,38,GEO,3,false,false,false,tackling,stamina
+Beka Kharaishvili,CB,L,20,GEO,1,true,false,false,tackling,heading
+Chiabrishvili,MF,L,20,GEO,8,true,false,false,passing,finishing
+Beka Dartsmelia,MF,L,22,GEO,9,true,false,false,tackling,marking
+Givi Mukbaniani,MF,R,20,GEO,1,true,false,false,passing,finishing
+Giorgi Diasamidze,MF,L,30,GEO,7,false,false,false,playmaking,passing
+Tornike Dzebniauri,MF,R,22,GEO,2,true,false,false,tackling,pace
+Luka Kekelidze,MF,R,19,GEO,9,false,false,false,marking,finishing
+Vano Shermadini,MF,L,18,GEO,3,false,false,false,tackling,marking
+Giorgi Iakobidze,FW,R,21,GEO,6,false,false,false,finishing,pace
+Shota Shekiladze,FW,L,22,GEO,8,true,false,false,finishing,pace
+Giorgi Omarashvili,FW,R,20,GEO,8,true,false,false,heading,pace
+Tornike Kurtanidze,FW,L,21,GEO,3,false,false,false,crossing,pace

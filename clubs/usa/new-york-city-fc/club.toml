@@ -1,0 +1,13 @@
+name = "New York City FC"
+country = "USA"
+level = 13
+reputation = 3
+colors = ["#000020", "#90C0F0"]
+
+[stadium]
+name = "Yankee Stadium"
+capacity = 30321
+
+[coach]
+name = "Mitja Moralez"
+country = "BRA"

@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ari Einarsson,GK,R,27,ISL,3,true,false,false,reflexes,positioning
+Bragason,GK,R,22,ISL,7,false,false,false,positioning,penalty-saving
+Halldórsson,GK,L,18,ISL,7,false,false,false,penalty-saving,reflexes
+Davíd Ingvarsson,FB,L,23,ISL,4,true,false,false,marking,passing
+Örn Arnarson,FB,R,26,ISL,6,false,false,false,marking,finishing
+Thórhallsson,FB,R,22,ISL,4,true,false,false,finishing,pace
+Damir Muminovic,CB,L,32,ISL,3,true,false,false,tackling,stamina
+Margeirsson,CB,R,28,ISL,5,true,false,false,tackling,stamina
+Helgason,CB,R,32,ISL,7,false,false,false,heading,stamina
+Mikkel Qvist,CB,L,29,DEN,5,false,false,false,tackling,stamina
+Einarsson,MF,R,25,ISL,1,true,false,false,tackling,finishing
+Gísli Eyjólfsson,MF,L,28,ISL,10,true,false,false,marking,finishing
+Oliver Sigurjónsson,MF,L,27,ISL,10,true,false,false,tackling,marking
+Steindórsson,MF,L,32,ISL,2,true,false,false,finishing,passing
+Gudbjargarson,MF,R,21,ISL,1,false,false,false,passing,finishing
+Camilo Pérez,MF,R,23,VEN,4,false,false,false,playmaking,passing
+Rafn Yeoman,MF,L,30,ISL,2,false,false,false,marking,finishing
+Gunnlaugsson,FW,R,27,ISL,2,true,false,false,dribbling,finishing
+Svanthórsson,FW,L,22,ISL,4,true,false,false,finishing,pace
+Omar Sowe,FW,R,21,GAM,8,false,false,false,pace,finishing
+Árnason,FW,L,27,ISL,7,false,false,false,pace,finishing

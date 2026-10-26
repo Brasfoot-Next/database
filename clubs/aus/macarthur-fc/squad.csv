@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Anthony Caceres,MF,R,33,AUS,5,true,false,false,stamina,playmaking
+Luke Brattan,MF,L,36,AUS,6,true,false,false,stamina,passing
+Christopher Ikonomidis,FW,R,31,AUS,8,false,false,false,pace,dribbling
+Callum Talbot,FB,L,25,AUS,4,true,false,false,stamina,pace
+Liam Rose,MF,R,29,AUS,5,true,false,false,stamina,pace
+Ji Dong Won,FW,R,35,KOR,6,false,false,false,heading,finishing
+Walter Scott,FW,L,26,AUS,9,false,false,false,stamina,pace
+Bernardo Oliveira,FW,L,22,AUS,5,false,false,false,pace,dribbling
+Š. Gržan,FB,R,32,CRO,6,true,false,false,stamina,pace
+Harrison Sawyer,FW,R,29,AUS,6,false,false,false,stamina,pace
+Kristian Popovic,MF,R,25,AUS,6,false,false,false,pace,stamina
+Damien Da Silva,CB,R,38,FRA,7,true,false,false,heading,marking
+Harry Politidis,FW,L,24,AUS,7,true,false,false,pace,stamina
+Rafael Duran,FW,R,29,MEX,4,true,false,false,pace,finishing
+Frans Deli,MF,R,21,AUS,5,false,false,false,stamina,pace
+Oliver Randazzo,MF,L,20,AUS,6,true,false,false,pace,playmaking
+Tomislav Uskok,CB,R,35,AUS,7,true,false,false,stamina,heading
+Dean Bosnjak,FW,R,19,AUS,4,false,false,false,pace,stamina
+Joshua Damevski,CB,R,20,AUS,5,false,false,false,pace,stamina
+Matthew Jurman,CB,L,36,AUS,6,false,false,false,stamina,marking
+Filip Kurto,GK,R,35,POL,5,false,false,false,reflexes,penalty-saving
+Alex Robinson,GK,R,21,AUS,6,true,false,false,reflexes,penalty-saving

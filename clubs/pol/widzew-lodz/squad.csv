@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Bartłomiej Drągowski,GK,R,29,POL,4,true,false,false,reflexes,penalty-saving
+Veljko Ilić,GK,R,23,SRB,6,false,false,false,rushing-out,positioning
+Przemysław Wiśniewski,CB,R,28,POL,6,true,false,false,pace,stamina
+Steve Kapuadi,CB,R,28,POL,7,true,false,false,heading,stamina
+Stelios Andreou,CB,R,24,CYP,4,false,false,false,stamina,pace
+Ricardo Visus,CB,L,25,ESP,6,false,false,false,marking,tackling
+Mateusz Żyro,CB,R,27,POL,6,false,false,false,stamina,pace
+Christopher Cheng,FB,L,24,NOR,7,true,false,false,pace,stamina
+Mario García,FB,L,22,ESP,4,false,false,false,pace,marking
+Marcel Krajewski,FB,R,21,POL,6,true,false,false,pace,dribbling
+Carlos Isaac,FB,R,28,ESP,6,false,false,false,pace,stamina
+Juljan Shehu,MF,R,28,ALB,7,true,false,false,stamina,passing
+Lindon Selahi,MF,R,27,ALB,5,true,false,false,stamina,tackling
+Lukas Lerager,MF,R,33,DEN,5,false,false,false,stamina,marking
+Szymon Czyż,MF,R,25,POL,6,false,false,false,pace,dribbling
+Kuba Nawrocki,MF,R,19,POL,7,false,false,false,dribbling,pace
+Emil Kornvig,MF,R,26,DEN,9,true,false,false,stamina,playmaking
+Fran Álvarez,MF,L,28,ESP,5,true,false,false,stamina,passing
+Tonio Teklic,MF,L,26,CRO,6,false,false,false,pace,dribbling
+Mariusz Fornalczyk,FW,L,23,POL,7,false,false,false,pace,stamina
+Kamil Cybulski,FW,L,20,POL,6,false,false,false,pace,stamina
+Samuel Akere,FW,L,22,NGA,7,false,false,false,pace,dribbling
+Ángel Baena,FW,R,25,ESP,2,false,false,false,pace,stamina
+Antoni Klukowski,FW,L,19,CAN,5,false,false,false,heading,finishing
+Karol Świderski,FW,L,29,POL,6,true,false,false,finishing,heading
+Sebastian Bergier,FW,R,26,POL,6,true,false,false,pace,finishing
+Andi Zeqiri,FW,L,27,SUI,7,false,false,false,stamina,finishing
+Pape Meïssa Ba,FW,R,29,SEN,5,false,false,false,pace,heading

@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Christian Kuhlwetter,MF,R,30,GER,6,true,false,false,stamina,dribbling
+Andreas Geipl,MF,L,34,GER,7,false,false,false,stamina,marking
+Adrian Fein,MF,R,27,GER,10,true,false,false,playmaking,passing
+Benedikt Saller,FB,L,33,GER,5,false,false,false,pace,stamina
+Oscar Schonfelder,FB,L,25,GER,6,true,false,false,pace,dribbling
+Sebastian Stolze,FW,L,31,GER,7,false,false,false,stamina,pace
+Phil Beckhoff,MF,R,26,GER,1,true,false,false,pace,finishing
+Felix Strauss,CB,R,25,AUT,5,true,false,false,stamina,pace
+Philipp Muller,MF,R,22,GER,6,false,false,false,stamina,passing
+Eric Hottmann,FW,R,26,GER,7,true,false,false,pace,heading
+Lucas Hermes,MF,L,26,GER,4,true,false,false,pace,finishing
+Davis Asante,FW,R,23,GER,5,false,false,false,pace,dribbling
+Noel Eichinger,FW,R,25,GER,6,false,false,false,stamina,finishing
+Florian Dietz,FW,R,28,GER,7,true,false,false,pace,finishing
+Dejan Galjen,FW,R,24,GER,4,false,false,false,pace,finishing
+Nicolas Bernd Oliveira,FW,R,22,GER,6,false,false,false,pace,stamina
+Benedikt Bauer,FB,L,23,GER,7,true,false,false,pace,stamina
+Robin Ziegele,CB,R,29,GER,3,true,false,false,pace,stamina
+Dustin Forkel,FW,L,21,GER,5,false,false,false,pace,finishing
+Fabian Ziegler,FW,R,25,GER,6,false,false,false,pace,finishing
+Leo Matzler,CB,R,24,AUT,2,false,false,false,tackling,heading
+Leopold Wurm,CB,L,20,GER,5,false,false,false,stamina,marking
+Nick Seidel,CB,L,21,GER,6,false,false,false,tackling,pace
+Ben Kieffer,CB,R,18,GER,7,false,false,false,pace,stamina
+Felix Gebhardt,GK,R,24,GER,3,false,false,false,reflexes,penalty-saving
+Julian Pollersbeck,GK,R,32,GER,5,false,false,false,positioning,penalty-saving
+Alexander Weidinger,GK,R,29,GER,7,true,false,false,positioning,penalty-saving

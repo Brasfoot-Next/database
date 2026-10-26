@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Patrick Zubczuk,GK,R,31,PER,2,false,false,false,reflexes,rushing-out
+Juniors Barbieri,GK,R,30,PER,5,true,false,false,penalty-saving,reflexes
+Mallki Marmanillo,GK,L,22,PER,6,false,false,false,positioning,reflexes
+Agustín Gómez,CB,R,29,ARG,7,false,false,false,marking,tackling
+Jefferson Portales,CB,R,28,PER,2,true,false,false,stamina,heading
+Xavi Moreno,CB,R,22,PER,5,true,false,false,marking,stamina
+Aldair Salazar,CB,R,31,PER,6,false,false,false,stamina,heading
+Anthony Rosell,FB,L,31,PER,7,true,false,false,dribbling,pace
+Erick Canales,FB,L,25,PER,7,true,false,false,stamina,pace
+Samir Villacorta,FB,L,21,PER,4,false,false,false,tackling,pace
+Claudio Torrejón,MF,R,33,PER,3,true,false,false,passing,finishing
+Carlos Ramos,MF,L,27,VEN,5,true,false,false,stamina,tackling
+Adrián Ascues,MF,R,23,PER,6,true,false,false,stamina,tackling
+Agustín González,MF,L,29,URU,7,true,false,false,stamina,pace
+Joao Mendoza,MF,R,19,PER,4,false,false,false,dribbling,passing
+Kevin Sandoval,FW,R,29,PER,5,false,false,false,finishing,dribbling
+Beto da Silva,FW,R,29,PER,6,false,false,false,dribbling,pace
+Lucas Ríos,FW,R,24,ARG,7,false,false,false,finishing,heading
+James Morales,FW,R,26,PER,4,true,false,false,heading,pace
+Francisco Arancibia,FW,R,29,CHI,5,false,false,false,pace,dribbling
+Sharif Ramírez,FW,R,23,PER,2,false,false,false,finishing,stamina
+Christopher Olivares,FW,R,27,PER,5,true,false,false,pace,stamina
+Facundo Castelli,FW,R,31,ARG,6,false,false,false,dribbling,pace
+Bryan Yupanqui,FW,L,19,PER,7,false,false,false,finishing,stamina

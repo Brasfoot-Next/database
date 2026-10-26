@@ -1,0 +1,13 @@
+name = "Locomotive Tbilisi"
+country = "GEO"
+level = 15
+reputation = 3
+colors = ["#ff3333", "#ffffff"]
+
+[stadium]
+name = "Lokomotivi"
+capacity = 27223
+
+[coach]
+name = "Van Loen"
+country = "NED"

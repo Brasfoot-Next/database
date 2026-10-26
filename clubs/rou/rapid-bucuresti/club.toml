@@ -1,0 +1,13 @@
+name = "Rapid Bucuresti"
+country = "ROU"
+level = 11
+reputation = 2
+colors = ["#F0F0F0", "#A03000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Antoine Baroan"
+country = "BRA"

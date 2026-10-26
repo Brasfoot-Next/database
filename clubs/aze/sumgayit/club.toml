@@ -1,0 +1,13 @@
+name = "Sumgayit"
+country = "AZE"
+level = 14
+reputation = 2
+colors = ["#000099", "#ffffff"]
+
+[stadium]
+name = "Kapital Arena"
+capacity = 1500
+
+[coach]
+name = "Aleksey Baga"
+country = "BLR"

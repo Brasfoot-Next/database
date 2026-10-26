@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Safet Imamovic,GK,L,18,BIH,2,false,false,false,rushing-out,positioning
+Šacir Cehajic,GK,R,20,BIH,8,false,false,false,reflexes,penalty-saving
+Nadir Nuhanovic,FB,L,17,BIH,4,false,false,false,crossing,pace
+Husein Djukic,FB,R,18,BIH,4,false,false,false,marking,crossing
+Mehmed Cengic,FB,L,18,BIH,9,false,false,false,crossing,finishing
+Šefik Ferhatović,CB,R,16,BIH,5,false,false,false,stamina,tackling
+Nedim Mandić,CB,L,18,BIH,4,false,false,false,tackling,heading
+Hamza Demirović,CB,R,18,BIH,4,false,false,false,heading,marking
+Said Bogdanović,MF,L,17,BIH,1,false,false,false,marking,passing
+Ahmo Tadić,MF,R,17,BIH,10,false,false,false,tackling,pace
+Haris Smajic,MF,L,18,BIH,4,false,false,false,passing,finishing
+Nurija Brunčević,MF,R,17,BIH,4,false,false,false,playmaking,dribbling
+Abdulah Sabic,FW,L,17,BIH,5,false,false,false,finishing,pace
+Galib Zukic,FW,R,18,BIH,1,false,false,false,dribbling,finishing
+Almir Demirović,FW,L,17,BIH,5,false,false,false,finishing,passing

@@ -1,0 +1,13 @@
+name = "Wrexham"
+country = "ENG"
+level = 14
+reputation = 3
+colors = ["#F0F0F0", "#007040"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Elliot Brunt"
+country = "BRA"

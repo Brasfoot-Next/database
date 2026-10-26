@@ -1,0 +1,13 @@
+name = "Club Nacional"
+country = "URU"
+level = 13
+reputation = 3
+colors = ["#001050", "#F0F0F0"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Agustín Núñez"
+country = "BRA"

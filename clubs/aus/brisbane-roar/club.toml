@@ -1,0 +1,13 @@
+name = "Brisbane Roar"
+country = "AUS"
+level = 7
+reputation = 1
+colors = ["#D04000", "#F0F0F0"]
+
+[stadium]
+name = "Suncorp Stadium"
+capacity = 52500
+
+[coach]
+name = "Marcus Valkanis"
+country = "BRA"

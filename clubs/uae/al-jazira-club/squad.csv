@@ -1,0 +1,36 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ersin Destanoğlu,GK,R,25,TUR,6,true,false,false,positioning,rushing-out
+Stojan Lekovic,GK,R,25,SRB,7,false,false,false,penalty-saving,reflexes
+Ali Khaseif,GK,R,20,UAE,9,false,false,false,rushing-out,reflexes
+Abdulla Al-Hammadi,GK,R,24,UAE,5,false,false,false,reflexes,rushing-out
+Willyan Rocha,CB,R,31,BRA,6,true,false,false,heading,stamina
+Ravil Tagir,CB,R,23,TUR,7,false,false,false,marking,heading
+Khalifa Al-Hammadi,CB,L,27,UAE,5,true,false,false,stamina,heading
+Karim Rekik,CB,L,31,NED,6,false,false,false,stamina,heading
+Johan Bångsbo,CB,L,23,SWE,6,false,false,false,passing,marking
+Mohamed Omar Al-Attas,CB,L,28,UAE,7,false,false,false,marking,passing
+Yousif Al-Marzooqi,CB,L,21,UAE,6,false,false,false,tackling,stamina
+Mohammad Yousuf Atiq,CB,R,25,UAE,7,false,false,false,heading,stamina
+Rúben Amaral,FB,L,24,UAE,2,true,false,false,tackling,stamina
+Richard Akonnor,FB,R,22,UAE,6,false,false,false,tackling,marking
+Ilyass Lagrimi,FB,L,22,MAR,6,false,false,false,passing,crossing
+Hamdan Abdulrahman,FB,R,23,UAE,7,false,false,false,marking,crossing
+Igor Serrote,FB,L,21,BRA,4,false,false,false,passing,crossing
+Marcus Meloni,FB,L,26,UAE,6,true,false,false,pace,crossing
+Mohammed Rabii,FB,R,24,UAE,6,false,false,false,tackling,marking
+Mamadou Coulibaly,MF,R,23,UAE,7,true,false,false,dribbling,playmaking
+Ahmed Mahmoud,MF,R,25,UAE,4,true,false,false,pace,dribbling
+Abdalla Ramadan,MF,R,28,UAE,6,true,false,false,playmaking,passing
+Momodou Jatta,MF,R,20,UAE,6,false,false,false,passing,tackling
+Nikola Vukic,MF,R,22,SRB,7,false,false,false,passing,tackling
+Jay-Dee Geusens,MF,R,24,BEL,4,true,false,false,pace,dribbling
+Mohamed Alwafi,MF,R,23,UAE,6,false,false,false,dribbling,passing
+Milson,FW,R,26,ANG,6,true,false,false,crossing,pace
+Ali Al-Memari,FW,R,21,UAE,7,false,false,false,finishing,heading
+Oumar Traoré,FW,R,23,UAE,5,false,false,false,heading,stamina
+Koffi Koblan,FW,L,22,UAE,6,false,false,false,finishing,pace
+Simon Banza,FW,R,29,UAE,9,true,false,false,heading,pace
+Vinicius Mello,FW,L,23,BRA,5,false,false,false,pace,dribbling
+Bruno,FW,R,25,UAE,6,false,false,false,pace,crossing
+Mamadou Ndiaye,FW,L,19,SEN,7,false,false,false,finishing,heading
+Yasser Zahli,FW,R,22,MAR,10,false,false,false,crossing,pace

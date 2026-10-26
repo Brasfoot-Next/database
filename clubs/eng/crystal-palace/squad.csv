@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Daniel Munoz,FB,R,30,COL,9,true,false,false,stamina,tackling
+Jefferson Lerma,MF,R,31,COL,5,true,false,false,stamina,heading
+Daichi Kamada,MF,R,30,JPN,6,true,false,false,passing,playmaking
+Christantus Uche,FW,R,23,NGA,7,false,false,false,stamina,heading
+Adam Wharton,MF,L,22,ENG,10,true,false,false,playmaking,passing
+Jean Philippe Mateta,FW,R,29,FRA,5,true,false,false,finishing,dribbling
+Will Hughes,MF,L,31,ENG,6,false,false,false,passing,playmaking
+Justin Devenny,FW,L,22,NIR,7,false,false,false,passing,playmaking
+Ismaila Sarr,FW,R,28,SEN,8,true,false,false,pace,playmaking
+Borna Sosa,FB,L,28,CRO,4,false,false,false,crossing,passing
+Cheick Doucoure,MF,R,26,MLI,6,true,false,false,passing,tackling
+Yeremy Pino,FW,R,23,ESP,8,false,false,false,dribbling,passing
+Tyrick Mitchell,FB,L,27,ENG,4,true,false,false,stamina,tackling
+Marc Guehi,CB,L,26,ENG,6,true,false,false,tackling,marking
+Maxence Lacroix,CB,R,26,FRA,6,true,false,false,pace,tackling
+Nathaniel Clyne,FB,R,35,ENG,8,false,false,false,crossing,tackling
+Naouirou Ahamada,MF,R,24,FRA,4,false,false,false,playmaking,dribbling
+Romain Esse,FW,L,21,ENG,6,false,false,false,pace,dribbling
+Eddie Nketiah,FW,R,27,ENG,6,false,false,false,pace,dribbling
+Chris Richards,CB,R,26,USA,7,false,false,false,tackling,marking
+Caleb Kporha,FB,R,20,ENG,6,false,false,false,pace,crossing
+Chadi Riad,CB,L,23,MAR,8,false,false,false,tackling,passing
+Jaydee Canvot,CB,R,20,FRA,5,false,false,false,pace,tackling
+Dean Henderson,GK,R,29,ENG,6,true,false,false,reflexes,penalty-saving
+Walter Benitez,GK,R,33,ARG,6,false,false,false,reflexes,penalty-saving
+Remi Matthews,GK,R,32,ENG,8,false,false,false,penalty-saving,rushing-out

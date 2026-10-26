@@ -1,0 +1,33 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Adam Hrdina,GK,R,22,SVK,7,false,false,false,reflexes,positioning
+Colin Andrew,GK,L,22,CZE,3,false,false,false,reflexes,rushing-out
+Dominik Svacek,GK,L,29,CZE,5,true,false,false,penalty-saving,reflexes
+Michal Hlozanek,GK,R,20,CZE,6,false,false,false,reflexes,rushing-out
+Ondrej Prodelal,GK,L,20,CZE,7,false,false,false,positioning,penalty-saving
+Eric Hunal,CB,R,21,CZE,4,true,false,false,tackling,marking
+Kaká,CB,R,21,BRA,5,false,false,false,tackling,pace
+Jakub Klima,CB,R,27,CZE,6,false,false,false,stamina,heading
+Alex Markovic,CB,R,24,HUN,7,false,false,false,tackling,stamina
+Filip Vedral,CB,L,29,CZE,4,false,false,false,marking,stamina
+Tomas Brecka,CB,R,32,CZE,5,true,false,false,heading,stamina
+Amadou Dante,FB,L,25,MLI,6,true,false,false,pace,stamina
+Jaromir Zmrhal,FB,L,32,CZE,7,false,false,false,marking,pace
+Denis Granecny,FB,R,27,CZE,4,true,false,false,crossing,pace
+Petr Mares,FB,R,35,CZE,5,false,false,false,stamina,pace
+Jan Juroska,FB,R,33,CZE,6,false,false,false,passing,pace
+Patrik Cavos,MF,L,31,CZE,7,false,false,false,dribbling,pace
+Stepan Langer,MF,L,25,CZE,1,true,false,false,tackling,passing
+Martin Gjorgievski,MF,R,21,CZE,5,false,false,false,dribbling,pace
+Lukas Saal,MF,L,20,CZE,6,false,false,false,pace,dribbling
+Petr Sevcik,MF,R,32,CZE,5,true,false,false,passing,playmaking
+Jiri Texl,MF,R,33,CZE,6,false,false,false,stamina,passing
+Lukas Penxa,MF,L,22,CZE,7,true,false,false,pace,crossing
+Patrik Zitny,MF,R,27,CZE,3,true,false,false,dribbling,passing
+Jakub Janetzky,MF,R,29,CZE,5,false,false,false,dribbling,playmaking
+Bienvenue Kanakimana,FW,L,26,CZE,5,false,false,false,playmaking,finishing
+Daniel Vasulin,FW,L,28,CZE,6,true,false,false,finishing,dribbling
+Lucky Ezeh,FW,R,22,NGA,8,true,false,false,heading,pace
+Tadeas Vachousek,FW,R,22,CZE,4,false,false,false,crossing,pace
+Martin Rymarenko,FW,R,27,SVK,5,false,false,false,finishing,heading
+Oliver Velich,FW,R,25,CZE,5,false,false,false,dribbling,pace
+Rigino Cicilia,FW,R,31,CUW,6,false,false,false,pace,finishing

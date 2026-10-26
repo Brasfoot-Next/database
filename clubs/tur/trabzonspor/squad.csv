@@ -1,0 +1,25 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ozan Tufan,MF,R,31,TUR,7,true,false,false,pace,dribbling
+Okay Yokuslu,MF,L,32,TUR,5,false,false,false,stamina,heading
+Edin Visca,FW,R,36,BIH,6,false,false,false,stamina,pace
+Mustafa Eskihellac,FB,L,29,TUR,6,true,false,false,pace,stamina
+Anthony Nwakaeme,FW,L,37,NGA,7,false,false,false,dribbling,playmaking
+Oleksandr Zubkov,FW,L,30,UKR,5,false,false,false,pace,dribbling
+Wagner Pina,FB,R,23,CPV,6,true,false,false,stamina,pace
+Benjamin Bouchouari,MF,R,24,MAR,6,true,false,false,dribbling,passing
+Ernest Muci,FW,L,25,ALB,7,true,false,false,dribbling,pace
+Tim Jabol Folcarelli,MF,R,26,FRA,5,true,false,false,stamina,passing
+Danylo Sikan,FW,R,25,UKR,7,false,false,false,pace,heading
+Paul Onuachu,FW,L,32,NGA,10,false,false,false,heading,finishing
+Cihan Canak,MF,L,21,TUR,5,true,false,false,pace,dribbling
+Christ Ravynel Inao Oulai,MF,R,20,CIV,6,false,false,false,pace,dribbling
+Kazeem Olaigbe,FW,L,23,BEL,7,false,false,false,pace,stamina
+Stefan Savic,CB,R,35,MNE,5,false,false,false,heading,tackling
+Arseniy Batagov,CB,L,24,UKR,6,true,false,false,tackling,marking
+Salih Malkocoglu,MF,R,21,TUR,7,false,false,false,dribbling,pace
+Arif Bosluk,FB,L,23,TUR,8,false,false,false,pace,crossing
+Felipe Augusto,FW,L,22,BRA,5,true,false,false,pace,finishing
+Serdar Saatci,CB,R,23,TUR,6,false,false,false,tackling,marking
+Rayyan Baniya,CB,R,27,TUR,7,true,false,false,tackling,stamina
+Andre Onana,GK,R,30,CMR,5,true,false,false,reflexes,penalty-saving
+Onuralp Cevikkan,GK,R,20,TUR,6,false,false,false,reflexes,penalty-saving

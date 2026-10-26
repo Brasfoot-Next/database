@@ -1,0 +1,16 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Boris Kleyman,GK,L,18,ISR,5,true,false,false,rushing-out,penalty-saving
+Ohad Saydof,GK,R,16,ISR,4,true,false,false,penalty-saving,reflexes
+Shmuel Malul,FB,L,16,ISR,6,true,false,false,crossing,passing
+Shay Nahari,FB,R,18,ISR,2,true,false,false,marking,crossing
+Davi Keltjens,FB,L,17,ISR,9,true,false,false,crossing,pace
+Raz Barucian,CB,R,16,ISR,8,true,false,false,heading,marking
+Elazar Dasa,CB,L,18,ISR,3,true,false,false,stamina,tackling
+Zeev Haimovich,CB,R,19,ISR,7,true,false,false,tackling,heading
+Aviel Yosef Zargary,MF,L,16,ISR,9,true,false,false,passing,pace
+Omer Atzili,MF,R,18,ISR,10,true,false,false,playmaking,finishing
+Lidor Cohen,MF,L,18,ISR,2,true,false,false,marking,tackling
+Hanan Maman,MF,R,17,ISR,2,true,false,false,tackling,passing
+Tomer Suissa,FW,L,16,ISR,7,true,false,false,finishing,passing
+Gil Ben Shlush,FW,R,18,ISR,9,true,false,false,stamina,finishing
+Eden Azori,FW,L,20,ISR,2,true,false,false,finishing,pace

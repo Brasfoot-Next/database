@@ -1,0 +1,13 @@
+name = "Hammarby Fotboll"
+country = "SWE"
+level = 12
+reputation = 2
+colors = ["#F0C000", "#007040"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Hampus Hahn"
+country = "BRA"

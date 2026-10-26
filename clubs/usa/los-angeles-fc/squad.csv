@@ -1,0 +1,28 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Heung Min Son,FW,R,34,KOR,5,true,true,false,stamina,dribbling
+Denis Bouanga,FW,L,31,USA,6,true,false,false,pace,finishing
+Ryan Hollingshead,FB,L,35,USA,7,false,false,false,stamina,heading
+Frankie Amaya,MF,R,25,USA,2,true,false,false,stamina,pace
+Sergi Palencia,FB,R,30,ESP,6,true,false,false,stamina,pace
+Mark Delgado,MF,L,31,USA,7,true,false,false,stamina,passing
+Yaw Yeboah,FW,L,29,GHA,9,false,false,false,pace,stamina
+Timothy Tillman,MF,R,27,USA,5,true,false,false,passing,dribbling
+Jeremy Ebobisse,FW,L,29,CMR,6,false,false,false,stamina,pace
+Igor Jesus,MF,R,23,BRA,7,true,false,false,passing,pace
+Ryan Porteous,CB,R,27,SCO,5,true,false,false,stamina,heading
+Mathieu Choiniere,MF,R,27,CAN,6,false,false,false,stamina,tackling
+Odin Thiago Holm,MF,R,23,NOR,7,false,false,false,pace,passing
+Aaron Long,CB,L,33,USA,1,false,false,false,stamina,heading
+Ryan Raposo,FW,R,27,CAN,5,false,false,false,dribbling,crossing
+Adam Saldana,MF,R,24,USA,6,false,false,false,tackling,passing
+Artem Smolyakov,FB,L,23,UKR,7,true,false,false,tackling,pace
+Nkosi Tafari,CB,R,29,USA,2,true,false,false,stamina,marking
+Eddie Segura,CB,R,29,COL,5,false,false,false,stamina,passing
+David Martinez,FW,L,20,VEN,6,false,false,false,dribbling,finishing
+Nathan Ordaz,FW,L,22,USA,5,false,false,false,finishing,dribbling
+Adrian Wibowo,FW,R,20,USA,6,false,false,false,pace,dribbling
+Lorenzo Dellavalle,CB,R,22,ITA,7,false,false,false,tackling,heading
+Hugo Lloris,GK,L,39,FRA,8,true,false,false,penalty-saving,positioning
+Kenny Nielsen,CB,R,24,USA,5,false,false,false,pace,marking
+David Ochoa,GK,R,25,MEX,6,false,false,false,rushing-out,reflexes
+Thomas Hasal,GK,R,27,CAN,7,false,false,false,reflexes,penalty-saving

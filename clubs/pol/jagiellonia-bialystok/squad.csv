@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Álex Pozo,FW,R,27,ESP,7,false,false,false,stamina,dribbling
+Taras Romanczuk,MF,L,34,POL,3,false,false,false,stamina,marking
+Sergio Lozano,MF,R,27,ESP,5,true,false,false,playmaking,passing
+Jesús Imaz,MF,R,35,ESP,6,false,false,false,stamina,dribbling
+Bartlomiej Wdowik,FB,L,25,POL,7,true,false,false,stamina,crossing
+Louka Prip,FW,L,29,DEN,3,false,false,false,stamina,pace
+Leon Flach,MF,L,25,USA,5,true,false,false,pace,tackling
+Afimico Pululu,FW,L,27,COD,6,true,false,false,pace,stamina
+Andy Pelmard,CB,R,26,FRA,7,true,false,false,pace,stamina
+Norbert Wojtuszek,FB,R,24,POL,3,true,false,false,pace,stamina
+Álex Cantero,FW,L,26,ESP,7,false,false,false,pace,stamina
+Marcin Listkowski,MF,R,28,POL,4,false,false,false,pace,stamina
+Kamil Jozwiak,FW,L,28,POL,5,false,false,false,pace,stamina
+Dawid Drachal,MF,L,21,POL,6,true,false,false,pace,stamina
+Bernardo Vital,CB,R,25,POR,8,true,false,false,tackling,stamina
+Yuki Kobayashi,CB,L,26,JPN,5,false,false,false,pace,stamina
+Cezary Polak,FB,L,23,POL,6,false,false,false,pace,stamina
+Aziel Jackson,MF,R,24,USA,6,false,false,false,pace,dribbling
+Dusan Stojinovic,CB,R,26,SVN,10,false,false,false,stamina,tackling
+Dimitris Rallis,FW,R,21,GRE,5,false,false,false,stamina,finishing
+Oskar Pietuszewski,FW,L,18,POL,6,true,false,false,pace,dribbling
+Youssuf Sylla,FW,R,23,BEL,8,false,false,false,pace,finishing
+Bartosz Mazurek,MF,R,19,POL,1,true,false,false,pace,dribbling
+Slawomir Abramowicz,GK,L,22,POL,5,false,false,false,reflexes,positioning
+Milosz Piekutowski,GK,R,20,POL,5,false,false,false,penalty-saving,rushing-out
+Bartlomiej Zynel,GK,L,28,POL,6,true,false,false,reflexes,positioning

@@ -1,0 +1,13 @@
+name = "Bolton Wanderers"
+country = "ENG"
+level = 11
+reputation = 2
+colors = ["#203070", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Thierry Forrester"
+country = "BRA"

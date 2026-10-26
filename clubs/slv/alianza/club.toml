@@ -1,0 +1,13 @@
+name = "Alianza"
+country = "SLV"
+level = 13
+reputation = 3
+colors = ["#330066", "#ffffff"]
+
+[stadium]
+name = "Cuscatlán"
+capacity = 53407
+
+[coach]
+name = "Wilson Gutiérrez"
+country = "COL"

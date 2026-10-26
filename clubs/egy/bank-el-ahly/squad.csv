@@ -1,0 +1,32 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Abdelaziz El Balouti,GK,R,32,EGY,4,true,false,false,reflexes,positioning
+Ahmed Sobhi,GK,R,31,EGY,5,false,false,false,reflexes,penalty-saving
+Ahmed Tarek Soliman,GK,R,26,EGY,6,false,false,false,positioning,reflexes
+Mahmoud El Gazar,CB,R,28,EGY,7,true,false,false,tackling,marking
+Mohamed Nasr,CB,R,26,EGY,4,true,false,false,marking,tackling
+Cyril Dao,CB,L,20,BFA,5,false,false,false,marking,tackling
+Amir Medhat,CB,L,35,EGY,6,false,false,false,heading,tackling
+Ahmed Meteb,FB,L,29,EGY,3,true,false,false,passing,pace
+Alpha Boubacar Keita,FB,R,22,GUI,5,false,false,false,dribbling,pace
+Mostafa Dowidar,FB,R,27,EGY,6,true,false,false,tackling,stamina
+Hesham Salah,FB,R,29,EGY,5,false,false,false,marking,pace
+Shefo,FB,R,25,EGY,6,false,false,false,pace,crossing
+Ali Hamdi,MF,R,27,EGY,7,true,false,false,tackling,passing
+Mahmoud Emad,MF,R,28,EGY,3,true,false,false,dribbling,playmaking
+Mody Naser,MF,R,24,EGY,5,false,false,false,tackling,passing
+Bencharki,MF,R,25,EGY,6,true,false,false,pace,dribbling
+Mohamed Gamal,MF,R,26,EGY,7,true,false,false,stamina,tackling
+Rashad El Metwaly,MF,L,25,EGY,3,false,false,false,pace,dribbling
+Salah Abd Etouab Bouchama,MF,R,24,ALG,5,false,false,false,finishing,playmaking
+Ahmed Madbouli,MF,R,31,EGY,6,false,false,false,dribbling,playmaking
+Mostafa Tarek,MF,L,25,EGY,4,false,false,false,tackling,marking
+Yaw Annor,FW,R,28,EGY,5,true,false,false,dribbling,pace
+Mostafa Shalaby,FW,R,31,EGY,6,false,false,false,playmaking,finishing
+Hassan Ahmed,FW,L,23,EGY,1,false,false,false,heading,pace
+Oumar Yacine Doumbouya,FW,L,21,GUI,5,false,false,false,finishing,heading
+Youssry Wahid,FW,R,28,EGY,5,true,false,false,finishing,heading
+Sayed Abdallah,FW,R,26,EGY,6,false,false,false,dribbling,pace
+Mohamed Reda,FW,R,20,EGY,1,false,false,false,heading,stamina
+Osama Faisal,FW,R,25,EGY,5,false,false,false,finishing,stamina
+Ahmed Yasser Rayan,FW,R,28,EGY,6,false,false,false,pace,dribbling
+Oufa,FW,L,29,EGY,4,false,false,false,playmaking,finishing

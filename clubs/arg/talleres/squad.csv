@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Emanuel Reynoso,MF,L,30,ARG,6,true,false,false,playmaking,dribbling
+Ruben Botta,MF,L,36,ARG,7,false,false,false,pace,passing
+Matias Galarza,MF,R,24,ARG,2,true,false,false,passing,tackling
+Matias Catalan,CB,R,34,CHI,6,false,false,false,pace,marking
+Nahuel Bustos,FW,R,28,ARG,6,true,false,false,pace,stamina
+Juan Camilo Portilla,MF,R,27,COL,7,false,false,false,stamina,passing
+Joaquin Mosqueira,MF,R,22,ARG,4,true,false,false,stamina,passing
+Luis Sequeira,MF,R,23,ARG,7,false,false,false,playmaking,passing
+Gabriel Baez,FB,L,31,ARG,10,false,false,false,stamina,crossing
+Ulises Ortegoza,MF,L,29,ARG,5,true,false,false,passing,dribbling
+Mateo Caceres,MF,R,23,ARG,5,false,false,false,passing,stamina
+Juan Gabriel Rodriguez,CB,L,32,ARG,6,false,false,false,tackling,heading
+Federico Girotti,FW,R,27,ARG,7,false,false,false,heading,finishing
+Luis Miguel Angulo,FW,L,22,COL,2,false,false,false,dribbling,pace
+Augusto Schott,FB,R,26,ARG,5,true,false,false,pace,stamina
+Matias Gomez,MF,R,20,ARG,6,false,false,false,passing,pace
+Valentin Depietri,FW,R,25,ARG,7,false,false,false,pace,dribbling
+Rodrigo Guth,CB,R,25,BRA,4,true,false,false,pace,marking
+Miguel Navarro,FB,L,27,VEN,6,true,false,false,pace,stamina
+Jose Luis Palomino,CB,L,36,ARG,6,false,false,false,heading,tackling
+Tomas Olmos,FB,R,21,ARG,7,false,false,false,stamina,tackling
+Rick,FW,L,27,BRA,2,true,false,false,dribbling,finishing
+Santiago Fernandez,CB,R,21,ARG,5,true,false,false,tackling,stamina
+Ignacio Alastra,FW,R,18,ARG,6,false,false,false,pace,stamina
+Guido Herrera,GK,L,34,ARG,7,true,false,false,reflexes,penalty-saving
+Javier Burrai,GK,R,35,ECU,2,false,false,false,penalty-saving,positioning

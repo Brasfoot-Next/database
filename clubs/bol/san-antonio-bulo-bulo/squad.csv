@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Luca Giossa,GK,R,26,URU,6,true,false,false,penalty-saving,reflexes
+Lucas Galarza,GK,R,25,PAR,7,false,false,false,positioning,penalty-saving
+Leonardo Guzmán,GK,R,22,BOL,4,false,false,false,positioning,rushing-out
+Líder Yanarico,CB,R,26,BOL,5,true,false,false,heading,passing
+Huberth Sánchez,CB,R,28,COL,6,true,false,false,tackling,stamina
+César Romero,CB,R,24,BOL,7,false,false,false,marking,heading
+Pablo Vaca,CB,R,24,BOL,4,false,false,false,tackling,stamina
+Yonathan Cabral,CB,R,34,ARG,5,false,false,false,heading,passing
+Alejandro Polo,CB,R,22,BOL,6,false,false,false,marking,heading
+Jaime Villamíl,FB,L,33,BOL,7,true,false,false,stamina,pace
+Ronald Bustos,FB,R,22,BOL,6,true,false,false,pace,stamina
+Ramiro Ballivián,FB,L,34,BOL,8,false,false,false,stamina,crossing
+Cristhian Machado,MF,R,36,BOL,4,false,false,false,finishing,passing
+Kevin Merida,MF,L,19,BOL,5,false,false,false,stamina,pace
+Diego Mercado,MF,R,20,BOL,6,true,false,false,playmaking,passing
+Juan Magallanes,MF,R,23,BOL,10,true,false,false,passing,finishing
+Saulo Guerra,MF,L,33,BOL,4,true,false,false,stamina,dribbling
+Adalid Terrazas,MF,L,26,BOL,5,true,false,false,stamina,playmaking
+Hugo Cardoso,FW,R,27,BOL,6,true,false,false,finishing,pace
+Alexi Medina,FW,R,31,ARG,7,false,false,false,crossing,pace
+Rafael Menacho,FW,R,25,BOL,6,true,false,false,finishing,heading
+Marcelo De Lima,FW,R,21,BOL,7,false,false,false,pace,finishing
+José Briceño,FW,R,24,BOL,4,false,false,false,heading,pace
+Rodrigo Vargas,FW,L,31,BOL,5,false,false,false,stamina,pace
+Agustín Univaso,FW,R,25,URU,6,false,false,false,dribbling,finishing

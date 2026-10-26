@@ -1,0 +1,13 @@
+name = "Napoli"
+country = "ITA"
+level = 22
+reputation = 4
+colors = ["#00A0E0", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Alex Buongiorno"
+country = "BRA"

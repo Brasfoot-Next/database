@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Edvinas Gertmonas,GK,R,26,LTU,5,true,false,false,rushing-out,penalty-saving
+Tomislav Duka,GK,L,29,CRO,2,false,false,false,positioning,rushing-out
+Saulius Mikoliunas,FB,R,38,LTU,6,true,false,false,finishing,pace
+Joël Bopesu,FB,L,27,FRA,10,false,false,false,marking,pace
+Petar Mamic,FB,L,26,CRO,5,true,false,false,marking,finishing
+Mario Pavelic,FB,R,28,AUT,7,false,false,false,finishing,passing
+Ljubisavljevic,CB,L,25,SRB,9,true,false,false,marking,pace
+Ivan Tatomirovic,CB,R,33,SRB,4,true,false,false,heading,stamina
+Kashken,CB,L,22,KAZ,9,false,false,false,marking,pace
+Ovidijus Verbickas,MF,L,29,LTU,1,true,false,false,tackling,pace
+Mantas Kuklys,MF,R,35,LTU,10,true,false,false,tackling,finishing
+Matas Vareika,MF,L,22,LTU,10,false,false,false,playmaking,finishing
+Marko Milickovic,MF,R,24,MNE,6,false,false,false,passing,finishing
+Fabien Ourega,MF,L,29,FRA,5,true,false,false,playmaking,finishing
+Gustas Jarusevicius,MF,R,19,LTU,10,false,false,false,finishing,passing
+Nicolás Gorobsov,MF,R,32,ARG,1,true,false,false,tackling,marking
+Vilius Piliukaitis,MF,L,21,LTU,3,false,false,false,marking,finishing
+Francis Kyeremeh,FW,R,25,GHA,3,true,false,false,finishing,dribbling
+Josip Tadic,FW,R,34,CRO,8,true,false,false,finishing,dribbling
+Jakub Sylvestr,FW,L,33,SVK,9,false,false,false,finishing,dribbling
+Mathias Oyewusi,FW,R,23,NGA,8,false,false,false,finishing,dribbling
+Gaudentas Ralys,GK,R,21,LTU,4,false,false,false,reflexes,positioning
+Kipras Kazukolovas,CB,R,21,LTU,6,false,false,false,tackling,stamina

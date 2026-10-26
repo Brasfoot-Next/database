@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Alain Baroja,GK,R,36,VEN,2,true,false,false,rushing-out,positioning
+Santiago Paz,GK,R,22,BOL,5,false,false,false,penalty-saving,reflexes
+Enzo Rodriguez,GK,R,22,BOL,6,false,false,false,penalty-saving,reflexes
+Richet Gómez,CB,R,27,BOL,7,true,false,false,marking,passing
+Edisson Restrepo,CB,R,29,COL,3,true,false,false,pace,stamina
+Alex Rambal,CB,L,33,COL,5,false,false,false,passing,marking
+Nicolás Villarroel,CB,R,18,BOL,6,false,false,false,heading,marking
+Santiago Cuestas,CB,L,18,BOL,7,false,false,false,stamina,heading
+Carlitos Rodriguez,FB,R,21,BOL,3,true,false,false,marking,pace
+Damian Medina,FB,L,20,BOL,5,true,false,false,marking,pace
+José Herrera,MF,R,23,BOL,4,true,false,false,stamina,passing
+Alvaro Quiroga,MF,R,31,BOL,6,false,false,false,playmaking,finishing
+Juan Pablo Gomez,MF,R,33,BOL,7,true,false,false,playmaking,finishing
+Fernando Saucedo,MF,R,36,BOL,10,false,false,false,dribbling,passing
+Rai Lima,MF,R,26,BOL,4,false,false,false,finishing,passing
+Dario Torrico,MF,R,25,BOL,5,true,false,false,dribbling,passing
+Jesús Maraude,MF,R,18,BOL,6,true,false,false,passing,tackling
+Joel Amoroso,MF,L,38,ARG,7,false,false,false,finishing,passing
+Fernando Nava,FW,R,22,BOL,3,true,false,false,heading,stamina
+Javier Uzeda,FW,R,23,BOL,5,false,false,false,heading,pace
+Máximo Mamani,FW,L,21,BOL,5,false,false,false,finishing,pace
+Carlos Florenciañez,FW,R,32,PAR,6,false,false,false,finishing,dribbling
+Carmelo Algarañaz,FW,R,30,BOL,7,true,false,false,pace,dribbling
+Juan Godoy,FW,R,33,BOL,4,false,false,false,dribbling,playmaking
+Enrique Triverio,FW,R,37,ARG,5,false,false,false,dribbling,finishing

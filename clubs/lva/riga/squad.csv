@@ -1,0 +1,22 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Roberts Ozols,GK,R,26,LVA,8,true,false,false,positioning,rushing-out
+Nils Purins,GK,L,23,LVA,8,false,false,false,penalty-saving,reflexes
+Davis Oss,GK,R,27,LVA,6,false,false,false,positioning,rushing-out
+Ritvars Rugins,FB,L,32,LVA,10,false,false,false,crossing,marking
+Armands Petersons,FB,R,31,LVA,5,true,false,false,crossing,marking
+Antons Kurakins,FB,R,32,LVA,4,false,false,false,finishing,pace
+Ngonda Muzinga,FB,L,27,COD,10,true,false,false,marking,finishing
+Cernomordijs,CB,L,25,LVA,1,true,false,false,tackling,marking
+Baba Musah,CB,R,22,GHA,7,true,false,false,tackling,stamina
+Douglas Bergqvist,CB,L,29,SWE,5,false,false,false,tackling,marking
+Ngom,CB,R,22,SEN,10,false,false,false,tackling,stamina
+Wesley Natã,MF,L,27,BRA,9,true,false,false,passing,finishing
+Vladlen Yurchenko,MF,R,28,UKR,9,false,false,false,playmaking,passing
+Yuriy Vakulko,MF,L,24,UKR,7,true,false,false,marking,finishing
+Yuri Kendysh,MF,R,32,BLR,2,true,false,false,tackling,marking
+Thanos Petsos,MF,R,31,GRE,8,true,false,false,marking,finishing
+Hrvoje Babec,MF,R,22,CRO,4,false,false,false,marking,passing
+Vladimirs Kamess,FW,L,33,LVA,1,false,false,false,finishing,pace
+Gabriel Ramos,FW,R,26,BRA,5,true,false,false,heading,stamina
+Mikael Soisalo,FW,L,24,FIN,7,true,false,false,heading,pace
+Oleksandr Filippov,FW,R,29,UKR,2,false,false,false,dribbling,finishing

@@ -1,0 +1,13 @@
+name = "Botev Vratsa"
+country = "BUL"
+level = 10
+reputation = 2
+colors = ["#005020", "#FFFFFF"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Antoan Stoyanov"
+country = "BRA"

@@ -1,0 +1,29 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Eduard Atuesta,MF,R,29,COL,5,true,false,false,passing,stamina
+Luis Muriel,FW,R,35,COL,6,false,false,false,dribbling,passing
+Martin Ojeda,MF,L,27,ARG,7,true,false,false,pace,stamina
+Wilder Cartagena,MF,R,31,PER,3,false,false,false,stamina,pace
+Marco Pasalic,FW,L,25,CRO,5,true,false,false,dribbling,pace
+Adrián Marín,FB,L,29,ESP,6,false,false,false,pace,stamina
+Alex Freeman,FB,R,22,USA,7,true,false,false,pace,stamina
+Ivan Angulo,FW,L,27,COL,3,true,false,false,pace,stamina
+Dagur Dan Thorhallsson,MF,L,26,ISL,5,true,false,false,dribbling,pace
+Cesar Araujo,MF,R,25,URU,6,true,false,false,stamina,tackling
+David Brekalo,FB,L,27,SVN,4,true,false,false,stamina,pace
+Tyrese Spicer,FW,L,25,TRI,5,false,false,false,pace,dribbling
+Robin Jansson,CB,L,34,SWE,6,true,false,false,tackling,heading
+Kyle Smith,FB,R,34,USA,5,false,false,false,stamina,pace
+Joran Gerbet,MF,R,25,FRA,6,false,false,false,passing,pace
+Shakur Mohammed,FW,L,23,GHA,7,false,false,false,pace,dribbling
+Duncan Mcguire,FW,R,25,USA,3,false,false,false,heading,finishing
+Nicolas Rodriguez,FW,R,22,COL,5,false,false,false,pace,finishing
+Favian Loyola,MF,L,21,USA,6,false,false,false,passing,pace
+Rodrigo Schlegel,CB,R,29,ARG,7,true,false,false,tackling,marking
+Colin Guske,MF,R,19,USA,5,false,false,false,pace,passing
+Thomas Williams,CB,L,22,USA,6,false,false,false,stamina,heading
+Yutaro Tsukada,FW,L,25,JPN,7,false,false,false,pace,finishing
+Pedro Gallese,GK,L,36,PER,2,true,false,false,reflexes,rushing-out
+Tahir Reid Brown,FB,L,20,USA,6,false,false,false,pace,stamina
+Gustavo Caraballo,FW,L,18,VEN,7,false,false,false,pace,dribbling
+Carlos Mercado,GK,R,26,USA,1,false,false,false,penalty-saving,rushing-out
+Javier Otero,GK,R,23,VEN,5,false,false,false,penalty-saving,reflexes

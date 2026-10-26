@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Zakaria Seggari,GK,L,22,ALG,1,true,false,false,rushing-out,positioning
+Abdelkadir Salhi,GK,L,33,ALG,5,false,false,false,rushing-out,positioning
+Mohamed Abdelbarie Merhab,GK,L,21,ALG,6,false,false,false,reflexes,penalty-saving
+Ilyes Faical Haddouche,CB,R,28,ALG,7,true,false,false,marking,passing
+Fayçal Mebarki,CB,L,25,ALG,7,true,false,false,heading,marking
+Mohamed El Amine Nabi,FB,L,26,ALG,3,true,false,false,marking,crossing
+Joseph Adico,FB,L,24,ALG,5,false,false,false,tackling,stamina
+Abdenour Barkat,FB,R,22,ALG,6,false,false,false,passing,pace
+Riadh Dahmani,FB,R,29,ALG,7,true,false,false,tackling,stamina
+Khaled Mounir Allaoui,MF,R,21,ALG,3,false,false,false,playmaking,dribbling
+Housseyn Selmi,MF,R,33,ALG,6,false,false,false,passing,stamina
+Abdelhafid Benamara,MF,R,30,ALG,7,true,false,false,pace,dribbling
+Sid Ahmed Matallah,MF,R,30,ALG,4,true,false,false,finishing,playmaking
+Ilyes Atallah,MF,R,24,ALG,5,false,false,false,finishing,playmaking
+Adel Bouchiba,MF,R,37,ALG,6,false,false,false,dribbling,playmaking
+Mostapha Badaoui,MF,R,19,ALG,8,false,false,false,passing,finishing
+Constant Wayou,MF,R,29,ALG,4,true,false,false,finishing,passing
+Khalid Dahamni,MF,R,26,ALG,5,true,false,false,finishing,playmaking
+Abdel Hak Khoumani,MF,R,22,ALG,6,false,false,false,finishing,playmaking
+Mohamed Goumaidi,MF,R,21,ALG,9,false,false,false,playmaking,dribbling
+Anas Yusuf,FW,R,22,NGA,6,true,false,false,heading,finishing
+Ashiraf Ojo,FW,R,21,ALG,7,false,false,false,pace,finishing
+Oussama Bentaleb,FW,L,24,ALG,3,false,false,false,pace,finishing
+Nour El Islam Fettouhi,FW,R,26,ALG,5,false,false,false,heading,finishing
+Alimi Sikiru,FW,L,30,NGA,6,true,false,false,heading,stamina
+Guy Stéphane Bédi,FW,R,30,ALG,7,false,false,false,heading,stamina

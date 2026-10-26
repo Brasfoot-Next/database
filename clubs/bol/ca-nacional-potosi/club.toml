@@ -1,0 +1,13 @@
+name = "CA Nacional Potosí"
+country = "BOL"
+level = 10
+reputation = 2
+colors = ["#F0F0F0", "#F00000"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Willan Hoyos"
+country = "BRA"

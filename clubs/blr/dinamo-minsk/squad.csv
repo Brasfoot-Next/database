@@ -1,0 +1,21 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Egor Khatkevich,GK,R,34,BLR,10,true,false,false,positioning,rushing-out
+Andrey Sinenko,GK,R,25,BLR,7,false,false,false,rushing-out,penalty-saving
+Denis Shpakovskiy,GK,R,21,BLR,3,false,false,false,positioning,penalty-saving
+Roman Begunov,FB,R,29,BLR,4,true,false,false,crossing,marking
+Aleksey Vakulich,FB,L,24,BLR,3,true,false,false,crossing,marking
+Orinho,FB,L,27,BRA,3,false,false,false,crossing,marking
+Nikita Naumov,CB,R,32,BLR,4,true,false,false,tackling,heading
+Maksim Shvetsov,CB,L,24,BLR,8,true,false,false,marking,pace
+Vladislav Kalinin,CB,L,20,BLR,5,false,false,false,marking,pace
+Aleksandr Sachivko,CB,R,36,BLR,10,false,false,false,tackling,stamina
+Anton Putilo,MF,L,35,BLR,2,true,false,false,playmaking,pace
+Sergey Kislyak,MF,L,34,BLR,10,false,false,false,marking,finishing
+Artem Bykov,MF,R,29,BLR,4,true,false,false,passing,heading
+Mikhail Kozlov,MF,R,32,BLR,8,false,false,false,tackling,pace
+Nikita Demchenko,MF,R,19,BLR,10,true,false,false,passing,finishing
+Denis Grechikho,MF,L,23,BLR,10,true,false,false,tackling,finishing
+Ivan Bakhar,FW,R,24,BLR,2,true,false,false,finishing,dribbling
+Dusan Bakic,FW,L,23,MNE,6,false,false,false,finishing,pace
+Vladislav Lozhkin,FW,R,20,BLR,1,true,false,false,pace,crossing
+Dmitriy Latykhov,FW,R,19,BLR,6,false,false,false,pace,finishing

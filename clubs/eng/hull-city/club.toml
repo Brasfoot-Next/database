@@ -1,0 +1,13 @@
+name = "Hull City"
+country = "ENG"
+level = 14
+reputation = 3
+colors = ["#F08000", "#101020"]
+
+[stadium]
+name = "Estádio Municipal"
+capacity = 20000
+
+[coach]
+name = "Joe Coyle"
+country = "BRA"

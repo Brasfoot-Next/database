@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Shaquille Pinas,FB,L,28,SUR,7,true,false,false,pace,stamina
+John Buckley,MF,R,26,ENG,2,true,false,false,stamina,playmaking
+Myziane Maolida,FW,R,27,KSA,5,false,false,false,dribbling,pace
+Ramiro Enrique,FW,R,25,ARG,6,true,false,false,stamina,pace
+Hattan Bahebri,FW,L,34,KSA,7,false,false,false,stamina,pace
+Kevin Ndoram,MF,L,30,FRA,3,true,false,false,stamina,tackling
+Ramzi Solan,FB,R,28,KSA,5,true,false,false,pace,stamina
+Abdulrahman Al Dawsari,MF,R,28,KSA,6,true,false,false,stamina,pace
+Abdulrahman Al Safri,MF,R,33,KSA,7,false,false,false,stamina,passing
+Abdulfatah Aseri,MF,L,32,KSA,3,true,false,false,dribbling,pace
+Sultan Al Shehri,FB,L,31,KSA,7,false,false,false,pace,stamina
+William Troost Ekong,CB,L,33,NGA,2,true,false,false,heading,tackling
+Abdulaziz Al Olewah,FW,R,22,KSA,5,false,false,false,pace,dribbling
+Jamaan Al Dossary,CB,L,33,KSA,6,false,false,false,stamina,pace
+Guga,FW,R,19,BRA,7,true,false,false,pace,finishing
+Mohammed Sawaan,FW,L,26,KSA,3,false,false,false,pace,stamina
+Norbert Gyomber,CB,R,34,SVK,5,true,false,false,heading,tackling
+Hassan Al Asmari,FB,R,23,KSA,7,false,false,false,pace,stamina
+Nawaf Al Shwaier,FW,L,35,KSA,4,false,false,false,pace,crossing
+Meshari Al Oufi,FW,R,21,KSA,5,false,false,false,pace,playmaking
+Majed Khalifa,FW,R,22,KSA,7,false,false,false,pace,heading
+Abdullah Masoud,CB,R,24,KSA,3,false,false,false,pace,marking
+Abdulmalek Al Harbi,FW,L,20,KSA,5,false,false,false,pace,dribbling
+Juan Pablo Cozzani,GK,R,27,ARG,6,true,false,false,reflexes,positioning
+Jassim Al Ashban,GK,R,32,KSA,7,false,false,false,reflexes,penalty-saving
+Mohammed Al Shammari,GK,R,34,KSA,3,false,false,false,penalty-saving,reflexes

@@ -1,0 +1,23 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Ole Kristian Selnaes,MF,L,32,NOR,6,false,false,false,stamina,passing
+Iver Fossum,MF,R,30,NOR,7,true,false,false,stamina,dribbling
+Simen Bolkan Nordli,MF,L,26,NOR,3,true,false,false,stamina,passing
+Aslak Fonn Witry,FB,R,30,NOR,5,false,false,false,stamina,pace
+Adrian Nilsen Pereira,FB,L,27,NOR,6,false,false,false,stamina,pace
+Moustafa Zeidan,MF,L,28,NOR,6,true,false,false,dribbling,playmaking
+Santeri Vaananen,MF,R,24,FIN,8,true,false,false,stamina,pace
+Erlend Dahl Reitan,FB,R,28,NOR,4,true,false,false,stamina,pace
+David Duris,FW,L,27,SVK,5,true,false,false,passing,stamina
+Ulrik Yttergard Jenssen,FB,L,30,NOR,6,false,false,false,stamina,passing
+Ole Christian Saeter,FW,L,30,NOR,5,false,false,false,stamina,finishing
+Dino Islamovic,FW,L,32,MNE,6,false,false,false,stamina,finishing
+Jesper Reitan Sunde,FW,R,20,NOR,7,true,false,false,pace,dribbling
+Tomas Nemcik,CB,L,25,SVK,2,true,false,false,tackling,marking
+Tobias Solheim Dahl,CB,L,21,NOR,5,false,false,false,pace,passing
+Emil Ceide,FW,L,25,NOR,6,false,false,false,dribbling,pace
+Jonas Mortensen,FB,R,25,DEN,7,true,false,false,pace,stamina
+Mikkel Ceide,CB,R,25,NOR,3,false,false,false,stamina,pace
+Noah Donovan Sahsah,FW,L,21,DEN,5,false,false,false,pace,dribbling
+Hakon Volden,CB,R,19,NOR,6,true,false,false,pace,stamina
+Sander Tangvik,GK,R,23,NOR,4,true,false,false,penalty-saving,rushing-out
+Rasmus Sandberg,GK,R,25,NOR,5,false,false,false,reflexes,penalty-saving

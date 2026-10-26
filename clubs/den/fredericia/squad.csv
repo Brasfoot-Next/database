@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Moses Opondo,MF,R,28,UGA,5,false,false,false,stamina,pace
+Felix Vrede Winther,MF,L,26,DEN,6,false,false,false,stamina,pace
+Svenn Crone,FB,L,31,DEN,6,false,false,false,stamina,pace
+Andreas Pyndt,MF,R,25,DEN,10,true,false,false,pace,stamina
+Jonatan Lindekilde,MF,R,20,DEN,5,true,false,false,pace,passing
+Gustav Marcussen,FW,L,28,DEN,6,true,false,false,pace,stamina
+Agon Mucolli,FW,L,27,ALB,7,true,false,false,pace,dribbling
+Emilio Simonsen,FW,L,26,DEN,1,false,false,false,pace,dribbling
+Anders Dahl,FB,R,24,DEN,5,true,false,false,passing,pace
+Jakob Jessen,MF,L,22,DEN,6,true,false,false,pace,stamina
+Eskild Dall,FW,R,23,DEN,1,false,false,false,pace,heading
+Patrick Egelund,FW,R,26,DEN,5,false,false,false,finishing,dribbling
+Oscar Buch,FW,L,29,DEN,6,false,false,false,pace,finishing
+William Madsen,MF,R,24,DEN,7,false,false,false,pace,passing
+Daniel Freyr Kristjansson,FB,L,21,ISL,2,true,false,false,pace,stamina
+Daniel Haarbo,MF,R,23,DEN,4,false,false,false,stamina,passing
+Sofus Johannesen,MF,R,19,DEN,5,true,false,false,pace,passing
+Daniel Thogersen,FB,L,26,DEN,6,false,false,false,pace,stamina
+Frederik Rieper,CB,L,27,DEN,7,true,false,false,tackling,heading
+Adam Nygaard Andersen,CB,R,20,DEN,4,false,false,false,pace,tackling
+Martin Huldahl,FW,R,21,DEN,6,false,false,false,pace,finishing
+Jeppe Kudsk,CB,R,23,DEN,7,true,false,false,tackling,heading
+Malthe Ladefoged,CB,R,20,DEN,2,false,false,false,pace,tackling
+Etienne Green,GK,R,26,ENG,5,false,false,false,reflexes,penalty-saving
+Mattias Lamhauge,GK,R,27,FRO,6,true,false,false,positioning,penalty-saving
+Mads Eriksen,GK,R,22,DEN,7,false,false,false,rushing-out,reflexes

@@ -1,0 +1,26 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Rafal Kurzawa,MF,L,33,POL,7,false,false,false,stamina,crossing
+Sergio Guerrero,MF,R,27,ESP,2,true,false,false,passing,stamina
+Radu Boboc,FB,R,27,ROU,5,true,false,false,stamina,pace
+Jesús Jiménez,FW,R,32,ESP,6,true,false,false,dribbling,passing
+Maciej Ambrosiewicz,MF,L,28,POL,7,true,false,false,stamina,passing
+Krzysztof Kubica,MF,R,26,POL,2,true,false,false,heading,stamina
+Damian Hilbrycht,FW,L,28,POL,5,true,false,false,playmaking,crossing
+Kamil Zapolnik,FW,R,33,POL,6,false,false,false,stamina,finishing
+Maciej Wolski,FW,L,29,POL,7,true,false,false,stamina,pace
+Lucas Masoero,CB,R,31,ARG,3,true,false,false,stamina,heading
+Morgan Fassbender,FW,L,27,GER,4,false,false,false,pace,finishing
+Arkadiusz Kasperkiewicz,CB,L,31,POL,5,false,false,false,tackling,stamina
+Igor Strzalek,FW,R,22,POL,6,false,false,false,pace,playmaking
+Bartosz Kopacz,CB,R,34,POL,8,false,false,false,stamina,heading
+Artem Putivtsev,CB,L,38,UKR,4,false,false,false,heading,marking
+Wojciech Jakubik,MF,L,21,POL,5,true,false,false,pace,dribbling
+Gabriel Isik,CB,R,27,GER,6,true,false,false,tackling,heading
+Andrzej Trubeha,FW,R,28,POL,9,false,false,false,finishing,heading
+Dominik Biniek,MF,R,22,POL,5,false,false,false,pace,dribbling
+Noah Mrosek,MF,R,22,POL,6,false,false,false,pace,dribbling
+Thiago Dombroski,CB,L,24,BRA,7,false,false,false,pace,heading
+Diego Deisadze,FW,L,21,GEO,5,false,false,false,pace,heading
+Milosz Mleczko,GK,R,27,POL,6,false,false,false,penalty-saving,reflexes
+Adrian Chovan,GK,R,30,SVK,7,true,false,false,reflexes,penalty-saving
+Eric Topor,GK,R,21,POL,3,false,false,false,penalty-saving,reflexes

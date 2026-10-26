@@ -1,0 +1,38 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Julian Justvan,MF,L,28,GER,6,true,false,false,stamina,pace
+Mickael Biron,FW,L,29,FRA,7,true,false,false,pace,stamina
+Rafael Lubach,MF,R,21,GER,3,false,false,false,pace,dribbling
+Danilo,FB,L,34,BRA,5,false,false,false,marking,stamina
+Pape Demba Diop,MF,L,23,SEN,5,true,false,false,pace,passing
+Ondrej Karafiat,CB,R,31,CZE,6,false,false,false,pace,tackling
+Adam Markhiev,MF,R,24,FIN,8,false,false,false,stamina,passing
+Tom Baack,MF,R,27,GER,4,true,false,false,stamina,passing
+Finn Ole Becker,MF,L,26,GER,6,true,false,false,passing,stamina
+Henri Koudossou,FB,R,27,GER,7,true,false,false,pace,dribbling
+Benjamin Goller,FW,R,27,GER,7,false,false,false,pace,dribbling
+Semir Telalovic,FW,R,26,GER,4,false,false,false,stamina,heading
+Tim Janisch,FB,R,21,GER,5,true,false,false,pace,crossing
+Hindolo Mustapha,MF,R,20,SLE,6,false,false,false,pace,dribbling
+Adriano Grimaldi,FW,R,35,GER,7,false,false,false,pace,heading
+Justin Von Der Hitz,FW,R,19,GER,4,false,false,false,pace,dribbling
+Mohamed Ali Zoma,FW,R,22,ITA,5,false,false,false,pace,stamina
+Tim Drexler,CB,R,21,GER,6,true,false,false,tackling,pace
+Eryk Grzywacz,MF,R,20,POL,7,false,false,false,passing,dribbling
+Berkay Yilmaz,FB,L,21,TUR,4,false,false,false,pace,crossing
+Fabio Gruber,CB,L,24,GER,7,true,false,false,marking,tackling
+Robin Knoche,CB,R,34,GER,2,false,false,false,marking,heading
+Ayoub Chaikhoun,MF,R,21,MAR,5,false,false,false,dribbling,pace
+Artem Stepanov,FW,R,19,UKR,6,true,false,false,finishing,pace
+Noah Maboulou,FW,R,21,CGO,7,false,false,false,pace,heading
+Winners Osawe,MF,R,19,GER,3,false,false,false,pace,tackling
+Piet Scobel,FW,R,21,GER,5,false,false,false,heading,finishing
+Simon Joachims,FW,R,24,GER,6,false,false,false,pace,stamina
+Eric Porstner,FB,L,19,GER,7,false,false,false,pace,tackling
+Kristian Mandic,CB,L,18,CRO,3,false,false,false,pace,tackling
+Tino Kusanovic,FW,R,18,CRO,5,false,false,false,pace,finishing
+Luka Lochoshvili,CB,L,28,GEO,6,false,false,false,tackling,heading
+Tarek Buchmann,CB,R,21,GER,7,false,false,false,tackling,marking
+Michal Kukucka,GK,L,24,SVK,3,false,false,false,rushing-out,positioning
+Christian Mathenia,GK,R,34,GER,5,false,false,false,reflexes,penalty-saving
+Jan Reichert,GK,R,25,GER,6,false,false,false,reflexes,penalty-saving
+Robin Lisewski,GK,R,20,POL,7,true,false,false,reflexes,penalty-saving

@@ -1,0 +1,13 @@
+name = "Wellington Phoenix"
+country = "AUS"
+level = 6
+reputation = 1
+colors = ["#D0A000", "#FFFFFF"]
+
+[stadium]
+name = "Hnry Stadium"
+capacity = 36000
+
+[coach]
+name = "Jayden Rodrigues"
+country = "BRA"

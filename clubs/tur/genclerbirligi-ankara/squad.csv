@@ -1,0 +1,24 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Berk Deniz Çukurcu,GK,R,18,TUR,5,true,false,false,reflexes,penalty-saving
+Dimitrios Goutas,CB,R,32,GRE,6,true,false,false,heading,stamina
+Thalisson,CB,R,28,BRA,7,true,false,false,marking,passing
+Zan Zuzek,CB,L,29,SVN,4,false,false,false,tackling,pace
+Arda Çağan Çelik,CB,R,21,TUR,5,false,false,false,tackling,pace
+Kévin Rodrigues,FB,L,32,POR,6,true,false,false,crossing,passing
+Abdurrahim Dursun,FB,L,27,TUR,7,false,false,false,pace,tackling
+Hamza Aydar,FB,L,17,TUR,4,false,false,false,passing,crossing
+Pedro Pereira,FB,R,28,POR,5,true,false,false,marking,stamina
+Fıratcan Üzüm,FB,R,27,TUR,6,false,false,false,pace,dribbling
+Berat Can Sebat,FB,L,22,TUR,5,false,false,false,tackling,pace
+Emirhan Ünal,FB,R,21,TUR,6,false,false,false,marking,crossing
+Ousmane Diabate,MF,R,18,GUI,8,true,false,false,pace,dribbling
+Moussa Kyabou,MF,R,28,MLI,4,true,false,false,passing,tackling
+Peter Etebo,MF,R,30,NGA,5,false,false,false,pace,dribbling
+Franco Tongya,MF,R,24,ITA,6,true,false,false,pace,stamina
+Oğulcan Ülgün,MF,R,28,TUR,7,true,false,false,passing,stamina
+Ensar Kemaloğlu,MF,R,27,TUR,1,false,false,false,passing,pace
+Adama Traoré,FW,R,31,MLI,5,true,false,false,heading,pace
+Dilhan Demir,FW,L,23,GER,6,false,false,false,passing,pace
+Sékou Koïta,FW,L,26,MLI,8,true,false,false,pace,dribbling
+Ayaz Özcan,FW,R,25,TUR,4,false,false,false,crossing,pace
+Arda Akgül,FW,R,21,TUR,5,false,false,false,finishing,dribbling

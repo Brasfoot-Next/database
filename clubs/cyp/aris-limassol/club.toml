@@ -1,0 +1,13 @@
+name = "Aris Limassol"
+country = "CYP"
+level = 13
+reputation = 2
+colors = ["#006638", "#ffffff"]
+
+[stadium]
+name = "Tsirion Stadion"
+capacity = 13331
+
+[coach]
+name = "Aleksey Shpilevski"
+country = "BLR"

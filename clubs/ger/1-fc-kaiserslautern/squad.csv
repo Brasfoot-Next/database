@@ -1,0 +1,31 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Marlon Ritter,MF,R,31,GER,6,false,false,false,stamina,passing
+Erik Wekesser,FB,L,29,GER,7,true,false,false,pace,stamina
+Semih Sahin,MF,L,26,GER,1,true,false,false,stamina,passing
+Afeez Aremu,MF,R,26,NGA,5,true,false,false,tackling,marking
+Naatan Skytta,MF,L,24,FIN,6,true,false,false,stamina,passing
+Hendrick Zuck,FB,L,36,GER,7,false,false,false,crossing,marking
+Luca Sirch,CB,R,27,GER,2,true,false,false,tackling,stamina
+Tobias Raschl,MF,R,26,GER,5,true,false,false,stamina,playmaking
+Kenny Prince Redondo,FW,L,32,GER,7,false,false,false,pace,stamina
+Simon Asta,FW,R,25,GER,1,false,false,false,stamina,pace
+Florian Kleinhansl,FB,L,26,GER,2,true,false,false,stamina,crossing
+Daniel Hanslik,FW,L,29,GER,5,false,false,false,stamina,finishing
+Mahir Emreli,FW,L,29,GER,6,false,false,false,pace,dribbling
+Richmond Tachie,FW,R,27,GER,7,false,false,false,stamina,pace
+Maxwell Gyamfi,CB,R,26,GER,3,true,false,false,pace,stamina
+Jan Elvedi,CB,R,29,SUI,5,false,false,false,stamina,pace
+Ivan Prtajin,FW,R,30,CRO,6,true,false,false,heading,finishing
+Fabian Kunze,MF,R,28,GER,7,false,false,false,stamina,marking
+Paul Joly,FW,R,26,FRA,3,true,false,false,stamina,tackling
+Faride Alidou,FW,R,25,GER,6,false,false,false,pace,dribbling
+Dickson Abiama,FW,R,27,NGA,10,false,false,false,pace,dribbling
+Mika Haas,FW,L,21,GER,4,false,false,false,pace,stamina
+Leon Robinson,MF,R,25,GER,6,false,false,false,tackling,stamina
+Shawn Blum,FW,R,23,GER,7,false,false,false,pace,dribbling
+Kim Ji Soo,CB,L,21,KOR,1,false,false,false,heading,tackling
+Julian Krahl,GK,R,26,GER,5,false,false,false,reflexes,penalty-saving
+Avdo Spahic,GK,R,29,BIH,6,false,false,false,positioning,reflexes
+Simon Simoni,GK,R,22,ALB,7,true,false,false,penalty-saving,reflexes
+Fabian Heck,GK,R,21,GER,1,false,false,false,rushing-out,penalty-saving
+Enis Kamga,GK,R,19,GER,5,false,false,false,rushing-out,reflexes

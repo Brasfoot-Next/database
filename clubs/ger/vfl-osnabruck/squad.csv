@@ -1,0 +1,27 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Kai Proger,FW,R,34,GER,7,false,false,false,stamina,pace
+Robert Tesche,MF,R,39,GER,4,false,false,false,heading,stamina
+Bashkim Ajdini,FB,R,33,GER,5,true,false,false,stamina,pace
+Bryan Henning,MF,R,31,GER,6,true,false,false,stamina,playmaking
+Lars Kehl,FW,R,24,GER,7,false,false,false,dribbling,passing
+Patrick Kammerbauer,FW,R,29,GER,4,false,false,false,stamina,passing
+Fridolin Wagner,MF,R,28,GER,5,true,false,false,stamina,passing
+David Kopacz,MF,L,27,POL,6,true,false,false,stamina,pace
+Kevin Schumacher,FW,L,28,GER,7,true,false,false,pace,stamina
+Nikky Goguadze,FW,L,28,NED,4,true,false,false,pace,stamina
+Bjarke Jacobsen,MF,R,33,DEN,4,false,false,false,stamina,heading
+Frederik Christensen,FW,L,24,DEN,5,true,false,false,pace,stamina
+Niklas Wiemann,CB,L,27,GER,6,true,false,false,pace,stamina
+Luc Ihorst,FW,R,26,GER,6,false,false,false,pace,dribbling
+Jannik Muller,CB,R,32,GER,1,false,false,false,marking,pace
+Robin Meissner,FW,R,26,GER,4,false,false,false,pace,finishing
+Tony Lesueur,MF,L,26,FRA,5,true,false,false,pace,playmaking
+Ismail Badjie,FW,R,20,GAM,7,false,false,false,pace,finishing
+Kevin Wiethaup,MF,R,21,GER,1,false,false,false,pace,playmaking
+Theo Janotta,CB,R,22,GER,5,false,false,false,heading,pace
+Yigit Karademir,CB,R,22,TUR,2,false,false,false,pace,heading
+Bernd Riesselmann,FW,R,21,GER,5,false,false,false,finishing,pace
+Robin Fabinski,CB,L,23,GER,6,true,false,false,pace,heading
+Lukas Jonsson,GK,R,33,SWE,7,false,false,false,penalty-saving,positioning
+Niklas Sauter,GK,R,23,GER,7,true,false,false,penalty-saving,reflexes
+Mats Remberg,GK,R,20,GER,4,false,false,false,penalty-saving,reflexes

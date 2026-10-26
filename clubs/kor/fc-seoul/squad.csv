@@ -1,0 +1,37 @@
+name,position,side,age,country,potential,starter,star,world_class,trait1,trait2
+Jesse Lingard,MF,R,33,ENG,6,true,false,false,stamina,dribbling
+Jeong Seung Won,FW,R,29,KOR,7,false,false,false,stamina,pace
+Park Soo Il,FB,R,30,KOR,1,true,false,false,stamina,pace
+Anderson Oliveira,FW,L,28,BRA,5,true,false,false,pace,stamina
+Choi Jun,FB,R,27,KOR,6,true,false,false,stamina,pace
+Kim Jin Su,FB,L,34,KOR,8,false,false,false,pace,stamina
+Moon Seon Min,FW,L,34,KOR,4,false,false,false,pace,dribbling
+Lee Seung Mo,MF,R,28,KOR,6,true,false,false,stamina,pace
+Cho Young Wook,FW,R,27,KOR,7,false,false,false,pace,stamina
+Hwang Do Yun,MF,L,23,KOR,10,true,false,false,stamina,pace
+Ryu Jae Moon,MF,R,32,KOR,6,true,false,false,stamina,pace
+Patryk Klimala,FW,R,28,POL,7,true,false,false,pace,finishing
+Lucas Rodrigues,FW,L,27,BRA,4,false,false,false,pace,stamina
+Yazan Al Arab,CB,L,30,KOR,5,true,false,false,pace,marking
+Marko Dugandzic,FW,L,32,CRO,6,false,false,false,stamina,heading
+Lee Han Do,CB,L,32,KOR,8,false,false,false,stamina,pace
+Park Seong Hun,CB,R,23,KOR,4,false,false,false,stamina,heading
+Jung Han Min,FW,L,25,KOR,5,false,false,false,pace,dribbling
+Jeong Tae Wook,CB,R,29,KOR,6,false,false,false,heading,stamina
+Cheon Seong Hoon,FW,R,25,KOR,8,false,false,false,heading,finishing
+Son Seung Beom,FW,L,22,KOR,6,false,false,false,pace,stamina
+Lee Sang Min,CB,R,28,KOR,7,true,false,false,pace,heading
+Park Jang Han Gyeol,MF,R,22,KOR,3,false,false,false,pace,passing
+Kang Ju Hyeok,FW,L,20,KOR,5,false,false,false,pace,dribbling
+Heo Dong Min,MF,R,22,KOR,6,false,false,false,pace,passing
+Min Ji Hoon,MF,R,21,KOR,7,false,false,false,pace,passing
+Gbato Seloh Samuel,FW,L,20,CIV,3,false,false,false,pace,dribbling
+Cho Young Kwang,FB,R,22,KOR,5,false,false,false,stamina,pace
+Kim Hyeon Deok,CB,R,21,KOR,6,false,false,false,stamina,pace
+Bae Hyun Seo,FB,L,21,KOR,7,false,false,false,pace,stamina
+Choi Jun Yeong,CB,L,21,KOR,7,false,false,false,stamina,pace
+Kim Jee Won,CB,R,22,KOR,1,false,false,false,pace,stamina
+Kang Hyeon Mu,GK,R,31,KOR,5,true,false,false,reflexes,penalty-saving
+Choi Cheol Won,GK,R,32,KOR,6,false,false,false,penalty-saving,positioning
+Yun Ki Wook,GK,L,19,KOR,7,false,false,false,reflexes,rushing-out
+Lim Jun Sub,GK,R,23,KOR,2,false,false,false,reflexes,rushing-out
