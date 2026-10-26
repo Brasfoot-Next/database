@@ -1,0 +1,170 @@
+{
+  "format": 1,
+  "manifest": {
+    "format": 1,
+    "id": "brasfoot-next/database",
+    "kind": "base",
+    "name": "Brasfoot Next",
+    "description": "Banco oficial: times, elencos, ligas, estaduais e imagens",
+    "version": "2026.10"
+  },
+  "commit": "13fc36281bef66c1b03f3497871ef2e0a953f935",
+  "chunks": [
+    {
+      "file": "clubs-a.zip",
+      "sha256": "01ea5e49e24cce5784029768cf3d061047d9a565b61a01546258aabb4562fc03",
+      "size": 1107250,
+      "files": 240
+    },
+    {
+      "file": "clubs-b.zip",
+      "sha256": "6f022762e7a309e3def011463b33df4e18c851af8caae8512bbea771bbd2f1e7",
+      "size": 1715227,
+      "files": 365
+    },
+    {
+      "file": "clubs-c.zip",
+      "sha256": "1825bd7d54425a361bfb82095939da553bef7bf0d4b1583c9e0506ceb7559cf5",
+      "size": 1234060,
+      "files": 276
+    },
+    {
+      "file": "clubs-d.zip",
+      "sha256": "e4d69e9a06a94982c5f1c814c5d77d4b3d120df807d2577f1b9c72f3ee0adf73",
+      "size": 241053,
+      "files": 51
+    },
+    {
+      "file": "clubs-e.zip",
+      "sha256": "d6e49cbed5b3dfc63d004b98da776ac4ffb0f4edebefb0319a083b40d17b615f",
+      "size": 2842892,
+      "files": 611
+    },
+    {
+      "file": "clubs-f.zip",
+      "sha256": "70430dbab5083f885d286be53889cbfa2f60de93fae450054962f5a2d6c57a54",
+      "size": 880654,
+      "files": 166
+    },
+    {
+      "file": "clubs-g.zip",
+      "sha256": "d81b6226ccd7ff2bd1e237c6f373bb50b98d27f4705b571c9d735bf429049679",
+      "size": 1377444,
+      "files": 312
+    },
+    {
+      "file": "clubs-h.zip",
+      "sha256": "10f2f166089dfb10e6f4f4fb1ba7aa5d3124ac1e6f51b7d02ede2af822ed34f5",
+      "size": 109330,
+      "files": 28
+    },
+    {
+      "file": "clubs-i.zip",
+      "sha256": "abd204ac3eca9d5598b4bace6bd09f803babf55cbd76d2a16e701cbd9ec27506",
+      "size": 1145131,
+      "files": 253
+    },
+    {
+      "file": "clubs-j.zip",
+      "sha256": "4a15db6feaac87ba89a22be8a0a1df4e808297a29f15745ee976e19b960e72c4",
+      "size": 290740,
+      "files": 80
+    },
+    {
+      "file": "clubs-k.zip",
+      "sha256": "7011aac38668f66989fb659cecba678d3229274a88005e3025bdd6d86c4f4df9",
+      "size": 428836,
+      "files": 93
+    },
+    {
+      "file": "clubs-l.zip",
+      "sha256": "5ad0c4572e8940ecc06543053787d341a315859281267c56c1fcb5c8e5b4e57d",
+      "size": 187608,
+      "files": 39
+    },
+    {
+      "file": "clubs-m.zip",
+      "sha256": "57f917db71ca2e744b5207e8404777c1fb055b9b42c039bd0bfa6aa6c219a07e",
+      "size": 294249,
+      "files": 68
+    },
+    {
+      "file": "clubs-n.zip",
+      "sha256": "35bed693708c4944497ebb05617f1dbf7451bba760ad6d6dd1fbb2f2382d68ed",
+      "size": 710228,
+      "files": 165
+    },
+    {
+      "file": "clubs-p.zip",
+      "sha256": "6b820f4068747998581eda9681cf29c420e1c401b4b0955f3817a0382083e1c4",
+      "size": 1366488,
+      "files": 308
+    },
+    {
+      "file": "clubs-q.zip",
+      "sha256": "929b12db09e978c434ccc4443be3ea197562b344113b69efbc770fe90398fea6",
+      "size": 36716,
+      "files": 12
+    },
+    {
+      "file": "clubs-r.zip",
+      "sha256": "44254916f912e309ee29f21b80169a4f5c0c4eb47d9c39c49bcb19531d3b74cc",
+      "size": 600435,
+      "files": 137
+    },
+    {
+      "file": "clubs-s.zip",
+      "sha256": "f6c272c1b2febd5f641d72952c90d22f5dad863ff966f3129b17d2b2d04cf238",
+      "size": 1159239,
+      "files": 269
+    },
+    {
+      "file": "clubs-t.zip",
+      "sha256": "ec3852cd1581a57db4773d192beb8d367411b006e875c098165b14663167dc0f",
+      "size": 409014,
+      "files": 90
+    },
+    {
+      "file": "clubs-u.zip",
+      "sha256": "af8b4a94a12097b3976a337b6d940ef141925ce5f0b3231155ecdb98fa4dd204",
+      "size": 1126024,
+      "files": 233
+    },
+    {
+      "file": "clubs-v.zip",
+      "sha256": "52eca7853067c01f05cfce437992e23877a4c860ac70207d8ed559296e974533",
+      "size": 531991,
+      "files": 119
+    },
+    {
+      "file": "clubs-w.zip",
+      "sha256": "ddb0e04f6eeac769b962cad9de0d6fa7ffe23427da52b05bed691984d3810c7f",
+      "size": 27439,
+      "files": 4
+    },
+    {
+      "file": "clubs-z.zip",
+      "sha256": "4b6317909b158726271166b01ebae92238f1b67df6f8ac9cee07bbb654aafca6",
+      "size": 29825,
+      "files": 8
+    },
+    {
+      "file": "data.zip",
+      "sha256": "2624c5ab5aa430b1d5878552b91cfb6af6fd93f31b9569968d4dcfac84a7d27e",
+      "size": 1432833,
+      "files": 2586
+    },
+    {
+      "file": "national-teams.zip",
+      "sha256": "602eded0ec6d166e7af08355e5693d47363a506a199afb7799466cb958cd9660",
+      "size": 3581711,
+      "files": 669
+    },
+    {
+      "file": "trophies.zip",
+      "sha256": "99066a6f75d163650cf3fb583139cd40e6683ebfd59e401f5412d9d47d01e934",
+      "size": 2547361,
+      "files": 292
+    }
+  ]
+}
